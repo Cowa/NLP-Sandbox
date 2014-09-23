@@ -1,5 +1,6 @@
 require 'stemmify'
 require 'tokenizer'
+require 'engtagger'
 
 # Returns file's content as a string
 def pleaseReadFile(pathToFile)
@@ -16,13 +17,13 @@ end
 
 # Returns array of tokens (as string) of the given string
 def pleaseTokenize(toBeTokenized)
-    token = Tokenizer::Tokenizer.new(:en).tokenize(toBeTokenized)
+    token = Tokenizer::Tokenizer.new(:en).tokenize(toBeTokenized.downcase)
     return token
 end
 
 # Returns true if the given string is trash
 def pleaseIsItTrash?(potentialTrash)
-    if potentialTrash == '.' or potentialTrash == '..' or potentialTrash == '...' or potentialTrash == ',' or potentialTrash == '' or potentialTrash == ' ' or potentialTrash == "\n"
+    if potentialTrash == '.' or potentialTrash == '..' or potentialTrash == '...' or potentialTrash == ',' or potentialTrash == '' or potentialTrash == ' ' or potentialTrash == "\n" or potentialTrash == "\r" or potentialTrash == ".\r"
         return true
     else
         return false
@@ -48,6 +49,9 @@ def pleaseCheckThisDirectory(directory)
 
     puts 'Number of token: ' + wordOccurrence.size().to_s
     puts 'Number of stem:  ' + stemOccurrence.size().to_s
+
+    #puts wordOccurrence.sort_by{|k,v| v}.to_s
+    #puts stemOccurrence.sort_by{|k,v| v}.to_s
 end
 
 =begin
