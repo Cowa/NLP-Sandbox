@@ -17,8 +17,18 @@ for file in files:
 	fh.close()
 
 # Extract words from text files' content
+cursor = 0
+
 for fileContent in filesContent:
+	# Get the right number of the file (ex: fich11 => 11)
+	fileNumber = re.findall('\d+', files[cursor])
+	annotatedFile = open("txt/annotated_automatic/fich" + fileNumber[0] + ".txt", "wb")
 	regexp = re.compile("\w+", re.U)
+
 	for word in regexp.findall(fileContent):
-		print word
+		annotatedFile.write(word + " ")
+
+	cursor = cursor + 1
+
+annotatedFile.close()
 
