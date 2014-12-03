@@ -12,7 +12,7 @@ case class TextGenerator(alphabet: Alphabet) {
   def generateChar: String = {
     var acc = 0.0
     val probability = random
-    
+
     for (element <- alphabet.elements) {
       acc += element.probability
 
@@ -23,27 +23,28 @@ case class TextGenerator(alphabet: Alphabet) {
   }
 }
 
-case class MarkovChain(alphabet: Alphabet, states: List[State]) {
+case class MarkovChain(states: List[State]) {
   var currentState: State = states(0)
 
   def generate(length: Int): String = {
     currentState = initialState
     ""
   }
-  
+
+  /** Return the initial state based on the entrace probabilities */
   def initialState: State = {
     var acc = 0.0
     val probability = random
-    
+
     for (state <- states) {
-      acc += state.entranceProb
+      acc += state.entrance
       
       if (acc >= probability)
         return state
     }
-    return states(0)
+    states(0)
   }
 }
 
-case class State(entranceProb: Double, transitions: Map[State, Double])
+case class State(alphabet: Alphabet, entrance: Double)
 

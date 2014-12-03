@@ -7,33 +7,14 @@ object main {
                    )
 
     val generator = TextGenerator(alphabet)
-    println(generator.generate(5))
+    println(generator.generate(50))
     
-    // Markov states
-    lazy val state0: State = State(
-                        0.5,
-                        Map(
-                          state1 -> 0.25,
-                          state2 -> 0.25
-                        )
-                      )
-     lazy val state1: State = State(
-                        0.5,
-                        Map(
-                          state0 -> 0.5,
-                          state2 -> 0.25
-                        )
-                      )
-    lazy val state2: State = State(
-                        0.5,
-                        Map(
-                          state0 -> 0.5,
-                          state1 -> 0.25
-                        )
-                      )   
-
-
-    val markov = Markov(alphabet, List(state0, state1, state2))
+    val state0 = State(alphabet, 0.5)
+    val state1 = State(alphabet, 0.25)
+    val state2 = State(alphabet, 0.15)
+    
+    val markov = MarkovChain(List(state0, state1, state2))
+    markov.generate(50)
   }
 }
 
