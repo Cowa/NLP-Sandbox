@@ -14,14 +14,16 @@ import pprint
  Please, join us.
 """
 
-# Word Net lemmatizer
-wnl = nltk.WordNetLemmatizer()
+# Stemmer
+porter = nltk.PorterStemmer()
+lancaster = nltk.LancasterStemmer()
 
 # Get text files
 files = glob.glob("txt/*.txt")
 
 filesContent = []
-wordAndLemma = dict()
+wordAndStemP = dict()
+wordAndStemL = dict()
 
 # Get all text files' content
 for file in files:
@@ -29,16 +31,19 @@ for file in files:
     filesContent.append(fh.read())
     fh.close()
 
-# Tokenize & lemmatize
+# Tokenize & stemmatize
 for fileContent in filesContent:
     regexp = re.compile("\w+", re.U)
 
     for word in regexp.findall(fileContent):
-        wordAndLemma[word] = wnl.lemmatize(word)
+        wordAndStemP[word] = porter.stem(word)
+        wordAndStemL[word] = lancaster.stem(word)
 
 # Result
 pp = pprint.PrettyPrinter(indent=2)
-pp.pprint(wordAndLemma)
+pp.pprint(wordAndStemP)
+pp.pprint(wordAndStemL)
 
-print "Vocabulary size : %d" % len(wordAndLemma)
-print "Lemma size : %d" % len(set(wordAndLemma.values()))
+print "Vocabulary size : %d" % len(wordAndStemP)
+print "Stem size Porter : %d" % len(set(wordAndStemP.values()))
+print "Stem size Lancaster : %d" % len(set(wordAndStemL.values()))
