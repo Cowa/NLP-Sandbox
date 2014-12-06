@@ -40,5 +40,5 @@ for fileContent in filesContent:
 pp = pprint.PrettyPrinter(indent=2)
 pp.pprint(wordAndLemma)
 
-print "Vocabulary size : %d" % len(wordAndLemma)
-print "Lemma size : %d" % len(set(wordAndLemma.values()))
+print("Vocabulary size : %d" % len(wordAndLemma))
+print("Lemma size : %d" % len(set(wordAndLemma.values())))
