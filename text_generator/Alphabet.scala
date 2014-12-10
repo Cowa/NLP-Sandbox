@@ -1,5 +1,9 @@
-/** An alphabet is composed of several elements */
-case class Alphabet(elements: List[Element])
+package me.verticale
 
-/** An element has a content and a probability to be generated */
-case class Element(content: String, prob: Double)
+/** An alphabet is composed of several elements associated with a probability
+  */
+case class Alphabet(elements: List[(Element, Double)])
+
+/** An element
+  */
+case class Element(val content: String)
