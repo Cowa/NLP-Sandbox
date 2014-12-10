@@ -2,7 +2,11 @@ package me.verticale
 
 object main {
   def main(args: Array[String]) {
+    println("\nClassic text generator\n")
     textGenerator()
+
+    println("\nHere comes Markov\n")
+    markovChains()
   }
 
   def textGenerator() {
@@ -40,6 +44,19 @@ object main {
   }
 
   def markovChains() {
-    Array(Element("a"), Element("b"), Element("c"))
+    // States
+    val states = Array(Element("a"), Element("b"), Element("c"))
+
+    // Transitions
+    val transitions = Array(
+      Array(0.1, 0.7, 0.2),
+      Array(0.2, 0.2, 0.6),
+      Array(0.4, 0.1, 0.5)
+    )
+
+    val markov = MarkovChains(0, states, transitions)
+    val generatedMarkov = markov.generate(50)
+
+    println(generatedMarkov)
   }
 }
