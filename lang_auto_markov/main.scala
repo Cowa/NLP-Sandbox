@@ -7,6 +7,9 @@ object main {
 
     println("\nHere comes Markov\n")
     markovChains()
+
+    println("\nCounter\n")
+    sequenceCounter()
   }
 
   def textGenerator() {
@@ -58,5 +61,15 @@ object main {
     val generatedMarkov = markov.generate(50)
 
     println(generatedMarkov)
+  }
+
+  def sequenceCounter() {
+    val toFind = Array(Element("a"), Element("b"), Element("b"), Element("a"))
+    val inside = Array(
+      Element("a"), Element("b"), Element("r"), Element("a"), Element("c"), Element("a"), Element("d"), Element("a"),
+      Element("b"), Element("r"), Element("a"), Element("d"), Element("a"), Element("b"), Element("r"), Element("a")
+    )
+    val s = SequenceCounter()
+    println(s.count(toFind, inside))
   }
 }
