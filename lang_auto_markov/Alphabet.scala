@@ -6,4 +6,6 @@ case class Alphabet(elements: List[(Element, Double)])
 
 /** An element
   */
-case class Element(val content: String)
+case class Element(val content: String) {
+  override def toString(): String = content
+}
