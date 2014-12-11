@@ -64,12 +64,13 @@ object main {
   }
 
   def sequenceCounter() {
-    val toFind = Array(Element("a"), Element("b"), Element("b"), Element("a"))
+    var toFind = Array(Element("a"), Element("b"), Element("b"), Element("a"))
     val inside = Array(
       Element("a"), Element("b"), Element("r"), Element("a"), Element("c"), Element("a"), Element("d"), Element("a"),
       Element("b"), Element("r"), Element("a"), Element("d"), Element("a"), Element("b"), Element("r"), Element("a")
     )
-    val s = SequenceCounter()
-    println(s.count(toFind, inside))
+
+    println("ABBA in ABRACADABRADABRA")
+    println(SequenceCounter().count(toFind, inside))
   }
 }

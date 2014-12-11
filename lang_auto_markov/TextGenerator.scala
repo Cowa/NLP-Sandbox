@@ -12,7 +12,7 @@ case class TextGenerator(alphabet: Alphabet) {
     */
   def generate(length: Int, acc: List[Element] = List()): List[Element] = length match {
     case 0 => acc
-    case _ => generate(length - 1, generateOne() :: acc)
+    case _ => generate(length - 1, acc :+ generateOne())
   }
 
   /** Generate a single element
