@@ -1,0 +1,5 @@
+The U.S. drilling rig count fell by four last week to a total of 758 , against 723 working rigs at this time last year , <ORGANIZATION>Baker Hughes Inc</ORGANIZATION> said .
+In <LOCATION>Canada</LOCATION> , the weekly rig count rose 19 to 100 , compared to 46 working rigs last year .
+Among individual states , the steepest declines were in <LOCATION>Oklahoma</LOCATION> and <LOCATION>Louisiana</LOCATION> which lost eight and seven , respectively .
+Drilling increases were reported by <LOCATION>Michigan</LOCATION> , up by five rigs , and <LOCATION>Ohio</LOCATION> and <LOCATION>Pennsylvania</LOCATION> which each rose by three .
+<ORGANIZATION>Baker Hughes</ORGANIZATION> said the total of 758 working rigs in the <LOCATION>United States</LOCATION> included 84 rigs working in offshore waters .

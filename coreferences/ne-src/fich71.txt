@@ -1,0 +1,3 @@
+<ORGANIZATION>SciMed Life Systems Inc SMLS</ORGANIZATION> said <ORGANIZATION>Bristol-Myers Co</ORGANIZATION> is analyzing the pending lawsuit brought against <ORGANIZATION>SciMed</ORGANIZATION> by <ORGANIZATION>Advanced Cardiovascular Systems Inc</ORGANIZATION> to determine whether to consummate its previously announced plans to merge with <ORGANIZATION>SciMed</ORGANIZATION> .
+The company said its was served the suit in <LOCATION>Minneapolis</LOCATION> on March 31 , the day after it announced its definitive merger agreement with <ORGANIZATION>Bristol-Myers</ORGANIZATION> .
+<ORGANIZATION>SciMed</ORGANIZATION> said the suit , which alleges that <ORGANIZATION>SciMed</ORGANIZATION> infringed on Advanced Cardiovascular patents , is without merit .

@@ -1,0 +1,5 @@
+The <LOCATION>New York</LOCATION> <ORGANIZATION>Coffee , Sugar and Cocoa Exchange </ORGANIZATION> ( <ORGANIZATION>CSCE </ORGANIZATION> ) elected former first vice chairman <PERSON>Gerald Clancy</PERSON> to a two-year term as chairman of the board of managers , replacing previous chairman <PERSON>Howard Katz</PERSON> .
+<PERSON>Katz</PERSON> , chairman since 1985 , will remain a board member .
+<PERSON>Clancy</PERSON> currently serves on the Exchange board of managers as chairman of its appeals , executive , pension and political action committees .
+The <ORGANIZATION>CSCE</ORGANIZATION> also elected <PERSON>Charles Nastro</PERSON> , executive vice president of <ORGANIZATION>Shearson Lehman Bros</ORGANIZATION> , as first vice chairman .
+<PERSON>Anthony Maccia</PERSON> , vice president of <ORGANIZATION>Woodhouse , Drake and Carey</ORGANIZATION> , was named second vice chairman , and <PERSON>Clifford Evans</PERSON> , president of <ORGANIZATION>Demico Futures</ORGANIZATION> , was elected treasurer .

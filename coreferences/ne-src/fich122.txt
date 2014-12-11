@@ -1,0 +1,5 @@
+UAE Oil Minister <PERSON>Mana Said al-Oteiba</PERSON> arrived in <LOCATION>Alexandria</LOCATION> last night for a visit to <LOCATION>Egypt</LOCATION> , the national <ORGANIZATION>Middle East News Agency</ORGANIZATION> ( <ORGANIZATION>MENA</ORGANIZATION> ) said .
+It said <PERSON>Oteiba</PERSON> , who had just attended the <ORGANIZATION>OPEC</ORGANIZATION> ministerial meeting in <LOCATION>Vienna</LOCATION> , would stay for several days but gave no details .
+Non-OPEC <LOCATION>Egypt</LOCATION> has pledged to restrain output to support <ORGANIZATION>OPEC</ORGANIZATION> 's moves to boost oil prices .
+Oil Minister <PERSON>Abdel Hadi Kandeel</PERSON> last week said <LOCATION>Egypt</LOCATION> plans to leave its oil production of 870,000 barrels per day unchanged for the next five years .
+<LOCATION>Egypt</LOCATION> is able to produce up to one mln bpd .

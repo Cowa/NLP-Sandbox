@@ -1,0 +1,4 @@
+Iranian Premier <PERSON>Mir-Hossein Mousavi</PERSON> reiterated his country would retaliate for <ORGANIZATION>U.S. Navy</ORGANIZATION> attacks on <ORGANIZATION>Gulf</ORGANIZATION> oil platforms .
+" The <LOCATION>U.S.</LOCATION> Attack on <LOCATION>Iran</LOCATION> 's oil platforms jeopardises our national sovereignty ... And we will retaliate properly for this perfidious American aggression , " <PERSON>Mousavi</PERSON> told a news conference in <LOCATION>Damascus</LOCATION> .
+On Monday <ORGANIZATION>U.S. Navy</ORGANIZATION> warships blasted the Rostam platform , and <ORGANIZATION>Navy</ORGANIZATION> personnel stormed a second platform a few miles away .
+<LOCATION>Washington</LOCATION> said the operation was aimed at destroying positions used by <LOCATION>Iran</LOCATION> to track and assault neutral <LOCATION>Gulf</LOCATION> shipping .
