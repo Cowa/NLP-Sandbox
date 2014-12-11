@@ -29,14 +29,18 @@ def extractTextFromFolder(folder):
 # @param text A string containing the text
 #
 # @return A dictionnary (key -> type, values -> array of named entities)
+#         Example: {'LOCATION': ['Hong-Kong', 'Mars', 'Nantes']}
 #
 def extractNamedEntity(text):
-    matched = re.match(r"<(.*?)>(.*?)</(.*?)>", text)
+    matched = re.findall(r"<(.*?)>(.*?)</(.*?)>", text)
     namedEntities = dict()
 
-    if matched:
-        print matched.group(1) + ": " + matched.group(2)
-        namedEntities[matched.group(1)].append(matched.group(2))
+    for match in matched:
+        if match[0] in namedEntities:
+            namedEntities[match[0]].append(match[1])
+        else:
+            namedEntities[match[0]] = [match[1]]
+    return namedEntities
 
 ##
 # Main program
@@ -44,4 +48,4 @@ def extractNamedEntity(text):
 texts = extractTextFromFolder(sys.argv[1])
 
 for text in texts:
-    extractNamedEntity(text)
+    print extractNamedEntity(text)
