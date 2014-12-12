@@ -72,5 +72,24 @@ object main {
 
     println("ABBA in ABRACADABRADABRA")
     println(SequenceCounter().count(toFind, inside))
+
+    val alphabet = Alphabet(List(
+      (Element("a"), 0.25),
+      (Element("b"), 0.25),
+      (Element("c"), 0.5 )))
+
+    /** Basic text generator based on alphabet */
+    val generator = TextGenerator(alphabet)
+
+    // Average on 10 generated text of 3 to 50 length text
+    for (i <- 3 to 50 by 2) {
+      var sum = 0
+
+      for (j <- 0 to 10) {
+        val generated = generator.generate(i)
+        sum += SequenceCounter().count(toFind, generated.toArray)
+      }
+      println(sum / 10)
+    }
   }
 }
