@@ -12,15 +12,15 @@ case class MarkovChains(var current: Int, states: Array[Element], transitions: A
 
   /** Generate a text with the given length
     */
-  def generate(length: Int, acc: String = ""): String = length match {
+  def generate(length: Int, acc: List[Element] = List()): List[Element] = length match {
     case 0 => acc
-    case _ => generate(length - 1, acc + generateOne())
+    case _ => generate(length - 1, acc :+ generateOne())
   }
 
   /** Generate a single element
     */
-  def generateOne(): String = {
-    val result = states(current).content
+  def generateOne(): Element = {
+    val result = states(current)
 
     changeState()
 

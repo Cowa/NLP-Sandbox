@@ -10,18 +10,18 @@ case class TextGenerator(alphabet: Alphabet) {
 
   /** Generate a text with the given length
     */
-  def generate(length: Int, acc: String = ""): String = length match {
+  def generate(length: Int, acc: List[Element] = List()): List[Element] = length match {
     case 0 => acc
-    case _ => generate(length - 1, acc + generateOne())
+    case _ => generate(length - 1, acc :+ generateOne())
   }
 
   /** Generate a single element
     */
-  def generateOne(acc: Double = 0.0, prob: Double = random): String = {
-    def rec(elements: List[(Element, Double)], prob: Double, acc: Double): String = elements match {
-      case (e, p) :: t if (acc + p >= prob) => e.content
+  def generateOne(acc: Double = 0.0, prob: Double = random): Element = {
+    def rec(elements: List[(Element, Double)], prob: Double, acc: Double): Element = elements match {
+      case (e, p) :: t if (acc + p >= prob) => e
       case (e, p) :: t => rec(t, prob, acc + p)
-      case List() => ""
+      case List() => Element("Nope")
     }
     rec(alphabet.elements, prob, acc)
   }
