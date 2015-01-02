@@ -2,7 +2,7 @@
 # coding: utf-8
 # author: Brice Thomas
 
-import re, sys, glob, codecs
+import os, re, sys, glob, codecs
 
 ##
 # Extract text content from the given folder
@@ -40,12 +40,15 @@ def extractNamedEntity(text):
             namedEntities[match[0]].append(match[1])
         else:
             namedEntities[match[0]] = [match[1]]
+
     return namedEntities
 
 ##
-# Main program
+# Extract file's name from the given folder
 #
-texts = extractTextFromFolder(sys.argv[1])
-
-for text in texts:
-    print extractNamedEntity(text)
+# @param folder Path to the folder
+#
+# @return An array containing the name of each files
+#
+def extractFileName(folder):
+    return [os.path.basename(x) for x in glob.glob(folder + "*.txt")]
