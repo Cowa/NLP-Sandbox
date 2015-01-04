@@ -13,29 +13,52 @@ import sys, extract_named_entity as e
 # @return Create a new file .ref
 #
 def launchCoreferences(namedEntities, filesName):
-    cursor = 0
+    result = []
+    print(namedEntities)
     for named in namedEntities:
-        computeCoreferences(named)
+        result.append(computeCoreferences(named))
 
-def computeCoreferences(namedEntities):
-    uniqid = 1
+    #print(result)
+
+##
+# Compute coreferences of the given named entities dict
+#
+# @param namedEntities A dictionnary (key -> type, values -> array of named entities with index)
+#                      Example: {'LOCATION': [(1, 'Hong-Kong'), (2, 'Mars'), (3, 'Nantes')]}
+#
+def computeCoreferences(wholeNamedEntities):
     coreferences = []
 
-    for key in namedEntities.keys():
-        entities = namedEntities[key]
-        toSet = list(set(entities))
+    for key in wholeNamedEntities.keys():
+        entities = wholeNamedEntities[key]
+        coreferences.append(actuallyComputeCoreferences(entities))
+
+    return coreferences
+##
+# Actually compute coreferences
+#
+# @param namedEntities Array of values with index
+#                      Example: [(1, 'Hong-Kong'), (2, 'Mars'), (3, 'Mars'), (4, 'Nantes')]
+#
+# @return The coreferences in a matrix
+#         Example: [
+#                    [ (2, 'Mars'), (3, 'Mars') ],
+#                    [ (1, 'Hong-Kong') ],
+#                    [ (4, 'Nantes') ]
+#                  ]
+#
+def actuallyComputeCoreferences(namedEntities):
+    return [[namedEntities[0], namedEntities[0]], [namedEntities[0], namedEntities[0]]]
 
 ##
 # Main program
 #
-
 texts = e.extractTextFromFolder(sys.argv[1])
 filesName = e.extractFileName(sys.argv[1])
 namedEntitiesByFiles = []
 
 # Put all named entities by files into an array
 for text in texts:
-    #namedEntitiesByFiles.append(e.extractNamedEntity(text))
-    print(e.extractNamedEntity(text))
+    namedEntitiesByFiles.append(e.extractNamedEntity(text))
 
-#launchCoreferences(namedEntitiesByFiles, filesName)
+launchCoreferences(namedEntitiesByFiles, filesName)

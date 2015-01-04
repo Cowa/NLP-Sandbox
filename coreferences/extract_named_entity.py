@@ -32,9 +32,9 @@ def extractTextFromFolder(folder):
 #         Example: {'LOCATION': [(1, 'Hong-Kong'), (2, 'Mars'), (3, 'Nantes')]}
 #
 def extractNamedEntity(text):
-    matched = re.findall(r"<(.*?)>(.*?)</(.*?)>", text)
-    namedEntities = dict()
     index = 1
+    namedEntities = dict()
+    matched = re.findall(r"<(.*?)>(.*?)</(.*?)>", text)
 
     for match in matched:
         if match[0] in namedEntities:
@@ -42,6 +42,7 @@ def extractNamedEntity(text):
         else:
             namedEntities[match[0]] = [(index, match[1])]
         index = index + 1
+
     return namedEntities
 
 ##
