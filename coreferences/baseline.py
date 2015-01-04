@@ -24,9 +24,6 @@ def computeCoreferences(namedEntities):
     for key in namedEntities.keys():
         entities = namedEntities[key]
         toSet = list(set(entities))
-        print(len(toSet))
-        print(len(entities))
-        print()
 
 ##
 # Main program
@@ -38,6 +35,7 @@ namedEntitiesByFiles = []
 
 # Put all named entities by files into an array
 for text in texts:
-    namedEntitiesByFiles.append(e.extractNamedEntity(text))
+    #namedEntitiesByFiles.append(e.extractNamedEntity(text))
+    print(e.extractNamedEntity(text))
 
-launchCoreferences(namedEntitiesByFiles, filesName)
+#launchCoreferences(namedEntitiesByFiles, filesName)
