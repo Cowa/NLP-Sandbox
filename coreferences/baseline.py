@@ -14,11 +14,11 @@ import sys, extract_named_entity as e
 #
 def launchCoreferences(namedEntities, filesName):
     result = []
-    print(namedEntities)
+
     for named in namedEntities:
         result.append(computeCoreferences(named))
 
-    #print(result)
+    print(result)
 
 ##
 # Compute coreferences of the given named entities dict
@@ -31,9 +31,10 @@ def computeCoreferences(wholeNamedEntities):
 
     for key in wholeNamedEntities.keys():
         entities = wholeNamedEntities[key]
-        coreferences.append(actuallyComputeCoreferences(entities))
+        coreferences.extend(actuallyComputeCoreferences(entities))
 
     return coreferences
+
 ##
 # Actually compute coreferences
 #
@@ -48,7 +49,35 @@ def computeCoreferences(wholeNamedEntities):
 #                  ]
 #
 def actuallyComputeCoreferences(namedEntities):
-    return [[namedEntities[0], namedEntities[0]], [namedEntities[0], namedEntities[0]]]
+    cluster = []
+    for entity in namedEntities:
+        result = betterFilter(simpleFilter, namedEntities, entity)
+        if result not in cluster:
+            cluster.append(betterFilter(simpleFilter, namedEntities, entity))
+
+    return cluster
+
+##
+# Baseline filter
+#
+# @param x The current list element
+# @param y The base element to compare with
+#
+# @return true if same value
+#
+def simpleFilter(x, y):
+    return x[1] == y[1]
+
+##
+# A better (for me) list filter
+#
+def betterFilter(callback, list, item):
+    l = []
+
+    for element in list:
+       if callback(element, item): l.append(element)
+
+    return l
 
 ##
 # Main program
