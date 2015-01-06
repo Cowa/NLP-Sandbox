@@ -27,4 +27,7 @@ namedEntitiesByFiles = []
 for text in texts:
     namedEntitiesByFiles.append(e.extractNamedEntity(text))
 
-m.launchCoreferences(namedEntitiesByFiles, filesName, baseLineFilter)
+result = m.launchCoreferences(namedEntitiesByFiles, filesName, baseLineFilter)
+m.exportToRefFile(result)
+
+print("\nExport done, see result.ref")

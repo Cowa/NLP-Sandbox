@@ -26,6 +26,8 @@ def launchCoreferences(namedEntities, filesName, filterWay):
 
     print(result)
 
+    return result
+
 ##
 # Compute coreferences of the given named entities dict
 #
@@ -83,3 +85,22 @@ def betterFilter(callback, list, item):
        if callback(element, item): l.append(element)
 
     return l
+
+##
+# Export the given clusters references by files to a .ref (as specified)
+#
+# @param clusterReferences The result of launchCoreferences function
+#
+def exportToRefFile(clusterReferences):
+    refFile = open("result.ref", "wb")
+
+    for key in clusterReferences.keys():
+        lineFile = key + "\t"
+        clusters = clusterReferences[key]
+
+        for cluster in clusters:
+            for entity in cluster:
+                lineFile = lineFile + str(entity[0]) + ","
+
+            lineFile = lineFile[:-1] + ";"
+        refFile.write(lineFile[:-1] + "\n")
