@@ -10,13 +10,18 @@ import sys, extract_named_entity as e
 # @param namedEntities Array of named entities dict by files
 # @param filesName     Array with files name (in same order than namedEntities)
 #
-# @return Create a new file .ref
+# @return Corefences clusters by files, an awesome dict structured this way :
+#         {
+#           fileName: [ [cluster1], [cluster2], [cluster3] ]
+#         }
 #
 def launchCoreferences(namedEntities, filesName):
-    result = []
+    result = dict()
+    cursor = 0
 
     for named in namedEntities:
-        result.append(computeCoreferences(named))
+        result[filesName[cursor]] = computeCoreferences(named)
+        cursor = cursor + 1
 
     print(result)
 
@@ -50,8 +55,10 @@ def computeCoreferences(wholeNamedEntities):
 #
 def actuallyComputeCoreferences(namedEntities):
     cluster = []
+
     for entity in namedEntities:
         result = betterFilter(simpleFilter, namedEntities, entity)
+
         if result not in cluster:
             cluster.append(betterFilter(simpleFilter, namedEntities, entity))
 
