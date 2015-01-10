@@ -6,7 +6,8 @@ import string, re
 import sys, extract_named_entity as e
 import make_cluster_coreferences as m
 
-removeLower = lambda text: re.sub('[a-z]', '', text)
+def removeLower(text):
+    return re.sub('[a-z.-]', '', text)
 
 ##
 # Baseline + contained filter
