@@ -1,0 +1,3 @@
+<PERSON>Jorio Dauster</PERSON> , president of the <ORGANIZATION>Brazilian Coffee Institute</ORGANIZATION> , <ORGANIZATION>IBC</ORGANIZATION> , left <LOCATION>Brazil</LOCATION> early today to attend a weekend meeting of Latin American coffee producers in <LOCATION>Managua</LOCATION> , an <ORGANIZATION>IBC</ORGANIZATION> official said .
+<PERSON>Carlos Brasil</PERSON> , an adviser to the <ORGANIZATION>IBC</ORGANIZATION> president , said <PERSON>Dauster</PERSON> had left <LOCATION>Rio de Janeiro</LOCATION> for <LOCATION>Managua</LOCATION> early this morning .
+There were rumours on the <LOCATION>London</LOCATION> coffee market earlier today that <PERSON>Dauster</PERSON> would not attend the meeting .

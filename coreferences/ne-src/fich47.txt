@@ -1,0 +1,4 @@
+<ORGANIZATION>USAir Group Inc</ORGANIZATION> said a <ORGANIZATION>U.S. District Court</ORGANIZATION> in <LOCATION>Pittsburgh</LOCATION> issued a temporary restraining order to prevent <ORGANIZATION>Trans World Airlines Inc</ORGANIZATION> from buying additional <ORGANIZATION>USAir</ORGANIZATION> shares .
+<ORGANIZATION>USAir</ORGANIZATION> said the order was issued in response to its suit , charging <ORGANIZATION>TWA</ORGANIZATION> chairman <PERSON>Carl Icahn</PERSON> and <ORGANIZATION>TWA</ORGANIZATION> violated federal laws and made misleading statements .
+<ORGANIZATION>TWA</ORGANIZATION> last week said it owned 15 pct of <ORGANIZATION>USAir</ORGANIZATION> 's shares .
+It also offered to buy the company for 52 dlrs a share cash or 1.4 billion dlrs .

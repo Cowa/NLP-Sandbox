@@ -1,0 +1,3 @@
+The <LOCATION>New York</LOCATION> brokerage firm of <ORGANIZATION>Spear , Leeds and Kellogg</ORGANIZATION> told the <ORGANIZATION>Securities and Exchange Commission</ORGANIZATION> it had increased its preferred stock in <ORGANIZATION>Allegheny International Inc</ORGANIZATION> to 8.6 pct , from 7 pct .
+It said it may buy additional shares , but had not decided whether to offer its shares in response to a tender offer by <ORGANIZATION>Sunter Acquisition Corp</ORGANIZATION> , a unit of <ORGANIZATION>First Boston Inc.</ORGANIZATION> .
+The brokerage firm said it bought the <ORGANIZATION>Allegheny</ORGANIZATION> shares March 30-April 2 for 86.50-87 .25 dlrs each .

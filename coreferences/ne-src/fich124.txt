@@ -1,0 +1,3 @@
+Iranian Oil Minister <PERSON>Gholamreza Aqazadeh</PERSON> arrived in <LOCATION>Algiers</LOCATION> at the head of a large delegation for talks on stabilizing oil prices , the official news agency <ORGANIZATION>APS</ORGANIZATION> said .
+In a brief arrival statement , he said <LOCATION>Iran</LOCATION> and <LOCATION>Algeria</LOCATION> were engaged in " continuous and stronger cooperation " on the world petroleum market and had " deployed considerable efforts to stablise petroleum prices .
+" He was greeted on arrival by <PERSON>Belkacem Nabi</PERSON> , the Algerian Minister of Energy , Chemical and Petro-Chemical Industries .
