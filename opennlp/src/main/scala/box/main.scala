@@ -9,6 +9,8 @@ import opennlp.tools.tokenize.TokenizerModel
 import opennlp.tools.postag.POSTaggerME
 import opennlp.tools.postag.POSModel
 
+import twitter4j._
+
 /** Sandbox of every components
   */
 object main {
@@ -34,6 +36,7 @@ object main {
     )
 
   def main(args: Array[String]) {
+    /*
     val testingText = "Hello Mr. John. What do you need ? That's nice to see you again"
 
     val sentDetected = sentenceDetector.sentDetect(testingText)
@@ -48,5 +51,19 @@ object main {
 
     val postaggedSentences = tokens.map(tagger.tag(_))
     postaggedSentences.foreach(println)
+    */
+
+    //
+    // Twitter stream !
+    //
+    val twitterStream = new TwitterStreamFactory(secret.config).getInstance
+
+    twitterStream.addListener(TwitterStream.simpleStatusListener)
+    twitterStream.filter(new FilterQuery().track(Array("bonjour")))
+
+    Thread.sleep(5000)
+
+    twitterStream.cleanUp
+    twitterStream.shutdown
   }
 }
