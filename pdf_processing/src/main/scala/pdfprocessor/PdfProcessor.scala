@@ -10,11 +10,10 @@ object PdfProcessor {
 
   /** This. is. main !
     *
-    * @param args Classical command line arguments
-    *             Only the first one is used: path to the PDF file
+    * @param args Classical command line arguments :
+    *               - #1 path to the PDF file
     */
   def main(args: Array[String]) {
-    // Load the PDF passed in first argument
     val pdf = PDDocument.load(new File(args(0)))
 
     val stripper = new PDFTextStripper
@@ -30,14 +29,39 @@ object PdfProcessor {
     *
     * @return A string array containing each paragraph (or almost)
     */
-  def extractParagraphs(text: String): Array[String] = {
-    val date = """(\d\d\d\d)-(\d\d)-(\d\d)""".r
+  def extractParagraphs(text: String): List[String] = {
+    var paragraph = ""
+    var maxLineLength = 0
+    var paragraphs = List[String]()
 
-    text match {
-      case date(year, month, day) => println(s"$year was a good year for PLs.")
-      case _ => println("God no")
+    text.split("\n").zipWithIndex foreach { case(line, i) =>
+      line.endsWith(".") match {
+        // It ends with a point
+        case true => line.length match {
+          case x if (x >= maxLineLength) => {
+            maxLineLength = x
+            paragraph = paragraph + "\n" + line
+            //paragraphs = paragraph :: paragraphs
+          }
+          case _ => {
+            paragraphs = (paragraph + "\n" + line) :: paragraphs
+            paragraph = ""
+          }
+        }
+        // It doesn't end with a point
+        case false => line.length match {
+          case x if (x >= maxLineLength) => {
+            maxLineLength = x
+            paragraph = paragraph + "\n" + line
+          }
+          case _ => paragraph = paragraph + "\n" + line
+        }
+      }
     }
 
-    Array("oh", "god", "it's", "a", "chair!")
+    println(paragraphs)
+    println(paragraphs.length)
+
+    paragraphs
   }
 }
