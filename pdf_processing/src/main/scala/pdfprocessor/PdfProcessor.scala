@@ -26,11 +26,13 @@ object PdfProcessor {
     println(s"\nSo yeah... there are less than ${paragraphs.length} paragraphs (trash inside).\n")
   }
 
-  /** Attempt to extract paragraphs of a PDF extracted text
+  /** [BASELINE] Oh dog, it's a baseline !
+    *
+    * Attempt to extract paragraphs of a PDF extracted text
     *
     * @param text Text extracted from a PDF (using PDFBox)
     *
-    * @return A string array containing each paragraph (or almost)
+    * @return A string list containing each paragraph (or almost)
     */
   def extractParagraphs(text: String): List[String] = {
     var paragraph = ""
