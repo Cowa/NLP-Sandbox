@@ -20,7 +20,10 @@ object PdfProcessor {
     val extracted = stripper.getText(pdf)
     pdf.close()
 
-    extractParagraphs(extracted)
+    val paragraphs = extractParagraphs(extracted)
+
+    println(paragraphs.mkString("\n\n\n"))
+    println(s"\nSo yeah... there are less than ${paragraphs.length} paragraphs (trash inside).\n")
   }
 
   /** Attempt to extract paragraphs of a PDF extracted text
@@ -35,32 +38,22 @@ object PdfProcessor {
     var paragraphs = List[String]()
 
     text.split("\n").zipWithIndex foreach { case(line, i) =>
-      line.endsWith(".") match {
-        // It ends with a point
-        case true => line.length match {
-          case x if (x >= maxLineLength) => {
-            maxLineLength = x
-            paragraph = paragraph + "\n" + line
-            //paragraphs = paragraph :: paragraphs
-          }
-          case _ => {
-            paragraphs = (paragraph + "\n" + line) :: paragraphs
+      line.length match {
+        case x if (x >= maxLineLength) => {
+          maxLineLength = x
+          paragraph = paragraph + "\n" + line
+        }
+        case x => line.endsWith(".") match {
+          case true => {
+            paragraphs =  paragraphs :+ (paragraph + "\n" + line)
             paragraph = ""
           }
-        }
-        // It doesn't end with a point
-        case false => line.length match {
-          case x if (x >= maxLineLength) => {
-            maxLineLength = x
+          case false => {
             paragraph = paragraph + "\n" + line
           }
-          case _ => paragraph = paragraph + "\n" + line
         }
       }
     }
-
-    println(paragraphs)
-    println(paragraphs.length)
 
     paragraphs
   }
