@@ -11,12 +11,9 @@ import org.apache.pdfbox.util.PDFTextStripper
 /** Process stuff on PDF, more or less */
 object PdfProcessor {
 
-  lazy val tokenizer =
-    new TokenizerME(
-      new TokenizerModel(
-        getClass.getResourceAsStream("/models/en-token.bin")
-      )
-    )
+  lazy val tokenizer = new TokenizerME(new TokenizerModel(
+    getClass.getResourceAsStream("/models/en-token.bin")
+  ))
 
   /** This. is. main !
     *
@@ -27,30 +24,26 @@ object PdfProcessor {
     val pdf = PDDocument.load(new File(args(0)))
 
     val stripper = new PDFTextStripper
-    val extracted = stripper.getText(pdf).toLowerCase
+    val extracted = stripper.getText(pdf)
     pdf.close()
 
-    val paragraphs = extractParagraphs(extracted)
+    val (paragraphs, trash) = extractParagraphsBetter(extracted)
 
-    //println(paragraphs.mkString("\n\n\n"))
-    //println(s"\nSo yeah... there are less than ${paragraphs.length} paragraphs (trash inside).\n")
+    println(trash.mkString("\n\n\n"))
 
-    // @todo Merge '-' line breaker
     var tokenParagraphs = List[List[String]]()
 
     paragraphs foreach { p =>
-      val tokens = tokenizer.tokenize(p)
-        .filter(x => !StopWords.en.contains(x))
-        .toList
+      //val tokens = tokenizer.tokenize(p)
+      //  .filter(x => !StopWords.en.contains(x))
+      //  .toList
 
-      tokenParagraphs = tokenParagraphs :+ tokens
-      println(Tfidf.tokensFrequencies(tokens).mkString("\n") + "\n\n\n")
+      //tokenParagraphs = tokenParagraphs :+ tokens
+      //println(Tfidf.tokensFrequencies(tokens).mkString("\n") + "\n\n\n")
     }
-
-    //println(tokenParagraphs.mkString("\n\n\n"))
   }
 
-  /** [BASELINE] Oh dog, it's a baseline !
+  /** [Baseline] Oh dog, it's a baseline !
     *
     * Attempt to extract paragraphs of a PDF extracted text
     *
@@ -82,5 +75,43 @@ object PdfProcessor {
     }
 
     paragraphs
+  }
+
+  /** [Improved baseline]
+    *
+    * Attempt to extract paragraphs of a PDF extracted text
+    *
+    * @param text Text extracted from a PDF (using PDFBox)
+    *
+    * @return A tuple :
+    *           - string list containing each paragraph (or almost)
+    *           - string list with 'kind-of' trash #happyface
+    */
+  def extractParagraphsBetter(text: String): (List[String], List[String]) = {
+    var paragraph = ""
+    var maxLineLength = 0
+    var trash = List[String]()
+    var paragraphs = List[String]()
+
+    text.trim.split("\n").zipWithIndex foreach { case(line, i) =>
+      line.length match {
+        case x if (x >= maxLineLength) => {
+          maxLineLength = x
+          paragraph = paragraph + "\n" + line
+        }
+        case x => line.endsWith(".") match {
+          case true => {
+            paragraphs =  paragraphs :+ (paragraph + "\n" + line)
+            paragraph = ""
+          }
+          case false if (x < maxLineLength / 1.75) => trash = trash :+ line
+          case false => {
+            paragraph = paragraph + "\n" + line
+          }
+        }
+      }
+    }
+
+    (paragraphs, trash)
   }
 }
