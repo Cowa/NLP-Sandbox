@@ -56,15 +56,15 @@ object PdfProcessor {
     var maxLineLength = 0
     var paragraphs = List[String]()
 
-    text.trim.split("\n").zipWithIndex foreach { case(line, i) =>
+    text.split("\n").zipWithIndex foreach { case(line, i) =>
       line.length match {
         case x if (x >= maxLineLength) => {
           maxLineLength = x
           paragraph = paragraph + "\n" + line
         }
-        case x => line.endsWith(".") match {
+        case x => line.trim.endsWith(".") match {
           case true => {
-            paragraphs =  paragraphs :+ (paragraph + "\n" + line)
+            paragraphs = paragraphs :+ (paragraph + "\n" + line)
             paragraph = ""
           }
           case false => {
@@ -93,18 +93,22 @@ object PdfProcessor {
     var trash = List[String]()
     var paragraphs = List[String]()
 
-    text.trim.split("\n").zipWithIndex foreach { case(line, i) =>
+    text.split("\n").zipWithIndex foreach { case(line, i) =>
       line.length match {
         case x if (x >= maxLineLength) => {
           maxLineLength = x
           paragraph = paragraph + "\n" + line
         }
-        case x => line.endsWith(".") match {
+        case x => line.trim.endsWith(".") match {
           case true => {
-            paragraphs =  paragraphs :+ (paragraph + "\n" + line)
+            paragraphs = paragraphs :+ (paragraph + "\n" + line)
             paragraph = ""
           }
-          case false if (x < maxLineLength / 1.75) => trash = trash :+ line
+          case false if (x < maxLineLength / 1.75) => {
+            trash = trash :+ line
+            if (paragraph != "") paragraphs = paragraphs :+ paragraph
+            paragraph = ""
+          }
           case false => {
             paragraph = paragraph + "\n" + line
           }
