@@ -26,24 +26,26 @@ object PdfProcessor {
 
     val (paragraphs, trashes, stafs) = extractParagraphs(extracted)
 
-
-    println(stafs.reverse.mkString("\n\n\n"))
-
     val revStafs = stafs.reverse
     val stafsParagraphs = revStafs.filter(_.`type` == "paragraph")
     val stafsTrashs = revStafs.filter(_.`type` == "trash")
-/*
+
     for (i <- 0 until paragraphs.length) {
       println(stafsParagraphs(i))
       println(paragraphs(i))
+      println(paragraphs(i).split("\n").length)
       println("\n\n\n")
     }
-*/
+
+/*
     for (i <- 0 until trashes.length) {
       println(stafsTrashs(i))
       println(trashes(i))
       println("\n\n\n")
     }
+*/
+    val annotated = annotateText(extracted, stafs)
+    //println(annotated)
 
     //extractFigures(trashes)
   }
@@ -97,10 +99,8 @@ object PdfProcessor {
             paragraphs = paragraphs :+ (paragraph + "\n" + line)
             paragraph = ""
 
-            // endLine = i
             stafs = stafParagraph(startLine, i) :: stafs
             startLine = 0
-            //endLine = 0
 
             if (inTrash) {
               if (trash != "") trashes = trashes :+ trash
@@ -179,5 +179,34 @@ object PdfProcessor {
 
   def stafTrash(startLine: Int, endLine: Int): Staf = {
     Staf("trash", None, startLine, 0, endLine, 0)
+  }
+
+  def annotateText(text: String, stafs: List[Staf]): String = {
+    var annotated = text
+
+    val sortedStafs = stafs.sortWith(_.endLine > _.endLine)
+
+    sortedStafs foreach { e =>
+      annotated = endTag(annotated, "</" + e.`type` + ">", e.endLine)
+      annotated = beginTag(annotated, "<" + e.`type` + ">", e.line)
+    }
+
+    annotated
+  }
+
+  def endTag(text: String, inserted: String, pos: Int): String = {
+    var textArray = text.split("\n")
+
+    textArray(pos) = textArray(pos).concat(inserted)
+
+    textArray.mkString("\n")
+  }
+
+  def beginTag(text: String, inserted: String, pos: Int): String = {
+    var textArray = text.split("\n")
+
+    textArray(pos) = inserted + textArray(pos)
+
+    textArray.mkString("\n")
   }
 }
