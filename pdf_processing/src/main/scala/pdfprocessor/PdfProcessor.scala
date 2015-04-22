@@ -22,30 +22,30 @@ object PdfProcessor {
     val extracted = stripper.getText(pdf)
     pdf.close()
 
-    println(extracted)
-
     val (paragraphs, trashes, stafs) = extractParagraphs(extracted)
 
     val revStafs = stafs.reverse
     val stafsParagraphs = revStafs.filter(_.`type` == "paragraph")
     val stafsTrashs = revStafs.filter(_.`type` == "trash")
-
+/*
     for (i <- 0 until paragraphs.length) {
       println(stafsParagraphs(i))
       println(paragraphs(i))
-      println(paragraphs(i).split("\n").length)
       println("\n\n\n")
     }
-
+*/
 /*
     for (i <- 0 until trashes.length) {
       println(stafsTrashs(i))
       println(trashes(i))
       println("\n\n\n")
     }
+
+    println(stafsTrashs.length)
+    println(trashes.length)
 */
     val annotated = annotateText(extracted, stafs)
-    //println(annotated)
+    println(annotated)
 
     //extractFigures(trashes)
   }
@@ -83,10 +83,18 @@ object PdfProcessor {
 
           paragraph = paragraph + "\n" + line
           if (inTrash) {
-            if (trash != "") trashes = trashes :+ trash
+            if (trash != "") {
+                trashes = trashes :+ trash
+                if (isFigure(trash)) {
+                  stafs = stafFigure(startLineTrash, i-1) :: stafs
+                }
+                else {
+                  stafs = stafTrash(startLineTrash, i-1) :: stafs
+                }
+                startLineTrash = 0
+            }
             trash = ""
             inTrash = false
-            stafs = stafTrash(startLineTrash, i) :: stafs
           }
         }
         // End of paragraph
@@ -99,23 +107,38 @@ object PdfProcessor {
             paragraphs = paragraphs :+ (paragraph + "\n" + line)
             paragraph = ""
 
-            stafs = stafParagraph(startLine, i) :: stafs
+            stafs = stafParagraph(startLine, i-1) :: stafs
             startLine = 0
 
             if (inTrash) {
-              if (trash != "") trashes = trashes :+ trash
+              if (trash != "") {
+                trashes = trashes :+ trash
+                if (isFigure(trash)) {
+                  stafs = stafFigure(startLineTrash, i-1) :: stafs
+                }
+                else {
+                  stafs = stafTrash(startLineTrash, i-1) :: stafs
+                }
+                startLineTrash = 0
+              }
               trash = ""
               inTrash = false
-              stafs = stafTrash(startLineTrash, i) :: stafs
             }
           }
           case false if (x < maxLineLength / 3) => {
             inTrash = true
-            startLineTrash = i
+            
+            if (startLineTrash == 0)
+                startLineTrash = i
 
             trash = trash + "\n" + line
             if (paragraph != "") {
-              stafs = stafParagraph(startLine, i) :: stafs
+              if (isFigure(trash)) {
+                  stafs = stafFigure(startLineTrash, i-1) :: stafs
+                }
+              else {
+                stafs = stafTrash(startLineTrash, i-1) :: stafs
+              }
               startLine = 0
               paragraphs = paragraphs :+ paragraph
             }
@@ -128,10 +151,18 @@ object PdfProcessor {
 
             paragraph = paragraph + "\n" + line
             if (inTrash) {
-              if (trash != "") trashes = trashes :+ trash
+              if (trash != "") {
+                trashes = trashes :+ trash
+                if (isFigure(trash)) {
+                  stafs = stafFigure(startLineTrash, i-1) :: stafs
+                }
+                else {
+                  stafs = stafTrash(startLineTrash, i-1) :: stafs
+                }
+                startLineTrash = 0
+              }
               trash = ""
               inTrash = false
-              stafs = stafTrash(startLineTrash, i) :: stafs
             }
           }
         }
@@ -173,12 +204,25 @@ object PdfProcessor {
     (figures, trashes)
   }
 
+    def isFigure(text: String): Boolean = {
+        val isATitle = "([\\d][.].*)".r
+        
+        text match {
+          case isATitle(c) => false
+          case _ => true
+        }
+    }
+
   def stafParagraph(startLine: Int, endLine: Int): Staf = {
     Staf("paragraph", None, startLine, 0, endLine, 0)
   }
 
   def stafTrash(startLine: Int, endLine: Int): Staf = {
     Staf("trash", None, startLine, 0, endLine, 0)
+  }
+  
+  def stafFigure(startLine: Int, endLine: Int): Staf = {
+    Staf("figure", None, startLine, 0, endLine, 0)
   }
 
   def annotateText(text: String, stafs: List[Staf]): String = {
