@@ -27,6 +27,7 @@ object PdfProcessor {
     val revStafs = stafs.reverse
     val stafsParagraphs = revStafs.filter(_.`type` == "paragraph")
     val stafsTrashs = revStafs.filter(_.`type` == "trash")
+    val stafsFigures = revStafs.filter(_.`type` == "figure")
 /*
     for (i <- 0 until paragraphs.length) {
       println(stafsParagraphs(i))
@@ -44,7 +45,7 @@ object PdfProcessor {
     println(stafsTrashs.length)
     println(trashes.length)
 */
-    val annotated = annotateText(extracted, stafs)
+    val annotated = annotateText(extracted, stafsParagraphs)
     println(annotated)
 
     //extractFigures(trashes)
@@ -86,10 +87,10 @@ object PdfProcessor {
             if (trash != "") {
                 trashes = trashes :+ trash
                 if (isFigure(trash)) {
-                  stafs = stafFigure(startLineTrash, i-1) :: stafs
+                  stafs = stafFigure(startLineTrash, i) :: stafs
                 }
                 else {
-                  stafs = stafTrash(startLineTrash, i-1) :: stafs
+                  stafs = stafTrash(startLineTrash, i) :: stafs
                 }
                 startLineTrash = 0
             }
@@ -107,17 +108,17 @@ object PdfProcessor {
             paragraphs = paragraphs :+ (paragraph + "\n" + line)
             paragraph = ""
 
-            stafs = stafParagraph(startLine, i-1) :: stafs
+            stafs = stafParagraph(startLine, i) :: stafs
             startLine = 0
 
             if (inTrash) {
               if (trash != "") {
                 trashes = trashes :+ trash
                 if (isFigure(trash)) {
-                  stafs = stafFigure(startLineTrash, i-1) :: stafs
+                  stafs = stafFigure(startLineTrash, i) :: stafs
                 }
                 else {
-                  stafs = stafTrash(startLineTrash, i-1) :: stafs
+                  stafs = stafTrash(startLineTrash, i) :: stafs
                 }
                 startLineTrash = 0
               }
@@ -127,17 +128,17 @@ object PdfProcessor {
           }
           case false if (x < maxLineLength / 3) => {
             inTrash = true
-            
+
             if (startLineTrash == 0)
                 startLineTrash = i
 
             trash = trash + "\n" + line
             if (paragraph != "") {
               if (isFigure(trash)) {
-                  stafs = stafFigure(startLineTrash, i-1) :: stafs
+                  stafs = stafFigure(startLineTrash, i) :: stafs
                 }
               else {
-                stafs = stafTrash(startLineTrash, i-1) :: stafs
+                stafs = stafTrash(startLineTrash, i) :: stafs
               }
               startLine = 0
               paragraphs = paragraphs :+ paragraph
@@ -154,10 +155,10 @@ object PdfProcessor {
               if (trash != "") {
                 trashes = trashes :+ trash
                 if (isFigure(trash)) {
-                  stafs = stafFigure(startLineTrash, i-1) :: stafs
+                  stafs = stafFigure(startLineTrash, i) :: stafs
                 }
                 else {
-                  stafs = stafTrash(startLineTrash, i-1) :: stafs
+                  stafs = stafTrash(startLineTrash, i) :: stafs
                 }
                 startLineTrash = 0
               }
@@ -204,14 +205,14 @@ object PdfProcessor {
     (figures, trashes)
   }
 
-    def isFigure(text: String): Boolean = {
-        val isATitle = "([\\d][.].*)".r
-        
-        text match {
-          case isATitle(c) => false
-          case _ => true
-        }
+  def isFigure(text: String): Boolean = {
+    val isATitle = "([\\d][.].*)".r
+
+    text match {
+      case isATitle(c) => false
+      case _ => true
     }
+  }
 
   def stafParagraph(startLine: Int, endLine: Int): Staf = {
     Staf("paragraph", None, startLine, 0, endLine, 0)
@@ -220,7 +221,7 @@ object PdfProcessor {
   def stafTrash(startLine: Int, endLine: Int): Staf = {
     Staf("trash", None, startLine, 0, endLine, 0)
   }
-  
+
   def stafFigure(startLine: Int, endLine: Int): Staf = {
     Staf("figure", None, startLine, 0, endLine, 0)
   }
@@ -228,12 +229,13 @@ object PdfProcessor {
   def annotateText(text: String, stafs: List[Staf]): String = {
     var annotated = text
 
-    val sortedStafs = stafs.sortWith(_.endLine > _.endLine)
+    //val sortedStafs = stafs.sortBy(_.endLine)
 
-    sortedStafs foreach { e =>
-      annotated = endTag(annotated, "</" + e.`type` + ">", e.endLine)
+    stafs foreach { e =>
       annotated = beginTag(annotated, "<" + e.`type` + ">", e.line)
+      annotated = endTag(annotated, "</" + e.`type` + ">", e.endLine)
     }
+    println(stafs)
 
     annotated
   }
@@ -241,7 +243,7 @@ object PdfProcessor {
   def endTag(text: String, inserted: String, pos: Int): String = {
     var textArray = text.split("\n")
 
-    textArray(pos) = textArray(pos).concat(inserted)
+    textArray(pos) = textArray(pos) + inserted
 
     textArray.mkString("\n")
   }
