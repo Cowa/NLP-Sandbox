@@ -1,0 +1,168 @@
+Inflammation is common in breast cancer , being associated with both cancer onset and progression  .
+There are several important peripheral markers of inflammation in breast cancer , each providing unique insight into inflammatory processes , including VEGF , sICAM-1 , IL-6 , TNF- , IL-1 , CRP , vWf , and sP-selectin .
+VEGF is an angiogenic cytokine which stimulates the formation of new blood vessels necessary for tumor growth and metastasis  .
+Circulating levels of VEGF are elevated in breast cancer and are an independent predictor of poorer survival ( [ Nishimura et al. , 2003 ] and [ Wu et al. , 2002 ] ) .
+Expression of the adhesion molecule ICAM-1 , which aids in host immune surveillance of tumor cells ( [ Ogawa et al. , 1998 ] and [ Shirai et al. , 2003 ] ) , has been implicated in tumor progression and metastases , with greater expression being associated with low growth potential , negative lymph node involvement , and good prognosis ( [ O'Hanlon et al. , 2002 ] and [ Vasse et al. , 2001 ] ) .
+In contrast , the soluble form of ICAM-1 ( sICAM-1 ) is elevated in breast cancer ( [ Klein et al. , 1995 ] , [ Merendino et al. , 2001 ] and [ O'Hanlon et al. , 2002 ] ) and is predictive of poorer response to chemotherapy and poorer prognosis ( [ O'Hanlon et al. , 2002 ] and [ Zhang and Adachi , 1999 ] ) . sICAM-1 reflects generalized inflammation  and exerts immunomodulatory effects such as suppression of natural killer cell and T-cell function and inhibition of leukocyte binding to target cells , including formation of natural killer cell / tumor cell conjugates ( [ Cho et al. , 2000 ] and [ Kaihara et al. , 1998 ] ) .
+Several components of the acute-phase reaction are also elevated in breast cancer , including the inflammatory cytokines IL-6 , TNF- and IL-1 , and CRP ( [ Blann et al. , 2002 ] , [ O'Hanlon et al. , 2002 ] and [ Tsavaris et al. , 2002 ] ) .
+IL-6 has tumor-inhibiting and tumor-promoting effects in breast cancer  .
+High serum levels of IL-6 in breast cancer are independent predictors of poor survival  .
+TNF- is an independent predictor of progression free survival in metastatic breast cancer patients who receive chemotherapy  .
+IL-1 and IL-1 are secreted by macrophages and monocytes , stimulate breast cancer proliferation , and along with IL-1RA , are found in breast cancer tissue ( [ Nicolini et al. , 2006 ] and [ Singer et al. , 2003 ] ) .
+Elevated serum levels of IL-1 correlate with breast cancer recurrence  .
+IL-1RA levels are higher in older breast cancer patients whose cancer lack estrogen receptors  .
+The acute-phase reactant CRP is produced by the liver in response to inflammation .
+Elevated CRP levels are predictive of poor survival in metastatic breast cancer  .
+In addition , elevated CRP levels correlate with sICAM-1 , providing evidence that elevated sICAM-1 levels reflect the acute phase response and generalized inflammation  .
+von Willebrand factor ( vWf ) , which is found in the Weibel - Palade bodies of secretory organelles of endothelial cells and platelets and plays a key role in hemostasis , is elevated in breast cancer ( [ Blann et al. , 2002 ] and [ Blann et al. , 2001 ] ) .
+Elevated vWf levels do not appear to reflect platelet activation but rather endothelial activation and / or damage ( [ Blann et al. , 2002 ] and [ Blann et al. , 2001 ] ) .
+Soluble P-selectin ( sP-selectin ) , on the other hand , does reflect platelet activation in breast cancer ( [ Blann et al. , 2002 ] and [ Fox et al. , 1995 ] ) .
+Platelet P-selectin expression supports the formation of blood platelettumor cell complexes in the circulation and facilitates metastases  .
+Chemotherapy for breast cancer can lead to further increases in these inflammatory mediators , or in some cases , decreases .
+Three cycles of standard anthracycline-based chemotherapy in stage I - III-B patients leads to an increase in circulating levels of sICAM-1 and VEGF  .
+Chemotherapy with the taxanes paclitaxel and docetaxel increases IL-6 levels but decreases IL-1 and TNF- levels , with more pronounced effects with docetaxel  .
+Three courses of neoadjuvant chemotherapy for non-inflammatory stage III-B breast cancer leads to a decrease in TNF- levels , an effect which is greater in patients with complete versus partial responses  .
+Single agent paclitaxel therapy but not fluorouracil plus doxorubicin and cyclophosphamide chemotherapy increases IL-6 levels  .
+Although there are several markers of disease that are associated with inflammation in breast cancer  , few studies have prospectively examined disease and treatment factors that might be related to change in inflammation in response to chemotherapy for breast cancer .
+Kummel_et_al.  examined circulating levels of VEGF ( VEGF-A ) and VEGF-D ( a lymphangiogenic growth factor )  , prior to and following adjuvant chemotherapy in patients with positive node breast cancer .
+There was a significant reduction in VEGF levels , but only in patients who had large tumors and in patients with a positive hormone receptor status .
+The primary aims of this study were to examine the effects of chemotherapy for breast cancer on measures of inflammation and to test for potential predictors of inflammation in response to chemotherapy .
+Our measures of inflammation included a panel of eight circulating markers known to have clinical relevance in breast cancer .
+We hypothesized that four of themsICAM-1 , VEGF , sP-selecting , and vWFwould be increased in response to chemotherapy .
+For potential predictors of inflammation , we tested a panel of demographic , breast cancer , and treatment regimen characteristics .
+2. Methods .
+Women with breast cancer were recruited from the UCSD Moores Cancer Center and from oncologists in the San Diego area .
+Those diagnosed with stage I through III-A breast cancer and referred for adjuvant anthracycline-based chemotherapy were invited to participate .
+Exclusion criteria included pregnancy , women undergoing bone marrow transplants , metastatic breast cancer , confounding underlying medical illnesses including renal failure , significant pre-existing anemia , and other physical or psychological impairments which would limit participation .
+The study was approved by the UCSD Human Research Protection Program and the UCSD Cancer Center Human Research Protection Program of Participating Oncologists .
+Breast cancer disease staging was performed by the referring medical oncologist ( typically utilizing the American Joint Committee on Cancer Staging Manual 5th Edition ) .
+Patients received adjuvant anthracycline-based chemotherapy after clinical staging and definitive surgical treatment with either lumpectomy or mastectomy and axillary staging with sentinel node biopsy or axillary lymph node dissection according to institutional standards .
+The individual anthracycline regimens in this study included standard clinical doses of adriamycin and cyclophosphamide alone , adriamycin and cyclophosphamide with taxanes , and epirubicin , cytoxan , 5fluorouracil chemotherapy  .
+The 35 women who completed this study were obtained from a larger pool of 128 women who initially requested information about a study on the effects of chemotherapy for breast cancer on disturbed sleep and fatigue .
+Of these , 19 were not interested in participating , 17 were not eligible to participate , and 6 dropped out before study completion .
+Of the remaining 86 participants , 35 completed this sub-study designed to examine the effects of chemotherapy on inflammation .
+Each participant was studied prior to and following three 3 week cycles of adjuvant anthracycline-based chemotherapy .
+Nine of the women were treated with hormones prior to chemotherapy .
+None of the women had radiation therapy before the chemotherapy .
+2.1. Blood sampling and assays .
+Blood samples were collected at the breast cancer clinic between the hours of 10:00 am and 2:00 pm immediately prior to the administration of cycle 1 ( Pre-C1 ) of chemotherapy and immediately prior to the start of cycle 4 of chemotherapy ( Pre-C4 ) .
+Whole blood was preserved with either EDTA ( sICAM-1 , VEGF , sP-selectin , TNF- , IL-1-RA , IL-6 , and CRP ) or sodium citrate ( vWF ) .
+Following centrifugation , plasma or serum was stored at 80 C until assay. sICAM-1 , VEGF , sP-selectin , TNF- , IL1-RA , and IL-6 were determined in duplicate by commercial ELISA with internal controls ( RD Systems , Mpls , MN ) ( [ Mills et al. , 2004 ] and [ von Kanel et al. , 2001 ] ) .
+The precision of the assays were as follows : intra-assay CVs for sICAM-1 , VEGF , sP-selectin , TNF- , IL1-RA , IL-6 were 3.9% , 5.0% , 7.8% , 8.1% , 3.5% , and 2.3% , respectively ; inter-assay CVs were 6.0% , 6.6% , 4.7% , 4.3% 5.1% , and 4.6% , respectively .
+Sensitivity values were 0.35 ng / ml , 5.0 pg / ml , 0.5 ng / ml , 0.18 pg / ml , 10 pg / ml , and 0.72 pg / ml , respectively. vWf was determined in duplicate by commercial ELISA with internal controls ( Diagnostica Stago Inc. , Parsippany , New Jersey ) .
+The intra-assay CV for vWF was 2.6% , the inter-assay CV was 4.6% , and the sensitivity was 1.0% .
+CRP levels were determined in duplicate by the high sensitivity Denka Seiken assay with internal controls  .
+The intra-assay CV for CRP was 1.0% , the inter-assay CV was 1.6% , and the sensitivity was 0.05 mg / l .
+Both samples ( i.e. Pre-C1 and Pre-C4 ) from a given patient were assayed together .
+2.2. Data analysis .
+Prior to chemotherapy , simple correlation analyses and one-way ANOVAs were run examining relationships among each inflammatory marker at Pre-C1 and the demographic ( age and BMI ) and breast cancer disease characteristics ( including cancer type ( infiltrating lobular carcinoma , infiltrating ductal carcinoma or infiltrating mixed carcinoma ) , estrogen receptor expression , progesterone receptor expression , human epidermal growth factor receptor-2 ( Her-2 ) expression , tumor size and presence or absence of positive nodes ) .
+For the primary aims of the study , in order to test whether there was a significant pre to post chemotherapy change in the overall inflammatory marker panel , while adjusting for multiple comparisons , we ran a MANOVA that included all eight inflammatory markers as dependent variables .
+This analysis takes into account correlations among the different markers .
+The MANOVA was significant and hence , following Fisher 's least significant difference paradigm  , we conducted separate one-way repeated measures analyses of variance for each marker .
+This individual analysis served to tease out the potential chemotherapy treatment effects for each inflammatory marker .
+Multiple linear regression analyses were then run to determine the extent to which variables independently predicted the levels of each inflammatory marker at Pre-C4 .
+Potential predictor variables were entered into the regression model in separate blocks .
+Age and BMI were force entered into the first block .
+The level of the respective inflammatory marker prior to chemotherapy was force entered into the second block .
+Factors related to breast cancer diagnosis as described above were entered into the third block ( disease stage was not entered as a separate potential predictor variable because factors that determine stage , i.e. , tumor size and lymph node status , were entered into the model ) .
+Treatment information , including chemotherapy regimen ( adriamycin and cyclophosphamide alone , adriamycin and cyclophosphamide with taxanes , and epirubicin , cytoxan , 5fluorouracil chemotherapy ) was entered into the fourth block .
+Among the 7 patients in the adriamycin and cyclophosphamide with taxanes group , 1 patient had received taxol and 6 received taxotere .
+Among the 17 patients in the mastectomy group , 2 received a double mastectomy and 15 a mastectomy .
+Data were analyzed using the SPSS 14.0 for Windows ( SPSS Inc. , Chicago , IL ) and presented as means SD .
+The level of statistical significance was set at p .05 ( two-tailed ) .
+Borderline significance ( p .10 ) is also presented to show trends that may help to better illustrate overall relationships .
+3. Results .
+Table 1 presents the individual patient characteristics of age , BMI , ethnicity , breast cancer stage , cancer type , tumor size , presence of positive nodes , estrogen receptor and progesterone receptor expression , Her-2 expression , chemotherapy regimen , and type of surgery .
+The mean age of the sample was 50.04 years ( SD 10.01 ) .
+Compared to patients who completed the larger study on chemotherapy and disturbed sleep and fatigue , the patients who completed this sub-study on inflammatory markers did not significantly differ on any of the characteristics that appear in Table 1. .
+Table 1. .
+Patient , disease and treatment characteristics .
+N35 .
+Age ( years ) 50.04 ( SD = 10.1 ; range = 34 - 79 )
+BMI27.65 ( 5.64 )
+Ethnicity26Caucasian 1Native American 2African-American 3Hispanic 3Asian .
+Stage11Stage I 9Stage II 1Stage III 4Stage III-A .
+Type of cancer3Infiltrating lobular carcinoma 30Infiltrating ductal carcinoma 2Infiltrating mixed carcinoma .
+Mean tumor size ( cm ) 2.72 ( 1.74 )
+Positive nodes19No 16Yes .
+Estrogen14No receptor expression21Yes .
+Progesterone17No receptor expression18Yes .
+Her-2 expression27No 8Yes .
+Chemotherapy regimen19Adriamycin and Cyclophosphamide alone 7Adriamycin and Cyclophosphamide with Taxanes 9Epirubicin and Cytoxan with 5Fluorouracil .
+Surgery18Lumpectomy 17Mastectomy .
+Full-size table .
+View Within Article .
+3.1. Inflammatory markers pre-chemotherapy .
+Circulating levels of each inflammatory marker at Pre-C1 are presented in Table 2. Prior to chemotherapy , IL-6 levels were higher in individuals with negative versus positive estrogen receptor expression ( 4.7 pg / ml , SD = 4.5 versus 1.4 pg / ml , SD = .811 , respectively ) ( F = 7.01 , p = 0.012 ) and in individuals with negative versus positive progesterone receptor expression ( 4.34 pg / ml , SD = 4.4 versus 1.34 pg / ml , SD = .721 , respectively ) ( F = 5.66 , p = 0.023 ) .
+The only significant correlation Pre-C1 , was between CRP levels and BMI ( r = .412 , p = 0.016 ) .
+Table 2. .
+Levels of inflammatory markers prior to and during chemotherapy .
+( mean SD ) Pre-cycle 1Pre-cycle 4F ; p values CRP ( mg / L ) 2.93 ( 2.65 ) 3.42 ( 3.76 ) 0.381 ; 0.54 TNF- ( pg / ml ) 1.16 ( 1.48 ) 1.19 ( 0.73 ) 0.136 ; 0.83 IL1-RA ( pg / ml ) 1337 ( 1465 ) 1357 ( 1181 ) 0.05 ; 0.95 VEGF ( pg / ml ) 77.8 ( 96.1 ) 119.2 ( 91.4 ) 6.65 ; 0.01 sICAM-1 ( ng / ml ) 297.07 ( 78.3 ) 334.02 ( 78.3 ) 11.31 ; 0.002 IL-6 ( pg / ml ) 2.39 ( 2.21 ) 3.096 ( 3.23 ) 1.43 ; 0.242 sP-selectin ( ng / ml ) 90.5 ( 47.2 ) 116.12 ( 58.2 ) 5.65 ; 0.021 vWf ( % ) 94.32 ( 64.7 ) 149.11 ( 167.4 ) 5.72 ; 0.023 .
+Full-size table .
+View Within Article .
+3.2. Inflammatory markers during chemotherapy .
+The MANOVA was significant at F = 3.55 , p = 0.019 .
+Individual repeated measures ANOVAs showed that chemotherapy led to significant elevations in circulating levels of VEGF ( p 0.01 ) , sICAM-1 ( p 0.01 ) , sP-selectin ( p 0.02 ) and vWf ( p 0.05 ) .
+CRP , TNF- , IL1-RA , and IL-6 levels did not significantly change in response to chemotherapy .
+The results of the multiple regression analyses are presented in Table 3. Levels of inflammatory markers at Pre-C4 were predicted by the Pre-C1 levels in all cases except sP-selectin and IL1-RA .
+CRP levels at the start of cycle 4 were predicted by higher pre-chemotherapy levels of CRP ( model R2 = .177 , F = 5.81 , p 0.05 ) .
+Similarly , levels of TNF- at the start of cycle 4 were predicted by higher pre-chemotherapy levels of TNF- ( model R2 = .257 , F = 8.63 , p 0.01 ) .
+Table 3. .
+Multiple regression predictors of inflammation in response to chemotherapy .
+Inflammatory markerIndividual predictor variables ( coefficients ; p values ) Model R2 ; adjusted R2 ; p value CRPPre-chemotherapy CRP ( .526 ; 0.023 ) .177 ; .147 ; .023 TNF-Pre-chemotherapy TNF- ( .322 ; 0.007 ) .257 ; .227 ; 0.007 IL1-RAPre-chemotherapy IL1-RA ( .159 ; .379 ) ; ER+ status ( .330 ; .069 ) .133 ; .069 ; 0.146 VEGFPre-chemotherapy VEGF ( .374 ; .009 ) ; tumor size ( .104 ; 0.028 ) .342 ; .009 ; .004 sICAM-1Pre-chemotherapy sICAM-1 ( .620 ; 0.001 ) .396 ; .369 ; 0.001 IL-6Pre-chemotherapy IL-6 ( .588 ; 0.009 ) ; tumor size ( .078 ; .041 ) .311 ; .262;0.005 sP-selectinPre-chemotherapy sP-selectin ( .096 ; 0.52 ) ; tumor size ( .052 ; .008 ) ; chemotherapy ( .069 ; 0.014 ) .436 ; .349 ; 0.0048 vWfPre-chemotherapy vWf ( .706 ; 0.001 ) .335 ; .332 ; 0.001 .
+Full-size table .
+View Within Article .
+Levels of VEGF at the start of cycle 4 were predicted by higher pre-chemotherapy levels of VEGF , as well as smaller tumor size ( model R2 = .342 , F = 7.01 , p 0.01 ) .
+Cycle 4 sICAM-1 levels were predicted by sICAM-1 levels at cycle 1 ( model R2 = .396 , F = 13.77 , p 0.01 ) .
+IL-6 levels at cycle 4 were predicted by higher pre-chemotherapy IL-6 levels as well as larger tumor size ( model R2 = .311 , F = 6.31 , p 0.01 ) .
+Levels of cycle 4 sP-selectin were predicted by smaller tumor size and type of chemotherapy treatment ( model R2 = .436 , F = 5.02 , p 0.01 ) .
+Post hoc analysis of the chemotherapy treatment effect showed that cycle 4 sP-selectin levels were higher ( p 0.05 ) in individuals who received epirubicin and cytoxan with 5fluorouracil ( 154 ng / ml , SD = 56 ) versus adriamycin and cyclophosphamide alone ( 115 ng / ml , SD = 44 ) and adriamycin and cyclophosphamide with taxanes ( 99 ng / ml , SD = 60 ) .
+Full-size image ( 27K )
+Fig. 1. In a multiple regression analysis , levels of pre-cycle 4 sP-selectin were predicted by type of chemotherapy regimen such that levels were higher in patients who received epirubicin and cytoxan with 5fluorouracil ( ECF ) versus adriamycin and cyclophosphamide alone ( AC ) and adriamycin and cyclophosphamide with taxanes ( ACT ) ( p 0.05 ) .
+View Within Article .
+Circulating levels of vWf at cycle 4 were predicted by higher pre-chemotherapy levels of vWf ( model R2 = .355 , F = 8.57 , p 0.01 ) .
+The regression model for cycle 4 IL1-RA was not statistically significant ( model R2 = .133 , F = 2.06 , p = 0.146 ) .
+4. Discussion .
+Among the eight inflammatory markers examined , four were found to be elevated in response to chemotherapy .
+Consistent with prior studies  , levels of VEGF , sICAM-1 , sP-selectin and vWf were significantly higher in circulation following three cycles of chemotherapy .
+Studies suggest that the elevated levels of sICAM-1 in breast cancer reflect the acute phase response while elevated vWf levels reflect endothelial activation and damage , respectively  . sP-selectin 's elevation is believed to reflect platelet but not endothelial activation  .
+It is not clear whether elevations of sICAM-1 , sP-selectin , and vWF observed following chemotherapy reflect the same endothelial and platelet sources as seen in breast cancer prior to treatment .
+Our findings of elevated markers of endothelial and platelet activation may provide an explanation for observations of increased risk for thrombosis in patients undergoing chemotherapy ( [ Yeh et al. , 2004 ] and [ Youssef and Links , 2005 ] ) .
+It is not yet clear how long after chemotherapy these elevated levels might persist .
+Caine et al. reported that compared to pre-treatment , radiotherapy and / or chemotherapy for breast cancer led to a significant reduction in circulating VEGF , IL6 and sP-selectin levels at 3 months and at 12 months following treatment  .
+In the current study VEGF and sP-selectin levels , but not IL-6 levels , were elevated during chemotherapy .
+Unfortunately , we do not have long term follow-up data on our patients to address the duration of these elevations .
+We found no significant differences in pre- versus post-chemotherapy levels of TNF- , IL1-RA , IL-6 or CRP .
+These findings are not wholly consistent with prior reports .
+Previous studies found that TNF- increased and IL-6 decreased in 30 advanced breast cancer patients in response to chemotherapy , although these effects were observed following a longer treatment regimen of 6 full cycles of chemotherapy ( with taxanes )  .
+It could be that for some inflammatory factors longer duration of treatment is needed to induce activation .
+Pusztai_et_al.  reported that 70 stage I - III breast cancer patients with adjuvant or neoadjuvant every 3 week paclitaxel chemotherapy led to significant increases in circulating levels of IL-6 , but not TNF- .
+In contrast , 5fluoruracil , adriamycin and cyclophosphamide chemotherapy at 21 day intervals for six full cycles in 23 stage I - III breast cancer patients had no significant effect on serum levels of IL-6 , IL-10 , or TNF-  .
+A primary aim of this study was to identify factors that might be related to levels of inflammatory markers following chemotherapy .
+Six of eight markers examined post-chemotherapy in this study were significantly related to their respective levels prior to the start of chemotherapy , implying that degree of inflammation present in a patient following chemotherapy is , in part , determined by the degree of inflammation that existed before beginning chemotherapy .
+This held true for markers that did ( VEGF , sICAM-1 , vWf ) and did not ( TNF- , IL-6 , CRP ) change significantly in response to chemotherapy .
+In addition , among the several demographic and disease related variables that we examined , estrogen receptor status , tumor size and chemotherapy regimen were also related to one or more inflammatory marker following chemotherapy .
+Berberoglu reported that neoadjuvant chemotherapy in non-inflammatory stage III-B breast cancer led to a reduction of circulating TNF- levels that was greater in patients with partial and complete responses , suggesting that degree of clinical response was related to post-chemotherapy TNF- levels  .
+Consistent with our findings , circulating levels of inflammatory markers have been found to be related to the expression of estrogen and / or progesterone receptors on tumor cells .
+Fuksiewicz_et_al.  reported in older breast cancer patients significantly higher concentrations of the proinflammatory cytokine IL-8 in those tumors lacking progesterone receptors and higher IL-1RA concentrations in those lacking estrogen receptors .
+Prior to chemotherapy , we found that IL-6 levels were higher in patients with negative estrogen and progesterone receptor expressing tumors .
+Consistent with Fuksiewicz et al. 's observation , following chemotherapy we found that IL1-RA levels were ( marginally ) higher in patients with negative estrogen receptor expressing tumors .
+We also found that tumor size was positively related to post-chemotherapy IL-6 levels but negatively related to post-chemotherapy VEGF and sP-selectin levels .
+There are reports of a positive not negative association between tumor size and plasma VEGF levels in breast cancer ( [ Nishimura et al. , 2003 ] and [ Wu et al. , 2002 ] ) .
+IL-6 expression is not typically associated with tumor size but with estrogen and progesterone receptor expression  , as was observed in this study prior to chemotherapy .
+These particular aspects of our findings suggest that endothelial versus immune cell responses to chemotherapy are differentially related to initial severity of disease .
+An effect was also observed for chemotherapy regimen such that post-chemotherapy sP-selectin levels were highest in women who had received epirubicin , cytoxan , 5fluorouracil treatment .
+We are not aware of any literature suggesting that epirubicin , cytoxan , 5fluorouracil treatment differentially activates platelets compared to adriamycin ( [ Cottu et al. , 2001 ] and [ Ottosson et al. , 1999 ] ) .
+There are several potential limitations of this study .
+Breast cancer patients were non-metastatic and our findings might not generalize to more severe disease .
+As the minimum number of cycles of chemotherapy at the time of our study was four 3 week cycles , our study was limited to women who were receiving this regimen .
+Our results therefore may not be generalizable to women in 2 week cycles or those getting more than four cycles of treatment .
+In addition , we obtained a single blood sample at each study timepoint which is not ideal for factors such as IL-6 which display diurnal variability ( [ Kanabrocki et al. , 1999 ] and [ Muc-Wierzgon et al. , 1996 ] ) .
+We attempted to address this limitation by sampling blood within a fixed time each testing day but in the context of the clinic setting we could only limit our blood sampling times to within a range of approximately 4 h .
+It is possible therefore that our biomarker levels were not fully representative of endogenous levels .
+Finally , our study was restricted to examining markers of endothelial and platelet activation .
+Markers of T and B cell activation and / or destruction merit study in the context of examining the inflammatory effects of chemotherapy for breast cancer .
+In summary , the results of this study indicate that three cycles of anthracycline-based chemotherapy for breast cancer lead to elevations in inflammatory markers associated with endothelial and platelet activation .
+Circulating levels of inflammatory markers during chemotherapy are most significantly related to levels that existed prior to chemotherapy , but also potentially to disease characteristics of estrogen receptor status and tumor size and also to type of chemotherapy treatment .
+Acknowledgments .
+Our thanks to Sherella Johnson for coordinating the study and for help with data collection .

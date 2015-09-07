@@ -1,0 +1,84 @@
+L' objectif de la radiothérapie est de délivrer une dose précise dans un volume-cible défini cliniquement et avec l' aide de l' imagerie .
+La dose délivrée dans ce volume est essentielle pour le contrôle local tumoral .
+La vérification de la dose absorbée dans le volume-cible est un élément clef du contrôle de qualité en radiothérapie 7. Elle ne peut être mesurée chez le patient que dans le cadre d' une dosimétrie in_vivo 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 and 8. La mesure in_vivo permet d' évaluer les variations de la dose dans le volume-cible au cours du temps , si elle est répétée plusieurs fois au cours du traitement et également les écarts avec la dose calculée par le logiciel de planification de traitement ( TPS ) .
+La mise en oeuvre de mesures in_vivo par thermoluminescence a débuté au centre Oscar-Lambret en 1999 .
+Lors de la mise en place de ce contrôle , des comparaisons entre dose mesurée par dosimètres thermoluminescents ( TLD ) et dose prévue par calcul avaient été réalisées sur des patientes traitées pour un cancer du sein par faisceaux mammaires tangentiels .
+Les résultats préliminaires montraient une bonne concordance entre calcul et mesure .
+Le but de ce travail réalisé sur 20 patientes a été d'_une_part d' évaluer la reproductibilité du positionnement entre la simulation et la première séance de traitement et entre 2 séances ( comparaison des distances source-peau ) et , d' autre_part de comparer la dose d' irradiation mesurée par thermoluminescence et la dose calculée par deux logiciels de calcul de distribution de dose .
+2. Patientes et méthodes2.1 .
+Patientes
+Les patientes étaient traitées en décubitus dorsal sur un plan incliné à l' aide d' un faisceau de photons d' un accélérateur Siemens Mevatron 6 MV MX .
+Le sein était irradié par deux faisceaux tangentiels ( technique isocentrique ) délivrant une dose de 2 Gy par fraction , à_raison de cinq fractions par semaine jusqu' à une dose totale de 50 Gy au point ICRU 4. Vingt patientes ont été réparties en deux groupes en fonction de l' épaisseur du sein sur l' axe principal des faisceaux ( distance source - peau ( DSP ) mesurée au centre des champs tangentiels ) .
+La distance source - peau moyenne était de 92,9 cm , la médiane 93 cm .
+Le seuil entre les deux groupes a par_conséquent été fixé à 93 cm avec neuf patientes dans le groupe distance source - peau 93 cm et 11 dans le groupe > 93 cm .
+Full-size image ( 4K )
+Fig. 1. Répartition des DSP .
+Distribution of source-skin distances .
+View Within Article
+2.2. Méthodes
+La dose d' entrée à chaque faisceau a été mesurée en utilisant des pastilles carrées ( 3 mm de_côté et 1 mm d' épaisseur ) de fluorure de lithium dopé au Mg et au Ti ( TLD 700 , Harshaw ) .
+Le lecteur est un Harshaw 5500 automatique avec chauffage des dosimètres par flux d' azote .
+Après vérification de l' indépendance de leur réponse vis-à-vis des différentes énergies de photons utilisées dans le service ( de 1 à 25 MV ) , les dosimètres thermoluminescents ( DTL ) ont été calibrés au cobalt en affectant chacun d' un coefficient de sensibilité individuel .
+Pour l' utilisation in_vivo , les dosimètres thermoluminescents sont conditionnés par barrettes de 3 et associés à des bolus d' Elastogel d' épaisseur correspondant à leur mise à l' équilibre électronique 6 and 7.
+La mesure a été effectuée en tout début de traitement , afin_de permettre une correction rapide des erreurs éventuellement détectées .
+Le moment idéal est la deuxième séance d' irradiation , car la patiente est généralement plus détendue qu' au premier jour du traitement .
+Après mise en place du faisceau , imagerie de contrôle et vérification de la distance source - peau , une barrette de trois dosimètres thermoluminescents était placée au centre du faisceau lumineux , surmontée d' un bolus de 1,6 cm .
+Dans les cas où la distance source - peau lue sur la patiente ne correspondait pas à celle indiquée sur la dosimétrie , le résultat de la mesure était corrigé en première approximation en appliquant la loi de l' inverse carré de la distance .
+Pour toutes les mesures ( sauf une ) , les pastilles ont été mises en place par la même personne .
+Avant de passer au faisceau suivant , les dosimètres étaient sortis de la salle de traitement et une fiche de mesures remplie : date , nom du patient , numéro de dossier , localisation du faisceau contrôlé , identité des dosimètres thermoluminescents utilisés , distance source - peau , dose prescrite , remarques éventuelles ( par_exemple importante obliquité de la surface d' entrée , schéma indiquant la position des dosimètres thermoluminescents, ) .
+Deux fois par jour , les dosimètres thermoluminescents étaient relevés aux postes pour être lus puis régénérés , reconditionnés et redistribués aux postes de traitement .
+2.3. Exploitation des résultats
+Les doses lues sont affectées d' un coefficient de correction prenant en compte la non-linéarité de la réponse en fonction de la dose ( au-delà_de 1,5 Gy pour notre matériel ) .
+Chaque résultat étant la moyenne des réponses des trois dosimètres thermoluminescents contenus dans la barrette , les intervalles de confiance sont calculés en intégrant l' écart-type de cette moyenne .
+Pour chaque patiente , la dosimétrie a été réalisée à partir des coupes tomographiques du simulateur dans deux systèmes disponibles ( Helax TMS 5,1 et Dosigray V 98,2 ) .
+Certains dossiers incomplets car ne comprenant qu' un calcul dosimétrique , ont été utilisés pour les comparaisons de distance source - peau , ce qui explique le nombre différent de mesures dans les deux parties de cette étude .
+3. Résultats3.1 .
+Reproductibilité de la distance source - peau
+Elle a été évaluée sur 60 mesures comparatives entre le simulateur et la table de traitement .
+La Fig. 2 indique la répartition des différences constatées en fonction de leur importance .
+Si l' on fixe la tolérance à 0,5 cm de différence , le taux d' erreur était de 28 % ( 17 / 60 ) .
+Full-size image ( 13K )
+Fig. 2. ECART entre la DSP au simulateur et à l' accélérateur .
+Interval between source-skin distances calculated with the simulator and with the linac .
+View Within Article
+- Diamètre du sein : le taux d' erreur global était de 17 % ( 5 / 30 ) , d à une erreur cumulée supérieure à 1 cm sur les deux côtés ; dans aucun cas l' erreur n' a été supérieure à 1 cm sur un seul côté .
+- Reproductibilité de la DSP : la mesure sur table de traitement a été évaluée sur 12 faisceaux entre deux séances .
+En gardant le seuil de tolérance de 0,5 cm , on observe un taux d' erreur de 33 % ( 4 / 12 ) .
+Full-size image ( 11K )
+Fig. 3. ECART de la DSP entre deux séances .
+Interval between source-skin distances measured at two treatment fractions .
+View Within Article
+3.2. Écart entre mesure et calcul de la dose au centre des faisceaux
+Les Tableau 1 and Tableau 2 indiquent pour chaque patiente , les écarts constatés en pourcentage entre mesure et calcul , pour chacun des points de mesure et chacune des deux méthodes de calcul ( Helax TMS et Dosigray ) , lors_de la mesure initiale .
+Tableau 1. Mesures sur_le_champ tangentiel interne .
+Source - skin distance on internal tangential field
+Full-size table ( 5K )
+% : écart entre dose mesurée ( dm ) et dose calculée ( dc ) = 100 ( dc - dm ) /dc .
+View Within Article
+Tableau 2. Mesures sur_le_champ tangentiel externe .
+Source - skin distance on external tangential field
+Full-size table ( 5K )
+% : Écart entre dose mesurée ( dm ) et dose calculée ( dc ) = 100 ( dc - dm ) /dc .
+View Within Article
+3.2.1. Tableau 1 , distance source - peau 93 cm
+Pour la patiente 6 , la distance source - peau mesurée au poste était de 92,5 cm alors qu' elle était de 94 cm au simulateur .
+Lors de la 2e mesure , la distance source - peau a été retrouvée à 94,5 cm .
+Pour la patiente 9 , le dosimètre thermoluminescent a été mis en place par une autre personne ( positionnement du dosimètre thermoluminescent ou de la patiente ? ) .
+3.2.2. Tableau 2 , distance source - peau 93 cm
+Patiente 6 : les images transférées du simulateur étaient de très mauvaise qualité et le contour externe a été intégré de façon différente dans les logiciels .
+On observe un taux de concordance de 75 % ( 30 / 40 ) entre les 2 systèmes de calcul , se décomposant en 65 % ( 26 / 40 ) pour les écarts 5 % , et 10 % ( 4 / 40 ) pour les écarts > 5 % .
+Les écarts supérieurs à 5 % entre dose mesurée et dose calculée sont présentés dans le Tableau 3.
+Tableau 3. Écarts supérieurs à 5 % entre dose mesurée et dose calculée en fonction de l' épaisseur du sein et du TPS .
+Intervals > 5 % between measured dosis and calculated dosis according to thickness of breast and TPS
+Full-size table ( 1K )
+View Within Article
+Pour les distances source - peau 93 cm , il est difficile de conclure : dans trois cas , A et B étaient tous deux différents de la mesure , dans deux cas seul le TPS B diffère de la mesure et dans le dernier cas le TPS A. En revanche , pour les distances source - peau > 93 cm , on dénombre 36,4 % de désaccords TPS A - TLD contre 4,5 % de désaccords TPS B - TLD .
+La différence est statistiquement significative ( test du 2 : p = 0,02 ) .
+Dans 12 cas sur 40 la mesure a été reprise .
+Neuf de ces cas correspondaient à des écarts entre la première mesure et le calcul > 5 % .
+Quel que soit le système de calcul , aucun des nouveaux écarts n' atteignait le seuil de 5 % .
+4. Discussion
+En premier lieu cette étude met en évidence la difficulté de replacer les patientes au poste de traitement conformément à la simulation .
+La fréquence des erreurs concernant le diamètre du sein est importante et une grande vigilance doit être apportée au repositionnement .
+Ce contrôle va donc être étendu à l' ensemble des postes de traitement , pour différents types d' irradiations ( ORL , pelvis , etc. ) , afin_de vérifier le repositionnement du patient par_rapport_à la simulation et la reproductibilité de cette mise en place au_cours_de différentes séances .
+Enfin , l' analyse statistique montre que , pour les « petits » seins ( mi-épaisseur 7 cm ) , la meilleure concordance est obtenue entre mesure in_vivo et calcul par le système de dosimétrie B. Pour les seins plus volumineux , le nombre important d' écarts mesure - calcul est sans_doute lié à la plus grande difficulté de repositionnement

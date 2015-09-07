@@ -1,0 +1,50 @@
+Les filtres permettent de modifier l' intensité du faisceau dans la direction antéropostérieure .
+La filtration peut être obtenue par un dièdre métallique interposé dans le faisceau ou par le mouvement d' une des mâchoires du collimateur ( filtration dynamique ) ; elle permet de réduire la dose au niveau du mamelon par rapport aux régions d' épaisseur supérieure .
+Il s' agit ainsi d' une modulation d' intensité à une dimension qui optimise l' homogénéité de la distribution de dose dans la coupe à l' axe ( z = 0 ) .
+En revanche , les différences d' épaisseur du sein qui existent dans le sens craniocaudal ne sont pas compensées et on peut constater des surdosages importants ( 10 % et plus ) ne permettant plus alors de respecter les critères de qualité édités par le rapport 62 de l' ICRU  .
+Une corrélation a pu être établie entre le volume du sein et l' importance du surdosage : volumes de sein recevant 105 , 110 , 115 % et plus de la dose prescrite  .
+2. Utilisation de compensateurs
+Les compensateurs bidimensionnels personnalisés permettent de réduire les inhomogénéités de dose en tenant compte de la forme réelle du sein .
+Ces compensateurs sont interposés dans le faisceau d' irradiation entre la source et la peau de la patiente pour obtenir une dose homogène dans un plan perpendiculaire à l' axe du faisceau ; le logiciel calcule une matrice de transmissions , transformée ensuite en matrice d' épaisseurs en tenant compte de l' atténuation du matériau pour l' énergie du rayonnement utilisé .
+Différents auteurs ont décrit la mise au point des compensateurs à partir des systèmes électroniques d' imagerie portale ( EPID ) .
+Ils ont mis en évidence l' amélioration apportée par les compensateurs par rapport aux filtres .
+Ainsi , l' inhomogénéité de la dose dans le volume cible anatomoclinique pourrait être réduite d' environ 5 %  .
+Toutefois , la fabrication de compensateurs personnalisés impose une bonne maîtrise de cette technique pour la rendre utilisable en routine .
+Le développement des collimateurs multilames a permis d' envisager une compensation électronique et de s' affranchir d' un accessoire supplémentaire dans le faisceau ( comme la filtration dynamique remplace le filtre en coin ) .
+La fluence souhaitée pour obtenir une distribution de dose uniforme dans le plan de compensation choisi est calculée par une méthode de rétroprojection .
+Cette fluence est transformée en un fichier de lames par le calculateur du mouvement des lames ( LMC ) .
+Peu d' études ont concerné les résultats de la compensation électronique ; Kawamorita et al. ont conclu que cette technique apportait une meilleure homogénéité dans le volume cible anatomoclinique que la filtration et même que la modulation d' intensité ( RCMI ) , cette dernière étant meilleure pour la protection pulmonaire  .
+La compensation électronique apporterait une amélioration de la protection cardiaque vis-à-vis_de la filtration mais serait moins profitable que la modulation d' intensité  .
+3. La modulation d' intensité
+L' utilisation de la modulation d' intensité ( RCMI ) dans de nombreuses localisations a montré l' intérêt de cette technique .
+Fondée sur l' optimisation inverse , elle permet de définir les fluences des faisceaux qui permettent de satisfaire aux contraintes de dose dans le volume cible prévisionnel et dans les organes à risque .
+Dans le traitement du cancer du sein , plusieurs auteurs ont montré son intérêt pour améliorer l' homogénéité de la dose dans le sein et pour épargner davantage le coeur et le poumon .
+Les faisceaux considérés sont les mêmes que ceux mis en place pour les autres techniques .
+Il n' y a , en_effet , aucun intérêt à utiliser des faisceaux qui irradieraient inutilement davantage de tissus sains ; en_revanche , on peut chercher à optimiser les orientations des deux faisceaux utilisés  .
+Li et al. ont comparé , dans une étude incluant 25 patientes , les distributions de dose obtenues par des faisceaux tangentiels filtrés et par ces mêmes faisceaux pour lesquels une fluence modulée a été calculée .
+Les calculs des histogrammes dose - volume ( DVH ) ont donné les résultats suivants : - le volume cible anatomoclinique recevant plus de 95 % de la dose prescrite ( v95 ) était d' environ 97 % dans les deux cas ;
+- le volume cible anatomoclinique recevant 100 % de la dose prescrite ( v100 ) était de 86 % avec la modulation d' intensité contre 84 % pour la filtration ;
+- le v105 était réduit de 23,1 à 7,9 % avec la modulation d' intensité ainsi_que la dose maximum , qui était réduite de 3,1 % environ .
+La RCMI améliorait significativement l' homogénéité de la dose .
+Le volume cardiaque recevant plus de 30 Gy ( v30 ) était réduit de 3,3 à 0,3 % et le volume pulmonaire recevant plus de 20 Gy ( v20 ) était également réduit de 12,1 à 10,9 % avec la modulation d' intensité .
+La dose maximum reçue par 1 % du volume ( d1 ) était réduite de 55,8 à 35 % pour le coeur et de 101 à 98 % pour le poumon .
+La RCMI améliorait donc la protection du coeur et du poumon  .
+Dans une étude incluant neuf patientes traitées pour un cancer du sein gauche , Cho et al. ont comparé les trois techniques d' irradiation ( filtration , modulation d' intensité et modulation d' intensité simplifiée ) avec pour chacune d' entre elles deux possibilités d' orientation des faisceaux d' irradiation ( soit celle de la mise en place à_partir_de repères cliniques , soit optimisée comme évoqué précédemment ) .
+La modulation d' intensité simplifiée consistait à considérer , pour chaque champ , différents segments : - A = le volume cible prévisionnel avec une marge de 6 mm ;
+- B = A moins le coeur ;
+- C = B moins le poumon gauche .
+On obtenait ainsi six segments auxquels on affectait un certain poids .
+Cette étude montrait à partir des histogrammes dose - volume cumulatifs ou différentiels l' amélioration apportée par la modulation d' intensité , l' optimisation des angles des faisceaux d' irradiation permettant une couverture optimale du volume tumoral .
+Le facteur radiobiologique NTCP ( probabilité de complications des tissus sains ) calculé pour le coeur confirmait l' apport de la modulation d' intensité  .
+4. Influence de la respiration
+Les traitements réalisés avec les techniques décrites précédemment peuvent avoir lieu en respiration libre .
+La respiration entraîne le mouvement de la surface du sein et de la cage thoracique , modifiant le volume cible anatomoclinique et l' épaisseur de poumon incluse dans le volume irradié .
+Plusieurs auteurs ont étudié l' effet du mouvement respiratoire durant l' irradiation .
+Ainsi , Ding et al. ont montré que le volume cible anatomoclinique correctement entouré par l' isodose 90 % au moment de l' inspiration , prise comme début du cycle respiratoire et caractérisée par le niveau BL = 1 , était en_partie exclu de cette isodose lorsque le niveau respiratoire valait BL = 0,6 ; lorsque l' expiration était presque complète ( BL = 0,2 ) c' était l' isodose 50 % qui entourait le volume cible anatomoclinique  .
+Pour obtenir une irradiation correcte du volume cible en respiration libre , il faut augmenter la marge qui définit le volume cible prévisionnel , ce qui entraîne l' irradiation inutile de tissus sains .
+George et al. étudiant les effets de la respiration lors d' un traitement avec modulation d' intensité ont conclu que les bénéfices apportés par cette technique étaient réduits à néant si le mouvement des lames ne tenait pas compte du mouvement du volume cible  .
+Ainsi , comme pour d' autres localisations , le traitement du cancer du sein impose la prise en compte du mouvement respiratoire et le développement des techniques qui le permettent : contrôle respiratoire , radiothérapie asservie à la respiration , imagerie 4D et « tracking » de la tumeur .
+L' analyse des résultats publiés dans la littérature montre qu' une amélioration notable du contrôle tumoral et de la protection du coeur et du poumon peut être obtenue par une évolution de la technique classique de traitement du cancer du sein par deux faisceaux filtrés , notamment grâce_à une modulation d' intensité à deux dimensions .
+Cependant , doit on recourir à la modulation d' intensité telle qu' on l' utilise dans d' autres localisations pour traiter correctement le cancer du sein ?
+La compensation électronique est elle une alternative acceptable ?
+L' étude que nous avons entreprise a pour objectif d' essayer d' y répondre en comparant les résultats dosimétriques obtenus par la filtration classique , la compensation électronique ou la modulation d' intensité

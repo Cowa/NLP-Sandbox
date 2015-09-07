@@ -1,0 +1,149 @@
+Les cancers du sein , de l' ovaire , et de l' endomètre sont dus à une prédisposition héréditaire dans 5 à 10 % des cas .
+Ces prédispositions aux cancers gynécologiques peuvent se présenter sous deux formes majeures : les formes familiales de cancer du sein et / ou de l' ovaire ; les formes familiales de cancers du côlon , de l' endomètre et de l' ovaire ( ou syndrome HNPCC : Hereditary Non Polyposis Colorectal Cancer ) .
+Elles se transmettent selon un mode autosomique dominant .
+D' autres syndromes plus rares de prédispositions génétiques ont été identifiés .
+Full-size image ( 36K )
+Fig. 1. Exemples caractéristiques de prédisposition aux tumeurs épithéliales de l' ovaire .
+A : Famille sein / ovaire
+B : Syndrome HNPCC
+T = tumeur , âge au diagnostique du cancer
+View Within Article
+Nous aborderons successivement les gènes de prédisposition , les risques tumoraux en cas d' une anomalie génétique , les indications des études génétiques et la prise en charge du risque intrafamilial de cancer gynécologique .
+2. Gènes de prédisposition2.1 .
+Gènes BRCA1 et BRCA2
+Les études de liaison génétique menées dans des formes familiales sévères de cancer du sein ont permis de localiser deux loci en 17q21 et 13q14 puis d' identifier deux gènes de prédisposition héréditaire aux cancers du sein et / ou de l' ovaire , respectivement BRCA1 ( BReast CAncer 1 ) et BRCA2  .
+Les gènes BRCA1 et BRCA2 sont impliqués dans 95 % des formes familiales de cancer du sein et de l' ovaire et dans 65 % des formes familiales de cancer du sein seul  .
+D' autres gènes de prédisposition au cancer du sein encore inconnus sont donc probables .
+La fréquence des mutations de ces deux gènes est de l' ordre de 0,2 % .
+Ainsi , une personne sur 500 serait porteuse d' une altération d' un gène BRCA1 ou BRCA2 .
+2.2. Gènes hMLH1 , hMSH2 , hMSH6
+Initialement le syndrome HNPCC était défini par des antécédents de cancers coliques ( critères d' Amsterdam1 )  .
+Aujourd'hui il a été redéfini et inclut des tumeurs non coliques2  .
+Le syndrome HNPCC est également nommé syndrome de Lynch .
+Les syndromes de Muir-Torre ( association de cancer colique et de tumeur des glandes sébacées ) et syndrome de Turcot ( association de cancer colique et de tumeur cérébrale ) représentent la même entité moléculaire que le syndrome HNPCC .
+Des études de liaison génétique ont identifié deux loci en 2p15 et 3p21 révélant aussi l' hétérogénéité génétique de ce syndrome .
+C' est l' approche gène candidat qui a permis l' identification des deux gènes majeurs hMLH1 ( human Mutant L Homologue1 ) , hMSH2 .
+Ces derniers sont impliqués dans la réparation des mésappariements de l' ADN .
+Ultérieurement , des mutations délétères , prédisposant au syndrome de Lynch , ont été identifiées dans le gène hMSH6 .
+On désigne souvent ces gènes comme gènes du système MMR ( MisMatchRepair ) .
+En présence d' anomalie d' un gène MMR , il existe au niveau tumoral une instabilité génomique due à des erreurs de réplication de l' ADN ( RER : Replication ERror ) . hMLH1 et hMSH2 sont à l' origine de 50 % des cas familiaux répondant aux critères d' Amsterdam ; hMSH6 est à l' origine de moins de 5 % des cas  .
+D' autres gènes sont encore à identifier dans le cadre du syndrome HNPCC .
+La recherche au niveau de la tumeur d' une instabilité des microsatellites ou phénotypes RER tumoral ( ou MSI : MicroSatellile Instable ) ou celle de la perte d' expression en immunohistochimie des protéines hMLH1 , hMSH2 et hMSH6 est une aide à l' indication de l' étude moléculaire des gènes MMR .
+La proportion de syndrome HNPCC chez les patientes traitées pour un cancer de l' endomètre est de 6 %  .
+Le syndrome HNPCC pourrait rendre compte de 2 % des cas de cancers de l' ovaire .
+2.3. Autres gènes2.3.1 .
+Cancer du sein
+D' autres gènes responsables de syndromes génétiques rares confèrent un risque héréditaire de cancer de sein .
+Ces gènes sont PTEN , TP53 , et STK11 ( appelé également LKB1 ) responsables respectivement de la maladie de Cowden , du syndrome de Li Fraumeni , et du syndrome de Peutz Jeghers .
+Le risque cumulé de cancer du sein dans ces différents syndromes est de 25 à 50 % pour la maladie de Cowden  , 28 à 43 % pour le syndrome de Li Fraumeni  , et 29 % pour le syndrome de Peutz-Jeghers  .
+Tableau 1.
+Syndromes héréditaires de prédisposition aux cancers gynécologiques
+SyndromeGèneRisque tumoral ( % ) Cancers associés Seinforme familiale de cancer du sein et ou de l' ovaireBRCA165ovaire BRCA245 Li FraumeniTP5328 à 43sarcome , corticosurnalome , tumeurs cérébral CowdenPTEN25 à 50thyroïde Peutz JeghersSTK1129côlon , ovaire Ovaireforme familiale de cancer de l' ovaire et / ou du seinBRCA140sein BRCA210 HNPCChMLH1 , hMSH2 , hMSH68côlon , utérus Peutz JeghersSTK11NDcôlon , sein EndomètreHNPCChMLH1 , hMSH2 , hMSH640côlon , ovaire
+Full-size table
+View Within Article
+À part , doit être mentionné le risque de cancer du sein chez les femmes hétérozygotes pour le gène ATM .
+Les mutations homozygotes du gène ATM sont responsables chez les enfants d' une maladie nommée l' ataxie télangiectasie .
+Les mères de ces enfants , hétérozygotes pour le gène ATM , présentent un risque relatif de cancer du sein multiplié par 3,9  .
+2.3.2. Cancer de l' ovaire
+Le syndrome de Peutz-Jeghers d à des mutations germinales dans le gène STK11 peut également prédisposer aux tumeurs de l' ovaire .
+Les tumeurs ovariennes peuvent être de type épithélial ou de type stromal  .
+Il existe dans ce syndrome des tumeurs de la granulosa .
+La tumeur ovarienne la plus fréquente est la tumeur des cordons sexuels avec tubes annulaires ( SCTAT pour Sex Cord Tumours with Annular Tubules ) .
+Il s' agit d' une tumeur de type histologique intermédiaire entre les tumeurs de la granulosa et les tumeurs des cellules de Sertoli chez l' homme .
+Les SCTAT sont des tumeurs sécrétrices et calcifiantes .
+Parmi les patientes avec une SCTAT , 36 % ont une maladie de Peutz-Jeghers  .
+3. Risques tumoraux3.1 .
+Cancer du sein
+Le cancer du sein est au premier rang des cancers chez la femme .
+L' âge médian au diagnostic est de 61 ans .
+Pour une femme née en 1953 , son risque tumoral à 74 ans de cancer du sein est de 12,9 % ( une femme sur huit )  .
+La méta-analyse d' Antoniou et al. a estimé que , dans le cadre d' une prédisposition héréditaire , le risque de cancer du sein cumulé à l' âge de 70 ans est de 65 % ( IC 95 % 44 - 78 ) pour BRCA1 et de 45 % ( IC 95 % 31 - 56 ) pour BRCA2 .
+Avant l' âge de 30 ans , le risque est faible pour les deux gènes  .
+Chez une femme ayant déjà développé un cancer du sein , le risque d' atteinte controlatérale est estimé à 48 % à 50 ans et à 64 % à 70 ans  en présence d' une mutation de BRCA1 et à 37 % à 50 ans et à 52 % à 70 ans  en présence d' une mutation BRCA2 .
+Il est important de noter que les risques tumoraux varient en fonction de l' année de naissance .
+En effet , l' équipe de King MC a mis en évidence une augmentation du risque de cancer du sein chez les femmes nées après 1940 .
+Ce phénomène a pour nom effet cohorte  .
+Le risque d' atteinte controlatérale par an est de 3,8 à 6,4 % pour BRCA1 et 2,1 à 4,2 % pour BRCA2 .
+Ces risques ont été confirmés par une seconde étude qui rapporte en absence d' ovariectomie et d' utilisation de tamoxifène un risque de cancer controlatéral sur dix ans de 43,4 et 34,6 % respectivement pour BRCA1 et BRCA2 , soit un risque annuel de 4,3 et 3,4 %  .
+3.2. Cancer de l' ovaire
+Avec 4488 nouveaux cas par an en France , le cancer de l' ovaire est au cinquième rang des cancers chez la femme en 2000 .
+Le risque cumulé de cancer de l' ovaire est estimé à 0,92 % pour une femme née en 1953 ( soit 1 / 108 )  .
+L' âge médian de survenue est de 65 ans .
+Dans le syndrome HNPCC , les caractéristiques cliniques et anatomopathologiques des tumeurs sont différentes de celles des tumeurs sporadiques ou développées en cas de prédisposition BRCA1 / BRCA2 .
+Les tumeurs sont souvent épithéliales mais avec des formes endométrioïdes et mucineuses plus fréquentes que dans les cas sporadiques .
+Le risque cumulé à 70 ans de cancer de l' ovaire est de l' ordre de 8 % .
+La présence d' un cancer de l' ovaire synchrone d' un cancer de l' endomètre est de l' ordre d' au moins 20 % dans le syndrome HNPCC  .
+Dans le cadre d' une prédisposition impliquant les gènes BRCA1 / 2 , la méta-analyse d' Antoniou et al. a estimé que le risque de cancer de l' ovaire cumulé à l' âge de 70 ans est de 39 % ( IC 95 % 22 - 51 ) pour BRCA1 et de 11 % ( IC 95 % 4,1 - 18 ) pour BRCA2 .
+Le risque associé aux altérations de BRCA2 est plus faible et retardé ( très faible avant 50 ans ) .
+Avant l' âge de 40 ans , le risque est très faible pour les deux gènes ; avant 30 ans , il est presque nul .
+Le risque de cancer de l' ovaire chez les femmes ayant déjà développé un cancer du sein , est à cinq et dix ans respectivement de 4,5 et 12,7 % pour BRCA1 et de 5,3 et 6,8 % pour BRCA2  .
+Au risque de cancer de l' ovaire s' ajoute un risque d' atteinte péritonéale et de cancer de la trompe ( risque relatif de 100 ) .
+3.3. Cancer de l' endomètre
+Le cancer de l' endomètre est au troisième rang des cancers chez la femme .
+L' âge médian de survenue est de 69 ans .
+Environ 6 % des cas sont diagnostiqués avant 50 ans et 1 % avant 40 ans .
+Le risque cumulé de cancer de l' endomètre à 74 ans est de 0,84 % pour une femme née en 1953 ( soit 1 / 119 )  .
+Dans le cadre du syndrome HNPCC , le risque cumulé à 70 ans de cancer de l' endomètre est en moyenne de 40 % .
+L' âge au diagnostic est plus précoce .
+Il est compris entre 46 et 48 ans .
+Quinze pour cent des cancers sont diagnostiqués avant 40 ans , 57 % avant 50 ans et 98 % avant 65 ans  .
+Il n' y a pas de particularité notable , ni histologique , ni pronostique , des cancers de l' endomètre survenant dans un contexte HNPCC comparé aux sporadiques .
+4. Indications d' études moléculaires
+Les indications des études des gènes BRCA1 , BRCA2 et MMR sont fonction de la probabilité d' identifier une mutation .
+Le seuil d' une probabilité supérieure ou égale à 10 % a été retenu par l' expertise collective Inserm - FNCLCC sur la prise en charge des femmes à risque de cancer du sein et de l' ovaire et de l' expertise collective sur la prise en charge du syndrome HNPCC  .
+Concernant les études des gènes BRCA1 / 2 , une probabilité d' identifier une mutation supérieure ou égale à 10 % correspond à titre d' exemple aux situations suivantes : - au moins trois cas de cancers du sein ou de l' ovaire chez des femmes apparentées par un lien de premier ou second degré et appartenant à la même branche parentale ;
+- deux cas de cancers de l' ovaire chez deux femmes apparentées au premier degré ou au second degré si la transmission est paternelle ;
+- un cas de cancer du sein et un cas de cancer de l' ovaire chez deux femmes apparentées au premier degré ;
+- une femme ayant été atteinte d' un cancer du sein et d' un cancer de l' ovaire , les deux tumeurs étant primitives .
+Concernant les études des gènes MMR , la situation est un_peu différente .
+En effet , en plus des critères familiaux , des critères liés aux caractéristiques des tumeurs , phénotype RER et test immunohistochimique , peuvent être une aide aux indications des études moléculaires .
+L' analyse directe des gènes est prescrite devant la présence des critères d' Amsterdam , ou dans des situations particulières comme par_exemple un cancer du côlon droit avant l' âge de 40 ans .
+L' analyse peut être prescrite secondairement à un test RER mettant en évidence une instabilité .
+L' immunohistochimie peut orienter le gène à cribler .
+Le dépistage de BRAF peut également permettre d' éliminer une tumeur sporadique MSI en raison de l' hyperméthylation de MLH1  .
+Enfin , rappelons que l' estimation du risque familial et l' indication d' un test génétique doivent être discutée dans le cadre d' une consultation de génétique .
+Les études génétiques sont réalisées après une consultation d' information et l' obtention du consentement éclairé des patients .
+Une consultation psychologique est proposée .
+5. Prise en charge5.1 .
+Prise en charge médicale5.1.1 .
+Risque de cancer du sein
+Selon les recommandations nationales françaises remises à jour récemment , une surveillance mammaire doit être mise en place par un examen clinique des seins deux à trois fois par an à_partir_de l' âge de 20 - 25 ans associée à une mammographie plus_ou_moins échographie annuelle à_partir_de l' âge de 30 ans .
+En fonction de l' âge du diagnostic de cancer du sein le plus précoce dans la famille , le dépistage peut être réalisé plus précocement .
+Récemment , des études ont montré le bénéfice important de l' IRM en termes de sensibilité comparé à la mammographie chez les femmes porteuses d' une mutation BRCA1 / 2  .
+Il est important de mentionner que l' annexectomie prophylactique diminue le risque de cancer de l' ovaire mais également le risque de cancer du sein ( diminution de l' ordre de 50 % )  .
+5.1.2. Risque de cancer de l' ovaire
+Dans un contexte BRCA une échographie pelvienne annuelle à_partir_de l' âge de 35 ans peut être proposée .
+Cependant , l' efficacité de cette surveillance étant discutable , l' expertise collective Inserm - FNCLCC laisse à l' appréciation du clinicien l' indication de cet examen .
+Notons que le dosage du CA125 n' est pas recommandé par l' expertise .
+Dans un contexte HNPCC , l' expertise collective ne retient pas de surveillance ovarienne car le risque de cancer de l' ovaire est relativement faible .
+L' attitude retenue par l' expertise est différente de la surveillance proposée par Lynch et al. , qui recommandent une échographie annuelle dès l' âge de 30 ans et un dosage sérique du CA125  .
+5.1.3. Risque de cancer de l' endomètre
+La surveillance de l' endomètre doit être annuelle , par un examen gynécologique associé à une échographie pelvienne avec mesure de l' épaisseur de l' endomètre et par hystéroscopie avec biopsie à_partir_de l' âge de 30 ans .
+Étant donné l' assez bon pronostic du cancer de l' endomètre , l' hystéroscopie avec biopsie pourrait être faite seulement en cas d' anomalie à l' échographie .
+Par ailleurs , le diagnostic de syndrome HNPCC conduit également à la mise en place d' un suivi biennal du côlon par coloscopie débuté entre 20 et 25 ans .
+Il est recommandé de compléter la coloscopie en utilisant un colorant de type indigo-carmin afin_de détecter des polypes qui seraient passés inaperçus lors_de la coloscopie standard .
+5.2. Prise en charge chirurgicale5.2.1 .
+Risque de cancer du sein
+La mammectomie prophylactique est un geste très lourd , évoqué dans certains cas , chez les femmes porteuses d' une mutation BRCA1 ou BRCA2 .
+Cette chirurgie relève du choix de la patiente .
+Il s' agit toujours d' une décision pluridisciplinaire .
+Une consultation avec un psychologue est obligatoire .
+5.2.2. Risque de cancer de l' ovaire
+La prise en charge dépend de la situation de prédisposition dans laquelle nous nous trouvons .
+Dans le cas d' une mutation BRCA1 ou BRCA2 avérée , qu' il y ait ou non un cas de cancer de l' ovaire dans la famille , l' expertise collective Inserm - FNCLCC recommande une annexectomie prophylactique à_partir_de 40 ans ou dès 35 ans , si le projet parental a été accompli .
+Lorsqu' à l' issue des études moléculaires , aucune altération BRCA n' a été mise en évidence , il reste licite , sous réserve d' une histoire familiale vérifiée , de discuter , dans certains cas , l' annexectomie prophylactique comme par_exemple chez une femme apparentée au premier degré avec une femme atteinte de cancer de l' ovaire , voire chez une apparentée de second degré lorsque l' intermédiaire est un homme .
+La proposition d' annexectomie prophylactique est une décision pluridisciplinaire .
+Ce geste peut entraîner , en_dehors des incidences physiologiques en préménopause , des retentissements psychologiques qui doivent être anticipées et prises en compte .
+Dans le cadre d' un syndrome HNPCC , l' ovariectomie seule n' est pas recommandée .
+En revanche , elle est discutée à l' occasion d' une intervention chirurgicale abdominopelvienne .
+5.2.3. Risque de cancer de l' endomètre
+Dans le cadre d' un syndrome HNPCC , il n' y a pas d' indication de chirurgie prophylactique systématique .
+Cependant , une hystérectomie totale non conservatrice peut être discutée lors d' une intervention chirurgicale abdominopelvienne .
+6. Conclusion
+L' identification des gènes de prédisposition aux cancers du sein , de l' ovaire ou de l' endomètre est une avancée importante de ces dix dernières années pour la prise en charge clinique des cas familiaux .
+Il existe une variabilité inter- et intrafamiliale des risques tumoraux chez les patients porteurs d' une mutation d' un gène BRCA1 / 2 ou MMR .
+Cette variabilité pourrait être due à l' existence de facteurs modificateurs génétiques ou environnementaux .
+L' identification de ces facteurs est difficile mais serait d' un grand intérêt .
+En effet , elle devrait permettre une meilleure compréhension des risques tumoraux et par -là l' amélioration de la prévention chez les femmes à risque .
+La chirurgie prophylactique chez les femmes porteuses d' une mutation BRCA1 ou BRCA2 reste un geste mutilant difficilement acceptable pour la femme comme pour le médecin .
+Dans un avenir proche , nous espérons pouvoir proposer chez les femmes porteuses d' une mutation BRCA1 ou BRCA2 un traitement préventif comme par_exemple un traitement antihormonal pour le risque de cancer du sein

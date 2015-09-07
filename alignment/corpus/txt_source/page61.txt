@@ -1,0 +1,97 @@
+1.1. Effet sur le tissu osseux et le risque de fracture
+Plusieurs études longitudinales ont bien établi que la perte osseuse débute dès les dernières années de la périménopause  pour ne se ralentir que quatre ou cinq ans après la ménopause  .
+De même , les altérations du remodelage osseux et de la microarchitecture osseuse , qui peuvent être objectivés sur des biopsies osseuses ou par IRM apparaissent très précocement .
+Recker_et_al.  ont étudié à_partir_de biopsies transiliaques , 75 femmes initialement non ménopausées , dont 51 ont débuté leur ménopause au cours des 9,5 années du suivi .
+Les biopsies ont été réalisées à l' inclusion , puis 12 mois après l' arrêt définitif des règles .
+La fréquence d' activation qui représente un marqueur de l' activité du remodelage osseux était significativement augmentée après la ménopause , avec pratiquement un doublement des valeurs par_rapport_à la période initiale .
+Par des techniques de quantification utilisant l' IRM osseuse , l' analyse comparative de l' architecture trabéculaire sur des biopsies osseuses virtuelles , obtenues à 12 mois d' intervalle chez des femmes en début de ménopause ne recevant aucun traitement permet de confirmer l' augmentation significative des paramètres d' érosion trabéculaire , la diminution de l' épaisseur des travées osseuses , tout comme la diminution de la densité volumétrique par_rapport_à des femmes recevant un traitement hormonal substitutif ( THS )  .
+L' ensemble de ces données témoignent donc des modifications rapides de la structure du tissu osseux qui surviennent dès le début de la phase post-ménopausique .
+Le THS apparaît donc particulièrement adapté à cette période pour contrecarrer ces perturbations , d' autant_que son efficacité est d' autant plus nette que le niveau du remodelage osseux est élevé  .
+Certes , l' incidence des fractures ostéoporotiques est faible dans la première décennie post-ménopausique , mais le traitement hormonal de la ménopause ( THM ) est le seul traitement dont le bénéfice en termes d' épargne fracturaire est démontré pour des femmes de 50 à 60 ans .
+Plusieurs études d' observation avaient déjà documenté la diminution de l' incidence fracturaire chez les femmes recevant ou ayant reçu un THM .
+L' étude WHI  a confirmé de manière irréfutable cette efficacité et cela pour tous les types de fracture par fragilité , avec le même niveau de réduction du risque de fracture dans les bras « estroprogestatifs » et le bras « estrogènes » plus récemment publié  .
+Globalement , dans le bras estroprogestatifs la réduction du risque fracturaire ( toutes fractures confondues ) est de 24 % ( risque relatif de 0,76 pour un intervalle de confiance à 95 % de 0,69 - 0,83 ) .
+En termes de risque absolu , l' épargne fracturaire est de 47 fractures pour 10000 femmes traitées et par an .
+Ce bénéfice est particulièrement net pour les fractures du poignet ( 18 fractures en moins sur 10000 femmes par an ) qui représentaient l' évènement fracturaire le plus fréquemment observé ( 189 fractures dans le groupe THS et 245 fractures dans le groupe placebo )  .
+Ce résultat est intéressant car la fracture du poignet représente la fracture « sentinelle » dans l' évolution de l' ostéoporose , et sa survenue augmente double pratiquement le risque de fracture vertébrale ou fémorale  .
+La diminution de son incidence ne peut que représenter un marqueur d' efficacité du traitement hormonal pour une prévention plus large du risque d' ostéoporose .
+Il est également important de souligner que la réduction fracturaire était également significative pour les fractures de hanche ( cinq fractures en moins sur 10000 femmes par an ) , ainsi_que pour les tassements vertébraux cliniquement symptomatiques ( six fractures en moins sur 10000 femmes par an ) .
+Ces mêmes données sont retrouvées chez les femmes n' ayant reçu que des estrogènes  chez lesquelles le risque de fracture de l' ESF est diminué de 39 % [ RR = 0,61 ( IC 95 % 0,41 - 0,91 ) ] et celui des fractures vertébrales de 38 % [ RR = 0,62 ( IC 95 % 0,42 - 0,93 ) ] .
+Cependant aucune radiographie vertébrale n' avait été réalisée de manière systématique dans l' étude WHI , comme cela est habituellement fait dans les grands essais de prévention de l' ostéoporose .
+On peut se demander si l' efficacité réelle du traitement vis-à-vis des tassements vertébraux n' a pas été , en l' absence de confirmation radiographique , sous-estimée puisque plus de deux tiers des tassements vertébraux sont cliniquement silencieux et ne conduisent pas à une consultation .
+Tableau 1.
+Efficacité antifracturaire du traitement hormonal dans l' étude WHI
+FracturesTH ( nombre ) Placebo ( nombre ) Épargne fracturaire ( /10 000 F / an ) HR [ IC 95 % ] Poignet189245 - 180,67 [ 0,54 - 0,87 ] Vertèbresa4160 - 60,66 [ 0,45 - 0,98 ] Col du fémur5273 - 50,67 [ 0,47 - 0,96 ] Toutes Fractures733896 - 470,76 [ 0,69 - 0,83 ]
+Full-size table
+a Fractures cliniquement symptomatiques .
+TH : traitement hormonal ; F : femmes ; HR : hazard-ratio .
+a Fractures cliniquement symptomatiques .
+View Within Article
+Par ailleurs , il est important de souligner que la population traitée était à faible risque d' ostéoporose .
+Ainsi , les femmes qui avaient des antécédents fracturaires récents et / ou la notion d' un niveau de densité minérale osseuse ( DMO ) déjà abaissée ont été exclues de l' essai WHI .
+Un faible pourcentage de femmes avait des valeurs de DMO abaissées .
+Ainsi parmi les 1025 femmes qui ont bénéficié d' une mesure de DMO par ostéodensitométrie , seules 10 à 12 % des femmes présentaient une ostéoporose selon les critères de l' OMS ( T-score - 2,5 ) , malgré un âge moyen de 63 ans .
+En moyenne , le T-score était de - 0,9 pour les vertèbres et de - 1,2 à la hanche totale avec pratiquement 40 % des femmes qui avaient des niveaux de DMO normaux , voire élevés , ce qu' il faut avant_tout rapprocher du fort pourcentage de surcharge pondérale et d' obésité de la population .
+L' incidence fracturaire dans cette étude apparaît de fait 10 à 15 fois plus faible , en fonction des sites osseux , que dans les essais de prévention de l' ostéoporose par les bisphosphonates  ou les SERMs  .
+Il faut souligner par_ailleurs que l' efficacité antifracturaire de ces molécules , chez des femmes à faible risque osseux ( T-score - 2 ) n' a pas été documentée .
+1.2. Effets généraux
+L' estrogénodépendance de tous les tissus de l' organisme féminin rend compte des perturbations fonctionnelles et organiques multiples dont souffrent beaucoup de femmes , parfois dès la périménopause , et qui sont regroupées sous le nom de syndrome climatérique .
+Ces manifestations peuvent altérer la qualité de la vie personnelle , mais_aussi familiale , professionnelle , sociale , et l' efficacité des estrogènes sur leur prévention et leur traitement est un atout incontestable pour le choix de ce traitement .
+2. Risques liés au traitement hormonal2.1 .
+Risque cardiovasculaire
+Les nombreuses données concernant l' effet cardioprotecteur des estrogènes ont été apparemment contredites par les résultats des études prospectives de prévention secondaire ( HERS ) ou primosecondaire telle la WHI .
+Dans cette étude , en_effet ,  le « surrisque » absolu chez les femmes traitées était de +8 cas sur 10000 femmes par an pour l' infarctus du myocarde et les AVC , de +13 cas sur 10000 femmes par an pour les accidents thromboemboliques veineux .
+Rappelons cependant_que ces chiffres s' appliquent à une population particulière , c' est-à-dire à des femmes âgées en moyenne de 63 ans et dont plus des deux tiers étaient âgées de plus de 60 ans et ménopausées depuis plus de dix ans ( dont 25 % de plus de 70 ans et de plus de 15 ans d' ancienneté de ménopause ) .
+Ils sont difficilement extrapolables à des femmes plus jeunes .
+De plus , il est légitime de penser que les caractéristiques cliniques de cette population , dont plus de 66 % des femmes présentaient une surcharge pondérale ( dont 30 % d' obèse ) et plus de 35 % une hypertension artérielle étaient de nature à majorer leur risque cardiovasculaire propre .
+Même , s' il est actuellement impossible d' affirmer que l' impact cardiovasculaire d' un THM aurait été différent si le traitement n' avait été administré qu' à des femmes en début de ménopause et à bas risque cardiovasculaire , il n' est pas inutile de rappeler que dans l' étude WHI , celui-ci n' était pas majoré de manière significative ( 0,89 IC 95 % [ 0,47 - 1,48 ] chez les femmes dont l' ancienneté de ménopause était inférieure à dix ans  .
+De même , lorsque l' impact du traitement était examiné en fonction du bilan lipidique initial , seules les femmes dont les taux de cholestérol total à l' inclusion étaient supérieurs à 2,42 g / l avaient une augmentation significative de leur risque cardiovasculaire ( 2,03 IC 95 % [ 1,28 - 3,6 ] ) , suggérant l' existence d' une certaine relation entre risque artériel endogène , THS et accident coronarien  .
+Tableau 2.
+Risque relatif de pathologie coronarienne en fonction de l' âge , de l' ancienneté de ménopause et du LDL-cholestérol dans l' étude WHI
+ParamètresNombre de cas THNombre de cas PlaceboRR [ IC 95 % ] ge 50 - 59 ans37271,27 60 - 69 ans75681,05 70 - 79 ans76521,44 Anc .
+MP 10 ans31340,89 10 - 19 ans63511,22 20 ans74441,7a CT 208 mg / dl24210,76 208 CT -242 mg / dl41231,28 242 mg / dl51342,03a
+Full-size table
+a significatif .
+View Within Article
+En fait de nombreux travaux récents , expérimentaux certes pour la_plupart , permettent de mieux comprendre aujourd'hui cet effet paradoxal d' aggravation du risque cardiovasculaire chez les femmes recevant des estroprogestatifs , tel qu' il a été observé dans les études HERS et WHI .
+Nous ne ferons pas ici une revue détaillée de tous ces travaux dont les résultats permettent néanmoins de dégager une notion essentielle qui est celle de l' importance de la chronologie d' administration des estrogènes dans l' histoire évolutive de l' athérosclérose .
+Les relations entre estrogènes et athéroscléroses sont complexes  , mais prises dans leur ensemble , ces données suggèrent que lorsqu' ils sont administrés tôt , c' est-à-dire avant l' apparition des lésions de l' endothélium vasculaire , les estrogènes auraient un effet proctecteur sur la progression de l' athérosclérose surtout par leurs effets sur la relaxation de la paroi vasculaire et le métabolisme des lipoprotéines .
+S' ils sont administrés trop tard , sur un endothélium déjà lésé , les estrogènes expriment des propriétés pro-inflammatoires , pouvant entraîner la rupture d' une plaque vulnérable et une hypercoagulabilité à l' origine d' accidents vasculaires précoces .
+De plus , l' utilisation de la voie orale , qui par ses effets hépatiques amplifie la production de facteurs pro-inflammatoires , et l' association à un progestatif de synthèse , tel le MPA ( acétate de médroxyprogesterone ) qui antagonise certains effets protecteurs des estrogènes , ne peut qu' aggraver la situation cardiovasculaire de femmes à risque .
+Il est du reste intéressant de remarquer que dans le bras « estrogènes seuls » de la WHI , le risque de pathologies coronariennes n' est pas augmenté chez les femmes traitées  .
+Elles présentent cependant pour des raisons encore non expliquées le même risque d' accident vasculaire cérébral que les femmes ayant reçu l' association estroprogestative .
+Ainsi , au plan cardiovasculaire le problème n' est pas celui d' une « nocivité » intrinsèque des estrogènes , mais celui des critères de sélection des femmes qui pourraient en bénéficier .
+Actuellement nous ne disposons pas de moyens utilisables dans la pratique pour dépister des femmes ayant des lésions d' athérosclérose instables , mais plusieurs techniques d' investigation apportent déjà des résultats prometteurs .
+2.2. Risque thromboembolique veineux
+Ce risque apparaît clairement dépendant également de la voie d' administration et probablement aussi du type de progestatif associé .
+Ainsi l' étude française ESTHER  a bien montré que le risque d' accident thromboembolique veineux était particulièrement associé à la voie orale et que l' utilisation d' une voie parentérale n' apparaissait pas majorer ce risque .
+De plus et même chez les femmes recevant des estrogènes par voie cutanée , ce risque est différent selon les progestatifs utilisés .
+2.3. Risque de cancer du sein
+L' augmentation éventuelle du risque de cancer du sein représente , dans la pratique quotidienne , le frein majeur à l' utilisation d' un traitement hormonal aussi_bien pour beaucoup de femmes que de médecins prescripteurs .
+En fait l' analyse détaillée des résultats des études anglo-saxonnes , ainsi_que les données toutes nouvelles issues de l' étude française Epic-ERN , permettent de dégager trois données essentielles : - dans l' ensemble , le surrisque éventuel de cancer du sein qui serait conféré par l' utilisation d' un traitement hormonal reste faible et ne doit pas faire oublier celui engendré par d' autres facteurs tels le tabagisme , l' obésité , la consommation alcoolique , dont la nocivité apparaît beaucoup moins médiatisée et connue que celle imputée au traitement hormonal !
+- il est actuellement difficile d' établir une relation précise entre la durée d' un traitement hormonal et l' augmentation du risque de cancer du sein sur la base de ces études aux résultats disparates .
+Dans la WHI , seule étude de niveau 1 , un tel risque n' apparaîtrait qu' au-delà_de quatre ans d' utilisation d' un THM .
+Ainsi , lorsque seules les femmes qui n' avaient jamais reçu de THM avant leur inclusion étaient prises en compte , l' augmentation du risque mammaire préalablement au terme des 5,8 ans de suivi n' est plus retrouvée ( risque relatif de 1,06 IC 95 % [ 0,81 - 1,38 ] ) .
+Ces résultats sont différents dans la MWS , et dans l' étude E3N ;
+- enfin , et toutes ces études sont concordantes sur ce point et corroborent les données de plusieurs études d' observation , le rôle des progestatifs apparaît désormais au premier plan .
+Ainsi , dans l' étude WHI , une augmentation du risque ne serait retrouvée que chez les femmes recevant l' association CEE - MPA et non chez celles traitées par CEE seuls , où le risque de cancer du sein est plutôt diminué ( RR : 0,77 ( 0,59 - 1,01 )  .
+De même , les derniers résultats de l' étude française E3N , montrent que le risque de cancer du sein n' est pas majoré chez les femmes qui ont reçu de l' estradiol par voie cutanée associée à la progestérone ( RR : 0,9 IC 95 % = 0,7 - 1,2 ) alors_que ce risque est significativement augmenté ( p 0,001 ) en cas d' utilisation d' un progestatif de synthèse ( RR : 1,4 IC 95 % = 1,2 - 1,7 )  .
+Tableau 3.
+Risque relatif de cancer du sein chez les femmes traitées par CEE + MPA ou CEE seuls dans l' étude WHI
+WHIPopulation ( nombre ) Suivi ( ans ) TH ( nombre ) Placebo ( nombre ) RR [ IC 95 % ] CEE + MPA16 6085,21661241,26 [ 1,00 - 1,59 ] CEE seuls10 7396,8941240,77 [ 0,59 - 1,01 ]
+Full-size table
+CEE : estrogènes conjugués equins ; MPA : acétate de médroxyprogestérone .
+View Within Article
+3. En synthèse : THS ou THM ?
+Quelle durée ?
+L' analyse des données épidémiologiques actuelles ne supporte donc pas le concept d' un rapport bénéfice / risque défavorable pour un traitement hormonal utilisé chez des femmes à risque d' ostéoporose et en début de ménopause .
+De plus les résultats de ces études cliniques , notamment ceux concernant les différences des effets ou des risques selon la voie d' administration de l' estrogène ou le type de progestatif , soulignent l' intérêt à utiliser en priorité , après la ménopause , un traitement hormonal véritablement substitutif c' est-à-dire fondé sur l' utilisation d' hormones bio-identiques et en_l'_occurrence 17- estradiol et progestérone .
+Ce principe , qui est la base actuelle du traitement de toute insuffisance hormonale , doit redevenir la règle pour la substitution partielle de la fonction ovarienne de la femme ménopausée .
+Il est actuellement impossible de définir quelle serait la durée idéale d' un traitement hormonal utilisé dans le cadre de la prévention ou du traitement de l' ostéoporose .
+En effet , la réponse tissulaire aux estrogènes , en termes de tolérance ou d' efficacité est sous-tendue en_effet par une prédisposition génétique dont certains facteurs ( polymorphismes ) ont déjà été identifiés et devraient dans un avenir proche pouvoir être caractérisés au plan individuel .
+En théorie , un traitement hormonal pourrait être poursuivi tant_que ses bénéfices excèdent ses risques et un certain nombre de femmes ménopausées ont déjà des durées de traitement supérieures à 10 voire 15 ans et restent réticentes à son arrêt .
+Actuellement , et pour un traitement entrepris en début de ménopause chez une femme à risque osseux , une phase de cinq ans paraît raisonnable sur la base des données actuellement disponibles , associée à une surveillance clinique et mammaire régulière et une réévaluation de l' indication au terme de cette période .
+4. Conclusion
+Le THS prescrit à bon escient et avec les précautions usuelles garde toute sa place , en début de ménopause , chez les femmes à risque d' ostéoporose qui peuvent et souhaitent le recevoir .
+Ce concept d' un THS , administré tôt et d' une durée limitée doit être intégré dans une stratégie de prévention à long terme de l' ostéoporose .
+En effet , le THS ne constitue plus la seule arme efficace pour lutter contre l' ostéoporose , mais s' associe à une diversité de moyens thérapeutiques ( SERMs , bisphosphonates , anaboliques osseux ) , dont l' indication spécifique doit rester adaptée à l' âge et à la situation clinique

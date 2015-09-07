@@ -1,0 +1,192 @@
+1.1. Le cancer du sein est une maladie radiosensible
+Avec 35000 nouveaux cas par an , le cancer du sein est le premier cancer de la femme et le second cancer dans la population générale en France .
+Une femme sur dix en sera atteinte au_cours_de sa vie .
+Si l' incidence ne cesse de progresser au cours des trente dernières années , la mortalité par cancer du sein augmente nettement moins que l' incidence .
+Cette observation est probablement la résultante de plusieurs phénomènes : effets positifs du dépistage individuel et de masse , efficacité des traitements adjuvants .
+Parmi ceux-ci , la radiothérapie locorégionale postopératoire des cancers invasifs a pu être associée , dans de grandes études randomisées et dans une méta-analyse , à un bénéfice non_seulement sur le contrôle local , mais_aussi sur la survie sans récidive et sur la survie globale  .
+Les résultats à 20 ans de grandes études randomisées comparant mastectomie et traitement conservateur avec irradiation mammaire ont été récemment publiés  .
+Ils établissent de façon définitive le rôle de l' irradiation dans la conservation mammaire , devenue un standard pour les tumeurs infiltrantes de taille limitée .
+Plus avant , l' étude récemment publiée de l' EORTC ( European Organization for Research and Treatment of Cancer )  a établi les bénéfices d' un complément d' irradiation du lit tumoral de 16 Gy après une irradiation de la totalité de la glande mammaire de 50 Gy en termes de taux de contrôle local des carcinomes infiltrants T1-T2 ( gain de 3 % à cinq ans ) , en_particulier chez les femmes de moins de 40 ans  .
+Enfin , trois études randomisées comparant tumorectomie avec et sans irradiation mammaire de 50 Gy , réalisées respectivement par le NSABP ( national Surgical Adjuvant breast and Bowel Project ) , l' EORTC et un groupe anglais ont mis en évidence le bénéfice d' une irradiation mammaire sur le contrôle local après chirurgie conservatrice d' un carcinome intracanalaire  .
+1.2. Trois axes de recherche pour la radiothérapie des cancers du sein
+Les importantes avancées cliniques citées précédemment ont pour corollaire l' identification de trois axes majeurs de recherche pour les années à venir :
+1.2.1. Étude des mécanismes de radiorésistance des cancers du sein
+Malgré son impact notable sur le contrôle local des cancers du sein in_situ et invasifs , comme nous l' avons vu précédemment , les bénéfices de la radiothérapie sont limités à une partie assez faible de la population traitée , comme c' est également le cas pour les thérapeutiques adjuvantes , chimiothérapie et hormonothérapie .
+En effet , seules 25 % environ des rechutes locales sont évitées , soit un gain brut de 3 à 6 % selon les catégories traitées  .
+L' approche de génétique moléculaire et pharmacogénétique de ces profils radiorésistants , avec émergence d' agents réverseurs ou radiosensibilisants , était en essor dans les dernières années  .
+Full-size image ( 32K )
+Fig. 1. Évolution locorégionale théorique de 100 cancers du sein irradiés .
+View Within Article
+1.2.2. Amélioration des capacités de prédiction des risques de rechute locale
+Une immense majorité des femmes atteintes de cancer du sein reçoit une irradiation adjuvante alors_que la tumeur n' aurait pas rechuté .
+De nombreuses études ont recherché parmi un nombre de variables cliniques et pathologiques , des facteurs de risque de rechute locale .
+L' âge est le seul facteur de risque constamment retrouvé , même dans les populations de femmes ayant reçu une irradiation , voire un complément d' irradiation du lit tumoral  , sans qu' une explication puisse être apportée à cette observation .
+Ainsi , même si certaines données cliniques ou pathologiques classiques sont d' une aide certaine à la prise en charge locale et générale en routine des cancers du sein infiltrants ou in_situ  , il y a un besoin majeur d' identification de marqueurs prédictifs et pronostiques plus puissants permettant un affinement des choix thérapeutiques et une désescalade à long terme pour une grande partie de la population .
+Il s' agit donc d' un domaine où les avancées de la génétique moléculaire prédictive devraient avoir des implications majeures dans les prochaines années .
+1.2.3. Étude des mécanismes de l' hypersensibilité à l' irradiation
+Pour une petite partie des femmes recevant une irradiation locorégionale après chirurgie d' un cancer du sein , les bénéfices sont négativement compensés par une toxicité lourde à long terme .
+La plus préoccupante est une cardiotoxicité clinique ou infraclinique  , qui pourrait minorer de façon notable les bénéfices à long terme de l' irradiation  .
+Sont décrites par_ailleurs une toxicité pulmonaire  , et surtout l' induction de secondes tumeurs malignes : petit excès de cancers controlatéraux  , cancers bronchiques  , classiques sarcomes , et , en association avec la chimiothérapie , survenue d' hémopathies secondaires  .
+Enfin , les problèmes les plus fréquents sont cosmétiques et trophiques à long terme , de moindre gravité mais d' impact notable sur la qualité de vie .
+On rappelle par_ailleurs qu' une partie des cancers du sein sont radio-induits , le cas le plus fréquent et largement décrit survenant après radiothérapie en mantelet pour maladie de Hodgkin  , ce qui suggère une sensibilité constitutionnelle particulière mais non encore démontrée aux radiations ionisantes .
+L' hypersensibilité aux radiations ionisantes , telle_que définie cliniquement ou par des essais fonctionnels ex vivo , ne semble pas liée au pronostic des cancers du sein  .
+Les apports de la génétique dans ce domaine  devraient donc avant_tout permettre la prédiction de toxicité à long terme des traitements , dans le cadre d' objectifs de qualité de vie d' éviction de morbidité .
+1.3. Le cancer du sein a de nombreux déterminants génétiques
+De toutes les hypothèses étiologiques étudiées ( virales , toxiques ) , seuls des déterminants génétiques ont pu jusqu' alors être mis en évidence dans la genèse des cancers du sein : celui-ci semble être la résultante d' une série d' évènements génétiques et épigénétiques complexes conduisant à la transformation maligne d' une cellule mammaire épithéliale normale .
+Dans 3 à 5 % des cas , une anomalie génétique constitutionnelle causale peut être identifiée ( mutation germinale délétère d' un gène suppresseur de tumeur ) .
+À l' échelon somatique ( au niveau des cellules de la tumeur et non plus de toutes les cellules de l' organisme ) , de nombreuses anomalies génétiques plus_ou_moins fréquentes ont pu être mises en évidence dans les cancers du sein .
+Si la cascade d' évènements tumorigènes dans les cancers du sein apparaît moins claire qu' elle ne l' est pour les cancers coliques par_exemple , les connaissances accumulées dans ce domaine sont cependant très étendues , permettant de reconstituer peu_à_peu l' immense puzzle des caractéristiques conduisant au phénotype tumoral capable d' invasion , de prolifération , de néo-angiogenèse , de dissémination métastatique .
+Un nombre de caractéristiques moléculaires ainsi mises en évidence ont déjà leur application en diagnostic , prédiction ou thérapeutique des cancers du sein , comme l' expression des récepteurs hormonaux ou celle du récepteur à tyrosine kinase Her2 / neu .
+Les connaissances sont en cours d' extension exponentielle grâce_à l' apport de nouvelles technologies permettant l' analyse du génome tumoral in toto .
+Elles devraient avoir rapidement des implications majeures dans ces mêmes domaines de diagnostic , prédiction , thérapeutiques préventives ou curatives .
+1.4. Objectifs de cette mise au point
+Les objectifs de cette mise au point sont d' éclairer les avancées des dernières années dans le domaine de la génétique des cancers du sein , dans l' optique des trois axes de recherche majeurs cités ci-dessus : étude des mécanismes de radiorésistance des cancers du sein , amélioration des capacités de prédiction des risques de rechute locale , connaissance des mécanismes de l' hypersensibilité à l' irradiation .
+2. Mécanismes de la radiosensibilité des cancers du sein
+Le déterminant majeur de la radiosensibilité réside dans la capacité de réparation des cassures-double brin de l' ADN .
+Les mécanismes de réparation de ce type de dommages appartiennent à deux classes : la première est la recombinaison homologue , qui nécessite la présence d' un brin homologue d' ADN .
+Elle se déroule en phases S tardive et G2 du cycle cellulaire , utilise de façon prévalente les protéines rad51 et son complexe ( BRCA1 et 2 , XRCC2 et 3 ) et n' autorise pas d' erreurs de lecture .
+La seconde classe correspond à un mécanisme non homologue survenant plutôt en phase G1 , susceptible de générer des erreurs et utilisant des protéines complètement différentes ( ligase 4 , ADN-PK , XRCC4 ) .
+Ces deux mécanismes sont mutuellement exclusifs dans une cellule donnée selon le contexte .
+Les autres déterminants , minoritaires , de la radiosensibilité sont en rapport avec la capacité de la cellule à assurer correctement les deux étapes clés de contrôle du cycle cellulaire en G1-S et G2-M et à se diriger éventuellement vers des voies d' apoptose .
+Les facteurs moléculaires les plus explorés en cause dans la radiosensibilité des cancers du sein , discutés ici , sont classés dans le Tableau 1 par mode d' action et réponse cellulaire .
+Tableau 1.
+Principaux facteurs génétiques identifiés comme déterminants de radiosensibilité des cancers du sein , fonction biologique et réponse cellulaire en cas d' anomalie ( selon les cas , déficit , mutation , surexpression )
+GèneFonction biologiqueRéponse cellulaire si anormal BRCA1Recombinaison homologue , régulation du cycle cellulaire , apoptoseSensibilité ( variable ) BRCA2Recombinaison homologueSensibilité ( variable ) ATMRéparation ADN ( transduction du signal ) Sensibilité P53Régulation du cycle cellulaire , apoptose , recombinaison homologue , facteur de transcriptionSensibilité ou résistance selon contexte Cycline D1Régulation du cycle cellulaireRésistance cerbB2Transduction du signal , proliférationRésistance EGF-RTransduction du signal , proliférationRésistance Cox 2Biosynthèse des prostaglandinesRésistance
+Full-size table
+View Within Article
+3. Bases moléculaires germinales de la radiosensibilité des cancers du sein3.1 .
+Généralités
+Si 10 à 15 % des cancers du sein se développent dans le contexte d' antécédents familiaux de ces cancers au premier ou au second degré , réalisant une « susceptibilité » , mal connue et probablement polygénique , non mendélienne ; 4 à 5 % surviennent dans le contexte d' un syndrome de « prédisposition héréditaire » majeure liée à la transmission mendélienne d' une anomalie monogénique .
+La prédisposition au cancer , classiquement liée à une anomalie germinale de type « perte de fonction » d' un gène suppresseur de tumeur et présente à l' état hétérozygote dans toutes les cellules de l' organisme , n' est généralement pas associée à d' autres anomalies phénotypiques que le risque de cancer .
+Le risque de cancer chez un individu , en fonction du gène et de la mutation en cause , mais également du contexte multigénique ( « gènes modificateurs » ) et environnemental associé , peut varier d' un niveau très faible à un niveau de 100 % ( pénétrance , mais_aussi expressivité variables ) .
+Les cancers dans ce contexte surviennent à un âge généralement très inférieur à l' âge moyen au moment du diagnostic dans la population générale , ce qui corrobore la théorie de Knudson du « second événement » cellulaire somatique nécessaire , le cancer apparaissant plus vite si le premier événement est présent à l' état germinal .
+3.2. Gènes BRCA1 et BRCA2
+Les études de liaison génétique entreprises dans des familles présentant de multiples cas de cancers du sein ont permis de localiser deux gènes majeurs de prédisposition aux cancers du sein , BRCA1 et BRCA2 , respectivement situés sur les chromosomes 17q et 13q .
+Ces deux gènes répondent aussi de la prédisposition aux syndromes cancers du sein / cancers de l' ovaire et , pour BRCA1 essentiellement , également à la prédisposition aux cancers de l' ovaire seuls .
+La fréquence de mutations germinales délétères de l' un ou l' autre gène est de 1 / 800 dans la population caucasienne , 2 % environ dans les populations juives ashkénazes pour trois mutations fondatrices .
+Les femmes ayant une mutation germinale de l' un de ces deux gènes ont un risque très élevé de cancer du sein , évalué entre 50 et 80 % au_cours_de la vie  .
+3.2.1. Fonctions cellulaires des gènes BRCA1 et BRCA2
+Neuf ans après le clonage du gène BRCA1  et huit ans après celui de BRCA2  , les fonctions précises des protéines BRCA1 et BRCA2 ne sont pas encore déterminées  .
+BRCA1 se lie à de très nombreuses protéines cellulaires in_vivo et semble avoir de multiples fonctions dépendantes du contexte cellulaire  .
+Outre pour BRCA1 , un rôle de régulateur de transcription de gènes cibles comme GADD 45 , mdm2 , c-myc , ER , Elk1 , p21  , les deux protéines BRCA1 et BRCA2 interviennent de façon majeure dans la réponse cellulaire aux lésions génotoxiques .
+Globalement , une hypersensibilité à l' irradiation est notée , que ce soit dans des modèles de lignées cellulaires ou d' animaux transgéniques  , qui peut cependant être variable selon le contexte génétique associé et dont les mécanismes sont détaillés ci-dessous : - rôle de BRCA1 et BRCA2 dans la recombinaison homologue ;
+in vitro , les cellules déficientes en BRCA1 semblent être radiosensibles , avec une division par cinq du taux mesurable de recombinaison homologue  .
+Cet effet peut être corrigé par la transfection du gène BRCA1 sauvage  .
+La protéine BRCA1 interagit avec Rad51 , homologue de la protéine recA d' E .
+Coli , confirmant son rôle dans la recombinaison homologue  .
+Elle interagit également avec le complexe Rad50/ Mre11 / Nbs1 , qui joue un rôle d' exonucléase dans la recombinaison homologue  .
+Elle est phosphorylée en réponse à des lésions de l' ADN par radiations ionisantes  .
+La seule fonction connue du gène BRCA2 est un rôle de facilitation de la recombinaison homologue  , au_cours_de laquelle elle interagit avec des acteurs majeurs , comme la protéine Rad51  .
+- rôle dans la recombinaison non homologue ( « non homologous end joining » ) ; des cellules déficientes en BRCA1 ont été décrites comme présentant un déficit de recombinaison non homologue en réponse à l' irradiation  .
+Aucune anomalie de ce type n' a été décrite pour BRCA2 .
+- « Checkpoints » du cycle cellulaire ;
+après irradiation , les cellules déficientes en BRCA1 , comme celles déficientes en ATM , n' interrompent pas normalement leur synthèse d' ADN  .
+Le checkpoint entre les phases G2 et M du cycle cellulaire n' est pas respecté  .
+Ces deux effets sont vraisemblablement dissociés en fonction de l' anomalie génétique ponctuelle du gène BRCA1 en cause  .
+- réparation couplée à la transcription ;
+la réparation couplée à la transcription est mise en oeuvre lorsque la lésion de l' ADN survient au niveau d' un gène en cours de transcription .
+Il s' agit de réparation simple-brin , utilisant des méthodes d' excision de base ou de nucléotide .
+La protéine BRCA1 a été décrite comme ayant possiblement également un rôle dans la réparation liée à la transcription , vraisemblablement via un mécanisme d' excision de base  .
+Le même type d' observation a été faite pour BRCA2  .
+3.2.2. Phénotypes des cancers du sein liés à BRCA1 ou BRCA2
+Les cancers du sein en contexte de mutation germinale des gènes BRCA1 et BRCA2 surviennent dix à 15 ans plus_tôt que les cancers sporadiques .
+Contrairement aux cancers liés à BRCA2 , les cancers liés à BRCA1 présentent un phénotype particulier , fait de croissance rapide , haut grade , fréquence de l' histologie médullaire , récepteurs hormonaux très fréquemment absents , indices de prolifération élevés , rareté de la surexpression du gène Her2 / neu  .
+Plusieurs équipes internationales ont exploré le profil d' expression des tumeurs du sein et de l' ovaire en contexte BRCA1 , en comparaison à des tumeurs sporadiques  .
+Des « signatures » moléculaires spécifiques de BRCA1 ou BRCA2 ont pu être mises en évidence , avec des résultats quelque_peu hétérogènes concernant les gènes décrits .
+Les retombées médicales de ces descriptions génétiques restent à définir : orientation des thérapeutiques et de la prévention sur des cibles moléculaires spécifiques , signature du contexte héréditaire orientant vers une recherche de mutation des gènes BRCA1 / 2 .
+3.2.3. Mutations germinales des gènes BRCA1 et BRCA2 et traitement conservateur des cancers du sein
+Les données cliniques sont relativement limitées en ce qui concerne l' efficacité et la tolérance des traitements de radiothérapie en contexte de mutation germinale des gènes BRCA1 et BRCA2 .
+Pour ce qui concerne la tolérance , deux études sont rassurantes : l' une d' elles a recherché des mutations germinales des gènes BRCA1 et BRCA2 chez 22 femmes ayant souffert de très sévères effets secondaires radio-induits : aucune mutation n' a été identifiée  .
+La seconde étude menée par Pierce et al. a comparé rétrospectivement la tolérance précoce et tardive à l' irradiation , de 71 patientes porteuses de mutations de l' un des gènes BRCA1 ou 2 , à celle de 213 patientes non porteuses de mutation .
+Les taux de complications étaient identiques et faibles dans les deux groupes  .
+La qualité du contrôle local obtenu par la radiothérapie après traitement chirurgical conservateur chez les patientes BRCA1 est variable selon les études , dont les biais rétrospectifs sont évidents .
+Dans l' étude cas-contrôle de Turner chez des femmes jeunes dont la tumeur a rechuté localement , la prévalence de mutations germinales des gènes BRCA1 / 2 était plus importante que chez les contrôles dont la tumeur n' a pas rechuté  .
+Dans l' étude de Pierce et al. comparant des femmes porteuses ou non de mutations germinales de ces gènes , les taux de rechute locale à cinq ans étaient faibles et non différents entre les deux groupes observés  .
+Cependant , l' incidence des rechutes locales semble importante dans certaines séries , avec en_particulier dans une étude récente bien menée chez des femmes jeunes , un taux de risque cumulé de rechute locale à 12 ans de 49 % chez les femmes porteuses d' une anomalie germinale délétère de BRCA1 ou BRCA2 , alors qu' il était de 21 % pour les cancers sporadiques  .
+Il est à noter que dans cette étude , chez les femmes du groupe BRCA1 / 2 , les caractéristiques de nombre de « rechutes locales » , entre autres par leur délai d' apparition , étaient évocatrices de seconds cancers primitifs .
+Dans notre série de l' institut Gustave Roussy  , les taux de risque de rechute locale à neuf ans après traitement conservateur étaient de 14 % dans le groupe BRCA1 , 31 % dans le groupe BRCA2 , 16 % dans le groupe « héréditaire » sans mutation retrouvée de l' un ou l' autre gène ( p = 0,07 ) .
+Le seul facteur de risque de rechute locale retrouvé dans cette population de femmes à histoire héréditaire , indépendamment de la présence d' une mutation germinale des gènes BRCA1 / 2 , était un âge de moins de 40 ans .
+Plus de la moitié des évènements observés étaient évocateurs de seconds cancers primitifs .
+Il est à noter qu' un rôle de l' irradiation dans la genèse de ces seconds cancers , de_même que dans celle des cancers controlatéraux , est une hypothèse théorique qu' aucune étude n' a les moyens aujourd'hui d' écarter  .
+Le traitement conservateur d' un cancer du sein en contexte de mutation germinale de l' un des gènes BRCA1 ou BRCA2 reste donc à discuter , en_particulier chez les femmes de moins de 40 ans au moment du diagnostic , essentiellement en raison du risque de nouvel événement tumoral dans le même sein .
+3.3. Mutations germinales du gène p53 : syndrome de Li et Fraumeni
+Le gène p53 , suppresseur de tumeur , localisé sur le chromosome 17 en p13,1 , code pour une phosphoprotéine nucléaire .
+Des mutations germinales du gène p53 sont en cause dans de très rares cas familiaux de cancers du sein survenant chez des patientes très jeunes ( taux de risque cumulé à 45 ans de 80 % ) et associés en_particulier à des sarcomes , tumeurs cérébrales , hémopathies , corticosurrénalomes survenant dans l' enfance .
+Le taux de risque de développer un cancer chez un individu porteur d' une mutation germinale du gène p53 est estimé à 50 % à l' âge de 30 ans et 90 % à l' âge de 70 ans  .
+La radiosensibilité théorique des individus ayant une mutation germinale du gène p53 ( voir 4.3 ) , en rapport avec les données in_vitro et in_vivo  démontrant une altération de la réparation de l' ADN , une sensibilité chromosomique accrue , un raccourcissement du délai de développement de tumeurs radio-induites , n' est pas démontrée chez l' homme .
+Limacher et al. ont cependant récemment décrit la survenue précoce de deux cancers radio-induits dans le volume d' irradiation chez une patiente porteuse d' une mutation germinale de p53 et irradiée en situation postopératoire pour cancer du sein  .
+Toute irradiation de patients atteints de syndrome de Li et Fraumeni ne sera donc réalisée qu' après discussion au cas par cas .
+3.4. ATM : gène de l' ataxie télangiectasie
+ATM est un gène suppresseur de tumeur responsable du syndrome héréditaire , de transmission autosomique récessive , de l' ataxie-télangiectasie .
+Des études menées dans des familles d' enfants atteints d' ataxie-télangiectasie ont estimé que le risque de développement d' un cancer du sein chez leur mère , hétérozygote obligatoire , était cinq fois plus grand que dans la population générale  .
+Cependant , plusieurs études évaluant la prévalence de mutations germinales du gène ATM chez des femmes atteintes de cancer du sein n' ont pu mettre en évidence que d' exceptionnelles mutations germinales , difficiles à différencier de polymorphismes du gène dans certains cas .
+Le rôle d' ATM dans la genèse éventuelle des cancers du sein reste donc débattu  .
+Il est à noter que la perte du second allèle n' est pas un évènement usuel dans les cancers du sein en contexte de mutation germinale d' ATM , ce qui évoque une hypothèse d' haplo-insuffisance .
+Le gène ATM joue un rôle majeur dans le maintien de l' intégrité du génome .
+Il régule des effecteurs majeurs de la réponse aux lésions génotoxiques comme BRCA1  ou P53  et est lui-même partie prenante de cette réponse .
+Comme les cellules déficientes en BRCA1 , les cellules hétérozygotes pour ATM sont radiosensibles  , avec un déficit patent en réparation des cassures double-brin .
+Il est donc possible , quoique non démontré , que les cancers du sein survenant des femmes hétérozygotes pour ATM , soient plus radiosensibles que dans la population générale , mais comme on l' a vu , il s' agit là d' une proportion marginale de cas .
+Dans une petite série de patientes recevant une irradiation pour cancer du sein , Iannuzzi et al. ont cependant mis en évidence une association entre la présence d' une variation germinale de séquence du gène ATM et la fréquence d' effets secondaires cutanés tardifs de l' irradiation  .
+4. Bases moléculaires somatiques de la radiosensibilité des cancers du sein
+Deux points de vue peuvent être pris dans l' étude de la radiosensibilité des cancers du sein en rapport avec des anomalies génétiques somatiques .
+Le premier est celui du clinicien qui constate des taux de contrôle local variables en fonction du statut somatique de certains gènes , considérés alors potentiellement comme facteurs de risque de rechute locale et donc hypothétiquement de radiorésistance .
+Aucun gène n' a fait la preuve claire d' une telle association dans le cancer du sein , la_plupart des études étant rétrospectives sur de faibles effectifs , de puissance insuffisante , sans prise en compte des autres facteurs possibles de rechute locale  .
+Cependant , des données répétitives sont en faveur du rôle défavorable de certaines anomalies génétiques dans le contrôle local , comme la négativité des récepteurs hormonaux , l' expression de Her2 / neu , la surexpression de P53 , ou la présence d' indice de prolifération élevés  .
+Ces données ne peuvent cependant jusqu' alors être utilisées en clinique pour la prise de décision .
+L' autre point_de_vue , qui n' est pas plus utilisable en_pratique courante , est celui du biologiste , qui évalue in_vitro et in_vivo la radiosensibilité tumorale liée à certaines anomalies somatiques , par des méthodes toujours discutables et de fiabilité variable .
+Les anomalies qui ont pu être décrites le plus fréquemment comme jouant un rôle dans la radiosensibilité individuelle de tumeurs mammaires , de nature très variable selon les fonctions des gènes en cause , sont schématiquement résumées ici .
+Full-size image ( 53K )
+Fig. 2. Anomalies génétiques décrites dans les cancers du sein .
+View Within Article
+4.1. Récepteurs de facteurs de croissance
+La surexpression , liée à une amplification génique , du récepteur membranaire à tyrosine kinase Her2 / neu ( cerbB2 ) , dont le ligand n' est pas connu à ce jour , est un événement relativement fréquent dans les cancers du sein ( 20 - 30 % ) .
+La valeur pronostique de cette surexpression a été longuement explorée , le test étant finalement actuellement essentiellement utilisé pour déterminer la sensibilité tumorale individuelle d' une tumeur à l' anticorps monoclonal anti-Her2 / neu , le trastuzumab .
+Les données évaluant la radiosensibilité des tumeurs surexprimant Her2 / Neu sont peu abondantes .
+Pietras et al. ont rapporté une corrélation entre l' expression de Her2 / neu et la radiorésistance de lignées cellulaires de cancer du sein , radiorésistance levée par le traitement par trastuzumab  .
+En clinique , plusieurs études rétrospectives de type cas-contrôle ont pu mettre en évidence une fréquence plus élevée de surexpression de Her2 / neu dans les cas de rechute locale après traitement d' un cancer du sein invasif ou intracanalaire , ceci n' étant pas confirmé par les études de cohorte , dont celle , récente , du MD Anderson cancer Center  .
+Comme toujours les études évaluant le rôle de Her2 / neu en clinique sont très hétérogènes , que ce soit en raison des faibles effectifs , du caractère rétrospectif des études ou surtout de la variation des méthodes d' évaluation des anomalies ( amplification ou surexpression , méthodes d' études de la surexpression )
+La surexpression de l' autre « grand » récepteur à tyrosine kinase membranaire , EGF-R , a également pu être associée in_vitro à une radiorésistance relative  , peut-être en rapport avec une inhibition des mécanismes de l' apoptose en contexte d' hyperstimulation de la prolifération cellulaire par l' augmentation de transduction du signal .
+L' association à d' autres anomalies génétiques cellulaires est sans_doute nécessaire à la radiorésistance dans ce contexte .
+4.2. Gène p53 et ses altérations somatiques
+Les déficits de p53 , possibles en situation germinale ( 3.3 ) , ont été largement étudiés à l' échelon de l' inactivation somatique dans les cancers du sein .
+En effet , les mutations ou pertes de fonction du gène p53 représentent l' anomalie génétique la plus fréquente dans les cancers du sein .
+La protéine P53 , considérée comme un « gardien du génome » , joue de nombreux rôles majeurs dans le fonctionnement cellulaire .
+Elle est un régulateur transcriptionnel positif ou négatif de nombreux gènes impliqués dans la prolifération cellulaire , la réparation , l' apoptose , la régulation du cycle cellulaire .
+L' arrêt des cellules en G1-S du cycle cellulaire en présence de lésions génotoxiques est dépendant de façon critique de la fonctionnalité de P53 , par son activation de la transcription du gène p21 , dont le produit inhibe des complexes cyclines-kinases dépendantes du cycle cellulaire .
+P53 , par son activation du gène Bax , affecte la réponse apoptotique cellulaire en cas de lésions non réparables de l' ADN .
+Il a été décrit que des cellules prénéoplasiques mammaires présentant une P53 normale entraient en apoptose en cas d' irradiation , cette réponse apoptotique étant très altérée en cas de mutation du gène P53  .
+Il existe une abondante littérature concernant l' effet d' une mutation / perte de fonction somatique du gène P53 sur la réponse à l' irradiation .
+Selon le contexte cellulaire et les autres anomalies génétiques somatiques présentes dans la cellule étudiée , une radiosensibilité ou au_contraire radiorésistance peuvent être constatées  .
+Les données cliniques concernant les risques de rechute locale en cas de mutation somatique du gène p53 ne sont pas univoques .
+Plusieurs séries rétrospectives étudiant ce sujet ont été publiées .
+Dans la série de Silvestrini_et_al.  and  , la surexpression de p53 était significativement liée au_risque_de rechute locale chez les femmes traitée de façon conservatrice pour cancer du sein sans irradiation , cet effet disparaissant en cas d' irradiation .
+La plus grande étude cas-contrôle publiée  n' a démontré aucune corrélation entre expression de P53 et rechute locale .
+À l' opposé , dans une grande étude de cohorte de femmes traitées par mastectomie pour cancer du sein , le risque de rechute pariétale était plus élevé en présence d' une surexpression de P53  , avec ou sans radiothérapie .
+4.3. Régulation du cycle cellulaire , prolifération
+Une amplification du gène de la cycline D1 avec surexpression protéique a été décrit dans environ 20 % des cancers du sein  .
+In vitro , le rôle de cette surexpression est controversé : soit radiosensibilité , soit radiorésistance .
+Dans une étude clinique , la surexpression de Cycline D1 est associée à une élévation du risque de rechute locale  .
+Des données cliniques ont été publiées concernant le rôle prédictif de rechute locale de certains marqueurs de prolifération cellulaire , comme l' expression de Ki67 , le taux de fixation de thymidine marquée ou la mesure de la phase S en cytométrie de flux  .
+Globalement il apparaît dans ces études une tendance à un risque accru de rechute locale en cas d' indices de prolifération plus élevés , que les patientes aient été irradiées ou non , et quel que soit le type de cancer ( invasif ou in_situ ) .
+Cependant , une_fois_encore , ces données rétrospectives sont soumises à de nombreux biais  .
+4.4. Cyclooxygénase-2
+La cyclooxygénase-2 ( Cox2 ) est une enzyme limitante de la voie de biosynthèse des prostaglandines , qui transforme l' acide arachidonique membranaire en prostaglandine H2 .
+PGH2 est le précurseur commun de nombreuses autres prostaglandines et du thromboxane A2 .
+De nombreuses données ont été accumulées dans les dernières années qui mettent en évidence un rôle de Cox2 dans la carcinogenèse et la croissance tumorale .
+L' expression de Cox2 est élevée dans de nombreux tissus pré-cancéreux et tumoraux  .
+Les prostaglandines synthétisées par cette enzyme participent à l' inflammation , la carcinogenèse , la suppression de la réponse immune , l' inhibition d' apoptose , l' angiogenèse , l' invasion et au pouvoir métastatique .
+Dans les cancers du sein , l' expression de Cox2 est liée selon les études à l' expression de Her2 / neu , à celle des récepteurs hormonaux et à la prolifération [ revue , 10 ] .
+Quoique les données soient assez parcellaires , il semble exister une association dans divers modèles tumoraux , de l' expression de Cox2 avec une relative résistance à l' irradiation , attribuable à l' inhibition d' apoptose , l' induction d' angiogenèse , entre autres , par les prostaglandines synthétisées par cette enzyme .
+Il existe plus d' arguments inverses : dans de nombreux modèles dont le cancer du sein , l' inhibition de Cox2 résulte en une radiosensibilisation notable in_vitro et in_vivo  .
+Cette propriété est utilisée par de nombreuses études en cours / à venir dans le cancer du sein .
+5. Profils d' expression des cancers du sein
+Plusieurs équipes ont publié dans les trois dernières années des études de profils d' expression génique des cancers du sein par technologie de génétique à haut débit ( analyse concomitante de 1000 à 25000 gènes )  .
+Ces profils visent d'_une_part à classer les cancers du sein en sous-catégories évoquant une oncogenèse commune  , d' autre_part à établir des signatures moléculaires liées au pronostic  , enfin de définir un profil moléculaire de sensibilité ou résistance aux thérapeutiques  .
+La plupart des résultats enregistrés dans ces trois catégories de travaux sont très prometteurs , à_la_fois sur le plan de la compréhension nosologique mais_aussi dans une optique de ciblage et désescalade thérapeutique .
+Il n' existe pas encore , à notre connaissance , de données consolidées concernant la radiosensibilité in_vivo des cancers du sein .
+Des études cliniques internationales de grande ampleur sont en émergence , qui visent à orienter les décisions thérapeutiques en fonction d' un profil donné , qu' il soit pronostique ( désescalade thérapeutique ) ou prédictif de réponse à la chimiothérapie ou de radiosensibilité .
+6. Conclusion
+Malgré de nombreuses études ayant abordé la question dans les dernières années , aucun marqueur moléculaire n' a fait la preuve définitive de son association , in_vitro comme in_vivo , à une radiosensibilité ou radiorésistance particulière des cancers du sein .
+Les méthodes d' évaluation de cette radiosensibilité , des tests fonctionnels in_vitro à l' observation clinique , apparaissent comme imparfaites .
+Les résultats très hétérogènes des différentes études peuvent aussi être expliqués par le caractère complexe des anomalies génétiques , l' effet observé n' étant pas lié à l' anomalie d' un gène unique mais à la conjonction de plusieurs anomalies dans un contexte particulier .
+Les progrès rapides très récents de techniques d' étude large du génome ( puces à ADN , transcriptome ) , bientôt en cours de validation prospective , devraient nous permettre d' avancer dans la caractérisation et la compréhension de ces phénomènes de radiosensibilité ou radiorésistance

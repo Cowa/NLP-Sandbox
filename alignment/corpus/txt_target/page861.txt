@@ -1,0 +1,201 @@
+Breast cancer is the most common major malignancy in women and the second leading cause of cancer death .
+Treatment hinges on effective surgical removal of the primary tumor , but recurrence occurs in a significant portion of patients .
+Even with the best technique , tumor surgery is usually associated with release of tumor cells into the lymphatic and blood streams and a large fraction of patients already harbor micrometastases and scattered tumor cells at the time of surgery  .
+Whether this minimal residual disease results in clinical metastases depends largely on the balance between anti-metastatic immune activity and the tumor 's ability to seed , proliferate , and attract new blood vessels  .
+In practice , the immune system and other host defenses frequently fail to neutralize minimal residual disease ; consequently , local and metastatic disease remains common after breast cancer surgery .
+At least three perioperative factors shift the balance toward progression of minimal residual disease : - The first is surgery per se , which possibly releases tumor cells into the circulation  , depresses cell-mediated immunity including cytotoxic T cell and natural killer ( NK ) cell functions  , reduces circulating concentrations of tumor-related anti-angiogenic factors ( e.g. , angiostatin and endostatin )  , increases concentrations of pro-angiogenic factors such as VEGF  , and releases growth factors that promote local and distant growth of malignant tissue  .
+- The second factor is anesthesia per se , which impairs numerous immune components , including neutrophil , macrophage , dendritic cell , T-cell , and NK-cell functions  .
+- The third is opioids , which are given to control surgical pain .
+Opioids inhibit both cellular and humoral immune function in humans  .
+Furthermore , morphine is pro-angiogenic and promotes breast tumor growth in rodents  .
+Consequently , non-opioid analgesia helps preserve natural killer cell function in animals and humans , and reduces metastatic spread of cancer in rodents  .
+Regional anesthesia and analgesia attenuate or prevent each of these adverse effects .
+For example , regional anesthesia moderates the neuroendocrine stress response to surgery by blocking afferent neural transmission from reaching the central nervous system and activating the stress response , and by blocking descending efferent activation of the sympathetic nervous system  .
+As might thus be expected , surgical stress is attenuated better by regional than by general anesthesia .
+Consequently , NK cell function is better preserved and metastatic load to the lungs is reduced with spinal analgesia in a rat model of breast cancer metastasis  .
+When regional and general anesthesia are combined , the amount of general anesthetic required is much reduced as is , presumably , immune suppression .
+Furthermore , regional analgesia provides superb pain relief , usually obviating the need for postoperative opioids , and their consequent adverse effects on immune function and promotion of tumor growth  .
+Regional analgesia also reduces release of endogenous opioids  .
+Available data thus suggest that regional anesthesia and analgesia help preserve effective defenses against tumor progression by attenuating the surgical stress response , by reducing general anesthesia requirements , and by sparing postoperative opioids .
+Animal studies are consistent with this theory , showing that regional anesthesia and optimum postoperative analgesia independently reduce the metastatic burden in animals inoculated with breast adenocarcinoma cells  .
+Preliminary data in cancer patients also support our theory : paravertebral anesthesia and analgesia for breast cancer surgery were associated with an approximately four-fold reduced risk of recurrence or metastasis during a 2.5 to 4 year follow-up period , with the 95% CI of the hazard ratio being 0.06 - 0.71  .
+Furthermore , patients who had epidural analgesia for open radical prostate surgery were significantly less likely to suffer recurrence ( unpublished data ) .
+Consistent with these observations , retrospective analysis suggest that use of general anesthesia augments recurrence of melanoma  .
+We will thus conduct a multi-national clinical trial to compare recurrence rates in patients with primary breast cancer who will be randomly assigned to : 1 ) paravertebral or high-thoracic epidural analgesia combined with sedation or light anesthesia , or 2 ) sevoflurane anesthesia and postoperative opioid analgesia .
+Specifically , we will test the following hypotheses :
+Primary Hypothesis .
+Recurrence of local and metastatic cancer after primary breast cancer surgery is reduced when patients are given regional analgesia combined with sedation or light anesthesia rather than sevoflurane anesthesia and postoperative opioid analgesia .
+Secondary Hypothesis .
+All-cause mortality is reduced when patients are given regional analgesia rather than general anesthesia and opioid analgesia .
+In this report , we outline our approach and study protocol .
+Our purpose is to establish an a priori record of our principal methods and primary endpoints .
+2. Study design2.1 .
+Setting and population .
+The study is a multi-center clinical trial coordinated by the Department of OUTCOMES RESEARCH at the Cleveland Clinic ; it is registered at ClinicalTrials.gov ( #NCT00418457 ) .
+The protocol has been approved by the Institutional Review Boards at the Cleveland Clinic , the University of Louisville , the Medical University of Vienna , and Mater Misericordia Hospital of the University of Dublin ; applications have been submitted by other participating centers .
+We will recruit patients with primary breast cancer without known extension beyond the breast and axillary nodes ( i.e. , believed to be Tumor Stage 1 - 3 , Nodes 0 - 2 ) , who are scheduled for unilateral or bilateral mastectomy with or without implant or partial mastectomy with axillary node dissection ( isolated lumpectomy does not qualify ) .
+Patients with any of the following exclusion criteria will be disqualified : 1 ) previous surgery for breast cancer ( except diagnostic biopsies ) ; 2 ) inflammatory breast cancer ; 3 ) less than 18 or more than 85 years old ; 4 ) scheduled free flap reconstruction ; 5 ) American Society of Anesthesiologists Physical Status 4 or greater ; 6 ) any contraindication to epidural or paravertebral anesthesia and analgesia ( including coagulopathy and abnormal anatomy ) ; 7 ) any contraindication to midazolam , propofol , sevoflurane , fentanyl , or morphine ; 8 ) other cancer that according to the attending surgeon is not in long-term remission ; or 8 ) systemic disease with an estimated 25% two-year mortality .
+2.2. Protocol .
+Patients will be premedicated with 1 - 3 mg intravenous midazolam and 1 - 2 g / kg fentanyl .
+After patients have met the inclusion / exclusion criteria and consented to the study , they will be assigned randomly to general anesthesia and postoperative opioid analgesia or to regional ( thoracic epidural or paravertebral ) anesthesia and analgesia .
+Computer-generated anesthesia assignments ( Proc Plan in SAS statistical software ) will be stratified by study site with randomly sized blocks ; individual randomization , shortly before surgery , will be obtained from a secure web-based system that will automatically record the assignment and the randomization number for auditing purposes .
+Full-size image ( 39K )
+Fig. 1. Trial Profile .
+View Within Article .
+2.2.1. General anesthesia and opioid analgesia .
+In patients assigned to general anesthesia and opioid analgesia ( General Anesthesia Group ) , general anesthesia will be induced with 1 - 3 g / kg fentanyl and 2 - 4 mg / kg propofol .
+Tracheal intubation will be facilitated by succinylcholine or a non-depolarizing muscle relaxant ; alternatively , a supraglottic airway ( such as a laryngeal mask ) can be used .
+Additional non-depolarizing muscle relaxant will be administered as deemed necessary by the attending anesthesiologist .
+Anesthesia will be maintained with sevoflurane in 80% oxygen , balance nitrogen , and fentanyl .
+Sevoflurane and fentanyl administration will be adjusted to maintain blood pressure and heart rate within 20% of pre-operative values .
+The lungs will be mechanically ventilated to maintain end-tidal PCO2 near 35 mm Hg .
+Because hypothermia impairs immune function  , we will keep patients normothermic a distal esophageal temperature 36 C with forced-air warming  .
+The trachea will be extubated at the completion of surgery .
+Morphine sulfate will be used for postoperative pain , first near the end of surgery .
+The anesthesiologist will titrate morphine administration until the patient 's respiratory rate is between 12 and 14 breaths per minute .
+Morphine will be provided subsequently for postoperative analgesia as needed intravenously or by patient-controlled pump ( 1 mg boluses with a 6 min lockout period and no background infusion ) .
+Although morphine will be the first-line drug , hydromorphone or other opioids can be substituted in equivalent doses  in patients who do not tolerate morphine .
+After approximately 24 h , patients will be transitioned to acetaminophen and non-steroidal anti-inflammatory analgesics ; oral opioids will also be permitted if necessary .
+2.2.2. Regional anesthesia and analgesia .
+In patients assigned to regional anesthesia and analgesia ( Regional Anesthesia Group ) , analgesia will be provided by either thoracic epidural or paravertebral block  .
+Each ameliorates the surgical stress response and reduces or eliminates the need for general anesthesia and postoperative opioids .
+The choice will be at the discretion of the attending anesthesiologist and based on patient , anesthesiologist , and surgeon preference .
+When epidural anesthesia is chosen , a T4 epidural catheter will be inserted using a standard technique .
+If T4 insertion proves difficult , catheter insertion will be attempted at T3 or T5 .
+After negative aspiration for blood , patients will be given a test dose of 3 mL of 1.5% lidocaine and 1:200,000 epinephrine .
+The catheter will be re-inserted or repositioned as necessary until both aspiration and test dose are negative .
+Each patient will be given an additional 3-mL bolus of the same or a similar solution to provide intraoperative analgesia .
+The catheter will be repositioned or reinserted as necessary if a sensory block to temperature cannot be confirmed in the surgical dermatomes .
+Additional 3-mL boluses of 0.5% bupivacaine or 0.5% ropivacaine with epinephrine will be given hourly during surgery to maintain anesthesia ; additional boluses are permitted at the discretion of the attending anesthesiologist .
+Postoperatively , patient-controlled epidural analgesia will be provided by an infusion of 0.1 - 0.2% ropivacaine and 2 g / mL fentanyl with epinephrine started shortly before the patient emerges from general anesthesia .
+The basal infusion rate will be set at 4 - 8 mL / h with 2 mL per demand and a lockout period of 20 - 30 min .
+The local anesthetic concentration , infusion rate , and demand volume can be adjusted as clinically indicated to provide excellent analgesia while avoiding hypotension .
+Paravertebral anesthesia will be provided either with a thoracic ( T ) interspace 2 - 4 catheter or multi-level injections from thoracic interspace 1 to 5 , or as clinically appropriate depending on the anticipated scope of surgery  .
+When a catheter is to be used , it will be inserted into the ipsilateral paravertebral space at the level of T2 / 3 or T3 / 4 using standard technique  .
+Each patient will be given a 10 to 20-mL bolus of 0.5% bupivacaine or 0.5% ropivacaine with epinephrine after a test dose with 1.5% lidocaine and 1:200,000 epinephrine .
+Near the end of surgery , an infusion of 6 - 10 mL / h of either solution will be started ; the infusion drug , concentration , and rate can be modified as deemed necessary by the attending anesthesiologist .
+Local anesthetic infusion will continue as clinically necessary , but not longer than 48 h ; the catheter will be removed before hospital discharge .
+When a multi-level technique is to be used , separate injections at thoracic interspace 1 to 5 will be performed with a 22 gauge Tuohy needle .
+The needle will be inserted 2.5 cm lateral to the superior aspect of the spinous process on the ipsilateral side of surgery and walked off the transverse process in a caudal direction 1 cm distal to the transverse process .
+Ropivacaine 0.75% , 5 mL , will be given at each of the five levels via extension tubing attached to the syringe .
+Additionally , injections of 0.5% ropivacaine will be given by the surgeon to block cervical and contralateral thoracic nerves that also contribute to the innervation of the breast .
+Both epidural and paravertebral anesthesia will be supplemented with propofol ( usually 60 - 90 g kg 1 min 1 ) , which can also be administered during insertion of the block .
+If clinically necessary , a propofol-based general anesthetic can be used .
+When practical , a supraglottic airway will be used to minimize airway stimulation and minimize or eliminate the need for muscle relaxants .
+This sort of anesthetic is much closer to deep sedation than the full volatile anesthetic described above for the general anesthesia / opioid group .
+Opioids can be used if judged clinically necessary , but will be avoided to the extent practical in patients assigned to regional anesthesia .
+Postoperatively , analgesia will be provided primarily by either type of regional block and supplemented with acetaminophen or non-steroidal analgesics , if needed , or per the individual site 's routine protocol .
+However , supplemental morphine can be provided if pain relief is inadequate , either by patient-controlled infusion or as needed .
+As soon as practical , usually at about 24 h , patients will be transitioned to acetaminophen and / or non-steroidal analgesics and , if necessary , oral opioids .
+All anesthesiologists participating in the study will have experience with high thoracic epidural or paravertebral blocks .
+But even in experienced hands , we can anticipate that 5 - 10% of the blocks will fail ( the failure rate was 5% in our preliminary study ) .
+Patients with unsuccessful blocks will be switched to the alternative regional technique , if practical , or given general anesthesia and morphine postoperative analgesia as described above .
+The overall trial profile is shown in Fig. 1. .
+2.2.3. Transfusion management .
+Target minimum hematocrit ( HCT ) will be determined prospectively based on the patient 's age and cardiovascular status .
+Our target hematocrit ( HCT ) will be 26% in patients younger than 65 years having no significant cardiovascular disease ; 28% or greater in patients 65 years and older or having cardiovascular disease ; and 30% or greater in patients older than 65 years with significant cardiovascular disease .
+We define significant cardiovascular disease as previous myocardial infarction , angina , congestive heart failure , cardiomyopathy , hypertension requiring treatment ( or having a diastolic blood pressure exceeding 90 mmHg ) , or peripheral vascular disease .
+Leukocyte-depleted allogeneic blood will be administered only as necessary to maintain the prospectively determined target HCT .
+Boluses of ephedrine ( 5 mg ) are to be given as necessary at the discretion of the attending anesthesiologist .
+Dexamethasone prophylaxis for postoperative nausea and vomiting is prohibited by protocol because steroids are immune suppressants .
+However , we will provide 4 mg ondansetron as needed to patients who experience emesis or nausea .
+2.3. Measurements .
+Morphometric and demographic characteristics of each patient will be recorded .
+For follow-up purposes , we will obtain contact information for the patient and a family member , and the names of the patient 's oncologist and primary physician .
+The date of the last menstruation will be obtained in pre-menopausal women since cycle phase influences natural killer cell function  and metastasis risk  .
+Perioperative use of beta-blockers and cyclooxygenase inhibitors will be recorded since both impact the immunosuppressive and tumor-promoting effects of surgery  .
+The intraoperative and postoperative data that we will collect are presented in Table 1. Prognostic factors related to the risk of breast cancer recurrence that are to be collected are listed in Table 2. .
+Table 1. .
+Perioperative data to be collected .
+General groupRegional group MAC-hours of sevofluraneX Upper and lower block levelsX Type of regional anesthesia ( epidural or paravertebral ) X Initial dose of local anestheticX Amount of local anesthetic in 48 h ( mL ) X Total dose of propofol ( mg ) XX Bispectral indexaXX Blood loss ( mL ) XX Fluid administrationb ( mL ) XX Total fentanyl ( g ) XX Total morphinec ( mg ) During surgeryX 0 - 2 postoperative hoursX 2 - 24 postoperative hoursX 24 - 48 postoperative hoursX Arterial blood pressure ( mm Hg ) XX Heart rate ( beats per min ) XX Core Temperature ( C ) XX Pain ( VAS ) d 1 h after surgeryXX 2 h after surgeryXX 1st morning after surgeryXX 2nd morning after surgeryXX Nauseae and vomitingf 2 h after surgeryXX 1st morning after surgeryXX 2nd morning after surgerygXX Duration of hospitalization ( h ) XX .
+Full-size table .
+a Bispectral Index ( BIS , Aspect Medical , Newton , MA ) in most cases will be electronically recorded at 1 min intervals .
+b Includes allogeneic blood .
+c For analysis purposes , other postoperative opioids are converted into equivalents of morphine sulphate using factors in Principles of Analgesic Use in the Treatment of Acute and Chronic Cancer Pain  .
+d VAS = visual analog scale ( 0 mm = no pain ; 100 mm = worse pain imaginable ) .
+Patient self-reports pain .
+e Nausea is assessed on a numeric rating scale ( NRS , 0 - 10 ) by patient .
+f Retching and vomiting are considered synonymous .
+g If patients are no longer in the hospital on the second postoperative morning , an investigator will call them and ask about pain , nausea , vomiting , and opioid use .
+View Within Article .
+Table 2. .
+Prognostic factors .
+Tumor size , shape , and typea Estrogen receptor status Extent of nodal involvement Preoperative and postoperative adjuvant chemotherapy , radiotherapy , or endocrine therapy Nottingham Prognostic Indexb If resection margins are clear of tumor .
+Full-size table .
+a The 10/21 / 05 National Cancer Institute TMN Definitions will be used for staging .
+b A score for which the prognosis for breast cancer is based on the formula : 0.2 ( tumor size ) + histological grade ( 1 = Grade 1 , least aggressive histology , Grade 2 = intermediate histology , Grade 3 = most aggressive histology ) + axillary lymph node involvement ( 1 = no nodes involved , 2 = up to three nodes involved , 3 = more than three nodes involved )  .
+A score lower than 3.4 suggests a good outcome whereas a score between 3.4 and 5.4 suggests an intermediate prognosis .
+View Within Article .
+Cancer recurrence and all-cause mortality will be evaluated by tracking patients at six-month intervals throughout the study .
+Patients and their health-care providers will be contacted at each follow-up interval to confirm recurrence status and to obtain details of recurrence if there is one .
+We will also obtain the results of the yearly mammograms that are preformed routinely in these patients .
+Biopsy results will be obtained whenever possible .
+The site of initial detected recurrence will be determined .
+At each contact , we will determine if additional surgery was required , the reason for the surgery , and what kind of anesthesia was used ( general vs. regional vs. monitored anesthesia care ) .
+All follow-up contact with patients , families , and caregivers will be conducted by investigators who are strictly blinded to group assignment and intraoperative management ; questions that might unblind the follow-up investigators will be specifically avoided .
+Healthcare providers will be contacted to confirm mortality and provide the cause ( s ) of death ( as listed on the death certificates ) .
+The social security index will also be used to determine mortality for patients who are otherwise completely lost to follow-up .
+All cases of apparent recurrence will be evaluated by the Adjudication Committee , which will make the final determination after taking into account all available laboratory and clinical evidence .
+Members of the Adjudication Committee are to be strictly blinded to randomization and actual perioperative management .
+The Committee will consist of the site directors ; however , directors will be excused when cases from their own sites are discussed to keep the process completely blinded .
+2.4. Data analysis .
+Our primary outcome is time to metastatic spread or local cancer recurrence ; our secondary outcome is any-cause mortality .
+The randomized groups will be descriptively compared on all baseline variables using summary statistics such as mean and standard deviation , median and quartiles , or frequency and percent , as appropriate .
+All tests will be two-tailed , and the significance level for primary analyses will be 0.05. SAS statistical software ( Carey , NC ) will be used for all data analysis .
+2.4.1. Primary analysis .
+The primary analysis will be intent-to-treat ( ITT ) , where all subjects are analyzed in the group to which they were randomized .
+We expect that 5% of the regional blocks will fail and that these patients will then be converted to general anesthesia .
+Such cases will be analyzed in the group to which they were randomized .
+We will assess the effect of regional versus general anesthesia on time to recurrence of local or metastatic cancer by comparing the randomized groups univariably with Kaplan - Meier analysis and a log-rank test , while stratifying for clinical center .
+Equal precision 95% confidence bands  will be constructed and plotted for each of the randomized groups along with the Kaplan - Meier product-limit recurrence-free estimates .
+As usual for survival analysis , patients lost to follow-up due to uncontrollable factors during the study will be censored at the time of last contact .
+Patients who die without local recurrence or metastatic disease will also be censored at the time of death .
+2.4.2. Secondary analyses .
+In this large randomized trial , true confounding factors , such as those related to both the intervention and the outcome , are not expected because the randomized groups will likely be well balanced on baseline factors .
+However , multivariable analyses will be an important secondary analysis in order to adjust the estimated treatment effect for any baseline covariables that may be significantly related to the outcome .
+Such analyses usually increase the precision of the estimated treatment effect and thus add power to the trial  .
+Multivariable analysis will include Cox proportional hazards regression to adjust the treatment effect for clinical center and other baseline factors found to be associated with cancer recurrence .
+We will also include as time-varying covariates any chemotherapy or radiotherapy the patient receives after the index surgery ( and before a patient 's recurrence ) .
+A more sophisticated approach of accounting for the post-randomization variables by considering them as outcomes themselves will be considered , potentially by adapting the methods of Rochon  to survival analysis .
+We will assess the proportional hazards assumption for the Cox models both graphically and statistically ( the latter via a test of the interaction between time and individual covariates ) .
+If the proportional hazards assumption appears grossly violated for a particular continuous covariate , we will attempt transformations of the variable and / or categorizations .
+Covariables that we will adjust for if significant at the 0.05 level , include age ; race ; ethnicity ; red cell transfusion ; tumor size , grade , type , and estrogen receptor status ; type of surgery ; and whether preoperative or postoperative adjuvant chemotherapy , radiotherapy , or endocrine therapy was used .
+In secondary analyses we will also test for interactions between the treatment effect and the following selected covariables : red cell transfusion ; tumor size , grade , and type ; estrogen receptor status ; and whether preoperative or postoperative adjuvant chemotherapy , radiotherapy , or endocrine therapy was used .
+These analyses may help identify specific subgroups of patients for whom the intervention appears especially helpful or not helpful .
+We will compare the randomized groups on length of time until any-cause mortality using the same univariable and multivariable survival analytic methods as described for the primary outcome above .
+An as-treated analysis will be conducted using the same methods as described above for the intent-to-treat analysis .
+2.5. Sample-size calculations and sequential monitoring2.5.1 .
+Primary outcome : cancer recurrence .
+We hypothesize that our control group ( general anesthesia with opioid use ) will have a pattern of recurrence similar to that reported by Saphner_et_al.  and that stage will be similar to that of patients treated previously at the Cleveland Clinic .
+Given these hazard rates for the general anesthesia group , we will need to observe a maximum of 356 recurrences to have 85% power at the 0.05 significance level to detect a 30% reduction in the risk of cancer recurrence ( i.e. , hazard ratio 0.70 ) , allowing for three interim analyses at 25% , 50% , and 75% of the maximum number of events , plus a final analysis .
+These calculations include a 3% dropout rate per year and the assumption that 5% of the regional blocks will fail ( and thus be converted to general anesthesia which dilutes the treatment effect by 5% , although analyzed as intent-to-treat ) .
+We further assume that we will enroll 150 patients the first year , 200 the second year , and 250 patients per year for an additional three years ; the total will accordingly be 1100 patients during five years of enrollment .
+With the expected accrual and assumed hazard rate for the general anesthesia group and under the alternative hypothesis of 30% treatment effect , the interim analyses will occur at 3.6 years ( 89 events ) , 5.0 years ( 178 events ) and 6.3 years ( 268 events ) , with a final analysis , if needed , at 8.3 years ( 356 events , Fig. 2 ) .
+As usual for survival statistics , the interim analyses are based on the number of recurrence events , not enrollment , or elapsed time .
+Under the alternative hypothesis , the probabilities of stopping the trial for either efficacy or futility at the 1st , 2nd , or 3rd interim analyses are 0.07 , 0.26 , and 0.37 , with a probability of 0.30 of continuing to the final look .
+Larger true treatment effects would have larger probabilities of stopping for efficacy before the final look .
+Full-size image ( 45K )
+Fig. 2. With the expected accrual and assumed hazard rate for the general anesthesia group and under the alternative hypothesis of 30% treatment effect , the interim analyses will occur at 3.6 years ( 89 events ) , 5.0 years ( 178 events ) and 6.3 years ( 268 events ) , with a final analysis , if needed , at 8.3 years ( 356 events ) .
+View Within Article .
+Our calculations assume non-binding stopping rules ( the Data and Safety Monitoring Board will have ultimate authority ) and account for monitoring both the null and alternative hypotheses .
+We used the gamma family spending function of Hwang , Shih , and De Cani  , where the parameter gamma controls how fast alpha or beta is spent throughout the trial .
+We used gamma = 4 for efficacy ( i.e. , alpha spending ) and gamma = 2 for futility ( i.e. , beta spending ) , .
+We are thus spending the beta somewhat faster than the alpha during the trial .
+The boundaries meet at the end of the maximum accrual , so that a decision for either efficacy or futility will be made at some point during the trial .
+Stopping boundaries for efficacy ( and futility in parentheses ) are as follows : 1st look P 0.0016 ( P 0.9478 ) ; 2nd look P 0.0048 ( P 0.7136 ) ; 3rd look P 0.0147 ( P 0.2429 ) ; last look P 0.044 ( P 0.044 ) .
+Analogous calculations were performed for our secondary outcomes , all-cause mortality .
+Full-size image ( 44K )
+Fig. 3. We used the gamma family spending function of Hwang , Shi and Decani  , where the parameter gamma controls how fast alpha or beta is spent throughout the trial .
+We used gamma = 4 for efficacy ( i.e. , alpha spending ) , which closely resembles the O'Brien - Fleming spending function , and gamma = 2 for futility ( i.e. , beta spending ) , which is between the Pocock and O'Brien - Fleming approaches .
+View Within Article .
+Full-size image ( 39K )
+Fig. 4. Stopping boundaries for efficacy ( and futility in parentheses ) of the trial are as follows : 1st look P 0.0016 ( P 0.9478 ) ; 2nd look P 0.0048 ( P 0.7136 ) ; 3rd look P 0.0147 ( P 0.2429 ) ; last look P 0.044 ( P 0.044 ) .
+View Within Article .
+3. Discussion .
+Our preliminary retrospective studies suggest that regional analgesia reduces the risk of cancer recurrence ; for example , the cancer recurrence rate was found to be reduced by a factor-of-four ( P = 0.01 ) in women with breast cancer who were given paravertebral analgesia rather than morphine for postoperative analgesia  .
+However only a large outcomes study such as the one we describe here can adequately test our hypothesis .
+Confirming our hypothesis that regional analgesia for breast cancer surgery reduces the risk of recurrence would be immediately applicable since paravertebral and thoracic epidural blocks are routine procedures that are familiar to many anesthesiologists .
+Our study has the potential to demonstrate that a minor trivial modification to anesthetic management one that can be implemented with little risk or cost will reduce the risk of metastases , a complication that is ultimately lethal in most cases .
+Similar studies testing the hypotheses that recurrence of endometrial and colon cancer is reduced when patients are given regional analgesia combined with sedation or light anesthesia rather than general anesthesia and postoperative opioid analgesia will start in the third quarter of 2007 .
+Acknowledgement .
+Nancy Alsip , Ph.D. , of the OUTCOMES RESEARCH Institute ( University of Louisville ) edited the manuscript .

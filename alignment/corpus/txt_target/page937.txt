@@ -1,0 +1,290 @@
+Most women treated for early-stage breast cancer undergo primary surgery .
+This is often followed by adjuvant radiotherapy ( RT ) , which reduces breast cancer mortality after breast-conserving surgery and after mastectomy in those with node-positive disease ( 1 ) .
+Long-term follow-up of these women has , however , revealed that some past regimens led to an increased risk of death from heart disease , particularly 10 years after RT , presumably because of some unwanted irradiation of the cardiac structures .
+Dose - response curves for radiation-induced cardiac mortality have been produced using a radiobiologic model , called the relative seriality model , in conjunction with data on long-term cardiac mortality from two randomized trials of RT in which deaths from ischemic heart disease were reported in irradiated and unirradiated patients by breast cancer laterality ( 2 ) and ( 3 ) .
+These dose - response curves were , however , based on a few cardiac deaths and were , therefore , subject to considerable uncertainty .
+They were used by Pierce et al. ( 4 ) to estimate normal tissue complication probabilities of cardiac mortality for seven postmastectomy RT techniques .
+However , the investigators cautioned that until additional clinical data are available to validate predictive models , normal tissue complication probability estimates are best used for relative comparison between techniques rather than for absolute risk assessment .
+The estimation of the cardiac risk of today 's breast RT requires the development of reliable dose - response relationships , which , in turn , require detailed cardiac dosimetry of past regimens given to women for whom we have long-term follow-up data .
+At present , few heart dosimetry data from breast cancer RT are available .
+Furthermore , it is unknown which quantitative measures of the heart dose or volume are most relevant to subsequent heart disease risk ( 2 ) .
+Studies have used a variety of heart dose specifications , including the absorbed dose ( 5 ) and ( 6 ) , biologically effective dose ( BED ) ( 7 ) , and the cumulative radiation effect ( an estimate of the biologic radiation dose  ) .
+Published data recording the percentage volume of the heart irradiated to various doses are limited .
+Such information might , however , be important in assessing radiation-related heart disease , because the percentage volume of the heart irradiated to a certain threshold dose might be a better predictor for cardiac death than , for instance , the mean heart dose or BED .
+Information is also needed concerning the effect of irradiating different cardiac structures , especially the coronary arteries .
+Coronary artery doses have been reported for several techniques , but only for left-sided irradiation ( 5 ) and ( 6 ) ; however , most studies have reported only the mean dose to the whole heart .
+In this study , a method was developed to estimate cardiac doses .
+We present dose estimates for the whole heart and for the three main coronary arteries for techniques that were commonly used in the 1950s to the 1990s .
+Information on heart disease rates from randomized trials of breast cancer RT ( 1 ) and observational studies ( 9 ) can be used in combination with these doses to derive dose - response relationships .
+These should enable the prediction of the likely cardiac risk of current and future breast cancer RT regimens and facilitate the development of treatment guidelines .
+In addition , for individual patients ( e.g. , those whose heart is included the radiation beam ) , it should allow the assessment of cardiac risk based on their RT plan , thus identifying women for whom complex planning techniques might be justified to reduce the cardiac dose .
+Methods and Materials General method .
+A technique based on virtual simulation and computed tomography ( CT ) -based three-dimensional treatment planning has been used to reconstruct RT regimens used in previous decades for treating the breast , chest wall , and / or locoregional lymph nodes .
+Dose distributions were calculated using a treatment planning system ( Helax TMS , version 6.1B , Nucletron , Veenendaal , The Netherlands ) , which is accurate to within 2% for dose and 2 mm for position in most situations , as shown by phantom measurements ( 10 ) and ( 11 ) .
+Approximately 40 consecutive CT planning scans of female patients , from the database of a U.K. RT department , were reviewed .
+The patients were supine , with a T-bar arm rest , similar to positions used for breast cancer RT in previous decades .
+From the 40 scans , one representative patient of average weight and height was chosen for the detailed calculations .
+The CT data were transferred to a virtual simulation software package ( Exomio , release 2.0 , MedCom GmbH , Darmstadt , Germany ) .
+The three-dimensional patient surface contours were defined by automated density gradient tracking .
+The heart and coronary arteries were contoured by a radiation oncologist and reviewed by a radiologist .
+The cranial limit of the heart included the right atrium and excluded the pulmonary trunk , ascending aorta , and superior vena cava .
+The lowest contour of the heart was the caudal myocardial border .
+The scans were not contrast enhanced .
+Therefore , on some images , the coronary arteries were not visible , and their location was inferred using visible , reliable landmarks , including the anterior interventricular , left atrioventricular , and right atrioventricular grooves .
+Because of the short length of the left main coronary artery , its contour was included with that of the left anterior descending ( LAD ) coronary artery .
+Field borders , beam arrangements , and machine parameters for each RT regimen were defined using virtual simulation , with emphasis on the surface reconstruction function .
+Figure 1 illustrates the use of virtual simulation to reconstruct a left internal mammary chain ( IMC ) field .
+Full-size image ( 111K )
+Fig. 1. Virtual simulation of photon left direct internal mammary field. ( a ) Coronal , ( b ) sagittal , and ( c ) transverse computed tomography images .
+Edges of radiation field shown in yellow and heart outlined in red. ( Top right ) Beam 's eye view showing position of field ( red ) relative to underlying heart and bony thorax. ( Bottom middle ) Surface reconstruction image shows light field in yellow .
+View Within Article .
+The treatment parameters and patient and organ-at-risk outlines were exported to the computerized treatment planning system , and dose distributions were calculated .
+The algorithms used for the photon beams were the pencil beam model ( 12 ) and ( 13 ) and the collapsed cone superposition convolution algorithm ( 13 ) , ( 14 ) and ( 15 ) .
+The former was used for all regimens and the latter for a selection of cases in which the tissue inhomogeneities were substantial .
+Agreement between algorithms for the calculated heart doses was within 1% for most regimens and within 2% for all regimens .
+For each regimen , cardiac dose - volume histograms were generated .
+From these , estimates of the mean and maximum dose and percentage volume irradiated to different doses were obtained for the heart and for the LAD and right and circumflex coronary arteries .
+The cardiac dose distributions for several 250-kV regimens and iridium wire implants were also derived .
+This involved generating scaled hard copies of the appropriate CT slices on which isodose distributions for 250-kV X-rays or iridium wire implants were superimposed .
+Manual planning techniques incorporating lung correction were used to generate cardiac dose distributions .
+The physical density of lung was taken to be 0.25 g cm3 .
+For the orthovoltage treatments , axial CT slices of the superior , middle , and inferior levels of the heart were used .
+For single direct fields , an applied dose was assumed .
+For tangential-pair RT , the use of tissue-equivalent bolus between the two applicators was assumed .
+The proportion of each cardiac structure included within each isodose line was calculated and used to plot dose - volume histograms .
+These were typically based on three CT slices per RT plan .
+For the heart , approximately 150 dose points per CT slice were used , and for the three coronary arteries , their small volumes meant that only one dose point per slice was used .
+For all regimens , BEDs were calculated using the linear quadratic model .
+The estimated / ratios for radiation-related heart disease are 1 - 3 Gy ( 16 ) and ( 17 ) .
+For these calculations , an / ratio of 2 Gy was used .
+For orthovoltage RT , a correction factor of 1.1 was used to account for the enhanced biologic effectiveness of low-energy irradiation ( 7 ) .
+The brachytherapy regimens reconstructed were typical of those used as a boost to the tumor bed after breast-conserving surgery and external beam RT .
+The likely position of a surgical scar was marked using virtual simulation .
+Mid-plane cross-sectional isodoses of a standard two-plane five-wire iridium implant were superimposed on scaled hard copies of three sagittal CT sections : one at the expected center of the implant , one 2 cm medial , and one 2 cm lateral to this point .
+The iridium wires were 6 cm long and positioned 1.5 cm apart and 1.5 cm beneath the skin .
+Specific techniques reconstructed .
+The RT details for 60 trials of RT for early breast cancer ( 1950s - 1990s ) were collated using trial publications and protocols , textbooks ( 18 ) , ( 19 ) , ( 20 ) and ( 21 ) , and discussions with radiotherapists who had worked in various countries from 1950 onwards .
+Using this information , RT techniques commonly used to treat the chest wall , breast , and associated lymphatics were reconstructed .
+Descriptions of the target volumes , clinical definition of the field borders , field arrangements and beam energies are given in Table 1 and illustrated in Fig. 2. The focus-to-skin distance was 100 cm for all fields ; wedges and compensators were not used .
+The tangential pair beams were 180 opposed .
+Table 1. .
+Radiotherapy techniques reconstructed for cardiac dose estimations .
+TargetField arrangementDefinition of field bordersBeam energyComments Chest wall / breast ( a , b ) Tangential pair ( 18 ) , ( 19 ) and ( 20 ) Superiorsternal notch6 MVTissue equivalent bolus between applicators for 250 KV Inferior1 cm below inframammary fold60Co Medialmidline or matched to internal mammary chain field250 kV Lateralmidaxillary line Chest wall ( c ) Direct anterior ( 19 ) and ( 22 ) Superiorinferior border of supraclavicular fossa field10-MeV electrons Inferiorxyphoid - sternal junction Medialmidline Lateralmidaxillary line Chest wall and internal mammary nodes ( d ) Tangential pair ( 19 ) Superiorsternal notch6 MVMedial tangential beam angled 10 downward Inferior1 cm below inframammary fold60Co Medial1 cm to contralateral side of midline Lateralmidaxillary line Chest wall and internal mammary nodes McWhirter fields ( e ) Tangential pair ( 23 ) Superiorsternal notch250 kVTissue equivalent bolus between applicators Inferior1 cm below inframammary fold Medialsternal border on contralateral side Lateralmidaxillary line Internal mammery nodes ( f ) Direct anterior ( 18 ) , ( 20 ) and ( 24 ) Superiorsternal notch6 MVUsual size : 17 6 cm Inferiorxyphoid - sternal junction60Co Medialmidline250 kV Lateral6 cm from medial border Internal mammary nodes ( similar to f ) Direct anterior ( 19 ) Superiorsternal notch10-MeV electronsUsual size : 17 7 cm Inferiorxyphoid - sternal junction Medial1 cm contralateral to midline Lateral7 cm from medial border Mastectomy scar boostDirect anterior ( 25 ) and ( 26 ) 514 cm Strip covering the approximate position of mastectomy scar60CoPlacement of field approximate 10-MeV electrons 250 kV Brachytherapy ( 27 ) and ( 28 ) Two plane , five-wire iridium implant192Ir Supraclavicular fossa ( g ) Direct anterior ( 18 ) and ( 19 ) Superiorcricothyroid groove6 MV Inferiormiddle of second costal cartilage60CoUsual size 1016 cm beam tilted 15 laterally Medial1 cm to contralateral side of midline Lateralcrosses acromioclavicular joint Posterior 
+axilla ( h ) Direct posterior ( 19 ) Superiorspine of scapula6 MVLead used to shape medial border Inferiorinferior border of supraclavicular fossa field60Co Medialfollows the lateral wall of bony thorax Lateralbisects the humeral head .
+Full-size table .
+Regimens a - h illustrated in Fig. 2. .
+View Within Article .
+Full-size image ( 83K )
+Fig. 2. ( a - h ) Radiotherapy techniques reconstructed for cardiac dose estimations .
+See Table 1 for additional details , including definitions of field borders .
+IMC = internal mammary chain ; Co-60 = 60Co .
+View Within Article .
+Variation in patient anatomy .
+Two techniques were reconstructed on consecutive contemporary ( 2006 ) breast cancer patients on the CT planning database .
+These patients were angled on a breast board , unlike the representative patient who was positioned flat .
+This difference means there are small systematic differences in doses between these patients and the representative patient .
+The interpatient variability , however , should be comparable .
+Direct anterior left and right IMC fields and left tangential irradiation were reconstructed on 20 consecutive patients .
+Right tangential irradiation was reconstructed on 5 consecutive patients , because little interpatient variation in heart dose was expected for this regimen .
+Results Dose estimates for the representative patient .
+The mean doses to the coronary arteries and the maximum dose , mean dose , and mean BED to the heart for the representative patient are summarized in Table 2. Appendix Tables 1 to 8 ( online only ) give additional details , including the percentage volume of each structure irradiated to various doses and the mean BED and maximum dose .
+Table 2. .
+Heart and coronary artery doses from breast radiotherapy regimens .
+HeartLADRCACCA Mean dose ( Gy ) Maximum dose ( Gy ) Mean BED ( Gy2 ) Mean dose ( Gy ) Mean dose ( Gy ) Mean dose ( Gy ) TargetField arrangementBeam energyTypical dose and fractionationLeftRightLeftRightLeftRightLeftRightLeftRightLeftRight Chest wall / breast ( a ) Tangential pair6 MV50 Gy in 254.71.549.24.87.01.921.91.42.02.42.81.0 60Co50 Gy in 254.71.248.17.27.01.521.80.91.72.32.70.6 250 kV42 Gy in 201466019258513111383 .
+Chest wall / breast medial border matched to internal mammary field ( b ) Tangential pair6 MV50 Gy in 250.90.913.11.61.21.11.80.90.71.10.80.8 60Co50 Gy in 251.00.410.71.01.20.62.10.30.60.60.80.1 250 kV42 Gy in 2051325811512441 .
+Chest wall ( c ) Direct anterior10-MeV electrons50 Gy in 252.81.527.820.03.61.910.30.61.74.80.90.4 .
+Chest wall and internal mammary nodes ( d , e ) Tangential pair6 MV50 Gy in 2513.52.450.344.121.73.032.01.79.98.16.71.2 60Co50 Gy in 2513.32.349.443.021.02.931.81.39.18.76.90.8 250 kV36 Gy in 2014948412613466112695 .
+Internal mammary nodes ( f ) Direct anterior6 MV50 Gy in 2516.710.548.447.627.817.425.11.66.221.015.51.4 60Co50 Gy in 2515.09.344.143.623.414.622.71.26.520.513.51.2 10-MeV electrons50 Gy in 252.72.344.840.23.73.16.40.44.610.30.80.2 250 kV50 Gy in 25105393715820162492 .
+Mastectomy scar boostDirect anterior60Co10 Gy in 50.90.28.16.81.20.33.10.10.20.21.20.1 10-MeV electrons10 Gy in 50.30.25.12.90.40.31.30.10.10.30.10.1 250 kV10 Gy in 5116511211111 Brachytherapy192Ir20 Gy172211 .
+Supraclavicular fossa ( g ) Direct anterior6 MV50 Gy in 250.81.41.11.00.80.8 60Co50 Gy in 250.41.30.60.50.20.4 .
+Posterior axilla ( h ) Direct posterior6 MV50 Gy in 250.50.80.80.60.40.5 60Co50 Gy in 250.30.70.50.50.00.3 .
+Full-size table .
+Abbreviations : LAD = left anterior descending coronary artery ; RCA = right coronary artery ; CCA = circumflex coronary artery ; BED = biologically effective dose .
+BED calculated using / ratio of 2. .
+Arm elevated on T-bar rest .
+Regimens a - h illustrated in Fig. 2. .
+Doses for low-energy regimens given to nearest Gray because of uncertainties involved in manual planning ; all other doses given to 1 decimal place .
+View Within Article .
+Heart dose from chest wall or breast irradiation .
+For breast or chest wall RT ( Figs. 2a - c ) , the mean heart dose varied between 0.9 and 14 Gy for left-sided and between 0.4 and 6 Gy for right-sided RT .
+The largest doses resulted from orthovoltage ( 250-kV ) irradiation .
+For example , for standard left tangential RT , the mean heart dose was 4.7 Gy for megavoltage and 14 Gy for orthovoltage irradiation .
+This was partly explained by lateral scatter and partly by the depth - dose characteristics of an orthovoltage beam .
+To deliver 42 Gy at the mid-plane point on the central axis , a given dose of approximately 42 Gy multiplied by 1.8 is needed from each tangential 250-kV beam .
+The resulting dose distribution within the breast / chest wall and within normal tissue nearby is inhomogeneous , with hot spots of up to 125% of tumor dose ( 53 Gy ) within the heart for left-sided RT .
+Where tangential beams were matched to a direct IMC field , the medial tangential border was 6 cm from the midline .
+The heart was , therefore , several centimeters from the posterior field edges and received low radiation doses from the tangential beams .
+The mean heart dose was 0.9 - 5 Gy for left-sided and 0.4 - 1 Gy for right-sided irradiation .
+For wide tangential RT , the medial border was 1 cm contralateral to the midline .
+Hence , relatively large heart volumes were irradiated : 10 Gy was received by 44.8 - 53% and 3.0 - 29% of the heart for left- and right-sided irradiation , respectively ( Appendix Tables 1 and 5 ) , and mean heart dose was 13.3 - 14 Gy and 2.3 - 9 Gy for left- and right-sided irradiation , respectively .
+For irradiation of the left breast or chest wall , the part of the heart receiving the greatest doses was the anterior surface of the left ventricle .
+The maximum heart dose was between 48.1 and 60 Gy for left tangential irradiation and 27.8 Gy for left electron irradiation .
+Full-size image ( 42K )
+Fig. 3. Axial computed tomography section showing dose distribution from left 60Co tangential pair radiotherapy .
+Isodose lines correspond to percentages of given dose .
+Three main coronary arteries are outlined , with 1 cm margin added to each .
+View Within Article .
+Heart dose from IMC irradiation .
+The IMC is located anteriorly , in the intercostal spaces , close to the heart .
+Therefore , IMC RT generally led to greater mean heart doses than irradiation of other targets , particularly for left-sided treatment .
+IMC RT , using either direct anterior or wide tangential fields , delivered a mean heart dose of 2.7 - 16.7 Gy for left-sided and 2.3 - 10.5 Gy for right-sided RT , with the greatest doses resulting from left direct anterior 6-MV irradiation .
+The heart volume irradiated was also considerable , particularly for direct anterior photon fields , which delivered 10 Gy to around 40% and around 20% of the heart for left- and right-sided fields , respectively .
+In contrast , direct electron IMC irradiation resulted in a lower mean heart doses of around 2 Gy and lower heart volumes of around 7% receiving 10 Gy ( for both left- and right-sided RT ) , owing to the rapid decrease in dose beyond the 90% isodose .
+Full-size image ( 74K )
+Fig. 4. Axial computed tomography sections showing dose distributions from ( a ) right and ( b ) left 6-MV direct anterior internal mammary fields .
+Isodose lines correspond to percentages of given dose .
+Three main coronary arteries are outlined , with 1 cm margin added to each .
+View Within Article .
+Direct anterior megavoltage IMC RT resulted in irradiation of different parts of the heart for left- and right-sided treatment .
+For a right-sided field , doses of 35 Gy were received by the right atrium , but , for a left-sided field , similar doses were received by the left ventricle .
+Where direct anterior IMC and matched tangential irradiation were used together , most of the total heart dose originated from the IMC field .
+For example , if 50 Gy was delivered to the chest wall and IMC using 6-MV beams , the IMC field would contribute 16.7 Gy and the chest wall fields , 0.9 Gy heart dose , giving a total mean heart dose of 17.6 Gy .
+Heart dose from scar boost irradiation .
+Mean heart dose from boost irradiation of the surgical scar was 1.0 Gy for both left- and right-sided RT .
+Left-sided photon beams delivered 1 Gy mean heart dose whereas the left electron beam delivered only 0.3 Gy because of the rapid decrease in the depth dose .
+Iridium wire implants were used in previous decades to deliver boost doses of 20 Gy to the scar ( 27 ) and ( 28 ) .
+The localized deposition of dose from these implants meant that only a few percent of tumor dose ( 1 Gy ) was received by the heart for left-sided irradiation .
+The heart dose from boost RT was small relative to the dose from the chest wall or breast RT because of the low given dose .
+For example , a patient who received 50 Gy MV tangential left chest wall RT , followed by 10 Gy electron scar boost would receive a total mean heart dose of 5.0 Gy : 4.7 Gy from chest wall and 0.3 Gy from boost irradiation .
+An important determinant of the heart dose from boost RT is the scar position relative to the heart , which is likely to vary from patient to patient .
+The doses presented here illustrate the relative magnitude of the cardiac doses from different boost techniques and are useful for comparisons between techniques .
+However , the doses can vary substantially between individual patients , depending on the boost position .
+The magnitude of this uncertainty is assessed below in the section Variability in boost position .
+Heart dose from supraclavicular fossa and axillary irradiation .
+The supraclavicular fossa ( SCF ) and axillary fields were distant from the heart , which received scattered radiation alone .
+The mean dose was 0.3 - 0.8 Gy for left-sided fields .
+The right-sided SCF and axillary fields are even farther from the heart , therefore , the cardiac doses are likely to be lower .
+Coronary artery doses .
+The radiation dose received by each cardiac structure was mainly determined by its location relative to the treatment field ( s ) .
+The LAD coronary artery on the anterior aspect of the heart is near the left breast and left IMC and , for all techniques used to treat these targets , the LAD dose exceeded the heart dose .
+For example , left MV tangential irradiation delivered a mean heart dose of 5 Gy compared with a mean LAD dose of 20 Gy , and part of the LAD received 50 Gy ( Fig. 3 and Appendix Table 2 ) .
+The LAD was in the penumbra of the left direct photon IMC field and received a mean dose of 20 Gy .
+In contrast , for the right-sided field , it received a mean dose of 2 Gy from scattered radiation .
+The right coronary artery is located anteriorly , to the right of midline .
+For most techniques , it was excluded from the radiation field .
+For direct anterior IMC irradiation , it was included in the right-sided IMC field , but not in the left .
+The mean dose was 10.3 - 24 Gy for right-sided and 4.6 - 6.5 Gy for left-sided irradiation .
+The circumflex coronary artery is located in the posterior myocardium and generally received lower doses than either the LAD or right coronary arteries .
+The mean circumflex dose from tangential RT was 0.1 - 8 Gy .
+Doses of 1 Gy were delivered by direct electron chest wall and scar boost irradiation .
+Combinations of different regimens .
+If a woman was treated with more than one regimen ( e.g. , direct IMC and matched tangential breast fields or tangential breast plus boost RT ) the mean doses from each regimen can be added to calculate the total mean dose to each cardiac structure .
+For full dosimetric information , including the percentage volume of each structure irradiated to different doses or BED for combinations of different regimens , the described method can be used to reconstruct different regimens on the same dose plan .
+Patient-to-patient variability in heart dose .
+The doses in Tables 2 and Appendix Tables 1 - 8 are estimates for a representative patient of average weight and build .
+The dose received by any individual patient will vary from these , depending on her individual characteristics , including breast size , extent of breast surgery , and sternal length , and on the circumstances of her RT ( e.g. , the linear accelerator used ) .
+These sources of variability would , in most cases , apply to any method of estimating cardiac dose retrospectively .
+The magnitude of their likely effect on cardiac dose is described below .
+Variation in patient anatomy .
+For tangential pair and direct IMC irradiation reconstructed on consecutive patients on the CT planning database , the mean heart dose varied from 1 to 2 Gy ( coefficient of variation [ mean divided by standard deviation ] [ CV ] , 11% ) for right-sided and from 2 to 4 Gy ( CV , 30% ) for left-sided tangential pair RT and from 5 to 15 Gy ( CV , 21% ) for right-sided and from 20 to 29 Gy ( CV , 11% ) for left-sided IMC RT .
+Thus , for each regimen , there was some interpatient variability in heart dose , but there was also substantial variation between different regimens .
+Full-size image ( 13K )
+Fig. 5. Variability in mean heart dose received by patients taken from computed tomography database of a radiotherapy center in United Kingdom , 2006 .
+Left and right internal mammary chain ( IMC ) and left tangential irradiation were reconstructed on 20 consecutive patients .
+Right tangential irradiation was reconstructed on 5 consecutive patients .
+Heart dose for each patient represented by black dot .
+View Within Article .
+Presence of breast tissue .
+All doses in Table 2 and Appendix Tables 1 - 8 are for a patient with breast tissue present .
+Irradiation using a direct electron field was usually performed after mastectomy , and tangential pair and external beam scar boost irradiation were used after either mastectomy or breast-conserving surgery .
+These techniques were reconstructed on the representative patient with breast tissue on the irradiated side , both included and excluded from the dose calculations .
+The decrease in the mean heart dose caused by the presence of breast tissue was 1.5% and 0.7 Gy for all photon techniques ( tangential pair and scar boost irradiation ) .
+For electron fields , the presence of breast tissue decreased the mean heart dose by 2.7 and 0.9 Gy for left and right electron chest wall fields , respectively , and by 0.2 and 0.06 Gy for left and right electron scar boost irradiation , respectively .
+Variation in patient position .
+Cardiac doses can be affected by patient treatment position .
+Factors likely to affect cardiac doses are those that change either the thoracic ( and , therefore , cardiac ) position relative to the radiation beams ( e.g. , thorax angled on a breast-board or flat on the bed ) or those that influence the field borders .
+For our representative patient , the thoracic position was similar to that used in previous decades for IMC , breast / chest wall , and SCF RT .
+For axillary irradiation , some previous patients were treated prone , but this different position was unlikely to materially affect the heart dose because axillary RT usually delivered scattered cardiac irradiation alone .
+For tangential irradiation , the ipsilateral arm position affects the field borders ( 29 ) .
+Right breast / chest wall RT mostly involved only scattered cardiac dose .
+For left tangential irradiation , the effect of a change in arm position was studied using a camera-based contouring system ( Osiris+ , Qados , Sandhurst , United Kingdom ) .
+Left tangential , 6-MV RT was reconstructed on a volunteer first with both arms above her head , supported by a T-bar arm rest and , second , with her ipsilateral arm abducted to 90 and her contralateral arm by her side .
+The heart dose was 2 Gy with the arms in the T-bar position and 3.4 Gy for the 90 arm position .
+Difficulty identifying field borders .
+Using the virtual simulator , precise identification of landmarks ( e.g. , sternal notch and xyphoid - sternal junction ) was subject to some uncertainty .
+The effect of this on the mean heart dose was quantified by reconstructing tangential pair and direct IMC fieldsfirst , with the field ( s ) in the standard position , second , moved 1 cm superiorly , and third , moved 1 cm inferiorly .
+Table 3 shows that the difference in mean heart dose that resulted from such movements was usually 10% and always 20% .
+Table 3. .
+Mean heart dose for 60Co breast radiotherapy regimens : effect of variability in field position on heart dose .
+Mean heart dose ( Gy ) Field ( s ) in standard positionField ( s ) moved superiorly by 1 cmField ( s ) moved inferiorly by 1 cm TargetField arrangementLeftRightLeftRightLeftRight Chest wall / breastTangential pair4.71.24.14.6 .
+Chest wall and internal mammary chainTangential pair13.32.312.113.2 Internal mammary chainDirect anterior15.09.312.68.417.110.4 .
+Full-size table .
+Variability likely to be minimal because dose mainly from scattered radiation .
+View Within Article .
+Variability in boost position .
+Cobalt-60 and iridium wire boosts were reconstructed , first centered on the nipple , second moved 2 cm superiorly , and third , 2 cm inferiorly .
+Table 4 shows the resulting differences in mean heart dose .
+In reality , the position of the scar and , therefore , of the boost , could well vary more than 2 cm ; therefore , the heart dose measurements are subject to a high degree of uncertainty .
+In general , the farther inferior the boost , the greater the heart dose .
+However , the heart dose from boost irradiation is always low relative to other techniques because of the low given dose of 10 - 20 Gy .
+Table 4. .
+Mean heart dose for left-sided scar boost radiotherapy : effect of variability in boost position on heart dose .
+Mean heart dose ( Gy ) TechniqueTypical dose and fractionationField or implant in standard positionField or implant moved superiorly by 2 cmField or implant moved inferiorly by 2 cm Brachytherapy using 192Ir wire implant20 Gy0.60.31 Direct anterior 60Co beam10 Gy in 50.90.31.8 .
+Full-size table .
+View Within Article .
+Use of different models of treatment unit .
+For axillary and SCF irradiation , two different makes of linear accelerator with , nominally , the same energy ( 6 MV ) were used .
+These fields were chosen , because they are usually distant from the heart ; therefore , the heart dose is largely from scattered irradiation originating in the machine treatment head and can vary according to the machine used .
+The mean heart dose varied between 0.8 - 1.4 Gy for supraclavicular and between 0.5 - 0.9 Gy for axillary fields .
+Thus , the use of different RT machines made little difference to the heart dose .
+To enable a comparison between different regimens , for each beam energy , the data from only one machine were used .
+Effect of changing source-to-skin distance for cobalt-60 beams .
+Direct IMC and tangential pair 60Co fields were set up using source-to-skin distances of 70 and 100 cm .
+This difference in the source-to-skin distance resulted in differences in the mean heart dose of only 0.2 Gy for IMC and 0.1 Gy for tangential pair irradiation .
+Discussion .
+We have presented dose estimates for breast cancer RT regimens that were in widespread use worldwide from the 1950s to the 1990s .
+There were considerable variations in the cardiac doses according to the regimen used .
+For example , 6-MV direct IMC RT delivered 17-Gy heart dose and 25-Gy LAD dose , whereas electron IMC irradiation delivered 3-Gy heart dose and 6-Gy LAD dose , while still delivering therapeutic tumor dose .
+Such differences are likely to have resulted in a wide variation in the cardiac doses worldwide , during the past few decades , owing to the diversity in RT practice .
+This will be useful when deriving dose - response relationships .
+Our estimates include coronary artery and heart doses for a wide variety of different regimens and are consistent with the few published CT-based estimates .
+The techniques available for comparison were wide and standard left tangential irradiation ( 22 ) and ( 30 ) and direct IMC irradiation ( 2 ) and ( 24 ) .
+The estimates of irradiated heart volumes were usually consistent with our estimates to within 3% of volume and were never more than 11% .
+Table 5. .
+Comparison of measured and published cardiac dose estimates .
+InvestigatorTechnique / field descriptionBeam energyLateralityMeasure of dose / volumePublished estimate of volume ( % ) Present estimate of volume ( % ) Gyenes 1997 ( 30 ) Wide tangential pair to breast and internal mammary chain60CoLeftPercentage of volume of heart receiving 50% of dose2523 Tangential pair6 MVLeftPercentage of volume of heart receiving 50% of dose5.75.5 .
+Gagliardi 1996 ( 2 ) Direct internal mammary chain field60CoLeftPercentage of volume of heart receiving 30% of dose5544 Direct internal mammary chain field60CoRightPercentage of volume of heart receiving 46% of dose3027 .
+Full-size table .
+Janjan et al. ( 5 ) calculated point cardiac doses rather than mean doses as in present study ; therefore , the results are not comparable and we omitted them from this comparison .
+Also , Krueger et al. ( 6 ) reported heart and coronary artery doses from seven left-sided postmastectomy regimens that were mostly used around the year 2000 ; they all differed from the regimens reconstructed in this study , which were largely historical .
+Reported doses estimated from published dose - volume histograms and converted from dose in equivalent 2-Gy fractions ; thus , a greater degree of uncertainty is present .
+View Within Article .
+Sources of variability for a given regimen .
+The reconstruction of any RT regimen is inevitably subject to several sources of variability .
+This study has characterized the principal sources of dose variability for virtual simulation and CT planning of breast cancer RT .
+The major source of error in estimating the cardiac doses for a given individual is likely to be variation in patient anatomy .
+Individual dose plans and information on anatomy ( e.g. , patient outline ) were rarely available before the 1980s .
+Therefore , when estimating cardiac doses for groups of patients treated in early trials of RT for breast cancer , the use of dose estimates for a representative patient , of average weight and build , might give the best indication of the cardiac doses received from particular regimens .
+Some uncertainty existed in locating the three main coronary arteries because arterial contrast was not used for CT planning .
+However , these arteries were visible on some CT slices , and their course tends to follow the interventricular and atrioventricular grooves , which are identifiable on CT .
+In addition , the accuracy of CT-based estimates is limited by normal movement of the heart , lungs , and thoracic cage .
+These movements will tend to slightly change the position of the heart relative to the radiation beams .
+However , the CT planning scan used for these reconstructions was acquired during several minutes ( including many breathing cycles ) , and the original RT would also have been delivered during several minutes .
+Therefore , the CT images are likely to illustrate the changing position of the heart relative to the treatment fields during the original RT , thus averaging the variation in dose caused by such changes .
+For some regimens , heart dose is affected by patient position .
+Treatment position for tangential irradiation in the 1950s to 1990s varied .
+In some regions , the ipsilateral arm was elevated using a T-bar rest , in others it was abducted to 90. For left tangential RT , lowering the ipsilateral arm ( from the T-bar position to 90 ) changed the mean heart dose from 2 to 3.4 Gy in our volunteer , which represents a 70% increase .
+Similar systematic changes in heart dose have been reported for 11 other patients ( 29 ) .
+For our representative patient ( T-bar position ) , 6-MV left tangential irradiation delivered a 4.7 Gy mean heart dose .
+If she had undergone irradiation in the 90 arm position , her heart dose might have been around 8 Gy ( assuming a 70% dose increase for a change from the T-bar to 90 arm position ) .
+We speculate that the mean LAD dose could have been 70% greater , because it is close to the radiation beams .
+The right and circumflex coronary arteries are distant from the tangential beams , and their doses were probably little affected by arm position .
+Our dose estimates for left tangential irradiation are applicable to patients treated in the T-bar position but are likely to systematically underestimate the heart and LAD doses for patients irradiated with the ipsilateral arm lower ( e.g. , at 90 ) .
+Irradiation of LAD coronary artery .
+For most breast cancer RT regimens , the anterior part of the heart , including the LAD coronary artery , received the greatest radiation doses .
+The LAD dose was generally greater than the dose to the whole heart or the two other coronary arteries .
+The distribution of atherosclerosis in the general population is 40 - 50% LAD , 30 - 40% right coronary artery , and 15 - 20% circumflex coronary artery ( 31 ) .
+Therefore , the greatest radiation doses were received by the coronary artery that appears to be most prone to atherosclerosis .
+Blockage of the LAD by atherosclerosis can lead to left ventricular infarction .
+Hence , radiation-induced damage to this artery might have contributed to the excess cardiac mortality seen after some past breast cancer RT regimens .
+Coronary arterial damage after RT has been assessed directly using myocardial perfusion imaging , which assesses myocardial ischemia .
+Several studies have shown an excess of anterior cardiac perfusion defects in areas of expected high dose between 6 months and 20 years after RT for left breast cancer ( 31 ) , ( 32 ) , ( 33 ) and ( 34 ) .
+One study ( 35 ) revealed an increase in myocardial perfusion defects in the region supplied by the LAD 6 months after left tangential pair RT , but not in the regions supplied by the other coronary arteries .
+It is unclear whether this damage leads to any clinical consequences or to the excess in death from heart disease seen after RT .
+Need for dose - response relationship .
+To reliably assess the cardiac risks of current and future RT regimens , relationships between the cardiac doses and subsequent cardiac morbidity and mortality are needed .
+This study has successfully quantified the cardiac doses and volumes irradiated for most common breast cancer RT regimens used between the 1950s and 1990s and demonstrated a wide range of cardiac doses .
+These estimates were derived to enable the development of cardiac dose - response relationships using data from the Early Breast Cancer Trialists Collaborative Group trials and data from other women for whom information on RT technique , tumor laterality , and outcome are available .
+Acknowledgments .
+This work arose out of our involvement with the Early Breast Cancer Trialists Collaborative Group .
+We thank the Early Breast Cancer Trialists Collaborative Group secretariat and many collaborators for their comments ; and also gratefully acknowledge Professor David Dodwell , Dr. Niall Moore , Professor John Hopewell , Dr. Giovanna Gagliardi , and Sir Richard Peto for their help with this work .

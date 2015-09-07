@@ -1,0 +1,372 @@
+Breast cancer is the most common malignancy in women and causes over 400,000 deaths per year  .
+Although recent advances have been made in tumor detection and treatment , the development of clinical metastasis remains a significant cause of morbidity and mortality from the disease .
+Thus controlling the tumor metastasis is a crucial goal for the successful treatment of cancer .
+HGF , also called scatter factor , controls a genetic program known as invasive growth , which involves critical steps for tumor metastasis , as this factor demonstrates the ability to stimulate proliferation , dissociation , migration and invasion in a wide variety of tumor cells , and is also a potent angiogenic factor  .
+The clinical significance of HGF and its receptor , Met , in human mammary cancer has begun to emerge in the last few years .
+There is an overexpression of HGF and its receptor , Met , in human mammary tumors , compared with normal mammary tissues .
+The clinical importance of HGF and its receptor has been further demonstrated in recent studies , showing that the levels of Met in mammary cancer tissues and levels of circulating HGF in patients with mammary cancer are associated with a lower survival and development of distant metastasis  .
+The lungs , livers and bones are frequent sites of breast cancer metastasis .
+Indeed , patients with multiple metastatic sites and liver metastasis exhibited the highest HGF levels .
+Furthermore , the increase in serum HGF levels was significantly associated with tumor size , nodal status , and histological evidence of venous invasion  .
+These observations suggest the importance of gaining a better insight into the role of HGF / Met in tumor metastasis and the potential of targeting this pathway in therapeutic strategies .
+The HGF / Met signaling pathways responsible for invasive growth have been mostly elucidated .
+The downstream signaling components include the PI3K / Akt , Ras / MAPK and the JAK / STAT pathway .
+Activation of these pathways is associated with increased scattering / motility , invasion , proliferation , survival and morphogenesis  .
+The interaction of PI3K with activated Met may enhance PI3K activity that has been implicated in the cytoskeletal reorganization required for cell motility and the formation of focal adhesions .
+These changes in actin organization in motile cells include the formation of a highly compact meshwork of actin filaments at the leading edge of cells , called lamellipodia and membrane ruffles , or the formation of short bundles of actin filaments protruding from the cell surface , called microspikes and filopodia  .
+Moreover , the PI3K / Akt pathway may activate IB kinase complex by phosphorylating IB , resulting in promoting the liberation of NFB .
+The liberated NFB is then translocated to the nucleus where it binds to cognate sequences in the promoter region of many target genes and then activates gene transcription  , such as MMPs , and uPA  .
+All of them can degrade basement membranes and the stromal connective tissue that are believed to play an important role in cancer metastasis .
+In addition to digest extracellular matrix ( ECM ) , the progression of invasion carcinoma requires constant and dynamic remodeling of adhesive contacts with ECM , followed by invasion into the interstitial matrix .
+Integrins , composed of and subunits , are the major family of cell surface receptors that mediate attachment to ECM and link ECM to intracellular cytoskeletal structures  .
+HGF may promote cell adhesion and invasion by increasing the avidity of integrins for their specific ligands through a PI3K-dependent mechanism  .
+It is suggested that aggregated integrins would form a high-density , high-valency complex endowed with enhanced avidity for matrix substrate that potentiates the adhesion and migration efficiency .
+The 64 integrin , which could help in enhancing Met oncogenic potential , is a receptor for various isoforms of the basement membrane component laminin and Met activation results in tyrosine phosphorylation of the 4 cytoplasmic domain  .
+Thereafter we use HGF to establish a study model on anti-invasion and anti-metastasis of flavonoids in MDA-MB-231 breast cancer cells , and effects on HGF-stimulated 4 function are investigated .
+Flavonoids are common constituents of human diet , present in most fruit and vegetables and comprise several classes including flavanones , flavonols , flavones and isoflavone .
+In several cases , flavonoids have been reported to possess anticancer potential  .
+Apigenin , a non-mutagenic and low toxicity flavone , is widely distributed in many fruits and vegetables including oranges , parsley , onions , wheat sprouts , and tea .
+It has been shown to induce apoptosis of cancer cells and exert effects on inhibiting the invasive process ( [ Plaumann et al. , 1996 ] and [ Czyz et al. , 2005 ] ) in which the mechanism is unclear .
+Our previous report showed that luteolin , a flavone , inhibited HGF-induced HepG2 cell invasion involving both MAPK / ERKs and PI3K / Akt pathways  .
+The aim of this study is to evaluate the inhibitory effect of apigenin on HGF-promoting invasion and metastasis of MDA-MB-231 breast cancer cells and to investigate the molecular mechanism involved .
+Materials and methods Antibodies and reagents .
+Anti-phospho-ERK1 / 2 ( Thr202 / Tyr204 ) , anti-phospho-JNK / SAPK ( Thr183 / Tyr185 ) , anti-phospho-p38 ( Thr180 / Tyr182 ) , and anti-phospho-AKT ( Ser473 ) antibodies were purchased from Cell Signaling Technology ( Beverly , MA ) .
+Anti-ERK1 / 2 , JNK / SAPK , p38 , Akt , and -actin antibodies were obtained from Santa Cruz Biotechnology ( Santa Cruz , CA ) .
+The function-blocking mAbs 3E1 ( against 4 ) were from Chemicon International , Inc. ( El Segundo , CA ) .
+Matrigel ( Collaborative Research , Bedford , MA ) is a solubilized basement membrane preparation , extracted from mouse sarcoma , containing laminin , collagen type IV , proteoglycans , and growth factors .
+Laminin-1 and recombinant HGF / SF were purchased from Sigma-Aldrich ( St. Louis , MO ) .
+The PI3K inhibitor wortmannin was obtained from Calbiochem ( La Jolla , CA ) .
+Four flavonoids , namely naringenin , apigenin , genistein , and kaempferol were purchased from Sigma-Aldrich ( St. Louis , MO ) .
+Full-size image ( 35K )
+High-quality image ( 303K )
+Fig. 1. Effect of flavonoids on HGF-induced migration and invasion of MDA-MB-231 cells. ( A ) The chemical structures of flavonoids. ( B ) The HGF ( 40 ng / ml ) was applied to the lower chamber as a chemoattractive agent .
+Serum-starved cells were seeded onto the upper chamber consisting of 8 m pore-size filters coated without ( for migration assay ) and with Matrigel basement membrane matrix ( for invasion assay ) , then incubated with 40 M of various types of flavonoids for 12 h .
+Cells that had migrated or invaded to the lower surface of the membranes were counted under a light microscope .
+The data represent as mean SD from three independent analyses .
+View Within Article .
+Cell culture .
+Human breast carcinoma MDA-MB-231 cell , lung carcinoma A549 cell , and hepatoma carcinoma SK-Hep1 cell were invasive cell lines obtained from ATCC and maintained in Dulbecco 's modified Eagle 's medium ( DMEM ; Gibco BRL , Grand Island , NY ) with 10% fetal bovine serum ( FBS ; Invitrogen-Gibco ) , 1% penicillin / streptomycin and 1% non-essential amino acids .
+Cell lines were maintained at 37 C in an incubator with 5% CO2 and 95% air .
+Before the addition of HGF , the cells were incubated overnight without serum .
+Human umbilical vein endothelial cells ( HUVEC ) were isolated from term umbilical cords and maintained in complete medium ( Medium 199 , 10 mM HEPES , pH 7.4 , 10% fetal calf serum , 1 mM glutamine , 12 U / ml heparin , 100 g / ml crude endothelial cell growth supplement , 100 U / ml penicillin , and 100 g / ml streptomycin ) at 37 C on fibronectin-coated tissue culture dishes  .
+The cells were used at passages 1 - 3. .
+Cell viability assay .
+MDA-MB-231 cells were seeded in 24 well plates ( 5104 cells / well ) , cultured in complete grown medium for 24 h , and then grown in the serum-starved medium for another 24 h .
+Serum-starved cells were treated with or without of 0 - 320 M of naringenin , apigenin , genistein or kaempferol for 12 h .
+Thereafter the medium was changed and incubated with 10 l of 3- ( 4,5-dimethylthiazol-2-yl ) -2,5-diphenyltetrazolium bromide ( MTT ) dye solution ( Promega , Southampton , UK ) for 4 h .
+The number of viable cells was directly proportional to the production of formazan , which then dissolved with DMSO , and measured spectrophotometrically at 570 nm by Emax Microplate reader ( Molecular Devices , Sunnyvale , CA ) .
+The comparative cell viability of flavonoids with control in MDA-MB-231 cells was evaluated and 50% of effective dose ( ED50 ) was expressed .
+In vitro cell migration and invasion assay .
+Matrigel ( BD Transduction Laboratories ) , which contained laminin , collagen type IV , proteoglycans , and growth factors , was diluted 1:25 with serum-free DMEM .
+Diluted matrigel ( 10 l ) or 10 g / cm2 of laminin-1 was plated on top of the Boyden chamber and allowed to gel for 4 h at 37 C. MDA-MB-231 cells were pretreated with or without the indicated concentration of flavonoids , integrin 4 function-blocking mAbs ( 4 g ) or wortmannin ( 2 M ) for 2 h .
+The cells ( 5105 cells / ml ) were suspended in serum-free media and 50 l of suspended cells were placed in the top of well .
+Serum-free DMEM with or without 40 ng / ml of HGF was placed in the lower chamber .
+After incubation for 12 h , the cells on the upper surface of the filter were wiped with a cotton swab .
+The cells on the lower surface of the filters were fixed 10 min with methanol , stained with Giemsa for 1 h and the cells that invaded the lower surface of the filter were then counted under a microscope .
+For each replicate ( n = 3 ) , the cells in five random selected fields were determined and the counts were averaged .
+Migration assays were done by the same procedure , except that the polycarbonate filters were not coated with Matrigel .
+Scratch motility assay .
+1106 MDA-MB-231 cells were plated in a 6 well plate and grown overnight to confluency in serum-containing media .
+The cells were serum starved for 24 h .
+The monolayer was scratched with a pipette tip , washed with PBS to remove floating cells in serum-free media and photographed ( 0 h ) .
+Various concentrations of apigenin with or without combination of HGF ( 40 ng / ml ) were applied for 12 and 24 h .
+The number of cells migrated into the scratched area ( at day 0 ) was photographed and counted at 5 randomly selected field and mean value per field was expressed .
+Analysis of cell morphology and F-actin distribution .
+MDA-MB-231 cells were seeded on a 6 well plate at a density of 5 105 / well and cultured in DMEM containing 10% FBS .
+After 24 h , the medium was replaced by a serum-free medium for another 24 h .
+After pretreatment with apigenin ( 40 M ) for 2 h , HGF was applied for 12 h in 5% CO2 37 C incubation .
+Then the cells were fixed in 3.7% paraformaldehyde and then blocked in 3% BSA .
+The F-actin was stained with TRITC-conjugated phalloidin to observe actin cytoskeleton and 1 mg / ml of DAPI was added to visualize the nuclei .
+All images were taken using a Nikon upright fluorescence microscope ( 100 objective ) .
+Preparation of total cell extracts and immunoblot analysis .
+Cells were washed with PBS plus zinc ion ( 1 mM ) and lysed in radio immunoprecipitation assay ( RIPA ) buffer ( 50 mM Tris buffer , 5 mM EDTA , 150 mM NaCl , 1% NP 40 , 0.5% deoxycholic acid , 1 mM sodium orthovanadate , 81 g / ml aprotinine , 170 g / ml leupeptin , and 100 g / ml PMSF , pH 7.5 ) .
+After mixing for 30 min at 4 C , the mixtures were centrifuged ( 10,000g ) for 10 min , and the supernatants were collected as whole-cell extracts .
+The protein content was determined with Bio-Rad protein assay reagent using bovine serum albumin as a standard .
+The samples containing 50 to 100 g of proteins were boiled in Laemmli sample buffer , separated on SDS polyacrylamide gel , electrophoretically transferred to nitrocellulose membrane ( Amersham , Arlington Heights , IL ) and blotted with the indicated primary antibodies .
+Proteins were visualized with the horseradish peroxidase-conjugated secondary antibodies ( Zymed Laboratory , Inc. , South San Francisco , CA ) followed by chemiluminescence detection ( ECL-Plus ; Santa Cruz Biotechnology ) .
+Immunofluorescence microscopy .
+Serum-starved cells were plated onto 24 well plates ( Costar ) containing 1.4-cm2 glass coverslips , previously coated with laminin-1 as described for adhesion assays .
+The cells were pretreated with apigenin ( 40 M ) or wortmannin ( 2 M ) for 2 h .
+After incubation for 30 min at 37 C in the presence or absence of HGF ( 40 ng / ml ) , cells were fixed in a freshly prepared solution containing 3.7% formaldehyde and 2% sucrose in PBS , pH 7.6 , for 5 min at room temperature .
+Cells were permeabilized by soaking coverslips in HEPES-Triton X-100 buffer ( 20 mM HEPES , pH 7.4 , 300 mM sucrose , 50 mM NaCl , 3 mM MgCl2 , and 0.5% Triton X-100 ) for 5 min at room temperature .
+Immunofluorescence was performed as previously reported ( De Luca et al. , 1990 ) .
+In brief , after saturation with PBS - 2% BSA for 15 min at 37 C , the primary antibodies were layered onto cells and incubated in a moist chamber for 30 min .
+After rinsing in PBS - 0.2% BSA , coverslips were incubated with the appropriate FITC-tagged secondary antibody ( Dakopatts ) for 30 min at 37 C and then mounted in Mowiol 4 - 88 ( Hoechst AG ) .
+Specimens were observed with an inverted photomicroscope ( model DMIRB HC ; Leica ) .
+Fluorescence images were captured using a cooled digital CCD Hamamatsu ORCA camera and digitally recorded with the ImageProPlus 4.0 imaging software .
+Cell - matrix adhesion assay .
+First , 96 well microtiter plates ( Nunc , Naperville , IL ) were coated with 10 g / cm2 of laminin-1 in PBS for 4 h at 37 C , blocked with 3% heat-denatured BSA in PBS for 1 h at 37 C , washed with PBS , and then air dried .
+Starved cells were pretreated with or without apigenin ( 40 M ) , integrin 4 function-blocking mAbs ( anti-4 ) ( 4 g ) or wortmannin ( 2 M ) for 2 h .
+The cells were harvested , washed twice with serum-free medium and added to the wells at a concentration of 104 cells / 0.1 ml of the same medium .
+After incubation for 40 min at 37 C in the presence or absence of HGF the unbound cells were removed by washing with PBS , and adherent cells were fixed in 3.7% paraformaldehyde and stained with 0.5% crystal violet for 30 min , washed three times with PBS , and lysed with 100 l of 10% acetic acid solution .
+Relative cell adhesion was quantified by monitoring the absorbance of dye at 570 nm ( n = 4 ) .
+Nonspecific cell adhesion as measured on BSA-coated wells has been subtracted .
+Cell - cell adhesion assay .
+MDA-MB-231 cells were pretreated with or without apigenin ( 40 M ) or anti-4 ( 4 g ) for 2 h , and labeled with 3-O-acetyl-2,7-bis ( carboxyethyl ) -4-5-carboxyfluorescein ester for 30 min .
+Labeled cells ( 3104 ) were deposited onto the HUVEC monolayer .
+After incubation in the presence or absence of HGF for 30 min at 37 C , cell-to-cell adhesion was determined fluorimetrically at Ex .
+490 nm / Em .
+535 nm .
+siRNA transfection .
+Small interfering RNA ( siRNA ) inhibition of Akt expression was achieved with the SignalSilence Akt siRNA kit according to the manufacturer 's instructions ( Cell Signaling Technology , Beverly , MA ) .
+Briefly , MDA-MB-231 cells at 50% confluence were incubated with Akt siRNA , negative control fluorescein-labeled , nonspecific siRNA ( to assess transfection efficiency ) ( 100 nM each ) .
+At 48 h post-transfection , transfection efficiency was verified to be 90% .
+The cells were then pretreated with or without apigenin in the presence or absence of HGF for the indicated times .
+Knockdown of proteins following siRNA transfection was confirmed by Western blotting .
+The blots were stripped and reprobed for -actin as well as Erk1 / 2 to monitor protein loading and nonspecific RNA interference effects .
+In parallel experiments , siRNA-transfected cells were performed for invasion assayed as described previously .
+Experimental metastasis assay in nude mice .
+Six-week-old female nude mice were used in the experimental metastasis assay .
+To generate metastases in nude mice , MDA-MB-231 cells ( 1106 ) with or without various treatments were resuspended in 100 l of PBS containing with or without HGF and injected into the tail vein on day 0. The mice were sacrificed 4 weeks after the injection of cancer cells .
+The organ examination found that the disseminated tumors formed principally in the lung .
+The size and weight of lung were assessed .
+In addition , the tumor metastasis assay was measured by lung sections stained with hematoxylin .
+Chick embryo metastasis assay .
+Similar cell pretreatment to nude mice study , MDA-MB-231 cells ( 5106 ) suspended in 40 l of medium containing with or without HGF were seeded on an 11-day-old chick chorioallantoic membrane ( CAM ) for 7 days  and then resected .
+The ability of tumor cells to intravasate from the primary tumor into the circulation followed by spontaneous metastasis to the lung or liver was assessed by the detection of human tumor cells in the lower CAM , lung and liver .
+The detection of human tumor cells in these tissues was based on the quantitative detection of human alu sequences present in DNA extracts of these tissues .
+Genomic DNA was extracted from harvested tissues using the Puregene DNA purification system ( Gentra Systems , Minneapolis , MN ) .
+To detect human tumor cells in the chick tissues , primers specific for the human alu sequences ( sense : 5 ACG CCT GTA ATC CCA GCA CTT 3 , and antisense : 5 TCG CCC AGG CTG GAG TGC A 3 ) were employed to amplify the human alu repeats present in genomic DNA that was extracted from chick tissues .
+The real-time PCR employed to amplify and detect alu sequences contained 30 ng of genomic DNA , 2 mM of MgCl2 , 0.4 M of each primer , 200 M of DNTP , 0.4 U of Platinum Taq polymerase ( Invitrogen Corporation , Carlsbad , CA ) , and a 1:100,000 dilution of SYBR green dye ( Molecular Probes , Eugene , OR ) .
+Each PCR was performed in a final volume of 10 l under 10 l of mineral oil with the iCycler iQ ( Bio-Rad laboratories , Hercules , CA ) under the following conditions : polymerase activation at 95 C for 2 min followed by 30 cycles at 95 C for 30 s , 63 C for 30 s , and 72 C for 30 s .
+A quantitative measure of amplifiable chick DNA was obtained through amplification of the chick GAPDH genomic DNA sequence with chGAPDH primers ( sense : 5 GAG GAA AGG TCG CCT GGT GGA TCG , antisense : 5 GGT GAG GAC AAG CAG TGA GGA ACG ) using the same PCR conditions described for alu .
+The fluorescence emitted by the reporter dye was detected online in real-time , and the threshold cycle ( Ct ) of each sample was recorded as a quantitative measure of the amount of PCR product in the sample .
+Ct is the number of fractional cycles at which the fluorescence generated by the reporter dye exceeds a fixed level above baseline .
+When indicated , the alu signal was normalized against the relative quantity of GAPDH and expressed as Ct = ( Ctalu CtGAPDH ) .
+The changes in alu signal relative to the total amount of genomic DNA ( and , hence , changes in the quantity of human DNA in the chick tissue ) were expressed as 2 Ct .
+Data are shown relative to expression of alu ( levels of untreated group were normalized to one ) .
+Each assay included a negative control , a positive control , a no-template control , and the experimental samples in duplicate .
+Statistical analysis .
+Statistical significances were analyzed by one-way analysis of variance ( ANOVA ) with post hoc Dunnett 's test .
+P values less than 0.05 were considered statistically significant ( Sigma-Stat 2.0 , Jandel Scientific , San Rafael , CA , USA ) .
+Results Cytotoxicity of flavonoids to MDA-MB-231 cells .
+We first determined the cytotoxicity of flavonoids including naringenin , apigenin , genistein , and kaempferol by treating MDA-MB-231 cells with various concentrations ( 0 - 320 M ) for 12 h followed by MTT assay .
+Compared to that of control ( DMSO-treated alone ) , the percentage of cell viability of the flavonoids was determined .
+The result demonstrated that there was no significant difference in cell viability at the concentration ranging from 0 to 40 M and the ED50 values of each flavonoids are shown in Table 1. Forty-M concentration of flavonoids was applied in subsequent experiment .
+Table 1. .
+Evaluation of flavonoids on cell viability of MDA-MB-231 cells .
+FlavonoidED50 ( M ) Naringenin290.0 18.9 Apigenin238.5 14.5 Genistein216.7 11.1 Kaempferol224.9 7.8 .
+Full-size table .
+Cell viability was determined by MTT assay of three independent experiments as described in Materials and methods .
+The comparative effect with control was evaluated and ED50 of flavonoids was expressed .
+View Within Article .
+Effect of flavonoids on HGF-promoted cell migration and invasion in MDA-MB-231 cells .
+HGF has been shown to promote the proliferation and invasion of various cancer cells ( [ Maroni et al. , 2007 ] and [ Ghoneim et al. , 2007 ] ) .
+By trypan blue dye exclusion assay , it demonstrated that HGF ( 40 ng / ml ) did not promote cell proliferation as compared with control , however , promoted cell invasion after treatment for 12 h or 24 h in MDA-MB-231 cells ( data not shown ) .
+Then we examined whether selected flavonoids ( 40 M ) are able to prevent HGF-promoted cell migration and invasion .
+Using Boyden chamber assay , we found that all the selected flavonoids exhibit significant inhibitory effect on HGF-promoted migration and invasion of MDA-MB-231 cells and that apigenin is the most potent .
+Effect of apigenin on HGF-induced cell motility , scattering , migration and invasion .
+Since stimulation of HGF signaling has been implicated in cancer cell invasive growth that involves a sequential series of critical steps , including increased motility , cell scattering ( cell - cell repulsion ) , branching morphogenesis , migration and invasion .
+To better understand the inhibitory effect of apigenin on HGF-promoted invasive growth in MDA-MB-231 cells , we investigated the effects of apigenin on HGF-induced cell motility and cell scattering .
+By scratch motility assay , the starved untreated MDA-MB-231 cells exhibit only a limited wound closure activity .
+In contrast , the HGF-treated cells show acceleration of wound closure that could be observed after treatment for 12 and 24 h , and these cells form multiple archipelago-like sheets of cells stretching into the denuded area .
+Notably , those wound-edge cells form asymmetric lamellipodial protrusions , and apigenin has markedly decreased the wound closure activity .
+The results of the wound closure assays were quantitated through a visual analysis .
+After wounding for 12 and 24 h , five distinct view fields per sample were randomly selected , and the number of free-migrating cells was counted .
+Cell scattering is an important component of several physiological processes such as embryonic morphogenesis , tissue regeneration and tumor invasion .
+As seen in Fig. 2C , when the MDA-MB-231 cells were cultured , they showed tight junction and moderately fibroblastoid .
+After treatment with HGF for 12 h , the cells showed a remarkable scattering and spindle-shaped morphology , and pretreatment with apigenin was effective in blocking HGF-stimulated cell scattering of MDA-MB-231 .
+Because modulation of cytoskeleton proteins has been linked with cell invasion , we proceeded to investigate the cytoskeleton change by staining with TRITC-conjugated phalloidin .
+HGF-induced membrane protrusions such as lamellipodia that is responsible for cell moving and attachment were seen .
+Pretreatment of apigenin HGF-induced cytoskeleton change was inhibited , however , there are no difference in the nuclear .
+Full-size image ( 154K )
+High-quality image ( 2357K ) Full-size image ( 89K )
+High-quality image ( 885K )
+Fig. 2. Evaluation of apigenin on HGF-stimulated cell motility , scattering , migration and invasion in MDA-MB-231 cells. ( A ) The serum-starved monolayer cell was scratched with a pipette tip , then pretreated with or without 40 M apigenin ( Api ) for 2 h , and then applied HGF 40 ng / ml for 12 h or 24 h .
+The results were observed under phase contrast microscope and photographed .
+Scale bar = 100 m. ( B ) The number of cells migrated into the scratched area was counted at 5 randomly selected field and represented as mean SD. ( C ) The serum-starved monolayer cell was pretreated with or without 40 M apigenin ( Api ) for 2 h , and then applied HGF 40 ng / ml for 12 h .
+The MDA-MB-231 cells were observed under phase contrast microscopy ( 100 ) .
+The nuclei were stained with DAPI , which displayed blue fluorescence and F-actin was stained with TRITC-conjugated phalloidin , which displayed red fluorescence .
+Arrowheads indicate actin-rich membrane ruffles .
+Scale bar = 50 m. ( D ) Migration and invasion assay were performed using the Boyden chemotaxis chamber and 40 ng / ml of HGF as a chemoattractive agent in the lower chamber .
+Cells were fixed , stained , and counted as described in the text .
+The data represent mean SD from three independent analyses .
+View Within Article .
+We also examined the dose effect of apigenin in preventing cell migration and invasion , which was stimulated by HGF .
+As anticipated , apigenin inhibited the HGF-induced cell migration and invasion in a dose-dependent manner when subjected to Boyden chamber assay .
+Effect of apigenin on HGF-induced Met phosphorylation .
+The HGF / Met signaling pathway is deregulated in numerous types of cancer , including breast cancer .
+However , the mechanism by which apigenin inhibits HGF-Met signaling remains unknown .
+Therefore , we first investigated whether apigenin can inhibit HGF-induced Met phosphorylation .
+Western blot analysis revealed that HGF treatment induced Met phosphorylation as early as 15 min , and the phosphorylated form remained sustained for 1 h .
+However , apigenin did not repress the phosphorylation of Met at 0 to 40 M , suggesting that it is not directly inhibiting Met activation .
+Full-size image ( 121K )
+High-quality image ( 1029K )
+Fig. 3. Effect of apigenin on HGF-stimulated phosphorylation of Met , MAPKs and Akt. ( A ) Serum-starved MDA-MB-231 cells were stimulated with 40 ng / ml of HGF for 0 - 360 min , and then the cell lysates were subjected to Western blot analysis and probed with the phospho-Met and c-Met antibodies .
+In addition , the cell pretreated with various concentration of apigenin for 2 h then incubated with HGF for additional 15 min .
+The cell lysates were subjected to Western blot analysis and probed with the phospho-Met and c-Met antibodies. ( B ) Time course effect of HGF on phosphorylation of MAPKs and Akt was analyzed by immunoblotting. ( C ) Serum-starved MDA-MB-231 cells were pretreated with various concentration of apigenin for 2 h then incubated with HGF for additional 15 min .
+The cell lysates were subjected to Western blot analysis for elucidation the effect of apigenin on HGF-induced phosphorylation of MAPKs and Akt. ( D ) The invasion assay was performed using the Boyden chamber assay .
+Cells were pretreated with apigenin , wortmannin , or both for 2 h , and with or without HGF as a chemoattractive agent for 12 h .
+Cells were counted in triplicate wells and in three independent experiments .
+The data represent mean SD. ( E ) Serum-starved A549 and SK-Hep1 cells were pretreated with or without 40 M of apigenin then incubated with or without 40 ng / ml of HGF for an additional 15 min .
+The cell lysates were subjected to Western blot analysis and probed with anti-Akt and anti-phospho-Akt .
+View Within Article .
+Effect of apigenin on HGF-induced Akt phosphorylation .
+It remains to be determined which pathways downstream of HGF / Met signaling are inhibited by apigenin , in order to further address the molecular mechanism of how apigenin inhibits HGF-mediated invasive growth in MDA-MB-231 cells .
+We evaluated the extent of activation of HGF-Met downstream transducers .
+The phosphorylation of ERK1 / 2 , JNK / SAPK , p38 MAPK and Akt following HGF stimulation was analyzed by Western blotting .
+Even in this case , ERK1 / 2 was phosphorylated within 15 min after HGF stimulation , and maximal tyrosine phosphorylation was observed at 30 min , and JNK / SAPK was activated as early as 5 min and its activation was sustained for more than 6 h following HGF treatment .
+Akt acts downstream of PI3K and is a multifunctional regulator of cell survival , growth and invasion .
+It was also phosphorylated within 5 min after HGF stimulation , and the phosphorylation was maintained for 2 h .
+The total protein levels of ERK1 / 2 , JNK / SAPK and Akt remained unchanged with these treatments .
+However , p38 MAPK was not activated by treatment with HGF , though this kinase was present in the cells .
+These observations suggest that activation of ERK1 / 2 , JNK / SAPK , and Akt by HGF may play a role in invasive activities of MDA-MB-231 cells .
+We further investigated the effect of apigenin on the HGF-mediated phosphorylation of ERK1 / 2 , JNK / SAPK , and Akt .
+It showed that apigenin suppresses HGF-induced Akt activation but not ERK1 / 2 or JNA / SAPK activation .
+The above results were further confirmed using different inhibitors , including the MEK inhibitor PD98059 , JNK inhibitor SP600125 and PI3K inhibitor wortmannin ( data not shown ) .
+In addition , treatment with wortmannin , like apigenin , inhibited HGF-induced loss of cellular junctions and actin organization ( data not shown ) , and decreased the number of invasive cells stimulated by HGF .
+The combination treatment of wortmannin and apigenin promoted the anti-invasion effect on HGF-treated MDA-MB-231 cells .
+These results indicate that blocking the PI3K / Akt pathway by apigenin contributes to inhibiting HGF-induced invasive activities .
+Furthermore , we investigate whether apigenin selectively inhibiting HGF-induced Akt phosphorylation on other cancer cells .
+It shows that apigenin exhibits the potential to suppress HGF-induced Akt phosphorylation on human hepatocellular carcinoma SK-Hep1 cells and human lung carcinoma A549 cells .
+Inhibitory effect of apigenin on HGF-induced cell invasion by decreasing 4 integrin avidity and adhesion through PI3K-dependent mechanism .
+In tumor invasion , tumor cells that escape from the tumor mass degrade the surrounding ECM .
+A variety of proteases produced by the tumor cells are implicated in ECM degradation .
+We proceeded to determine the proteases expression with HGF stimulation .
+Consistent with the report of Trusolino_et_al.  , HGF did not alter the protein levels of MMPs and their inhibitors , including MMP-1 , MMP-2 , MMP-9 , TIMP-1 and TIMP-2 ( data not shown ) .
+The presence of 4 integrin seems to be necessary to efficiently respond to HGF-induced invasion and metastasis in several carcinoma cell lines  and HGF promotes cell adhesion and invasiveness by increasing the avidity of integrins  .
+We therefore investigated the inhibition effect of apigenin on HGF-induced cell invasiveness involving PI3K-dependent 4 integrin avidity .
+First , we performed immunofluorescence experiments on cell adhering onto laminin-1 , a specific matrix ligand for 64 , in the absence and presence of HGF alone or in combination with apigenin or wortmannin to monitor the integrin 4 subcellular distribution .
+In Fig. 4A , MDA-MB-231 cells were plated onto laminin-1 basement membrane only at a minor aggregation of 4 integrin , treatment with HGF-promoted clustering of 4 integrin at actin-rich adhesive site and lamellipodia , and redistribution to actin-rich membrane ruffles , and that inhibited by the coadministration with apigenin or wortmannin .
+This outcome was independent on apoptosis that was confirmed with DAPI nuclear stain .
+In Fig. 4B , MDA-MB-231 cells were serum starved , detached , and plated onto a plastic substrate coated with laminin-1 .
+Cell adhesion was enhanced by the treatment with HGF compared to that of untreated cells and that was inhibited in the presence of apigenin , PI3K inhibitor ( wortmannin ) and function-blocking mAbs against the 4 integrin ( anti-4 ) .
+These results suggest that the PI3K signaling pathway plays a crucial role in the blocking HGF-triggered 4 integrin avidity and cell adhesion by apigenin .
+Full-size image ( 78K )
+High-quality image ( 569K )
+Fig. 4. Effect of Apigenin on HGF-mediated 4 integrin clustering , adhesion and invasion. ( A ) MDA-MB-231 cells were seeded in laminin-1-coated 24 well plates , pretreated with 40 M of apigenin or 2 M of wortmannin for 2 h then treated with HGF for 30 min .
+Analysis of immunofluorescence microscopy was performed as described in the text .
+4 integrin displayed green fluorescence .
+F-actin stained with TRITC-conjugated phalloidin displayed red fluorescence .
+The nuclei were stained with DAPI , which displayed blue fluorescence .
+Arrowheads indicate integrin clusters ( green ) and actin-rich area ( red ) .
+Scale bar = 5 m. ( B ) MDA-MB-231 cells with treatment of indicated agent for 2 h were added to microplates coated with laminin-1 .
+After incubation in the presence or absence of HGF for 40 min , cell - matrix adhesion was quantified using ELISA plate reader as described in the text .
+Data represent as mean SD. ( C ) The invasion assay was performed by Boyden chamber using the lower surfaces of the membrane coated with laminin-1 and HGF as a chemoattractive agent .
+The membrane was counted in triplicate wells and in three independent experiments .
+The data represent mean SD. ( D ) After treatment of indicated agents MDA-MB-231 cells were labeled with 3-O-acetyl-2-7-bis ( carboxyethyl ) -4-5-carboxyfluorescein ester for 30 min and deposited onto the HUVEC monolayer , then incubated with or without HGF for additional 30 min .
+Cell-to-cell adhesion was quantified using a fluorescent plate reader ( Ex / Em = 490 nm / 535 nm ) .
+Data are presented as mean raw fluorescent counts per well of the mean .
+Data are mean SD. ##P 0.01 , compared with control ; P 0.01 , compared with HGF treated alone .
+View Within Article .
+A critical step in the metastatic process is the attachment of tumor cells to the basement membrane ( BM ) and altered cell - ECM interactions are clearly critical during the acquisition of the invasive phenotype .
+The above experiments prompted us to investigate whether inhibition of cell adhesion and integrin avidity also affects invasion .
+We performed the chemoinvasion assay on laminin-1 .
+HGF , as expected , significantly increased the invasive cancer cells and decreased by pretreatment with apigenin , wortmannin or anti-4 .
+Treatment combining apigenin , wortmannin , and anti-4 enhanced the anti-invasive effect .
+These observations indicated that the suppression of the PI3K-dependent 4 avidity by apigenin is crucial for its anti-invasion effect .
+Moreover , it has been demonstrated that colonization of the lungs by human breast cancer cells is correlated with cell adhesion to human endothelial cell luminal surface of pulmonary arteries , arterioles , and venules , which is mediated by 4 integrin  .
+Thus , we investigated whether 4 integrin function inhibited by apigenin can in fact contribute to the suppression of MDA-MB-231 cells adhesion to endothelial cells .
+Then we performed the adhesion assay , which measures adherence of MDA-MB-231 cells to cultured endothelial cells .
+The results indicated that HGF-promoted cell adhesion compared with that of untreated cells and apigenin , wortmannin or anti-4 pretreated cells exhibited inhibited adhesion activity as compared with HGF-treated alone group .
+Because pharmacological inhibitors may exhibit nonspecific effects , we performed Akt-siRNA to confirm the crucial role of PI3K / Akt pathway on HGF-induced invasion .
+Immunoblot analysis was used for lysates from MDA-MB-231 cells transfected with a control siRNA or the Akt-siRNA for 48 h , then pretreated with or without apigenin in the presence or absence of HGF .
+It demonstrates that protein level of total Akt from Akt-siRNA-transfected cells was diminished .
+Parallel samples transfected with siRNA ( Akt or control ) were pretreated with or without apigenin for 2 h and invasion assays were performed on laminin-1 .
+As shown in Fig. 5B , HGF enhanced cell invasiveness effect in nontransfection cells and control-siRNA-transfected cells .
+However , Akt-siRNA-transfected cells significantly inhibited HGF-induced invasion and the inhibitory effect promoted by combination with apigenin .
+Together these results strongly suggest that apigenin inhibiting HGF-induced Akt phosphorylation is a crucial step to prevent HGF-mediated cell invasion .
+Full-size image ( 46K )
+High-quality image ( 394K )
+Fig. 5. Effect of apigenin on HGF-mediated invasion of siRNA transfected MDA-MB-231 cells. ( A ) MDA-MB-231 cells were transfected with 100 nM Akt siRNA or control siRNA for 48 h .
+The cells were pretreated with or without 40 M of apigenin then incubated with or without of HGF , and lysates were probed for anti-Akt to confirm the silencing of Akt expression and non-target antibodies ( ERK and -actin ) as control to monitor protein loading and nonspecific RNA interference effects by immunoblot analysis. ( B ) Transfected MDA-MB-231 cells were pretreated with or without apigenin and applied HGF for invasion assay as described in Fig. 4C .
+Data represent as mean SD. ##P 0.001 vs. untreated cells , P 0.001 vs. cells treated with HGF alone .
+View Within Article .
+Inhibitory effect of apigenin on HGF-induced lung colonization of MDA-MB-231 cells in nude mice .
+HGF significantly increased lung metastasis , as reported previously  .
+Although MDA-MB-231 cells are inefficient in forming spontaneous metastasis in female nude mice ( data not shown ) , we are able to generate experimental lung metastasis 4 weeks after intravenous injection of tumor cells .
+In this model , we evaluated the inhibitory effect of apigenin on lung colonization of MDA-MB-231 cells in nude mice .
+Four weeks after cell injection , the group of mice treated with HGF alone exhibited signs of respiratory distress , and the experiment was terminated .
+The mice were euthanized and pulmonary colonization was examined for the developed lung metastasis .
+Both the size and total weight of the lungs were significantly increased for HGF-treated group as compared with that of the control group .
+Moreover , in the presence of HGF , groups pretreated with apigenin , wortmannin or anti-4 showed decrease in the size and total weight of the lung .
+Furthermore , the number and size of metastatic lung nodules were significantly reduced in apigenin , wortmannin , or anti-4 pretreated groups .
+Histological examination of the lungs confirmed the above gross findings , upon intravenous injection of MDA-MB-231 cells in nude mice , HGF promotes production of massive tumor which had a solid histological appearance and lacked signs of tissue organization .
+The groups pretreated with apigenin , wortmannin or anti-4 reduced all the metastatic phenomena stated above .
+Taken together , these findings strongly support the idea that blocking PI3K / Akt and the function of 4 by apigenin plays a crucial role in suppressing HGF-promoted metastasis of MDA-MB-231 cells .
+Full-size image ( 167K )
+High-quality image ( 2107K )
+Fig. 6. Effect of apigenin on HGF-promoted lung colonization of breast cancer cells in nude mice .
+Serum-starved MDA-MB-231 cells pretreated for 2 h with indicated agents were injected with or without HGF into the lateral tail vein of 6-week-old female nude mice ( n = 6 ) .
+Mice were sacrificed 4 weeks later and the lung was cut out for assessment. ( A ) A representative of lung size view , ( B ) gross lungs with metastatic nodules and ( C ) histological views of the lung sections ( HE , 40 ) were photographed .
+Right upper square of histograms correspond to magnifications of selected lung sections ( 100 ) .
+Scale bar = 100 m .
+View Within Article .
+Table 2. .
+Effect of apigenin on HGF-promoted lung colonization .
+TreatmentNormalSize of nodules ( range in mm ) No. of nodules ( mean [ range ] ) Lung weight ( g ) NDND0.29 0.04 MDA-MB-231 ( ) HGFControl0.8 - 2.952 ( 44 - 62 ) 1.36 0.11 Untreated0.9 - 6.162.8 ( 51 - 77 ) 1.77 0.15 Apigenin0.8 - 3.827.6 ( 19 - 35 ) 1.02 0.17 ( + ) HGFWortmannin0.5 - 4.429.3 ( 21 - 37 ) 1.18 0.17 Anti-40.5 - 4.534 ( 25 - 42 ) 1.19 0.2 .
+Full-size table .
+Effect of apigenin on lung colonization was determined as described in the text .
+The mice were euthanized 4 weeks after cell injection , and the number , and size of lung metastasis and the whole lung weight were measured .
+Lung nodules 0.5 mm in diameter were counted .
+ND = non-detected .
+P 0.05 , compared with normal .
+P 0.05 , compared with control .
+P 0.05 , compared with HGF-treated alone group ( n = 6 ) .
+View Within Article .
+Inhibitory effect of apigenin on HGF-promoted spontaneous intravasation and metastasis of MDA-MB-231 cells in chick embryo .
+Intravasation , when tumor cells invade through blood vessel walls into the bloodstream , is the key step of the carcinoma process leading to metastasis  .
+Thus , we assessed whether function of 4 integrin is required for apigenin in suppressing the HGF-induced spontaneous intravasating into the CAM vasculature , and metastasizing to the host liver or lung tissue in vivo .
+We incubated MDA-MB-231 cells for 2 h with apigenin , wortmannin or anti-4 , and then seeded tumor cells together with or without HGF on chick chorioallantoic membrane ( CAM ) .
+In the chick embryo model , HGF-promoted tumor cell dissemination to the liver and lungs exhibiting 100% of incidence of spontaneous liver or lung metastasis detected by PCR for human alu and that decreased by all the pretreated .
+Though the incidence of spontaneous LCAM intravasation did not show apparent differences in all experimental groups , pretreated groups with apigenin , wortmannin , or anti-4 decreased HGF-promoted human alu expression in LCAM significantly by real-time PCR analysis .
+Taken together , these observations indicate that apigenin can prevent HGF-promoted metastasis through blocking PI3K / Akt pathway and 4 integrin function .
+Table 3. .
+Effect of apigenin on HGF-promoted spontaneous metastasis in chick embryos .
+TreatmentFrequency of organ displaying human alu ( metastasis / total ) LCAMLungLiver MDA-MB-231 ( ) HGFControl9/95/94 / 9 Untreated9/99/99/9 Apigenin9/94/94 / 9 ( + ) HGFWortmannin9/92/94 / 9 Anti-48/93/93/9 .
+Full-size table .
+Effect of apigenin on spontaneous metastasis in chick embryos was determined as described in the text .
+The incidence of intravasation of breast cancer to LCAM and metastasis to liver or lung tissue was evaluated by PCR analysis of total tissue DNA for the presence of human alu sequence and the chick GAPDH as controls respectively , n = 9. .
+View Within Article .
+Full-size image ( 22K )
+High-quality image ( 141K )
+Fig. 7. Effect of apigenin on HGF-promoted breast cancer cell spontaneous intravasation and metastasis in chick embryo .
+Serum-starved MDA-MB-231 cells were pretreated with indicated agents for 2 h .
+The cells were resuspended and then seeded together with or without 40 ng / ml of HGF onto the CAM of 9-day-old chick embryos ( n = 9 ) .
+On day 7 , tissues of the lower chorioallantoic membrane ( LCAM ) , liver and lung were harvested .
+The quantitative real-time PCR amplification for human alu and chick GAPDH was performed using DNA extracts from the LCAM , lung , and liver as described in the text .
+The data are representative of two consecutive experiments .
+View Within Article .
+Discussion .
+It is suggested that breast cancer has a lower incidence in Asia than in Western countries  .
+This may be attributed to the Asian dietary regimen rich in flavonoid-containing plants , which are thought to be anti-tumorigenic .
+Many cancers including cancers of the colon , breast , and lung have been shown to express dysregulated kinase enzyme activities .
+Flavonoids are known to modulate some protein kinases such as protein kinase C ( PKC ) , protein tyrosine kinase ( PTK ) that play key roles in cancer biology ( [ Ravindranath et al. , 2004 ] , [ Agullo et al. , 1997 ] and [ Lin et al. , 1997 ] ) .
+In Fig. 1 , all tested flavonoids exhibit inhibitory effect on HGF-induced migration and invasion that apigenin presents the most potent involving blocking the activity of PI3K .
+Interestingly , while EGCG , a tea polyphenol , directly inhibits HGF-induced Met activation in MDA-MB-231 cells  apigenin treatment is not capable of blocking this response , suggesting that apigenin may not inhibit HGF / Met signaling at the level of the receptor but has the ability to block the downstream signaling such as PI3K / Akt pathway , which is sufficient to inhibit HGF-induced invasion .
+The HGF / Met signaling pathway is deregulated in the majority of cancers and is associated with poor prognosis in breast cancer  .
+Downstream activation of the PI3K / Akt and the Ras / Erk pathways has both been found to be necessary for HGF-induced motility as well as adherence junction disassembly .
+PI3K can activate a GTP-GDP exchanger for the small GTPase Rac .
+Activated Rac , in turn , controls the organization of the actin cytoskeleton .
+In Fig. 3 , it demonstrates that while HGF induces phosphorylation of Met , Erk , JNK , and Akt in MDA-MB-231 cells , apigenin ( 40 M ) only inhibits Akt phosphorylation .
+Thereafter , apigenin inhibits HGF-promoted MDA-MB-231 cell scattering , motility , migration , and invasion through blocking PI3K / Akt pathway .
+In addition , PI3K involves the avidity of integrins locating in membrane ruffles and lamellipodia  .
+Increasing avidity of integrins may enhance invasiveness through isolated matrix protein as well as through reconstituted base membrane .
+Our data show that blocking HGF-induced PI3K signaling by apigenin and wortmannin prevents 4 integrin avidity .
+In addition to 4 , MDA-MB-231 cells also express the integrin subunits 1 , 3 , and 5. It has been reported that HGF potentiates cell adhesion to ECM components , fibronectin and vitronectin , by affecting 1 , 3 , and 5 integrins  .
+Therefore , we performed adhesion assay to the two substrates and found that apigenin reduced the enhancement effect stimulated by HGF ( data not shown ) .
+Although apigenin suppresses HGF-induced 4 avidity through PI3K / Akt pathway that involved in MDA-MB-231 cell adhesion and invasion , the molecular mechanism on other integrins needs further investigation .
+Furthermore , colonization of the lung metastatic human breast cancer cells is correlated with cell surface expression of 64 integrin and cell adhesion to endothelial cell luminal surface of pulmonary arteries , arterioles , and interlobular venules  , suggesting that adhesion-inhibitory effects of apigenin may involve in lung metastasis through blocking 4 function .
+The notion is confirmed in nude mice experiment that anti-4 decreases the HGF-promoted metastasis .
+Tumor invasion plays a crucial role in metastasis and involves a number of important steps including adhesion of tumor cells to the basement membrane ( BM ) , enzymatic digestion of the BM by proteolytic enzymes followed by migration through the ECM with the subsequent growth and proliferation of cells at a new site .
+These events are largely regulated by extracellular signals , including growth factors such as HGF .
+HGF has been shown to increase uPA , and MMP expression / secretion from cancer cells that is correlated with enhanced invasiveness induced by HGF  .
+Moreover , many ECM-degrading proteases are regulated by NFB  , and PI3K-dependent activation of Akt is required for NFB activation by HGF in DU-145 human prostate cells  .
+Several studies have demonstrated that HGF activates NFB transcription  , which we failed to observe in MDA-MB-231 cells ( data not shown ) though HGF induced Akt activation .
+Thus , there were considerable differences in NFB activation among the different cell types in response to HGF and these results may reflect the importance of cell context in signal transduction .
+One possibility is that some key adaptors that link Akt to the transactivation domain of RelA / p65 might be missing in MDA-MB-231 cells .
+Furthermore , while HGF neither altered substantially the production nor the activity of ECM proteases and uPA through NFB signaling pathway , apigenin was able to decrease the basal level of these proteases in MDA-MB-231 cells ( unpublished data ) .
+These findings indicate that reduction of MMP-9 and uPA by apigenin might contribute to the prevention of HGF-independent invasive growth .
+Our result and that of the previous paper demonstrate that dysregulation of the PI3K / Akt signaling pathway can lead on tumor progression  .
+The efficacious PI3K inhibitor may develop to a promise chemopreventor .
+It is suggested that the major structural requirement for the potent inhibition of PI3K on flavonoids , which are benzo--pyrone derivatives , is the presence of C2 - C3 double bond on the C ring and 3,4 hydroxyl group on the B ring .
+From a structural point of view , the double bond between C2 and C3 results in rings B and C being on the same plane , which might be critical for an access to the kinase substrate binding site and the polar OH groups on C3 and C4 of B ring are required for suppressing kinase activity  .
+According to our investigation , apigenin containing single C3 hydroxyl on B ring and C2 - C3 double bond on the C ring showed the most potent effects in tested flavonoids .
+Furthermore , there is no significant difference in the anti-invasion effect between apigenin containing single C3 hydroxyl on B ring and luteolin containing both C3 and C4 hydroxyl on B ring in MDA-MB-231-breast cancer cells ( data not shown ) .
+Thus , the association of anti-invasion and PI3K inhibition properties displayed by flavonoids needs further investigation .
+In conclusion , in this paper , we demonstrate that apigenin inhibits HGF-induced invasive growth of MDA-MB-231 cells , including motility , scattering , migration and invasion through blocking PI3K / Akt pathway .
+Furthermore , both apigenin and PI3K inhibitor , wortmannin , had the ability to reduce HGF-induced cell invasion and adhesion through decreasing 4 integrin avidity .
+In addition , we first establish two distinct models to confirm that apigenin represses HGF-induced activation of PI3K / Akt pathway and integrin 4 function , thus reducing lung colonization of metastasis tumor cells in nude mice and spontaneous intravasation and organs metastasis in chick embryo .
+These findings support that apigenin may have a considerable potential for being developed into a breast cancer chemopreventor .
+Acknowledgment .
+This study was supported by a National Science Council Grant ( NSC 95-2314-B-040-042 )

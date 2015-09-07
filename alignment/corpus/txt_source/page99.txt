@@ -1,0 +1,147 @@
+Le cancer du sein constitue un problème majeur de santé publique , à_la_fois dans les pays dits développés , où il représente le premier cancer féminin , et dans les pays en voie de développement , où son incidence ne cesse d' augmenter .
+L' Organisation mondiale de la santé ( OMS ) estime à 1,2 million le nombre de cancers du sein qui ont été diagnostiqués dans le monde en 2002 et à 410000 le nombre de décès liés à cette pathologie .
+L' épidémiologie de ce cancer a été largement étudiée dans le monde , et ses principaux facteurs de risque sont actuellement clairement établis .
+Toutefois , un certain nombre de controverses et d' inconnues persistent , concernant notamment l' impact de l' allaitement sur le risque de cancer mammaire .
+Or , le lait maternel est la meilleure source de nutriments pour un nouveau-né et l' allaitement offre des avantages indéniables à_la_fois pour la mère et l' enfant .
+Les organisations nationales et internationales d' aide à l' enfance dont l' OMS ainsi_que des sociétés savantes , ont pris position de manière catégorique en_faveur_de l' allaitement  .
+On peut donc s' attendre à_ce_que les femmes choisissent de_plus_en_plus d' allaiter leurs enfants .
+L' objectif de cette revue est de connaître l' impact précis de la grossesse et de l' allaitement sur le risque de cancer mammaire , ainsi_que les possibilités d' allaitement après cancer du sein .
+Ce travail a été réalisé à partir des principales séries publiées dans la littérature internationale entre 1974 et 2004 , en langue française ou anglaise , accessibles par Pubmed et concernant la grossesse , l' allaitement et les risques de cancer mammaire .
+2. Effet de la grossesse sur le risque ultérieur de cancer du sein2.1 .
+Grossesses menées à terme
+Les données épidémiologiques indiquent que le risque de cancer du sein augmente avec la nulliparité et l' âge tardif de la première grossesse  .
+Les nullipares ont un risque relatif ( RR ) multiplié par deux par_rapport_à celles qui ont eu leur première grossesse avant 20 ans .
+Ce risque augmente progressivement en fonction de l' âge à la première grossesse : il est de 2,4 si celle-ci survient après 35 ans .
+Après la première grossesse à terme , l' âge des autres grossesses a peu d' influence .
+Cependant , certaines publications ont montré une augmentation transitoire des cancers du sein au cours des quelques années qui suivent une grossesse  .
+Dans une étude prospective  fondée sur une population de 802457 Norvégiennes âgées de 20 à 56 ans , les auteurs ont observé une augmentation à court terme des cancers du sein après une grossesse menée à terme , survenant principalement trois à quatre ans après l' accouchement ( RR = 1,99 , IC 95 % 1,7 - 2,3 ) .
+Des résultats semblables ont été observés dans une étude de cas - témoins portant sur des Suédoises appariées selon l' âge  .
+Après ajustement pour la parité et l' âge à la première naissance , le RR d' apparition d' un cancer du sein dans les trois ans suivant le dernier accouchement est de 1,2 en comparaison avec des femmes dont le dernier accouchement a eu lieu dix ans auparavant ou plus ( IC 95 % 1,02 - 1,44 ) .
+Ces données n' ont toutefois pas été retrouvées dans d' autres séries publiées  .
+Enfin , le risque de cancer mammaire semble être moindre chez les femmes qui donnent naissance à des jumeaux comparativement à celles qui ont des naissances uniques ( OR = 0,88 , IC 95 % 0,78 - 0,99 )  .
+2.2. Grossesses interrompues
+Les grossesses interrompues même si elles surviennent à un âge jeune , n' entraînent pas de diminution du risque de cancer mammaire .
+Dans la_plupart des séries publiées , leur impact sur le risque de cancer mammaire est nul .
+Toutefois , certaines données indiquent la possibilité d' un risque plus élevé de cancer du sein pour les femmes ayant des fausses couches ou des avortements provoqués  .
+Après ajustement pour la parité , l' âge à la première naissance et d' autres facteurs de risque , une interruption de grossesse est associée pour Newcomb et al. à un RR de 1,12 ( IC 95 % 1,0 - 1,5 )  .
+3. Effet de l' allaitement sur le risque ultérieur de cancer du sein3.1 .
+Effet de l' allaitement et de sa durée sur le risque de cancer invasif du sein
+En 2000 , Lipworth_et_al.  ont passé en revue toutes les études publiées sur le sujet dans la littérature scientifique entre 1966 et 1998 afin_d' en examiner la méthodologie et d' en compiler les résultats .
+La plupart sont des études épidémiologiques cas - témoins , et la façon dont l' allaitement est défini est très variable suivant les séries publiées .
+Dans l' ensemble , lorsque aucune définition autre que « ayant allaité » n' est donnée concernant l' allaitement , les résultats sont peu concluants .
+Soit aucune corrélation n' est trouvée entre l' allaitement et le risque de cancer du sein , soit l' abaissement du risque de cancer du sein chez les femmes ayant allaité est faible .
+En revanche , lorsque la durée de l' allaitement est prise en compte , une relation inverse entre cette durée et le risque de cancer du sein est retrouvée dans la_plupart des études .
+Toutefois , un biais possible peut être d à la rareté de l' allaitement long dans de nombreux pays occidentaux .
+Par ailleurs , certains auteurs ont soulevé l' hypothèse selon laquelle l' allaitement n' avait aucun impact favorable sur le risque de cancer du sein , mais qu' en_revanche la prise de médicaments suppresseurs de la lactation pourrait avoir un impact défavorable .
+Cette hypothèse n' a pas été confirmée .
+En 2002 une nouvelle méta-analyse  a été publiée , dont l' objectif était d' évaluer la contribution de l' allaitement maternel dans la prévention du cancer du sein .
+Les auteurs ont collecté les données de 47 études épidémiologiques cas - témoins ou cohortes réalisées dans 30 pays portant sur la relation entre l' allaitement maternel et le cancer du sein .
+Les études incluses dans cette méta-analyse comportaient des données provenant d' au moins 100 femmes présentant un cancer du sein invasif .
+Ces études devaient également avoir consigné les informations de l' allaitement de chaque patiente en tenant compte des facteurs reproductifs et de l' utilisation de traitements hormonaux .
+Les auteurs ont analysé dans un premier temps la relation entre le cancer du sein et certains facteurs reproductifs en l' absence d' allaitement .
+Ainsi , chez les femmes n' ayant jamais allaité , le RR de survenue d' un cancer du sein diminue de 3,0 % ( p 0,0001 ) pour chaque année d' anticipation de l' accouchement .
+Après avoir stratifié en fonction de l' âge à la première naissance , de l' âge et du statut ménopausique , le risque de cancer du sein diminue avec la parité .
+Sans allaitement , le RR d' avoir un cancer du sein diminue de 7,0 % ( p 0,001 ) à chaque naissance .
+Le RR de cancer du sein diminue de 4,3 % ( IC 95 % 2,9 - 5,8 ; p 0,0001 ) tous les 12 mois d' allaitement .
+L' importance de la diminution de ce RR ne diffère pas significativement entre les femmes provenant de pays développés ou non , et ne varie pas significativement selon l' âge , le statut de la ménopause , l' origine ethnique , la parité , l' âge au premier enfant , l' éducation , la taille , le poids , l' indice de masse corporelle , l' utilisation de contraceptifs oraux et la consommation d' alcool ou de tabac .
+Les auteurs estiment que l' incidence cumulative du cancer du sein dans les pays développés pourrait être réduite de plus de la moitié ( 6,3 à 2,7 pour 100 femmes à l' âge de 70 ans ) si les femmes avaient le nombre moyen d' enfants et la durée moyenne d' allaitement des pays en voie de développement .
+L' allaitement pourrait alors être responsable des deux tiers de la diminution de l' incidence des cancers du sein .
+Les conclusions de ces méta-analyses méritent toutefois d' être nuancées .
+Elles comportent majoritairement des études rétrospectives .
+Or , les études rétrospectives sont sujettes à des biais portant sur des erreurs de remise en mémoire de la part des patientes .
+Ainsi , les données sur les durées d' allaitement , recueillies des années plus_tard au moment du diagnostic du cancer du sein , sont potentiellement erronées , ce qui peut par_conséquent fausser les résultats .
+En 2003 , une étude prospective , menée par Bland , avait pour objectif de mesurer les récits des mères portant sur leur allaitement exclusif  .
+Des interviews réalisées tous les deux jours ou des entretiens hebdomadaires ont permis de déterminer les caractéristiques exactes de leur allaitement .
+Les auteurs ont montré qu' entre six et neuf mois après la naissance , 72 % des femmes se rappelant les caractéristiques de leur allaitement fournissaient des données erronées quant_à la durée de leur allaitement , ces données étant pour la_plupart surestimées .
+Ainsi 57 % des femmes surestimaient leur durée d' allaitement exclusif ( en moyenne de 7,6 semaines ) alors_que 15 % la sous-estimaient ( en moyenne de 2,7 semaines ) .
+Les auteurs de cette étude suggèrent que pour être fiables , les données sur les caractéristiques de l' allaitement devraient être collectées prospectivement par intervalles ne dépassant pas une semaine .
+Ainsi , si les durées d' allaitement sont surestimées , le bénéfice apporté par l' allaitement sera en_conséquence sous-estimé .
+L' effet protecteur serait alors observé pour des durées d' allaitement plus courtes .
+Par ailleurs , certaines études considéraient qu' une femme avait allaité si elle avait allaité un enfant une fois , alors_que d' autres études considéraient qu' une femme avait allaité si elle l' avait fait pendant une durée spécifique ( une semaine , un mois ou plus ) .
+Enfin , la_plupart des études n' a pas différencié l' allaitement exclusif de l' allaitement avec complément , ce qui pourrait également modifier les résultats .
+Dans ces études , les patientes n' ont pas rapporté les raisons pour lesquelles elles avaient débuté ou arrêté leur allaitement .
+Il est possible que les femmes montrant des difficultés à allaiter aient un risque différent de développer un cancer du sein .
+Une étude cas - témoins , menée par Yang en 1993  , a montré que le risque de cancer du sein augmentait de façon importante chez les patientes n' ayant pas réussi à allaiter ( OR = 3,0 , IC 95 % 1,6 - 5,4 ) .
+De même , Jernstrom  a montré que les patientes porteuses de la mutation BRCA1 présentaient une faible production lactée .
+Parmi les femmes porteuses de la mutation BRCA1 , 75 % ont arrêté leur allaitement pour des raisons de faible production lactée contre 36 % des femmes non porteuses .
+Ainsi , le fait de pouvoir allaiter serait à l' origine de la diminution du risque de cancer du sein et non pas l' allaitement lui-même .
+Une enquête périnatale menée en 1995 a montré qu' en France le pourcentage relativement faible d' allaitement au sein ne s' expliquait pas par une fréquence élevée des échecs : une tentative d' allaitement au sein n' a eu lieu uniquement que pour 4 % des enfants nourris au biberon  .
+Les antécédents familiaux de cancer du sein pourraient avoir un impact sur la pratique de l' allaitement et par_là même également modifier les résultats des études .
+Dans l' étude de Minami_et_al.  , un total de 24769 femmes âgées de 40 à 64 ans , vivant dans la préfecture de Miyagi ( Japon ) a répondu à un questionnaire portant sur les facteurs de risque de cancer du sein .
+Dans cette étude , 22085 questionnaires ont pu être analysés .
+L' existence d' un cancer du sein chez la mère de la femme interrogée est corrélée à une prévalence plus basse d' allaitement exclusif long .
+3.2. Effet de l' allaitement sur le risque de cancer postménopausique
+Moins d' études ont concerné les risques de cancer du sein postménopausique .
+Dans trois études rétrospectives cependant  , une réduction du risque de 30 à 80 % a été observée chez les femmes âgées de 50 à 79 ans ayant allaité leurs enfants .
+Newcomb_et_al.  ont mené une étude cas - témoins afin_d' étudier les relations entre la lactation et le cancer du sein après la ménopause .
+La population de l' étude était représentée par 5951 américaines ménopausées âgées de 50 à 79 ans , ayant un cancer du sein à n' importe quel stade , et résidant dans le Wisconsin , le Massachusetts et le New Hampshire .
+Les 5951 témoins ont été tirés au sort .
+Toutes ces femmes ont répondu à un questionnaire par téléphone portant sur les divers facteurs de risque de cancer du sein .
+Les facteurs de risque de cancer du sein étaient l' existence d' antécédents de cancer du sein chez un membre au premier degré de la famille ( mère , soeur , fille ) , un âge plus élevé au moment de la première grossesse , un nombre plus bas de grossesse , un âge plus élevé à la ménopause , un index de masse corporelle plus élevé , et un niveau d' éducation légèrement plus élevé .
+Ces variables ont donc été utilisées pour analyser les corrélations entre l' absence d' allaitement et le risque de cancer du sein .
+Selon les informations recueillies , 47 % des femmes cas ont allaité au moins deux semaines , contre 48 % des femmes témoins .
+Après ajustement pour les autres variables , le RR de présenter un cancer du sein après la ménopause est de 0,87 ( IC 95 % 0,78 - 0,96 ) lorsque la femme a allaité pendant au moins deux semaines .
+Ce RR est de 0,73 ( IC 95 % 0,56 - 0,94 ) chez les femmes qui ont allaité pendant deux ans et plus .
+Par ailleurs , les femmes âgées de plus de 30 ans au moment de leur première grossesse bénéficient d' une protection vis-à-vis du cancer du sein en postménopause légèrement plus importante que les femmes ayant eu une première grossesse plus précoce .
+Le nombre d' enfants allaités semble ne pas avoir d' impact sur ce risque après ajustement pour la durée totale d' allaitement , ainsi_que l' utilisation de médicaments suppresseurs de la lactation .
+Une autre étude  a inclus 353 femmes ayant un cancer du sein et 630 femmes présentant un cancer du col de l' utérus .
+Toutes ces femmes avaient moins de 75 ans .
+Les facteurs associés à un risque de cancer du sein étaient un niveau socio-économique plus élevé ( RR = 2,77 ; IC 95 % 1,77 - 4,35 ) , un âge jeune au moment des premières règles ( RR = 1,32 ) , un âge plus élevé au moment de la première grossesse ( RR = 5,49 ; IC 95 % 2,16 - 13,98 pour les femmes âgées de plus de 31 ans ) , et des antécédents familiaux de cancer du sein ( RR = 4,76 ; IC 95 % 2,10 - 10,79 ) .
+Dans cette étude , l' allaitement a abaissé le risque de cancer du sein ( RR = 0,38 ; IC 95 % 0,20 - 0,70 ) pour une durée totale d' allaitement supérieure à 25 mois .
+3.3. Effet de l' allaitement sur les cancers génétiques
+En 2004 , Jernstrm  a réalisé une étude cas - témoins rétrospective dont l' objectif était d' évaluer la contribution de l' allaitement maternel sur le risque de survenue d' un cancer du sein héréditaire chez les femmes porteuses des mutations BRCA1 et BRCA2 .
+Cette étude portait sur 965 couples de patientes dont 685 porteuses de la mutation BRCA1 et 280 de la mutation BRCA2 .
+Chez les patientes porteuses de la mutation BRCA1 la durée moyenne d' allaitement était significativement plus courte chez les sujets atteints que chez les sujets indemnes ( 6,0 versus 8,7 mois ; IC 95 % 1,4 - 4,0 ; p 0,001 ) .
+Pour chaque mois additionnel d' allaitement le risque de cancer du sein diminue de 2 % ( p 0,001 ) .
+Parmi les femmes porteuses de la mutation BRCA1 , celles qui ont allaité leur ( s ) enfant ( s ) pendant plus d' un an ont une diminution de 45 % du risque de développer un cancer du sein par_rapport_à celles qui n' ont jamais allaité ( OR = 0,55 ; IC 95 % 0,38 - 0,80 ; p = 0,001 ) .
+Parmi les patientes porteuses d' une mutation BRCA2 , l' allaitement n' est pas associé à une réduction significative du risque de survenue d' un cancer du sein .
+3.4. Effet de l' allaitement sur les cancers in situ
+En 2004 , Meeske a présenté une étude cas - témoins rétrospective dont l' objectif était de montrer l' impact des facteurs reproductifs et de l' allaitement sur le risque de survenue d' un cancer in_situ du sein ( CIS )  .
+Cette étude analysait les données de 567 sujets atteints d' un CIS ( dont 85 % de carcinomes canalaires in_situ ) et de 614 sujets témoins indemnes .
+Le risque de développer un CIS augmente légèrement avec le nombre d' enfants allaités ( p = 0,13 ) , ainsi_qu' avec la durée d' allaitement ( p = 0,04 ) .
+Une longue période d' allaitement ( supérieure à 24 mois ) est associée à une augmentation du risque de survenue d' un CIS ( OR = 2,00 ; IC 95 % 1,11 - 3,60 ) .
+3.5. Hypothèses étiopathogéniques de l' impact de l' allaitement sur le risque de cancer du sein
+Les raisons biologiques de l' impact de l' allaitement sur le risque de cancer du sein restent inconnues , bien_que diverses hypothèses soient émises : réduction du nombre de cycles ovariens , élimination de substances carcinogènes par le sein lactant , modifications de la différenciation cellulaire de la glande mammaire liées à l' allaitement .
+3.5.1. Diminution des cycles ovulatoires
+Pendant l' allaitement , la tétée est un stimulus qui entraîne un arrêt transitoire des cycles menstruels .
+Mc Neilly et al. ont étudié les mécanismes physiologiques à l' origine de cette aménorrhée  .
+Pendant la lactation , il se produit une perturbation importante de la sécrétion pulsatile de GnRH ( Gonadotropin-Releasing Hormone ) par l' hypothalamus et en_conséquence de la sécrétion pulsatile de LH ( luteinizing hormone ) par l' hypophyse .
+Malgré les modifications des libérations pulsatiles de GnRH pendant la lactation , les concentrations plasmatiques de FSH ( Follicle-Stimulating Hormone ) sont suffisantes pour induire une croissance folliculaire .
+Toutefois , la production d' estrogènes par ces follicules est réduite en raison de la perturbation du signal pulsatile de LH .
+La durée de la période d' aménorrhée est variable d' une femme à l' autre .
+Ces irrégularités sont à mettre en relation avec la fréquence et la durée des tétées .
+L' arrêt des cycles menstruels constitue une des hypothèses qui expliquerait l' effet protecteur de l' allaitement contre le cancer du sein .
+Clavel-Chapelon et le groupe E3N ont présenté une étude de cohorte prospective  .
+Son objectif était d' examiner la relation entre le risque de cancer du sein et le nombre de cycles menstruels cumulés jusqu' à la première grossesse menée à terme et jusqu' à la ménopause .
+Les résultats montrent qu' il existe une relation linéaire hautement significative entre le risque de cancer du sein et le nombre cumulatif de cycles menstruels .
+Les auteurs ont montré qu' une durée totale d' allaitement supérieure à trois mois diminuait le risque relatif de cancer du sein de 16 % par rapport aux femmes n' ayant jamais allaité ( IC 95 % 0,71 - 0,99 ) .
+3.5.2. Le lait , voie d' excrétion de substances carcinogènes
+Une hypothèse serait que le lait permettrait l' excrétion de substances carcinogènes comme les xénoestrogènes et en_particulier les organochlorés .
+Le lait est une voie d' excrétion importante de ces substances lipophiles en raison de sa composition élevée en graisses .
+Il a ainsi pu être démontré que les organochlorés présents dans le tissu mammaire diminuent chez les femmes ayant allaité leurs enfants  .
+Quoique controversées , les données épidémiologiques indiquent que la fixation de ces xénoestrogènes dans la glande mammaire pourrait être cancérigène pour l' humain  .
+Grâce à l' excrétion de ces carcinogènes stockés dans les cellules adipeuses du sein , le lait pourrait donc participer à la diminution du risque du cancer du sein .
+Cette hypothèse est renforcée par l' étude de Ing_et_al.  portant sur des femmes du Sud-Est asiatique qui , pour des raisons culturelles , n' avaient allaité qu' à partir du sein droit .
+Il a pu être démontré que leur risque de cancer du sein est quatre fois plus grand du côté gauche que du côté droit .
+3.5.3. Différenciation mammaire
+Le sein subit des changements de taille , de forme et de fonction en association avec la croissance , la vie reproductive et la ménopause .
+Ces changements ont une influence sur le risque de développer un cancer du sein .
+Les recherches sur les modèles animaux ont montré que la différenciation des cellules mammaires , antérieurement à l' exposition à un carcinogène , protégeait de la transformation maligne  .
+Une étude menée en 2001 a étudié les relations possibles de la structure et du développement de la glande mammaire sur le risque de cancer du sein  .
+Les auteurs ont montré que l' initiation du carcinome mammaire nécessitait l' interaction d' un carcinogène avec un épithélium mammaire indifférencié et hautement prolifératif .
+Ainsi , pendant la grossesse tout comme pendant l' allaitement , qui sont des états physiologiques caractérisés par une différenciation de la glande mammaire , il y aurait inhibition de l' initiation de la carcinogenèse mammaire .
+4. Allaitement après cancer du sein
+Il n' existe pas de donnée épidémiologique sur l' effet de l' allaitement sur le risque d' un second cancer du sein ou le risque d' une récidive dans le sein conservé  .
+Le traitement d' un cancer du sein peut entraver la capacité d' allaiter .
+La ligature des galactophores , partielle ou totale en est un exemple .
+De même , la radiothérapie peut altérer le potentiel fonctionnel du sein traité , en provoquant dans le sein une fibrose et une sténose des canaux galactophores .
+L' élasticité du mamelon peut en être affectée , ce qui peut empêcher le nourrisson de téter correctement .
+La radiothérapie peut également provoquer une diminution de la production de lait dans le sein traité .
+Tralins  a rapporté que seulement 34 % des femmes ayant accouché après une radiothérapie pour cancer du sein avaient une lactogenèse adéquate leur permettant d' allaiter leur nouveau-né .
+Dans le cas d' une mastectomie unilatérale complète , ou celui d' une hypogalactie du sein traité , la patiente peut allaiter d' un seul sein .
+5. Conclusion
+L' allaitement prolongé est associé à un risque réduit de cancer invasif du sein et ce même chez les patientes porteuses de la mutation BRCA1 .
+Il convient toutefois d' être prudent sur l' information à donner aux femmes concernant cet effet protecteur de l' allaitement prolongé sur le risque carcinologique mammaire .
+En effet , une information mal conduite pourrait culpabiliser les femmes n' ayant pas allaité qui développent un cancer du sein .
+Par ailleurs , les effets protecteurs sont surtout observés chez les femmes non ménopausées , posant la question d' un effet réellement protecteur de l' allaitement ou d' un effet retard concernant l' apparition d' un cancer mammaire .
+Enfin , une information trop rassurante pourrait conduire des femmes ayant eu un allaitement prolongé à ne plus se soumettre à une surveillance mammaire régulière perdant ainsi les bénéfices du diagnostic précoce d' un éventuel cancer du sein

@@ -1,0 +1,68 @@
+Le sarcome radio-induit du sein ( SRIS ) est une entité très rare ; il complique 0,2 % de tous les cancers du sein irradiés  .
+Cependant , et même si le risque absolu reste négligeable , le risque relatif de développer un SRIS est important en comparaison avec les patientes n' ayant pas reçu d' irradiation ( RR = 8 ; IC 95 % : 4,98 - 12,7 )  .
+Nous rapportons un cas de SRIS diagnostiqué et traité au CHU Farhat-Hached de Sousse .
+2. Cas clinique
+Mme W. , âgée de 44 ans , quatrième geste , quatrième pare , ayant dans ses antécédents un cancer du sein gauche pour lequel elle a bénéficié d' un traitement conservateur .
+Il s' agissait d' une tumeur de 3 cm siégeant au niveau du quadrant supéroexterne et classée initialement T2N0M0 .
+L' examen anatomopathologique identifiait un carcinome canalaire infiltrant de grade SBR II avec des limites d' exérèse saines et envahissement de cinq ganglions parmi les huit du curage axillaire .
+La chirurgie a été complétée un mois plus_tard par une radiothérapie locorégionale avec une cobaltothérapie de 50 Gy en cinq semaines intéressant le sein , la paroi thoracique et les chaînes ganglionnaires axillaires , sus-claviculaire et mammaire interne et une surimpression sur le lit tumoral ( 14 Gy ) .
+La patiente a également bénéficié d' une chimiothérapie adjuvante selon le protocole FEC50 , puis d' une hormonothérapie à base de citrate de tamoxifène pendant cinq ans .
+Huit ans après le diagnostic initial , la patiente est venue consulter pour une tumeur douloureuse située sous le sein opéré et ulcérée à la peau .
+La TDM a mis en évidence une tumeur extensive infiltrant la peau et le tissu musculaire sous-jacent .
+Le diagnostic de sarcome indifférencié a été retenu à la suite d' une biopsie chirurgicale ( Fig. 3 and Fig. 4 ) .
+Le bilan d' extension , et en_particulier le scanner thoracique , n' a pas objectivé de lésions secondaires .
+La patiente a bénéficié ultérieurement d' une mastectomie gauche élargie emportant le grand pectoral .
+La fermeture cutanée n' a pu se faire qu' au moyen d' une plastie en Z .
+L' examen anatomopathologique de la pièce opératoire a confirmé le diagnostic de sarcome indifférencié infiltrant le muscle grand pectoral , toutes les limites passaient en tissu sain avec des marges cutanées de 5 cm et plus .
+Les suites opératoires ont été simples et la patiente est sortie à j5 .
+Actuellement , elle est en rémission complète 12 mois après l' intervention .
+Full-size image ( 47K )
+Fig. 1. Vue préopératoire : tumeur ulcérée à la peau .
+View Within Article
+Full-size image ( 47K )
+Fig. 2. TDM : tissu superficiel anormal infiltrant la peau et le muscle .
+View Within Article
+Full-size image ( 94K )
+Fig. 3. Prolifération de cellules fusiformes avec extension au tissu graisseux ( hématoxyline - éosine ; grossissement 100 ) .
+View Within Article
+Full-size image ( 91K )
+Fig. 4. Cellules tumorales avec noyaux ovoïdes pléomorphes de forme anormale avec activité mitotique importante ( hématoxyline - éosine ; grossissement 400 ) .
+View Within Article
+Full-size image ( 75K )
+Fig. 5. Vue périopératoire : muscle grand pectoral enlevé en très grande partie , les côtes semblent indemnes de toute infiltration tumorale .
+Limites du lit tumoral marquées par du bleu de méthylène .
+View Within Article
+Full-size image ( 46K )
+Fig. 6. Vue postopératoire .
+View Within Article
+3. Discussion
+Les critères définissant les sarcomes radio-induits ont été initialement proposés par Cahan_et_al.  .
+Le SRIS doit satisfaire quatre critères : irradiation antérieure , période de latence de plusieurs années , confirmation histologique et développement du sarcome en territoire irradié .
+Il touche principalement des patientes de 62,3 ans de moyenne d' âge et après un intervalle moyen de 152 mois ( de 40 à 372 ) à_partir_de l' irradiation  .
+Cette période de latence semble être plus courte chez les patientes ayant bénéficié d' un traitement conservateur par_rapport_à celles ayant eu un traitement radical  .
+Les facteurs de risque éventuels de développer un SRIS sont peu détaillés dans la littérature .
+Cependant , il semble que le risque augmente avec les doses d' irradiation reçues et avec la durée de survie après le premier cancer  .
+La chimiothérapie au_contraire ne semble pas majorer le risque .
+En effet , quatre patientes parmi les 27 avec un véritable SRIS ( selon les critères de Cahan ) ont eu une chimiothérapie antérieure  .
+Dans le même temps , et parmi les 666 patientes ayant bénéficié d' une chimiothérapie adjuvante sans radiothérapie après un cancer du sein de la série de Valagussa_et_al.  , 21 ont développé une tumeur solide , mais non sarcomateuse lors du suivi à long terme .
+Ainsi , il ne semble pas exister de facteurs pronostiques suffisamment prédictifs de la survenue éventuelle d' un SRIS et qui imposeraient une surveillance particulière chez des patientes déjà traitées pour cancer du sein .
+Le SRIS siège habituellement au niveau du sein restant ( en cas de traitement conservateur ) ou sur la paroi thoracique  , mais jamais sur le lit tumoral qui a reçu une dose d' irradiation plus importante  .
+Il a également été rapporté que les SRIS surviennent le_plus_souvent en bordure des champs d' irradiation , en_effet à ce niveau , les doses sont plus faibles et les cellules sont endommagées , mais non tuées , et par_conséquent plus susceptibles à subir des transformations malignes  .
+Il est à noter enfin que les SRIS peuvent siéger , mais de manière plus rare , au niveau du sternum et de la clavicule ou compliquer un lymphoedème chronique du membre supérieur réalisant le syndrome de Stewart-Treves  .
+C' est la biopsie avec étude histologique qui permet de poser le diagnostic positif .
+La cytologie et la mammographie sont peu informatives dans ce cadre  .
+La plus grande série de la littérature est celle de l' institut Curie  .
+Dans cette série , le sous-type histologique le plus fréquemment retrouvé est l' angiosarcome ( 48 % ) , suivi par les sarcomes indifférenciés  .
+De plus , le sous-type histologique influence la période de latence , laquelle est significativement plus courte en cas d' angiosarcome  .
+Le traitement le plus adéquat reste la chirurgie avec des exérèses larges passant à distance de la tumeur  .
+Des marges saines de 2 - 3 cm confirmées par l' examen anatomopathologique définitif sont nécessaires  .
+Cette chirurgie d' exérèse dite large expose aux problèmes de couverture cutanée d' où le recours fréquent aux lambeaux musculaires et aux greffes dermoépidermiques  .
+Il est à noter enfin que le curage ganglionnaire , contrairement aux adénocarcinomes mammaires , et lorsqu' il n' a pas été réalisé au préalable n' est pas indiqué  .
+Concernant les thérapeutiques adjuvantes , ni la chimiothérapie , ni la radiothérapie n' ont montré leur efficacité  .
+Plus encore , la chirurgie seule semble plus efficace que l' association chirurgie - chimiothérapie ou chirurgie - radiothérapie  .
+Le pronostic de cette affection reste sombre avec une survie à cinq ans de 36 %  et une survie moyenne de 33,1 mois  .
+Les récurrences s' observent dans 77 % des cas et après un intervalle moyen de 12,8 mois  .
+Le facteur le plus prédictif de ces récurrences reste la taille de la tumeur sarcomateuse au moment du diagnostic  , le type histologique ne semblant affecter ni le taux de récurrence ni la survie  .
+4. Conclusion
+Les SRIS restent un diagnostic rare , mais auquel il faut penser chez les patientes ayant des antécédents de cancer du sein irradié .
+Le diagnostic et donc la prise en charge précoces sont fondamentaux afin_d' améliorer le pronostic qui reste sombre

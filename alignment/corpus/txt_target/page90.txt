@@ -1,0 +1,162 @@
+Protein kinase C isozymes consist of a multigene family of 11 different serine / threonine kinases that are classified into three groups : Ca2+ / diacylglycerol-dependent ( , I , II and ) , Ca2+-independent but diacylglycerol-dependent ( , , and ) and Ca2+ / diacylglycerol-independent ( and / ) .1 All PKC isozymes have been implicated in a variety of cellular functions , including cell proliferation , apoptosis , metastasis , tumourigenesis and angiogenesis. 
+PKC was originally found to be overexpressed in breast tumour biopsies and highly overexpressed in the aggressive oestrogen receptor-negative phenotype.  All 11 PKC isozymes have been identified in the human mammary MCF-7 cell line , with varying expression levels and association with cancer development and progression.  PKC- has been connected to breast cancer growth and metastasis.8 A modified form of PKC- was upregulated in multi-drug resistant MCF-7 cells in comparison to drug-sensitive MCF-7 cells.  PKC- has also been implicated in the malignant transformation and proliferation of mammary tissue , regulating cell-cycle control and apoptosis , as well as being associated with a more aggressive phenotype.  Previous studies have also shown that PKC- and - activity protected MCF-7 cells from undergoing apoptosis.7 The critical role of PKC- in the regulation of basic fibroblast growth factor bFGF gene expression and the transcription factors c-Jun and c-Fos has been confirmed in drug-sensitive MCF-7 cells.11 The activation of novel PKC- in MCF-7 cells inhibited TNF-induced apoptosis , suggesting that this kinase has a specific , anti-apoptotic function.12 Therefore , PKC- and PKC- may represent potential targets for inhibiting the growth and metastasis of breast cancer .
+In addition to direct anti-tumour effects , there is evidence suggesting that inhibition of PKC- and PKC- potentiates the beneficial effects of radiotherapy .
+Ionising radiation has been shown to activate multiple signalling pathways , such as EGFR , IGFI-R , PI3K , MAPK , JNK , p33 and TNF-R signalling.13 PKC is strongly activated during gamma irradiation and plays an important role in tumour pathway signalling after irradiation.  Several studies on different cancer cell lines have demonstrated that activation of PKC , , , and after gamma irradiation is linked to cellular radio-protective responses in anti-apoptosis signalling.  Soh et al. have shown that MCF-7 cells , in which PKC- and - were inhibited through the overexpression of their regulatory domains , are more sensitive to gamma irradiation than normal cells .
+This work underlines the important role of these two isoforms in radiotherapy and suggests that the suppression of these isoforms may enhance the radiosensitivity of MCF-7 breast cancer cells.7 .
+Enzastaurin ( LY317615.HCI ) is an ATP-competitive , selective inhibitor of PKC- ( IC50 = 6 nmol / L ) , and also suppresses PKC- ( IC50 = 39 nmol / L ) and PKC- ( IC50 = 110 nmol / L ) at higher doses.20 Enzastaurin in combination with radiotherapy has a synergistic effect against glioma ; however , the molecular mechanism responsible for this synergy requires further investigation.21 In the present study , we investigated the mechanism by which enzastaurin and gamma irradiation achieve synergy .
+Because PKC- , - and - seem to exert radio-protective effects by blocking apoptosis in human tumour tissue,  we performed in vivo activity assays on these 3 PKC isoforms and evaluated changes in PKC cellular localisation after irradiation .
+We also showed that combination treatment influences MCF-7 clonogenic cell survival by inducing apoptosis through increased activity of caspase-3 and -9 .
+2. Materials and methods2.1 .
+Cell culture .
+The human breast carcinoma MCF-7 cell line was obtained from American Type Culture Collection ( ATCC , Manassas , VA ) .
+Cells were grown in a modified Eagle 's minimum essential medium supplemented with 0.01 mg / ml bovine insulin and 10% foetal calf serum and were maintained at 37 C in a humidified atmosphere containing 5% CO2 .
+2.2. Clonogenic cell death assay .
+Enzastaurin ( Eli Lilly and Company , Indianapolis , IN ) in the amount of 5 mg was dissolved in 1 ml of dimethyl sulphoxide ( DMSO ) and stored at 4 C. Stock solution was diluted in MCF-7 medium to concentrations used in all in vitro experiments ranging from 1 to 25 M. Cultured MCF-7 cells were pretreated with 5 M of enzastaurin , and 3 h later the cells were irradiated with a Caesium-137 irradiator ( Model 68 ; J.L. Shepherd and Associates , Glenwood , CA ) at a dose rate of 0.9 Gy / min .
+Cells were then incubated for 72 h in the drug-containing medium .
+Clonogenic cell death assays for treatment groups were prepared as previously described by Choi and colleagues.23 .
+2.3. Treatment groups .
+Cultured MCF-7 cells were harvested and suspended in Matrigel ( Becton Dickinson , Bedford , MA ) .
+Fifty microliters of the suspension containing 2106 tumour cells was injected subcutaneously into the right thighs of female C3H / scid mice .
+Seven days after injection , when all tumours were palpable , mice were randomised into four groups consisting of three mice per group : ( I ) twice daily oral administration by gavage of enzastaurin at 75 mg / kg for 3 days , ( II ) single dose of irradiation of the tumour at 25 Gy , ( III ) the combination of I followed 4 h later by II and ( IV ) vehicle control group receiving twice daily oral administration of DMSO / saline solution for 3 days .
+For irradiation of tumours , mice were anaesthetised with an intraperitoneal injection of a mixture of 97.5 mg / kg ketamine and 37.5 mg / kg xylazine .
+The entire body of a mouse was covered with a 4-mm-thick lead shield , with the exception of the tumour area .
+Tumours were irradiated with a Philips RT250 orthovoltage unit ( Philips Medical System , Brookfield , WI ) at a dose of 1.4 Gy / min , for a total delivered dose of 25 Gy .
+Animal procedures and care were in compliance with the Animal Care and Use Committee at the University of Minnesota .
+2.4. PKC assay .
+Tumours were removed from mice 4 h after completion of the last treatment and placed in 1 mL of ice-cold lysis buffer ( 20 mM Tris - HCl ( pH 7.5 ) , 150 mM NaCl , 1 mM Na2EDTA , 1 mM EGTA , 1% Triton , 2.5 mM sodium pyrophosphate , 1 mM beta-glycerophosphate , 1 mM Na3VO4 , 1 g / ml leupeptin , 1 mM PMSF ) ( Cell Signaling , Boston , MA ) .
+Samples were sonicated on ice , and centrifuged at 14,000 rpm for 60 min at 4 C. Protein concentration was determined by BioRad protein assay ( BioRad Laboratories , Hercules , CA ) .
+Samples ( 12 l ) containing equal amounts of protein were used for the detection of PKC activity using Protein Kinase Assay Kit ( EMD Biosciences , Darmstadt , Germany ) as previously described.25 For specific PKC- , - and - isoform activity , samples containing 700 g of proteins resuspended in 700 l of lysis buffer were incubated for 1 h at 4 C with antibodies for PKC- , - ( Santa Cruz Biotechnology , Santa Cruz , CA ) and - ( Cell Signal , Boston , MA ) .
+After 1 h incubation , 20 l of protein A / G Plus-Agarose ( Santa Cruz Biotechnology , Santa Cruz , CA ) was added according to the manufacturer 's instructions and left on a rocker overnight .
+After 12 h incubation , supernatants were removed and immunoprecipitated pellets were resuspended in 40 l of sample preparation buffer ( 50 mM Tris - HCl , 50 mM -mercaptoethanol , 10 mM EGTA , 10 mM benzamidine , 5 mM EDTA , 1 mM PMSF , pH 7.5 ) .
+PKC isoforms were detected in 12 l samples in triplicate using a kinase assay as described previously.25 Protein concentration was assessed by immunoblotting with an actin antibody ( Santa Cruz Biotechnology , Santa Cruz , CA ) .
+2.5. Western blotting .
+MCF-7 cells ( 2.5 106 ) were seeded in tissue culture dishes ( 10020 mm ) and pretreated with 5 M of enzastaurin for 3 h prior to irradiation .
+Cells were irradiated ( 10 Gy ) with a Caesium-137 irradiator ( Model 68 ; J.L. Shepherd and Associates , Glenwood , CA ) and after that incubated in a drug-containing medium for 24 h before cytosolic membrane and nuclear fractions were separated .
+Enzastaurin-only treated samples were collected 27 h after initiation of treatment .
+Briefly , cells were resuspended in 0.5 mL ice-cold buffer ( HEPES ( pH 7.9 ) , MgCl2 , KCl , EDTA , Sucrose , Glycerol and Sodium OrthoVanadate ) and then agitated at 40 C for 20 min and centrifuged at 14,000 rpm for 20 min .
+The supernatant obtained contained cytoplasmic proteins .
+The pellet was resuspended in 1 mL buffer ( HEPES ( pH 7.9 ) , MgCl2 , KCl , EDTA , Sucrose , Glycerol and Sodium OrthoVanadate ) and again agitated at 40 C for 5 min and centrifuged at 14,000 rpm for 20 min .
+Supernatants were drained , and the pellet resuspended in buffer ( HEPES ( pH 7.9 ) , MgCl2 , NaCl , EDTA , Glycerol and Sodium OrthoVanadate ) and agitated for 20 min and centrifuged as described previously .
+Nuclear proteins dissolved in the supernatant were collected .
+The pellet was again resuspended in buffer ( HEPES ( pH 7.9 ) , MgCl2 , KCl , EDTA , Sucrose , Glycerol , Sodium deoxycholate , NP-40 , Sodium OrthoVanadate , 6 ml K3013010-4 ) .
+The solution was again centrifuged , and the supernatant-containing membrane proteins were removed .
+All buffers used for protein extractions were included in the Compartmental Protein Extraction Kit ( Biochain Institute , Hayward , CA ) .
+Protein concentration of the samples was determined using the BioRad protein assay ( BioRad Laboratories , Hercules , CA ) .
+Blotting was performed as described previously.25 The following primary antibodies were used : phospho-PKC- and- antibodies ( 1:500 , Santa Cruz Biotechnology , Santa Cruz , CA ) , EGF receptor antibody ( 1:1000 , Cell Signal , Boston , MA ) and actin antibody ( 1:1000 , Santa Cruz Biotechnology , Santa Cruz , CA ) as a quantity control of protein extraction .
+For in vitro study , activated phospho-GSK3 ( 1:500 , Cell Signal , Boston , MA ) was used as a control of enzastaurin activity .
+2.6. Annexin V and 7-AAD apoptosis detection assay .
+MCF-7 cells ( 5105 ) were plated on tissue culture dishes ( 10020 mm ) in 10% FBS medium .
+Cells were incubated with 1 , 3 , 5 , 7 M of enzastaurin and were irradiated 3 h later with 10 Gy of gamma radiation .
+Cells were collected 24 h after irradiation , counted , resuspended in 1 Nexin Binding Buffer ( Guava Technologies , Hayward , CA ) and incubated with 5 L of PE-conjugated Annexin V in the presence of 5 L of 7 aminoactinomycin D ( Guava Technologies , Hayward , CA ) .
+Cells were screened by the flow cytometer Facscalibur ( Becton Dickinson , San Jose , CA ) .
+Annexin V-PE-positive and 7AAD-negative cells were scored as early apoptotic cells ; Annexin V-PE-positive and 7AAD-positive cells were scored as late-stage apoptotic cells .
+Camptothecin ( 4000 ng / ml ) was used as a positive control .
+2.7. Caspase -3 and -9 activity assay .
+Caspase-3 and -9 activity was analysed using the Caspase-Glo luminescent-based assays according to the manufacturer 's instructions ( Promega Corporation , Medison , WI ) .
+Cells ( 3103 ) were seeded into 96 well white opaque plates and a corresponding optically clear 96 well plate .
+Cells were allowed to adhere overnight and were then treated with enzastaurin solvent ( vehicle ) , 1 , 3 , 5 , 7 , 10 , 15 or 20 M of enzastaurin and / or 10 Gy of gamma radiation and incubated for 24 h .
+At the end of the incubation time , 100 l of the appropriate Caspase-Glo reagent was added to each well containing 100 l of a blank , negative control or treated cells in culture medium .
+Plates were gently mixed and incubated for 1 h at room temperature .
+Luminescence was then read in a luminometer .
+The corresponding 96 well clear plate was used to measure the number of viable cells with the CCK-8 reagent ( Dojindo Molecular Technologies , Gaithersburg , MD ) .
+Caspase activity was normalised to these values .
+2.8. Statistical analysis .
+Statistical analysis was performed using one-way ANOVA or unpaired Student 's t-test using Instat Software ( GraphPad Software , Inc. , San Diego , CA ) .
+The minimal level of significance was P 0.05. All experiments were repeated at least three independent times , except in vivo study .
+Values are expressed as the means SE .
+3. Results3.1 .
+Clonogenic survival after enzastaurin exposure and irradiation .
+The survival curve of MCF-7 cells treated with various doses of irradiation showed an exponential decrease with increasing doses of irradiation , with a cell survival of 61.33 4.1% at 2 Gy , 26.78 3.3% at 4 Gy , 6.34 1.2% at 6 Gy and 0.9 0.2 at 8 Gy .
+Treatment with 5 M of enzastaurin alone for 72 h resulted in 57.6 7.5% cell survival .
+Enzastaurin in combination with irradiation produced a synergistic decline in cell survival of 27.53 4.8% at 2 Gy , 7.99 2% at 4 Gy , 1.63 0.4% at 6 Gy and 0.25 0.04% at 8 Gy .
+The extent of cell death caused by enzastaurin and irradiation at every irradiated dose was greater than the expected additive effect , confirming that enzastaurin synergistically enhances radiation-induced cell death .
+Full-size image ( 20K )
+Fig. 1. Radiosensitising effect of enzastaurin on the survival of breast cancer cells .
+Cultured MCF-7 cells were pretreated with 5 M of enzastaurin and 3 h later were irradiated with a delivered dose of 2 - 8 Gy of radiation .
+Cells were then incubated for 72 h in drug-containing medium .
+The surviving fraction was assessed by colony formation at 14 days after irradiation .
+Data are shown as the means SE of 9 independent experiments .
+P 0.05 , for each radiation dose group in combination with enzastaurin versus each radiation dose alone .
+View Within Article .
+3.2. Apoptosis induction after enzastaurin exposure and irradiation .
+To determine the mode of cell death responsible for cellular radiosensitivity , we examined whether apoptotic machinery is activated in MCF-7 cells following enzastaurin exposure and irradiation .
+MCF-7 cells were stained with Annexin V for the detection of externalised phosphatidylserine ( an indicator of early-stage apoptosis ) and 7 aminoactinomycin D for the detection of DNA fragments ( an indicator of advanced-stage apoptosis ) .
+After 24 h treatment , enzastaurin alone induced apoptosis in doses of 3 , 5 and 7 M ( P 0.05 versus vehicle control , n = 3 ; Fig. 2A ) .
+The same enzastaurin doses followed by 10 Gy irradiation caused MCF-7 cells to undergo a higher rate of programmed cell death ( P 0.05 for each combination treatment group versus each concentration of enzastaurin alone ; Fig. 2A ) .
+The difference of more than 10% in the rates of apoptosis was considered evidence pointing towards the synergistic activity of enzastaurin at doses of 3 , 5 and 7 M. These results confirm that the synergy in cytotoxicity achieved with enzastaurin and irradiation is triggered in a dose-dependent fashion through the induction of apoptosis .
+Full-size image ( 77K )
+Fig. 2. Radiosensitising effect of enzastaurin on apoptosis activation .
+MCF-7 cells were pretreated with different enzastaurin concentrations 3 h prior to irradiation with 10 Gy , and were then incubated for 24 h. ( A ) Induction of cell apoptosis was detected using PE-conjugated Annexin V and 7 aminoactinomycin D staining .
+Damaged cells : annexin V-PE negative / 7-AAD positive ( upper left ) .
+Late apoptotic cells : annexin V-PE positive / 7-AAD positive ( upper-right ) .
+Live cells : annexin V-PE negative / 7-AAD negative ( lower left ) .
+Early apoptotic cells : annexin V-PE positive / 7-AAD negative ( lower right ) .
+Data are representative of three independent experiments .
+Treatment effect on caspase-3 ( B ) and caspase-9 ( C ) activity was assessed ; an average of three experiments with six replicates was performed with data shown as 1 SE .
+P 0.05 versus untreated control , #P 0.05 versus 10 Gy group .
+View Within Article .
+3.3. Caspase-3 and -9 activity after enzastaurin exposure and irradiation .
+Caspase-3 was significantly increased in MCF-7 cells treated with enzastaurin doses between 5 M and 20 M ( P 0.01 versus vehicle control , Fig 2B ) .
+At the highest concentration of 20 M , caspase-3 activity was 1.25 fold higher than vehicle control .
+Caspase-3 activity was further increased in cells pretreated with enzastaurin before irradiation at drug doses above 1 M ( P 0.01 versus 10 Gy irradiation alone ; Fig. 2B ) , with the highest dose of 20 M resulting in caspase-3 activity that was 1.5 fold higher than vehicle control or irradiation alone .
+Induction of caspase-9 , which is usually activated prior to caspase-3 , showed increased activity in treatment combinations .
+Enzastaurin alone significantly increased the activity of caspase-9 by 1.7 fold at 3 M and 2.0 fold at 20 M , as compared to vehicle control .
+Combination treatment utilising drug concentrations of 3 - 20 M with 10 Gy of radiation significantly increased caspase-9 activity from 1.75 fold to 3.0 fold , respectively , as compared to radiation alone ( P 0.01 versus 10 Gy irradiation alone ) .
+Irradiation with 10Gy alone did not cause a significant increase in caspase-3 or -9 activity as compared to vehicle control after a 24 h incubation period .
+3.4. Cytosol and membrane bound PKC- and - after enzastaurin exposure and irradiation .
+Western blotting of PKC- and PKC- indicated that enzastaurin had an inhibitory effect on these PKC isoforms in the cytosolic and membrane fractions of MCF-7 cells .
+Both PKC isoforms were also inhibited by combination treatment .
+Irradiation with 10 Gy had no effect on either isoform 's activity in MCF-7 cells in either cellular locale at 24 h after irradiation .
+Full-size image ( 29K )
+Fig. 3. Enzastaurin inhibits PKC- and - isoforms in both cytosolic and membrane fractions .
+MCF-7 samples were collected 24 h after in vitro drug exposure and irradiation .
+Cell lysate was separated and immunoblotted using ( A ) PKC- and ( B ) PKC- antibodies .
+Actin and EGFR were used as loading controls in cytosol and membrane lysates , respectively ( n = 3 ) .
+View Within Article .
+3.5. Enzastaurin reverses radiation-induced activity of PKC- , - and -II in vivo .
+To elucidate the PKC inhibitory effect of enzastaurin , three of the most important anti-apoptotic PKC isoforms - , and II - were tested in vivo .
+Irradiation with 25 Gy alone significantly induced an increase in PKC-II activity of 180 16% ( P 0.02 versus untreated control ; Fig. 4A ) .
+Enzastaurin alone inhibited the II isoform by 62 9% ( P 0.001 versus untreated control ; Fig. 4A ) .
+There was no statistical difference between the untreated group and combination treatment group ( P 0.22 ; Fig. 4A ) ; however , there was a significant difference between the irradiated group and combination treatment group ( P 0.006 ; Fig. 4A ) , indicating that enzastaurin reverses the radiation-induced activity of PKC-II .
+Similar patterns of kinase activity were seen for PKC- , PKC- and total PKC .
+A notable difference in the pattern of PKC isoform response was seen for PKC- activity , which increased by 245 23% in response to irradiation ( P 0.02 versus untreated control ; Fig. 4C ) .
+In addition , a statistical difference was observed in total PKC activity between untreated controls and the combination treatment group ( P 0.05 ) .
+As a control for quantitative protein concentrations used in these experiments , a western blot was done using an actin antibody .
+Full-size image ( 49K )
+Fig. 4. Enzastaurin reverses radiation-induced activity of PKC- , - and -II in MCF-7 human tumour xenografts .
+Mice were pretreated with enzastaurin ( 75 mg / kg , twice daily ) and irradiated with 25 Gy at one time .
+Seventy-two hours post irradiation , tumours were extracted , lysates immunoprecipitated and used for PKC activity measurements. ( A ) PKC-II ( B ) PKC- ( C ) PKC- and ( D ) total-PKC activity .
+Unpaired t-test was used to compare significant changes between groups .
+Three mice were used per treatment group ; samples were prepared in triplicate ; bars , SE ; P 0.05 versus vehicle control , #P 0.05 versus irradiation alone .
+Actin was used for a quantitative control of protein amount ( shown in Fig. 5 ) .
+View Within Article .
+Full-size image ( 34K )
+Fig. 5. Enzastaurin inhibitory effect on phosphorylation of GSK3 in vivo .
+Seventy-two hours post irradiation , tumours were extracted and lysates used for the detection of phospho-GSK3 status .
+Actin was used for a quantitative control of protein amount .
+Histograms show the relative optical density of phosphorylated GSK3 .
+View Within Article .
+3.6. Enzastaurin suppresses phosphorylation of GSK3 in vivo .
+PKC activity has been connected to different signalling pathways , such as glycogen synthase-3 kinase ( GSK3 ) , AKT , RAS and ERK1 / 2.  However , Graff et al. have reported that the suppression of phosphorylated GSK3p - GSK3 is an early event of enzastaurin activity in both in vitro and in vivo studies.20 Inhibition of this pathway has been suggested as a pharmacodynamic marker for enzastaurin activity .
+To determine how enzastaurin and gamma irradiation may influence the phosphorylation status of GSK3 , Western blot analysis was performed using the same samples used for the PKC activity assay .
+The optical density measurements of p-GSK3 showed an inhibitory effect in the enzastaurin-treated group , as well as in the combination treatment group .
+Irradiation with 25 Gy resulted in minimal changes in the expression of p-GSK3 as compared to vehicle control .
+4. Discussion .
+PKC has become a therapeutic target for treating different malignancies .
+The PKC inhibitor , enzastaurin , has already been tested in clinical trials on patients with diffuse large B-cell lymphoma and lung and head-and-neck cancers.  In preclinical trials in MX-1 human breast carcinoma tumour xenografts , Teicher and colleagues have shown a tumour response to radiotherapy and enzastaurin treatment.28 In the present study , we show that enzastaurin when combined with gamma irradiation therapy has a synergistic , pro-apoptotic , radiosensitising effect in MCF-7 human cancer cell lines in vitro .
+We also demonstrate in an in vivo model that enzastaurin reverses the radiation-induced activation of three different anti-apoptotic isoforms of PKC .
+Nakajima and colleagues and Kim and colleagues conclude in their in vitro studies that the activation of two isoforms of PKC , and , which occurs shortly after irradiation , is critical for the regulation of radiation-induced apoptosis in radiation-sensitive cells.  In our in vitro studies , we demonstrate that both PKC isoforms are inhibited in the cytosolic and membrane fractions of MCF-7 cells in response to enzastaurin treatment and irradiation .
+Irradiation with 10 Gy alone did not cause any changes in PKC activity in either cellular locale , confirming the results of Nakajima and colleagues in thymic lymphoma cells.19 Consistent with our in vitro results , we detected elevated activity for three PKC isoforms in MCF-7 tumour xenografts 72 h after gamma irradiation .
+Notably , PKC- activity was dramatically increased in response to gamma irradiation ( 25 Gy ) compared to PKC- and -II .
+This suggests that the isoform may be critical to the anti-apoptotic mechanism of radioresistance in MCF-7 breast cancer cells .
+Soh and colleagues suggest that both PKC- and PKC- play important roles in the upregulation of bcl-2 and p21 protein expression , causing an increase in cell survival and inhibition of apoptosis.7 Other observations have shown that overexpression of PKC- is strongly involved in malignant cell transformation in animal fibroblasts.  Inhibition of PKC- has been linked to the inhibition of VEGF-dependent MAPK activation , suggesting that blocking this isoform may have a positive antiangiogentetic effect on metastasis and tumour growth.  Our results clearly show that enzastaurin influences the activity of PKC- , -II and - isoforms in vivo and provide a rational explanation of the molecular pathway in which enzastaurin may render MCF-7 tumour xenografts more sensitive to gamma irradiation .
+Treatment of MCF-7 cells in vitro with enzastaurin synergistically interacted with ionising radiation in causing clonogenic cell death .
+In contrast to our previous study on 4T1 rodent breast cancer cells,25 we have shown that enzastaurin treatment synergistically induced MCF-7 cell apoptosis in combination with gamma irradiation , as detected by AnnexinV-PI staining .
+Although combination treatment only had an additive effect on caspase-3 and -9 activity ( Fig. 2A and B ) , this effect is consistent with previous findings showing that caspase activity is at least partially required for enzastaurin-induced cell death.33 .
+Our in vitro and in vivo studies on the MCF-7 human breast cancer cell line clearly show that enzastaurin is a radiosensitising agent , mostly through the inhibition of the radiation-induced activity of PKC- .
+Based on the promising anti-tumour effect of this combination therapy , we believe that further studies of the radiosensitising effect of enzastaurin are warranted .
+Conflict of interest statement .
+Piotr Jasinski , Kaoru Terai and Pawel Zwolak declare that there are no conflicts of interest related to this work. Dr. Arkadiusz Dudek is a member of the Speakers Bureau for Eli Lilly and Company .
+Acknowledgements .
+This study was partially supported by the Experimental Therapeutics Fund of the University of Minnesota ( We are grateful to Audrey and Dennis Anderson for their ongoing support for this Fund ) .
+We would like to thank Michael Franklin for editorial support .

@@ -1,0 +1,70 @@
+Une amplification est un processus génétique bien caractérisé aboutissant à la multiplication sélective du nombre d' exemplaires d' un gène ( ou d' un groupe limité de gènes adjacents , définissant un « amplicon » ) , indépendamment des gènes situés plus à distance sur le chromosome .
+Ce phénomène est connu comme participant à l' oncogenèse dans plusieurs types tumoraux : amplification de MYCN dans les neuroblastomes , de EGFR dans les glioblastomes , de MDM2 et CDK4 dans les liposarcomes bien différenciés , d' HER2 dans les cancers du sein , etc ( pour revue ,  ) .
+L' amplification génique a pour conséquence , en règle , l' hyperexpression du ou des gène ( s ) amplifié ( s ) , et , lorsqu' il s' agit d' un oncogène comme HER2 , elle donne un avantage sélectif prolifératif aux cellules qui en sont porteuses .
+L' amplification peut prendre deux formes chromosomiques .
+La première , est celle de minuscules chromosomes , doubles au stade de la métaphase ( double minutes , en anglais ) , qui sont de petits éléments acentriques contenant le ( s ) gène ( s ) amplifié ( s ) .
+Ils sont extrachromosomiques et présents en de multiples copies .
+C' est , par_exemple , la forme habituelle de l' amplification de MYCN dans le neuroblastome .
+Ils se révèlent en hybridation in_situ ( HIS ) sous forme d' un semis de signaux dans les noyaux .
+L' autre type d' amplification se présente sous la forme d' homogeneously staining regions ( HSR ) , segments chromosomiques néoformés , uniques ou multiples , homogènes à l' échelle microscopique , constitués du gène ou groupe de gènes amplifiés .
+Les amplifications dans les carcinomes mammaires , et celles d' HER2 en_particulier , surviennent en règle sous cette seconde forme  .
+Typiquement , ces multiples copies localisées du gène donnent en HIS des amas de signaux caractéristiques , dans les noyaux interphasiques .
+Ce sont ces amplifications réelles qui sont associées à des expressions élevées de la protéine HER2  .
+Toutefois , l' aneuploïdie des cellules tumorales peut rendre le diagnostic délicat .
+Full-size image ( 56K )
+Fig. 1. FISH HER2 ( signaux rouges ) sur coupes de deux tumeurs incluses en paraffine. ( a ) : tumeur montrant une amplification ; noter la disposition des signaux en amas. ( b , c ) : tumeur montrant une surreprésentation. ( b ) : noyau interphasique : à g. signaux centromériques du 17 ( vert ) , à d. signaux HER2 ( rouge ) ; 4 - 5 signaux sont visibles , avec un rapport HER2 par centromère 17 proche_de 1. ( c ) : métaphase de la même tumeur , montrant la colocalisation des signaux HER2 ( à d. , en rouge ) et centromériques ( à g. , en vert ) , confirmant que la surreprésentation de HER2 est liée à une polysomie 17.
+View Within Article
+2. Polyploïdie , polysomie , surreprésentation et amplification
+La ploïdie des cellules tumorales est extrêmement variable d' une tumeur à l' autre , et peut l' être aussi au sein d' une même tumeur , particulièrement dans celles de haut grade .
+Les études par cytométrie en flux dans les cancers du sein  montrent une aneuploïdie dans environ 50 % des cas  .
+Ainsi , le caryotype des tumeurs est souvent très complexe , voire hétérogène d' une cellule à l' autre .
+Rappelons que les mitoses des cellules malignes sont fréquemment pathologiques , avec des figures multipolaires et des malségrégations chromosomiques .
+Le chromosome 17 et le gène HER2 qu' il porte entre autres , pour ne parler que d' eux , peuvent évidemment se trouver affectés dans ces variations globales de ploïdie .
+Les polysomies ( trisomies , tétrasomies et plus ) , totales ou partielles ( issues de translocations déséquilibrées ) peuvent aussi modifier le décompte des copies d' un gène , en_dehors de toute amplification .
+La trisomie et , plus généralement , la polysomie 17 , sont très fréquentes dans les tumeurs malignes de types les plus variés , dont les tumeurs du sein .
+On conçoit ainsi_que le chromosome 17 et le gène HER2 soient entraînés dans ces anomalies de nombre .
+Ces surreprésentations d' HER2 liées à de multiples copies de chromosomes 17 , et non à des HSR , ne donnent pas lieu à la formation d' amas de signaux dans les noyaux interphasiques après HIS ( Fig. 1b et c ) .
+Si ces anomalies globales ( polyploïdies ) ou partielles ( polysomies ) de ploïdie ne sont pas recherchées par le compte du nombre de centromères du chromosome 17 , cela peut amener à une interprétation erronée du statut du gène  .
+Ainsi , les amplifications spécifiques d' HER2 sont à distinguer des surreprésentations du gène liées à des anomalies globales de ploïdie , aux polysomies 17 et à des translocations déséquilibrées du bras long du 17. Par exemple , une tumeur tétraploïde ayant quatre chromosomes 17 , montrera quatre signaux HER-2 et quatre signaux centromériques , sans qu' elle possède une réelle amplification du gène .
+Dans une telle tumeur tétraploïde , des translocations déséquilibrées aboutissant à des gains de 17q peuvent être en_outre présentes , augmentant le nombre de copies HER2 , toujours sans qu' il y ait amplification .
+Ces surreprésentations ne modifient pas spécifiquement l' expression du gène et ne donnent pas d' hyperexpression du niveau de celle des amplifications  .
+On conçoit , dans ces conditions , l' importance de la définition du seuil au-delà duquel il est considéré qu' il y a amplification .
+Par ailleurs , dans des cas exceptionnels , il se peut que seul un contingent des cellules tumorales montre une amplification .
+Cette situation s' accompagne aussi d' une hétérogénéité dans l' expression de la protéine en immunohistochimie .
+3. Détermination du statut HER2 en_pratique clinique
+La détection de la protéine est effectuée en première intention par immunohistochimie ( IHC ) , sur coupes histologiques de la tumeur incluse en paraffine ( pour revue ,  ) .
+Le résultat est donné sous la forme d' un score prenant en compte l' intensité du marquage membranaire et le pourcentage de cellules marquées dans la composante invasive ou dans la métastase : 0 ou 1+ , expression négative , 2+ , expression intermédiaire , et 3+ , expression forte .
+Les patientes dont les tumeurs montrent une expression 3+ sont éligibles pour le traitement .
+Pour les tumeurs classées 2+ , la situation est plus complexe .
+Certains cas n' ont pas d' anomalie d' HER2 , d' autres ont une surreprésentation , et enfin , les autres ont une amplification génique réelle .
+De ce fait , le statut du gène HER2 des tumeurs d' expression 2+ doit être vérifié dans un second temps par HIS .
+Les patientes porteuses d' une tumeur d' expression 2+ montrant une amplification en HIS pourront bénéficier du traitement par le trastuzumab .
+Cependant , des expériences étrangères et , en France , celles du groupe GEFPICS  ont montré que la validité des résultats obtenus par IHC suppose déjà une calibration adéquate de la technique par_rapport_à l' HIS , technique de référence .
+L' HIS permet une visualisation directe sur la coupe tissulaire , dans les noyaux des cellules tumorales invasives , du nombre de copies du gène HER2 , soit par une méthode en fluorescence ( FISH ) , soit une méthode impliquant un chromogène ( CISH ) .
+C' est cette expression du résultat sous la forme d' une variable discontinue ( le nombre de signaux ) qui fait de l' HIS la technique de référence par_rapport_à l' IHC , laquelle donne une variation continue d' intensité de marquage , plus difficile à évaluer pour les niveaux intermédiaires .
+De plus , les résultats de la FISH sont moins sensibles aux conditions de fixation ( Bouin excepté ) que ceux de l' IHC  .
+Les trousses de diagnostic comprennent la sonde HER2 seule , ou associée à une sonde centromérique du 17 , permettant la détermination du nombre de copies du chromosome  .
+Le résultat de l' examen est donc donné en nombre moyen de signaux HER2 par noyau , ou en rapport du nombre de signaux HER2 sur signaux centromériques .
+En dépit des efforts de nombreux groupes de travail , il n' avait pas été défini , jusqu' à récemment , de seuil consensus déterminant l' existence d' une amplification d' HER-2 .
+Dans la littérature et dans les notices des fournisseurs de trousses d' HIS , ce seuil de positivité varie de quatre à six copies d' HER2 , en cas de test de la sonde HER2 seule , ou d' un rapport HER2 par centromère du 17 de deux à trois , en_général 2,2 , en cas d' utilisation d' une trousse incluant le centromère 17  .
+D' un point_de_vue génétique , un seuil de quatre ou cinq copies apparaît arbitraire et insuffisant pour qualifier une amplification , ce nombre de copies pouvant correspondre , comme on l' a vu , à des tumeurs aneuploïdes porteuses d' une tétrasomie 17 et / ou des translocations déséquilibrées du 17q .
+L' American Society of Clinical Oncology et le College of American Pathologists , après une importante méta-analyse , viennent de publier des recommandations communes  considérant un résultat comme positif , c' est-à-dire permettant l' éligibilité de la patiente au traitement par le trastuzumab , si la tumeur montre un nombre moyen de plus de six copies du gène HER2 par noyau ou un rapport signaux HER2 par centromère 17 supérieur à 2,2 .
+Les résultats entre quatre copies de HER2 ou avec un rapport HER2 par centromère 17 entre 1,8 et 2,2 sont considérés ambigus ; cependant , ces cas à résultat non concluant sont rares , représentant moins de 3 % des cas  .
+Ces recommandations , bien qu' imparfaites , en_particulier en raison de la discordance de seuils de positivité en fonction de l' utilisation du seul nombre de copies d' HER2 ou du rapport signaux HER2 par centromères 17 , clarifient la situation et sont plus exigeantes que les antérieures .
+En effet , les tumeurs présentant entre quatre et six copies d' HER2 ou des rapports HER2 par centromère 17 inférieurs à 2,3 ne sont plus considérées comme porteuses d' une amplification .
+En pratique , en toute rigueur , les cas ne montrant que six ou sept copies d' HER2 et qui n' auraient été analysés qu' avec la sonde HER2 seule doivent être contrôlés avec une sonde centromérique du 17 , afin_de détecter les éventuelles polysomies de ce chromosome .
+Par ailleurs , comme nous l' avons vu , les signaux en amas signent les amplifications .
+Tableau 1.
+Modalités de comptage des signaux pour l' évaluation du statut du gène HER2 , selon les recommandations ASCO / CAP 
+Signaux HER2Signaux HER2 / cen 17Statut HER2 4 1,8Non amplifié 4 - 61,8 - 2,2Ambigu 6 2,2Amplifié
+Full-size table
+View Within Article
+4. Conclusion
+Le risque de traitement de patientes en fait non éligibles du fait du statut HER2 non amplifié de leur tumeur est à prendre particulièrement en considération lorsqu' il doit s' appliquer en situation adjuvante , donc pour des patientes dont le pronostic est relativement bon , cela du fait que l' Herceptin est dotée d' une toxicité cardiaque et aussi pour des raisons économiques du fait du cot du traitement .
+L' analyse de l' évaluation du statut de HER2 dans les tumeurs d' expression 2+ montre que l' essentiel des difficultés d' interprétation tient aux cas avec faible augmentation du nombre de copies du gène .
+La nécessité de différencier les amplifications des surreprésentations liées à des polysomies 17 dans ces cas impose la vérification du nombre de centromères 17  .
+Dans cette situation , l' observation de signaux en amas est aussi une aide pour affirmer une amplification .
+Le traitement par Herceptin est actif , bien qu' incomplètement , dans les cas typiquement amplifiés .
+La réponse des cas avec faible augmentation du nombre de copies de HER2 ( quatre à six copies , HER2 par centromère 17 entre 1,8 et 2,2 ) , jusqu'_ici mélangés dans les études avec les cas clairement amplifiés , n' est pas connue , et sa connaissance précise ne peut reposer que sur des recherches cliniques spécifiques  .
+Plus généralement , il paraît important que les tests d' éligibilité au traitement par Herceptin soient effectués dans le cadre d' un réseau national de centres experts soumis à un contrôle de qualité .
+L' organisation de la détermination du statut d' HER2 préfigurera certainement celle qui devra être mise en place pour les autres marqueurs de thérapeutiques ciblées issus de la génomique à venir

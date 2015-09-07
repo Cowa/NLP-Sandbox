@@ -1,0 +1,237 @@
+The estrogen receptors ( ERs ) are attractive targets in the treatment of breast cancer and the development of receptor-based breast cancer imaging agents for diagnostic use in biomedical imaging technique positron emission tomography ( PET )  .
+The positron labeled steroidal estrogen 16- [ 18F ] fluoro-17-estradiol , a 17 estradiol derivative and a well-known ER radioligand as indicated in Fig. 1 , has been developed as a PET breast cancer ER imaging agent  .
+A number of selective estrogen receptor modulators ( SERMs ) such as tamoxifen and 4 hydroxytamoxifen are currently in advanced clinical trials or in the market for the treatment of hormone-dependent breast cancer  .
+Recently , a series of tetrahydroisoquinoline derivatives have been developed as new and potent SERMs , and they are found to bind with high affinity to the two currently known ERs , ER and ER , and specificity exhibiting up to 50 folds for ER over ER  .
+Tetrahydroisoquinoline derivatives labeled with a positron emitting radionuclide carbon-11 or fluorine-18 may enable non-invasive monitoring of ER expression in breast cancer and breast cancer response to hormone therapy .
+We are interested in the development of PET breast cancer imaging agents .
+In our previous works , we have developed carbon-11 labeled cyclofenil derivatives as new potential PET nonsteroidal estrogen radioligands for imaging ER expression in breast cancer  .
+This ongoing study was to develop new SERM radioligands .
+To further develop therapeutic agent for diagnostic use , we have first designed , synthesized and evaluated carbon-11 labeled tetrahydroisoquinoline derivatives , [ 11C ] methyl 1- ( 2- ( 4- ( 2- ( 4 fluorophenyl ) -6-hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylate ( [ 11C ] 10a ) and [ 11C ] methyl 1- ( 2- ( 4- ( 2- ( 4 chlorophenyl ) -6-hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylate ( [ 11C ] 10b ) as new potential SERM radioligands for PET imaging of ER expression in breast cancer .
+Full-size image ( 28K )
+Fig. 1. Chemical structures of estrogens and SERMs .
+View Within Article .
+2. Results and discussion2.1 .
+Chemistry .
+Synthesis of precursors and reference standards was designed and accomplished through chemical modification of the previously reported procedures  .
+The synthetic approach is outlined in Scheme 1. 2- ( 3-Methoxyphenyl ) -1-ethanamine ( 1 ) was treated with ethyl chloroformate to furnish carbamate compound 2 in 96% yield .
+The subsequent cyclization of compound 2 with polyphosphoric acid ( PPA ) provided bicyclic lactam compound 3 in 77% yield .
+N-Arylation of compound 3 with 1-fluoro-4-iodobenzene or 1-chloro-4-iodobenzene under Ullmann-type conditions using CuI in DMF afforded compounds 4a,b in 91% and 90% yields , respectively .
+Treatment of compounds 4a,b with benzyloxyphenyllithium and subsequent acidic workup with HClO4 gave intermediate iminium salts 5a,b in quantitative yield .
+The iminium salts 5a,b were subsequently treated with MeMgBr in THF to give 1-methyl-tetrahydroisoquinolines 6a,b in 75% and 73% yields , respectively .
+AlCl3-mediated debenzylation in the presence of Me2NPh in CH2Cl2 of compounds 6a,b yielded phenols 7a,b in 70% and 72% yields , respectively .
+Alkylation of compounds 7a,b with BrCH2CH2Cl or ClCH2CH2OTs furnished compounds 8a,b in 52 - 68% yields .
+Compounds 8a,b were treated with methyl piperidine-4-carboxylate to give esters 9a,b in 92% and 91% yields , respectively .
+The cleavage of the methyl ether of compounds 9a,b in the presence of AlCl3 and EtSH provided target tetrahydroisoquinoline compounds 10a,b as reference standards in 41% and 36% yields , respectively .
+The hydrolysis of compounds 10a,b afforded acids 11a,b as precursors in 88% and 86% yields , respectively .
+Full-size image ( 70K )
+Scheme 1. Synthesis of tetrahydroisoquinoline derivatives .
+Reagents and conditions : ( i ) ClCO2Et , Et3N , CH2Cl2 , rt , 5 h. ( ii ) PPA , 120 C , 2 h. ( iii ) ArI , CuI , K2CO3 , DMF , reflux , 4 d. ( iv ) [ LiArOBn ] ( generated from p-BrArOBn or p-ArOBn and n-BuLi ) , THF , 78 C , 3 h ; HClO4 , 15 min. ( v ) MeMgBr , THF , 0 C to rt , 3 h. ( vi ) AlCl3 , Me2NPh , CH2Cl2 , rt , 1.5 h. ( vii ) BrCH2CH2Cl , K2CO3 , CH3CN , reflux , 3 d ; or ClCH2CH2OTs , 2 butanone , K2CO3 , reflux , 2 d. ( viii ) Methyl piperidine-4-carboxylate , K2CO3 , CH3CN , reflux , 3 d. ( ix ) AlCl3 , EtSH , CH2Cl2 , 0 C to rt , 3 h. ( x ) KOH , MeOH , rt , 12 h , HCl .
+View Within Article .
+Compounds 10a,b were selected as the lead candidates for PET radioligand development for reasons of ER selectivity , potency and feasibility of chemical modification to incorporate an O-methyl group at the ester moiety .
+The O-methyl group serves as a platform for radiolabeling of this series of methyl ester compounds with a positron emitting radioisotope carbon-11 as potential PET radiopharmaceuticals .
+Compounds 10a,b ( 10a , X = F ; 10b , X = Cl ) are halo-tetrahydroisoquinoline compounds , and they are amenable to labeling with another positron emitting radioisotope fluorine-18 by a conventional nucleophilic substitution with K [ 18F ] F / Kryptofix 2.2.2  to be new fluorine-18 PET agents .
+In this regard , compound 10b could be the precursor for compound 10a in fluorine-18 radiolabeling reaction .
+2.2. Radiochemistry .
+Synthesis of the target tracers , carbon-11 labeled tetrahydroisoquinoline derivatives [ 11C ] 10a,b is outlined in Scheme 2. The precursor 11a or 11b was labeled by [ 11C ] methyl triflate ( [ 11C ] CH3OTf )  through O- [ 11C ] methylation  and isolated by a simplified solid-phase extraction ( SPE ) purification  to produce corresponding pure target radiolabeled compound [ 11C ] 10a or [ 11C ] 10b with 40 - 60% radiochemical yields , based on [ 11C ] CO2 , decay corrected to end of bombardment ( EOB ) .
+The large polarity difference between the acid precursor and the labeled O-methylated ester product permitted the use of SPE technique for purification of labeled product from radiolabeling reaction mixture .
+Either a light C-18 Sep-Pak cartridge or a semi-prep C-18 guard cartridge column was used in SPE purification technique .
+The reaction mixture was loaded onto the cartridge by gas pressure .
+The cartridge was washed with water to remove non-reacted [ 11C ] CH3OTf , acid precursor and reaction solvent , and then final labeled product was eluted with ethanol .
+Overall synthesis time was 15 - 20 min from EOB .
+SPE technique is fast , efficient and convenient and works very well for the O-methylated tracer production .
+The radiosynthesis was performed in an automated multi-purpose 11C-radiosynthesis module , allowing measurement of specific activity during synthesis  .
+The specific activity was estimated in a range of 74 - 111 GBq / mol at the end of synthesis ( EOS ) based on other compounds produced using the same targetry conditions which have been measured by the on-the-fly technique  .
+The actual measurement of specific activity at EOS by analytical high pressure liquid chromatography ( HPLC ) method  is in agreement with this estimation .
+The specific activity obtained in our automated synthesis module was high , since the methylation reagent we used was no-carrier-added ( high specific activity ) [ 11C ] CH3OTf , which was produced by the gas-phase production method  from [ 11C ] CO2 through [ 11C ] CH4 and [ 11C ] CH3Br with silver triflate ( AgOTf ) column .
+In addition , we used very small amount of the precursor 11a or 11b ( 0.1 - 0.3 mg ) in radiosynthesis , which also improved the specific activity data .
+Chemical purity and radiochemical purity were determined by analytical HPLC method .
+The chemical purity of precursors and reference standards was 95% .
+The radiochemical purity of target tracers was 99% determined by radio-HPLC through -ray ( NaI ) flow detector , and the chemical purity of target tracers was 95% determined by reversed-phase HPLC through UV flow detector .
+Full-size image ( 14K )
+Scheme 2. Synthesis of carbon-11 labeled tetrahydroisoquinoline derivatives .
+Reagents and conditions : ( i ) [ 11C ] CH3OTf , CH3CN , 3 N NaOH .
+View Within Article .
+The O- [ 11C ] methylation of phenolic hydroxyl position on the precursor to form undesired radiolabeled ether byproduct is a potential competing reaction , however , our previous results  have indicated that the O- [ 11C ] methylation of acid position on the precursor to form desired radiolabeled ester product will be a major reaction .
+These results are consistent with the theoretical explanation that the deprotonization at the acid position of the precursor is much easier than at the phenolic hydroxyl positions of the precursor , since the acidity of HO - at the acid position of the precursor is greater than at the phenolic hydroxyl position of the precursor , and the O- [ 11C ] methylation of the precursor will prefer to occur at the acid position rather than at the phenolic hydroxyl position .
+In addition , the minimal formation of the undesired labeled byproduct , estimated to be 5% , will be washed out with non-reacted [ 11C ] CH3OTf , acid precursor and reaction solvent by water during the SPE purification , since their polarities are very similar .
+To prove that alkylation indeed occurred at the carboxylate-O and not the phenylate-O , a control experiment was designed and conducted using a previously reported procedure from our laboratory  .
+Briefly , the precursor 11a or 11b ( 0.1 - 0.3 mg ) was dissolved in CH3CN ( 0.5 mL ) .
+To this solution were added 3 N NaOH ( 2 L ) and 20 mM CH3OTf ( 50 L ) .
+The mixture was stirred at room temperature ( rt ) for 10 min , and the reaction was monitored by the analytical HPLC method aforementioned .
+The results showed that precursor 11a or 11b was completely converted to compound 10a or 10b , respectively , as indicated by their retention times ( tR 11a = 1.69 min , tR 10a = 4.03 min ; and tR 11b = 1.71 min , tR 10b = 3.06 min ) on HPLC chromatograms .
+These chromatographic data support our conclusion .
+2.3. MCF-7 cell proliferation assay .
+Compounds 10a,b were designed and synthesized through a slight structural modification based on a novel series of tetrahydroisoquinoline derivatives , potent SERMs , recently developed by Renaud et al. , which have been fully evaluated by radioligand binding assay and estrogen response element ( ERE ) assay to ER and ER , and inhibition of MCF-7 cell proliferation assay  .
+Thus , we can assume that the slight structural modification of compounds 10a,b would not significantly change their biological activity in light of the structure - activity relationship ( SAR ) .
+The preliminary biological evaluation of the synthesized new tetrahydroisoquinoline derivatives 10a,b was performed via an MCF-7 cell proliferation assay  and compared to 4 hydroxytamoxifen .
+4-Hydroxytamoxifen ( IC50 8.5 8.0 nM in MCF-7 cells ) is a more potent SERM than its parent compound tamoxifen ( IC50 580160 nM in MCF-7 cells )  , and MCF-7 cell line is an ER positive human breast cancer cell line  .
+The results are shown in Fig. 2. As indicated in Fig. 2 , proliferation of MCF-7 cells was inhibited by 0.625 nM of 4 hydroxytamoxifen , also by higher concentrations .
+MCF-7 cell proliferation was inhibited only by 0.625 nM of compound 10a , but not by higher concentrations .
+Similar to 4 hydroxytamoxifen , proliferation of MCF-7 cells was inhibited by 0.3125 - 0.625 nM of compound 10b , also by higher concentrations .
+Taken collectively , these results suggest that the new compounds 10a,b were proved to be potent SERMs with very high binding affinity to ER , comparable to that of the reference compound 4 hydroxytamoxifen under our assay conditions .
+Full-size image ( 63K )
+Fig. 2. MCF-7 cell proliferation assay of 4 hydroxytamoxifen ( 4-HTX ) , and new tetrahydroisoquinoline derivatives 10a and 10b .
+The X-axis represents blank , cell control , carrier and different concentrations ( 0.156 - 10 nM ) of 4-HTX and 10a,b , and the Y-axis represents their average inhibition intensity in MCF-7 cells measured under optical density ( OD ) 490 nm .
+Celltiter96 assay demonstrated that new tetrahydroisoquinoline derivatives 10a and 10b have similar potencies in the MCF-7 human breast cancer cell line compared to the reference compound 4-HTX .
+View Within Article .
+3. Conclusion .
+An efficient and convenient synthesis of new carbon-11 labeled tetrahydroisoquinoline derivatives has been well developed .
+The synthetic methodology employed classical organic chemistry such as cyclization , arylation , debenzylation , alkylation , demethylation and hydrolysis reactions to synthesize unlabeled tetrahydroisoquinoline derivatives .
+Carbon-11 labeling at oxygen position of the precursor through O- [ 11C ] methylation was incorporated efficiently using [ 11C ] CH3OTf , a signature reaction of carbon-11 radiochemistry from our laboratory .
+Radiosynthesis produced new radioligands in amounts and purity suitable for the preclinical application in animal studies using PET .
+Labeled products are suitable for injection , with the higher specific radioactivities in a range of 74 - 111 GBq / mol at EOS , and can be obtained within 20 min from EOB including fast and efficient SPE purification and formulation .
+Preliminary findings from in vitro biological assay indicate that the synthesized new tetrahydroisoquinoline derivatives displayed similar potencies in the MCF-7 human breast cancer cell line in comparison with reference compound 4 hydroxytamoxifen .
+These results encourage further in vivo evaluation of carbon-11 labeled tetrahydroisoquinoline derivatives as new potential SERM radioligands for PET imaging of ER expression in breast cancer .
+4. Experimental4.1 .
+General .
+All commercial reagents and solvents from Aldrich and Sigma were used without further purification. [ 11C ] CH3OTf was prepared according to a literature procedure  .
+Melting points were determined on a MEL-TEMP II capillary tube apparatus and were uncorrected .
+1H NMR spectra were recorded on a Bruker QE 300 NMR spectrometer using tetramethylsilane ( TMS ) as an internal standard .
+Chemical shift data for the proton resonances were reported in parts per million ( ppm , scale ) relative to internal standard TMS ( 0.0 ) , and coupling constants ( J ) were reported in hertz ( Hz ) .
+The low resolution mass spectra ( LRMS ) were obtained using a Bruker Biflex III MALDI-Tof mass spectrometer , and the high resolution mass spectra ( HRMS ) were obtained using a Thermo MAT 95XP-Trap spectrometer .
+Chromatographic solvent proportions are indicated in a volume:volume ratio .
+Thin layer chromatography was run using Analtech silica gel GF uniplates ( 510 cm2 ) .
+Plates were visualized under UV light .
+Normal phase flash chromatography was carried out on EM Science silica gel 60 ( 230 - 400 mesh ) with a forced flow of the indicated solvent system in the proportions described below .
+All moisture- and / or air-sensitive reactions were performed under a positive pressure of nitrogen maintained by a direct line from a nitrogen source .
+Analytical HPLC was performed using a Prodigy ( Phenomenex ) 5 m C-18 column , 4.6 250 mm ; 3:1:3 CH3CN:MeOH:20 mM , pH 6.7 KHPO4 ( buffer solution ) mobile phase ; flow rate 1.5 mL / min ; and UV ( 254 nm ) and -ray ( NaI ) flow detectors .
+Light C-18 Sep-Pak cartridges were obtained from Waters Corporate Headquarters , Milford , MA .
+Semi-prep C-18 guard cartridge column 1 1 cm was obtained from E. S. Industries , Berlin , NJ , and part number 300121-C18-BD 10 m .
+Sterile Millex-GS 0.22 m vented filter unit was obtained from Millipore Corporation , Bedford , MA .
+4.2. Ethyl 3 methoxyphenethylcarbamate ( 2 )
+2- ( 3-Methoxyphenyl ) -1-ethanamine ( 1 , 50 g , 330 mmol ) was dissolved in dichloromethane ( 500 mL ) with Et3N ( 51 mL , 360 mmol ) at 0 C. Ethyl chloroformate ( 35 mL , 360 mmol ) was added and stirring was continued at rt for 5 h .
+The reaction mixture was washed with water ( 100 mL 2 ) , dried with MgSO4 , and filtered .
+The organic phase was evaporated under reduced pressure to give oily compound 2 ( 64.0 g , 96% ) , Rf = 0.85 ( 1:19 MeOH / CH2Cl2 ) .
+1H NMR ( CDCl3 ) : 1.22 ( t , J = 7.0 Hz , 3H , CH3 ) , 2.78 ( t , J = 7.0 Hz , 2H , CH2CH3 ) , 3.40 ( dd , J = 7.0 , 14.0 Hz , 2H , CH2CH2 ) , 3.79 ( s , 3H , OCH3 ) , 4.08 ( dd , J = 7.0 , 14.0 Hz , 2H , CH2CH2 ) , 4.71 ( s , 1H , CONH ) , 6.74 - 6.79 ( m , 3H , Ph-H ) , 7.21 ( t , J = 7.8 Hz , 1H , Ph-H ) .
+4.3. 6-Methoxy-3,4-dihydroisoquinolin-1 ( 2H ) -one ( 3 )
+Compound 2 ( 30 g , 135 mmol ) was treated with polyphosphoric acid ( PPA , 100 g ) at 120 C under N2 atmosphere for 2 h .
+After the reaction mixture was cooled down to rt , ice-water was added ( 300 mL ) , and then extracted with EtOAc ( 100 mL 3 ) and CH2Cl2 ( 100 mL 2 ) , washed with brine , and dried with Na2SO4 .
+Combined organic layer was evaporated , and the residue was recrystallized from EtOAc or purified by column chromatography with silica gel to afford colorless solid 3 ( 18.4 g , 77% ) , mp 136 - 138 C , Rf = 0.35 ( EtOAc ) .
+1H NMR ( CDCl3 ) : 2.95 ( t , J = 6.6 Hz , 2H , CH2 ) , 3.54 ( dt , J = 2.6 , 6.6 Hz , 2H , CH2N ) , 3.84 ( s , 3H , OCH3 ) , 6.70 ( d , J = 2.6 Hz , 1H , Ph-H ) , 6.83 ( d , J = 2.4 Hz , 1H , Ph-H ) , 6.86 ( d , J = 2.4 Hz , 1H , Ph-H ) , 8.02 ( d , J = 8.6 Hz , 1H , NHCO ) .
+4.4. 6-Methoxy-2- ( 4 flurophenyl ) -3,4-dihydro-2H-isoquinolin-1-one ( 4a )
+A mixture of compound 3 ( 8.16 g , 46 mmol ) , 1-fluoro-4-iodobenzene ( 20 g , 90 mmol ) , K2CO3 ( 6.36 g , 46 mmol ) , and CuI ( 1.75 g , 9.2 mmol ) in DMF ( 90 mL ) was heated at 160 C for 48 h under N2 atmosphere .
+After that , a second portion of CuI ( 876 mg , 4.6 mmol ) was added , and heating was continued for another 48 h .
+Then the mixture was poured into aqueous NH4OH ( 350 mL ) and EtOAc ( 350 mL ) .
+The layers were separated , and the aqueous layer was extracted with EtOAc ( 350 mL 3 ) .
+The combined organic phases were washed with brine ( 500 mL ) , dried with Na2SO4 , and concentrated in vacuo until the crystallization started .
+Hexanes were added slowly to the solution .
+The crystallization provided white solid 4a ( 11.35 g , 91% ) , mp 132 - 134 C , Rf = 0.29 ( 1:3 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 3.09 ( t , J = 6.4 Hz , 2H , CH2 ) , 3.85 ( s , 3H , OCH3 ) , 3.92 ( t , J = 6.4 Hz , 2H , CH2 ) , 6.71 ( d , J = 2.4 Hz , 1H , Ph-H ) , 6.85 ( dd , J = 2.4 , 8.6 Hz , 1H , Ph-H ) , 7.06 ( t , J = 8.6 Hz , 2H , Ph-H ) , 7.31 ( dd , J = 4.8 , 9.0 Hz , 2H , Ph-H ) , 8.05 ( d , J = 8.8 Hz , 1H , Ph-H ) .
+4.5. 6-Methoxy-2- ( 4 chlorophenyl ) -3,4-dihydro-2H-isoquinolin-1-one ( 4b )
+According to the procedure for preparation of 4a , compound 4b was prepared from compound 3 and 1-chloro-4-iodobenzene in 90% yield as white solid , mp 169 - 171 C , Rf = 0.31 ( 1:3 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 3.10 ( t , J = 6.4 Hz , 2H , CH2 ) , 3.86 ( s , 3H , OCH3 ) , 3.94 ( t , J = 6.4 Hz , 2H , CH2 ) , 6.72 ( d , J = 2.4 Hz , 1H , Ph-H ) , 6.86 ( dd , J = 2.4 , 8.8 Hz , 2H , Ph-H ) , 7.25 - 7.39 ( m , 4H , Ph-H ) , 8.06 ( d , J = 8.8 Hz , 1H , Ph-H ) .
+4.6. 1- ( 4- ( Benzyloxy ) phenyl ) -2- ( 4 fluorophenyl ) -6-methoxy-3,4-dihydro-2H-isoquinolinium ( 5a )
+To a cold solution ( 78 C ) of 4 benzyloxybromobenzene ( 6.7 g , 25.4 mmol ) in anhydrous THF ( 70 mL ) was added a solution of n-BuLi ( 2.5 M , 11.2 mL , 28 mmol ) over a period of 30 min .
+After the resultant suspension was stirred at 78 C for 40 min , a solution of compound 4a ( 5.2 g , 19.1 mmol ) in anhydrous THF ( 100 mL ) was added over 30 min .
+Stirring was continued for 50 min .
+The reaction mixture was poured into water ( 220 mL ) and EtOAc ( 220 mL ) .
+HClO4 ( 70% , 5.0 mL ) was added , and the mixture was stirred for 20 min .
+The pH value of aqueous layer was adjusted to 5 by addition of aqueous NaHCO3 .
+The layers were separated , and the aqueous layer was extracted with EtOAc ( 180 mL 3 ) .
+The combined organic layers were washed with brine ( 220 mL ) and dried with MgSO4 , and the solution was concentrated in vacuo to obtain yellowish solid 5a ( 8.36 g , 100% ) , which was used directly in the next step without further purification , mp 133 - 135 C , Rf = 0.62 ( 1:9 CH3OH / CH2Cl2 ) .
+1H NMR ( CDCl3 ) : 3.45 ( t , J = 7.5 Hz , 2H , CH2 ) , 3.95 ( s , 3H , OCH3 ) , 4.54 ( t , J = 7.5 Hz , 2H , CH2 ) , 5.05 ( s , 2H , OCH2Ph ) , 6.81 - 7.05 ( m , 6H , Ph-H ) , 7.24 ( t , J = 2.4 Hz , 2H , Ph-H ) , 7.28 ( d , J = 2.4 Hz , 1H , Ph-H ) , 7.34 - 7.40 ( m , 7H , Ph-H ) .
+MS ( ESI ) : 438 ( M+ , 100% ) .
+4.7. 1- ( 4- ( Benzyloxy ) phenyl ) -2- ( 4 chlorophenyl ) -6-methoxy-3,4-dihydro-2H-isoquinolinium ( 5b )
+According to the procedure for preparation of 5a , compound 5b was prepared from compound 4b in 100% yield as yellowish solid , mp 154 - 156 C , Rf = 0.64 ( 1:9 CH3OH / CH2Cl2 ) .
+1H NMR ( CDCl3 ) : 3.44 ( t , J = 7.4 Hz , 2H , CH2 ) , 3.94 ( s , 3H , OCH3 ) , 4.53 ( t , J = 7.4 Hz , 2H , CH2 ) , 5.05 ( s , 2H , OCH2Ph ) , 6.80 - 6.96 ( m , 4H , Ph-H ) , 7.22 - 7.31 ( m , 7H , Ph-H ) , 7.36 - 7.42 ( m , 5H , Ph-H ) .
+MS ( ESI ) : 454 ( M+ , 100% ) .
+4.8. 1- ( 4-Benzyloxyphenyl ) -6-methoxy-2- ( 4 fluorophenyl ) -1-methyl-1,2,3,4-tetrahydroisoquinoline ( 6a )
+To a cold solution ( 0 C ) of compound 5a ( 8.36 g , 19.1 mmol ) in anhydrous THF ( 150 mL ) was added a solution of MeMgBr in Et2O ( 3.0 M , 11 mL , 33 mmol ) over 15 min .
+The resultant mixture was stirred at 0 C for 30 min and was allowed to warm up to rt .
+The suspension was poured into saturated aqueous NH4Cl ( 250 mL ) after being stirred for 2 h .
+The aqueous layer was extracted with CH2Cl2 ( 250 mL 3 ) .
+The combined organic phases were washed with brine ( 220 mL ) , dried with Na2SO4 , and concentrated in vacuo .
+The crude product was recrystallized from EtOAc / hexanes or purified by column chromatography with silica gel to provide white solid 6a ( 6.49 g , 75% ) , mp 114 - 115 C , Rf = 0.82 ( 1:3 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 1.63 ( s , 3H , CH3 ) , 2.85 - 3.13 ( m , 2H , CH2 ) , 3.21 - 3.42 ( m , 2H , CH2 ) , 3.78 ( s , 3H , OCH3 ) , 5.03 ( s , 2H , OCH2 ) , 6.50 - 6.83 ( m , 9H , Ph-H ) , 7.03 ( d , J = 8.8 Hz , 2H , Ph-H ) , 7.31 - 7.41 ( m , 5H , Ph-H ) .
+4.9. 1- ( 4-Benzyloxyphenyl ) -6-methoxy-2- ( 4 chlorophenyl ) -1-methyl-1,2,3,4-tetrahydroisoquinoline ( 6b )
+According to the procedure for preparation of 6a , compound 6b was prepared from compound 5b in 73% yield as white solid , mp 148 - 150 C , Rf = 0.81 ( 1:3 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 1.64 ( s , 3H , CH3 ) , 2.89 9 ( dt , J = 4.4 , 16.2 Hz , 1H , CHH ) , 3.16 ( ddd , J = 4.4 , 9.6 , 15.1 Hz , 1H , CHH ) , 3.30 - 3.37 ( m , 1H , CHH ) , 3.41 - 3.49 ( m , 1H , CHH ) , 3.77 ( s , 3H , OCH3 ) , 5.03 ( s , 2H , OCH2 ) , 6.49 ( d , J = 8.9 Hz , 1H , Ph-H ) , 6.61 - 6.71 ( m , 3H , Ph-H ) , 6.80 ( d , J = 8.9 Hz , 2H , Ph-H ) , 6.98 ( d , J = 8.8 Hz , 2H , Ph-H ) , 7.08 ( d , J = 8.6 Hz , 2H , Ph-H ) , 7.32 - 7.45 ( m , 5H , Ph-H ) .
+4.10. 4- [ 6-Methoxy-2- ( 4 fluorophenyl ) -1-methyl-1,2,3,4-tetrahydroisoquinolin-yl ] phenol ( 7a )
+A solution of compound 6a ( 5.38 g , 11.86 mmol ) , AlCl3 ( 4.74 g , 35.58 mmol ) and Me2NPh ( 14.3 g , 118.6 mmol ) in CH2Cl2 ( 270 mL ) was stirred at rt for 1.5 h .
+Water ( 90 mL ) and CH2Cl2 ( 350 mL ) were added to the reaction mixture , and the pH value of aqueous layer was adjusted to 5 with aqueous NaHCO3 .
+The layer was separated , aqueous layer was extracted with CH2Cl2 ( 250 mL 2 ) and then EtOAc ( 280 mL 3 ) .
+The combined organic phases were washed with brine , dried with MgSO4 , and concentrated in vacuo .
+The resultant oil was purified by column chromatography with silica gel to afford white solid product 7a ( 3.01 g , 70% ) , mp 56 - 57 C , Rf = 0.47 ( 1:3 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 1.63 ( s , 3H , CH3 ) , 2.87 ( dt , J = 4.4 , 15.8 Hz , 1H , CHH ) , 3.06 - 3.19 ( m , 1H , CHH ) , 3.21 - 3.48 ( m , 2H , CH2 ) , 3.78 ( s , 3H , OCH3 ) , 4.96 ( s , 1H , OH ) , 6.51 - 6.61 ( m , 2H , Ph-H ) , 6.65 - 6.79 ( m , 7H , Ph-H ) , 6.98 ( d , J = 8.8 Hz , Ph-H ) .
+4.11. 4- [ 6-Methoxy-2- ( 4 chlorophenyl ) -1-methyl-1,2,3,4-tetrahydroisoquinolin-yl ] phenol ( 7b )
+According to the procedure for preparation of 7a , compound 7b was prepared from compound 6b in 72% yield as white solid , mp 110 - 112 C , Rf = 0.48 ( 1:3 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 1.64 ( s , 3H , CH3 ) , 2.86 ( dt , J = 4.0 , 15.6 Hz , 1H , CHH ) , 3.08 - 3.21 ( m , 1H , CHH ) , 3.28 - 3.51 ( m , 2H , CH2 ) , 3.78 ( s , 3H , OCH3 ) , 4.71 ( 1H , OH ) , 6.50 ( d , J = 8.8 Hz , 2H , Ph-H ) , 6.60 - 6.74 ( m , 5H , Ph-H ) , 6.98 - 7.06 ( m , 4H , Ph-H ) .
+4.12. 1- ( 4- ( 2-Chloroethoxy ) phenyl ) -2- ( 4 fluorophenyl ) -6-methoxy-1-methyl-1,2,3,4-tetrahydroisoquinoline ( 8a )
+Method A : a solution of compound 7a ( 363 mg , 1 mmol ) , 1-bromo-2-chloroethane ( 789 mg , 5 mmol ) and K2CO3 ( 207 mg , 1.5 mmol ) in CH3CN ( 50 mL ) was heated to reflux for 3 days .
+The reaction mixture was filtered , and concentrated .
+The residue was purified by column chromatography with silica gel to give white solid 8a ( 221 mg , 52% ) .
+Method B : a solution of compound 7a ( 1.82 g , 5 mmol ) , 2 chloroethyl 4-methylbenzenesulfonate ( 1.76 g , 7.5 mmol ) and K2CO3 ( 1.38 g , 10 mmol ) in 2 butanone ( 120 mL ) was heated to reflux for 3 days .
+The reaction mixture was filtered , and concentrated .
+The residue was purified by column chromatography with silica gel to give white solid 8a ( 1.44 g , 68% ) , mp 119 - 121 C , Rf = 0.78 ( 1:3 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 1.63 ( s , 3H , CH3 ) , 2.87 ( dt , J = 4.4 , 15.6 Hz , CHH ) , 3.07 - 3.23 ( m , 1H , CHH ) , 3.26 - 3.47 ( m , 2H , CH2 ) , 3.78 ( s , 3H , OCH3 ) , 3.80 ( t , J = 6.0 Hz , 2H , CH2Cl ) , 4.20 ( t , J = 6.0 Hz , 2H , CH2O ) , 6.51 - 6.64 ( m , 4H , Ph-H ) , 6.69 - 6.79 ( m , 5H , Ph-H ) , 7.04 ( d , J = 8.8 Hz , 2H , Ph-H ) .
+4.13. 1- ( 4- ( 2-Chloroethoxy ) phenyl ) -2- ( 4 chlorophenyl ) -6-methoxy-1-methyl-1,2,3,4-tetrahydroisoquinoline ( 8b )
+According to the Method B for preparation of 8a , compound 8b was prepared from compound 7b in 66% yield as white solid , mp 138 - 140 C , Rf = 0.78 ( 1:3 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 1.64 ( s , 3H , CH3 ) , 2.88 ( dt , J = 4.4 , 15.4 Hz , 1H , CHH ) , 3.12 - 3.21 ( m , 1H , CHH ) , 3.30 - 3.49 ( m , 2H , CH2 ) , 3.78 ( s , 3H , OCH3 ) , 3.80 ( t , J = 5.9 Hz , 2H , CH2Cl ) , 4.20 ( t , J = 5.9 Hz , OCH2 ) , 6.50 ( d , J = 8.8 Hz , 2H , Ph-H ) , 6.60 - 6.64 ( m , 3H , Ph-H ) , 6.77 ( d , J = 8.8 Hz , 2H , Ph-H ) , 7.02 ( d , J = 8.8 Hz , 2H , Ph-H ) , 7.12 ( d , J = 8.8 Hz , 2H , Ph-H ) .
+4.14. Methyl 1- ( 2- ( 4- ( 2- ( 4 fluorophenyl ) -6-methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylate ( 9a )
+A solution of compound 8a ( 852 mg , 2 mmol ) , methyl piperidine-4-carboxylate ( 572 mg , 4 mmol ) and K2CO3 ( 691 mg , 5 mmol ) in CH3CN ( 60 mL ) was heated to reflux for 3 days .
+The reaction mixture was filtered , and concentrated .
+The residue was purified by column chromatography with silica gel to give white solid 9a ( 980 mg , 92% ) , mp 104 - 106 C , Rf = 0.34 ( 1:1 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 1.63 ( s , 3H , CH3 ) , 1.75 - 1.93 ( m , 4H ) , 2.13 - 2.36 ( m , 3H ) , 2.77 ( t , J = 6.0 Hz , 2H , NCH2 ) , 2.87 - 2.99 ( m , 3H ) , 3.11 - 3.41 ( m , 3H ) , 3.67 ( s , 3H , OCH3 ) , 3.78 ( s , 3H , OCH3 ) , 4.06 ( t , J = 6.0 Hz , 2H , OCH2 ) , 6.50 - 6.57 ( m , 2H , Ph-H ) , 6.60 - 6.78 ( m , 7H , Ph-H ) , 7.01 ( d , J = 8.8 Hz , Ph-H ) .
+MS ( CI ) : 533 ( [ M + H ] + , 100% ) , 532 ( M+ , 48% ) .
+HRMS ( CI ) : calcd for C32H38O4N2F , 533.2810 , found , 533.2816 .
+4.15. Methyl 1- ( 2- ( 4- ( 2- ( 4 chlorophenyl ) -6-methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylate ( 9b )
+According to the procedure for preparation of 9a , compound 9b was prepared from compound 8b in 91% yield as white solid , mp 76 - 78 C , Rf = 0.33 ( 1:1 EtOAc / hexanes ) .
+1H NMR ( CDCl3 ) : 1.64 ( s , 3H , CH3 ) , 1.75 - 1.94 ( m , 4H ) , 2.12 - 2.36 ( m , 3H ) , 2.78 ( t , J = 5.8 Hz , 2H , NCH2 ) , 2.86 - 2.99 ( m , 3H ) , 3.11 - 3.23 ( m , 1H ) , 3.28 - 3.49 ( m , 2H ) , 3.67 ( s , 3H , OCH3 ) , 3.77 ( s , 3H , OCH3 ) , 4.06 ( t , J = 5.8 Hz , 2H , OCH2 ) , 6.48 ( d , J = 8.8 Hz , 2H , Ph-H ) , 6.60 - 6.64 ( m , 2H , Ph-H ) , 6.69 - 6.75 ( m , 2H , Ph-H ) , 6.98 ( d , J = 8.8 Hz , 2H , Ph-H ) , 7.05 ( d , J = 8.8 Hz , 2H , Ph-H ) .
+MS ( CI ) : 549 ( [ M + H ] + , 100% ) , 548 ( M+ , 48% ) .
+HRMS ( CI ) : calcd for C32H38O4N2Cl , 549.2515 , found , 549.2502 .
+4.16. Methyl 1- ( 2- ( 4- ( 2- ( 4 fluorophenyl ) -6-hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylate ( 10a )
+To a cold solution ( 0 C ) of compound 9a ( 212 mg , 0.4 mmol ) and EtSH ( 0.3 mL ) in CH2Cl2 ( 15 mL ) was added AlCl3 ( 213 mg , 1.6 mmol ) .
+The mixture was stirred at 0 C for 1 h , and then at rt for 3 h .
+The reaction was quenched by adding some water , and the pH value of the solution was adjusted to 6 with aqueous NaHCO3 .
+Then the mixture was extracted with CH2Cl2 ( 100 mL 3 ) .
+The combined organic layers were washed with brine , dried with MgSO4 , and concentrated in vacuo .
+The residue was purified by column chromatography with silica gel to afford white solid 10a ( 85 mg , 41% ) , mp 95 - 97 C , Rf = 0.76 ( 1:9 CH3OH / CH2Cl2 ) .
+1H NMR ( CD3OD ) : 1.62 ( s , 3H , CH3 ) , 1.83 - 2.00 ( m , 5H ) , 2.40 - 2.50 ( m , 3H ) , 2.78 - 2.98 ( m , 3H ) , 3.09 - 3.22 ( m , 3H ) , 3.26 - 3.41 ( m , 1H ) , 3.67 ( s , 3H , OCH3 ) , 4.14 ( t , J = 6.0 Hz , 2H , OCH2 ) , 6.49 - 6.64 ( m , 5H , Ph-H ) , 6.70 - 6.79 ( m , 4H , Ph-H ) , 7.03 ( d , J = 8.8 Hz , 2H , Ph-H ) .
+MS ( ESI ) : 519 ( [ M + H ] + , 100% ) .
+HRMS ( CI ) : calcd for C31H36O4N2F , 519.2654 , found , 519.2643 .
+4.17. Methyl 1- ( 2- ( 4- ( 2- ( 4 chlorophenyl ) -6-hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylate ( 10b )
+According to the procedure for preparation of 10a , compound 10b was prepared from compound 9b in 36% yield as white solid , mp 72 - 74 C , Rf = 0.76 ( 1:9 CH3OH / CH2Cl2 ) .
+1H NMR ( CD3OD ) : 1.63 ( s , 3H , CH3 ) , 1.72 - 1.95 ( m , 4H ) , 2.21 - 2.44 ( m , 4H ) , 2.79 - 2.87 ( m , 3H ) , 2.99 - 3.05 ( m , 3H ) , 3.34 - 3.45 ( m , 1H ) , 3.67 ( s , 3H , OCH3 ) , 4.09 ( t , J = 5.8 Hz , 2H , OCH2 ) , 6.43 - 6.60 ( m , 5H , Ph-H ) , 7.74 ( d , J = 8.8 Hz , 2H , Ph-H ) , 6.95 ( d , J = 8.8 Hz , 2H , Ph-H ) , 7.06 ( d , J = 8.8 Hz , 2H , Ph-H ) .
+MS ( ESI ) : 535 ( [ M + H ] + , 100% ) .
+HRMS ( CI ) : calcd for C31H36O4N2Cl , 535.2358 , found , 535.2349 .
+4.18. 1- ( 2- ( 4- ( 2- ( 4-Fluorophenyl ) -6-hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylic acid ( 11a )
+A solution of compound 10a ( 52 mg , 0.1 mmol ) , potassium hydroxide ( 56 mg , 1 mmol ) and methanol ( 15 mL ) was stirred at rt for 12 h .
+The mixture was evaporated in vacuo , added water ( 5 mL ) and adjusted pH to 5 - 6 with 1 N HCl .
+The mixture solution was extracted with EtOAc ( 50 mL 3 ) , washed with brine , dried with MgSO4 , and concentrated in vacuo .
+The residue was purified by column chromatography to give yellow compound 11a ( 44 mg , 88% ) , mp 185 - 187 C , Rf = 0.40 ( 2:1 CH3OH / CH2Cl2 ) .
+1H NMR ( CD3OD ) : 1.62 ( s , 3H , CH3 ) , 1.80 - 2.02 ( m , 4H ) , 2.19 - 2.31 ( m , 1H ) , 2.53 - 2.63 ( m , 3H ) , 2.80 - 2.88 ( m , 1H ) , 2.98 - 3.01 ( m , 3H ) , 3.20 - 3.46 ( m , 3H ) , 4.18 ( t , J = 5.6 Hz , 2H , OCH2 ) , 6.44 - 6.61 ( m , 4H , Ph-H ) , 6.63 - 6.87 ( m , 5H , Ph-H ) , 7.03 ( d , J = 8.8 Hz , Ph-H ) .
+MS ( ESI ) : 505 ( [ M + H ] + , 100% ) .
+HRMS ( CI ) : calcd for C30H34O4N2F , 505.2497 , found , 505.2503 .
+4.19. 1- ( 2- ( 4- ( 2- ( 4-Chlorophenyl ) -6-hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylic acid ( 11b )
+According to the procedure for preparation of 11a , compound 11b was prepared from compound 10b in 86% yield as yellow solid , mp 174 - 176 C , Rf = 0.40 ( 2:1 CH3OH / CH2Cl2 ) .
+1H NMR ( CD3OD ) : 1.65 ( s , 3H , CH3 ) , 1.86 - 2.06 ( m , 5H ) , 2.26 - 2.34 ( m , 1H ) , 2.78 - 2.88 ( m , 5H ) , 3.19 - 3.45 ( m , 4H ) , 4.24 ( t , J = 5.2 Hz , OCH2 ) , 6.43 - 6.62 ( m , 5H , Ph-H ) , 6.80 ( d , J = 8.8 Hz , 2H , Ph-H ) , 9.96 ( d , J = 8.8 Hz , 2H , Ph-H ) , 7.11 ( d , J = 8.8 Hz , 2H , Ph-H ) , 7.97 ( s , 1H , OH ) .
+MS ( ESI ) : 521 ( [ M + H ] + , 100% ) .
+HRMS ( CI ) : calcd for C30H34O4N2Cl , 521.2202 , found , 521.2216 .
+4.20. General method for the preparation of carbon-11 labeled tetrahydroisoquinoline derivatives , [ 11C ] methyl 1- ( 2- ( 4- ( 2- ( 4 fluorophenyl ) -6-hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylate ( [ 11C ] 10a ) and [ 11C ] methyl 1- ( 2- ( 4- ( 2- ( 4 chlorophenyl ) -6-hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl ) phenoxy ) ethyl ) piperidine-4-carboxylate ( [ 11C ] 10b )
+[ 11C ] CO2 was produced by the 14N ( p, ) 11C nuclear reaction in small volume ( 9.5 cm3 ) aluminum gas target ( CTI ) from 11 MeV proton cyclotron on research purity nitrogen ( +1% O2 ) in a Siemens radionuclide delivery system ( Eclipse RDS-111 ) .
+The acid precursor 11a or 11b ( 0.1 - 0.3 mg ) was dissolved in CH3CN ( 300 L ) .
+To this solution was added 3 N NaOH ( 2 L ) .
+The mixture was transferred to a small reaction vial. [ 11C ] CH3OTf that was produced from [ 11C ] CO2 through [ 11C ] CH4 and [ 11C ] CH3Br with AgOTf column was passed into the reaction vial , which was cooled to 0 C , until radioactivity reached a maximum ( 2 min ) , and then the reaction vial was isolated and heated at 80 C for 3 min .
+The contents of the reaction vial were diluted with NaHCO3 ( 1 mL , 0.1 M ) .
+The reaction tube was connected to either a light C-18 Sep-Pak cartridge or a semi-prep C-18 guard cartridge column .
+The labeled product mixture solution was passed onto the cartridge for SPE purification by gas pressure .
+The cartridge was washed with H2O ( 3 mL 2 ) , and the aqueous washing was discarded .
+The product was eluted from the column with EtOH ( 3 mL 2 ) , and then passed onto a rotatory evaporator .
+The solvent was removed by evaporation under vacuum .
+The labeled product [ 11C ] 10a or [ 11C ] 10b was formulated with saline , sterile-filtered through a sterile vented Millex-GS 0.22 m cellulose acetate membrane and collected into a sterile vial , whose volume was dependent upon the use of the labeled product in tissue biodistribution studies ( 6 mL , 2 mL 3 ) or in PET imaging studies ( 1 - 3 mL ) .
+Total radioactivity was assayed and the total volume ( 1.0 - 6.0 mL ) was noted .
+The overall synthesis time including SPE purification and formulation was 15 - 20 min .
+The radiochemical yields were 40 - 60% decay corrected to EOB from [ 11C ] CO2 and 20 - 30% at EOS , respectively .
+Retention times in the analytical HPLC system were : tR 11a = 1.69 min , tR 10a = 4.03 min , tR [ 11C ] 10a = 4.03 min ; and tR 11b = 1.71 min , tR 10b = 3.06 min , tR [ 11C ] 10b = 3.06 min .
+4.21. MCF-7 cell proliferation assay .
+MCF-7 cell proliferation assay was performed following a literature procedure  .
+Briefly , cell proliferation was performed using Celltiter96 kits .
+For proliferation assays , 100 L of medium containing 5000 MCF-7 breast cancer cells was plated in a 96 well flat-bottom microplate ( Becton Dickinson Co. , Lincoln Park , NJ ) and was incubated at 37 C for 24 h in the presence of 0.156 - 10 nM of reference compound 4 hydroxytamoxifen , and synthesized new compounds 10a,b .
+Following treatment , 20 L of the reagent , the tetrazolium compound MTS ( Promega , Madison , WI ) , was added to each well , and incubation was continued at 37 C for 1 h .
+The absorbance was measured at a wavelength of 490 nm .
+Control cells were not incubated with 4 hydroxytamoxifen and 10a,b .
+Each series was performed in triplicate .
+Acknowledgments .
+This work was partially supported by the Susan G. Komen for the Cure grant BCTR0504022 , Breast Cancer Research Foundation , and Indiana Genomics Initiative ( INGEN ) of Indiana University , which is supported in part by Lilly Endowment Inc .
+The authors would like to thank Dr. Bruce H. Mock and Barbara E. Glick-Wilson for their assistance in production of [ 11C ] CH3OTf .
+The referees criticisms and editor 's comments for the revision of the manuscript are greatly appreciated .

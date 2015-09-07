@@ -1,0 +1,202 @@
+Après une chirurgie conservatrice , la radiothérapie adjuvante de la totalité de la glande mammaire est le standard thérapeutique .
+Elle a permis de réduire le taux de récidive locale de plus des deux tiers .
+La méta-analyse de « l' Early Breast Cancer Trialists Collaborative Group ( EBCTCG ) » a montré des taux de rechute locale trois fois plus élevés après chirurgie seule ( 25 % ) qu' après l' association radiochirurgicale conservatrice ( 7 % ) .
+Le taux de mortalité spécifique à 15 ans était de 30 contre 36 % avec et sans radiothérapie , respectivement .
+De plus , ces résultats semblent avoir un impact sur la réduction du taux de mortalité globale ( 35 % avec la radiothérapie contre 41 % sans la radiothérapie , p = 0,005 )  .
+Alors que la dose délivrée dans le sein en totalité demeure quasi inchangée depuis_longtemps , la technique et la dose du complément d' irradiation du lit opératoire ont évolué .
+Ainsi , l' amélioration technique constante depuis les années 1950 a permis une réduction significative de la toxicité aux organes à risque et une amélioration significative du taux de survie  .
+Parallèlement , l' impact de l' effet de la dose délivrée dans le lit opératoire sur le taux de contrôle local a été démontré dans toutes les catégories de patientes , y_compris les patientes âgées de plus de 60 ans  , ce qui rend encore_plus incontournable la collaboration entre les chirurgiens et les oncologues - radiothérapeutes pour la définition du lit tumoral initial , en_particulier en cas de plastie de remodelage .
+La prise en charge du cancer du sein devient de_plus_en_plus individualisée par : - un diagnostic radiologique et surtout anatomopathologique plus fin et discriminant au niveau moléculaire ;
+- des traitements médicaux basés sur des facteurs de prédiction de réponse et des cibles ou voies de transduction de signal complexes conditionnant la survie cellulaire ;
+- une chirurgie qui a dépassé le dogme du « maximal tolérable » pour adopter le concept du « minimum efficace » , avec la technique du ganglion sentinelle et le développement des techniques de reconstructions conservatrices , voire supraconservatrices ;
+- une radiothérapie qui a connu un essor considérable grâce aux progrès technologiques et informatiques contribuant à réduire le risque de séquelles à long terme du traitement radiochirurgical conservateur des cancers du sein .
+Il est probable qu' à l' avenir , comme pour les traitements médicaux , l' évolution de la radiothérapie se fera vers une individualisation tenant compte des paramètres physiologiques des patientes ( y_compris leur radiosensibilité individuelle ) et des critères histopathologiques de la tumeur .
+Cette évolution permettrait de proposer des indications et des techniques personnalisées .
+Dans l' histoire de l' évolution de la radiothérapie mammaire , les paramètres tumoraux n' ont pas toujours été considérés comme des éléments clés pour adapter la technique de radiothérapie .
+Après la démonstration de l' équivalence en terme de survie globale entre l' association radiochirurgicale conservatrice et la mastectomie totale , un meilleur ciblage des volumes cibles et une réduction des doses aux organes à risque ont pu être obtenus chez une grande majorité des patientes , alors_que dans certaines catégories de malades âgées des schémas hypofractionnés ont été suggérés afin_de ne pas altérer la qualité de vie des patientes  .
+En effet , le rapport bénéfice / risque de la radiothérapie de la totalité du sein peut être discuté du fait de sa durée , ses contraintes , l' encombrement des plateaux techniques , l' absence d' amélioration de la probabilité de survie dans tous les sous-groupes et le développement de nouvelles stratégies thérapeutiques médicales plus efficaces ( avec des profils de toxicité différents ) .
+L' irradiation partielle du sein focalisée au lit opératoire , délivrée de façon accélérée en quelques jours , constitue dans ce contexte d' individualisation des traitements , une option possible et un domaine de recherche prometteur .
+C' est l' une des options qui permettrait une évolution historique de la radiothérapie mammaire , par une sélection basée à_la_fois sur les paramètres physiologiques des patientes et les facteurs pronostiques tumoraux .
+Dans cet article , nous développerons les arguments qui font de cette option un axe de recherche pour une radiothérapie adaptée aux profils des patientes .
+Nous détaillerons les différentes possibilités techniques et leurs spécificités en termes de volume irradié , de dose et son fractionnement .
+Nous ferons le point sur les résultats disponibles dans la littérature , les essais en cours et perspectives de développement .
+2. Historique
+Les techniques modernes de radiothérapie ont permis de mieux adapter la dose aux volumes en réduisant au mieux la dose aux organes à risque .
+Cet effet différentiel a permis d' améliorer significativement les résultats esthétiques sans risquer de majorer le taux de récidives locales .
+L' irradiation partielle et accélérée du sein renforce logiquement la notion de moindre morbidité en raison du volume d' irradiation réduit .
+Ainsi , les doses délivrées au coeur et aux poumons , et aux autres structures thoraciques sont plus faibles , voire nulles .
+L' irradiation partielle et accélérée du sein s' est initialement développée en Amérique du Nord .
+La durée plus courte du traitement ( et la possibilité d' instituer rapidement les traitements médicaux ) , une meilleure observance thérapeutique et l' absence de recours à la mastectomie totale ont été considérés comme des arguments importants pour légitimer l' option de l' irradiation partielle et accélérée du sein outre-Atlantique  .
+En effet , dans certains pays où l' accès à l' irradiation postopératoire est rendu impossible par l' éloignement des centres de radiothérapie , les taux de mutilations mammaires restent élevés .
+Aux États-Unis , la moitié des femmes pour lesquelles la chirurgie conservatrice est indiquée ont réellement ce traitement , et 15 % d' entre elles n' ont pas de radiothérapie postopératoire  .
+C' est devant le désir d' une conservation mammaire et l' absence d' une logistique permettant la réalisation d' une radiothérapie standard ( en cinq à sept semaines ) qu' est né le concept de l' irradiation focalisée au lit opératoire dans les suites immédiates de la chirurgie conservatrice .
+Avec des résultats encourageants à court terme quand les patientes sont bien sélectionnées , ce concept a progressivement dépassé le cadre de la logistique et de la distance .
+Le développement de l' irradiation partielle et accélérée du sein a ainsi rapidement intéressé de nombreuses équipes en utilisant différentes techniques .
+Les essais randomisés comparant l' irradiation partielle et accélérée du sein à la radiothérapie de toute la glande mammaire sur cinq semaines ont commencé en Europe et en Amérique du Nord avec un point commun : démontrer au moins une équivalence du contrôle de la maladie sans altération cosmétique ni augmentation du risque de séquelles à distance .
+3. Indications potentielles de l' irradiation partielle du sein selon les profils des patientes
+Le profil de patientes le plus adapté , voire idéal , au développement de l' irradiation partielle et accélérée du sein n' est pas encore clairement défini .
+Cependant , il est certain qu' il sera basé sur un faisceau d' arguments tenant compte des paramètres physiologiques des malades , des facteurs de risque de rechute tumorale liés à la tumeur elle-même , mais dépendant également de la qualité de la chirurgie et de la technique d' irradiation utilisée .
+Pour une sélection des patientes basée sur l' âge , le rationnel repose sur les résultats obtenus avec le tamoxifène associé ou non à l' irradiation .
+En effet , tous les anciens essais comparant l' hormonothérapie seule à son association avec la radiothérapie , chez les patientes ménopausées , ont été réalisés avec le tamoxifène .
+Avec les inhibiteurs de l' aromatase , nous ne disposons pas encore de données sur l' efficacité de l' hormonothérapie seule par_rapport_à son association avec la radiothérapie chez des patientes âgées .
+L' intérêt du tamoxifène seul sans radiothérapie , après chirurgie conservatrice chez des patientes âgées de plus de 50 ou 70 ans atteintes de tumeur localisée exprimant les récepteurs hormonaux , a été suggéré dans deux essais randomisés  .
+Ces études n' ont pas montré de différence significative en termes de survie , ni d' incidence de métastases chez les patientes traitées par tamoxifène seul par_rapport_à celles traitées par tamoxifène et irradiation .
+Dans un sous-groupe de patientes de plus de 60 ans , le taux de contrôle local était même identique pour des tumeurs de moins de 1 cm exprimant les récepteurs hormonaux  .
+Chez les patientes âgées de plus de 70 ans , les taux de rechute locale restent faibles et la quasi-totalité des décès sont liés aux maladies intercurrentes  .
+Dans ces deux essais , l' observance de la radiothérapie , l' impact de la morbidité associée et l' incidence de nouvelle morbidité induite par les traitements ( en_particulier les accidents thromboemboliques liés au tamoxifène ) n' ont pas été rapportés .
+Or , chez des patientes âgées de plus de 65 ans , l' observance de la radiothérapie délivrée selon un fractionnement classique sur cinq à six semaines diminue avec le nombre de « comorbidités » associées .
+De plus , il semblerait que la radiothérapie puisse aggraver cette morbidité chez cette catégorie de malades  pour qui l' irradiation partielle et accélérée du sein pourrait constituer une alternative thérapeutique  .
+Pour justifier l' irradiation postopératoire globale du sein , la stérilisation des microlésions dans les autres quadrants est l' un des éléments le plus largement cité .
+Cependant , quelques données dans la littérature s' opposent à cette idée reçue .
+Chez les patientes ayant reçu une irradiation de la totalité du sein , le taux de récidive dans le sein à distance du site initial est généralement de moins de 5 %  .
+À l' inverse , 65 à 90 % des récidives locales surviennent dans ou à proximité du site tumoral initial .
+Dans l' essai de Milan comparant la quadrantectomie suivie de radiothérapie à la quadrantectomie seule , les taux de récidive locale étaient identiques chez les patientes de plus de 60 ans avec un taux de récidive dans le même quadrant de 85 %  .
+Après une chirurgie moins large et un recul de plus de 146 mois , l' équipe de l' institut Curie a rapporté un taux de récidive de 386 / 2850 ( 13,5 % ) , la majorité ( 65 % ) dans le même quadrant  .
+De plus , dans certains cas , le délai de récidive locale de plus de cinq ans peut remettre en cause l' authenticité de l' origine primitive de la tumeur .
+En effet , certaines données de la littérature suggèrent qu' après cinq ans , le délai est comparable à celui de survenue du cancer controlatéral .
+Cela permettrait d' émettre l' hypothèse selon laquelle ces localisations seraient plutôt des seconds cancers .
+Cet argument associé à d' autres sont largement cités par les défenseurs de l' irradiation partielle et accélérée du sein  .
+4. Techniques d' irradiation partielle du sein en cours d' évaluation
+De nombreuses techniques d' irradiation partielle et accélérée du sein ont fait l' objet d' études de faisabilité .
+L' irradiation est réalisée pendant le même temps ou à distance de l' intervention chirurgicale conservatrice .
+4.1. Techniques peropératoires
+L' irradiation peropératoire se fait dans le même temps que la chirurgie d' exérèse .
+La totalité de la dose est délivrée en une seule fraction en utilisant différents types de rayonnements .
+La dose totale est délivrée dans le lit opératoire par un faisceau direct .
+Elle est en moyenne de 20 Gy quand il s' agit d' une irradiation partielle exclusive du sein ou de l' ordre de 10 Gy quand il s' agit d' un « boost » premier chez des patientes qui doivent recevoir secondairement une radiothérapie de la glande mammaire .
+L' électronthérapie peropératoire a été développée par l' équipe de Milan  .
+Elle permet de délivrer 21 Gy en une fraction immédiatement après quadrantectomie à l' aide d' un accélérateur linéaire mobile dédié .
+Après une étude de phase I - II ayant permis de fixer la dose à 21 Gy , l' équipe de Milan a initié en 2000 un essai randomisé comparant l' électronthérapie peropératoire à une radiothérapie de la glande mammaire en totalité de 50 Gy suivie d' un complément de 10 Gy dans le lit opératoire .
+En octobre 2005 , 876 patientes ont été inclues .
+L' essai se poursuit actuellement pour inclure plus de 1000 patientes .
+En France , l' équipe de Montpellier a rapporté récemment son expérience sur 50 patientes traitées par cette technique comme « boost » premier avant la radiothérapie mammaire en totalité  .
+Un essai de phase II à visée exclusive chez des patientes de plus de 65 ans est en cours .
+La deuxième technique , développée à Londres , utilise le même principe , mais un appareil différent  .
+L' irradiation peropératoire se fait par des rayons X de basse énergie ( 50 kV ) [ ou Targit ] ( Targeted intraoperative radiotherapy ) .
+La dose prescrite est de 5 Gy à 1 cm autour_de la cavité , ce qui équivaut à 20 Gy à la surface de l' applicateur .
+L' irradiation est délivrée par un dispositif sphérique placé pendant l' intervention chirurgicale dans la loge de tumorectomie .
+Le chirurgien réalise une « bourse » autour du dispositif pour permettre une irradiation conformationnelle du lit opératoire .
+Après une étude de phase I - II , l' équipe londonienne a initié une étude de phase III randomisée comparant la technique Targit à une irradiation classique de la totalité de la glande mammaire de 50 Gy .
+4.2. Techniques postopératoires
+Les techniques de curiethérapie et de radiothérapie externe peuvent être utilisées dans les jours ou les semaines qui suivent l' acte chirurgical .
+La curiethérapie interstitielle , utilisant un bas débit de dose ( BDD ) ou un haut débit de dose ( HDD ) , est réalisée grâce_à la mise en place de vecteurs ( aiguilles métalliques ou tubes plastiques )  .
+C' est l' une des premières techniques développées dans l' approche de l' irradiation partielle et accélérée du sein .
+La dose totale délivrée au lit opératoire dépend du débit utilisé .
+Elle est de 50 à 55 Gy avec le bas débit de dose sur cinq à six jours ( pour un débit de dose de l' ordre de 0,60 Gy / h ) contre 34 à 38 Gy en huit à dix fractions en cinq jours avec le haut débit de dose .
+La première étude , réalisée au États-Unis et ayant inclus 199 patientes , a maintenant un recul de plus de huit ans  .
+La technique d' implantation utilisée n' applique pas le système de Paris , car la cavité est laissée ouverte contrairement aux pratiques chirurgicales françaises qui remodèlent systématiquement le lit opératoire ( Fig. 1 A et B ) .
+Avec une implantation autour_de la cavité de tumorectomie laissée libre par le chirurgien , les auteurs américains rapportent des résultats cosmétiques et carcinologiques très satisfaisants  .
+Full-size image ( 46K ) Full-size image ( 30K )
+Fig. 1. ( A ) application après remodelage du lit de tumorectomie ( système de Paris ) . ( B ) coupe scanographique d' une application autour_de la cavité de tumorectomie .
+View Within Article
+À l' inverse de la curiethérapie interstitielle où plusieurs aiguilles sont implantées au niveau du lit opératoire ( système de Paris ) ou autour_de la cavité opératoire ( États-unis ) , avec le MammoSite , un seul cathéter muni d' un ballonnet est introduit dans la cavité opératoire .
+La source unique d' iridium 192 est projetée à_travers le cathéter , puis positionnée au centre du ballonnet pour délivrer en quelques minutes la dose totale à 1 cm autour_de la surface du ballonnet .
+La dose généralement délivrée à haut débit de dose est de 34 Gy en dix fractions , à_raison de deux fractions par jour , espacée de six heures .
+Parmi les avantages potentiels du dispositif MammoSite , il semblerait que la courbe d' apprentissage soit courte , ce qui permettrait à un plus grand nombre d' équipes d' accéder à ce type de traitement , contrairement à la curiethérapie interstitielle qui nécessite une certaine expérience du curiethérapeute  .
+Plusieurs mises à jour des résultats esthétiques des 43 premières patientes irradiées à l' aide du MammoSite aux États-Unis ont montré une diminution des taux de scores esthétiques bons et excellents de 88 à 80 % entre 21 et 48 mois  .
+L' épaisseur cutanée recouvrant le ballonnet ( 7 mm ) apparaît capitale pour le score esthétique et les effets tardifs ( comme les télangiectasies et la fibrose ) .
+La valeur de 7 mm a été retrouvée dans le rapport de l' expérience américaine sur 1419 patientes  .
+Dans cette étude , quels que soient les types d' implantation ( dispositif MammoSite ou curiethérapie interstitielle classique ) ou les débits utilisés , une distance de 5 à 7 mm doit séparer le dispositif de la surface cutanée pour réduire le risque de toxicité cutanée , qui doit être rigoureusement évaluée .
+En effet , l' inclusion dans l' évaluation des résultats , de patientes traitées de façon inhomogène , peut considérablement réduire les taux de bons résultats esthétiques à long terme  .
+Ce manque de rigueur dans l' évaluation d' une nouvelle procédure risque de compromettre l' avenir d' une technique innovante qui peut être parfaitement adaptée à des patientes sélectionnées  .
+L' avantage d' une implantation différée ( échoguidée par une seconde voie ou directe à_travers la cicatrice « scare entry technique » des Anglo-saxons ) serait de disposer de tous les éléments pronostiques tumoraux pour mieux sélectionner les patientes à faible risque .
+En effet , la sélection des patientes pour une irradiation partielle et accélérée du sein , quelle que soit la technique per- ou postopératoire utilisée , apparaît capitale afin_d' éviter des explantations secondaires itératives .
+Les taux de malades « disqualifiés » après implantation pour curiethérapie ( en_particulier avec le MammoSite ) ou exclus des études peuvent atteindre 30 % selon les techniques et les critères de sélection prévus  .
+Le développement de nouveaux dispositifs avec ballonnet ( de taille variable ) , munis de multiples cathéters ou utilisant des grains radioactifs , comme pour le cancer de la prostate , doit tenir compte de ces contraintes .
+Les critères histopathologiques sont parmi les plus fréquemment retrouvés pour les techniques d' implantation peropératoire , contrairement aux techniques différées utilisant la curiethérapie ou radiothérapie conformationnelle tridimensionnelle  .
+La radiothérapie conformationnelle du lit opératoire est rapportée par de nombreuses équipes américaines comme la technique la plus facilement accessible et la moins onéreuse .
+Elle est réalisée en décubitus dorsal ou ventral  par de multiples faisceaux .
+Dans une publication récente , Formenti_et_al.  ont discuté les avantages et les inconvénients de la position de traitement et les différences en termes de volumes irradiés et de doses reçues par les organes sains ( poumons , sein controlatéral , coeur , thyroïde ) .
+La radiothérapie conformationnelle du lit opératoire peut se faire par de multiples faisceaux de photons  , d' électrons ou de protons  .
+L' équipe de Boston a rapporté son expérience préliminaire sur 24 patientes traitées entre 2004 et 2005 .
+Il semblerait que la distribution de la dose soit meilleure avec les protons qu' avec les autres types de rayonnements  .
+5. Volumes irradiés et doses délivrées par la curiethérapie et la radiothérapie conformationnelle
+Les techniques d' irradiation partielle et accélérée du sein ont été très peu comparées dans la littérature .
+Weed et al. ont comparé les résultats dosimétriques de 30 patientes traitées par trois techniques différentes : la curiethérapie interstitielle , la curiethérapie par MammoSite de haut débit de dose et la radiothérapie conformationnelle  .
+Les auteurs ont analysé la dose reçue par le sein homolatéral , le volume cible prévisionnel ( PTV ) , le coeur et le poumon homolatéral par des histogrammes dose - volume. Les pourcentages de volume mammaire recevant 100 et 50 % de la dose prescrite étaient plus grands dans le groupe radiothérapie conformationnelle ( 24 et 48 % ) que dans les groupes MammoSite ( 5 et 18 % ) et curiethérapie interstitielle ( 10 et 26 % ) .
+Cependant , la couverture du volume cible prévisionnel ( % du volume cible prévisionnel recevant 100 % de la dose prescrite ) était meilleure avec la radiothérapie conformationnelle ( 100 % ) qu' avec le MammoSite ( 76 % ) et la curiethérapie interstitielle ( 58 % ) .
+De plus , les pourcentages du volume cible prévisionnel recevant 90 % de la dose prescrite étaient respectivement de 100 , 91 , et 68 % .
+Il n' y avait pas de différence significative entre le MammoSite et la radiothérapie conformationnelle pour ce critère d' évaluation .
+En revanche , le V20 ( volume recevant plus de 20 Gy ) du poumon homolatéral était de 5 % avec la radiothérapie conformationnelle contre 0 % avec les deux techniques de curiethérapie .
+D' autres paramètres , comme l' index d' homogénéité de la dose et le volume cible prévisionnel , sont susceptibles d' influencer l' incidence de toxicité cutanée .
+L' indice d' homogénéité de la dose a été décrit comme le volume traité par l' isodose de surface 100 % recevant moins de 150 % de la dose prescrite ( DHI = ( VPTV100 % - VPTV150 % ) /VPTV ) .
+La valeur moyenne de l' indice d' homogénéité de la dose rapportée pour le MammoSite est de 0,77 contre 0,93 avec la curiethérapie interstitielle , cependant la définition des volumes n' est pas toujours identique pour ces deux techniques  .
+La distribution de la dose pour le dispositif MammoSite est anisotropique dans le plan longitudinal et sous-dose d' environ 11 % le volume cible prévisionnel au niveau des régions polaires du ballonnet , ce qui peut parfois être utilisé pour « sous-doser » la peau lorsque la distance peau - ballonnet est limite  .
+Cependant , il semblerait que l' irradiation puisse être optimisée en utilisant plusieurs positionnements lors du déplacement de la source le long du cathéter .
+L' utilisation de positions d' arrêts multiples de la source peut ainsi compenser l' anisotropie .
+En curiethérapie de haut débit de dose , les doses utilisées sont généralement identiques avec le dispositif MammoSite et la curiethérapie interstitielle .
+Pour le MammoSitel à dose prescrite à 1 cm de la surface du ballonnet ( volume cible prévisionnel ) est de 34 Gy à haut débit de dose ( 10 Gy / h ) en dix fractions biquotidiennes séparées d' un intervalle minimal de six heures .
+Cette dose serait équivalente sur le plan radiobiologique à une dose totale de 45,6 Gy pour les tissus à renouvellement rapide et les tumeurs .
+La dose délivrée est élevée au niveau des tissus les plus proches de la cavité opératoire , correspondant au_risque_de récidive locale le plus important , puis décroît très rapidement afin_de protéger les tissus sains grâce_à un gradient de dose élevé .
+En prescrivant à 1 cm de la surface du ballonnet , la marge de sécurité maximale se situe aux alentours de 2 cm .
+En radiothérapie conformationnelle , la dose est généralement fixée entre 34 et 32 Gy en huit à dix fractions délivrées par de multiples faisceaux , à_raison de deux séances par jour .
+Quand une seule séance par jour est utilisée , la dose est de 30 Gy en cinq fractions de 6 Gy un jour sur deux  .
+Avec cette technique , la dose évaluée au niveau du poumon homolatéral était de 16,7 % de la dose prescrite au lit opératoire .
+Les doses reçues par les autres organes sains et le sein controlatéral sembleraient négligeables  .
+6. États des lieux et essais en cours
+Dans les Tableau 1A and Tableau 1B sont présentés les résultats rapportés dans la littérature pour les techniques de curiethérapie de haut ou bas débit de dose .
+Tableau 1A .
+Résultats des études utilisant la curiethérapie interstitielle
+Auteurs , référencesNombreSuivi ( mois ) Type de RTNombre de fractions et débit ( cGy / h ) Dose totale ( Gy ) Pourcentage de rechute localeRésultats esthétiques bon - excellents Curiethérapie interstitielle Fentinman_et_al.  2772BDD40553783 Cionini et.  9027BDD - 50 - 604,4 - King_et_al.  2675BDD 40452a75b Vicini_et_al.  12082BDD5250191 Krishnan_et_al.  2547BDD - 20 - 250100
+Clarke_et_al.  4518HDDHétérogènec20 - 368,895 Perera_et_al.  3920HDD3,72 Gy 1037,22,6a - Vicini_et_al.  7952HDD4 Gy 8321100 Polgar_et_al.  4581HDD5,2 Gy 736,46,784 4,33 Gy 730,3
+Ott_et_al.  69e24HDD4 Gy 832092 ou BDP6049,8
+Wazer_et_al.  7573HDD3,4 Gy 1034391 Kuske_et_al.  9936dHDD3,4 Gy 1034 - ou BDD 40450
+Chen_et_al.  19977HDD4 8 or 3,4 1032 - 3495 - 97 ou BDD5250 -
+Full-size table
+HDD : haut débit de dose ; BDD : bas débit de dose ; BDP : bas débit pulsé .
+a BDD / HDD série combinée .
+b Irradiation large associée .
+c Fractionnement utilisé : 10 Gy 2 , 7 Gy 4 , 6 Gy 6 fractions ; Patientes traitées avec un HDD ou un BDP .
+d Suivis pour le BDD ( n = 33 ) et le HDD ( n = 66 ) patients .
+e Deux patientes ont développé des métastases cérébrales .
+View Within Article
+Tableau 1B .
+Résultats des études utilisant le dispositif avec ballonnet ( MammoSite )
+Auteurs , référencesNombreSuivi ( mois ) Type de RTNombre de fractions et débit ( cGy / h ) Dose totale ( Gy ) Pourcentage de rechute localeRésultats esthétiques bon - excellents Curiethérapie par MammoSite HDD3,4 Gy 1034088 / 80a Keisch_et_al.  4330 / 48HDD3,4 Gy 1034090 Gittleman_et_al.  9219HDD3,4 Gy 1034093 Shah_et_al.  2811HDD3,4 Gy 1034086 Richards_et_al.  32 - HDD3,4 Gy 1034080 Dowlatshahi_et_al.  11213HDD3,4 Gy 103493 Dickler_et_al.  30 - HDD3,4 Gy 1034090 Stolier_et_al.  1912HDD3,4 Gy 1034093 Agarwal_et_al.  10016HDD3,4 Gy 1034097 Tsai_et_al.  5112HDD3,4 Gy 10340,192 - 96 Zannis_et_al.  140317HDD3,4 Gy 1034061 - 83b Evans_et_al.  3820 ( mean ) HDD2,5 Gy 3 to 57,5 - 15067 Niehoff_et_al.  2314HDD3,4 Gy 10340.893,5 Vicini_et_al.  144912HDD3 , 41030,6 - 34094 Amendola_et_al.  58HDD3,75 - 41033,7 - 40089
+Full-size table
+HDD : haut débit de dose .
+a Résultats mis à jour à 48 mois : 80 % de scores bons à excellents .
+b Selon la présence d' un seroma .
+View Within Article
+L' engouement suscité par l' irradiation partielle et accélérée du sein aux États-Unis et dans certains centres européens a conduit à une disponibilité croissante de données cliniques , avec cependant des reculs encore limités .
+La première constatation rassurante est l' absence de taux de rechute inacceptables quand la sélection des patientes est rigoureuse .
+Parmi toutes les expériences de curiethérapie rapportées dans la littérature ou dans des congrès , on relève trois études dont les taux de rechute à court terme sont inacceptables : 8,8 %  , 24 %  , et 37 %  .
+Ces taux élevés de rechute locale ont été attribués à la mauvaise sélection des patientes .
+Ces trois études sont caractérisées par une certaine hétérogénéité en termes de la qualité des berges chirurgicales qui pouvaient être positives  , proches de la tumeur  ou non précisées  .
+Les paramètres techniques étaient également critiquables du fait de l' utilisation d' un seul plan de curiethérapie ne couvrant pas la totalité du volume cible et de doses totales ( et débits ) hétérogènes ou variables selon les études  .
+Poti_et_al.  ont rapporté , chez 70 patientes traitées par des sources de cobalt 60 , un taux de rechute locale de 24 % .
+L' analyse a concerné une population de patientes hétérogènes recensées rétrospectivement dans 27 centres différents et utilisant des techniques de curiethérapie différentes .
+Il n' y a actuellement aucune étude randomisée , avec un recul suffisant , ayant comparé de manière prospective l' irradiation partielle et accélérée du sein à une irradiation mammaire standard .
+Une étude comparant une cohorte d' irradiation partielle et accélérée du sein à une série appariée a été rapportée en 2003 par Vicini_et_al.  .
+Ils ont comparé les résultats de 199 patientes traitées par curiethérapie interstitielle exclusive de haut ou bas débit de dose à une série appariée de patientes ayant eu une radiothérapie de la glande mammaire .
+Après un suivi médian de cinq et neuf ans respectivement , le taux de rechute locale était de 1 % dans les deux groupes .
+Aucune différence en termes de survie n' a été observée .
+Avec une médiane de durée de suivi de 8,6 ans , cette même équipe vient de rapporter des résultats esthétiques bons et excellents dans 99 % des cas des 199 malades après curiethérapie exclusive et des taux actuariels de rechute locale à cinq et dix ans respectivement de 1,6 et 3,8 %  .
+De nombreux essais sont en cours .
+L' un des critères communs à ces essais est la nécessité d' inclure un nombre considérable pour démontrer une équivalence entre l' irradiation partielle et accélérée du sein ( quelle que soit la technique utilisée ) et la radiothérapie mammaire classique .
+Tableau 2.
+Design et différences entre les essais en cours comparant l' irradiation partielle du sein à l' irradiation du sein en totalité standard
+CritèresTargitELIOTIMPORTRAPIDNSABP/RTOGGEC / ESTROIRMA Nombre de patientes2232200021002128300011703302 ge 4048 50 4018 40 49 Taille tumorale ( mm ) 3025 20 3030 30 30 Nombre de N+00000 à 3N+0 à 1 méta0 à 3N+ GradeI - IIII - IIII - III - IIII - IIII - IIII - III Taille des berges ( mm ) Négativea 10 2NégativeaNégativea
+2 invasif
+5 CIS
+2 Techniques
+Peropératoire
+RX 50KV
+Électron - thérapieRTC 3D + MIRTC 3DRTC 3D et CI et MMSCI à HDD et BDPRTC 3D Dose / fraction pour IPS20 Gy / 1 f21 Gy / 1 f - 38,5 Gy / 10 fRTC : 38,5 Gy / 10fHDD : 34 Gy38,5 Gy / 10 f CI et MMS : 34 Gy / 10 fBDP : 50 Gy CT autoriséeNonNonOuiOuiOuiOuiOui
+Full-size table
+RTC 3D : radiothérapie conformationnelle en 3D ; MI : modulation d' intensité ; MMS : MammoSite ; CI : curiethérapie interstitielle ; HDD : haut débit de dose ; BDP : bas débit pulsé ; IPS : irradiation partielle du sein ; CIS : carcinome in_situ .
+a La taille des berges requise pour l' inclusion est non précisée .
+View Within Article
+L' essai le plus important est l' essai NSABP-B39 / RTOG 0413 ( National Surgical Adjuvant Breast and Bowel Project ; Radiation Therapy Oncology Group ) qui a été ouvert en mars 2005 pour inclure 3000 patientes âgées de plus de 40 ans et traitées pour des lésions de moins de 30 mm sans envahissement ganglionnaire ou avec un envahissement d' un à trois ganglions .
+En juin 2006 , 1100 patientes ont été incluses et irradiées par une technique curiethérapie ou de radiothérapie conformationnelle .
+L' essai du GEC - ESTRO ( Groupe européen de curiethérapie - European Society for Therapeutic Radiology and Oncology ) est également activé .
+Il doit inclure 1170 patientes avec des critères semblables au premier , mais utilisant que la curiethérapie HDD ou à bas débit pulsé .
+Deux autres essais utilisant exclusivement la RTC 3D avec ( l' essai anglais , UK Import ) ou sans modulation d' intensité ( Rapid-OCOG ) vont également inclure plus de 2000 patientes .
+Enfin , un essai italien ( IRMA ) va randomiser entre l' irradiation standard de la totalité de la glande mammaire contre une irradiation partielle à la dose de 38,5 Gy en dix fractions , utilisant dans les deux cas une radiothérapie conformationnelle .
+Les critères et différences entre ces essais sont présentés dans le Tableau 2.
+7. Perspective
+Le concept de l' irradiation partielle et accélérée du sein pourrait à l' avenir « bousculer » le dogme de la radiothérapie systématique de la totalité du sein après chirurgie mammaire conservatrice chez toutes les patientes sans distinction .
+Cependant , elle reste pour_le_moment le standard thérapeutique étant donné l' expérience acquise largement supérieure à celle de l' irradiation partielle et accélérée du sein en terme de délai de suivi des patientes .
+Les résultats préliminaires publiés en utilisant différentes techniques d' irradiation partielle et accélérée du sein sont rassurants et incitent la poursuite de cette recherche dans le cadre d' essais randomisés .
+En attendant la publication des premiers résultats de ces grands essais ( qu' il ne faut surtout pas essayer de refaire , Tableau 2 ) la conception de futures études doit s' orienter vers une meilleure définition des profils de patientes qui doivent rapidement bénéficier de ce concept .
+Ainsi , les patientes âgées , les patientes dont la radiothérapie retardée risque de compromettre les résultats carcinologiques , les patientes ayant des « comorbidités » associées ou à haut risque de toxicité au niveau des organes sains , voire les patientes atteintes de tumeurs dont le pronostic n' est plus au contrôle local ( mais au contrôle de la maladie métastatique ) pourraient constituer à l' avenir un terrain d' investigation privilégié

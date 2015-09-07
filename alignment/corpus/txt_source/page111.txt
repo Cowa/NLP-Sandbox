@@ -1,0 +1,210 @@
+Le cancer du sein est le cancer féminin le plus répandu , il représente près_de 25 % des cancers de la femme ( Levi et al. 2002  ) .
+La rupture et le franchissement de la membrane basale font passer la tumeur d' un état de carcinome in_situ à un état de carcinome invasif .
+La conséquence la plus grave de cette extension locale réside dans son potentiel métastatique par voie lymphatique ou sanguine .
+L' invasion ganglionnaire reflète une dissémination régionale du cancer et le potentiel métastatique de la tumeur ( Hortobagyi 2002  ; Singletary et al. 2002  ) .
+Cette progression tumorale est souvent accompagnée de l' acquisition d' une résistance aux traitements chimiothérapeutiques .
+Jusqu' à_présent aucun indicateur suffisamment fiable ne permet de prévoir précocement l' évolution tumorale et la réponse à la chimiothérapie .
+Récemment , certaines études ont montré que la résistance à l' apoptose peut refléter la résistance aux traitements par chimiothérapie ( Johnstone et al. 2002  ) .
+L' apoptose est finement régulée par des voies de contrôles très conservées ; elle joue un rôle capital dans le maintient de l' homéostasie tissulaire .
+Le dérèglement de l' apoptose est impliqué dans la physiopathologie de nombreuses maladies ( chorée de Huntington , maladie d' Alzheimer , cancer ) .
+Parmi les protagonistes impliqués dans cette régulation , se trouvent les protéines pro-apoptotiques telles_que celles de la famille des caspases .
+Les caspases sont constitutivement présentes sous forme de zymogène ( pro-caspases ) et leur activation pendant l' apoptose requiert un clivage qui va donner des tétramères , formes actives des caspases .
+Cependant , des altérations ou des dérèglements des caspases peuvent entraîner une diminution de l' apoptose ( Couzinet et al. 2002  ) .
+De plus , des nouveaux variants de transcription , issus d' un épissage alternatif , avec des effets différents , voir même opposés , ont été identifiés ( Caceres et Kornblihtt 2002  ) .
+L' épissage alternatif est un mécanisme important qui permet , à_partir_d' un nombre de gènes limités , de produire une large variété de protéines .
+Ces épissages donnent lieu à des formes tronquées de la protéine principale dont le domaine actif est perdu ou endommagé ( Rochaix et al. 1999  ; Mercatante et Kole 2000  ) .
+De nombreux gènes , impliqués dans l' apoptose sont capables de donner des transcrits alternatifs tels_que BCl2 , BClx , la caspase-2 ou la caspase-3 .
+La caspase-3 joue un rôle primordial dans l' apoptose et pendant le développement .
+En effet , une grande quantité de caspase-3 est significativement associée à une forte activité apoptotique ( Hadjiloucas et al. 2001  ) .
+De plus , les souris ne possédant pas de caspase-3 montrent une diminution d' apoptose dans le cerveau et une mort prématurée ( Huang et al. 2001  ) .
+La caspase-3 est une cystéine protéase encore appelée CPP32 en raison de son poids moléculaire de 32 KDa ( Horvitz et al. 1983  ; Fernandes-Alnemri et al. 1994  ) .
+Elle est composée de deux sous-unités : p17 et p12 qui forment le complexe actif .
+Elle possède un pentapeptide ( QACRG ) très conservé et spécifique des membres de la famille des caspases ( Faleiro et Lazebnik 2000  ; Janicke et al. 1998  ; Janicke et al. 1998  ; Vakkala et al. 1999  ; Wang 2001  ) .
+Le gène de la caspase-3 est localisé sur le chromosome 4q34 et possède 2635 pb qui sont à l' origine de sept exons ( Tiso et al. 1996  ) .
+Le transcrit principal mesure 834 pb et le variant caspase-3s mesure 549 pb après épissage de l' exon 6. La délétion de l' exon 6 résulte en un décalage du cadre de lecture dans la région carboxyterminale de la séquence .
+Ce nouveau variant caspase-3s a perdu 95 acides aminés comprenant le site catalytique QACRG conduisant à une perte de sa fonction protéase et un rôle dans la résistance induite par le protéasome .
+Ainsi , le variant caspase-3s pourrait avoir une fonction antagoniste à la caspase-3 ( Huang et al. 2001  ) .
+Plusieurs études ont montré que l' activation de l' apoptose en réponse aux différentes médicaments , dont les Taxanes , le 5-fluorouracil et la doxorubicine , dépend essentiellement de la caspase-3 ( Friedrich et al. 2001  ; O' Donovan et al. 2003  ) .
+En revanche , aucune étude n' a analysé le rôle du variant caspase-3s .
+Dans le cancer du sein , ni le rôle de ce variant , ni celui du transcrit principal ne sont bien connus .
+Bien qu' une étude montre une augmentation graduelle de l' expression de la caspase-3 au_cours_de la progression tumorale mammaire ( Vakkala et al. 1999  ) , un autre travail rapporte que 75 % des tumeurs du sein analysées ont perdu l' expression de la caspase-3 ( Deravajan et al. 2002  ) .
+Dans la mesure où les informations relatives aux protéines apoptotiques , à leur régulation et à leur mode d' altération dans les cellules cancéreuses peuvent être utilisées dans de nouvelles thérapies , il paraît intéressant de préciser le rôle de ces deux transcrits dans la tumorigenèse et la chimiorésistance du cancer du sein .
+Pour cela , leur expression différentielle est analysée dans des lignées cellulaires tumorales mammaires , ainsi_que dans des lignées de diverses origines sensibles et résistantes aux médicaments ( doxorubicine , vinblastine , Taxol ou cisplatine ) .
+Parallèlement , deux groupes de tumeurs sont étudiées : une population de tumeurs sans envahissement ganglionnaires ( N- ) , considérées de bon pronostic , et une population de tumeurs localement avancées ( LA ) .
+2. Matériels et méthodes2.1 .
+Lignées cellulaires
+Les lignées cancéreuses mammaires MCF-7 , HBL-100 et UACC-3199 ont été obtenues auprès_de l' American Tissue Culture Collection ( Biovalley ) .
+Les lignées MDA-MB-231 , ZR-75-1 et SK-Br-3 ont été fournies par le laboratoire Oncodesign ( Dijon ) .
+Huit couples de lignées sensibles et résistantes aux médicaments sont également analysés .
+Les cellules sont cultivées dans du milieu EMEM ( Biowhittaker ) additionné de 1 % de L-Glutamine ( Biowhittaker ) et de 10 % de sérum de veau foetal ( Gibco-BRL ) à 37 C en atmosphère humide contenant 5 % de dioxyde de carbone .
+Tableau 1.
+Caractéristiques des lignées tumorales sensibles et résistantes aux médicaments
+LignéesOriginesMédicaments IGROVOvarienneCisplatine MCF-7MammaireDoxorubicine HL-60LeucémiqueDoxorubicine RPMILeucémiqueDoxorubucine K562LeucémiqueDoxorubicine A549PulmonaireTaxol CEMLeucémiqueVinblastine KBCervicaleVinblastine
+Full-size table
+View Within Article
+2.2. Échantillons analysés
+Une population de 40 tumeurs sans envahissement ganglionnaire ( N- ) et une population de 97 tumeurs du sein localement avancées ( LA ) et traitées par chimiothérapie première à base d' anthracyclines sont analysées .
+Des prélèvements avant et après traitement ainsi_que des tissus sains adjacents correspondants ont été obtenus pour les cas LA .
+Les données cliniques des patientes sont résumées dans le Tableau 2 .
+La réponse clinique des patientes porteuses de tumeur LA est évaluée selon la classification de l' Organisation mondiale de la santé .
+Les bonnes répondeuses présentent une réduction tumorale supérieure à 50 % ( réponse complète ou partielle ) et non répondeuses présentent une réduction tumorale inférieure à 50 % ( stabilisation ou progression tumorale ) .
+Tableau 2.
+Données cliniques des patientes étudiées
+CaractéristiquesN- ( 40 ) LA ( 97 ) ge moyen ( ans ) 60 ( 30 - 87 ans ) 53 ( 29 - 75 ans ) Taille T121 T22226 T3937 T4333 Grade I105 II2043 III541 Non déterminé58 Statut des récepteurs RE+3653 RE - 444 RP+2847 RP - 1250 Évolution Favorable2750 Défavorable947 Mutation gène p53317
+Full-size table
+N- : tumeurs sans envahissement ganglionnaire ; LA : tumeurs localement avancées ; Grade : déterminé selon la classification de Scarff , Bloom et Richardson reflétant l' état d' avancement de la tumeur .
+Statut des récepteurs hormonaux cytosoliques mesurés par méthode immunoenzymatique
+View Within Article
+2.3. Extraction de l' ARN total
+Les prélèvements tissulaires sont stockés dans l' azote liquide jusqu' à extraction de leur ARN .
+Les ARN sont extraits selon la technique décrite précédemment ( Arnal et al. , 2000  ) .
+Les ARN sont ensuite repris dans de l' eau RNase free stérile ( Promega ) et stockés à - 80 C.
+2.4. Contrôle qualitatif et quantitatif des ARN
+Le contrôle qualitatif est réalisé par électrophorèse sur gel d' agarose ( Q Biogene ) 0,8 % non dénaturant imprégné de bromure d' éthidium ( Interchim ) .
+Les ARN sont visualisés sous rayons ultraviolets dans un analyseur d' image ( Gel Doc , Biorad ) .
+La qualité d' un ARN se traduit par la présence des trois sous-unités ribosomiques 28S , 18S et 5S avec , respectivement , des intensités dégressives .
+Le contrôle quantitatif s' effectue par spectrométrie ( S.750 Secomam ) .
+2.5. Contrôle de la transcription inverse par PCR quantitative
+La réaction de transcription inverse ( RT : pour reverse transcription ) est réalisée à_partir_d' un g d' ARN comme décrit précédemment ( Arnal et al. , 2000  ) .
+L' efficacité de la RT est contrôlée par PCR quantitative en temps réel , grâce_à la chimie TaqMan sur ABI PRISM 7700 ( Applied Biosystems ) .
+L' intégrité des ADNc formés est contrôlée par leur quantification avec le gène témoin 18S .
+Le programme d' amplification étant standard ( 10 minutes d' activation de l' enzyme à 95 C suivies par 40 cycles de 15 secondes de dénaturation à 95 C et 1 minute d' hybridation - élongation à 60 C ) , les amorces et la sonde sont choisies grâce au logiciel Primer Express fourni avec l' appareil .
+L' amorce sens est 5CGG CTA CCA CAT CCA AGG AA-3 , l' amorce antisens est 5GCT GGA ATT ACC GCG GCT3 et la sonde est 5Vic-TGC TGG CAC CAG ACT TGC CCT C-Tamra-3 .
+Selon les tests effectués de reproductibilités , un ADNc est considéré de bonne qualité lorsque sa valeur de Ct ( threshold cycle ) du gène 18S est inférieure à 12. Dans le cas contraire , une nouvelle RT , ou une nouvelle extraction d' ARN sont réalisées .
+2.6. Amplification par PCR semi-quantitative
+Les amorces utilisées pour l' amplification de la caspase-3 sont localisées au niveau des exons 5 et 7 et vont permettre la synthèse des transcrits de la caspase-3 et de la caspase-3s .
+La -actine est utilisée comme standard interne de référence .
+Les séquences des amorces sens et anti-sens de la caspase-3 sont les suivantes : 5AAT GAC ATC TCG GTC TGG TAC AGA 3 et 5 CCC GGG TAA GAA TGT GCA TAA 3. Pour la -actine les amorces sens et anti-sens sont : 5 GAG CGG GAA ATC GTG CGT GAC ATT 3 et 5GAT GGA GTT GAA GGT AGT TTC GTG 3.
+Full-size image ( 29K )
+Fig. 1. Droites de régression de la PCR réalisées dans le même tube de caspase-3 et de -actine .
+Les coefficients de corrélation ( r2 ) sont respectivement de 97,43 % pour la caspase-3 , 93,92 % pour la caspase-3s et de 97,94 % pour la -actine .
+View Within Article
+Le mélange réactionnel , d' un volume de 25 l , est composé d' 1 l d' ADNc , 2 mM de MgC12 , 250 M de dNTPs , 0,03 U d' AmpliTaq Gold Polymerase ( Applied Biosystems ) , 1 M des amorces de capsase-3 et 25 nM pour la -actine .
+Les conditions d' amplification sont : dix minutes à 94 C , 35 cycles : 1 minute à 95 C , 1 minute à 50 C et 2 minutes à 72 C et finalement 1 cycle d' élongation finale pendant 5 minutes à 72 C. Chaque PCR est réalisée en présence d' un témoin négatif de PCR ne contenant pas d' ADNc , la MCF-7 comme témoin négatif de l' expression de caspase-3 ( mutation dans l' exon 3 du gène ) et le TMN comme témoin positif de l' expression de caspase-3 .
+Les produits PCR sont analysés sur gel d' agarose 2 % sous ultraviolets et la quantification est effectuée grâce_à l' analyseur d' image Gel Doc 1000 ( Biorad ) .
+2.7. Séquençage des produits PCR
+La spécificité de la PCR est vérifiée par séquençage des produits PCR en utilisant des « Dye Terminators » ( Abi Prism BygDye Terminator Cycle Sequencing Ready Reaction Kit ) selon les recommandations du fournisseur dans un séquenceur ( Applied Biosystems , ABI PRISM 310 ) .
+Le séquençage du gène p53 est effectuée par la même méthode décrite précédemment ( Lizard-Nacol et al. 1999  ) .
+2.8. Analyse statistique
+L' analyse des résultats est réalisée avec le Logiciel StatView , Version 5,0 .
+Les variations d' expression entre deux prélèvements , de la même lignée ou d' une même patiente , sont analysées avec le test apparié de Wilcoxon .
+La comparaison des niveaux d' expression de chaque transcrit ( variables numériques ) avec les données cliniques est réalisée avec le test U de Mann et Whitney .
+Enfin , la recherche de corrélations entre des variables non-numériques ( en utilisant un seuil d' expression ) est effectuée par le test de comparaison de fréquence 2. Les résultats statistiques sont considérés comme significatifs lorsque la valeur p est inférieure à 0,05 .
+3. Résultats3.1 .
+Validation de la méthode de quantification
+Des mises au point sont effectuées sur le TMN en testant différentes concentrations de MgCl2 , d' amorces et d' ADNc .
+Afin de valider les conditions retenues , des courbes de régression de PCR réalisées dans le même tube du gène cible ( caspase-3 ) et du gène témoin ( -actine ) sont étudiées .
+Le coefficient de corrélation ( r2 ) est de 97,43 % pour la caspase-3 , de 93,92 % pour la caspase-3s et de 97,94 % pour la -actine .
+Full-size image ( 19K )
+Fig. 2. Position du couple d' amorces utilisées pour l' amplification par PCR des deux transcrits : la caspase-3 et son transcrit alternatif , la caspase-3s .
+L' amorce sens est localisée au niveau de l' exon 5 et l' amorce anti-sens est située sur l' exon 7. Ce couple d' amorces permet la synthèse de fragments de 550 et 429 pb correspondant respectivement aux transcrits de la caspase-3 et de la caspase-3s .
+View Within Article
+Le taux d' expression des caspases est donc rapporté à celui de la -actine pour chaque PCR .
+Les reproductibilités intra-PCR ( n = 5 ) et inter-PCR ( n = 5 ) sont respectivement de 4,19 % ( moyenne deviation standard = 3,52 0,20 ) et 4,15 % ( moyenne = 3,46 = 0,20 ) .
+La moyenne d' expression de la caspase-3 ( 3,42 ) et de la caspase-3s ( 0,13 ) dans le TMN est utilisée comme seuil de positivité pour le test de 2.
+3.2. Expression des caspase-3 dans les lignées cellulaires cancéreuses
+Afin de vérifier la présence des deux transcrits dans les lignées tumorales mammaires , cinq lignées ( ZR-75-1 , SK-Br-3 , HBL-100 , UACC-3199 et MDA-MB-231 ) sont analysées .
+La lignée MCF-7 connue pour sa mutation de caspase-3 est aussi analysée .
+Le taux d' expression des deux transcrits est ensuite comparé à celui détecté dans le TMN .
+Les résultats confirment que la caspase-3 est très peu exprimée dans la MCF-7 ( 2,7 fois moins que dans le TMN ) et montrent que la caspase-3s est absente .
+Dans les autres lignées , et à_l'_exception_de la UACC-3199 , une diminution de 1 à 1,7 fois de l' expression de la caspase-3 est observée par rapport au TMN .
+En revanche , une augmentation du transcrit caspase-3s est détectée dans trois des cinq lignées analysées .
+En effet , l' expression de la caspase-3s est multipliée par deux dans la lignée SK-Br-3 , par 2,3 dans la HBL-100 et par trois dans UACC-3199 .
+Full-size image ( 23K )
+Fig. 3. Niveaux d' expression de la caspase-3 et de la caspase-3s dans les lignées tumorales mammaires .
+Le taux d' expression des caspases est rapporté à celui de la -actine .
+La lignée MCF-7 , connue pour sa mutation de caspase-3 , est utilisée comme témoin négatif .
+Le taux d' expression des deux transcrits est comparé à celui détecté dans le TMN ( tissu mammaire normale ) , considéré comme témoin positif .
+Trois ( SK-Br-3 , HBL-100 et UACC3199 ) des cinq lignées examinées montrent un taux d' expression de caspase-3s plus élevé par rapport au TMN .
+View Within Article
+Dans les lignées KB , CEM et A549 résistantes aux médicament qui ont pour cible les microtubules ( vinblastine et Taxol ) , une induction de l' expression de la caspase-3 par rapport aux lignées parentales est observée ( 1,4 , 1,9 et 3,9X respectivement ) .
+Cependant , les lignées K562 , HL60 et RPMI résistantes à la doxorubicine , ainsi_que la lignée IGROV résistante au cisplatin ne montrent pas de différences notables .
+En revanche , une diminution presque de_moitié du transcrit caspase-3s est détectée dans les trois lignées résistantes à la doxorubicine , alors_que son expression reste variable pour les autres lignées ( résultats non illustrés ) .
+D' une façon générale , le ratio caspase-3s / caspase-3 diminue significativement ( p = 0,0277 ) dans toutes les lignées résistantes aux drogues anti-fusoriaux ( vinblastine et Taxol ) et à la doxorubicine .
+Full-size image ( 35K )
+Fig. 4. Ratio caspase-3s / caspase-3 dans les lignées sensibles et résistantes à la vinblastine ( KB et CEM ) , au Taxol ( A549 ) , à la doxorubicine ( K562 , HL60 et RPMI ) et au cisplatin ( IGROV ) .
+Une diminution importante du ratio est observée dans les lignées traitées par les antifusoriaux ( vinblastine et taxol ) , ainsi_que par la doxorubicine ( p = 0,0277 , test apparié de Wilcoxon ) .
+View Within Article
+3.3. Expression des caspase-3 dans les tumeurs du sein
+Toutes les tumeurs N- analysées expriment les deux transcrits .
+La valeur médiane de l' expression de la caspase-3 est de 3,28 ( max = 6,10 - min = 1,15 ) et celle de la caspase-3s de 0,18 ( 0,76 - 0,03 ) .
+Les corrélations entre l' expression des deux transcrits et les données cliniques montrent des relations positives seulement entre la caspase-3 et l' âge ( p = 0,0077 , test U de Mann et Whitney ) , ainsi_qu' entre l' expression des deux transcrits ( p 0,0001 , test apparié de Wilcoxon ) et la taille tumorale .
+Full-size image ( 18K )
+Fig. 5. Exemple illustrant la présence des deux transcrits , caspase-3 et caspase-3s , dans les tumeurs du sein sans envahissement ganglionnaire ( N- ) .
+La migration des produits de PCR a eu lieu sur gel d' agarose 2 % en présence d' un marqueur de taille ( PM ) .
+T : témoin négatif de PCR contenant tous les réactifs sauf l' ADNc , T+ : témoin positif de l' expression des caspases correspondant au TMN .
+Les puits un à quatre appartiennent aux tumeurs de quatre patientes différentes .
+Le fragment issu de la PCR pour la caspase-3 possède une taille de 550 pb , celui pour la caspase-3s a une taille de 429 pb et le fragment correspondant à la -actine est à 231 pb .
+View Within Article
+Tableau 3.
+Corrélations entre l' expression de la caspase-3 , la caspase-3s et les données cliniques des patientes atteintes de cancer de sein sans envahissement ganglionnaire ( N- )
+ParamètresTumeurs N- ( n = 40 ) Caspase-3pCaspase-3sp ge ( ans ) 504,24 1,360,00770,19 0,130,85 503,59 1,580,18 0,11 Grade histologique SBR 1 + 23,86 1,320,920,17 0,130,11 SBR 33,44 2,060,23 0,11 Récepteurs hormonaux ER - 2,89 0,310,260,17 0,120,84 ER+3,87 1,480,19 0,13 PR - 3,15 1,330,080,19 0,130,8 PR+4,07 1,420,18 0,12 Taille T25,29 ( 4,43 - 5,79 ) 0,0001a0,17 ( 0,02 - 0,24 ) 0,0001a T33,79 ( 1,15 - 6,10 ) 0,18 ( 0,03 - 0,64 ) T42,86 ( 2,53 - 3,32 ) 0,20 ( 0,04 - 0,47 ) Décès Oui4,68 1,360,130,21 0,220,64 Non3,61 1,410,18 0,10 Récidive Oui4,32 1,270,230,2 0,180,73 Non3,61 1,470,18 0,10 Gène p53 Normal3,78 1,460,930,19 0,130,06 Muté3,85 1,560,09 0,05
+Full-size table
+Les relations sont recherchées par le test de U Mann et Whitney pour tous les paramètres .
+Les valeurs indiquent la moyenne déviation standard .
+a Le test apparié de Wilcoxon est utilisé .
+Les valeurs correspondent à la médiane ( maximale-minimale ) .
+View Within Article
+Dans le groupe des tumeurs LA avant traitement , l' expression des transcrits a pu être analysée dans 92 cas ( sur 97 ) avec une patiente présentant un cancer bilatéral et dont les mesures sont effectuées dans les deux lésions .
+La caspase-3 est détectée dans toutes les tumeurs analysées et la médiane d' expression est de 3,55 ( 5,85 - 1,57 ) , tandis_que 78 tumeurs ( 84 % ) expriment la caspase-3s avec une médiane de 0,11 ( 0,44 - 0 ) .
+Les tissus sains avant traitement ( 49 cas ) expriment tous la caspase-3 avec une médiane de 3,25 ( 5,40 - 1,30 ) , mais seulement 38 ( 70 % ) expriment la caspase-3s ( médiane = 0,10 : 0,81 - 0 ) .
+Les 83 tumeurs analysées après traitement expriment toutes la caspase-3 ( 100 % , médiane = 3,38 : 5,80 - 1,25 ) , tandis_que seulement 68 d' entre elles ( 82 % ) expriment la caspase-3s ( médiane = 0,19 : 0,67 - 0 ) .
+Parmi les 53 tissus sains après traitement , 52 ( 98 % ) expriment la caspase-3 ( médiane = 3,51 : 5,45 - 0 ) et 39 ( 73 % ) expriment la caspase-3s ( médiane = 0,06 : 0,30 - 0 ) .
+Les analyses statistiques appariées montrent avant traitement une expression de caspase-3 significativement plus élevée dans les tumeurs que dans les tissus sains ( p = 0,0097 , test apparié de Wilcoxon ) .
+L' expression de la caspase-3s est significativement plus élevée dans les tumeurs avant traitement que dans les tissus sains après traitement ( p = 0,0052 ) .
+Après traitement , l' expression de la caspase-3s par les tumeurs est significativement plus importante que celle des tissus sains correspondants ( p = 0,0102 ) .
+Full-size image ( 36K )
+Fig. 6. Comparaison de l' expression de la caspase-3 et de la caspase-3s entre les tumeurs du sein sans envahissement ganglionnaire ( N - ) et les tumeurs localement avancées ( LA ) .
+L' expression de la Caspase-3s est significativement plus importante dans les tumeurs N - que dans les tumeurs LA ( p 0,0001 , test t de Student ) .
+View Within Article
+Par ailleurs , les analyses comparatives entre les tumeurs N- et LA ont permis d' observer que l' expression de la caspase-3 s est significativement plus importante dans les tumeurs N- que dans les tumeurs LA ( p 0,0001 , test t de Student ) .
+Ces analyses indiquent également que , dans chaque population , une forte expression de la caspase-3 s' accompagne d' une faible expression de la Caspase-3s et inversement ( p 0,0001 , test apparié de Wilcoxon ) .
+Full-size image ( 39K )
+Fig. 7. Expression de la caspase-3 et la caspase-3s dans les tumeurs localement avancées ( LA ) analysées avant ( Tav ) et après ( Tap ) chimiothérapie , ainsi_que dans les tissus sain correspondant ( Sav et Sap ) .
+Les comparaison statistiquement significatives indiquées sont obtenues par le test apparié de Wilcoxon .
+View Within Article
+Les corrélations entre l' expression des deux transcrits et les données cliniques montrent des relations positives entre les deux transcrits d'_une_part , la taille tumorale ( p 0,0001 , test de Wilcoxon ) et la réponse clinique à la chimiothérapie d' autre_part .
+D' une façon intéressante , les patientes possédant un fort taux de caspase-3 ( p = 0,006 , test de 2 ) ou un faible taux de caspase-3s ( p = 0,0258 ) répondent plus favorablement au traitement .
+Tableau 4.
+Corrélations entre l' expression de la caspase-3 , la caspase-3s et les données cliniques des patientes atteintes de cancer localement avancé ( LA )
+ParamètresTumeurs localement avancées ( n = 93 ) Caspase-3pCaspase-3sp ge ( années ) 503,57 0,880,73820,12 0,090,76 503,56 0,880,10 0,11 Grade histologique SBR 1 + 23,54 0,770,850,11 0,10,89 SBR 33,58 10,10 0,1 Récepteurs hormonaux ER - 3,54 0,96
+0,49
+0,096
+0,1 0,100,66 ER+3,56 0,820,1 0,10 PR - 3,45 0,920,1 0,090,75 PR+3,63 0,810,1 0,11 Taille T23,56 ( 2,39 - 5,01 ) 0,0001a0,14 ( 0 - 0,43 ) 0,0001a T33,61 ( 1,57 - 5,58 ) 0,12 ( 0 - 0,29 ) T43,70 ( 1,77 - 5,55 ) 0,13 ( 0 - 0,44 ) Réponse clinique Positive0,490,006b0,210,0258b Négative0,140,12 Décès Oui3,52 1,360,430,13 0,110,56 Non3,65 0,990,12 0,09 Récidive Oui3,57 1,370,780,13 0,110,47 Non3,63 0,840,12 0,09 Gène p53 Normal3,7 1,160,0970,12 0,110,55 Muté3,2 1,110,1 0,078
+Full-size table
+Les relations sont recherchées par le test de U Mann et Whitney pour tous les paramètres .
+Les valeurs indiquent la moyenne déviation standard .
+a Le test apparié de Wilcoxon est utilisé .
+Les valeurs correspondent à la médiane ( maximale - minimale ) .
+b Le test de 2 est utilisé .
+Les valeurs correspondent aux fréquences obtenues .
+View Within Article
+4. Discussion
+Il est maintenant reconnu que l' apoptose contribue à l' action cytotoxique de la_plupart des médicaments de chimiothérapie ( Nicholson 2000  ; Ferreira et al. 2002  ; Parton et al. 2002  ) .
+Ainsi , la compréhension des liens moléculaires entre la tumorigenèse , l' apoptose et la résistance aux médicaments donne lieu à de nouvelles stratégies pour combattre le cancer ( Ségal-Bendirdjian et al. 2003  ) .
+Dans cette étude , nous avons analysé les niveaux d' expression des différents transcrits alternatifs de la caspase-3 dans des lignées tumorales mammaires .
+Nous avons également comparé l' expression des deux transcrits caspase-3 et caspase-3s dans des tumeurs de sein de bon pronostic et dans des tumeurs localement avancées avant et après traitement à base d' anthracyclines .
+Nos résultats montrent une diminution du niveau d' expression de la caspase-3 et une augmentation de l' expression du variant caspase-3s dans les lignées cancéreuses mammaires par rapport au TMN .
+Ces résultats suggèrent que l' augmentation du transcrit caspase-3s pourrait être le reflet d' une activité anti-apoptotique plus importante dans les lignées tumorales .
+Ce fait semble confirmer l' hypothèse de Huang_et_al.  concernant le rôle antiapoptotique du variant caspase-3s .
+Quant à l' implication de la caspase-3 dans la résistance aux médicaments de chimiothérapie , la comparaison des lignées sensibles et résistantes aux médicaments antifusoriaux ( vinblastine et Taxol ) montre une induction de l' expression de caspase-3 .
+En revanche , son expression ne diffère pas dans les lignées résistantes à la doxorubicine qui montrent toutes une réduction de l' expression du transcrit caspase-3s .
+Des études récentes ( Caceres et Kornblihtt 2002  ) indiquent que le ratio entre les transcrits alternatifs d' un même gène aurait une importance biologique supérieure à l' expression individuelle de chacun d' entre eux .
+Nos résultats montrent que le ratio caspase-3s / caspase-3 diminue significativement dans toutes les lignées résistantes aux anti-fusoriaux ( vinblastine et Taxol ) et à la doxorubicine .
+Ces résultats laissent supposer que la diminution de l' expression de la caspase-3s serait liée à une activité apoptotique induite par les médicaments qui se traduirait par une augmentation de la caspase-3 dans la majorité des lignées analysées .
+Ces résultats plaident donc en faveur d' une activité apoptotique opposée entre les deux transcrits .
+La diminution du ratio caspase-3s / caspase-3 dans les lignées résistantes suggèrent également l' importance de ces transcrits dans la résistance aux moins aux médicaments analysées dans cette étude .
+Notre étude de l' expression de la caspase-3 par RT-PCR a permis d' observer que toutes les tumeurs du sein expriment la caspase-3 , que toutes les tumeurs N- expriment la caspase-3s alors_que seules 84 % des tumeurs localement avancées possèdent ce transcrit .
+Ces résultats sont donc en contradiction avec ceux de l' étude décrivant l' absence d' expression de la caspase-3 dans 75 % des tumeurs du sein étudiées également par RT-PCR ( Devarajan et al. 2002  ) .
+En revanche , aucune étude ne permet de comparer nos résultats d' expression de caspase-3s .
+De plus , notre étude ne montre aucune différence de niveau d' expression de la caspase-3 entre les tumeurs N- et LA. , alors_que les tumeurs LA expriment significativement moins la caspase-3s .
+Ce fait suggère que la caspase-3s pourrait avoir une implication dans la progression tumorale mammaire .
+Une augmentation graduelle de caspase-3 au_cours_de la progression tumorale mammaire a déjà été décrite ( Vakkala et al. 1999  ) .
+Les analyses statistiques appariées entre les différents tissus montrent que chez un sujet donné , avant traitement , la tumeur exprime plus la caspase-3 que le tissu sain adjacent .
+En revanche , le traitement ne semble pas faire varier significativement le niveau d' expression basale des deux transcrits dans les tissus tumoraux .
+Cependant , dans les deux populations étudiées , une forte expression de caspase-3 s' accompagne d' une faible expression de caspase-3s et inversement .
+Ce phénomène semble indiquer que les deux transcrits subissent une régulation inverse , ce qui confirmerait leurs actions antagonistes .
+Par ailleurs , il est intéressant de souligner le lien entre les caspase-3 et la réponse clinique à la chimiothérapie .
+En effet , les patientes répondant le plus favorablement au traitement sont celles qui présentent un plus fort taux de caspase-3 et / ou un plus faible taux de caspase-3s .
+Ces résultats leur conféreraient donc un rôle prédictif de la réponse aux traitements par la doxorubicine , médicament souvent utilisée dans le traitement du cancer du sein .
+Afin de confirmer cette hypothèse des analyses uni- et multivariées de survies sont en cours de réalisation

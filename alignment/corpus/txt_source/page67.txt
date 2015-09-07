@@ -1,0 +1,42 @@
+Pour la stadification des cancers du sein , la TEP au FDG est actuellement toujours considérée dans le SOR comme une option , alors_que l' AMM cite explicitement cette indication en la réservant aux cancers localement avancés .
+Notre expérience confirme tout_à_fait l' impact de la TEP dans ce contexte de cancer localement avancé ( où l' on prescrit habituellement la scintigraphie du squelette ) , nous y ajouterons l' augmentation de la concentration sérique du CA15.3 et la tumeur localisée dans les quadrants internes .
+En effet , Tran  a constaté , en comparant 42 patientes avec une tumeur primitive d' un quadrant interne à 99 patientes avec une tumeur primitive d' un quadrant externe , la présence en TEP au FDG d' une métastase extra-axillaire dans 62 % des cas de tumeur d' un quadrant interne contre 10 % pour les tumeurs des quadrants externes , la fréquence de progression de la maladie à trois ans étant de 26 et 13 % respectivement .
+Dans la série certes limitée de Landheer  incluant 17 patientes adressées pour stadification , la TEP a décelé dans deux cas des métastases non visibles par les examens conventionnels ( radiographie thoracique , échographie abdominale et scintigraphie osseuse ) , avec une modification de la prise en charge .
+Wahl  a publié les résultats d' une importante étude prospective incluant 308 cas évaluables de cancer du sein invasif , lors_de la stadification initiale .
+La tumeur primitive n' était pas de très grande taille ( médiane 15 mm ) ; 12 % des patientes avaient des adénopathies axillaires à l' examen clinique contre 35 % à l' histologie , avec un apport non négligeable de la TEP au FDG dont la sensibilité était de 61 % et la spécificité de 80 % pour leur identification préopératoire .
+De plus la TEP au FDG permet de déceler , chez sept des 28 patientes avec cancer du sein localement avancé de l' étude de Bellon  , l' invasion ( macroscopique ) de la chaîne mammaire interne qui n' était visible radiologiquement dans aucun cas .
+Cette invasion s' associe à une fréquente dissémination pulmonaire et à un moins bon pronostic .
+Ces données ne sont pas contradictoires avec le standard rappelant que cette méthode d' imagerie in_vivo n' est pas adaptée à la recherche d' envahissement microscopique , réalisable grâce_à l' analyse du ganglion sentinelle en cas de petite tumeur cliniquement N0 .
+Elles renforcent l' intérêt de la TEP - TDM comme examen standard dans la stadification des cancers du sein localement avancés pour simplifier et raccourcir la liste des examens , les foyers inattendus devant être confirmés .
+Full-size image ( 71K )
+Fig. 1. Patiente de 32 ans explorée pour un cancer localement avancé du sein gauche avec un ganglion axillaire palpable .
+La TEP - TDM au FDG visualise la tumeur mammaire gauche , un foyer axillaire gauche en faveur d' une extension ganglionnaire et un foyer en faveur d' une métastase osseuse , correspondant à une zone ostéolytique sur l' image TDM .
+View Within Article
+En cas de suspicion de récidive locale ou métastatique , une autre indication explicite de l' AMM , nous conseillons la TEP - TDM au FDG de manière standard , car son approche à_la_fois fonctionnelle et métabolique permet de conclure dans un grand nombre de cas , épargnant les multiples investigations habituellement pratiquées dans le cadre de la récidive occulte ( notre étude sur laquelle est fondée cette stratégie a été analysée dans le SOR ) .
+2. Cancer de l' ovaire
+L' option actuelle est que « l' examen TEP - FDG peut être proposé en cas de suspicion de récidives locales ou métastatiques en sachant que la maladie péritonéale microscopique peut être source de faux-négatifs » .
+Dans ce difficile problème de la récidive sous forme de carcinose , Suzuki  a montré l' apport de la TEP chez 35 patientes dont neuf avec un cancer de l' ovaire , six avec un cancer de l' endomètre et six avec un cancer du col utérin .
+Associée à la TDM , la TEP avait une sensibilité de 67 contre 22 % pour la TDM seule et une spécificité de 94 contre 77 % .
+Un impact diagnostique de la TEP a été observé dans 40 % des cas avec une modification thérapeutique dans 14 % des cas .
+Dans le cadre plus large de la récidive , Ruiz-Hernandez  a rapporté , dans une série de 33 patientes , un changement thérapeutique intermodalité dans 63 % des cas et intramodalité dans 7 % des cas .
+Sur un effectif analogue , Picchio  rapporte une modification grâce_à la TEP - TDM dans 44 % des cas avec une réduction notable des attitudes de surveillance attentive .
+Au total , un tel impact confirme l' entrée récente de la détection de la récidive du cancer de l' ovaire dans la liste des indications les plus documentées de l' AMM européenne du FDG .
+3. Cancer du col utérin
+La TEP au FDG est considérée comme une option dans la recherche d' extension ganglionnaire .
+L' étude récente de Sironi  en TEP - TDM le confirme chez 47 patientes avec une tumeur de stade clinique précoce , Ia ou Ib .
+Si l' on se cantonne aux ganglions métastatiques de plus de 5 mm , la TEP - TDM a , au niveau lésion , une sensibilité de 100 % et une spécificité de 99,6 % .
+Deux autres études amènent cependant à privilégier la TEP au FDG pour la détection des métastases ganglionnaires dans les formes les plus avancées de ce cancer , à un stade supérieur à IIa .
+Dans l' étude prospective de Chou  comprenant 60 patientes de stade Ia2 à IIa avec des tumeurs cervicales de moins de 4 cm sans adénomégalie visualisée en IRM , la sensibilité de détection des métastases ganglionnaires était , par patiente , de 10 % ( 1 / 10 ) .
+En revanche , la visualisation chez une patiente d' un foyer para-aortique sans foyer ganglionnaire pelvien a fait compléter le curage pelvien par un curage lombo-aortique qui a permis de retrouver une métastase ganglionnaire de 5 2 mm .
+Dans l' étude de Wright  , sur 59 patientes atteintes de cancer de stade IIa , la sensibilité de la TEP au FDG pour la détection des métastases ganglionnaires était de 53 % dans le pelvis et de 25 % en para-aortique .
+Curieusement , le SOR ne cote pas la détection des métastases à distance , alors_que l' étude de Yen en 2003 sur 135 patientes y est mentionnée , avec une sensibilité de la TEP de 93 contre 71 % pour l' IRM dans cette indication et une modification de l' attitude thérapeutique dans 21 % des cas .
+L' invasion des ganglions sus-claviculaires est souvent sous-estimée .
+Dans l' étude de Tran  , parmi 186 patientes avec un cancer primitif du col utérin sans adénopathie palpable dans la région sus-claviculaire , la TEP au FDG a décelé 14 foyers sus-claviculaires correspondant dans tous les cas à des métastases prouvées histologiquement , chez 40 % des patientes avec des fixations para-aortiques , 4 % des patientes de stade Ib2 et IIb , 15 % des patientes de stade IIIb et 43 % des patientes de stade IVb .
+L' option nouvellement introduite correspond à la restadification d' une récidive « avérée » .
+Or l' étude de Chang chez 27 patientes  montre que la TEP au FDG est également utile en cas de récidive occulte : élévation de la concentration sérique du SCC avec examens cliniques et radiologiques normaux .
+La sensibilité de détection était de 94 % et la spécificité de 78 % .
+Après traitement , la survie médiane de ces patientes depuis la découverte de la récidive biologique était de 22 mois , significativement supérieure aux 12,7 mois d' un groupe de patientes suivies pour une augmentation de la concentration sérique du SCC et prises en charge sans la TEP au FDG .
+4. Conclusion
+Le terme option a l' avantage qu' il laisse ouverte la décision d' inclure la TEP - TDM au FDG dans sa stratégie diagnostique .
+Considéré les études récentes et à venir , gageons que cette option deviendra vite une pratique standard dans la stadification d' un cancer du sein localement avancé , en cas de suspicion de récidive du cancer du sein ( où le niveau de preuve est le plus élevé possible ) , en cas de récidive de cancer de l' ovaire démontrée ( restadification ) ou suspectée ( récidive occulte ) , pour la stadification d' un cancer du col utérin ( extension ganglionnaire ou à distance ) , et en cas de récidive de cancer du col utérin démontrée ( restadification ) ou suspectée ( récidive occulte ) .
+La lecture de cette mise à jour des SOR TEP-FDG devrait être profitable , et le dialogue avec le médecin nucléaire fructueux , puisque la technique TEP est maintenant disponible dans toute la France

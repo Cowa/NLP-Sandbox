@@ -1,0 +1,111 @@
+Le système lymphatique du sein a été décrit initialement par Sappey en 1843 en effectuant des injections d' un produit lymphophile dans le parenchyme mammaire .
+À l' issue de ses travaux , il conclut que l' ensemble des canaux lymphatiques du sein se dirige de façon centripète vers un plexus sous-aréolaire du sein .
+Un ou 2 canaux lymphatiques de plus gros diamètre se dirigent depuis cette région péri-aréolaire vers 1 ou 2 ganglions de la base du creux de l' aisselle .
+Des études plus récentes ont remis en questions les résultats de l' anatomiste français .
+En effet , Tanis et al. ont montré que le drainage lymphatique du sein s' effectuait directement dans le creux axillaire sans rejoindre ce plexus péri-aréolaire  .
+2. Le concept de ganglion sentinelle
+Le concept de GS a été introduit par Cabanas en 1977 lorsqu' il identifiait le premier relais lymphatique dans le cancer de la verge  .
+Il supposait dès_lors que si ce ganglion était indemne de métastases , les autres ganglions seraient dépourvus de tout envahissement métastatique .
+Une avancée majeure dans le domaine du GS a été réalisée par l' équipe de Giuliano au John Wayne Cancer Center à Louisville aux États-Unis au milieu des années 1990 , en transposant la technique dans le cancer du sein  .
+Leurs excellents résultats en terme de détection du GS ont initié une révolution dans le prise en charge chirurgicale du cancer du sein .
+Cette technique peu invasive , permettrait de prédire le statut ganglionnaire du creux axillaire sur la base d' un prélèvement ganglionnaire sélectif avec une morbidité moindre que le CA .
+Depuis la 1re publication de Giuliano sur le GS  , plus de 1000 publications sont référencées , démontrant l' exaltation des médecins pour cette technique .
+Les résultats des principales séries sur le prélèvement du GS sont montrées dans le Tableau 1.
+Tableau 1. Résultats des principales études sur le prélèvement du ganglion sentinelle
+Full-size table (
+B : détection colorimétrique ; R : détection radio-isotopique ; GS : ganglion sentinelle .
+Le taux de faux négatifs correspond au pourcentage de patientes ayant un GS dépourvu de métastases alors_que le reste du curage axillaire contient une ou plusieurs métastases .
+View Within Article
+Cependant , si cet engouement paraît justifié , l' introduction de cette technique en routine doit être prudente en respectant certains principes de méthodologie et surtout de formation .
+Récemment , la 1re conférence de consensus sur le GS dans le cancer du sein  a permis une réflexion sur la diffusion de cette technique en rappelant les principes fondamentaux à respecter afin_de perfectionner et d' uniformiser cette procédure dont les résultats sont déjà prometteurs .
+Afin que cette technique soit fiable , elle doit s' adresser à une population sélectionnée de patientes , être pratiquée avec une technique scrupuleusement définie et après une formation et une expérience multidisciplinaire aussi_bien de la part du chirurgien , du médecin nucléaire que de l' anatomopathologiste .
+3. Sélection des patientes
+Cette technique est proposée actuellement en France aux patientes ayant une tumeur du sein unique avec un faible risque de métastases axillaires , c' est-à-dire de taille inférieure à 15 - 20 mm .
+La découverte d' adénopathie axillaire palpable à l' examen clinique , constitue une contre-indication à la procédure du GS .
+Ces patientes ont , en_effet , plus de 60 % de risque d' avoir une aisselle métastatique  .
+Une patiente ayant eu une chimiothérapie néo-adjuvante constitue actuellement , en_dehors d' essais cliniques , une contre-indication à la procédure , bien_que des études récentes ont montré sa faisabilité pour cette catégorie de patientes [ 10 and 11 ] .
+Une chirurgie récente du sein , comme une tumorectomie , une macrobiopsie ou une biopsie chirurgicale stéréotaxique ( Site Select ) , effectuée dans un but diagnostic ne constitue pas une contre-indication à la procédure .
+En effet , une étude récente de Wong et al. , portant sur 2206 patientes ayant eu un prélèvement du GS suivi d' un CA systématique , a évalué les effets d' une tumorectomie sur les taux de détection et de faux négatifs  .
+Il n' a pas été montré de différence entre les patientes ayant initialement eu une tumorectomie par rapport au groupe de patientes ayant eu uniquement une biopsie du sein avant le prélèvement du GS .
+En cas de tumorectomie préalable , il suffit d' injecter le produit lymphophile autour_de la cicatrice de chirurgie antérieure .
+En revanche , des antécédents de chirurgie du sein ( tels_que la mammoplastie ) ou du creux axillaire ( antécédents de CA ou de biopsie du GS ) constituent une contre-indication à la procédure .
+En effet , ces chirurgies peuvent perturber le drainage lymphatique du sein vers le creux axillaire réduisant ainsi la performance de cette technique .
+L' intérêt du GS dans le cancer du sein multicentrique n' a pas été démontré , c' est pourquoi cette technique n' est pas recommandée pour cette catégorie de patiente .
+Le carcinome intracanalaire représente environ 20 % de tous les cancers .
+Le risque d' envahissement ganglionnaire est inférieur à 1 % et de 5 % en cas de micro-invasion associée .
+C' est pourquoi exposer ces patientes aux complications du CA semble difficile à accepter .
+La biopsie du GS en cas de carcinome intracanalaire étendu nécessitant une mastectomie , comme l' ont proposée certains auteurs [ 13 , 14 and 15 ] , peut être une alternative acceptable entre un CA systématique et une absence d' exploration chirurgicale du creux axillaire .
+D' autant plus qu' il n' est pas rare de découvrir un ou plusieurs foyers de micro-invasion dans la pièce de mastectomie à l' examen histologique définitif .
+De même , toute patiente ayant un terrain allergique connu ne doit pas bénéficier d' une injection de bleu patenté .
+4. Aspects techniques
+Les premières études publiées sur la technique du GS dans le cancer du sein ont été réalisées à l' aide d' un traceur lymphophile radioactif ou d' un colorant bleuté [ 7 and 16 ] .
+Depuis 1996 , date de la 1re publication par Albertini_et_al.  , combinant les 2 traceurs , il a été montré par des études multicentriques que l' association des 2 techniques permettait d' augmenter la performance de détection du GS [ 18 , 19 and 20 ] , constituant par_ailleurs la méthode de choix pour des équipes moins entraînées .
+L' association des 2 techniques permettrait alors de réduire le nombre de cas nécessaires pour la formation des opérateurs .
+L' ensemble des experts recommande donc de pratiquer une double détection pour se former à la technique du GS ainsi_qu' en_pratique courante  .
+Cependant , chaque opérateur et chaque institution peuvent utiliser l' une ou l' autre méthode après une période d' apprentissage adéquate .
+Néanmoins , la_plupart des équipes pratiquant la technique du GS réalise une double détection permettant non_seulement d' améliorer le taux de détection mais_aussi de réduire le risque de faux négatif , principal écueil à cette technique .
+En effet , dans une étude récente multicentrique portant sur 806 cas , McMasters et al. ont montré que le taux de faux négatif était de 11,8 % en utilisant un seul traceur contre 5,8 % avec les deux traceurs  .
+De la même manière , Cody et al. ont montré sur une série de 966 patientes que la technique combinée permettait d' améliorer la détection du GS  .
+Le site , ainsi_que la profondeur d' injection , ne sont pas actuellement l' objet de consensus .
+McMasters et al. ont montré récemment dans une étude multicentrique portant sur plus de 2000 cas que les injections péritumorales intraparenchymateuse , sous-dermique et intradermique avaient des résultats équivalents  .
+Les injections péri-aréolaires [ 24 , 25 , 26 and 27 ] donnent également d' excellents résultats en terme de détection , bien qu' elles soient moins bien documentées car plus récemment pratiquées .
+L' injection péritumorale intraparenchymateuse du traceur radioactif permettrait de solliciter les canaux lymphatiques profonds se drainant préférentiellement vers la chaîne mammaire interne , contrairement à l' injection plus superficielle , qu' elle soit péri-aréolaire , sous-cutanée ou sous-dermique comme l' ont montré Borgstein_et_al.  .
+L' injection péri-aréolaire offre différents avantages .
+Elle faciliterait la procédure en cas de lésion non palpable et éviterait les inférences dues à l' injection péritumorale d' un traceur isotopique à proximité de la région axillaire .
+Lorsque la technique radio-isotopique est utilisée , il est recommandé d' effectuer une lymphoscintigraphie préopératoire afin_de mettre en évidence un drainage lymphatique axillaire ou extra-axillaire , ainsi_que le nombre de GS détectés .
+Elle permet également de faciliter le geste du chirurgien en précisant la localisation axillaire du ou des GS ( c' est-à-dire à la base du creux axillaire ou plus haut situés ) .
+Le temps optimal pour pratiquer cet examen dépend du type d' injection .
+L' injection sous-dermique ou intradermique ( péritumoral ou péri-aréolaire ) diffuse plus rapidement dans les canaux lymphatiques et nécessite une imagerie dans les 10 min après l' injection .
+Après injection péritumorale plus profonde , la lymphoscintigraphie peut être débutée 2 à 4 h après .
+Un nombre important d' équipes américaines est cependant partagé sur l' intérêt d' une lymphoscintigraphie préopératoire [ 29 and 30 ] , considérant que cet examen alourdit la procédure du GS sans réel bénéfice .
+5. Courbe d' apprentissage
+Elle constitue l' assurance qualité de cette technique , incluant chirurgien , médecin nucléaire et anatomopathologiste .
+D' une manière unanime , le chirurgien ( et par_conséquent les autres intervenants de cette technique : médecin nucléaire et anatomopathologiste ) doit réaliser une phase d' apprentissage pendant laquelle il pratique la procédure du GS associée à un CA systématique et confronter ses résultats en terme de taux de détection et de faux négatif avant d' effectuer cette technique en routine .
+Cette période d' apprentissage avait déjà été évoquée , au milieu des années 1990 par Giuliano , promoteur de cette technique  .
+En effet , il avait montré que le taux de détection du GS augmentait avec le nombre de procédures effectuées .
+Ce nombre de procédures à effectuer avec CA systématique pour obtenir un taux de détection supérieur ou égal à 90 % et un taux de faux négatif inférieur ou égal à 5 % , comme il est recommandé par les experts de la conférence de consensus  , est l' objet de nombreuses discussions .
+Ce nombre proposé varie de 10 à 100 selon les équipes .
+Il semble raisonnable d' effectuer au moins 20 à 30 procédures pour valider la technique , c' est-à-dire obtenir un taux de faux négatif inférieur à 5 % [ 31 , 32 and 33 ] .
+Pendant cette période , il est souhaitable d' effectuer une double détection .
+En effet , Tafra a montré récemment en analysant les résultats d' études multicentriques que les taux de détection et surtout de faux négatif , principal inconvénient de cette technique , était corrélé à l' expérience du chirurgien  .
+Elle a , par_ailleurs , rappelé que d' autres facteurs peuvent intervenir afin_de réduire cette phase d' apprentissage : l' utilisation d' une méthode combinée associant une détection colorimétrique et radioactive , l' injection péri-aréolaire et l' assistance d' un chirurgien ayant validé sa « courbe » d' apprentissage .
+En fait , un calcul statistique ( avec un intervalle de confiance de 95 % ) a montré qu' il fallait réaliser au moins 150 procédures incluant 60 cas avec envahissement du GS pour évaluer correctement la période d' apprentissage c' est-à-dire obtenir un taux de faux négatif inférieur à 5 % , comme il est recommandé  .
+De plus , une étude récente publiée par Cox et al. a montré que le succès de la procédure du GS par chirurgien en terme de taux de détection dépendait également du nombre de procédures réalisées par mois .
+En effet , parmi 16 chirurgiens ayant pratiqué 2255 procédures , le taux de détection était de 86 % pour les chirurgiens qui pratiquaient entre 3 et 6 procédures par mois contre 97 % pour ceux qui réalisaient plus de 6 procédures par mois  .
+6. Comment réduire le taux de faux négatifs
+Le principal inconvénient de cette technique est le risque de faux négatifs .
+Celui-ci correspond au nombre de patientes ayant un GS dépourvu de métastases alors_que le reste du curage axillaire est le siège d' une ou de plusieurs métastases .
+Ce taux varie entre 0 et 16,7 % selon les équipes et les méthodes utilisées  .
+Bien que faible , ce taux pourrait en_théorie faire rejeter cette technique .
+Cependant , il faut pondérer ce risque en soulignant qu' avec le respect de certains principes dans la procédure du GS , ce taux pourrait être inférieur à 5 % .
+En effet , il a été montré que l' expérience du chirurgien [ 36 , 37 , 38 and 39 ] ainsi_que l' utilisation d' une technique combinée  réduisaient ce taux de manière significative .
+L' exploration au doigt du creux axillaire en fin de prélèvement du GS devrait être systématiquement réalisée permettant dans quelques cas d' identifier et de prélever toute adénopathie axillaire augmentée de taille et / ou indurée ne laissant pas pénétrer le produit lymphophile .
+Ces ganglions ni bleus ni « chauds » pourraient peut-être réduire encore ce taux de faux négatif .
+Une sélection des patientes qui vont bénéficier de cette technique est également indispensable : lésion unique de moins de 20 mm sans adénopathie axillaire palpable .
+De plus , les conséquences réelles pour les patientes , c' est-à-dire le risque potentiel de sous-traitement adjuvant du fait de la méconnaissance d' un creux axillaire métastatique sont à pondérer avec d' autres facteurs qui interviennent dans cette décision tels_que la taille de la tumeur et le grade histopronostic en_particulier .
+Le CA , qui est le standard de référence , comporte lui aussi un taux de faux négatif situé entre 1,5 et 3 % [ 40 and 41 ] .
+7. Les résultats à long terme
+Comme pour toute nouvelle technique , il n' existe pas encore de résultats à long terme sur la survie et le risque de récidive axillaire après prélèvement du GS sans CA systématique .
+C' est pourquoi , il est indispensable d' informer clairement les patientes bénéficiant de cette technique de l' absence de données actuelles à long terme .
+Néanmoins 2 grandes études prospectives sont en cours depuis 1998 comparant le prélèvement du GS avec le curage axillaire .
+Le National Surgical Adjuvant Breast and Bowel Project ( NSABP-B32 ) randomise les patientes ayant eu un prélèvement du GS indemne de métastases en 2 groupes : curage axillaire ou aucun traitement chirurgical axillaire complémentaire .
+L' American College of Surgeons Oncology Group évalue la valeur pronostique des micrométastases osseuses et axillaires après prélèvement du GS ( Acosog-Z0010 et Z0011 ) .
+Les patientes ayant un GS avec des métastases auront : soit un curage axillaire , soit aucun traitement chirurgical complémentaire axillaire .
+Cette étude prospective va peut-être permettre d' évaluer la valeur pronostique des micrométastases axillaires ( définies par une taille comprise entre 0,2 et 2 mm ) .
+En effet , l' analyse histologique plus approfondie du GS incluant des coupes sériées ainsi_qu' une étude immunohistochimique a permis d' accroître le taux d' envahissement axillaire de 14 à 20 %  .
+La valeur pronostique de ces micrométastases en terme de survie sans récidive et de survie globale reste à l' heure actuelle inconnue .
+D' autres études multicentriques en Europe comparent le curage axillaire et la technique du GS : Almanac Trial en Angleterre , Amaros Trial de l' EORTC .
+Il faudra probablement attendre une dizaine d' années pour connaître les résultats de ces études prospectives sur la survie et le risque de récurrence locale après prélèvement du GS .
+Jusqu' à cette échéance , doit on continuer à faire subir aux patientes ayant une tumeur du sein de petite taille les inconvénients et les complications du CA , alors_que toutes les études publiées depuis 1993 montrent que cette technique prédit correctement et de manière fiable le statut ganglionnaire axillaire avec une morbidité moindre que celle du CA ?
+Certaines équipes ont déjà publié leurs résultats préliminaires du prélèvement du GS sans CA systématique avec un recul encore limité .
+Une étude prospective publiée par Giuliano_et_al.  sur la survie et la récidive axillaire après prélèvement du GS a montré que parmi 67 patientes ayant eu un prélèvement du GS seul sans CA , aucune récidive axillaire n' était survenue après un recul médian de 39 mois .
+De même , dans une série publiée par Schrenk_et_al.  , après un recul médian de 22 mois , il n' a pas été observé de récidive axillaire , parmi 145 patientes ayant eu un prélèvement du GS sans CA .
+L' étude de Zervos et al. portant sur 266 patientes n' a pas montré de récidive axillaire après un suivi moyen de 19 mois  .
+Roumen et al. ont observé sur une série de 100 patientes , une récidive axillaire 14 mois après le prélèvement du GS  .
+Bien que la technique du GS soit relativement récente , il a été clairement montré que la morbidité de la procédure était négligeable par rapport au CA [ 44 , 47 and 48 ] .
+En particulier , le risque de lymphoedème est inférieur à 3 % contre 17 % après CA  .
+8. Conclusion
+La technique du ganglion sentinelle constitue une avancée majeure et désormais irréversible dans la prise en charge chirurgicale du cancer du sein .
+Elle est actuellement adoptée par de nombreuses équipes à_travers le monde bien qu' elle n' ait pas encore été validée par des études prospectives randomisées .
+Le problème actuel est désormais de perfectionner cette technique afin_qu' elle soit réalisée de manière optimale dans le but de réduire les faux négatifs , principal écueil à cette procédure .
+Ce risque de faux négatif peut être minime à condition de sélectionner ses indications et de respecter une phase d' apprentissage en combinant les 2 techniques d' identification

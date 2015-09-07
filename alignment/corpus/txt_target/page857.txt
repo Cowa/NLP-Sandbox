@@ -1,0 +1,200 @@
+Human prolactin ( hPRL ) is a 23 kDa polypeptide hormone that is produced primarily by the anterior pituitary gland .
+The expression of hPRL in the pituitary is regulated by multiple signalling pathways mediated by epidermal growth factor ( EGF ) , second messengers Ca2+ and cAMP , and other hormones such as dopamine , thyrotropin-releasing hormone ( TRH ) , thyroid hormones , estrogens and glucocorticoids ( [ Baudhuin et al. , 2002 ] and [ Freeman et al. , 2000 ] ) .
+As a pleiotropic and versatile hormone , PRL exercises more than 300 biological activities through binding to its cognate receptors ( [ Bole-Feysot et al. , 1998 ] and [ Goffin et al. , 2006 ] ) .
+In humans , the best known function of PRL is to stimulate growth and development of the mammary gland ultimately leading to milk production and secretion ( [ Horseman , 1999 ] , [ Hovey et al. , 2001 ] , [ Goffin et al. , 2002 ] and [ Grimm et al. , 2002 ] ) .
+Mounting evidence from cell culture and animal studies as well as from epidemiological studies ( [ Hankinson et al. , 1999 ] , [ Vonderhaar , 1998 ] , [ Vonderhaar , 1999 ] , [ Llovera et al. , 2000a ] , [ Llovera et al. , 2000b ] , [ Ben-Jonathan et al. , 2002 ] and [ Clevenger et al. , 2003 ] ) allows us to appreciate the contribution of hPRL to the pathogenesis and progression of human breast cancer .
+However , anticancer therapies designed to block expression and secretion of pituitary lactogenic hormones ( hPRL and growth hormone ) have had little effect on patients with human breast cancer  .
+Our research  as well as that of others ( [ Clevenger et al. , 1995 ] , [ Clevenger et al. , 2003 ] and [ Ben-Jonathan et al. , 2002 ] ) provides an explanation for this observation : local expression of hPRL creates an autocrine / paracrine loop within the human breast .
+In addition to the mammary gland , PRL is also produced locally by multiple other extrapituitary sites , including the placenta , uterus , bone , prostate , brain and immune system ( [ Ben-Jonathan et al. , 1996 ] , [ Freeman et al. , 2000 ] , [ Clevenger et al. , 2003 ] and [ Nevalainen et al. , 1997 ] ) .
+PRL mRNAs are detected in both normal and neoplastic human breast tissues as well as in human mammary cell lines including MCF-7 , T47D , ZR75-1 and MDA-MB-468 derived from breast epithelial carcinoma ( [ Clevenger et al. , 1995 ] , [ Ginsburg and Vonderhaar , 1995 ] , [ Shaw-Bruha et al. , 1997 ] and [ Vonderhaar , 1999 ] ) .
+Human PRL protein was also detected in T47D cells and their ER-negative derivative T47Dco cells ( [ Ben-Jonathan et al. , 2002 ] and [ Ginsburg and Vonderhaar , 1995 ] ) .
+Additionally , T47D cells contain both ER and ER ( [ Vladusic et al. , 2000 ] and [ Vonderhaar , 1999 ] ) making them excellent candidates for studies on estrogen regulation of synthesis of hPRL in breast cancer cells .
+That hPRL antagonists block cultured mammary tumor cell growth further supports the existence of an autocrine / paracrine loop ( [ Fuh and Wells , 1995 ] , [ Ginsburg and Vonderhaar , 1995 ] and [ Chen et al. , 2002 ] ) .
+Whereas mammary epithelium-derived PRL may play a role in normal mammary development and human breast cancer progression , the regulation of hPRL in mammary tissue and human breast cancer cells is not understood .
+Extrapituitary PRL expression is mainly regulated by a distal promoter located 5.8 kb upstream to the pituitary promoter ( [ Berwaer et al. , 1994 ] and [ Gellersen et al. , 1994 ] ) .
+As a result of alternative promoter usage , extrapituitary PRL is regulated by different signalling pathways and different hormones , cytokines or neuropeptides compared to regulation in the pituitary ( [ Ben-Jonathan et al. , 1996 ] and [ Goffin et al. , 2002 ] ) .
+PRL expression via the extrapituitary distal PRL promoter has also been demonstrated in primary leukocytes and in leukemic cell lines  .
+It also has been reported that the distal promoter is functional in many human breast cancer cells such as T47D , ZR75-1 , MDA-MB-231 and MDA-MB-453 cells ( [ Baudhuin et al. , 2002 ] and [ Shaw-Bruha et al. , 1997 ] ) .
+Here , we present evidence that estrogen directly induces hPRL gene expression in ER / ER-positive T47D human breast cancer cells .
+We have identified a functional non-canonical estrogen responsive element ( ERE ) and an AP1 site located in the hPRL distal promoter through which estradiol ( E2 ) acts .
+Gel shift and chromatin immunoprecipitation assays showed that both ER and ER directly bind to the ERE but only ER interacts with AP1 proteins that bind to the AP1 site in the hPRL distal promoter .
+Promoter - reporter gene studies demonstrated that both the ERE and an AP1 site are required for full induction of the promoter activity by E2 .
+Our studies suggest that the interactions between estrogens , ERs , the ERE and AP1 transcription factors in regulation of autocrine / paracrine PRL in the human breast may be critical for oncogenesis and may contribute to progression of breast cancer .
+2. Materials and methods2.1 .
+Cell culture and reagents .
+T47D and MDA-MB-231 human breast cancer cell lines were obtained from the American Type Culture Collection ( Manassas , VA , USA ) .
+The cells were routinely maintained in RPMI 1640 supplemented with 5% fetal bovine serum ( FBS ; Invitrogen , Gaithersburg , MD , USA ) , insulin ( 1 g / ml ; Sigma - Aldrich , St. Louis , MO , USA ) , penicillin ( 100 U / ml ) and streptomycin ( 100 g / ml ) ( Invitrogen ) .
+Cyclohexamide ( CHX ) , 17 estradiol ( E2 ) , genistein , actinomycin D and ( R,R ) -cis-diethyltetrahydro-2,8-chrysenediol ( R,R-THC ) were purchased from Sigma .
+ICI 182,780 was obtained from AstraZeneca Pharmaceuticals LP , Wilmington , DE , USA .
+4,4,4- ( 4-Propyl-1H-pyrazole-1,3,5-triyl ) trisphenol ( PPT ) and 2,3 bis ( 4 hydroxyphenyl ) -propionitrile ( DPN ) were purchased from Tocris Cookson ( Ellisville , MO , USA ) .
+4,4- [ 4-Methyl-5- [ 4- [ 2- ( 1 piperidnyl ) ethoxy ] -phenyl-1H-pyrazole ] -1,3 diyl ] -bis-phenol HCl ( MPP ) was obtained from Obiter Research , Urbana , IL , USA .
+2.2. Semi-quantitative RT-PCR .
+Total RNA was extracted from ethanol ( EtOH , vehicle control ) or E2-treated T47D cells using TRIzol Reagent ( Invitrogen ) .
+DNase ( Invitrogen ) treated RNA was reverse transcribed using MMLV reverse transcriptase ( Invitrogen ) primed with oligo-dT and random hexamers in a final volume of 25 l .
+The cDNA was then subjected to PCR amplification using specific gene primers and PCR Master Mix ( Roche Molecular Biochemicals , Indianapolis , IN , USA ) .
+Negative controls for reverse transcription lacked RT enzyme while PCR-negative controls were performed in the absence of RT product .
+The primers for hPRL were : forward 5-GGTGTCAAACCTGCTCCTGT-3 and reverse 5-GTGGCAAGGGAAGTGTG-3 .
+The PCR conditions were 94 C for 5 min followed by 94 C for 1 min , 59 C for 1 min and 72 C for 2 min for 30 cycles , with a final extension at 72 C for 10 min .
+Gene expression levels determined by RT-PCR were expressed relative to the constitutive levels of human GAPDH determined using the primers : forward 5-TGAAGGTCAGAGTCAACGGATTTGGT-3 and reverse 5-CATGTGGGCCATGAGGTCCACCAC-3 .
+The PCR conditions were 94 C for 45 s , 60 C for 45 s , 72 C for 2 min , with a final extension at 72 C for 7 min .
+For a given experiment , PCR was performed using a predetermined number of cycles that spanned the linear range for the samples tested ( 26 - 30 cycles ) .
+RT-PCR products were resolved by agarose gel electrophoresis , visualized with ethidium bromide and quantified using NIH Image .
+Semi-quantitative RT-PCR analyses were conducted on triplicate replicates from at least two separate experiments .
+We have previously shown that this semi-quantitative method is consistently robust and reproducible with results that are comparable to Sybr green quantitative RT-PCR methods  .
+2.3. Plasmids , transient transfections and luciferase assays .
+Plasmids containing ER  , ER and spliced variant cDNAs  were gifts from Dr. Steve Safe , Texas AM University and Dr. Richard Miksicek , Physiology Department , Michigan State University , respectively .
+The hPRL promoter / Luc reporter constructs dPRL-3000 / Luc ( 2934 / +65 ) , pit-3400 / Luc and hPRL-8700 inpGL2 vector , kindly provided by Gabriel E. DiMattia , The University of Western Ontario , Ontario , Canada  , were used for deletion and mutation analyses .
+Deletion constructs spanning from 1504 / +65 or 678 / +65 were produced by digestion of dPRL-3000 / Luc with KpnI plus PvuII or NdeI and religation with T4 DNA ligase .
+Separately , mutations were introduced into the ERE and AP1 sites of the 1504 / +65 promoter fragment using a QuikChange II XL site-directed mutagenesis kit ( Stratagene , LaJolla , CA , USA ) and mutated 5 primers as follows : ERE : GGAGGAGAAGCTATTGTAATATGCACGGCAAGATAACCTGGAG ; AP1 : GTGTTGACTGAGAAGCTGTTTGAGAGAAAAGAGGCATCATTAAGG .
+Transient transfections were performed using FUGENE6 reagent ( Roche Applied Science , Indianapolis , IN , USA ) at a ratio of 1 g DNA to 3 l of FUGENE6 .
+T47D or MDA-MB-231 cells were seeded into six-well plates at 2105 cells / ml in phenol red free media with 5% charcoal stripped FBS ( Gemini Bio-Products , W. Sacramento , CA , USA ) 24 h prior to the transfections .
+Each well was transfected with 1 g of empty vector ( EV ) , ER , ER or ER3 [ ER variant lacking the DNA binding domain  used only in the ER-negative MDA-MB-231 cells ] , 0.5 g of dPRL / Luc and 0.1 g pRL-TK .
+After 24 h , the media were changed and the cells treated with or without E2 for 24 h or as indicated .
+Cell extracts were prepared by washing the cells twice with phosphate buffered saline , pH 7.4 , lysed with 1 reporter lysis buffer ( Promega ) and centrifuged at 8600 rpm for 2 min at 4 C. The supernatant was used for reporter gene assays or stored at 80 C until used .
+Firefly and renilla luciferase activities were measured by the Dual Luciferase Assay System ( Promega , Madison , WI , USA ) using a Lumat LB9507 luminometer .
+2.4. Electrophoretic mobility shift assays ( EMSA )
+Nuclear extracts were obtained from T47D cells treated with or without E2 .
+Extraction of nuclear proteins and EMSA were performed as described  .
+Briefly , sense and antisense oligonucleotides corresponding to 1177 to 1144 ( EREp ) ( sense , 5-TGTAATATGCAGGTCAAGATAACCTGGAGAAAGG-3 ; antisense , 5-CCTTTCTCCAGGTTATCTTGACCTGCATATTACA-3 ) , 1002 / 982 ( AP1p ) ( sense , 5-GAAAAGATGAATCATTAAGGA-3 ; antisense , 5-TCCTTAATGATTCATCTTTTC-3 ) of the dPRL promoter , consensus ERE ( sense , 5-CAAAGTCAGGTCACAGTGACCTGATCAAAGA-3 ; antisense , 5-TCTTTGATCAGGTCACTGTGACCTGACTTTG-3 )  or AP1 ( Promega ) were annealed and labelled with 32P-ATP ( Amersham , Piscataway , NJ , USA ) in the presence of T4 polynucleotide kinase ( Promega ) .
+EMSA were performed using the Gel Shift Assay Core System ( Promega ) .
+Reactions were resolved by polyacrylamide gel electrophoresis prior to autoradiography .
+Each EMSA experiment was performed at least three times .
+2.5. Chromatin immunoprecipitation ( ChIP ) assay .
+ChIP assays were performed using a ChIP assay kit ( Active Motif , Carlsbad , CA , USA ) on cells that were either treated with EtOH vehicle or E2 for 1 h .
+The concentration of EtOH never exceeded 0.1% .
+The proteins bound to DNA were cross-linked using formaldehyde at a final concentration of 1% for 10 min .
+The protein - DNA complexes were subsequently immunoprecipitated using 2 g primary antibodies for c-Fos ( H-125 ) , c-Jun ( H-79 ) , ER ( HC-20 ) , ER ( H-150 ) or non-immune IgG ( Santa Cruz Biotechnology Inc. , Santa Cruz , CA , USA ) .
+After reversing the cross-links by heating to 65 C for 4 h , the DNA was recovered and analyzed by PCR .
+PCR was performed using primers that amplify the dPRL promoter region including either the ERE ( forward : 5-TGAGCCTCAGGATGGTTAATCT-3 ; reverse : 5-GGCAGGTGGCAATTATTCTG-3 ) or the AP1 site ( forward : 5-TGAGTGTGATGCAAGGGAAA-3 ; reverse : 5-GCTACTAATTACCTGCTAGACATTTCA-3 ) .
+Amplification conditions were as follows : 4 min at 94 C , followed by 30 cycles of 45 s at 94 C , 45 s at 60 C and 2 min at 72 C with a final extension of 5 min at 72 C. The samples were run on a 1.2% agarose gel and visualized by ethidium bromide staining .
+The ChIP analyses were performed three times with similar results .
+2.6. Statistical analysis .
+Statistical analysis was performed using StatView for the Mac .
+ANOVA was used to compare the significance between treated and untreated groups and results were expressed as mean S.D. and p 0.05. .
+3. Results3.1 .
+Estrogen regulation of human prolactin expression .
+In previous studies , we have shown that hPRL is produced and secreted in human breast cancer cells  , which was confirmed by other investigators ( [ Clevenger et al. , 1995 ] and [ Shaw-Bruha et al. , 1997 ] ) .
+Since estrogen plays an important role in regulation of hPRL expression in the pituitary gland , we examined the effect of E2 on hPRL expression in T47D human breast cancer cells .
+These cells were chosen because they synthesize significant quantities of hPRL and express both ER and ER .
+As shown in Fig. 1A , E2 consistently induced hPRL mRNA levels at a concentration of 0.1 nM or greater in a dose-dependent manner .
+At its physiological concentration of 10 nM , E2 induced hPRL mRNA levels by more than four-fold .
+A time course of E2 treatment indicated that hPRL expression was rapidly induced upon hormone addition , with a three-fold increase in mRNA levels obtained after 3 h of treatment , and a maximal ( four-fold ) induction after 6 h .
+As this rapid effect on hPRL mRNA levels suggested that E2 could directly regulate the expression of hPRL , cells were stimulated with E2 in the absence or presence of the protein synthesis inhibitor cycloheximide ( CHX ) .
+Treatment of T47D cells with E2 + CHX resulted in a slight increase in hPRL mRNA expression , suggesting that this transcriptional activation was not dependent on de novo synthesis of an intermediate protein but rather was directly regulated by E2 at the transcription level .
+The data from Fig. 1D confirmed that E2 activation of hPRL occurs at the transcriptional level since actinomycin D , an inhibitor of RNA synthesis , completely abolished E2 induction of hPRL mRNA .
+Full-size image ( 45K )
+Fig. 1. E2 directly regulates hPRL expression in T47D cells .
+Cells were cultured in the presence or absence of E2 for 6 h at the indicated concentrations ( A ) or with or without 10 nM E2 for the indicated time periods ( B ) .
+Triplicate samples were analyzed for hPRL and GAPDH mRNA expression by RT-PCR and ethidium bromide-stained agarose gel electrophoresis .
+Effects of cyclohexamide ( CHX , 20 M ) ( C ) or actinomycin ( Act , 5 g / ml ) ( D ) on E2-induced hPRL expression in T47D cells .
+Cells were treated with or without CHX for 1 h or Act for 30 min before adding the control vehicle ( EtOH ) or E2 for 6 h .
+Subsequently , RT-PCR analysis for hPRL and GAPDH was performed as above .
+Data ( mean S.E. ) presented were digitized using NIH Image , normalized to GAPDH , and are representative of those obtained in three separate experiments .
+C + E , CHX + E2 ; A + E , Act + E2 ; , negative control with no RT ; + , positive control ( hPRL plasmid ) .
+View Within Article .
+3.2. Estrogen stimulation of human prolactin distal promoter activity .
+In order to investigate whether E2 directly stimulates hPRL promoter activity , T47D cells were transiently transfected with hPRL-8700 , dPRL-3000 or pit-3400 / Luc promoter - reporter constructs and the internal control pRL-TK plasmid , and then treated in the presence or absence of E2 for 24 h followed by measurement of luciferase activity .
+E2-induced luciferase activity in T47D cells transfected with the hPRL-8700 or dPRL-3000 plasmid in a dose-dependent manner with a peak induction at 10 nM , but not with pit-3400 plasmid ( data not shown ) .
+A time course of treatment with E2 in T47D cells transiently transfected with the dPRL-3000 / Luc promoter - reporter construct and pRL-TK plasmid showed that E2 induced a two-fold increase in luciferase activity as rapidly as 6 h .
+These results suggested that E2 regulates hPRL gene expression through the distal promoter ( dPRL-3000 ) .
+Full-size image ( 53K )
+Fig. 2. E2 stimulates hPRL and hPRL distal promoter activity in T47D cells. ( A ) Location of the fragment d3000 , distal ( decidual / lymphoid ) and proximal ( pituitary ) promoters .
+T47D cells were transfected with hPRL-8700Luc ( B ) or dPRL-3000 / Luc ( C and D ) and the internal control vector pRL-TK constructs and then treated with or without E2 at the indicated concentrations for 24 h ( B and C ) or 10 nM E2 for the indicated time periods ( D ) , followed by measurement of luciferase activity using a dual luciferase reporter system .
+The results are shown in arbitrary units with the control ( EtOH vehicle ) set to 100 .
+Each bar is the mean S.D. from a representative experiment carried out in triplicate. p 0.05 compared to control .
+View Within Article .
+3.3. Both ER and ER mediate E2-induced hPRL distal promoter activity .
+Estrogens regulate gene expression through binding to cognate receptors .
+Two subtypes of ER have been identified , ER and ER .
+Therefore , we utilized ER agonists and antagonists with different receptor specificities to examine effects on dPRL-3000 promoter activity .
+While E2 and ICI 182,780 have been identified as ligands for both ER and ER , PPT and MPP have been identified as specific ligands for ER ( [ Harris et al. , 2002 ] , [ Stauffer et al. , 2000 ] and [ Sun et al. , 2002 ] ) and genistein and DPN for ER  .
+R,R-THC is a complete antagonist on ER , but an agonist on ER  .
+Thus , the ER- and ER-specific agonists PPT , genistein and DPN induced dPRL-3000-mediated luciferase activities in a dose-dependent manner ( Fig. 3A and C ) .
+The ER-specific antagonist , MPP , completely blocked PPT induction of dPRL-3000 promoter activity , but only partially inhibited E2-mediated induction of luciferase activity .
+In contrast , the pure antiestrogen ICI 182,780 completely abolished E2- and DPN-induced activity ( Fig. 3B and C ) .
+Interestingly , R,R-THC itself induced dPRL-3000-mediated luciferase activity , but it partially inhibited DPN-induced activities .
+These results suggest that both subtypes of the ER mediate estrogen 's induction of dPRL promoter activity in T47D cells .
+To further address this issue , we transiently transfected either ER or ER into an ER-negative human breast cancer cell line , MDA-MB-231 , along with dPRL-3000 / Luc and pRL-TK .
+We found that while both wildtype ER and ER mediated E2 induction of the dPRL promoter , the induction by E2 / ER was to a lesser extent .
+The DNA-binding domain deletion variant of ER , ER3  , also failed to fully induce the dPRL promoter .
+These results show that while the E2 / ER pathway is able to fully activate the hPRL distal promoter , E2/ ER and E2 / ER3 pathways only confer partial activation suggesting that multiple mechanisms are involved , one of which does not require direct DNA binding by the ER .
+Full-size image ( 53K )
+Fig. 3. Both ER and ER mediate E2-induced hPRL distal promoter activity. ( A ) Specific ligands of ER and ER stimulate hPRL distal promoter activity .
+T47D cells were transfected with dPRL-3000 / Luc and pRL-TK constructs and then treated with or without PPT or genistein for 24 h at the indicated concentrations. ( B ) Effects of antagonists on E2-induced hPRL distal promoter activity .
+T47D cells were transfected as above and treated with ethanol vehicle , E2 ( 10 nM ) , PPT ( 10 nM ) , MPP ( 1 M ) , ICI 182,780 ( 1 M ) alone or in combination for 24 h. ( C ) Effects of specific ligands of ER on hPRL distal promoter activity .
+T47D cells were transfected as above and treated with ethanol vehicle , DPN , R,R-THC ( 1 M ) , ICI 182,780 ( 1 M ) alone or in combination for 24 h .
+Subsequently , dual luciferase assays were performed and results are shown in arbitrary units with the control ( EtOH vehicle ) set to 100 .
+Each bar is the mean S.D. from a representative experiment carried out in triplicate. ( D ) The effects of ER variants in MDA-MB-231 cells .
+MDA-MB-231 cells were transfected with 1 g of empty vector ( EV ) , ER , ER or ER3 , 0.5 g of dPRL / Luc and 0.1 g pRL-TK .
+After 24 h , cells were treated with or without 10 nM E2 for 24 h , followed by measurement of luciferase activity using a dual luciferase reporter system with the results shown in arbitrary units with the control ( EtOH vehicle ) set to 100 .
+Each bar is the mean S.D. from a representative experiment carried out in triplicate. p 0.05 compared to control. p 0.05 compared to PPT , DPN or E2 .
+View Within Article .
+3.4. Estrogen stimulation of dPRL promoter activity through an ERE and an AP1 site .
+Upon binding to ER and / or ER , estrogens regulate gene expression through a variety of mechanisms including genomic and non-genomic pathways .
+In order to elucidate which DNA element ( s ) is responsible for E2 induction of dPRL-3000 promoter activity , we performed computational analysis of the dPRL-3000 promoter and prepared two deletion mutants .
+As shown in Fig. 4B , responsiveness of dPRL-1504 / Luc to E2 was similar to that of dPRL-3000 / Luc ; however , E2 did not elicit a response from the empty vector pGL2 or the proximal hPRL promoter ( pit-3400 ) or from dPRL-678 / Luc .
+Both ERE and AP1 elements can confer E2 responsiveness ( [ Paech et al. , 1997 ] , [ Jakacka et al. , 2001 ] , [ Safe , 2001 ] and [ Fujimoto et al. , 2004 ] ) .
+Therefore , we introduced mutations in the ERE and / or AP1 sites and tested for E2 responsiveness .
+As demonstrated in Fig. 4C , while mutation in either the ERE or AP1 site alone decreased E2 induction , significant induction of luciferase by E2 was still observed .
+However , mutation of both the ERE and AP1 sites completely abolished E2 induction .
+These results suggested that both ERE and AP1 sites present in the dPRL promoter are responsible for E2 induction of hPRL in T47D cells .
+Full-size image ( 58K )
+Fig. 4. Maximal induction of hPrl distal promoter activity by E2 requires both ERE and AP1 sites. ( A ) Computational analysis of a 3 kb fragment of the regulatory region of the human dPRL promoter demonstrates the presence of a potential binding site for ER and two for AP1 .
+Sites mutated for EMSA ( see Fig. 5 ) are indicated by arrows .
+T47D cells were transfected with dPRL-3000 , 1504 or 678 / Luc ( B ) or dPRL-1504 / Luc or its mutation constructs ( C ) and pRL-TK .
+Cells were then treated with or without 10 nM E2 for 24 h followed by measurement of luciferase activity using a dual luciferase reporter system .
+The results are shown in arbitrary units with the control ( EtOH vehicle ) set to 100 .
+Each bar is the mean S.D. from a representative experiment carried out in triplicate .
+AP1 ( ) , Mutation in the AP1 site only ; ERE ( ) , mutation in the ERE only ; AE ( ) , mutation in both AP1 and ERE sites. p 0.05 compared to control .
+View Within Article .
+3.5. Both ER and ER bind the ERE , but only ER interacts with the AP1 complex .
+Comparisons between the ERE present in the dPRL promoter and the consensus ERE revealed that there is one base-pair mismatch .
+In order to investigate whether ER and / or ER bind to this non-canonical ERE in the dPRL promoter , we performed EMSA with 32P-labelled ERE sequence from the dPRL promoter and ChIP assays .
+As shown in Fig. 5B , E2 treatment led to formation of two complexes on this ERE that are competed away with unlabelled consensus ERE or the ERE from the dPRL promoter , but not with a mutated ERE .
+Additionally , E2 treatment caused an increase in protein - DNA complex formation in EMSA with 32P-labelled AP1 sequence from the dPRL promoter , which was competed away with unlabelled consensus AP1 oligonucleotide or the AP1 sequence from the dPRL promoter , but not with a mutated AP1 site .
+By the ChIP assay , both ER and ER antibodies pulled down the ERE fragment .
+However , only ER as well as c-Fos and c-Jun antibodies pulled down the AP1-containing DNA fragment .
+This suggests that both ER and ER bind to the ERE present in the dPRL promoter and that ER , but not ER , interacts with the AP1 proteins , c-Fos and c-Jun bound to the AP1 site present in the dPRL promoter .
+Full-size image ( 59K )
+Fig. 5. E2 induces protein - DNA complex formation on ERE and AP1 sites present in the hPRL distal promoter. ( A ) Analysis of ERE and AP1 sites present in the hPRL distal promoter .
+The non-canonical ERE present in the dPRL promoter was compared with the EREs in other genes ( adapted from Annicotte et al. , 2005 ) .
+Mutated bases for ERE ( ) and AP1 ( ) are indicated by unbolded letters .
+Nuclear extracts were prepared from T47D cells treated with or without 10 nM E2 for 1 h .
+EMSA were performed with 32P-labelled EREp ( ERE site from the distal PRL promoter ( B ) ) or AP1p ( AP1 site from the distal PRL promoter ( C ) ) .
+AP1 ( ) , Mutation in the AP1 site only ; ERE ( ) , mutation in the ERE only. ( D ) E2-induced recruitment of ERs to the ERE and ER to the AP1 site with c-Fos and c-Jun in the dPRL promoter .
+ChIP assays were performed as described in Section 2. After protein - DNA complexes were immunoprecipitated using the indicated primary antibodies and reversal of the cross-link , the DNA was recovered and analyzed by PCR .
+PCR was performed using primers that target the ERE or AP1 site in the dPRL promoter .
+View Within Article .
+Taken together , our results demonstrate that estrogens directly induce hPRL gene expression in T47D human breast cancer cells through cooperative actions of ER on both ERE and AP1 sites present in the hPRL distal promoter and ER on the ERE site .
+4. Discussion .
+The pituitary gland was once thought to be the exclusive source of hPRL .
+However , a variety of studies have proven that hPRL is also produced locally by several extrapituitary sites , including notably the mammary gland ( [ Ben-Jonathan et al. , 1996 ] and [ Freeman et al. , 2000 ] ) .
+PRL mRNAs have been detected in both normal and neoplastic human breast tissues as well as in human mammary cell lines derived from breast epithelial carcinoma ( [ Clevenger et al. , 1995 ] , [ Ginsburg and Vonderhaar , 1995 ] and [ Shaw-Bruha et al. , 1997 ] ) .
+Increasing evidence supports the existence of an autocrine / paracrine loop in human breast tissue and cancer cell lines ( [ Fuh and Wells , 1995 ] , [ Ginsburg and Vonderhaar , 1995 ] and [ Chen et al. , 2002 ] ) .
+Several studies demonstrated that mammary-derived PRL  might play a role in normal mammary development and human breast cancer progression underscore the importance of understanding the regulation of its expression .
+Extrapituitary PRL expression is primarily regulated by a distal promoter ( [ Berwaer et al. , 1994 ] and [ Gellersen et al. , 1994 ] ) that is functional in human breast cancer cells such as T47D , ZR75-1 , MDA-MB-231 and MDA-MB-453  , as well as in primary leukocytes and in leukemic cell lines  .
+In contrast , Manfroid_et_al.  reported EGF stimulates the hPRL pituitary promoter in human breast cancer SK-BR-3 cells through its proximal AP1 responsive element .
+Here , we present evidence that estrogen stimulates the hPRL distal promoter in T47D human breast cancer cells through both ERE and AP1 sites .
+Estrogen , via its cognate receptors ER and ER , regulates gene expression through multiple mechanisms .
+In the classical model , upon binding with E2 , dimerized ER binds the specific DNA element , ERE and transactivates transcription of its targets .
+Recently , several alternative pathways have been described that include response elements to which the ERs do not bind directly but rather results from interactions with other DNA-bound transcriptional factors such as AP1 and Sp1 ( [ Paech et al. , 1997 ] , [ Jakacka et al. , 2001 ] , [ Safe , 2001 ] and [ Fujimoto et al. , 2004 ] ) .
+Several signal transduction cascades are activated by estrogens in various tissues and cell lines  such as the estrogen upregulation of PRL gene expression in pituitary cells via the mitogen-activated protein kinase signal transduction pathway  .
+Other kinase pathways that appear to be activated by estrogen include the PI3-K , PKA and PKC pathways .
+After analysis of the hPRL distal promoter , many potential DNA responsive elements were found that could be activated by estrogen .
+However , our deletion and mutation studies demonstrated that only the promoter regions including the ERE and AP1 were responsive to estrogen and both ERE and AP1 sites are required for full induction of the promoter activity by E2 .
+Fujimoto and coworkers  report that environmental estrogenic chemicals activate AP1 only through ER , but not ER , which was consistent with the work by Paech_et_al.  .
+Consistent with these observations , we found that the E2 / ER pathway conferred a more robust induction of the hPRL distal promoter than the E2 / ER or the E2 / ER3 pathway in MDA-MB-231 cells .
+In the DNA-protein interaction studies , we found that both ER and ER bound to the ERE present in the dPRL promoter and that ER , but not ER , interacted with the AP1 proteins , c-Fos and c-Jun , bound to the AP1 site .
+It is well documented that E2 and ERs play key roles during breast development and carcinogenesis  .
+The identification of ER and the presence of ER variants such as ER3 in human breast cancer cells make the process of gene regulation by estrogen even more complicated ( [ Bollig and Miksicek , 2000 ] and [ Vladusic et al. , 2000 ] ) .
+Mounting evidence shows that hPRL and its cognate receptors ( PRLR ) are implicated in development and progression of human breast cancer ( [ Hankinson et al. , 1999 ] , [ Vonderhaar , 1999 ] , [ Llovera et al. , 2000b ] , [ Ben-Jonathan et al. , 2002 ] and [ Clevenger et al. , 2003 ] ) .
+The complex interactions between PRL and estrogen and their relationship to AP1 proteins in human breast cancer have not been extensively addressed where humans are exposed with these hormones simultaneously .
+In addition to induction of autocrine / paracrine PRL by E2 demonstrated herein , estrogen also stimulates PRLR gene expression in human breast cancer cells ( [ Lu et al. , 1996 ] and [ Ormandy et al. , 1997 ] ) although the correlation between PRLR and ER is not consistent within the literature ( [ Waseda et al. , 1985 ] , [ Bonneterre et al. , 1986 ] , [ De Placido et al. , 1990 ] and [ Ormandy et al. , 1997 ] ) .
+Recently , Dong_et_al.  have reported that estradiol up-regulates hPRLR gene expression through a novel ER-dependent transcriptional mechanism in which both C / EBP and Sp1 / Sp3 transcription factors are involved .
+Moreover , a clinical study has shown reduced expression of hPRLR in a sub-group of breast tumor patients given tamoxifen  .
+The work from our laboratory and others has demonstrated that the expression of PRL and PRLR is found in more than 95% of female breast carcinomas and is higher than that in normal breast tissues ( [ Reynolds et al. , 1997 ] and [ Trott et al. , 2003 ] ) .
+Gutzman_et_al.  have reported that the interactions between hPRL and estrogen enhanced the activity of AP1 in breast cancer cells through the MAPK pathway .
+Thus , the interactions among PRL / PRLR , estrogen and AP1 proteins may cause a significant increase in the entire PRL / PRLR autocrine/paracrine system in breast cancer .
+Additional studies of cross-talk between PRL and other pathways in human breast cancer cells will increase our understanding of the key interactions that occur during the development of this disease and potentially lead to improved treatment modalities .
+Acknowledgement .
+This research was supported by the Intramural Research Program of the NIH , Center for Cancer Research , NCI .

@@ -1,0 +1,275 @@
+Negative psychological states are frequently associated to the diagnosis and treatment of breast cancer .
+Stress-related changes in the immune system may be important for breast cancer patients .
+Data from many studies have suggested that chronic psychological stress can adversely affect immune function  .
+These results should be interpreted with caution , as causality has not been determined .
+This study was undertaken to evaluate the psychological , endocrine , and immunological effects of a relaxation and visualization therapy ( RVT ) in breast cancer patients undergoing radiotherapy .
+The possibility for an enhancement of immune function through psychological intervention has generated considerable interest .
+There is significant evidence that stress management interventions may have positive psychological effects  .
+A variety of psychosocial interventions in cancer such as education , behavioral techniques , and individual and group therapy have all been shown to reduce anxiety and depression while enhancing active coping styles  .
+In fact , a meta-analysis of 15 studies showed a decrease in depression and anxiety regardless of cancer type and adjunctive psychological therapy used  .
+Cancer patients usually seek alternative supportive therapies able to help their clinical treatment .
+This may further strengthen their coping skills to the disease as well as making them participants in their treatment .
+This is the rationale of Simonton 's theory  in which patients are truly committed to their treatment , improve their quality of life , increase survival , or even induce remission of the disease .
+Stress leads to activation of the hypothalamic-pituitary-adrenal ( HPA ) axis , increasing peripheral cortisol that is known to have immunosuppressive effects  .
+Cortisol hypersecretion may also result in depressed mood  .
+In addition , previous work showed that breast cancer is associated with increased cortisol levels both prior to and following treatment  .
+However , low cortisol levels have been found among recently diagnosed breast cancer patients with a history of depression or posttraumatic stress disorder ( PTSD )  .
+It has been shown that breast cancer is associated with flatter circadian pattern of HPA axis function  .
+Flatter daytime slopes of cortisol have been associated with fatigue in breast cancer patients  and were predictive of earlier mortality with metastatic breast cancer  , independent of other known prognostic factors .
+In addition , depression was associated to blunted stress reactivity in metastatic breast cancer  .
+Recent work suggested that flatter daytime cortisol slopes among metastatic breast cancer patients may be related to disrupted feedback inhibition of the HPA axis rather than hypersensitivity in response to stimulation  .
+Psychological interventions aimed to reduce psychological stress and cortisol levels  could lead to improved immune function and health .
+To date , few studies have addressed this cogent relationship in breast cancer .
+A randomized controlled relaxation intervention with patients with advanced breast cancer was associated with reduced cortisol levels in those patients with increased cortisol levels at the beginning of the intervention  .
+Increased lymphocyte counts and reduced evening cortisol levels have been observed in breast cancer patients following a 10 week RVT  .
+Recently , a randomized clinical trial assessed the psychological , behavioral , and immune changes after a stress management intervention in a large sample ( n=227 ) of breast cancer patients  .
+The intervention was effective to reduce anxiety scores , improve perceived social support , and dietary habits as well as maintaining stable or increasing mitogen-induced T-cell proliferation  .
+The measurement of peripheral hormones may not be sufficient to finally determine the functional hormonal action in target tissues .
+Glucocorticoid ( GC ) immunomodulation is orchestrated by specific binding of GCs on intracellular steroid receptors : mineracorticoid ( MR ) and GC receptors ( GR ) .
+Although MRs have higher affinity for circulating GCs than GRs , most ( if not all ) effects on the immune system are mediated via GRs  .
+The presence of these receptors indicates that the immune system is prepared for HPA axis activation and the subsequent elevation in endogenous GCs .
+It has been suggested that chronically elevated cortisol levels may produce a state of acquired steroid resistance enabling lymphocytes to respond with less intensity to GCs .
+This phenomenon has previously been observed during major depression  and chronic stress  .
+We hypothesized that psychological distress experienced by breast cancer patients would be associated with reduced lymphocyte sensitivity to GCs .
+To date , it is largely unknown whether stress management interventions are able to restore this impaired cellular response .
+Here , we investigated if RVT is capable to attenuate psychological distress ( stress , anxiety , and depression ) , lower salivary cortisol levels , and increase nonspecific lymphocyte proliferative responses .
+Finally , we investigated the lymphocyte sensitivity to GCs in vitro to explore the functional hormonal action in the immune system .
+Methods Study design .
+This study was undertaken in a repeated-measures design with two time points .
+Psychological , endocrine , and immunological data were obtained at baseline and after a 24 day intervention .
+Each intervention included a group consisted of up to four patients .
+Salivary samples were collected three times a day to assess cortisol levels .
+Peripheral blood for the immunological tests was drawn at the same time of the day .
+Subjects .
+A total of 34 subjects with breast cancer ( Stage I or II ) undergoing radiotherapy were recruited from the Radiotherapy Service at So Lucas Hospital ( Porto Alegre , Brazil ) and randomly assigned into two groups : ( i ) 20 patients as experimental group and ( ii ) and 14 patients as control group .
+The radiotherapy sessions never exceeded 10 min of radiation exposure ( average , 5 - 7 min ) .
+The control group did not participate in the RVT intervention or in any other type of additional intervention .
+All subjects completed the two assessments and had at least 2 weeks of chemotherapy washout .
+Demographic information including age , ethnicity , religion , education , marital status , and occupation status was obtained on a form created for this study .
+The study protocol was approved by both scientific and ethics committees ( PUCRS , Porto Alegre , Brazil ) , and written informed consent was obtained from all subjects .
+Exclusion criteria included presence of acute or chronic infections , heart disease , anorexia , anemia , leucopenia , clinical depression , PTSD , neurodegenerative disease , and use of GCs .
+Psychological profile .
+The psychosocial variables were assessed by means of structured clinical interviews and performed by a trained investigator .
+The stress levels were assessed by the Inventory of Stress Symptoms Lipp for adults ( ISSL )  .
+The ISSL identifies the presence of stress symptoms , type of symptoms ( somatic and psychological ) , and stress phase including alarm , adaptation , quasi exhaustion , and exhaustion .
+It includes 37 items of somatic symptoms and 19 items of psychological symptoms .
+This instrument is based on Selye 's model of stress  symptoms listed in the scale are specific for each phase of stress .
+The scoring was performed by means of three different stages related to the duration ( Q1=last 24 h , Q2=last week , and Q3=last month ) and intensity of stress symptoms .
+The sum of all physical as well as psychological symptoms within each stage resulted in a score that is related to the presence of stress accordingly to the following criteria : Q16 ( alarm phase ) or Q23 ( adaptation phase ) or Q38 ( exhaustion phase ) .
+The duration of administration was 10 min .
+The State Trait Anxiety Inventory ( STAI ) and Beck Anxiety Inventory ( BAI ) were employed as self-report generic measures of anxiety  .
+STAI is a 20 item assessment device , which includes separate measures of state and trait anxiety .
+The duration of administration was 10 min .
+Scores on the STAI have a direct interpretation : high scores ( 80=highest ) on their respective scales mean more trait or state anxiety and low scores mean less .
+It is found to be a sensitive indicator of changes in transitory anxiety experienced by patients in counseling , psychotherapy , and behavior modification programs .
+The Beck Anxiety Inventory ( BAI ) discriminates anxiety from depression while displaying convergent validity .
+Its self-report measuresthe scale consists of 21 items , each describing common symptoms of anxiety including nervousness , inability to relax , headache , and tachycardia .
+Each item consists of four statements representing varying degrees of severity .
+The duration of administration was 5 min .
+The respondent is asked to rate how much he or she has been bothered by each symptom over the past week on a 4 point scale ranging from 0 to 3. The items are summed to obtain a total score that can range from 0 to 63 , with higher scores indicating higher levels of anxious symptoms ( 0 - 9=normal or low anxiety ; 30 - 63=high anxiety ) .
+The scale obtained high internal consistency and item - total correlations ranging from 0.30 to 0.71 ( median=0.60 ) .
+The Beck Depression Inventory ( BDI ) was employed as self-report scale for assessing depression levels  .
+BDI consists of 21 items to assess the intensity of depression in clinical and normal patients .
+Each item is a list of four statements arranged in increasing severity about a particular symptom of depression .
+The items are summed to obtain a total score that can range from 0 to 63 , with higher scores indicating higher levels of depressive symptoms ( 0 - 9=normal ; 10 - 18=mild ; 19 - 19=moderate depression ; 30 - 63=severe depression ) .The duration of administration was 10 min .
+The Kuder - Richardson reliability coefficients for these scales were always higher than 0.90. .
+RVT Intervention .
+Details of the RVT intervention , including objectives , structure , components , and content , have been described previously  .
+The RVT intervention consisted of 24 daily , 30 min structured group ( n4 ) sessions at the Breast Cancer Unit ( So Lucas Hospital , Porto Alegre , Brazil ) .
+The subjects were always led by the same trained investigator ( psychologist ) at all times .
+Each session was undergone immediately following radiotherapy in a different room at the Hospital .
+The RVT includes a relaxation period ( 20 min ) , in which the subject is induced to mentally create an image of the desired objective or result , included progressive muscle relaxation , guided imagery , meditation , and deep breathing .
+Subjects were guided to create a mental image in which their tumor is attacked by their immune system and then to visualize the breast completely healed .
+Subjects performed the RVT twice a day at home ( using a tape ) .
+All subjects were reminded ( phone call ) to perform RVT sessions at home .
+Collection of salivary samples and cortisol measurements .
+The assessment of steroids in saliva has proven to be a valid and reliable reflection of the unbound hormone in the blood  , with salivary cortisol concentrations reflecting 5 - 10% of the levels present in serum  .
+Participants were asked to collect three saliva samples with the help of cotton rolls over the course of the experimental days at 8 a.m. , 12 a.m. , and 8 p.m. , always before meals and venepuncture .
+Sampling was performed across the day to assess some aspects of circadian pattern .
+Upon arrival in the laboratory , the samples were centrifuged and frozen at 20C .
+Salivary cortisol samples were then analyzed by radioimmunoassays ( RIAs ) ( DPC Medlab , So Paulo , Brazil ) .
+The sensitivity of this assay was estimated in 0.1 nM / l .
+The intra- and interassay coefficients of variation were less than 10% .
+Results from each of the sampling times were expressed in nmol / L .
+Collection of peripheral blood and isolation of mononuclear cells .
+Ten milliliters of peripheral blood were collected by venepuncture in the morning ( between 9 and 10 a.m. ) and samples were stored into lithium-heparin tubes before analyses .
+Samples were always collected at the same time of day to minimize circadian variations .
+Peripheral blood mononuclear cells ( PBMCs ) were isolated by centrifugation over a Ficoll - Hypaque ( Sigma , St. Louis , MO , USA ) gradient ( 900 g , 30 min ) .
+Cells were counted by means of microscopy ( 100 ) , and viability always exceeded 95% , as judged from their ability to exclude trypan blue ( Sigma ) .
+Cell cultures and steroid sensitivity assays .
+Peripheral sensitivity to hormones was estimated by functional assays developed to measure the ability of steroids to suppress T-cell proliferation in vitro  .
+T-cell proliferation was evaluated by incubating PBMCs ( 1.5105 cells / well ) with phytohemagglutinin ( PHA 2 , 1 , and 0.5% , Gibco , Grand Island , NY , USA ) in complete culture medium ( RPMI-1640 , supplemented with gentamicin 0.5% , glutamine 1% , hepes 1% , and fetal calf serum 10% ; all from Sigma , St. Louis , MO , USA ) for 96 h at 37C in 5% CO2 atmosphere .
+Dexamethasone ( DEX , selective GC receptor agonist ) and corticosterone ( CORT , which binds to both types of steroid receptors ) were added in duplicates ( 50 l / well ; both water-soluble substances purchased from Sigma ) to mitogen-stimulated lymphocyte cultures .
+GC concentrations were used in a range ( 109 to 104 M ) that free GCs would reach during resting state ( 108 M ) , stress ( 106 M ) , or under pharmacological treatment ( 105 M ) in vivo .
+One optimum PHA concentration ( 1% ) was used for all steroid cultures .
+Fifty l of culture medium were added to all stimulated cultures .
+In spontaneous ( without lectin ) cultures , mitogen was replaced by 150 l of culture medium .
+Data are presented as percentage of basal proliferation ( 0 ; PHA 1% without steroids ) .
+Cell proliferation / viability assay .
+The proliferative responses were determined by a modified colorimetric assay  .
+In the last 4 h of culture , 100 l of the supernatant were gently discarded , and 30 l of freshly prepared MTT [ 3- ( 4,5 diamethyl 2-thiazolyl ) 2,5 diphenyl-2H-tetrazolium , Sigma , St .
+Louis , MO , USA ] solution ( 5 mg / ml in RPMI-1640 ) were added to each well .
+The dehydrogenase enzymes in metabolically active cells convert this substrate to formazan , producing a dark blue precipitate .
+The cell cultures were incubated for 4 h at 37C in 5% CO2 atmosphere .
+After complete removal of the supernatant , 100 l of dimethyl sulfoxide ( Sigma , St Louis , MO , USA ) were added to each well .
+The optical density ( OD ) was determined using Biorad ( Hercules , CA , USA ) ELISA plate reader at a wavelength of 570 and 630 nm .
+Proliferation / viability was expressed as OD of stimulatedOD of nonstimulated cultures .
+Statistical analyses .
+All variables were tested for normality of distribution by means of the Kolmogorov - Smirnov test .
+The demographic , medical history , and health behavior variables were described pre intervention for the complete sample using the frequency and descriptive statistics .
+Differences in proportions between groups were tested by means of 2 test .
+Paired-samples t tests were used to compare pre - post intervention psychological scores .
+We also computed effect sizes for pre - post intervention changes observed in the outcome measures .
+Proliferation and cortisol data were analyzed by repeated-measures analysis of variance ( ANOVA ) that included one between-subjects variable ( control versus experimental ) and one within-subjects variable ( cortisol , mitogen or steroid levels ) .
+The area under the curve ( AUC ) of cortisol data ( i.e. , 8 a.m. , 12 a.m. and 8 p.m. ) and in vitro GC responses ( i.e. , DEX / CORT , 109 - 104 M ) was estimated using the trapezoidal rule .
+Relationships between variables were investigated by Pearson 's partial correlations , controlling for anxiety levels ( i.e. , STAI-trait ) at baseline .
+Residualized change scores were calculated to associate psychological and physiological outcomes over time .
+The significance level was set at =.05 ( two-tailed ) .
+Data was analyzed with the Statistical Package for the Social Sciences 15.0 ( SPSS , Chicago , IL , USA ) .
+Results Subjects .
+A total of 34 subjects with breast cancer meeting admission criteria were recruited .
+Twenty patients completed the 24 day RVT and 14 subjects were controls .
+The sample characteristics are shown in Table 1. Experimental and control were homogeneous as shown by similar sociodemographic profiles .
+In addition , both experimental and control groups had similar health behaviors .
+All subjects drank coffee at a daily basis , three were regular smokers ( experimental group ) , and only one patient ( experimental group ) complained of insomnia that ameliorated following the third RVT session .
+None of them were engaged on regular physical activities .
+Some patients were on tamoxifen ( n=3 ) that could affect the immune system .
+However , the data did not change when controlled for tamoxifen use .
+None of them were taking contraceptive drugs or were on hormone replacement therapy .
+Table 1. .
+Sociodemographic characteristics of the subjects with breast cancer undergoing radiotherapy enrolled from the Radiotherapy Service at So Lucas Hospital ( Brazil ) , distributed in the experimental and control groups .
+Control ( n=14 ) Experimental ( n=20 ) P value Age range ( meanS.E. ) 36 - 70 ( 50.072.68 years ) 45 - 65 ( 54.201.24 years ) .13 Years of education ( meanS.E. ) 8.070.779.550.81.21 Ethnicity.99 Caucasian1116 Afro American34 Marital status.49 Married or partnered79 Single23 Separated / divorced36 Widowed22 Religion.58 Catholics1014 Protestants46 Employment status.68 Full time810 Not working610 .
+Full-size table .
+Differences in proportions between groups ( ethnicity , marital status , religion , and employment status ) were tested by means of 2 test .
+Differences regarding age and years of education were assessed by means of independent t test .
+View Within Article .
+Psychological assessments .
+Experimental and control groups showed a similar stress and depression scores at the preintervention period ( baseline ) .
+However , patients of the experimental group were more anxious than subjects of control group at baseline STAI-trait ( t=2.44 , df=32 , P=.02 ) , STAI-trace ( t=2.65 , df=32 , P=.01 ) , and BAI ( t=1.88 , df=32 , P=.07 ) .
+The following analyses were thus controlled for basal anxiety levels ( i.e. , STAI-trait ) .
+The psychological scores did not change over time in the control group ( all P.05 ) .
+However , the experimental group showed significantly reduced levels of stress , anxiety , and depression scores following the 24 day RVT ( all P.05 ) .
+These data indicate the efficacy of the RVT program used in this study to attenuate the emotional distress presented during radiotherapy treatment .
+Table 2. .
+Psychological assessments at the baseline and following 24 days of RVT obtained in patients with breast cancer undergoing radiotherapy .
+VariablesControlExperimental BaselinePostEffect sizeBaselinePostEffect size ISSL Q13.552.543.551.750.094.112.002.791.650.72 ISSL Q24.643.504.182.140.165.532.414.002.400.64 ISSL Q36.554.526.093.140.127.683.675.323.030.70 BAI9.648.268.736.000.1314.327.979.166.480.71 BDI14.3610.7610.646.670.4214.955.0912.266.380.47 STAI ( State ) 35.189.5234.915.300.0341.749.7237.058.260.52 STAI Trait ) 40.1812.6136.739.720.3147.167.8240.479.080.79 .
+Full-size table .
+Data are presented as meanS.D .
+P.05 vs. preintervention experimental .
+P.01 vs. preintervention experimental .
+P.001 vs. preintervention experimental .
+P.05 vs. preintervention control ( paired t tests ) .
+View Within Article .
+Cortisol assessments .
+In this study , we were able to assess HPA axis function by means of measuring salivary cortisol levels across the day .
+Salivary cortisol levels differed significantly over the three sampling times [ F ( 2,108 ) =139.24 , P.0001 , 2=0.72 ] .
+Cortisol peaked in the morning and presented a nadir at night , with a regular circadian pattern for both groups .
+Cortisol levels did not differ between experimental and control groups at baseline [ F ( 1,26 ) =0.12 , P=.73 , 2=0.005 ] .
+This was also shown by similar integrated cortisol levels ( i.e. , AUC cortisol ) between control ( 72.848.32 nmol / l per hour ) and experimental ( 72.379.23 nmol / l per hour ) groups ( t=0.03 , df=27 , P=.97 , d=0.05 ) .
+There was an interaction between cortisol levels and group at baseline , indicating that morning ( 8 a.m. ) cortisol levels were higher in the control compared to experimental group [ F ( 2,52 ) =2.60 , P=.08 , 2=0.09 ] although this only approached statistical significance .
+Cortisol levels did not change over time in the control group [ F ( 1,18 ) =1.69 , P=.21 , 2=0.09 ] .
+The RVT was not effective to change cortisol levels in the experimental group [ F ( 1,36 ) =0.20 , P=.66 , 2=0.05 ] .
+Full-size image ( 24K )
+Fig. 1. Pre and post RVT intervention salivary cortisol levels obtained by RIA across the day ( 8 a.m. , 12 a.m. , and 8 p.m. ) in the control and experimental groups of patients with breast cancer .
+Data presented as meanS.E.M .
+The RVT did not change cortisol levels ( P=.22 ) .
+View Within Article .
+Lymphocyte proliferation and sensitivity to GCs .
+Mitogen-induced T-cell proliferation was evaluated as an index of nonspecific cell-mediated immunity .
+PHA-induced proliferative responses differed significantly across the three mitogen concentrations [ F ( 2,120 ) =15.70 , P.0001 , 2=0.21 .
+Repeated-measures ANOVA revealed that experimental and control groups showed a similar T-cell proliferation at baseline [ F ( 1,31 ) =0.73 , P=0.40 , 2=0.02 ] .
+The proliferative responses did not change over the time in the control group [ F ( 1,23 ) =1.12 , P=.30 , 2=0.05 ] or following RVT in the experimental group [ F ( 1,37 ) =0.85 , P=0.36 , 2=0.02 ] .
+There was no significant interaction between group X phase ( baseline and post intervention ) .
+Full-size image ( 22K )
+Fig. 2. PHA-induced T-cell proliferation response obtained during pre and post RVT in control and experimental group of patients with breast cancer .
+PBMCs were isolated and cultured in vitro with PHA for 96 h .
+Proliferation / viability was estimated by colorimetric assays .
+Data presented as mean S.E.M .
+The responses differed across the PHA concentrations ( P.001 ) .
+The RVT did not produce significant changes in T-cell proliferation response ( P=.65 ) .
+View Within Article .
+We also investigated the functional GC immunomodulatory action by incubating peripheral lymphocytes with steroids .
+Both DEX and CORT produced significant dose-dependent suppression of T-cell proliferation ( all P.0001 ; Fig. 3 ) .
+At baseline , lymphocytes of experimental group were more sensitive to CORT [ F ( 1,32 ) =7.48 , P=.01 , 2=0.19 ] and DEX [ F ( 1,32 ) =3.75 , P=.06 , 2=0.11 ] , although it only approached statistical significance in the latter .
+There were no changes in cellular sensitivity to DEX [ F ( 1,23 ) =0.003 , P=0.95 , 2=0 ] or CORT [ F ( 1,23 ) =0.08 , P=.78 , 2=0.003 ] over the time in the control group .
+The RVT did not produce changes in T-cell sensitivity to DEX [ F ( 1,37 ) =0.71 , P=.40 , 2=0.02 ] or CORT [ F ( 1,37 ) =2.22 , P=.14 , 2=0.06 ] .
+There was no interaction between group X phase for both steroids .
+Full-size image ( 46K )
+Fig. 3. Peripheral T-cell sensitivity to GCs assessed at pre and post RVT in control ( A and C ) and experimental group ( B and D ) of patients with breast cancer .
+Cellular sensitivity was estimated by the ability of GCs to suppress PHA-induced T-cell proliferation .
+Glucocorticoids included an agonist ( dexamethasone ) to the GR and a natural steroid ( corticosterone ) that binds to both GR and mineralocorticoid receptor .
+Data presented as percentage of basal proliferation ( 0=PHA 1% without steroids ) S.E.M .
+Both DEX and CORT produced significant dose-dependent suppression of T-cell proliferation ( all P.0001 ) .
+The RVT did not produce significant changes in cellular sensitivity to dexamethasone ( P=.32 ) or corticosterone ( P=.54 ) .
+View Within Article .
+Relationships between psychological , endocrine and immune variables .
+First , we evaluated the potential impact of psychological status on cortisol and immune measures .
+No significant correlations were noted at baseline .
+Residualized change scores were calculated to associate psychological and physiological outcomes over time .
+Pearson 's partial correlations were then computed to examine the strength and direction of any relationships between the cortisol indices and the psychological variables .
+Data were controlled for basal anxiety levels ( i.e. , STAI-trait ) .
+It was observed that only the change in STAI-trace scores were negatively correlated to change in cortisol levels at 12 h ( r=0.38 , P.05 ) .
+We then investigated the relationships between cortisol levels and immune measures .
+Significant relationships were observed at baseline only .
+In particular , morning cortisol levels ( 8 a.m. ) were negatively correlated mitogen-induced proliferation : PHA 2% ( r=0.49 , P=.008 ) , PHA 1% ( r=0.42 , P.05 ) , and PHA 0.5% ( r=0.34 , P=.07 ) , although the latter only approached statistical significance .
+In addition , cortisol levels were inversely correlated to T-cell sensitivity to GCs .
+In particular , morning ( 8 a.m. ) cortisol levels were correlated to AUC DEX ( r=0.42 , P.05 ) and AUC CORT ( r=0.37 , P=.05 ) ; cortisol levels at noon were correlated to AUC CORT ( r=0.39 , P.05 ) and AUC DEX ( r=0.33 , P=.08 ) , although the latter only approached statistical significance .
+Therefore , increased cortisol levels at baseline are associated with reduced cellular sensitivity to GCs .
+Discussion .
+Both breast cancer and conventional therapeutics are frequently associated with psychological distress and poor quality of life .
+We investigated here the psychological , endocrine , and immunological effects of a 24 day stress management intervention ( i.e. , RVT ) in patients with breast cancer undergoing radiotherapy .
+To our knowledge , this is the first report that such intervention has been attempted during the brief window of radiotherapy .
+The intervention was effective to reduce psychological distress while not changing cortisol levels , lymphocyte proliferation , and sensitivity to GCs .
+Our data are in agreement with previous work showing RVT-related attenuation of psychological distress in patients with cancer  .
+This positive finding has a pivotal importance considering that depressed cancer patients have the poorest prognosis and reduced survival rates .
+The proactive attitude elicited by stress management interventions may be an important step towards a more integrative approach in treating cancer patients .
+As the negative burden of stress , anxiety , and / or depression worsen quality of life , it has been shown that a significant response to RVT is associated with improved quality of life of breast cancer patients  .
+Although previous work has demonstrated that RVT is capable to ameliorate psychological distress  , it is largely unknown to what extent these alterations can be translated into physiological changes .
+Here , we evaluated salivary cortisol as stress-related physiological marker of the HPA axis .
+The assessment of cortisol in saliva has proven a stress-free procedure and reliable measure of unbound steroid in the circulation  , is less affected by alterations in protein binding , and has been used in the investigation of stress-related disorders  .
+However , we observed that cortisol levels remained unchanged following RVT .
+This is in contrast to previous studies that have reported decreases in cortisol levels following stress management interventions in breast cancer  .
+A previous work  that evaluated daytime salivary cortisol in 59 breast or prostate cancer patients before and after a 8 week intervention using meditation and yoga ( Kabat - Zinn method ) .
+In that study , the intervention was also able to attenuate stress scores without changing salivary cortisol levels .
+However , it was observed that the intervention was only effective to reduce cortisol levels in those patients with higher cortisol levels at baseline .
+This was also similarly observed in two other interventions that analyzed serum cortisol in breast cancer  .
+In our study , salivary cortisol levels at baseline did not influence this endocrine assessment following RVT ( data not shown ) .
+Further work is necessary to disentangle these conflicting observations .
+Several authors have demonstrated a relationship between psychological stress and weakening of the immune system  .
+Conversely , it has been shown that stress management interventions are capable to attenuate / change the impact of stress on immunological parameters in breast cancer  .
+The immunological parameters included peripheral cell counts , cytokines , and functional assays ( natural killer cell activity and lymphocyte proliferation ) .
+It should be noted that most studies described immunological changes rather than RVT-related increase in a specific immunological variable .
+To date , it is largely unknown to what extent these immunological changes are related to clinical benefits .
+The immunological effects of stress and relaxation may , in part , be explained by the reduced release of stress hormones ( catecholamines and GCs ) and increased peripheral neuropeptides ( opioids ) .
+In contrast to previous work , we demonstrated here that RVT was ineffective to change T-cell proliferation .
+The measurement of peripheral hormones may not be sufficient to determine the functional hormonal action in target tissues .
+Therefore , we investigated for the first time the RVT effects on peripheral lymphocyte sensitivity to GCs in vitro .
+In line with unchanged cortisol levels , T-cell sensitivity to GCs also did not vary following RVT .
+Taking together , our data suggest that RVT in our cohort of breast cancer patients was unable to translate psychological into biological changes .
+How might positive psychological changes not result in enhanced physiological parameters This paradox could be explained by several methodological and clinical differences between our and previous studies , including type and duration of intervention , sample size , clinical features , and psychological morbidity .
+Indeed , patients enrolled in this study presented moderate levels of stress , anxiety , or depression scores .
+We speculate that patients with worsen psychological morbidity would be more benefited from the RVT and present more intense attenuation of emotional burden .
+It could be also speculated that the timing of such interventions during active treatment is suboptimal , and they may be more effective when administered later to quell dysallostatic load .
+Indeed , clinically significant distress often is found to onset months following completion of all cancer therapiesa time when dysallostatic load would be expected to have most impact .
+Although our intervention was significantly shorter than previous work that performed the RVT for 8 - 10 weeks  , the psychological distress reduced in similar magnitude ( 30 - 45% ) to previous studies .
+Perhaps a longer intervention may be more clearly associated with meaningful endocrine and / or immunological changes .
+In this regard , Donaldson  observed significant increases in white blood cell counts in patients with AIDS or cancer following 90 days of RVT .
+It should be highlighted , however , that our RVT consisted of daily group sessions along with extra sessions performed individually at home ( using a tape ) .
+This should have helped the patient to further strengthen their coping skills to the disease as well as making them participants in their treatment .
+We found significant relationships between psychological morbidity and physiological variables .
+The experimental group was found particularly more anxious than controls at baseline and anxiety ( STAI-trace ) levels were positively correlated to cortisol levels following RVT .
+This is compatible to the knowledge of stress-related activation of the HPA axis  .
+In addition , morning cortisol levels were inversely correlated to T-cell proliferation and sensitivity to GCs at baseline .
+These data are in line with the knowledge that stress hormones modulate the immune system  and make lymphocytes more resistant to GCs during chronic stress .
+Indeed , acquired steroid resistance has been observed in several stress-related pathologies including chronic stress  , major depression  , and PTSD  .
+Overall , these findings lend further support to the idea that psychological distress alters psychoneuroimmune parameters .
+The exposure to radiation may be a confounding variable in this study .
+Indeed , local radiation therapy has been associated with long-term effects on both immune and endocrine systems  .
+The immunological effects include immunosuppression ( e.g. , blunted proliferation ) and changes in cellular trafficking .
+However , our findings are not compatible with those observations .
+Indeed , cells of both experimental and control subjects had similar proliferation rates compared to healthy controls previously recruited in our laboratory  .
+In addition , cortisol levels were also compatible to salivary assessments observed in healthy subjects  .
+However , the potential overriding effects of radiation on stress hormones and immune function cannot be discarded , considering they may have saturated the limited effects of RVT .
+In conclusion , this study adds to the growing literature suggesting that RVT can effectively attenuate psychological distress and may thus improve the quality of life of cancer patients undergoing radiotherapy .
+Further studies are necessary to explore the underlying physiological mechanisms involved with attenuation of stress in long-term group interventions .
+It is also necessary to understand to what extent RVT-related psychoneuroimmunological changes are related to clinical progress or remission of the disease .

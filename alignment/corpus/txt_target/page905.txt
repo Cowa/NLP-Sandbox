@@ -1,0 +1,267 @@
+The clinicopathologic characteristics of breast cancer patients are heterogeneous .
+Consequently , the survival times are different in subgroups of patients .
+Generally , five-year recurrence-free survival is ranged from 65% to 80% in all population in breast cancer patients ( Buchholz , Strom , McNeese , 2003 ) .
+The purposes of this study were to apply a novel analytical method to breast cancer patients to identify prognostic factors , and explore the interactions between clinical variables and their impact on survival .
+Decision tree algorithms allow for non-linear relations between predictive factors and outcomes and for mixed data types ( numerical and categorical ) , isolates outliers , and incorporates a pruning process using cross-validation as an alternative to testing for unbiasedness with a second data set  .
+In the literature , there are several reports about a separation of patients in subgroups with different prognosis for survivals ( [ Aligayer et al. , 2002 ] , [ Kenneth et al. , 1999 ] , [ Sauerbrei et al. , 1997 ] and [ Ture et al. , 2005 ] ) .
+Decision trees use recursive partitioning to assess the effect of specific variables on survival , thereby ultimately generating groups of patients with similar clinical features and survival times .
+The partitioning of patients into groups with differing survival times using clinical variables generates a tree-structured model that can be analyzed to assess its clinical utility .
+Therefore decision tree methods such as classification and regression tree ( CRT ) , Chi-squared automatic interaction detector ( CHAID ) , quick , unbiased , efficient statistical tree ( QUEST ) , Commercial version 4.5 ( C4.5 ) and Interactive Dichotomizer version 3 ( ID3 ) are more suitable than classical statistical methods .
+We analyzed the simultaneous relationship among risk factors for breast cancer by five decision tree algorithms .
+This study compared the relative effects of each risk factor for breast cancer in the multivariate analysis models .
+We tried to discover the significant patterns and relationship among the risk factors and make decision rules for the management of breast cancer .
+2. Patients and methods2.1 .
+Patients .
+A retrospective analysis was performed in 500 breast cancer patients diagnosed between 1997 - 2006 .
+For the investigation of the prognostic factors age , menopausal status , age of menarche , age of first delivery , presence of abortus , hormone replacement therapy , family history of cancer , histologic tumor type , quadrant of tumor , tumor size , estrogen and progesterone receptor status , histologic and nuclear grading according to Scarf-Bloom - Richardson criteria ( Bloom Richardson , 1957 ) , type of surgery , axillary nodal status , pericapsular involvement of lymph nodes , stage of disease according to AJCC ( American Joint Committee on Cancer , 1997 ) , lymphovascular and perineural invasion , radiotherapy , chemotherapy and hormonal therapy , we had complete data for 279 patients , who form the basis of this study .
+Primary local treatment was surgery ( modified radical mastectomy or breast conserving surgery ) .
+The median age was 48 ( range , 28 - 84 ) in the whole patient population .
+Tumors were considered positive for estrogen and progesterone receptors if more than 10% of tumor cells showed a nuclear staining ( Zhang , Salto-Tellez , Putti , Do , Koay , 2003 ) .
+Descriptive statistics of clinical and pathologic data for the entire patient population was listed in Table 1. We performed the classical statistical analysis to examine the differences in the distribution of variables between patients who had recurrence or not .
+The Kolmogorov Smirnov test was used to assess the normality of numeric variables .
+For all the numeric variables that were non-normally distributed , comparison between two groups was made by the Mann - Whitney U-test and results were expressed as median and interquartile range .
+Association of recurrence with nominal variables was assessed using the 2 test .
+Table 1. .
+Clinical and laboratory characteristics of the study groups .
+Independent variablesRecurrencep Absent ( n = 199 ) Present ( n = 80 ) Age ( years-old ) median ( IRQ ) 48 ( 15 ) 48 ( 20 ) 0.308 Age of menarche ( years-old ) median ( IRQ ) 13 ( 2 ) 13 ( 1 ) 0.884 Tumor Size ( cm ) median ( IRQ ) 3 ( 2 ) 4 ( 4 ) 0.001 n ( % ) n ( % ) Hormone replacement therapyPresent45 ( 22.6 ) 10 ( 12.5 ) 0.079 Age of first delivery ( years-old ) 3011 ( 5.5 ) 6 ( 7.5 ) 0.582 Menopausal statusPost79 ( 39.7 ) 38 ( 47.5 ) 0.454 Pre109 ( 54.8 ) 39 ( 48.8 ) Peri11 ( 5.5 ) 3 ( 3.8 ) Presence of abortusPresent16 ( 8.0 ) 13 ( 16.3 ) 0.690 Stage of diseaseIn situ cancer6 ( 3.0 ) 0 ( 0.0 ) Early stage cancer157 ( 78.9 ) 47 ( 58.8 ) 0.001 Locally advanced cancer36 ( 18.1 ) 33 ( 41.3 ) Nuclear gradeI35 ( 17.6 ) 10 ( 12.5 ) II111 ( 55.8 ) 37 ( 46.3 ) 0.054 II53 ( 26.6 ) 33 ( 41.3 ) Estrogen receptor statusPositive152 ( 76.4 ) 52 ( 65.0 ) 0.073 Progesterone receptor statusPositive151 ( 75.9 ) 50 ( 62.5 ) 0.035 Type of surgeryModified radical Mastectomy138 ( 69.3 ) 67 ( 83.8 ) 0.021 Breast conserving surgery61 ( 30.7 ) 13 ( 16.3 ) RadiotherapyPresent161 ( 80.9 ) 69 ( 86.3 ) 0.375 ChemotherapyPresent172 ( 86.4 ) 73 ( 91.3 ) 0.363 Hormonal therapyPresent159 ( 79.9 ) 48 ( 60.0 ) 0.001 Family history of cancerAbsent139 ( 69.8 ) 52 ( 65.0 ) Other cancers44 ( 22.1 ) 19 ( 23.8 ) 0.631 Breast cancer16 ( 8.0 ) 9 ( 11.3 ) Perineural invasionPresent63 ( 31.7 ) 35 ( 43.8 ) 0.056 Lymphovascular invasionPresent114 ( 57.3 ) 58 ( 72.5 ) 0.018 Axillary nodal statusNegative86 ( 43.2 ) 16 ( 20.0 ) 1 - 3 Lymph nodes positive59 ( 29.6 ) 20 ( 25.0 ) 0.001 4 Lymph nodes positive54 ( 27.1 ) 44 ( 55.0 ) Histologic gradeI36 ( 18.1 ) 10 ( 12.5 ) II89 ( 44.7 ) 28 ( 35.0 ) 0.061 III74 ( 37.2 ) 42 ( 52.5 ) Histologic tumor typeDuctal164 ( 82.4 ) 69 ( 86.3 ) 0.547 Other35 ( 17.6 ) 11 ( 13.8 ) Quadrant of tumorUnicentric180 ( 90.5 ) 62 ( 77.5 ) 0.007 Multicentric19 ( 9.5 ) 18 ( 22.5 ) Pericapsular involvement of lymph nodesPositive59 ( 29.6 ) 41 ( 51.3 ) 0.001 .
+Full-size table .
+View Within Article .
+Adjuvant radiotherapy was given to 230 patients ( 82.4% ) and chemotherapy was administered to 245 patients ( 87.8% ) .
+Chemotherapy was delivered prior to radiotherapy .
+Hormonal therapy was initiated after the completion of radiotherapy , and typically continued for 5 years in hormone receptor positive patients until recurrence of disease .
+Follow-up consisted of a clinical assessment in every three months for the first three years , six-monthly for two years and annual follow-up after five years .
+2.2. Statistical analysis .
+For these variables , decision tree algorithms were used to identify optimal cut points in the data .
+A 10 fold cross-validation analysis was performed as an initial evaluation of the test error of the algorithms .
+Briefly , this process involves splitting up the dataset into 10 random segments and using 9 of them for training and the 10th as a test set for the algorithm .
+Survival analysis was performed for disease-free survival , the time from initial diagnosis to the first recurrence of disease ( local - regional or distant ) .
+For the terminal nodes of the best decision tree method , survival curves were estimated by the Kaplan - Meier method and the difference between the curves was evaluated by Log-Rank test ( Mantel - Cox ) .
+Follow-up time for each patient was calculated in months from the last day of the initial treatment to the date of death or the date of last visit .
+For all statistical tests , p-values less than 0.05 were considered significant .
+2.3. Decision tree algorithms2.3.1 .
+Classification and regression tree .
+CRT is a recursive partitioning method to be used both for regression and classification .
+CRT is constructed by splitting subsets of the data set using all predictor variables to create two child nodes repeatedly , beginning with the entire data set .
+The best predictor is chosen using a variety of impurity or diversity measures ( Gini , twoing , ordered twoing and least-squared deviation ) .
+The goal is to produce subsets of the data which are as homogeneous as possible with respect to the target variable ( Breiman , Friedman , Olshen , Stone , 1984 ) .
+In this study , we used measure of Gini impurity that used for categorical target variables .
+Gini Impurity Measure :
+The Gini index at node t , g ( t ) , is defined as .
+where i and j are categories of the target variable .
+The equation for the Gini index can also be written as .
+Thus , when the cases in a node are evenly distributed across the categories , the Gini index takes its maximum value of 1 ( 1 / k ) , where k is the number of categories for the target variable .
+When all cases in the node belong to the same category , the Gini index equals 0. .
+If costs of misclassification are specified , the Gini index is computed as .
+where C ( ij ) is the probability of misclassifying a category j case as category i .
+The Gini criterion function for split s at node t is defined as .
+( s,t ) =g ( t ) -pLg ( tL ) -pRg ( tR )
+where pL is the proportion of cases in t sent to the left child node , and pR is the proportion sent to the right child node .
+The split s is chosen to maximize the value of ( s,t ) .
+This value is reported as the improvement in the tree  .
+2.3.2. Chi-squared automatic interaction detection .
+CHAID method is based on the 2 test of association .
+A CHAID tree is a decision tree that is constructed by repeatedly splitting subsets of the space into two or more child nodes , beginning with the entire data set ( Michael Gordon , 1997 ) .
+To determine the best split at any node , any allowable pair of categories of the predictor variables is merged until there is no statistically significant difference within the pair with respect to the target variable .
+This CHAID method naturally deals with interactions between the independent variables that are directly available from an examination of the tree .
+The final nodes identify subgroups defined by different sets of independent variables ( Magidson SPSS Inc. , 1993 ) .
+The CHAID algorithm only accepts nominal or ordinal categorical predictors .
+When predictors are continuous , they are transformed into ordinal predictors before using the following algorithm .
+For each predictor variable X , merge non-significant categories .
+Each final category of X will result in one child node if X is used to split the node .
+The merging step also calculates the adjusted p-value that is to be used in the splitting step.1 .
+If X has 1 category only , stop and set the adjusted p-value to be 1. .
+2. If X has 2 categories , go to step 8. .
+3. Else , find the allowable pair of categories of X ( an allowable pair of categories for ordinal predictor is two adjacent categories , and for nominal predictor is any two categories ) that is least significantly different .
+The most similar pair is the pair whose test statistic gives the largest p-value with respect to the dependent variable Y. How to calculate p-value under various situations will be described in later sections .
+4. For the pair having the largest p-value , check if its p-value is larger than a user-specified alpha-level merge .
+If it does , this pair is merged into a single compound category .
+Then a new set of categories of X is formed .
+If it does not , then go to step 7. .
+5. ( Optional ) If the newly formed compound category consists of three or more original categories , then find the best binary split within the compound category which p-value is the smallest .
+Perform this binary split if its p-value is not larger than an alpha-level split - merge .
+6. Go to step 2. .
+7. ( Optional ) Any category having too few observations ( as compared with a user-specified minimum segment size ) is merged with the most similar other category as measured by the largest of the p-values .
+8. The adjusted p-value is computed for the merged categories by applying Bonferroni adjustments that are to be discussed later. ( [ Biggs and Suen , 1991 ] , [ Goodman , 1979 ] , [ Kass , 1980 ] and [ Magidson and SPSS Inc. , 1993 ] ) .
+2.3.3. Quick , unbiased , efficient statistical tree .
+QUEST is a binary-split decision tree algorithm for classification and data mining .
+QUEST can be used with univariate or linear combination splits .
+A unique feature is that its attribute selection method has negligible bias .
+If all the attributes are uninformative with respect to the class attribute , then each has approximately the same change of being selected to split a node ( Loh Shih , 1997 ) .
+The QUEST tree growing process consists of the selection of a split predictor , selection of a split point for the selected predictor , and stopping .
+In this algorithm , only univariate splits are considered .
+For selection of split predictor , it uses the following algorithm.1 .
+For each continuous predictor X , perform an ANOVA F-test that tests if all the different classes of the dependent variable Y have the same mean of X , and calculate the p-value according to the F statistics .
+For each categorical predictor , perform a Pearson 's 2 test of Y and X 's independence , and calculate the p-value according to the 2 statistics .
+2. Find the predictor with the smallest p-value and denote it X. .
+3. If this smallest p-value is less than /M , where ( 0,1 ) is a user-specified level of significance and M is the total number of predictor variables , predictor X is selected as the split predictor for the node .
+If not , go to 4. .
+4. For each continuous predictor X , compute a Levene 's F statistic based on the absolute deviation of X from its class mean to test if the variances of X for different classes of Y are the same , and calculate the p-value for the test .
+5. Find the predictor with the smallest p-value and denote it as X. .
+6. If this smallest p-value is less than / ( M + M1 ) , where M1 is the number of continuous predictors , X is selected as the split predictor for the node .
+Otherwise , this node is not split ( Loh Shih , 1997 ) .
+2.3.4. Commercial version 4.5 .
+C4.5 is a supervised learning classification algorithm used to construct decision trees from the data  .
+Most empirical learning systems are given a set of pre-classified cases , each described by a vector of attribute values , and construct from them a mapping from attribute values to classes .
+C4.5 is one such system that learns decision tree classifiers .
+It uses a divide-and-conquer approach to growing decision trees ( Benjamin , Tom , Samuel , Weijun , Xuegang , 2000 ) .
+The main difference between C4.5 and other similar decision tree building algorithms is in the test selection and evaluation process .
+Let attributes be denoted A = a1 , a2 , , am} , cases be denoted D = d1 , d2 , , dn} , and classes be denoted C = c1 , c2 , , ck} .
+For a set of cases D , a test Ti is a split of D based on attribute at .
+It splits D into mutually exclusive subsets D1 , D2 , , Dp .
+These subsets of cases are single-class collections of cases .
+If a test T is chosen , the decision tree for D consists of a node identifying the test T , and one branch for each possible subset Di .
+For each subset Di , a new test is then chosen for further split .
+If Di satisfies a stopping criterion , the tree for Di is a leaf associated with the most frequent class in Di .
+One reason for stopping is that cases in Di belong to one class .
+C4.5 decision tree algorithm uses a modified splitting criteria , called gain ratio .
+It uses arg max ( gain ( D , T ) ) or arg max ( gain ratio ( D , T ) ) to choose tests for split .
+where , p ( ci , D ) denotes the proportion of cases in D that belong to the ith class .
+C4.5 selects the test that maximizes gain ratio value  .
+Once the initial decision tree is constructed , a pruning procedure is initiated to decrease the overall tree size and decrease the estimated error rate of the tree  .
+2.3.5. Interactive Dichotomizer version 3
+The ID3 is a simple decision tree learning algorithm developed by Quinlan ( 1993 ) .
+The ID3 algorithm builds decision trees using a top-down , greedy search procedure and represents the core of Quinlan 's highly successful C4.5 decision tree algorithm .
+The basic idea of ID3 algorithm is to construct the decision tree by employing a top-down , greedy search through the given sets to test each attribute at every tree node .
+In order to select the attribute that is most useful for classifying a given sets , we introduce a metric information gain .
+An ID3 algorithm works as follows ( [ Cheng and Maghsoodloo , 1995 ] and [ Shao et al. , 2001 ] ) .
+Suppose T = PE NE , where PE is the set of positive examples , and NE is the set of negative examples , p = PE and n = NE .
+An example will be determined to belong to PE with probability p/ ( p + n ) and NE with probability n/ ( p + n ) .
+By employing the information theoretic heuristic , a decision tree is considered as a source of message , PE or NE , with the expected information needed to generate this message , given by .
+If attribute X with value domain v1 , , vN} is used for the root of the decision tree , it will partition T into T1 , ,TN} where Ti contains those examples in T that have value vi of X. Let Ti contain pi examples of PE and ni of NE. the expected information required for the sub-tree for Ti is I ( pi , ni ) .
+The expected information required for the tree with X as the root , EI ( X ) , is then obtained as a weighed average .
+where the weight for the ith branches is the proportion of the examples in T that belong to Ti .
+The information gained by branching on X , G ( X ) , is therefore .
+G ( X ) =I ( p,n ) -EI ( X )
+ID3 examines all candidate attributes , chooses X to maximize G ( X ) , constructs the tree , and then uses the same process recursively to construct decision trees for residual subsets T1 , , TN .
+For each Ti ( I = 1 , 2 , , N ) : if all the examples in Ti are positive , it creates a yes node and halts ; if all the examples in Ti are negative , it creates a no node and halts ; otherwise it selects another attribute in the same way as given earlier .
+2.4. Multidimensional scaling ( MDS )
+MDS is a method that represents measurements of similarity ( or dissimilarity ) among pairs of objects as distances between points of a low-dimensional space .
+It helps us to represent ( dis ) similarities between objects as distances in a Euclidean space .
+In effect , the more dissimilar two objects are , the larger the distance between the objects in the Euclidean space should be .
+The objects in our study are the different classification techniques described by their characteristics in terms of classification performance measurements .
+The location of the techniques on the map is based on their position in the m-dimensional variable space .
+Similar to the R2 measure in regression analysis , there is a pseudo-R2 calculated in MDS .
+The pseudo-R2 is equal to the percentage of the sum of squared dissimilarities explained by the model .
+Another goodness-of-fit measure of the projection is the so-called stress factor .
+A stress factor 0.05 is considered to be good ( [ Borg and Groenen , 1997 ] and [ Kruskal , 1964 ] ) .
+2.5. Kaplan - Meier survival analysis .
+The Kaplan - Meier analysis is a non-parametric technique for estimating time-related events ( Kaplan Meier , 1958 ) .
+It can be used to test the statistical significance of differences between the survival curves associated with two different circumstances .
+It is applied by analyzing the distribution of patient survival times following their recruitment to a study .
+The analysis expresses these in terms of the proportion of patients still alive up to a given time following recruitment .
+In graphical terms , a plot of the proportion of patients surviving against time has a characteristic decline ( often exponential ) , the steepness of the curve indicating the efficacy of the treatment being investigated .
+The more shallow the survival curve , the more effective the treatment  .
+A variety of tests may be used to compare two or more Kaplan - Meier curves under certain well-defined circumstances .
+Median remission time ( the time when 50% of the cohort has reached remission ) , as well as quantities such as three- , five- , and ten-year probability of remission , can also be generated from the Kaplan - Meier analysis , provided there has been sufficient follow-up of customers .
+3. Results3.1 .
+Characteristics of study subjects .
+After a median follow-up of 40.5 months ( 25 , 75 percentile ; 21.4 , 59.7 months ) , 80 ( 28.7% ) patients have had at least one of the events for recurrence-free survival ( loco-regional recurrence , distant metastases , or second cancer ) .
+Tumor size , axillary nodal status , stage of disease , lymphovascular invasion , quadrant of tumor , progesterone receptor status , pericapsular involvement of lymph nodes , type of surgery , and hormonal therapy were found statistically significant prognostic factors for recurrence .
+3.2. Comparison of decision tree methods .
+We used error rate for training set and cross-validation to monitor prediction performance of the methods .
+Table 2 gives the performance measures of CRT , CHAID , QUEST , C4.5 and ID3 algorithms .
+The error rate values for training set ranged from 0.2150 to 0.2510 and the error rate values for cross-validation ranged from 0.2760 to 0.3259 .
+As it can be seen from Table 2 , the application of the CRT took on the smallest error rate value for training set .
+C4.5 and ID3 ranked second , CHAID ranked third , followed by QUEST .
+Table 2. .
+Comparison of the error rates of models .
+ModelError rate Training setCross-validation CRT0.21500.2830 CHAID0.24400.3230 QUEST0.25100.2760 C4.50.22580.3259 ID30.22580.3111 .
+Full-size table .
+View Within Article .
+A comparison of the predictive values ( sensitivity , specificity , positive predictive value ( PPV ) , negative predictive value ( NPV ) and predictive rate ( PR ) ) for training set of decision tree methods are shown in Table 3. All models had sensitivity , specificity , PPV , NPV and PR for training set in the 21.3 - 43.8% , 89.9 - 99.5% , 61.5 - 95.5% , 77.0 - 80.1% and 74.9 - 78.5% range , respectively .
+Table 3. .
+Comparison of the performance of models for training set .
+ModelSensitivity ( % ) Specificity ( % ) PPV ( % ) NPV ( % ) PR ( % ) CRT26.399.595.577.078.5 CHAID40.089.961.578.875.6 QUEST21.396.570.875.374.9 C4.543.891.066.080.177.4 ID327.597.581.577.077.4 .
+Full-size table .
+View Within Article .
+Predictive values for training set were used as input variables in MDS .
+It was done to identify homogenous groups of classification techniques based on predictive values .
+We found that stress factor was 0.000000009 in MDS .
+The two-dimensions were plotted against each other in Fig. 1. As it can be seen from Fig. 1 , C4.5 performed better than CHAID , QUEST , CRT and ID3 in predicting breast cancer .
+Full-size image ( 9K )
+Fig. 1. C4.5 was found the best method by multidimensional scaling .
+View Within Article .
+3.3. Classification tree and rules of C4.5 for the prediction of RFS in breast cancer .
+In the C4.5 analysis , we identified the variables that play important roles in explaining recurrences .
+This indicated that the tumor size was the most important determining factor for recurrence .
+This first-level split produced the two initial branches of the classification tree : 4.4 cm versus 4.4 cm .
+Table 4. .
+Terminal nodes .
+ModelTerminal nodesRecurrence ( % ) CRTNode 1 : Tumor size ( 4.3 cm ) 21.6 Node 2 : Tumor size ( 4.3 cm ) + Age ( 64 years-old ) 100.0 Node 3 : Tumor size ( 4.3 cm ) + Age ( 64 years-old ) + Axillary nodal status ( negative , 1 - 3 lymph nodes positive ) 13.3 Node 4 : Tumor size ( 4.3 cm ) + Age ( 64 years-old ) + Axillary nodal status ( 4 lymph nodes positive ) + Hormonal therapy ( absent ) 92.3 Node 5 : Tumor size ( 4.3 cm ) + Age ( 64 years-old ) + Axillary nodal status ( 4 lymph nodes positive ) + Hormonal therapy ( present ) 45.0 CHAIDNode 1 : Axillary nodal status ( negative , 1 - 3 lymph nodes positive ) + Quadrant of tumor ( multicentric ) 52.9 Node 2 : Axillary nodal status ( 4 lymph nodes positive ) + Radiotherapy ( absent ) 100.0 Node 3 : Axillary nodal status ( negative , 1 - 3 lymph nodes positive ) + Quadrant of tumor ( unicentric ) + Hormonal therapy ( absent ) 30.0 Node 4 : Axillary nodal status ( negative , 1 - 3 lymph nodes positive ) + Quadrant of tumor ( unicentric ) + Hormonal therapy ( present ) 12.1 Node 5 : Axillary nodal status ( 4 lymph nodes positive ) + Radiotherapy ( present ) + Progesterone receptor status ( negative ) 58.6 Node 6 : Axillary nodal status ( 4 lymph nodes positive ) + Radiotherapy ( present ) + Progesterone receptor status ( positive ) 33.3 QUESTNode 1 : Tumor size ( 6 cm ) 70.8 Node 2 : Tumor size ( 6 cm ) + Presence of abortus ( present ) 44.0 Node 3 : Tumor size ( 6 cm ) + Presence of abortus ( present ) +Axillary nodal status ( 4 lymph nodes positive ) 37.0 Node 4 : Tumor size ( 6 cm ) + Presence of abortus ( present ) + Axillary nodal status ( negative , 1 - 3 lymph nodes positive ) + Age of menarche ( 13 years-old ) 7.8 Node 5 : Tumor size ( 6 cm ) + Presence of abortus ( present ) + Axillary nodal status ( negative , 1 - 3 lymph nodes positive ) + Age of menarche ( 13 years-old ) +Hystologic tumor type ( ductal ) 24.4 Node 6 : Tumor size ( 6 cm ) + Presence of abortus ( present ) + Axillary nodal status ( negative , 
+1 - 3 lymph nodes positive ) + Age of menarche ( 13 years-old ) + Hystologic tumor type ( other ) 6.7 C4.5Node 6 : Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) + Hormonal therapy ( absent ) + Axillary nodal status ( 4 lymph nodes positive ) 42.9 Node 7 : Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) + Hormonal therapy ( absent ) + Axillary nodal status ( negative ) 13.3 Node 8 : Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) + Hormonal therapy ( absent ) + Axillary nodal status ( 1 - 3 lymph nodes positive ) 60.0 Node 3 : Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) + Hormonal therapy ( present ) 20.4 Node 1 : Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) 7.3 Node 2 : Tumor size ( 4.4 cm ) + Hormonal therapy ( absent ) 79.0 Node 4 : Tumor size ( 4.4 cm ) + Hormonal therapy ( present ) + Hystologic grade ( I - II ) 31.6 Node 5 : Tumor size ( 4.4 cm ) + Hormonal therapy ( present ) + Hystologic grade ( III ) 57.9 ID3Node 1 : Tumor size ( 4.4 cm ) 21.6 Node 4 : Tumor size ( 4.4 cm ) + Axillary nodal status ( 4 lymph nodes positive ) + Hormonal therapy ( absent ) 92.9 Node 5 : Tumor size ( 4.4 cm ) + Axillary nodal status ( 4 lymph nodes positive ) + Hormonal therapy ( present ) + Pericapsular Involvement of Lymph Nodes ( positive ) 69.2 Node 6 : Tumor size ( 4.4 cm ) + Axillary nodal status ( 4 lymph nodes positive ) + Hormonal therapy ( present ) + Pericapsular Involvement of Lymph Nodes ( negative ) 36.4 Node 2 : Tumor size ( 4.4 cm ) + Axillary nodal status ( negative ) 20.0 Node 3 : Tumor size ( 4.4 cm ) + Axillary nodal status ( 1 - 3 lymph nodes positive ) 35.7 .
+Full-size table .
+View Within Article .
+We could see differences in two subtrees .
+For the tumor size 4.4 cm , age of menarche proved the best predicting variable .
+For the age of menarche branch which included 15 years-old , hormonal therapy was the most prominent .
+For the tumor size 4.4 cm , age of menarche ( 15years-old ) and absent of hormonal therapy , axillary nodal status ( 4 lymph nones positive ) was the most prominent .
+For the tumor size 4.4 cm , present of hormonal therapy , histological grade was the most prominent .
+Classification trees are charts that illustrate decision rules .
+The decision rules provide specific information about risk factors based on the rule induction .
+They begin with one root node that contains all of the observations in the sample .
+The C4.5 has 13 leaf nodes , of which 8 are terminal nodes .
+3.4. Survival analysis for breast cancer patients .
+The tree of C4.5 had an initial split on breast cancer , and eight terminal nodes were formed .
+The variables determining the structure of the tree included tumor size , age of menarche , hormonal therapy , histological grade and axillary nodal status .
+The longest surviving terminal node ( node 1 ) included only three events in 41 patients with tumor size 4.4 cm and age of menarche 15 years-old .
+Such patients had a 52 month median survival .
+A second terminal node ( node 7 ) with a relatively long median survival of 49 month included only two events in 15 patients with tumor size 4.4 cm , age of menarche 15 years-old , hormonal therapy was not given and axillary nodal status was negative .
+A third terminal node ( node 8 ) with median survival of 45 months included nine events in 15 patients with tumor size 4.4 cm and age of menarche 15years-old , hormonal therapy was not given and axillary nodal status was 1 - 3 lymph nodes positive .
+One of the shortest surviving terminal node ( node 2 ) included 15 events in 19 patients with tumor size 4.4 cm and hormonal therapy was not given .
+These patients had a median survival of only 14.6 months .
+Table 5. .
+Descriptive statistics and five-year recurrence-free survivals ( RFS ) for each nodes .
+NodeTerminal nodeMedianMeanStandard deviationNumber of recurrencenFive-year RFS ( % ) 1Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) 52.147.525.234197.7 2Tumor size ( 4.4 cm ) + Hormonal therapy ( absent ) 14.622.322.2151921.1 3Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) + Hormonal therapy ( present ) 40.944.727.82813779.6 4Tumor size ( 4.4 cm ) + Hormonal therapy ( present ) + Hystologic grade ( I - II ) 33.546.930.361968.4 5Tumor size ( 4.4 cm ) + Hormonal therapy ( present ) + Hystologic grade ( III ) 20.523.715.1111942.1 6Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) + Hormonal therapy ( absent ) + Axillary nodal status ( 4 lymph nodes positive ) 41.840.323.461457.1 7Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) + Hormonal therapy ( absent ) + Axillary nodal status ( negative ) 48.948.022.721586.7 8Tumor size ( 4.4 cm ) + Age of menarche ( 15 years-old ) + Hormonal therapy ( absent ) + Axillary nodal status ( 1 - 3 lymph nodes positive ) 44.850.244.591540.0 .
+Total40.542.628.18027971.3 .
+Full-size table .
+View Within Article .
+The five-year Kaplan - Meier estimates for recurrence-free survival was 71.3% in the whole patient population. Fig. 2 shows the estimated recurrence-free survival rates according to the decision tree method based on the C4.5 analysis .
+We tested the statistical significance of the difference between the survival curves of two terminal nodes using the Log-Rank test .
+The survival curve of node 1 was statistically different from node 2 , 4 , 5 , 6 and 8. Node 2 was statistically different from all nodes except node 5. The survival curve of node 3 was statistically different from node 2 , 5 , and 8. The survival curve of node 4 was statistically different from node 2 and 5. The survival curve of node 5 was statistically different from node 7 , and finally , node 7 was statistically different from node 8. .
+Full-size image ( 22K )
+Fig. 2. Kaplan - Meier survival curves of the eight terminal nodes generated from C4.5 .
+View Within Article .
+Table 6. .
+Pairwise comparisons by Log-Rank ( Mantel - Cox )
+Node 2Node 3Node 4Node 5Node 6Node 7Node 8 Node 12 = 38.8052 = 3.5582 = 5.5742 = 24.8692 = 8.9572 = 0.4732 = 14.153 p 0.001p = 0.059p = 0.018p 0.001p = 0.003p = 0.492p 0.001 Node 22 = 50.9002 = 12.7642 = 1.1412 = 4.5932 = 16.3272 = 5.266 p 0.001p 0.001p = 0.285p = 0.032p 0.001p = 0.022 Node 32 = 0.7882 = 26.6972 = 3.7372 = 0.5102 = 8.432 p = 0.375p 0.001p = 0.053p = 0.475p = 0.004 Node 42 = 7.1312 = 0.4282 = 1.4862 = 1.865 p = 0.008p = 0.513p = 0.223p = 0.172 Node 52 = 1.5072 = 9.7902 = 1.804 p = 0.220p = 0.002p = 0.179 Node 62 = 3.1522 = 0.071 p = 0.076p = 0.790 Node 72 = 4.322 p = 0.038 .
+Full-size table .
+View Within Article .
+4. Discussion .
+In this study , we reported a research where we developed several prediction models for predicting the risk factors of breast cancer .
+Specially , we used five decision trees methods .
+Furthermore , we evaluated performance of models according to predictive values .
+MDS was done to identify homogenous groups of classification techniques .
+We estimated RFS rates according to the decision tree method based on the C4.5 analysis .
+Current evidence supports a clear association between clinical and pathologic factors and reduced RFS in breast cancer .
+The prognostic factors influencing recurrences and survival can be divided into intrinsic , which are related to the characteristics of the tumor ( histologic features , axillary lymph node metastases , tumor size , hormonal receptor status , histologic and nuclear grade , stage , lymphovascular invasion , pericapsular involvement of lymph nodes and perineural invasion ) , and extrinsic ( host factors-age , menopausal status , age of menarche , family history of cancer - the type and adequacy of treatment-surgery , radiotherapy , chemotherapy , hormonal therapy ) .
+The incidence of recurrence is greater and survival decreased with larger tumor size , higher histologic grade , presence of lymphovascular invasion , involvement of axillary nodes by tumor , negative estrogen receptor status and young age ( [ Carter et al. , 1989 ] and [ Henson et al. , 1991 ] ) .
+Generally , five-year recurrence-free survival is ranged from 65% to 80% in all population in breast cancer patients  .
+The Cox regression model is the most common tool for investigating simultaneously the influence of several factors on the survival time of patients .
+But it gives no estimate of the degree of separation of the different subgroups .
+In the literature , there are several reports about a separation of patients in subgroups with different prognosis for survivals .
+Kenneth_et_al.  reported that clinicians often experience difficulty applying standard statistical methods to assess the interactions between clinical variables , determining the cumulative effect of these variables on survival , and translating this information into appropriate management , because of the complex presentations of patients with unknown primary carcinoma .
+Hence , they showed using Kaplan - Meier analysis together with CRT in patients with unknown primary carcinoma .
+Aligayer_et_al.  showed to determine if Src activity is a marker for poor clinical prognosis in colon carcinoma patients , and analyzed a significant association between elevated Src activity and shorter overall survival of all patients by Kaplan - Meier analysis .
+Stark and Pfeiffer reported that classification trees ( ID3 , C4.5 , CHAID and CRT ) were well-suited for exploratory data analysis in complex data sets in veterinary epidemiology .
+Sauerbrei_et_al.  reported a new prognostic classification schemes for node negative breast cancer patients .
+According to the CRT analysis for RFS , they found that tumor size and grade are the most important factors for prognosis of this group of patients .
+Additionally age and estrogen receptor status are the other factors .
+In our study , we found the similar prognostic factors with C4.5 metod for RFS in breast cancer patients .
+The node 2 ( tumors larger than 4.4 cm and had not hormonal treatment ) consists of 19 patients with a bad prognosis ( 79% recurrences for RFS , median 14.6 months for RFS ) .
+Patients with low grade ( HG I ) breast cancers have a better prognosis than those with high grade carcinoma  .
+Present study has shown a statistically significant shorter RFS in patients with high grade ( HG III ) tumors than those with low grade tumors ( p = 0.008 ) .
+In breast cancer patients , tumor metastasis to axillary lymph nodes is a significant risk factor for survival outcome or development of metastatic disease  .
+In present study , patients having 4 positive axillary lymph nodes ( node 6 ) had a statistically significant lower survival than node 1 and 2 ( p = 0.003 and p = 0.032 , respectively ) .
+Age at menarche has been shown to be a risk factor for the development of primary breast cancer .
+Evidence indicates that lifetime estrogen exposure may be a critical factor in breast carcinogenesis .
+However , their prognostic influence on breast cancer once it has presented is uncertain .
+In some studies , they found no association between age at menarche and outcome in patients with primary breast cancer  .
+On the contrary , Trivers_et_al.  reported that early age at menarche modestly increased mortality .
+In our study , we found that the age of menarche as a second important risk factor for survival .
+In this study , we found that C4.5 performed better than CHAID , QUEST , ID3 and CRT techniques .
+Furthermore , we estimated RFS rates using Kaplan - Meier analysis according to the C4.5 analysis .
+As a result , we recommend to use decision tree methods together with Kaplan - Meier analysis to determine risk factors and effect of this factors on survival .
+We compared methods by using a real data set in order to provide information on general tendency of data structures , assess the effect of specific variables on survival in data sets and help researchers to select best method for solving problems of classification .
+There are limited data on sufficiency of classification efforts by only one method .
+On the basis of these considerations , we suggest that data should be better explored and processed by high performance modelling methods .
+Researchers should avoid assessment of data by using only one method in future studies focusing on breast cancer or any other clinical condition .

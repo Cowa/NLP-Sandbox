@@ -1,0 +1,243 @@
+Breast cancer remains a major public health problem .
+Several established risk factors such as parity or age at first full-term pregnancy were identified and related to breast cancer etiology ( 1 ) .
+Other factors such as diet or alcohol consumption are of great interest because they constitute a modifiable risk factor of breast cancer .
+The association between alcohol consumption and breast cancer has been largely investigated , but the results published are not entirely consistent .
+While some studies found no evidence of increasing risk with alcohol consumption ( 2 ) , ( 3 ) , ( 4 ) , ( 5 ) , ( 6 ) , ( 7 ) and ( 8 ) , others reported a significant positive association ( 9 ) , ( 10 ) , ( 11 ) , ( 12 ) and ( 13 ) or agreed that only high alcohol consumption increases breast cancer risk ( 14 ) , ( 15 ) and ( 16 ) .
+Even if there is a consensus on the harmful and causal effects of alcohol consumption on breast cancer risk ( 12 ) and ( 17 ) , some issues still remain unresolved .
+One of these issues is the role of drinking pattern on breast cancer risk .
+Apart from two recent studies ( 18 ) and ( 19 ) , previous studies have investigated the effect of average intake without taking into account the pattern of consumption .
+Southern France is a Mediterranean region where wine is an integral part of the population 's dietary habits .
+Although most studies have investigated the effect of wine consumption on breast cancer risk , to date no study has investigated the link between breast cancer risk and drinking pattern of this beverage .
+The principal aim of this case-control study is to evaluate the effect of drinking pattern of alcoholic beverages on breast cancer risk .
+We focused our study particularly on wine consumption .
+We investigated average wine consumption by taking into account whether wine was consumed frequently or whether there was higher intake on fewer occasions .
+Dose-response analysis remains the key approach to epidemiological studies .
+Traditional dose-response analysis is usually based on threshold values represented by the quintiles of the dietary variables .
+In this case-control study on a population in Southern France , we chose to examine the association between alcohol consumption and breast cancer by means of a new statistical dose-response approach , which is based on the detection of consumption threshold values according to the breast cancer odds ratio ( OR ) variations .
+This statistical method draws on the adaptation of free knot spline function in logistic models and provides a different way of looking at the relation between disease and risk factors since the quantitative risk factors can be determined more precisely ( 20 ) .
+To show the advantages of this new method , we compared both the classical method and the alternative statistical spline method by examining the association between drinking pattern of alcoholic beverages and the risk of breast cancer .
+Methods Study Population .
+We conducted a population-based case-control study among French women 25 to 85 years of age .
+Eligible case subjects were French-speaking women , residing in Southern France ( Hérault only ) with no former history of breast cancer .
+We attempted to recruit all those patients newly diagnosed with primary breast cancer confirmed histologically between June 2002 and December 2004 .
+Patients were identified from both surgical ward and medical information department records .
+The median time between diagnosis and interview was 3 months .
+The control subjects were randomized from the list of residents supplied by the electoral roll .
+For each case recruited , two controls were matched according to both age ( 1 year ) and area of residence .
+Among the respondents , the rate of participation was 90.8% for cases and 71.6% for controls .
+Four hundred thirty-seven eligible cases and 922 eligible controls were enrolled in the study .
+Cases and controls signed a written consent form before enrolment in the study .
+The study protocol was approved by two ethical committees for studies using human subjects ( the Consultative Committee on Data Processing for Medical Research and the National Commission on Data Processing and Rights ) , which require that all medical information be confidential and anonymous .
+Data Collection .
+Data were obtained by means of a structured questionnaire administered by two trained interviewers .
+The first part of the questionnaire was related to demographic characteristics , reproductive and menstrual factors , oral contraception , hormone replacement therapy ( HRT ) , family history of cancer , anthropometric factors , physical activities , and smoking history .
+Women were considered to be menopausal if menstruation had ceased naturally in the 12 months prior to the interview or following a bilateral oophorectomy .
+In addition , we estimated ovulation activity by subtracting the cumulative number of months of pregnancy , breast-feeding , and use of oral contraception from the number of years between menarche and menopause ( or the date of interview in the case of premenopausal women ) .
+Questions on physical activity were drawn from a previous study ( 21 ) .
+Subjects were asked to indicate the type of leisure activity and the time spent on it per week .
+Household and occupational activities were valued and scored ; according to the time spent per week for household activities and by level for occupational activities .
+The second part of the questionnaire was related to diet and alcohol consumption .
+It assessed the subjects usual drinking habits .
+Subjects were asked to report drinking status ( nondrinker , ex-drinker or current drinker ) .
+Nondrinkers were defined as women who had never drunk .
+For controls , ex-drinkers were defined as women who had stopped drinking before the study started and for cases before breast cancer was diagnosed .
+Current and ex-drinkers were asked about their drinking habits in the previous year if their habits had not changed recently .
+Otherwise , habits before such a change were taken into account .
+Alcohol consumption assessment was separated into three categories .
+The first concerned consumption during the week , the second dealt with consumption during the weekend and the last was related to parties or family gatherings .
+For each specific type of alcoholic beverage ( wine , aperitifs , beer , spirits ) , subjects were asked to indicate how much they drank and how often .
+Five categories of frequency were thus defined : abstinence ( no alcohol intake ) , exceptional consumption ( less than once a month ) , occasional consumption ( more than once a month but less than once a week ) , regular consumption ( at least once a week ) , and almost every day ( consumption more than five times a week ) .
+To compare our results with other published studies that have investigated the link between drinking pattern of alcoholic beverages and breast cancer risk ( 18 ) and ( 19 ) , three groups of drinkers were formed ( abstinent , sporadic , and frequent drinkers ) .
+Frequent drinkers were defined as women who consumed alcohol five times a week or more often and sporadic drinkers comprised women who drank four times per week or less .
+Alcohol consumption was standardized and recorded according to drink units .
+One unit corresponded to 10 g of ethanol in 4.2 fl oz of wine , 2.7 fl oz of aperitif ( such as fortified wine or alcohol containing 20% of alcohol by volume ) , 11 fl oz of beer or 1 fl oz of spirits ( alcohol beverages containing around 40% of alcohol by volume ) .
+The information about frequency and amount of consumption allowed us to describe the consumption habit of the study population .
+The total period of consumption of alcoholic beverages was calculated from the age at which the woman began drinking to the age when she ceased drinking , or her age at the time of interview if she were continuing to drink alcohol .
+Changes in drinking pattern during the period of consumption were taken into consideration .
+For example , a woman who claimed not to be drinking at the time of interview could , in fact , have been at some previous point alcoholic or could have had sporadic alcoholism that motivated the cessation of drinking .
+In such cases , the longest typical phase of consumption during that individual 's history was used for the study .
+Diet was measured by a validated food frequency questionnaire ( 21 ) and ( 22 ) organized mainly by food groups .
+This food frequency questionnaire had already been used for diet studies ( 23 ) and ( 24 ) ; it assessed the subjects usual diets in the previous year if their habits had not changed recently .
+Otherwise , dietary habits before such a change were taken into account .
+Statistical Analysis .
+Multivariate conditional logistic regression was employed to analyze the association between breast cancer and alcohol consumption .
+ORs with their associated 95% confidence intervals ( CIs ) across exposure levels of alcohol intake were calculated and adjusted for potential confounder factors .
+These factors were chosen according to their statistical significance ( p 0.10 ) when they were taken separately in a univariate analysis .
+The potential confounders included in the multivariate logistic model were education , parity , age at first full-term pregnancy , duration of ovulatory activity , breast-feeding , family history of breast cancer ( first-degree : mother and sisters ) , body mass index ( BMI ) , and physical activity .
+Dietary factors were also analyzed in their association with breast cancer risk and adjusted for confounder factors .
+The total energy intake and the dietary factors related to breast cancer were also included in the multivariate logistic model .
+This case-control study was matched according to age with a narrow interval ( 1 year ) ; therefore statistical adjustment for age was not required .
+Furthermore , as being menopausal was identified as a nonconfounder , there was no need for statistical adjustment .
+In each group of drinking pattern ( sporadic and frequent drinkers ) , instead of transforming the continuous variables into ordinal variables according to distribution quartiles ( the sole function of which is to form different groups of homogeneous size ) , free knot splines for logistic models and threshold selection were used .
+This method provides a better means of splitting the continuous variables into several groups .
+These groups were formed using estimated threshold values varying according to the OR of breast cancer .
+Furthermore , extreme thresholds ( located before the 25th quartile or after the 75th quartile ) can be revealed by this method .
+This statistical method was recently applied to a clinical trial for an in vitro fertilization program and provided convincing results ( 20 ) .
+Unlike logistic models that assess the linear effect of the risk factor on the logit function and suppose that a unit change in one component of X has the same effect on the patient over the whole range of this component , the spline method provides an interesting way of looking at the relationship between disease and explanatory variables by relieving the linearity assumption of the logit function .
+The risk factor X enters the logistic model via a set of linear spline functions ( i.e. , the degree of the spline function is restricted to 1 ) that differs according to the number of knots ( including the case in which the number of knots is null ) .
+A spline function without knots corresponds to a linear function .
+The function that best fits the data is selected using Akaike Information Criterion ( AIC ) and Bayesian Information Criterion ( 25 ) and ( 26 ) .
+Moreover , the knots of spline function are estimated for a given risk factor and can be considered as threshold values for which the OR of breast cancer changes .
+Thus , when the best model is not the linear model , the continuous variables are transformed into ordinal variables using these threshold values .
+This method was applied to our data using the S-PLUS package ( version 4.5 ) .
+Tests of the linear trend , when appropriate , were conducted by considering the variable in the conditional logistic model to be monotone ; the p value attesting the degree of significance of the variable in the model .
+All the p values were two sided and values less than 0.05 were considered statistically significant .
+The Wald test was used to test nullity of parameters .
+Multivariate conditional logistic regression was produced by means of the PHREG Procedure in the statistical software package SAS ( version 8 ) .
+Results .
+The mean age of cases was 58.1 years ( 11.5 ) years and that of controls was 57.4 ( 11.4 ) years , with no significant difference in the two groups ( p = 0.3056 ) .
+We found associations for most of the accepted risk factors of breast cancer .
+Parity tends to decrease the risk of breast cancer and a first-degree family history of breast cancer tends to increase breast cancer risk .
+Education , breast-feeding , and leisure physical activity were inversely associated to breast cancer risk .
+Conversely , a late first full-term pregnancy , long duration of ovulatory activity , high BMI , as well as household and occupational physical activities increased breast cancer risk .
+Table 1. .
+Distribution of selected risk factors or breast cancer with associated odds ratios and 95% confidence intervals .
+VariablesSubgroupsNo. of casesNo. of controlsUnadjusted OR ( 95% CI ) First-degree family history of breast cancerNo3607891 Yes641071.34 ( 0.95 - 1.89 ) ParityNulliparous55891 Parous3828330.70 ( 0.49 - 1.01 ) Age at first full-term pregnancy30 yr3217441 30 yr or nulliparous1151781.60 ( 1.21 - 2.21 ) Breast-feedingNo2334191 Yes2045030.71 ( 0.56 - 0.89 ) Duration of ovulatory activity29.6 yr1894531 29.6 yr2234241.43 ( 1.08 - 1.91 ) EducationBaccalaureate3025671 Baccalaureate1343550.71 ( 0.55 - 0.92 ) BMI18 - 25281657125 - 301052041.17 ( 0.89 - 1.55 ) 3051611.90 ( 1.26 - 2.86 ) Physical activity ( leisure ) No1602431 Yes2766790.63 ( 0.49 - 0.80 ) Physical activity ( household ) 14 hr / wk1782491 14 hr / wk2593732.13 ( 1.67 - 2.72 ) Physical activity ( occupation ) Sedentary2486181 Nonsedentary1893041.57 ( 1.23 - 2.00 ) Total energy intake1610 kcal2074731 1610 kcal2304491.18 ( 0.94 - 1.49 )
+Full-size table .
+OR = odds ratio ; CI = confidence interval ; BMI = body mass index .
+View Within Article .
+Various food intakes were related to breast cancer risk .
+Our results support the role played by high consumption of red meat in increasing breast cancer risk and that of cereals and olive oil in its reduction .
+Nonsignificant decreases were associated with cooked vegetable intake as well as legumes and fish consumption .
+Dairy products , raw vegetables , and fruit intake appeared not to be associated with breast cancer risk .
+Table 2. .
+Odds ratios and 95% confidence intervals of breast cancer associated with selected foods adjusted for total energy and breast cancer risk factors .
+IntakeSubgroupsNo. of casesNo. of controlsOR ( 95% CI ) Total vegetables0 Q 2221182381 Q 2223196840.98 ( 0.72 - 1.36 ) Raw0 Q 992094431 Q 992284791.12 ( 0.85 - 1.49 ) Cooked0 Q 105861551 Q 1053517670.86 ( 0.60 - 1.24 ) CerealsQ 444098911 0 Q 4428310.29 ( 0.15 - 0.55 ) Fish and seafoodQ 232033821 Q 232345400.80 ( 0.61 - 1.06 ) Olive oilQ 267771 2 Q 11.61694010.53 ( 0.35 - 0.84 ) 11.6 Q 20.5962300.60 ( 0.37 - 0.96 ) Q 20.51052140.71 ( 0.44 - 1.14 ) Fruits1001.02 ( 0.95 - 1.10 ) Legumes1000.59 ( 0.29 - 1.20 ) Meat1001.95 ( 1.08 - 3.53 ) Dairy products1001.00 ( 0.95 - 1.06 )
+Full-size table .
+OR = odds ratio ; CI = confidence interval ; Q = quantity of alcohol intake ( g / d ) .
+Adjusted for total energy intake , education , parity breast-feeding age at first full-term pregnancy , duration of ovulatory activity , body mass index , physical activity , first-degree family history of breast cancer .
+Energy intake of foods measured in grams per day .
+View Within Article .
+Of the1359 women in the study , 8.4% ( 9.4% of cases and 7.9% of controls ) reported no alcohol consumption in the 12 months prior to the diagnosis ( for cases ) or prior to the interview ( for controls ) .
+In addition , 54.4% of the women ( 54.9% of cases and 54.1% of controls ) drank alcoholic beverages less than five times a week ; 37.2% of the women ( 35.6% of cases and 38% of controls ) reported consumption of more than five times a week .
+No association was found between the frequency of alcohol consumption and breast cancer risk .
+Table 3. .
+Association between frequency of alcohol consumption and breast cancer risk .
+Intake frequencyCases ( N = 435 ) Controls ( N = 922 ) Unadjusted OR ( 95% CI ) OR ( 95% CI ) Never417311 Sporadic2394990.88 ( 0.58 - 1.32 ) 1.03 ( 0.62 - 1.71 ) Frequent1553500.78 ( 0.51 - 1.19 ) 0.75 ( 0.40 - 1.41 )
+Full-size table .
+Adjusted for education ; parity ; breast-feeding age at first full-term pregnancy ; duration of ovulatory activity ; body mass index ; physical activity ; first-degree family history of breast cancer ; consumption of cereals , meats , and olive oil ; total energy intake , and total alcohol consumption and duration of consumption .
+View Within Article .
+The average amount of total alcohol consumption was split according to the levels of consumption established in a previous study ( 5 ) .
+Alcoholic beverages were consumed ( but less than an average of 10 g per day [ 1 standard drink per day ] ) by 61.6% of cases and 53.6% of controls ; 16.3% of cases and 19.1% of controls consumed an average of between 10 and 15 g per day .
+An average of more than 15 g per day ( 1.5 standard drinks ) was consumed by 17% of cases and 19.2% of controls .
+Women who reported an average consumption of between 10 and 15 g / day of total alcohol intake ( 1 to 1.5 drinks / day ) had an OR of 0.58 ( 95% CI , 0.34 - 0.97 ) when compared with nondrinkers ( reference group ) .
+This association persisted after adjustment for established risk factors , dietary factors , and duration of consumption .
+Above 1.5 drinks per day , the risk rose but the association was nonsignificant .
+The dose-response relationship between alcohol consumption and breast cancer risk showed a nonsignificant association .
+For each 10 g / day of total alcohol intake , the OR is 0.97 ( 95% CI , 0.88 - 1.10 ) ( see Table 3 ) .
+Table 4 shows the ORs of breast cancer associated with total alcohol consumption categorised according to drinking pattern .
+Levels of consumption for sporadic and frequent drinkers were obtained by two methods : the classic method ( median thresholds ) and the spline method ( estimated thresholds ) .
+Neither of the two methods revealed an association between drinking pattern of total alcohol consumption and risk of breast cancer .
+Table 4. .
+Odds ratios ( 95% confidence intervals ) of breast cancer risk according to average alcohol consumption .
+Alcohol intakeCases ( N = 435 ) Controls ( N = 922 ) Unadjusted OR ( 95% CI ) OR ( 95% CI ) Q = 0417311 0 Q 52114210.92 ( 0.61 - 1.39 ) 0.75 ( 0.20 - 2.88 ) 5 Q 10571410.72 ( 0.44 - 1.90 ) 0.36 ( 0.10 - 1.53 ) 10 Q 15431300.58 ( 0.34 - 0.97 ) 0.21 ( 0.10 - 0.91 ) Q 15831570.97 ( 0.61 - 1.54 ) 0.97 ( 0.23 - 4.10 )
+Total intake ( 10 g / d ) 0.97 ( 0.88 - 1.10 ) 0.94 ( 0.75 - 1.17 )
+Full-size table .
+OR = odds ratio ; 95% CI = 95% confidence interval ; Q = quantity .
+Alcohol intake measured in grams per day .
+Adjusted for education ; parity ; breast-feeding age at first full-term pregnancy ; duration of ovulatory activity ; body mass index ; physical activity ; first-degree family history of breast cancer ; consumption of cereals , meats , and olive oil ; total energy intake , and total duration of alcohol consumption .
+View Within Article .
+The beverage-specific intakes of alcohol for wine , beer , aperitifs , and spirits were not associated with breast cancer risk .
+Results were not modified when abstainers and occasional drinkers were excluded from the analysis ( data not shown ) .
+Table 5. .
+Association between breast cancer and drinking pattern of alcoholic beverages when levels of drinking were obtained by two methods ( classic and spline )
+Alcohol intakeIntake levels ( g / d ) Median thresholdsNo. of casesNo. of controlsUnadjusted OR ( 95% CI ) OR ( 95% CI ) Never417311 Sporadic1.51342371.04 ( 0.67 - 1.62 ) 1.22 ( 0.72 - 2.09 ) 1.51042620.74 ( 0.46 - 1.15 ) 0.92 ( 0.54 - 1.57 ) Frequent13691850.63 ( 0.39 - 1.03 ) 0.67 ( 0.37 - 1.21 ) 13861650.94 ( 0.59 - 1.49 ) 1.10 ( 0.63 - 1.93 ) Intake levels ( g / d ) Spline thresholds Never417311 Sporadic1.91492671.03 ( 0.67 - 1.59 ) 1.21 ( 0.71 - 2.04 ) 1.9892320.71 ( 0.45 - 1.12 ) 0.93 ( 0.54 - 1.59 ) Frequent1553500.78 ( 0.51 - 1.20 ) 0.89 ( 0.53 - 1.50 )
+Full-size table .
+Adjusted for education ; parity ; breast-feeding age at first full-term pregnancy ; duration of ovulatory activity ; body mass index ; physical activity ; first-degree family history of breast cancer ; consumption of cereals , meats , and olive oil ; and total energy intake .
+View Within Article .
+Wine was the predominant type of alcoholic beverage in this population , representing 69.3% of total alcohol consumed .
+Aperitifs , spirits , and beers represented , respectively , 20.5% , 7.2% , and 4.1% of the total alcohol consumed .
+The average consumption of wine was 0.64 g / d 0.87 , whereas the average consumption of aperitifs , spirits , and beer was , respectively , 0.06 g / d 0.15 , 0.05 g / d 0.24 , and 0.02 g / d 0.13 ( data not shown ) .
+Average wine consumption was separated into three categories of drinking pattern : never , sporadic , and frequent consumption .
+When the median threshold was chosen to create the different groups of levels of consumption , the association between sporadic or frequent wine consumption and breast cancer was nonsignificant after adjustment for potential confounder factors .
+Table 6. .
+Odds ratios ( 95% confidence intervals ) for breast cancer per average intake ( 10 g ) of alcohol .
+Type of alcoholUnadjusted OR ( 95% CI ) OR ( 95% CI ) p Value for heterogeneity Total alcohol0.97 ( 0.88 - 1.10 ) Wine1.03 ( 0.90 - 1.17 ) 1.05 ( 0.90 - 1.24 ) Beer0.58 ( 0.17 - 1.95 ) 0.57 ( 0.17 - 1.93 ) 0.74 Aperitifs0.74 ( 0.30 - 1.82 ) 0.66 ( 0.23 - 1.94 ) Spirits1.09 ( 0.68 - 1.75 ) 0.93 ( 0.52 - 1.66 )
+Full-size table .
+Adjusted for education ; parity ; breast-feeding age at first full-term pregnancy ; duration of ovulatory activity ; body mass index ; physical activity ; first-degree family history of breast cancer ; consumption of cereals , meat , olive oil ; total energy intake and mutually adjusted for other specific beverages ( wine , beer , aperitifs , spirits ) .
+View Within Article .
+When the spline thresholds were used , a nonsignificant increase ( OR = 1.10 ; 95% CI , 0.73 - 1.55 ) was found between sporadic wine consumption and breast cancer .
+In contrast , a significant decrease in breast cancer were associated with women who had frequent consumption of between 10 and 12 g / d of wine when compared with non - wine drinkers ( OR = 0.44 ; 95% CI , 0.27 - 0.72 ) .
+Moreover , this association remained significant after adjustment ( OR = 0.51 ; 95% CI , 0.30 - 0.91 ] ) .
+Results were also not modified when non - wine drinkers and sporadic wine drinkers were considered as referent ( OR = 0.50 ; 95% CI , 0.30 - 0.80 ; data not shown ) .
+Above 12 g / d of wine consumption , the risk of breast cancer increased , but the association was nonsignificant. Fig. 1 illustrates OR variation of breast cancer according to spline thresholds of regular wine consumption .
+Table 7. .
+Association between breast cancer and pattern of drinking of wine when levels of drinking were obtained by both classic and spline methods .
+Wine intakeIntake levels ( g / d ) Median thresholdsNo. of casesNo. of controlsUnadjusted OR ( 95% CI ) OR ( 95% CI ) Never8214911 Sporadic11122070.99 ( 0.69 - 1.43 ) 1.18 ( 0.77 - 1.82 ) 1892230.77 ( 0.54 - 1.12 ) 0.98 ( 0.64 - 1.50 ) Frequent10.7651830.61 ( 0.41 - 0.91 ) 0.64 ( 0.40 - 1.05 ) 10.7871601.00 ( 0.68 - 1.48 ) 1.25 ( 0.78 - 1.98 ) Intake levels ( g / d ) Spline thresholds Never8214911 Sporadic2014300.88 ( 0.64 - 1.21 ) 1.10 ( 0.73 - 1.55 ) Frequent1039690.96 ( 0.58 - 1.59 ) 0.97 ( 0.53 - 1.78 ) 10.0 - 11.9311220.44 ( 0.27 - 0.72 ) 0.51 ( 0.30 - 0.91 ) 11.9 - 20.6531130.89 ( 0.58 - 1.37 ) 1.07 ( 0.64 - 1.82 ) 20.629391.35 ( 0.77 - 0.36 ) 1.72 ( 0.87 - 3.42 )
+Full-size table .
+Adjusted for education ; parity ; breast-feeding at first full-term pregnancy ; duration of ovulatory activity ; body mass index ; physical activity ; first-degree family history of breast cancer ; consumption of cereals , meats , and olive oil ; total energy intake ; and total consumption of alcoholic beverages other than wine .
+View Within Article .
+Full-size image ( 20K )
+Figure 1. OR variation of breast cancer according to spline thresholds of regular wine consumption .
+View Within Article .
+The adjusted analysis of drinking pattern of alcoholic beverages excluding wine showed that the risk associated with frequent drinkers did not differ from those of nondrinkers .
+In contrast , a significant association between sporadic consumption and breast cancer risk was found .
+When the levels of consumption were obtained by means of the median threshold , breast cancer risk associated with consumption above 0.7 g / d ( i.e. , above 21.6 g / mo ) was reduced ( OR = 0.63 ; 95% CI , 0.42 - 0.94 ) compared with the risk associated with nondrinkers .
+Apart from a lower estimated threshold value of 0.6 g / d ( i.e. , above 19.3 g / mo ) , similar results were found when levels of consumption were obtained by using the spline method .
+Table 8. .
+Association between breast cancer and pattern of drinking of alcohol beverages other than wine when levels of drinking were obtained by both classic and spline methods .
+Alcohol intake other than wineIntake levels ( g / d ) Median thresholdsNo. of casesNo. of controlsUnadjusted OR ( 95% CI ) OR ( 9s5% CI ) Never9517511 Sporadic0.71893600.94 ( 0.69 - 1.28 ) 0.95 ( 0.65 - 1.39 ) 0.71403670.70 ( 0.50 - 0.95 ) 0.63 ( 0.42 - 0.94 ) Frequent11.46121.08 ( 0.35 - 3.40 ) 0.85 ( 0.23 - 3.11 ) 11.4581.16 ( 0.37 - 3.65 ) 0.79 ( 0.22 - 2.93 ) Intake levels ( g / d ) Spline thresholds Never9517511 Sporadic0.61642841.03 ( 0.75 - 1.42 ) 1.03 ( 0.70 - 1.51 ) 0.61654430.67 ( 0.49 - 0.92 ) 0.63 ( 0.42 - 0.93 ) Frequent11201.14 ( 0.50 - 2.59 ) 0.85 ( 0.33 - 2.17 )
+Full-size table .
+Adjusted for education ; parity ; breast-feeding at first full-term pregnancy ; duration of ovulatory activity ; body mass index ; physical activity ; first-degree family history of breast cancer ; consumption of cereals , meats , and olive oil ; total energy intake ; and total consumption of wine .
+View Within Article .
+Discussion .
+As in previous studies ( 14 ) , ( 15 ) , ( 16 ) , ( 18 ) , ( 27 ) , ( 28 ) , ( 29 ) and ( 30 ) , our results support the hypothesis that a threshold effect indeed exists since risk of breast cancer decreased or was not modified by consumption under a certain threshold , above which it increased .
+The threshold value in these different studies did not exceed an average consumption of 20 g / d ( 2 standard drinks / d ) .
+In our study , women who had an average consumption of 1 to 1.5 drinks per day ( 10 - 15 g of ethanol / d ) had a lower risk when compared with nondrinkers .
+Above 1.5 drinks per day , the risk rose but the association was nonsignificant .
+Unlike studies which found a significant increase in the risk of breast cancer with a consumption above 15 g / d ( 9 ) , ( 10 ) , ( 11 ) , ( 12 ) , ( 13 ) , ( 18 ) , ( 27 ) , ( 28 ) , ( 29 ) , ( 30 ) and ( 31 ) , our study agrees with those ( 2 ) , ( 3 ) , ( 4 ) , ( 5 ) , ( 7 ) and ( 8 ) which did not find a significant association .
+A recent study ( 19 ) suggests the importance of drinking pattern of alcohol consumption in breast cancer etiology .
+However , to date , only two studies ( 18 ) and ( 19 ) have examined the association between drinking pattern of alcohol and breast cancer .
+As found in a previous study ( 18 ) , drinking frequency did not influence breast cancer risk in our study .
+For the same total consumption and duration of consumption of alcohol , women who had sporadic consumption had the same risk as women who had frequent consumption .
+However , further investigations must be conducted in this direction in order to confirm the results found .
+Many studies have investigated the effects of different types of alcoholic beverages on breast cancer .
+As with the meta-analysis by Ellison et al. ( 12 ) , no significant association was found between the different types of alcoholic beverage and breast cancer risk .
+However , although no association between pattern of consumption of total alcohol and breast cancer was found , the type of alcoholic beverage seemed to play an important role in this association .
+In this study , the risk associated with women who consumed approximately one drink ( 10 - 12 g of ethanol / d ) of wine per day decreased significantly when compared with the risk associated with non - wine drinkers or sporadic wine drinkers .
+The association remained unchanged after adjustment for potential confounder factors ( established factors of breast cancer , dietary factors , and other alcoholic beverages : beer , aperitifs , and spirits ) .
+Above 12 g / d of wine consumption the risk of breast cancer increased but the association was non significant .
+The protective effect of low and regular wine consumption on breast cancer is plausible since wine , particularly red wine , contains high levels of antioxidants as well as resveratrol , a phytoestrogen with anticancer properties ( 32 ) and ( 33 ) .
+It is also likely that high regular levels of alcohol intake supplant the beneficial effects .
+This last hypothesis can explain previous results concerning the deleterious effect of moderate to high wine consumption on breast cancer .
+However , our study could not confirm this hypothesis because only 5% ( 6% for cases and 4% for controls ) of the study population consumed more than two drinks of wine per day .
+On the other hand , our study may explain the protective effect of alcohol consumption found since wine is the predominant type of alcoholic beverage in this population and 37% of the study population were frequent wine drinkers .
+Pattern of consumption of alcoholic beverages other than wine was also associated with breast cancer risk .
+After adjustment for wine consumption , the risk associated with women who consumed sporadically more than 19.3 g / mo of alcoholic beverages other than wine decreased when compared to the risk associated with nondrinkers .
+In contrast , the risk associated with frequent drinkers did not differ from those of nondrinkers .
+Results of some studies suggest that the association between alcohol consumption can be modified by use of HRT ( 34 ) , ( 35 ) , ( 36 ) and ( 37 ) , whereas findings from other studies support no difference between HRT users and nonusers ( 4 ) , ( 7 ) , ( 8 ) , ( 11 ) , ( 29 ) and ( 38 ) .
+In the present study , the estimated association with average alcohol intake was identical for both HRT and non-HRT users .
+The association between drinking pattern and breast cancer risk did not differ within either of these groups of HRT users .
+Although we found HRT to have no significance on alcohol / breast cancer association , we cannot exclude a possible effect .
+In fact , taken separately , factors may register an association ; however , this may not necessarily be the case when considered together .
+The effects of alcohol on various biological mechanisms in the causation of breast cancer have been widely discussed .
+Investigators have suggested that alcohol consumption increases the risk of breast cancer among women by influencing estrogen metabolism ( 39 ) .
+The promotion of the growth of breast cancer may also be explained by an increased production by the liver of an insulin-like growth factor associated with moderate alcohol intake ( 40 ) .
+Likewise , alcohol may exhibit mutagenic and oxidative effects in breast tissue , affect folate levels , and lead to damaged DNA ( 41 ) .
+Although several possible mechanisms link chronic alcohol consumption to breast cancer , it is possible that the critical effect of alcohol on cancer depends on a threshold value .
+The absence of adverse effects of low alcohol consumption on cancer found in our study is , therefore , plausible .
+The strength of this study is its ability to examine the association between breast cancer and drinking patterns of alcoholic beverage , particularly wine .
+Furthermore , several confounding factors were taken into account , more particularly , dietary factors and total duration of consumption .
+Educational level in our study was associated with breast cancer ; it represents an indicator of the socioeconomic status of population study .
+Some studies ( 5 ) and ( 7 ) have observed that a higher level of education is associated with higher alcohol intake , but none have reported a significant interaction .
+To avoid a possible confounding effect between alcohol and breast cancer due to socioeconomic status , all analyses were adjusted for educational level .
+Because frequent and moderate to heavy consumption of alcohol were rare in our population , we did not have adequate statistical power to examine the relationship between heavy alcohol consumption and breast cancer risk .
+Although cases and controls were interviewed in similar conditions , we could not avoid a possible recall bias inherent in retrospective studies .
+We can attribute the unexpected findings of the protective effect of alcohol consumption to possible recall bias since cases could have modified responses concerning their alcohol consumption owing to their knowledge of their disease .
+However , although alcohol consumption , particularly wine in the Mediterranean region , is common , discussing alcohol consumption remained taboo among cases and controls and led to minimizing the bias .
+The comparison between nonparticipants and participants , in particular concerning alcohol consumption , was not possible in our study .
+Cases and controls , who refused to participate , would not consent to give any information related to the questionnaire .
+This nonparticipation limited the scope of our study .
+From a statistical point of view , the use of the spline logistic model provided a practical tool for investigating the dose-response relationship by creating optimal groups of exposure to risk factors .
+Furthermore , this method allowed an accurate estimation of consumption for which the risk of breast cancer varies significantly .
+In summary , the drinking pattern of each type of specific beverage , particularly wine , seems important in the alcohol - breast cancer association .
+Low and regular consumption of wine reduces the risk of breast cancer .
+The risk associated with women who consumed approximately one drink of wine per day decreases significantly when compared to the risk associated with nondrinkers or sporadic wine drinkers .
+The risk-benefit ratio of alcohol consumption is very complex and cannot be ignored .
+Knowing the benefits of low consumption on overall mortality and cardiovascular diseases , it is perhaps not suitable to systematically advise that all low alcohol consumers , especially wine drinkers , reduce their alcohol intake .
+As suggested in a previous study ( 42 ) , it would be interesting to investigate the effects of alcohol on subpopulations with combined profiles , such as a subpopulation with a high predisposition to breast cancer and a low predisposition to cardiovascular disease or vice versa .
+We could constitute different groups : without predisposition to breast cancer and cardiovascular disease , predisposition to only one disease , and predisposition to both .
+Disease predisposition could be assessed by considering exposure to established risk factors of disease ( e.g. , the first degree of family history , parity , age at full-term pregnancy of breast cancer ) .
+Results of such studies could improve public health recommendations .
+This work was supported by a grant from the National Cancer Institute of France , the Hérault Regional Council , and Languedoc-Mutualité .
+We wish to thank Pamela Goodman-Stephens for her valuable contribution .

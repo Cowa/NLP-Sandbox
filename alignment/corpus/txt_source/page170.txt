@@ -1,0 +1,198 @@
+Wolbach et Howe dès 1925 ont montré que les rétinoïdes avaient un rôle important dans la différentiation et la prolifération des épithéliums humains  .
+Les fruits et les légumes ( pêches , carottes et épinards ) contiennent des carotènes et de la vitamine A. Les études épidémiologiques ont lié ces substances à la genèse des cancers .
+L' isolation des métabolites de la vitamine A a permis d' identifier les rétinoïdes .
+Les rétinoïdes règlent la croissance cellulaire  , modifient la prolifération  , inhibent l' ornithine décarboxylase  , facilitent la différentiation et l' apoptose [ 22 and 23 ] .
+Les rétinoïdes ont un rôle établi dans le traitement et la prévention des épithéliomas de la sphère ORL [ 8 and 24 ]
+Parmi les 4000 molécules étudiées , le fenrétinide est la molécule synthétique la plus prometteuse pour la prévention du cancer du sein .
+Elle inhibe la prolifération des canaux mammaires et des lobules tout en rendant le tissu mammaire moins susceptible aux substances carcinogènes , à des concentrations atteintes cliniquement .
+Le fenrétinide est bien absorbé oralement et a une demi vie de 24 h .
+Cette molécule se concentre dans les sécrétions mammaires ( 30 fois plus élevée que dans le sérum ) et dix fois plus dans le tissu mammaire sain ou néoplasique .
+Parmi d' autres vertus le fenrétinide abaisse les taux locaux de IGF-1 , puissant mitogène du tissu mammaire 
+Quelques essais sont en cours .
+Entre mars 1987 et juillet 1993 , 2972 patientes ayant été soignées pour un cancer du sein à un stade précoce ont été tirées au sort à l' Institut National des Tumeurs de Milan pour recevoir quotidiennement soit 200 mg de fenrétinide soit un placebo pendant cinq ans .
+Le traitement était suspendu trois jours par mois pour éviter les troubles de la vision nycthémérale .
+Le critère de jugement était la survenue d' un cancer controlatéral  .
+Une analyse intermédiaire avec un suivi médian de 65 mois n' a pas montré de bénéfice en termes de survenue de cancer sur le sein controlatéral chez la femme ménopausée , mais seulement une tendance à l' efficacité pour les femmes non ménopausées .
+Le fenrétinide n' a pas montré jusqu' à_présent d' influence sur les taux de survie exempte de récidive ou de survie globale .
+Un effet collatéral bénéfique observé est la diminution significative des cancers de l' ovaire pendant les cinq ans de l' intervention  .
+L' absence d' effet préventif du fenrétinide ne doit pas faire rejeter cette molécule .
+Il a été montré que le polymorphisme des récepteurs de l' IGF-1 Insulin Growth Factor pourrait moduler les effets de la molécule de fenrétinide sur le sein .
+Certaines femmes exprimant une forme spécifique de ces récepteurs pourraient bénéficier de la prévention par ces molécules , encore faut il les identifier  .
+2. Les anti-oestrogènes2.1 .
+Le tamoxifène
+Les molécules qui modulent sélectivement l' activation des récepteurs hormonaux ( SERM ) par compétition avec les oestrogènes circulants pour la liaison avec les récepteurs semblent devoir remplacer les rétinoïdes .
+L' effet pharmacologique réversible anti-oestrogène du tamoxifène a été décrit in_vitro sur la lignée de cellules mammaires cancéreuses MCF-7 .
+Le tamoxifène bloque la prolifération cellulaire qui est rétablie par l' addition d' estrogènes  .
+L' induction et la prolifération des tumeurs mammaires chimio-induites chez le rat sont réduites par le tamoxifène  .
+Les effets de cette molécule sont spécifiques d' espèces animales , oestrogéniques pures chez le chien et la souris , anti-oestrogéniques pures chez la poule et des effets oestrogéniques et anti-oestrogéniques chez l' homme  .
+Le concept de Serm Selective Estrogen Receptor Modulators repose sur deux observations expérimentales .
+Chez la souris athymique doublement transplantée dans la graisse périmammaire , une lignée tumorale mammaire ( MCF-7 ) à_droite et une lignée tumorale endométriale à_gauche , le tamoxifène produit les mêmes métabolites dans les deux tumeurs , mais les effets sur la croissance tumorale sont différents .
+Le tamoxifène stimule la croissance de la tumeur endométriale et inhibe celle de la tumeur mammaire  .
+Chez la souris le tamoxifène hypertrophie l' utérus tout en bloquant la croissance de la tumeur mammaire alors_que les métabolites locaux sont identiques .
+Ces données sont plutôt en faveur d' une spécificité d' action non d' espèce mais de tissu cible .
+La plus connue de ces molécules , le citrate de tamoxifène ( partiellement ) anti-oestrogénique , est utilisée avec succès depuis 25 ans dans le cancer du sein .
+Elle a été acceptée par le Food and Drug Administration ( FDA ) dans le traitement des cancers du sein en 1978 .
+Elle a été choisie pour la prévention en raison des résultats observés dans son utilisation du cancer traité .
+Une large étude menée sur 75000 patientes avait démontré l' effet bénéfique du tamoxifène comme traitement adjuvant sur la survie et l' incidence des récidives chez les patientes porteuses d' un cancer du sein  .
+Une méta-analyse réalisée par Early Breast Trialists' Collaborative Group portant sur un total de 37000 patientes atteintes de cancer du sein dans 55 études , montre que le tamoxifène pendant cinq ans réduit le taux de cancer controlatéral de 39 % .
+Cet effet a été constaté dans le sous-groupe de 29000 femmes présentant un cancer du sein avec récepteurs hormonaux positifs ou inconnus et augmente avec la durée d' utilisation du tamoxifène .
+La réduction du risque de récidive controlatérale est respectivement de 13 % pour une durée de traitement de un an , 26 % pour une durée de deux ans et 47 % pour une durée de traitement de cinq ans .
+Pour les femmes présentant des tumeurs réceptrices aux oestrogènes négatifs , l' effet du tamoxifène n' est pas significatif .
+Si le bénéfice apparaît clairement pour les femmes ménopausée , il est moins évident pour les femmes non ménopausées qui ne représentent que 32 % des femmes incluses dans l' analyse  .
+Plus récemment , le NSABP a montré que le traitement par tamoxifène pouvait réduire de 45 % le risque de récidive sous forme invasive sur le sein homolatéral d' un carcinome in_situ  .
+Le tamoxifène a plusieurs des attributs d' un bon agent de prévention .
+Le tamoxifène réduit le risque de cancer controlatéral chez les patientes traitées pour cancer du sein .
+Le tamoxifène peut être administré en une seule fois par jour ce qui améliore la compliance .
+Les effets secondaires principaux sont connus et évalués avec un doublement du risque de cancer de l' endomètre .
+De plus il possède plusieurs effets collatéraux intéressants : - une diminution de la déminéralisation osseuse ; - une réduction de 20 % du cholestérol et des LDL , qui devrait diminuer la mortalité cardiovasculaire de 20 à 40 % .
+Deux essais ont objectivé une réduction des deux tiers des infarctus du myocarde .
+La méta-analyse du Early Breast Trialists' Collaborative Group démontre une réduction de 12 % des décès par cancer non mammaire et de 25 % des décès d' origine cardiovasculaire  .
+Les effets cardiovasculaires bénéfiques restent discutés car ils ne sont pas objectivés dans les études de prévention , qui montreraient plutôt une tendance à l' augmentation du risque d' accidents vasculaires cérébraux .
+Vingt à 30 % des femmes en préménopause souffrent des suites du sevrage hormonal induit par ce médicament  .
+2.1.1. Les essais
+Cinq études de chémoprévention à base de tamoxifène ont été réalisées depuis 1986 ( Tableau 1 and Tableau 2 ) .
+Tableau 1. Résumé des principaux essais de prévention chimique par tamoxifène du cancer du sein
+Full-size table (
+View Within Article
+Tableau 2. Résultats des principaux essais de prévention chimique par tamoxifène du cancer du sein
+Full-size table (
+View Within Article
+2.1.1.1. Essai du Royal Marsden Cancer Hospital no 1
+La première de ces études a débuté au Royal Marsden Cancer Hospital de Londres chez 200 femmes  .
+Il s' agissait au départ d' un essai de faisabilité destiné à évaluer les effets secondaires , la toxicité et la compliance chez des femmes en bonne santé .
+Les femmes éligibles devaient être âgées de 30 à 70 ans et avoir une de leurs parentes du premier degré atteinte d' un cancer du sein et un risque relatif ajusté sur l' âge de 4  .
+Les premiers résultats de cet essai ont indiqué que le tamoxifène était un anti-oestrogène « sélectif » avec des effets oestrogéniques sur l' os , l' endomètre et les lipides  .
+Avec peu d' effets anti-oestrogènes sur le plan général , la toxicité aiguë faible , la compliance était bonne .
+Ces résultats encourageants et la diminution des cancers controlatéraux lorsque le tamoxifène est utilisé en adjuvant du traitement du cancer du sein ont incité plusieurs groupes à mettre en route de grands essais .
+2.1.1.2. Essai du National Surgical Adjuvant Breast and Bowel ( NSABP-1 )
+L' étude la plus ancienne est celle menée aux États-Unis et au Canada par le NSABP P-1 National Surgical Adjuvant Breast and Bowel Project .
+Elle a débuté en 1992 et a concerné 13388 femmes réparties dans plus de 300 centres des États-Unis et du Canada recrutées en trois ans .
+Les patientes incluses dans l' essai présentaient un risque augmenté de cancer du sein : - soit elles étaient âgées de plus de 60 ans ; - soit , âgées de 35 à 59 ans , leur risque de cancer du sein estimé par l' indice de Gail était supérieur à 1,66 % à cinq ans  ; - soit elles avaient présenté des lésions de carcinome lobulaire in_situ .
+L' étude a été menée en double aveugle , tamoxifène contre placebo , randomisée et consistait à déterminer l' effet d' un traitement par 20 mg de tamoxifène pendant cinq ans dans la prévention des cancers du sein chez des patientes à haut risque .
+Le tamoxifène induit une réduction du risque de cancer invasif de 49 % ( RR : 0,51. IC à 95 % 0,39 - 0,61 ) .
+L' incidence annuelle des cancers est de 3,4 pour 1000 femmes du groupe tamoxifène et de 6,8 pour 1000 femmes du groupe placebo .
+La diminution du risque de cancer du sein est retrouvée pour tous les groupes d' âge : 44 % de réduction chez les moins de 49 ans , 51 % entre 50 et 59 ans et 55 % après 60 ans .
+La réduction du risque profite également aux femmes aux antécédents de carcinome lobulaire in_situ ( 56 % ) ( RR : 0,44. IC à 95 % 0,16 - 1,06 ) et d' hyperplasie atypique ( 86 % ) ( RR : 0,14. IC à 95 % 0,03 - 0,47 ) .
+La diminution du risque concerne les tumeurs exprimant les récepteurs aux oestrogènes ( 69 % , RR : 0,31. IC à 95 % 0,22 - 0,45 ) , aucune différence n' est observée pour les tumeurs n' exprimant pas les récepteurs .
+Au cours de la 37e réunion annuelle de l' American Society for Clinical Oncology ( ASCO 2001 ) il a été montré que le tamoxifène réduit de 62 % l' incidence de cancer chez les femmes ayant la mutations BRCA2 et qu' il est sans effet significatif chez les femmes avec la mutation BRCA1 âgées de plus de 35 ans [ 38 and 39 ] .
+Ce résultat est à rapprocher des études montrant l' efficacité uniquement pour la prévention des tumeurs positives pour les récepteurs aux oestrogènes .
+Plusieurs études ont montré que 80 % des tumeurs apparaissant chez les femmes BRCA2 sont ER positives .
+La réduction de 69 % de l' incidence des tumeurs RE positives est équivalente à celle de 62 % observée chez les patientes avec BRCA2 .
+À l' inverse , plusieurs études montrent que près_de 80 % des tumeurs qui apparaissent chez les femmes portant la mutation BRCA1 sont ER négatives .
+L' absence d' effet du tamoxifène sur cette population pourrait correspondre à l' absence d' effet observée sur l' incidence des tumeurs RE négatives [ 38 and 39 ] .
+Cependant une étude cas-témoins portant sur 593 femmes ayant la mutation BRCA1 ou BRCA2 a calculé une réduction du risque de développer un cancer controlatéral à la prise de tamoxifène après le diagnostic du premier cancer pour les deux types de mutation .
+Ce résultat suggère un bénéfice de la prévention par tamoxifène pour les deux groupes de patientes  .
+Un effet secondaire bénéfique , la diminution des fractures ostéoporotiques , est évoqué dans l' essai NSABP-1 .
+Le tamoxifène réduit de 19 % l' incidence des fractures de hanche , des vertèbres et du radius .
+La réduction la plus importante concerne les fractures de hanche avec une réduction de 45 % .
+Cet essai ne relève pas d' effet sur l' incidence des cardiopathies ischémiques  .
+Cependant l' étude du NSABP-1 montre que l' utilisation du tamoxifène n' est pas sans risque .
+Elle entraînerait une augmentation de 2,5 fois du risque de voir apparaître un cancer de l' endomètre .
+Le taux annuel des cancers endométriaux est de 0,9 pour 1000 dans le groupe placebo et de 2,3 pour 1000 dans le groupe tamoxifène .
+Le risque de cancer de l' endomètre n' est augmenté significativement que pour les femmes de plus de 50 ans .
+Le risque d' accidents thromboemboliques , celui d' embolie pulmonaire en_particulier , est augmenté .
+Le nombre de femmes opérées d' une cataracte est plus élevé dans le groupe tamoxifène  .
+Les bouffées de chaleur invalidantes sont relevées chez 46 % des femmes du groupe tamoxifène et seulement 29 % dans le groupe placebo .
+Le tamoxifène ne semble pas retentir sur le poids et sur l' humeur  .
+Depuis les résultats de cette analyse , le FDA a accepté l' utilisation du tamoxifène en prévention du cancer du sein chez les patientes à risque , c' est-à-dire chez les patientes d' au moins 35 ans avec un risque de cancer à cinq ans supérieur ou égal à 1,66 % selon l' échelle de Gail  .
+2.1.1.3. Essai du Royal Marsden Cancer Hospital no 2 ( RMH )
+L' essai du Royal Marsden study , une prolongation de l' essai de faisabilité , a inclus , entre 1986 et 1996 , 2471 femmes âgées de 30 à 70 ans ayant au moins un antécédent familial de cancer du sein .
+Les femmes avec un antécédent de cancer ou de maladie thromboembolique ont été exclues .
+L' âge médian était de 47 ans ; 66 % des femmes n' étaient pas ménopausées .
+Le traitement hormonal substitutif était autorisé ( 42 % des participantes ) .
+Aucune différence dans la survenue des cancers n' a été mise en évidence .
+Trente-quatre femmes ont eu un cancer du sein dans le groupe tamoxifène contre 36 dans le groupe placebo ( NS ) .
+Les résultats ne concordent pas avec ceux du NSABP-P1 puisque la réduction de l' incidence du cancer objective un risque relatif ( RR ) de 1,06 ( intervalle de confiance 0,7 - 1,7 ) pour l' essai du RMH et de 0,51 ( intervalle de confiance 0,39 - 0,66 ) pour le NSABP-P1 .
+Si la puissance statistique faible de l' essai anglais explique la différence observée dans les deux essais , le regroupement des données des deux essais évalue le risque relatif pour les femmes sous tamoxifène de 0,59  .
+Les résultats négatifs de l' essai du RMH pourraient s' expliquer par une inclusion plus nombreuse de femmes résistantes au tamoxifène .
+Les femmes du RMH sont plus jeunes ( 61 % ont moins de 50 ans ) que celles du NSABP-1 ( 40 % ont moins de 40 ans ) .
+Les cancers des femmes jeunes expriment moins les récepteurs hormonaux et auraient une probabilité plus grande de posséder un gène de prédisposition ( 96 % des femmes incluses ont un membre de leur famille au premier degré ayant eu un cancer du sein ) .
+Le risque de cancer est évalué pour les Anglaises à partir des seuls antécédents familiaux et pour les Américaines à_partir_de l' indice de Gail .
+De plus , les femmes aux antécédents de carcinome lobulaire in_situ ou d' hyperplasie atypique , les plus sensibles au tamoxifène , sont incluses dans l' essai NSABP et exclues de l' essai du RMH  .
+Il serait intéressant de connaître si les plus jeunes femmes du RMH , les plus susceptibles d' exprimer un gène de prédisposition , sont résistantes au tamoxifène , car ce sont ces mêmes femmes qui seront les plus tentées de bénéficier d' une prophylaxie .
+2.1.1.4. Essai national italien ( INT )
+L' étude italienne a inclus 5408 femmes âgées de 35 à 70 ans incluses de octobre 1992 à juillet 1997 .
+Pour éliminer le risque de cancer de l' endomètre les femmes devaient avoir été hystérectomisées .
+Dans 74 % des cas une ovariectomie bilatérale avait été réalisée .
+Aucune ne présentait de facteur de risque pour le cancer du sein , 14 % était sous traitement hormonal substitutif .
+Une première analyse intermédiaire publiée en 1998 après un suivi de 46 mois n' a pas objectivé de différence statistiquement significative de l' incidence du cancer du sein dans les deux groupes ( tamoxifène versus placebo ) .
+Une seconde analyse après 81,2 mois de recul confirme les premiers résultats ( 1,7 % pour le groupe tamoxifène et 1,3 % pour le groupe témoin )  .
+La puissance statistique de cette étude pour détecter un effet préventif du tamoxifène est faible .
+L' incapacité à objectiver un effet pourrait être due à la petite taille de l' échantillonnage , un taux élevé d' abandon ( 26 % ) et l' inclusion de femmes à faible risque ( hystérectomie avec ovariectomie ) ou à risque normal ( hystérectomie avec conservation ovarienne ) .
+Plus récemment , Veronesi a montré un avantage de la prévention pour le sous-groupe des femmes bénéficiant du traitement hormonal substitutif .
+Pour les femmes prenant un traitement hormonal substitutif à un moment donné la fréquence cumulée du cancer sur 82 mois est de 0,9 % ( 0,17 - 1,66 ) pour le groupe tamoxifène et de 2,58 % ( 1,30 - 3,85 ) pour le groupe placebo .
+Il est possible que l' ovariectomie chez le grand nombre de femmes puisse se substituer à l' effet préventif du tamoxifène à_moins_que ces femmes soient sous traitement hormonal substitutif  .
+2.1.1.5. Essai de l' Imperial Cancer Research Foundation ( IBIS I )
+Alors que la phase de recrutement des quatre essais précédents était terminée et que les premiers résultats intermédiaires étaient disponibles , une cinquième étude internationale sous l' égide de l' Imperial Cancer Research Funds britannique a démarré en 1993 .
+Il s' agit de l' étude baptisée International Breast cancer Intervention Study ( dite IBIS ) qui a randomisé 7152 femmes âgées de 35 à 70 ans .
+Les femmes retenues ont quatre fois plus de risque de présenter un cancer en raison d' antécédents familiaux : 62 % des femmes ont au moins deux parentes du premier degré atteintes de cancer .
+Un tiers des femmes ont eu une hystérectomie .
+Environ 50 % des femmes ont eu un traitement hormonal substitutif à un moment de l' essai  .
+En raison du risque évalué de ces femmes , le nombre attendu annuellement de cancers est de 7,5 pour 1000 , qui correspond au nombre de 6,74 pour 1000 observé chez les femmes recevant le placebo .
+La réduction induite par le tamoxifène est de 32 % pour les cancers invasifs et de 69 % pour les cancers in_situ .
+La réduction globale du risque de 31 % ne touche que les cancers à récepteurs aux oestrogènes positifs .
+Le tamoxifène ne diminue pas le risque des cancers n' exprimant pas les récepteurs  .
+Au cours de la réunion annuelle de l' ASCO , Cuzick a présenté une méta-analyse en incluant les résultats actualisés de l' étude italienne , de l' étude Royal Marsden Cancer Hospital et de l' étude IBIS-I .
+L' Odds Ratio calculé d' apparition d' un cancer du sein pour ces trois essais cumulés est de 0,62 .
+L' étude IBIS-I a souligné l' importance des effets secondaires rencontrés avec une augmentation significative des bouffées de chaleur , des pertes vaginales , des hémorragies génitales , du nombre d' explorations induites ( échographie pelvienne , dilatation et curetage , hystéroscopie ) et de mastodynies [ 43 and 48 ] .
+Dans la publication récente de l' essai les auteurs insistent sur la nécessité d' évaluer les effets secondaires néfastes du tamoxifène qui reste un souci de préoccupation .
+Le taux des accidents thromboemboliques est 2,5 plus élevé dans le groupe tamoxifène ( IC 1,5 - 4,4 ) .
+Vingt-cinq ( 42 % ) de ces accidents surviennent dans les trois mois après une intervention chirurgicale ou une immobilisation prolongée .
+Vingt accidents sur 25 ont touché des femmes sous tamoxifène .
+Les hystérectomies sont plus nombreuses avec un taux de 2,7 % chez les témoins contre 4,2 % chez les femmes traitées ( p = 0,002 ) .
+Les indications de ces hystérectomies restent imprécises , hémorragies génitales , polypes de l' endomètre , épaississement de l' endomètre et kystes de l' ovaire .
+Bien que n' étant pas significatif , le risque de cancer de l' endomètre est doublé ( Odd Ratio 2,2 , IC 0,8 - 6,06 ) .
+La plupart des patientes affectées par ce cancer de l' endomètre avaient plus de 50 ans au moment de leur inclusion et toutes étaient ménopausées au moment du diagnostic .
+Tous les cancers sauf un étaient de stade I de la figo .
+Troublante , car inattendue et non retrouvée dans les autres essais , est l' augmentation de la mortalité chez les femmes sous tamoxifène ( 25 vs 11 ; p = 0,028 ) .
+Cette surmortalité reste inexpliquée car elle affecte toutes les causes de décès ( cancers autres que mammaires , embolies pulmonaires , autres causes vasculaires et cardiaques  ) .
+2.2. Le raloxifène
+Les effets délétères du tamoxifène n' étant pas nuls , certains se sont intéressés à des anti-estrogènes dits de seconde génération comme le raloxifène dont les effets secondaires seraient moins importants [ 49 , 50 and 51 ] .
+Une étude randomisée évaluant l' efficacité du raloxifène dans la prévention des fractures chez la femme ménopausée souffrant d' ostéoporose ( un marqueur de faible risque de cancer du sein ) ( essai MORE : Multiple Outcomes of Raloxifène Evaluation Trial ) a permis une analyse secondaire évaluant le risque de survenue de cancer du sein .
+Sept mille sept cent cinq femmes ont été tirées au sort pour recevoir soit un placebo , soit 60 mg ou 120 mg de raloxifène .
+Une analyse effectuée à 28,9 mois a objectivé une incidence du cancer du sein de 0,21 % dans le groupe raloxifène et de 0,82 % dans le groupe placebo .
+La réduction de 74 % de l' incidence du cancer ( RR=0,26 , IC à 95 % : 0,13 - 0,52 ) est observée pour les deux dosages du raloxifène .
+Il a été constaté que le raloxifène réduisait de 90 % le risque d' apparition de tumeurs du sein RE+ ( risque relatif de 0,10 [ intervalle de confiance ( IC ) à 95 % = 0,04 - 0,24 ] ) , mais que le médicament ne diminuait pas le risque de tumeurs RE- ( risque relatif de 0,88 [ IC à 95 % = 0,26 - 3,0 ] )  .
+Après 48 mois de surveillance le risque de cancer invasif est diminué de 72 % avec le raloxifène  .
+Le risque d' accident thromboembolique est aussi élevé qu' avec le tamoxifène ( risque relatif de 3,1 [ IC à 95 % = 1,5 - 6,2 ] ) .
+Le risque de cancer de l' endomètre n' est pas augmenté ( risque relatif de 0,8 [ IC à 95 % = 0,2 - 2,7 ] )  .
+Le nombre des femmes ayant abandonné le traitement pour inconfort ( bouffées de chaleur , crampes aux jambes , oedème périphérique ) est plus important dans le groupe raloxifène ( 0,6 % ) que dans le groupe placebo ( 0,1 % ) ( p 0,001 ) .
+Le délai de surveillance est encore trop bref pour tirer des conclusions définitives , alors qu' il a fallu dix ans avant_de bien comprendre les effets secondaires du tamoxifène .
+Dans cette étude les femmes n' étaient pas sélectionnées sur leur risque de cancer du sein .
+Ce risque n' a pas été déterminé prospectivement et n' a pas conduit à une stratification des femmes dans les différents bras de traitement  .
+Le raloxifène pouvant prévenir l' ostéoporose et le cancer du sein , sans augmenter l' incidence du cancer de l' endomètre , il était nécessaire de savoir si cette molécule pouvait se substituer au traitement considéré comme standard par tamoxifène .
+Le NSABP est le promoteur d' une étude baptisée STAR ( Study of Tamoxifene And Raloxifene ) qui a débuté en 1999 pour comparer les effets du tamoxifène ( 20 mg j - 1 ) et raloxifène ( 60 mg ) sur l' incidence du cancer du sein .
+Cette étude fondée dans plus de 400 centres des États-Unis , Canada et Puerto-Rico concerne 22000 patientes ménopausées , de plus de 35 ans et à risque accru de cancer du sein .
+Ces patientes recevront leur traitement pendant cinq ans .
+Les premiers résultats ne sont pas encore parus , mais des données intermédiaires devraient bientôt être disponibles .
+Le NCI ( National Cancer Institute ) met actuellement en place une étude baptisée Capital Area SERM Study destinée à évaluer les effets secondaires du raloxifène prescrit à des femmes âgées de 23 à 47 ans présentant un risque de cancer du sein .
+Les patientes sont en cours de recrutement ( Cancernet.nci.gov/cgfbin / srchcgi.exe ) .
+3. Les inhibiteurs des aromatases
+L' efficacité des inhibiteurs des aromatases a été clairement montrée dans les essais en traitement adjuvant ou néoadjuvant des cancers métastatiques  .
+Les résultats de l' étude ATAC  ( Arimidex , Tamoxifène , Alone or in Combination ) objective une réduction de 70 % du taux de cancers controlatéraux pour les patientes prenant l' anastrozole comparé à celui des patientes sous tamoxifène  .
+L' anti-aromatase serait mieux tolérée et n' augmenterait pas le risque de cancer de l' endomètre et d' accident thrombo-embolique .
+Sur le plan théorique les anti-aromatases serait une méthode plus efficace que les SERM depuis qu' il a été montré que les métabolites catechol des oestrogènes sont directement génotoxiques  .
+Les SERM pourraient bloquer l' effet promotionnel des oestrogènes sans influencer la concentration de leurs métabolites .
+De plus les premiers travaux sembleraient montrer une meilleure efficacité que le tamoxifène dans les tumeurs exprimant les gènes ErbB1 et ErBB2  .
+Un essai de phase III est en cours d' organisation ( IBIS-2 ) .
+Les femmes incluses seraient ménopausées , à risque accru de cancer et seraient tirées au sort pour recevoir soit de l' anastrozole ( 1 mg j - 1 ) , soit un placebo .
+Les effets secondaires du tamoxifène chez les patientes de 50 ans sont une telle préoccupation pour les promoteurs de l' essai qu' ils ont renoncé à un troisième bras de patientes recevant du tamoxifène .
+Full-size image ( 9K )
+Fig. 1. Mise en place de l' essai ATAC ( Arimidex , Tamoxifen , Alone or in Combination ) .
+View Within Article
+4. ConclusionsLa prévention du cancer du sein chez des femmes en bonne santé par anti-estrogènes est très séduisante en_théorie .
+En septembre 1998 étaient publiés les résultats de l' étude du NSABP-1 révélant une étonnante réduction de 49 % du risque de survenue d' un cancer invasif  .
+Les essais européens , italiens et britanniques , n' ont pas confirmé ces résultats [ 36 and 45 ] .
+Le dernier essai publié ( l' essai IBIS-1 ) objective une réduction des cancers du sein ( 48 ) .
+Plusieurs différences ont été avancées pour expliquer cette discordance : - les essais européens sont de moindre échelle donc moins puissants ; - les femmes américaines incluses présentent un risque élevé de cancer estimé par l' algorithme de Gail élaboré à_partir_de femmes américaines ; - les Américaines sont plus âgées que les Européennes .
+Cependant , des analyses récentes qui incluent les données de tous les essais objectivent une efficacité de la chémoprévention , au moins chez les femmes à risque élevé .
+Les bénéfices obtenus seront mis en balance avec les inconvénients rencontrés au cours des traitements par ces molécules ( cancer de l' endomètre , accidents thrombo-emboliques ) .
+Aucun des essais publiés n' est assez puissant pour mettre en évidence une diminution de la mortalité due au cancer du sein .
+Même si le tamoxifène a été accepté dans cette indication aux États-Unis , il ne l' est pas encore en France .
+Les recommandations prônées par les différentes sociétés savantes nord américaines ( American College of Obstetricians and Gynecologists , ASCO , US preventive services task force , national cancer institute , US food and drug administration , Canadian medical association ) sont très restrictives , puisque si elles s' autorisent la chémoprévention pour les femmes à risque élevé , elles soulignent que pour les femmes à faible risque les inconvénients l' emportent sur les avantages [ 60 , 61 and 62 ] .
+La détermination du risque est encore difficile et inadéquate [ 63 , 64 and 65 ] et le seuil de risque à partir duquel une chémoprévention pourrait être proposée reste subjectif .
+L' innocuité est la première qualité que doit présenter une molécule utilisée en prévention , puisqu' elle sera prescrite à un grand nombre de femmes qui n' en auront pas besoin .
+Par ses effets secondaires le tamoxifène ne présente pas la sécurité suffisante pour être proposé à la majorité des femmes .
+De nouvelles études comme l' étude STAR lèveront peut-être certaines hésitations ou permettront d' utiliser d' autres anti-estrogènes comme le raloxifène .
+À propos de ces molécules plusieurs exigences s' imposent aux chercheurs : - à long terme , elles devront prouver leur efficacité sur l' incidence du cancer mais_aussi sur la mortalité ; - les nouvelles molécules doivent avoir moins d' effets secondaires que les molécules actuelles ; - des méthodes plus simples sont nécessaires pour cibler les femmes , à qui ces médicaments seraient utiles .
+En attendant les résultats de ces recherches la chémoprévention reste une idée pleine de promesses , au futur encore incertain

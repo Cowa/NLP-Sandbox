@@ -1,0 +1,136 @@
+Chaque année , en France , l' ostéoporose est responsable d' environ 60000 fractures vertébrales , 50000 fractures de l' extrémité supérieure du fémur ( ESF ) et 35000 fractures du poignet  .
+De nombreuses études épidémiologiques ont confirmé l' impact de ces fractures ostéoporotiques sur la qualité et l' espérance de vie .
+Les fractures de l' ESF sont responsables d' une réduction considérable de l' espérance de vie ( moins sept ans en moyenne ) : 25 % des patients fracturés décèdent dans l' année qui suit la fracture et la moitié des survivants ne retrouve jamais son niveau d' autonomie antérieur .
+Les fractures vertébrales sont responsables de douleurs aiguës et chroniques , d' une réduction de la taille , d' une augmentation de la consommation d' antalgiques , d' hospitalisations répétées et parfois d' une dégradation de la fonction respiratoire .
+Alors même que quatre révolutions thérapeutiques sont survenues en moins de 15 ans ( bisphosphonates , raloxifène , parathormone , ranélate de strontium ) , seules 20 % environ des femmes fracturées bénéficient d' un traitement adapté .
+Les traitements modernes de l' ostéoporose sont pourtant capables de réduire de 50 à 65 % ( en fonction des populations et des molécules ) le risque de fracture vertébrale et de 30 à 40 % le risque de fracture périphérique .
+De nombreuses raisons expliquent cette insuffisance thérapeutique : - la méconnaissance des données épidémiologiques et en_particulier de la forte augmentation de l' incidence des fractures dans les 30 prochaines années ;
+- la confusion dans l' esprit des médecins et des patientes entre les fractures traumatiques ( accident violent le_plus_souvent sur la voie publique ) et les fractures ostéoporotiques souvent déclenchées par un traumatisme , mais mineur ( chute de sa hauteur ) ;
+- une information insuffisante des radiologues sur la signification pathologique des fractures vertébrales , souvent assimilées à de simples déformations ;
+- la difficulté pour évaluer à titre individuel le risque absolu de fracture , difficulté accrue par le non-remboursement de la densitométrie et par la nécessité de prendre en compte de multiples paramètres ( antécédents personnels et familiaux de fracture , IMC , tabagisme , corticothérapie etc. ) ;
+- le cloisonnement trop important des disciplines médicales prenant en charge les femmes ménopausées ( médecine générale , rhumatologie , endocrinologie , gynécologie , gérontologie etc. ) ;
+- enfin , une information encore insuffisante des médecins et des patientes sur les effets bénéfiques démontrés des traitements de l' ostéoporose .
+Ainsi , la classe thérapeutique des SERMs ( Selective Estrogen Receptor Modulators ) , évidente révolution pharmacologique des années 1990 , reste mal connue des prescripteurs .
+La capacité démontrée de ces molécules à produire , avec un seul médicament , des effets thérapeutiques majeurs sur des tissus aussi différents que le squelette , le sein ou les artères est pourtant une avancée intéressante dans la prévention et le traitement des pathologies de la période postménopausique .
+2. strogènes indispensables mais controversés
+Indispensable pour traiter les symptômes climatériques ( bouffées de chaleur , douleurs musculaires , troubles psychologiques et sexuels ) le traitement hormonal substitutif préserve le capital osseux et réduit le risque de fractures ostéoporotiques .
+Dans l' étude WHI  , le risque relatif de fracture de l' ESF est significativement réduit de 34 % .
+Cette même étude , réalisée chez des femmes âgées en moyenne de plus de 60 ans , a attiré l' attention sur l' absence de bénéfice cardiovasculaire des conjugués équins associés à de l' acétate de médroxyprogestérone : le risque coronarien est en_effet accru ( RR = 1,29 IC 95 % 1,02 - 1,63 ) et le risque d' accident vasculaire cérébral augmente ( RR = 1,41 , IC 95 % 1,07 - 1,85 ) .
+Cette étude a confirmé l' augmentation du risque de cancer du sein ( RR = 1,26 IC 95 % 1,0 - 1,59 ) mais montré une réduction significative du risque de cancer colorectal ( RR = 0,63 , IC 95 % 0,43 - 0,92 ) .
+Les résultats du second bras de l' étude ( oestrogènes seuls versus placebo chez les patientes hystérectomisées ) sont différents : l' efficacité antifracturaire est confirmée ( risque réduit de 30 % ) , le risque de cancer du sein disparaît avec même une forte tendance à une réduction du risque sous oestrogènes ( RR = 0,77 , IC 95 % 0,59 - 1,01 ) .
+Le surrisque d' accident coronarien n' est pas_non_plus identifié ( RR = 0,91 , IC 95 % 0,75 - 1,12 ) mais l' étude confirme une élévation du risque d' accident vasculaire cérébral ( RR = 1,39 , IC 95 % 1,10 - 1,77 )  .
+Disposer de molécules possédant les avantages osseux des oestrogènes sans les inconvénients mammaires , utérins et vasculaires est donc l' une de nos préoccupations thérapeutiques pour répondre à la légitime demande de réduction des conséquences de la ménopause chez nos patientes dont l' espérance de vie ne cesse de croître .
+3. La grande famille des SERMs
+Les molécules appartenant à la famille des SERMs peuvent être divisées en deux groupes  : - les dérivés du triphényléthylène : tamoxifène , droloxifène , torémifène , idoxifène , ospémifène , MDL103.323 ;
+- les dérivés du benzothithiophène : raloxifène , lasofoxifène , arzoxifène .
+Les effets biologiques de ces différentes molécules qui , pour la_plupart , appartiennent encore au domaine de la recherche expérimentale ou clinique , varient selon le tissu considéré et peuvent être comparés aux oestrogènes et à un SERM « idéal » .
+Tableau 1.
+Effets biologiques des SERMs
+LDL-cholestérolHDL-cholestérolSeinTissu osseuxEndomètre stradiolDiminuéAugmentéAgonisteAgonisteAgoniste SERM « idéal » DiminuéAugmentéAntagonisteAgonisteNeutre RaloxifèneDiminuéAugmentéAntagonisteAgonisteNeutre TamoxifèneDiminuéAntagonisteAgoniste partielAgoniste ToremifèneDiminuéAugmentéAntagonisteAgonisteAgoniste IdoxifèneDiminuéAntagonisteAgonisteNeutre probable DroloxifèneDiminuéAugmentéAntagonisteAgonisteNeutre probable OspémifèneDiminuéAugmentéAntagonisteAgonisteNeutre probable ArzoxifèneDiminuéAntagonisteAgonisteNeutre probable LasofoxifèneDiminuéAgonisteNeutre probable
+Full-size table
+Les données scientifiques incomplètes et en cours d' évaluation sont indiquées en italique .
+View Within Article
+Le mode d' action des SERMs est en_partie élucidé
+Le 17-bêta-oestradiol agit en se fixant sur un récepteur spécifique : il en existe deux isoformes et dont la distribution dans les tissus n' est pas homogène .
+Le tamoxifène , chef de fil historique des SERMs , est utilisé depuis de nombreuses années dans le traitement du cancer du sein et la prévention des récidives .
+Il peut se fixer sur le récepteur aux oestrogènes ( ER ) et exercer des effets antagonistes ( sein ) ou agonistes ( os et lipides ) en fonction des tissus cibles .
+La fixation du raloxifène sur le récepteur aux oestrogènes provoque un changement de conformation du récepteur , différent de celui observé après fixation du 17-bêta-oestradiol , et des modifications des voies d' activation de la transcription génique .
+L' existence de facteurs de transcriptions , activateurs ou répresseurs , spécifiques de certains tissus mais interagissant avec le récepteur aux oestrogènes , expliquerait en_partie l' action variable des SERMs sur les tissus cibles .
+Les SERMs peuvent ainsi exercer des actions agonistes ou antagonistes aux oestrogènes qui dépendent du tissu considéré et de la molécule choisie  .
+Le raloxifène exercerait des effets favorables sur la qualité osseuse .
+Des études in_vitro ont montré que celui-ci exerçait des effets positifs sur les ostéoblastes , cellules clés du remodelage osseux : protection vis-à-vis_de l' apoptose induite par le nitroprusside de sodium , inhibition de la production d' interleukin-6 ( IL-6 ) et stimulation de la synthèse de l' ostéoprotégérine , du collagène de type I et de l' expression de la phosphatase alcaline osseuse  .
+Chez l' animal , l' administration de raloxifène préserve un certain niveau de remodelage et n' induit pas la formation de microcracks .
+Boivin  a montré que l' association raloxifène , calcium et vitamine D préservait le degré de minéralisation du tissu osseux tout en préservant l' hétérogénéité de la distribution du minéral .
+Le mécanisme d' action principal du raloxifène repose sur la réduction de la résorption osseuse .
+Il réduit l' augmentation du remodelage osseux induit par la ménopause : chez 600 femmes incluses dans une étude européenne , on observe une réduction des marqueurs de formation ( - 15 % pour les phosphatases alcalines osseuses ) et surtout des marqueurs de résorption ( - 34 % pour le CTX urinaire )  .
+Les valeurs observées se situent alors dans la fenêtre de normalité de la période préménopausique .
+Au cours de l' étude MORE , les marqueurs du remodelage osseux ( ostéocalcine , phosphatases alcalines osseuses , C-télopeptide urinaire ) diminuent aussi d' environ 30 % au_cours_de la première année de traitement chez les patients recevant du raloxifène .
+La variation à 6 et 12 mois de ces marqueurs est bien corrélée à la protection antifracturaire apportée par le raloxifène  .
+4. Effets osseux du tamoxifène et du raloxifène4.1 .
+Raloxifène
+Si le raloxifène dispose d' une AMM pour la prévention et le traitement de l' ostéoporose , c' est parce_qu' il exerce des effets positifs sur la densité osseuse et réduit de façon significative le risque de fracture vertébrale .
+4.1.1. Méthodologie des études
+Deux grandes études ont apporté des informations claires sur ses effets squelettiques : une étude multicentrique européenne randomisée comparant le placebo et 30 , 60 ou 120 mg de raloxifène pour bloquer la perte osseuse postménopausique  et surtout l' étude MORE  .
+Il s' agit d' une étude internationale multicentrique randomisée , en double insu , d' une durée initiale de trois ans avec une extension sur une année supplémentaire .
+Elle a inclus 7705 femmes , ménopausées depuis au moins deux ans , âgées en moyenne de 67 ans et réparties en deux groupes : patientes avec une réduction de la densité osseuse ( T score - 2,5 sur le rachis ou l' ESF ) , patientes avec une réduction de la densité osseuse et au moins une fracture vertébrale .
+Toutes les femmes ont reçu une supplémentation en calcium et en vitamine D et par randomisation un placebo , du raloxifène 60 mg / j ou du raloxifène 120 mg / j .
+4.1.2. Effets modérés sur la densité osseuse
+L' étude MORE a montré que le traitement par raloxifène ( 60 mg ) pendant trois ans majorait la densité osseuse de façon significative de 2,6 % pour le rachis lombaire et de 2,1 % pour le col fémoral  .
+Mais cette élévation de densité osseuse reste marginale et les modélisations ont montré qu' elle n' expliquait que 4 % de l' activité antifracturaire du produit .
+4.1.3. Action antifracturaire du raloxifène
+Après 36 mois de traitement ( 60 mg / j ) , le risque de nouvelle fracture vertébrale est globalement réduit de 55 % chez les femmes indemnes de fracture vertébrale au départ et de 30 % pour les patientes avec une fracture vertébrale à l' inclusion .
+En revanche , le risque de fracture périphérique est inchangé sous raloxifène ( RR = 0,9 , IC95 % : 0,8 - 1,1 ) mais le faible nombre de fractures périphériques survenues ( en_partie expliqué par l' âge des patientes ) ne permet pas de tirer de conclusions  .
+L' efficacité du raloxifène est rapide : le risque de fracture vertébrale symptomatique est réduit de 68 % dès la fin de la première année de traitement  .
+Une extension de l' étude , réalisée pendant une année supplémentaire , montre que cette efficacité est durable .
+L' analyse concerne les 5077 patientes n' ayant reçu aucune autre thérapeutique au_cours_de cette quatrième année .
+Chez les femmes indemnes de fracture vertébrale au départ , le risque de nouvelle fracture vertébrale est réduit de 50 % au_cours_de la quatrième année .
+Pour les patientes avec une fracture vertébrale à l' inclusion , le risque de nouvelle fracture vertébrale est réduit de 38 % .
+Sur les quatre années , le risque de fracture vertébrale multiple est réduit de 88 % chez les femmes sans fracture à l' inclusion et il est diminué de 37 % chez les patientes fracturées à l' entrée dans l' étude  .
+Il a été montré que le nombre mais_aussi la gravité des fractures vertébrales ( degré de réduction de la hauteur vertébrale ) influaient sur les douleurs , la qualité de vie et le risque fracturaire ultérieur au_cours_de l' ostéoporose .
+De nouvelles analyses des résultats de l' étude MORE ont été réalisées et publiées  .
+En fonction de la gravité des fractures prévalentes ou incidentes ; la valeur méthodologique de ces analyses est moins forte que celle des résultats initiaux : - chez les patientes indemnes de fractures à l' inclusion , le raloxifène à la dose de 60 mg réduit significativement le risque de fracture modérée ou sévère de 61 %  ;
+- chez les patientes avec une fracture à l' inclusion , le raloxifène à la dose de 60 mg réduit significativement le risque de fracture modérée ou sévère de 37 %  ;
+- chez les patientes présentant à l' inclusion une fracture vertébrale sévère ( 614 femmes avec une diminution d' au moins 40 % de l' une des hauteurs vertébrales ) , Delmas a montré que le risque de nouvelle fracture sous placebo était très élevé ( 38,1 % au bout de trois ans ) .
+Le raloxifène ( 60 mg par jour ) diminue de 26 % le risque de fracture vertébrale et réduit de 47 % le risque de fracture périphérique chez ces patientes  .
+Une analyse complémentaire de l' étude MORE a été réalisée par Kanis  chez les patientes indemnes de fracture vertébrale à l' inclusion , en tenant compte du niveau initial de densité osseuse .
+Chez les patientes dont le T score était supérieur à - 2,5 sur l' ESF ( ostéopénie ) , le raloxifène réduit le risque de nouvelle fracture vertébrale de 47 % et le NNT ( nombre de patientes à traiter pendant trois ans pour éviter une fracture ) est de 59. Chez les patientes dont le T score était inférieur à - 2,5 sur l' ESF ( ostéoporose ) , le raloxifène réduit le risque de nouvelle fracture vertébrale de 69 % et le NNT est de 23. Pour mémoire , le NNT est de 16 chez les femmes qui ont une fracture vertébrale à l' inclusion .
+En résumé , le raloxifène est efficace pour réduire le risque de fracture vertébrale chez les patientes ostéopéniques et ostéoporotiques avec ou sans fracture vertébrale ; le NNT est plus bas dans ce dernier groupe ( patientes ostéoporotiques ) parce_que le risque spontané de fracture y est bien sr plus élevé à court terme .
+4.2. Tamoxifène
+Plusieurs études suggèrent que le tamoxifène est un agoniste partiel sur le tissu osseux et exerce plutôt des effets protecteurs sur le squelette .
+Love et al. ont montré que chez les patientes ménopausées avec un cancer du sein , ce médicament à la dose de 20 mg / j prévenait la perte osseuse sur le rachis mais pas sur le radius  .
+Delmas et al. ont comparé les effets respectifs du tamoxifène et des bisphosphonates sur la perte osseuse induite par une ménopause précoce ( après chimiothérapie ) et montré que le tamoxifène réduisait de_moitié seulement la perte osseuse  .
+Les effets antifracturaires potentiels du tamoxifène ne sont pas démontrés : une grande étude nord-américaine incluant 13000 femmes traitées pendant cinq ans par tamoxifène ou placebo n' a pas montré de réduction significative du risque de fracture  .
+5. Effets extraosseux du tamoxifène et du raloxifène5.1 .
+Cancer du sein
+Le tamoxifène est utilisé depuis plusieurs années pour réduire le risque de récidive , le risque de cancer controlatéral et pour augmenter la survie des femmes traitées pour un cancer du sein .
+Une étude a également montré la capacité de ce SERM à réduire le risque de cancer du sein de 49 % chez des femmes non malades mais à haut risque ( âge 60 ans , antécédents familiaux , nulliparité etc. )  .
+Pour le raloxifène , des données ne sont disponibles que pour la population des femmes ostéoporotiques , incluses dans l' étude MORE ( et non chez des femmes à risque de cancer du sein ) .
+Le risque de cancer du sein invasif est réduit de 72 % après quatre ans de traitement ( RR = 0,28 , IC 95 % 0,17 - 0,46 ) .
+Le risque de cancer invasif RE+ est réduit de 84 % ( RR = 0,16 , IC 95 % 0,09 - 0,30 ) .
+Le risque de cancer RE - n' est pas modifié .
+Une partie de ces patientes a été incluse dans l' étude CORE avec quatre années supplémentaires de traitement .
+Au terme de huit ans de raloxifène , le risque de cancer du sein est réduit de 66 % par rapport au groupe placebo dans cette population de femmes ostéoporotiques  .
+5.2. Effets sur l' utérus
+Le tamoxifène augmente l' épaisseur endométriale et majore fortement le risque de cancer de l' utérus ( risque multiplié par quatre après 50 ans ) , ce qui bloque son utilisation dans la population générale .
+D' autres anomalies et en_particulier une atrophie pseudohyperplasique avec des kystes sous-endométriaux ont également été décrites  .
+Le raloxifène n' a pas d' effet agoniste sur l' utérus et les études cliniques ont confirmé sa bonne tolérance : pas d' augmentation de l' épaisseur de l' endomètre , pas de modifications histologiques , diminution non significative du nombre de cancers  .
+5.3. Effets lipidiques et vasculaires
+Le tamoxifène réduit le taux plasmatique du cholestérol total et du LDL-cholestérol mais il n' existe pas de preuves d' une action vasculaire favorable , en terme d' accidents artériels coronariens .
+La grande étude NSABP-1 a montré une augmentation du risque d' accident vasculaire cérébral , de thrombose veineuse profonde et d' embolie pulmonaire  .
+Le raloxifène augmente ce même risque veineux : au_cours_de l' étude MORE , le risque est chiffré à 1,44 événements pour 1000 années-femmes sous placebo contre 3,32 sous raloxifène .
+En revanche , le raloxifène améliore le profil lipidique ( diminution du cholestérol total , du LDL-cholestérol ) et réduit de 40 % le risque d' accidents artériels mais uniquement dans une analyse en sous-groupe , a_posteriori , chez les 1035 femmes de l' étude MORE qui avaient au départ un score de risque cardiovasculaire élevé  .
+5.4. Effets sur le risque de cancer colique
+Ils ont été évalués pour le raloxifène à_partir_d' une analyse complémentaire des données de l' étude MORE .
+L' incidence de cancer colique est équivalente dans les deux groupes avec même une tendance , non significative , en faveur du raloxifène ( 13,7 / 100 000 personnes-années ) par rapport au placebo ( 18,4 / 100 000 personnes-années )  .
+6. Les SERMs en développement
+- L' idoxifène prévient la perte osseuse chez l' animal mais est également efficace pour réduire le remodelage osseux chez la femme ménopausée .
+Il diminue le LDL-cholestérol .
+Il n' a pas d' effet défavorable sur l' utérus et est efficace pour réduire les tumeurs du sein .
+Dans les modèles animaux d' athérosclérose , il a de plus des effets favorables sur la paroi artérielle  ;
+- le droloxifène est aussi efficace que le 17-bêta-oestradiol pour inhiber les effets osseux d' une ovariectomie chez la rate : il permet de préserver la densité osseuse , le volume trabéculaire osseux , le nombre de travées et bloque l' élévation du remodelage  .
+Il est efficace dans les cancers du sein évolués , réduit le cholestérol total et n' a pas d' effets délétères sur la muqueuse utérine ;
+- l' ospémifène est un nouveau SERM dont le profil apparaît favorable : antitumoral sur le sein , il n' a pas d' effets sur l' utérus , améliore la sécheresse vaginale , réduit le remodelage osseux chez l' animal et dans les études humaines  ;
+- le lasofoxifène , administré chez la rate ovariectomisée réduit la résorption osseuse et le remodelage , stoppe la perte osseuse fémorale et surtout améliore les compétences biomécaniques vertébrales  .
+Plus originale encore est son utilisation chez le rat mâle castré : l' analyse du fémur en scanner ( pQCT ) et l' analyse histomorphométrique du tibia montrent clairement une prévention de la perte osseuse trabéculaire et corticale .
+De plus , aucun effet prostatique défavorable n' est observé chez ces animaux  ;
+- avec l' arzoxifène , des résultats similaires ont été observés dans des modèles animaux d' ostéoporose : l' action trabéculaire du médicament est bien visualisée par l' étude en microscanner ; l' action corticale semble potentiellement supérieure à celle du raloxifène .
+Des études précliniques suggèrent que son action antitumorale sur le sein est également supérieure à celle du tamoxifène  ;
+- les effets d' un nouveau SERM dérivé du citrate de clomiphène ( MDL 103,323 ) ont été comparés au pamidronate , par Bourrin et al. , chez des rates ovariectomisées .
+Les gains osseux observés sous traitement s' avèrent équivalents et ce SERM améliore le volume trabéculaire , le nombre de travées et la résistance biomécanique du corps vertébral .
+En revanche , les deux médicaments n' apparaissent pas assez efficaces pour restaurer totalement la microarchitecture osseuse  .
+A contrario , le développement du lévorméloxifène a été stoppé en raison de ses effets secondaires utérins ( leucorrhées , augmentation de l' épaisseur endométriale , hypertrophie utérine ) alors même que le produit avait des effets favorables sur le tissu osseux et le cholestérol plasmatique  .
+7. Conclusions
+La classe thérapeutique des SERMs offre toutes les caractéristiques des thérapeutiques modernes : - mécanisme d' action fin et précis , à l' échelon moléculaire , par une subtile interaction avec le récepteur aux oestrogènes ;
+- cibles tissulaires multiples rendant l' expérimentation clinique difficile mais intéressante ;
+- capacité de ces molécules à produire , avec un seul agent pharmacologique , des effets thérapeutiques multiples ;
+- développement clinique attendu dans toutes les pathologies de la postménopause .
+En pratique , dans l' attente de la mise sur le marché des nouveaux SERMs , deux molécules rendent déjà service aux patientes .
+Le tamoxifène reste indiqué pour prévenir les récidives du cancer du sein , même s' il entre maintenant en concurrence avec les antiaromatases .
+Le raloxifène est le seul SERM indiqué dans la prévention et le traitement de l' ostéoporose : il diminue le remodelage osseux , stoppe la perte osseuse postménopausique et réduit le risque de fracture vertébrale .
+Le remboursement n' est accordé par l' Assurance maladie que chez les patientes qui ont déjà présenté au moins une fracture ostéoporotique .
+Les effets extraosseux ont été étudiés au_cours_de l' étude MORE mais comme critères secondaires .
+Dans la population ostéoporotique de cette étude , le raloxifène diminue considérablement le risque de cancer du sein .
+Des études sont en cours pour évaluer spécifiquement ses actions vasculaires ( étude RUTH ) et son action sur le sein dans une population à risque ( comparaison avec le tamoxifène dans l' étude STAR ) .
+Cette nouvelle classe thérapeutique oblige le gynécologue à sortir du schéma thérapeutique traditionnel : une molécule , un effet pharmacologique , une pathologie etc. pour entrer de plain-pied dans une stratégie préventive moderne et passionnante : - évaluation globale chez la femme ménopausée des risques osseux , mammaires et vasculaires en utilisant des index cliniques validés ;
+- définition des axes thérapeutiques prioritaires à moyen ( trois à huit ans ) et long terme ( 10 à 15 ans ) ;
+- prescription réfléchie de la classe thérapeutique offrant le meilleur rapport bénéfices / risques pour couvrir le maximum de risques liés à la ménopause et au vieillissement

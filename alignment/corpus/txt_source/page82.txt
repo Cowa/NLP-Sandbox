@@ -1,0 +1,94 @@
+La puce à ADN ( DNA microarray ou DNA chip en anglais ) est un support solide sur lequel sont immobilisés de manière ordonnée des milliers de gènes cibles ( molécules d' ADN ) que l' on souhaite analyser .
+Elle permet - - par une réaction spécifique d' hybridation - - de mesurer simultanément et de façon quantitative le niveau d' expression - - au niveau de l' ARN - - de milliers de gènes dans un échantillon .
+Le principe est présenté sur la Fig. 1. Le degré actuel d' intégration des cibles est tel que l' on peut analyser l' ensemble des gènes humains ( 30000 gènes ) en une seule expérience sur une puce de quelques centimètres carrés .
+L' hybridation dresse ainsi pour chaque tumeur testée un portrait moléculaire représentant l' ensemble des gènes qu' elle exprimait lors du prélèvement .
+Établis pour plusieurs tumeurs , ces portraits sont ensuite comparés les uns aux autres à l' aide de logiciels bio-informatiques puissants - - il s' agit de traiter plusieurs milliers de données quantitatives - - afin_d' identifier une signature moléculaire ( combinaison de plusieurs gènes ) dont l' expression est caractéristique d' un phénotype d' intérêt comme la survie ou la réponse au traitement  .
+Full-size image ( 68K )
+Fig. 1. Principe de la mesure d' expression génique sur puces à ADN .
+Le principe repose sur l' hybridation d' un jeu ordonné de X-gènes cibles ( de 50 à 40000 transcrits différents représentés par des clones d' ADN complémentaire ADNc ou des oligonucléotides ) immobilisés sur un support solide ( puce ou array ) avec une sonde complexe produite par rétrotranscription et marquage à_partir_d' un ARN d' intérêt .
+La sonde est complexe car elle contient , en solution , de nombreuses séquences d' ADNc en quantités variables , correspondant aux abondances des espèces d' ARNm dans l' ARN de départ .
+L' hybridation sur la puce aboutit à la fixation sur chaque gène cible d' une quantité de l' espèce correspondante d' ARNm de la sonde proportionnelle à son abondance dans l' ARN de départ .
+Après lavage et acquisition de l' image d' hybridation , le signal fixé sur chaque cible est détecté , quantifié et enregistré de façon automatique grâce_à des logiciels d' analyse .
+Ce signal reflète la concentration de la séquence correspondante dans la sonde , donc le niveau d' expression du gène concerné .
+Les intensités obtenues sont ensuite normalisées permettant de dresser pour chaque échantillon ( une tumeur par_exemple ) un véritable portrait moléculaire qui pourra alors être comparé à celui d' autres échantillons .
+L' objectif de cette analyse comparative est l' identification d' une signature moléculaire ( combinaison de plusieurs gènes ) permettant de définir de nouvelles classes de tumeurs sur la seule base de leur profil d' expression ( approches non supervisées ) et / ou de caractériser des classes de tumeurs associée à un phénotype d' intérêt ( la survie par_exemple , approches supervisées ) .
+Elle fait appel à des outils bio-informatiques sophistiqués traitant l' énorme quantité de donnes produites .
+View Within Article
+2. Profils d' expression et pronostic
+Plusieurs études rétrospectives ont identifié , dans des formes localisées ou localement avancées , de nouvelles classes pronostiques non reconnaissables par les moyens conventionnels , dans des groupes de tumeurs d' apparence histoclinique homogène , mais hétérogènes sur le plan évolutif .
+Les analyses ont porté sur la recherche de profils d' expression associés à la survie avec ou sans traitement systémique ( CT et / ou HT ) en situation adjuvante ( analyse de la tumeur réséquée ) ou néoadjuvante ( analyse de la biopsie tumorale avant CT ) .
+Tableau 1.
+Principales caractéristiques des études pronostiques sur cancer du sein et puces à ADN
+RéférenceTumeursTraitement systémiquePuceGènesAnalyseSignatureValidationTechnique - Nbre tumeurs  Local. bonPas de CTVerre FluoOligosSupervisée70  Puce - 295 N - 25.000  Local. mauvaisCT adj ( anthracyclines ) Nylon RAADNc ( PCR ) Supervisée et non supervisée23  Puce - 55 N - /N+200  Local. mauvaisCT adj ( anthracyclines ) Nylon RAADNc ( PCR ) Supervisée et non supervisée40En coursPuce - 200 N - /N+1.000  Loc. avancéesCT néo-adj ( anthracyclines ) Verre FluoADNc ( PCR ) Non supervisée496  Puce - 1158.000  ToutesndNylon RAADNc ( PCR ) Non supervisée41 - - 588  Local. mauvaisndVerre FluoOligosSuperviséeMétagènes - - 1 à 3 N+12.000  Local.HT adj ( tamoxifène ) Verre FluoOligosSupervisée2Même étudeRQ-PCR - 2022.000  Loc. avancéesCT néo-adj ( docetaxel ) Verre FluoOligosSupervisée92Même étudePuce - 612.000  Local. mauvais et loc. avancéesCT néo-adj ( paclitaxel , puis anthracyclines ) Nylon RAADNc ( PCR ) Supervisée74Même étudePuce - 1831.000  InflammatoiresCT néo-adj ( anthracyclines ) Nylon RAADNc ( PCR ) Supervisée85Même étudePuce - LOO 8.000
+Full-size table
+Local. , localisées ; Loc. , localement ; N , statut ganglionnaire axillaire ; CT , chimiothérapie ; HT , hormonothérapie ; adj. , adjuvante ; nd ; non déterminé ; LOO , leave one-out cross-validation sur les mêmes échantillons ; , formes avec et sans envahissement ganglionnaire axillaire , avec et sans CT adjuvante .
+View Within Article
+Lors d' une étude pilote analysant l' expression de 200 gènes candidats , sélectionnés pour une implication connue ou suspectée dans le cancer du sein ( puces personnelles ) , dans une série de 34 cancers du sein localisés , nous avons identifié , parmi des tumeurs de mauvais pronostic traitées par CT adjuvante , deux classes d' évolution différente en termes de survie .
+Cette discrimination résultait de l' expression combinée de 23 gènes  .
+Nous avons ensuite analysé l' expression de 1,000 gènes , incluant les 200 précédents ( puces personnelles ) , dans une population théoriquement plus homogène de 55 tumeurs localisées de mauvais pronostic traitées par CT adjuvante à base d' anthracyclines  .
+Nous avons d'_abord validé l' intérêt pronostique de notre combinaison de 23 gènes dans cette série indépendante de tumeurs .
+Puis , une analyse plus approfondie a identifié une signature de 40 gènes , directement dérivée de la précédente , qui affinait la classification en distinguant trois classes de patientes équilibrées sur les facteurs pronostiques classiques mais présentant une survie globale et sans métastase significativement différente sur un suivi médian de cinq ans .
+Cette classification pronostique dépendait de l' expression de deux groupes de gènes coexprimés .
+Un d' entre eux était centré sur le gène ESR1 codant pour le récepteur aux oestrogènes ( RE ) .
+L' expression globale de ce groupe de gènes identifiait parmi les tumeurs RE+ en immunohistochimie ( IHC ) deux sous-groupes d' évolution clinique différente , suggérant qu' elle reflète mieux le caractère fonctionnel du récepteur que le statut protéique mesuré en IHC .
+Une étude de validation rétrospective est en cours aujourd'hui au niveau uni- et multicentrique .
+Si les résultats se confirment , cette signature pourrait permettre de choisir le protocole optimal de CT adjuvante chez des patientes pour qui l' indication de CT existe .
+Une équipe hollandaise a abordé une question différente et complémentaire , celle du surtraitement par CT adjuvante des tumeurs localisées sans envahissement ganglionnaire N -  .
+Les auteurs ont mesuré l' expression de 25,000 gènes ( puces commerciales Agilent ) dans une série de 97 cancers du sein non traités par CT adjuvante .
+Les patientes étaient sélectionnées de telle sorte qu' une moitié avait développé des métastases dans les cinq ans et l' autre moitié en était indemne au-delà_de cinq ans .
+L' analyse faite sur 78 des 97 échantillons a identifié un jeu discriminant de 70 gènes qui prédisait correctement le devenir clinique dans 83 % des cas .
+Cet impact pronostique a ensuite été validé sur les 19 échantillons restant .
+Les auteurs ont ensuite comparé le nombre de patientes qui auraient été candidates à une CT adjuvante selon les critères consensuels de Saint-Gallen et du NIH ou selon ce prédicteur à 70 gènes : respectivement 97 % , 94 % et 91 % chez les patientes ayant rechuté , mais 70 % , 91 % et seulement 27 % chez celles qui n' ont pas rechuté .
+Cette signature moléculaire a été analysée secondairement sur une série de 295 tumeurs  et son impact pronostique a été confirmé sur l' ensemble de la série , mais également chez les patientes N - et les patientes N+ .
+Une étude multicentrique européenne de validation rétrospective est en cours aujourd'hui .
+Si les résultats se confirment , cette signature pourrait permettre de diminuer les indications de CT adjuvante chez des patientes N - qui n' en ont pas besoin .
+Une autre étude s' est intéressée au cancer du sein localement avancé  .
+L' équipe de Stanford a mesuré l' expression de 8,000 gènes ( puces personnelles ) dans un jeu de 78 tumeurs comprenant une majorité de formes localement évoluées traitées par doxorubicine en néoadjuvant .
+Les auteurs ont défini un jeu de 496 gènes dont l' expression définissait cinq classes de tumeurs différentes du point_de_vue de leur signature transcriptionnelle et de la survie à long terme .
+Ces classes étaient reliées au type cellulaire à l' origine de la tumeur et aux données d' IHC .
+Les tumeurs RE - étaient subdivisées en une classe présentant un profil d' expression proche_de celui des cellules épithéliales basales , une classe qui surexprimait un groupe de gènes contenant ERBB2 et une classe présentant un profil proche du tissu mammaire normal .
+Les tumeurs RE+ présentaient un profil d' expression proche des cellules épithéliales luminales et étaient subdivisées en deux classes ( luminal A et B ) de survie différente .
+Ces résultats ont été confirmés par la même équipe sur un jeu plus étendu de 115 tumeurs ( incluant les 78 tumeurs précédentes ) et sur les données de deux autres équipes disponibles sur le web  .
+Ces sous-types moléculaires cliniquement et biologiquement pertinents ont été ensuite validés par Sotiriou et al. sur 99 tumeurs localisées analysées sur des puces personnelles contenant 7650 gènes  et par notre équipe dans le cancer du sein inflammatoire sur des puces personnelles contenant 8000 gènes  , renforçant encore la validité de cette classification .
+Une autre étude à visée pronostique a été rapportée en 2002 par une équipe allemande  et concernait des stades localisés et métastatiques .
+Les auteurs ont classé 55 tumeurs en fonction de l' expression de 41 gènes et ont identifié une classe de patientes présentant une survie sans métastase significativement inférieure aux autres classes .
+Aucune étude n' a été publiée ensuite par ce groupe sur le sujet .
+Plus récemment , Huang_et_al.  ont analysé l' expression de plus de 12000 gènes ( puces commerciales Affymetrix ) dans 89 cancers du sein localisés .
+L' étude pronostique a porté sur 52 tumeurs ayant un à trois ganglions axillaires envahis et sur la prédiction de la rechute à trois ans .
+La méthode d' analyse était originale et utilisait , non pas les gènes individuellement , mais 496 métagènes préalablement définis par k-means clustering afin_de réduire la multidimensionnalité du jeu de données .
+Par une méthode de « partitionnement successif » des échantillons , les auteurs ont identifié un prédicteur moléculaire multigénique permettant de classer correctement 90 % des cas .
+Enfin , l' étude la plus récente a été publiée en juin 2004  .
+Elle concernait le pronostic des formes localisées traitées par HT adjuvante .
+Les auteurs ont analysé l' expression de plus 22000 gènes ( puces commerciales Agilent ) dans 60 cancers du sein localisés RE+ traités par tamoxifène .
+L' analyse parallèle des échantillons tumoraux « entiers » et microdisséqués a permis de réduire la liste des gènes associés à la rechute métastatique à deux gènes , HOXB13 et IL17BR .
+Le ratio d' expression des deux gènes était un facteur pronostique fort et indépendant en analyse uni- et multivariée , et a été ensuite validé par PCR quantitative sur les ARN des mêmes échantillons ( congelés ) , mais_aussi sur 20 échantillons indépendants inclus en paraffine .
+Il s' agit de la première étude par puces à ADN s' intéressant à l' évolution sous HT .
+3. Profils d' expression et réponse à la chimiothérapie
+La plupart des études précédentes ont permis l' identification de signatures associées à la survie après traitement systémique adjuvant .
+Ces signatures ont donc un impact pronostique en termes de prédiction de l' histoire naturelle et / ou un impact prédictif de la réponse au traitement adjuvant .
+Seule la première étude hollandaise a concerné des patientes indemnes de CT ou HT .
+Trois études rétrospectives récentes se sont intéressées directement à la réponse à la CT dans le cancer du sein localisé et localement avancé traité par CT première .
+Toutes suggèrent le potentiel des profils d' expression dans la prédiction de cette réponse .
+La première a été rapportée dans le Lancet par une équipe du Baylor College de Houston  .
+L' analyse , faite à l' aide de puces à 12000 gènes ( puces commerciales Affymetrix ) , a concerné 24 tumeurs localement avancées traitées par quatre cures de docetaxel en néoadjuvant .
+L' analyse supervisée a identifié un jeu de 92 gènes dont l' expression était corrélée à la réponse clinique ( 12 répondeurs et 12 non-répondeurs ) .
+En expérience de cross-validation , le taux de classifications correctes était de 88 % .
+Mais , la façon d' évaluer la réponse clinique , et le principe même de l' évaluation clinique de la réponse , sont critiquables , l' évaluation de la réponse histologique étant considérée comme plus fiable et plus intéressante d' un point_de_vue pronostique .
+La seconde étude a été rapportée par une équipe du MD Anderson  .
+Les auteurs ont analysé l' expression de 30721 clones ( puces personnelles ) dans 42 cancers du sein T2 - T4 traités par un schéma séquentiel de CT délivrant 12 cures hebdomadaires de paclitaxel suivies de quatre cures du protocole FAC en néoadjuvant .
+L' analyse supervisée portant sur la réponse histologique après CT dans un set d' apprentissage de 24 tumeurs ( 13 RCH ou réponse complète histologique et 11 non-RCH ) a identifié une signature de 74 clones dont l' expression classait correctement 78 % des tumeurs du set de validation ( 18 tumeurs ) .
+La dernière étude concerne le cancer du sein inflammatoire  .
+Nous avons analysé l' expression de 8000 clones ( puces personnelles ) dans 37 cancers du sein inflammatoire .
+Pour 26 patientes , la réponse histologique à une CT première à base d' anthracycline était documentée , incluant neuf cas avec réponse histologique complète ( RCH+ ) et 17 cas RCH- .
+Nous avons identifié un jeu de 85 gènes discriminants dont l' expression combinée permettait de séparer cette population en deux groupes présentant respectivement 70 % de RCH pour l' un et 0 % pour l' autre .
+4. Conclusion
+Les puces à ADN - et autres technologies d' analyse moléculaire à grande échelle marquent certainement un tournant dans l' approche moléculaire du cancer du sein .
+Elles représentent un outil sans précédent pour découvrir et disséquer la complexité moléculaire des tumeurs .
+Dans toutes ces études , les signatures multigéniques pronostiques et / ou prédictives apparaissent plus performantes que les classifications conventionnelles fondées sur des facteurs histocliniques et moléculaires .
+Des études de validation sur de plus grandes séries rétrospectives de patientes sont bien entendu nécessaires avant toute application clinique .
+Certaines sont en cours de manière uni- ou multicentrique , et précèderont l' incorporation de ces signatures dans des essais cliniques prospectifs , premier niveau d' application clinique de cette approche .
+Le succès de ces études dépendra de collaborations étroites entre chercheurs de différentes disciplines ( cliniciens , anatomopathologistes , biologistes , bio-informaticiens , mathématiciens ) , de la qualité et la quantité des échantillons tumoraux disponibles ( avec leurs annotations informatisées cliniques , histologiques et moléculaires ) , de l' amélioration de la technologie et des outils d' analyse , et bien sr du bon design des essais .
+Les retombées attendues sont nombreuses sur les plans cliniques , mais_aussi fondamental et pharmaceutique .
+L' identification de nouvelles classes pronostiques de tumeurs du sein sur la base de leur profil d' expression génique devrait permettre d' orienter les patientes vers la stratégie thérapeutique la mieux adaptée à leur maladie .
+De plus , l' identité des gènes dérégulés devrait non_seulement améliorer notre compréhension de l' oncogenèse mammaire ( en termes d' agressivité des tumeurs , de résistance thérapeutique ) , mais_aussi stimuler le développement de nouveaux traitements plus spécifiques , offrant des alternatives au traitement standard dans les classes de mauvais pronostic .
+Même si aujourd'hui de nombreux challenges demeurent , le potentiel est donc énorme pour optimiser la prise en charge des patients d' une manière plus personnalisée , plus logique et plus structurée

@@ -1,0 +1,161 @@
+The sentinel lymph node ( SLN ) is defined as the first lymph node that is in a direct drainage pathway from the primary tumor  .
+In 1993 , Krag et al. first reported performing sentinel lymph node biopsy ( SLNB ) using a radioactive colloid on breast cancer patients  .
+Since their report , many studies have shown the feasibility and accuracy of SLNB on breast cancer , resulting in its prevalence as a technique for determining nodal staging for breast cancer  .
+Lymphoscintigraphy ( LSG ) is often performed before SLNB with a radioactive colloid  .
+It shows drainage from the primary tumor to the axillary nodes and shows various numbers of axillary nodes .
+Chakera et al. reported that unsuccessful SLN mapping was related to patient 's age and body weight  .
+Additionally , the injection site of radiotracer , patient 's age , and localization of the tumor was also reported to cause failure in visualization on LSG  .
+However , the significance of the number of LSG-visualized axillary nodes is still unclear .
+In this study , we have explored the potential factors that could affect the visualization of axillary node on LSG and , furthermore , we discuss the possible significance of this modality .
+Patients and methods .
+In this study , patients with clinical stage T0-3 , N0-1 , M0 breast cancer were retrospectively examined .
+Exclusion criteria included pregnancy and neoadjuvant treatment ( e.g. , diagnostic surgery and neoadjuvant chemotherapy ) .
+Informed consent was obtained from all patients prior to examination and surgery .
+All patients underwent LSG and SLNB using isotope or blue dye and isotope in combination .
+In the morning on the day of surgery , 185 megabecquerels of 99mTc-phytate ( Dai-ichi Radioisotope Laboratory , Tokyo , Japan ) in sterile saline ( total volume , 0.4 mL ) was injected subdermally at four sites around the tumor .
+When tumors were not palpable , patients underwent periareolar injection .
+After injection of radiocolloid , the breast was left unmassaged .
+Shielding was used at injection sites .
+LSG was performed 20 min after injection .
+Anterior view of the imaged breast was obtained .
+If a visualized lymph node was not defined as an area of increased uptake in the axilla , LSG was performed again 2 h after injection .
+In the blue dye method , a total of 5 mL of indigo carmine dye ( Dai-ichi Seiyaku , Osaka , Japan ) was injected at four sites into the peritumor in the operating room under general anesthesia .
+A 5 min postinjection massage of the entire breast was performed .
+Intraoperative detection of the radioactive SLN was performed using a -detection probe ( Tyco Healthcare Japan , Tokyo , Japan ) .
+A radioactive node was identified as a discrete area of radioisotope uptake , separate from the injection site , with counts greater than 25 per 10 s and clearly higher than background counts .
+Each discrete radioactive SLN was removed completely until the background count was less than 10% of the most radioactive resected SLN .
+SLNs were stained blue and / or radioactive .
+The intraoperative frozen section analyses of the resected SLNs were performed for all patients .
+All SLNs were bisected along their major axis , one section of each pair was fixed , embedded in paraffin , and stained using standard histopathological procedure .
+The other section of each pair was sent for intraoperative frozen section examination .
+In the event that the diameter of SLN was less than 5 mm , only one section was embedded with the cut surface up , frozen , and stained with hematoxylin and eosin .
+In the event that the diameter was more than 5 mm in diameter , SLN was bisected along its major axis and one section of each pair was sliced at 2 mm intervals .
+Thereafter , each specimen was evaluated as part of a frozen section examination .
+For patients whose intraoperative histological result was negative for malignancy , they underwent no further axillary dissection .
+The following cases continued to complete axillary dissection : ( 1 ) patients with clinically apparent positive nodes ( N1 ) ; ( 2 ) patients diagnosed as positive in intraoperative frozen section analysis ; ( 3 ) patients with no identification of SLN during procedure .
+All patients underwent breast conserving surgery or mastectomy by the same specialized surgeon .
+Regarding the diagnosis using LSG , the number of visualized axillary nodes was classified into three groups : ( 1 ) patients with nonvisualized nodes ; ( 2 ) patients with only one visualized node ; and ( 3 ) patients with multiple visualized nodes .
+Among the three groups , patients were compared as to clinicopathological characteristics and results of SLNB .
+Full-size image ( 63K )
+FIG. 1. Lymphoscintigraphy shows non-visualized nodes ( A ) , one visualized node ( B ) , two visualized nodes ( C ) , and three visualized nodes ( D ) .
+View Within Article .
+Statistical analysis was performed using the 2 test for qualitative variables .
+Quantitative variables were analyzed with one way factorial analysis of variance .
+The Spearman correlation test was used to analyze the statistical correlation between the number of visualized axillary nodes and that of histological metastatic nodes .
+To evaluate interactions and independent influences on factors for SLN status , multiple logistic regression models were created .
+Significance was defined as P 0.05. .
+Results .
+Eighty-eight patients were analyzed in this study between April 2004 and January 2007 .
+Of these , three patients with bilateral breast cancers were included , and these patients underwent bilateral SLNB .
+In total , 91 breasts and axillae were retrospectively evaluated .
+Their clinicopathological characteristics , including gender , age , tumor location , tumor classification , lymph nodal status , histological type , and the number of histological positive nodes are shown in Table 1. Of 91 cancers , 77 ( 84.6% ) were invasive ductal carcinomas , 9 ( 9.9% ) were ductal carcinomas in situ , and 5 ( 5.5% ) were other types ( 3 mucinous carcinomas , 1 medullary carcinoma , and 1 invasive lobular carcinoma ) .
+Sixty-three patients ( 69.2% ) had negative node , 28 patients ( 30.8% ) had positive nodes , and no patient had isolated tumor cells .
+TABLE 1. .
+Clinicopathological Characteristics of 88 Breast Cancer Patients .
+CharacteristicsNo. ( % ) Gender , n ( % ) Male1 ( 1.1% ) Female87 ( 98.9% ) Age ( y ) Mean ( range ) 58.1 ( 28 - 81 ) Tumor location , n ( % ) Upper inner quadrant19 ( 20.9% ) Lower inner quadrant14 ( 15.4% ) Upper outer quadrant47 ( 51.6% ) Lower outer quadrant9 ( 9.9% ) Central portion2 ( 2.2% ) Tumor classificationa , n ( % ) Tis9 ( 9.9% ) T146 ( 50.5% ) T234 ( 37.4% ) T32 ( 2.2% ) Lymph node statusa , n ( % ) N085 ( 93.4% ) N16 ( 6.6% ) Histologic type , n ( % ) Invasive ductal carcinoma77 ( 84.6% ) DCIS9 ( 9.9% ) Others5 ( 5.5% ) Number of histological positive nodes , n ( % ) 063 ( 69.2% ) 1 - 319 ( 20.9% ) 4 - 98 ( 8.8% ) 101 ( 1.1% )
+Full-size table .
+a 2002 UICC classification scheme with TNM categories ; DCIS , ductal carcinoma in situ .
+View Within Article .
+SLNB procedure performed is shown in Table 2. Among all patients , 30 patients ( 33.0% ) underwent SLNB using isotope only , and 61 patients ( 67.0% ) in combination with blue dye and isotope .
+Eleven patients ( 12.1% ) were injected in periareolar area , and 80 patients ( 87.9% ) were injected subdermally around the tumor .
+No significant difference exists between the biopsy procedures among the three groups .
+TABLE 2. .
+The Number of Visualized Axillary Nodes on Lymphoscintigraphy Among Different Procedures of Sentinel Lymph Node Biopsy .
+MethodsNo. of visualized nodesP-valuesTotal 0 ( n = 9 ) 1 ( n = 61 ) 2 ( n = 21 ) ( n = 91 ) SLN identification method , n ( % ) NS Radiocolloid3 ( 33.3% ) 22 ( 36.1% ) 5 ( 23.8% ) 30 ( 33.0% ) Radiocolloid + blue dye6 ( 66.6% ) 39 ( 63.9% ) 16 ( 76.2% ) 61 ( 67.0% ) Injection site of radiocolloid , n ( % ) NS Peritumoral8 ( 88.9% ) 53 ( 86.9% ) 19 ( 90.5% ) 80 ( 87.9% ) Periareolar1 ( 11.1% ) 8 ( 13.1% ) 2 ( 9.5% ) 11 ( 12.1% )
+Full-size table .
+SLN = sentinel lymph node .
+View Within Article .
+Results of SLNB and LSG-findings are shown in Table 3. Nineteen patients ( 20.9% ) had a 2 h delayed image because of failure of the immediate image to visualize .
+Nine patients ( 9.9% ) had no LSG-visualized node , while 61 patients ( 67.0% ) had only 1 node , and 21 patients ( 23.1% ) had multiple nodes .
+TABLE 3. .
+Results of Lymphoscintigraphy and Sentinel Lymph Node Biopsy in All Patients .
+ResultsNo. ( % ) No. of visualized axillary nodes on lymphoscintigraphy , n ( % ) 09 ( 9.9% ) 161 ( 67.0% ) 221 ( 23.1% ) No. of removed SLNs per patient Mean ( range ) 1.5 ( 0 - 8 ) Success rate of SLN identification ( % ) 96.7% .
+Full-size table .
+SLN = sentinel lymph node .
+View Within Article .
+Regarding the number of LSG-visualized nodes , clinicopathological characteristics are provided in Table 4. Eight ( 88.9% ) of the 9 patients with no LSG-visualized nodes had primary tumors localized on the upper outer quadrant of the breast , while 31 ( 50.8% ) of 61 patients with 1 node or 8 ( 38.1% ) of 21 patients with multiple nodes suffered lesion in the upper outer quadrant ( P = 0.037 ) .
+Seventeen ( 81.0% ) of 21 patients with multiple LSG-visualized nodes had clinically positive nodes .
+The number of LSG-visualized nodes was associated with clinical nodal status ( P = 0.030 ) .
+TABLE 4. .
+Clinicopathological Characteristics Among the Status of Visualized Nodes on Lymphoscintigraphy .
+CharacteristicsNo. of visualized nodesP-value 0 ( n = 9 ) 1 ( n = 61 ) 2 ( n = 21 ) Age ( y ) NS Mean ( range ) 58.4 ( 36 - 78 ) 58.8 ( 28 - 81 ) 54.3 ( 30 - 78 ) BMINS Mean ( range ) 25.3 ( 21.3 - 32.8 ) 23.0 ( 14.8 - 30.4 ) 22.4 ( 18.2 - 30.1 ) Location , n ( % ) P = 0.037 Upper inner quadrant0154 Lower inner quadrant194 Upper outer quadrant8318 Lower outer quadrant063 Central portion002 Tumor size ( mm ) NS Mean ( range ) 24.2 ( 7 - 65 ) 16.4 ( 0 - 53 ) 17.7 ( 0 - 38 ) Lymph nodal status , n ( % ) P = 0.030 N095917 N1024 Histologic type , n ( % ) NS Invasive ductal carcinoma75119 DCIS162 Others140 .
+Full-size table .
+2002 UICC classification scheme with TNM categories ; BMI : the body-mass index is the height / weight ratio , calculated by body weight ( kg ) divided by the square of the height ( m ) ; DCIS = ductal carcinoma in situ .
+View Within Article .
+Results of SLNB by the number of LSG-visualized nodes are given in Table 5. SLNs were successfully identified in 66.7% of LSG-nonvisualized cases , while all patients with one or multiple LSG-visualized node were successfully identified ( P 0.0001 ) .
+For patients with multiple LSG-visualized nodes , the mean number of dissected SLNs was 2.1 ( range 1 - 8 ) , being significantly higher than those with nonvisualized nodes or 1 node ( P = 0.0009 ) .
+Meanwhile , the risk of SLN metastasis for one resected SLN was 8 / 51 ( 15.7% ) .
+For two resected SLNs , the risk was 14 / 30 ( 46.7% ) .
+For 3 resected SLNs , the risk was 5 / 7 ( 71.4% ) .
+With 1 node on LSG , the risk of SLN metastasis was 14 / 61 ( 23.0% ) .
+With 2 nodes , the risk was 9 / 18 ( 50% ) .
+With 3 nodes , the risk was 3 / 3 ( 100% ) .
+Accordingly , metastasis was found for 57.1% of SLN in patients with multiple visualized nodes on LSG , while 23.0% in patients with 1 node and 22.2% in patients with nonvisualized node had metastasis ( P = 0.011 ) .
+Significant correlation was seen between the number of visualized nodes and that of histological metastatic nodes. ( P 0.006 ) .
+TABLE 5. .
+Results of Sentinel Lymph Node Biopsy Among the Status of Visualized Nodes on Lymphoscintigraphy .
+ResultsNo. of visualized nodesP-value 0 ( n = 9 ) 1 ( n = 61 ) 2 ( n = 21 ) Success rate of SLN identification ( % ) 66.7%100%100%P 0.0001 Maximum radioactivity content in SLNs ( counts / 10 s ) NS Mean2586712911204 No. of removed SLNsP = 0.0009 Mean1.01.42.1 SLN status , positive rate ( % ) 22.2%23.0%57.1%P = 0.011 Number of histological positive nodes , n ( % ) P = 0.043 07 ( 77.8% ) 47 ( 77.0% ) 9 ( 42.9% ) 1 - 31 ( 11.1% ) 11 ( 18.0% ) 7 ( 33.3% ) 4 - 91 ( 11.1% ) 2 ( 3.3% ) 5 ( 23.8% ) 100 ( 0% ) 1 ( 1.6% ) 0 ( 0% )
+Full-size table .
+SLN = sentinel lymph node .
+View Within Article .
+Full-size image ( 20K )
+FIG. 2. Relationships between the number of visualized axillary nodes and that of histological metastatic nodes .
+Significant correlations were found between the number of nodes ( P 0.006 ) .
+View Within Article .
+Multivariate analysis of prognostic factors for SLN status is shown in Table 6. In univariate analysis , tumor size ( P = 0.004 ) , clinical lymph nodal status ( P = 0.008 ) , and the number of LSG-visualized nodes ( P = 0.004 ) were significant , respectively .
+In multivariate analysis , the number of visualized axillary nodes on LSG was the only significant independent factor .
+TABLE 6. .
+Multivariate Analysis of Prognostic Factors for SLN Status .
+FactorHR95% CI for HRP-value Tumor size1.030.99 - 1.080.11 Lymph node status N01.0 ( referent ) N15.570.54 - 57.50.14 No. on LSG2.881.25 - 6.630.01 .
+Full-size table .
+SLN = sentinel lymph node ; HR = hazard ratio ; 95% CI = 95% confidence interval .
+Number of visualized axillary nodes on lymphoscintigraphy .
+View Within Article .
+Discussion .
+SLNB has been emerging as a minimally invasive alternative to axillary lymph node dissection for nodal staging in breast cancer  .
+Preoperative LSG is often carried out before SLNB with a radioactive colloid , which enables physicians and surgeons to see the migration root from primary tumor to the axillary nodes .
+Regarding the clinical availability of LSG , some reports have discussed the significance of the nonvisualization of axillary nodes  .
+However , the significance of the number of visualized nodes has been unclear .
+Therefore , in this study we retrospectively evaluated the clinical factors which potentially could be involved in the visualization status of axillary nodes on LSG .
+TABLE 7. .
+Factors Affecting the Successful Mapping on Lymphoscintigraphy .
+Author ( y ) nRadiotracerRateFactor Marchal F ( 2006 ) 20199mTc-sulfur colloid , 37MBq72.2%Age , injection site of radiotracer , localization of the tumor Chakera AH ( 2005 ) 44299mTc-nanocolloidal albumin , 10 - 168MBq87%Age , body weight , injection site of radiotracer Goyal A ( 2005 ) 82399mTc-nanocolloidal albumin , 40MBq72%Age , BMI , tumor size , localization of the tumor , SLN identification rate , No. of removed SLNs Lo YF ( 2005 ) 23299mTc-sulfur colloid , 37MBq88.4%Tumor size , lymph node metastasis Rousseau C ( 2004 ) 28099mTc-sulfur colloid , 30 - 40MBq78.6%Age , SLN identification rate , No. of removed SLNs , radioactivity content in SLN .
+Full-size table .
+BMI = body-mass index is the height / weight ratio , calculated by body weight ( kg ) divided by the square of the height ( m ) .
+Rate of nonvisualized cases on lymphoscintigraphy .
+Factor associated with a failed axillary mapping on lymphoscintigraphy .
+View Within Article .
+In our cases , successful LSG-mapping was obtained in 90.1% , and the result was acceptable compared with previous reports ( 72% - 88.4% , Table 7 ) .
+The difference could be due to type or amount of isotope .
+In our study 99mTc-phytate was used , while 99mTc-colloidal albumin or 99mTc-sulfur colloid was used in most other reports , and 99mTc-phytate was reported to show better accumulation compared with 99mTc-colloidal albumin  .
+Additionally , in our study , 185 megabecquerels of radiocolloids was used , which was 4- to 15 fold of the amount used in the previous reports  .
+In previous reports  , some have reported the following clinical factors to be significant for scintigraphic nonvisualization of axillary nodes : age , body weight , localization of the tumor , and tumor size .
+Several explanations exist ; for instance , it was demonstrated that patients with no LSG-visualized nodes were older than patients with LSG-visualized nodes , suggesting that the diffusion rate of the radiotracer was slower in older patients  .
+Additionally , Goyal et al. have reported that obese women ( BMI 30 ) were more likely to be negative to SLN visualization , potentially due to fatty degeneration of the lymph node , which reduced the capacity to concentrate the radiotracer  .
+However , in our study , neither patient 's age nor BMI significantly correlated with the number of LSG-visualized nodes .
+The results might also be affected by the type of radioisotope used or the injected dose of radioactive agent .
+Moreover , in our study obese women ( BMI 30 ) were fewer , only six ( 6.5% ) .
+Regarding the location of tumors , patients with nonvisualized nodes had tumors frequently located on the upper outer quadrant of their breast compared with those with one or more LSG-visualized nodes .
+In most patients ( 87.9% ) , radioisotope was injected subdermally around the tumor .
+Accordingly , the shine through of the radioactivity from the injection site at upper outer quadrant of the breast may have obscured the axillary nodes  .
+If all patients were injected at their periareolar area , patients with nonvisualized axillary nodes might decrease .
+Results of this study have shown that all patients with LSG-visualized node had SLN during surgery ( P 0.0001 ) .
+On the other hand , six ( 66.7% ) of nine cases with nonvisualized nodes were shown to have SLN at surgery .
+Among the six cases , two cases ( 33.3% ) detected SLN in both blue dye- and probe-guided method , and four cases ( 66.7% ) detected SLN in single probe-guided method , suggesting that even with no LSG-visualized cases , SLN could still be detected during surgery , which is supported by previous reports  .
+In patients with multiple LSG-visualized nodes , the number of dissected SLN was significantly higher compared with those with nonvisualized or one visualized node ( P = 0.0009 ) .
+Accordingly , we suggest that there could be several numbers of SLN left in patients with multiple LSG-visualized nodes , and SLNB should be carried out more carefully .
+Moreover , patients with multiple LSG-visualized nodes have shown a higher rate of histological positive SLNs ( P = 0.011 ) .
+Interestingly , the number of metastatic nodes was significantly correlated with that of LSG-visualized nodes ( P 0.006 ) .
+Regarding the SLN status , in multivariate analysis , the number of LSG-visualized nodes was only the significant independent factor ( P = 0.01 ) .
+The reason for these results is not clearly understood .
+However , a previous study has suggested that once radiocolloids have accumulated in lymph node , their retention is associated with the status of macrophages lining the nodal sinuses  .
+Accordingly , we speculate the following .
+When lymph node metastasis has occurred , phagocytosis is compromised , therefore the migration of colloids to the other nodes occurs .
+Eventually , the number of LSG-visualized nodes increases .
+Taken together , for patients with a number of metastatic nodes , LSG could demonstrate more lymph nodes .
+However , further observation must be carried out to validate any explanations included with the technical aspect of the procedure .
+Conclusions .
+Preoperative LSG is effective to evaluate SLN status , and the LSG-positive or LSG-negative status could be associated with the number of dissected SLN .
+Moreover , the results of LSG potentially reflect the histological nodal status , which could contribute to possible improvement of successful SLNB .
+Acknowledgments .
+The authors thank Dr. George Wu , University of Colorado , for advice and revision of the manuscript .

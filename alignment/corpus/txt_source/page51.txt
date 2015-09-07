@@ -1,0 +1,148 @@
+Les antigènes carbohydrates BRCA et CA15-3 appartiennent à un sous-groupe de glycoprotéines sialylées les mucines épithéliales très polymorphes dénommées également MAM 6 , mucine du lait ou CA 27.29. Le CA 27.29 est similaire , mais non identique , au CA 15-3 comme l' ont démontré des études de cartographie des épitopes et de corrélation des dosages .
+Les anticorps utilisés dans les dosages de cette famille de marqueurs sont d' origine distincte .
+Ceux permettant le dosage du Ca 15-3 , les premiers décrits , sont protégés par un brevet Centocor .
+L' étude de la structure moléculaire de cette macromolécule 300 à 400 kDa , a montré une grande hétérogénéité variable d' un patient à l' autre  .
+Ces mucines sont secrétées dans la lumière des cellules glandulaires du sein et ne sont pas présentes dans la circulation .
+Lorsque les cellules sont stimulées au_cours_de la grossesse ou lors d' un processus malin , leur membrane devient perméable et les glycoprotéines surexprimées peuvent passer dans le sérum .
+Elles deviennent ainsi le marqueur non spécifique d' un processus le_plus_souvent tumoral .
+La concentration sérique d' antigènes carbohydrates ( CA ) donne des informations sur le stade de la maladie .
+Ce marqueur a une faible sensibilité dans le diagnostic car aux stades précoces de la maladie ( stades T1 et T2 ) son expression demeure faible  .
+Certaines études accordent un facteur pronostique au taux initial  .
+En revanche , pour la détection des récidives , les CA présentent un certain intérêt .
+En effet , pour le diagnostic de métastases osseuses , leurs sensibilités peuvent dépasser 70 à 90 % et les rendent très utiles dans cette indication  .
+Le couplage du dosage d' un CA avec un marqueur général de cancer tel que l' ACE est recommandé  .
+En effet , la sensibilité de ces deux marqueurs va s' additionner .
+Ce couple de paramètres améliore le suivi de l' évolution de la maladie avec laquelle les concentrations des marqueurs sont bien corrélées  .
+Lorsque malheureusement pour un patient donné l' un de ces deux marqueurs devient significativement positif sur une période , la détermination de ce seul marqueur exprimée par le processus néoplasique sera suffisante pour vérifier l' efficacité du traitement mis en oeuvre .
+Normalement le traitement , doit entraîner une décroissance dont la cinétique et le nadir seront utiles à déterminer pour évaluer l' efficacité thérapeutique et le pronostic  .
+En revanche , comme c' est le_plus_souvent le cas pour les marqueurs tumoraux , la spécificité d' organe de ce marqueur n' est pas complète car il peut augmenter modérément dans les atteintes hépatiques ou les pathologies bénignes gastro-intestinales .
+De même on note des élévations dans certaines atteintes bénignes du sein  .
+À l' occasion d' un changement de méthode de dosage du marqueur du cancer du sein , nous avons voulu vérifier le niveau de commutabilité des résultats .
+Cela dans le but de ne pas induire de mauvaises interprétations des variations du marqueur par le clinicien lors du suivi de ses patientes sous chimiothérapie ou en rémission .
+Le changement de la méthode proposé par le fournisseur porte sur la diminution du temps d' incubation : au départ 40 minutes pour être réduit à dix minutes , le reste de la méthode ne subissant aucune modification .
+Compte tenu du fait que ce marqueur est utilisé principalement pour le suivi , cette précaution s' est imposée naturellement pour nous .
+Nous avons saisi cette occasion pour élargir l' étude aux autres méthodes de dosage utilisées sur notre secteur sanitaire afin_d' évaluer le degré de corrélation des résultats .
+Cela dans l' éventualité rare des patients qui peuvent parfois avoir des dosages de marqueurs dans plusieurs laboratoires .
+Bien que les recommandations des bonnes pratiques  insistent pour un suivi des marqueurs tumoraux dans un même laboratoire par une même technique , cette situation de « patient itinérant » se rencontre de_temps_en_temps dans la pratique par la force de l' évolution de la maladie qui alterne les périodes d' hospitalisation et de retour à_domicile .
+Par ailleurs , lorsque nous souhaitons vérifier nos résultats , par une autre technique en cas d' évolution anormale du marqueur ou de discordance clinique , il est intéressant de connaître le niveau de corrélation de la seconde méthode à laquelle il est fait appel .
+Ces différentes raisons nous ont conduits à réaliser l' étude comparative que nous présentons dans cet article .
+2. Matériel et méthodes2.1 .
+Prélèvements
+Les échantillons de sang veineux sont prélevés sur les patientes hospitalisées ou ambulatoires dans le cadre strictement de la prescription médicale .
+Les tubes utilisés sont des tubes secs en verre de 5 ml avec gel ( Becton Dickinson référence : 367788 ) .
+Pour l' étude comparative nous avons utilisé des spécimens de sérums congelés conservés dans notre biothèque à - 20 C , pour une durée d' une année conformément aux recommandations du GBEA .
+Au moment du tri de la biothèque , au lieu d' éliminer les échantillons de plus d' un an , nous avons conservé , autant_que possible , une sélection d' échantillons ayant des valeurs s' échelonnant tout_au_long du domaine de mesure de la méthode de 0 à 400 U / ml .
+Les dosages en vue des corrélations ont été faits sur une période de cinq jours à_raison d' une série de 25 spécimens dosés le même jour par les quatre méthodes .
+Pour chaque série d' échantillons , le délai extrême entre les différents passages dans chacune des quatre méthodes n' a pas excédé 28 heures de_façon_à minimiser les phénomènes de dégradation éventuelle du marqueur étudié .
+Les sérums de contrôles TM1 et TM2 proviennent de la société Biorad .
+Des pools de sérums en vue de servir de contrôles supplémentaires sont préparés à_partir_de sérums de patients .
+Nous avons préparé trois niveaux bas , moyen et élevé , chacun est réparti en 50 aliquotes de 300 l et congelés à - 20 C. Cette préparation est faite pour répondre aux besoins de réalisation des différents tests de l' étude .
+Celle-ci s' est déroulée sur une période de 30 jours pour les tests de reproductibilité , de linéarité et de stabilité .
+2.2. Appareil et réactifs
+Les appareils utilisés sont : l' AIA 21 ( Tosoh Bioscience - 45770 Saran ) et le VIDAS ( Biomérieux - 69280 Marcy l' Etoile ) installés sur le site hospitalier , et l' Axsym ( Abbott- 94518 Rungis ) installé sur le site du laboratoire privé Bouvier et Hache ( 42300 Roanne ) .
+Les réactifs et calibrateurs sont ceux des différentes trousses correspondant aux appareils cités : ST AIA-PACK 27.29 et AIA-PACK 27.29 de Tosoh Bioscience , Vidas CA 15-3 de BioMérieux et Axsym CA 15-3 d' Abbott .
+Le protocole « Valtec de la SFBC version 1997-2000 » fourni par Probioqual ( 69003 Lyon ) a été appliqué à tous les tests , le programme de ce logiciel permettant de réaliser les calculs statistiques selon les règles établies par les concepteurs sous l' égide de la Société française de biologie clinique ( SFBC ) .
+2.2.1. Étude de la précision
+Les tests de répétabilité et de reproductibilité ont été établis sur des séries de dix dosages .
+Le test de linéarité a été réalisé par dilution d' un échantillon à concentration de 358 U / ml par le diluant préconisé pour réaliser une série contenant 0,1 - 0,2 - 0,4 - 0,6 - 0,8 et 1 ml du sérum testé dans un volume final de 1 ml .
+Ce test a été réalisé deux fois en début et en fin de protocole .
+Le test de récupération a consisté à surcharger un pool de sérum bas par un pool de sérum élevé par ajout successif de 0,1 ml de l' un dans 0,9 ml de l' autre puis 0,2 et 0,8 et ainsi de_suite .
+Le taux de récupération est calculé comme le pourcentage de récupération correspondant au dosage du mélange par rapport au calcul théorique correspondant .
+2.2.2. Comparaison des méthodes
+Les méthodes sont comparées par le test de corrélation selon Passing Bablock  calculé par le logiciel Valtec .
+Les diagrammes des différences sont tracés pour les couples de résultats respectivement recalculées selon les équations de corrélation par la formule Y' = Y / a - b .
+Les méthodes sont comparées deux à deux successivement AIA 10 min versus AIA 40 min , AIA 40 min versus Vidas , AIA 40 min versus Axsym , AIA 10 versus Vidas , AIA 10 versus Axsym , Vidas versus Axsym .
+À ces différentes corrélations nous avons rajouté un test de comparaison des résultats sur Vidas à partir des sérums frais versus Vidas sérums décongelés afin_de vérifier la bonne stabilité du paramètre et la fidélité de la technique au bout d' un an de conservation des sérums à - 20 C.
+3. Résultats et discussion3.1 .
+Étude de la précision
+Les résultats des tests de répétabilité pour le réactif ST AIA-PACK 27.29 sont présentés sur le Tableau 1. Les CV sont tous inférieurs à 7 % ce qui est conforme à ce qui est attendu pour un dosage immunoessais .
+Les résultats du test de reproductibilité réalisé sur dix jours sont présentés sur le Tableau 2. Les CV sont également tous inférieurs à 7 % .
+En général ils sont très légèrement supérieurs aux CV de répétabilité .
+L' ensemble des résultats prouve le degré satisfaisant de précision de la méthode ST AIA-PACK 27.29 conformément aux critères de validation de méthode de Valtec .
+Tableau 1.
+Résultats des tests de répétabilité sur les cinq niveaux de sérums et sur la mesure en unité de fluorescence du point 0 ( résultats établis sur dix passages )
+Pool basPool moyenPool hautTM1TM2Point 0 ( unité de fluorescence ) Moyenne30,7120,4198,39,543,70,552 Minimum28,41141859,142,10,556 Maximum34,2125,3206,99,846,10,59 Écart-type2,03,38,10,21,40,0155 CV %6,52,74,123,32,8
+Full-size table
+View Within Article
+Tableau 2.
+Résultats des tests de reproductibilité sur les cinq niveaux de sérums ( résultats calculés sur dix passages )
+Pool basPool moyenPool hautTM1TM2 Moyenne31,0119,0199,810,640,0 Minimum29,71071879,637,8 Maximum33,8131,321311,442,8 Écart-type1,27,79,020,571,5 CV %3,876,474,515,363,75 Nombre de points1010101010
+Full-size table
+View Within Article
+Les tests de linéarité et de surcharge sont satisfaisants avec des résultats en moyenne à 105 % de la valeur théorique attendue dans les deux cas .
+Ces résultats confirment la validité du dosage sur l' intervalle de concentration exploré de 0 à 357 U / L .
+Cette limite arbitraire étant consécutive à la concentration maximale de l' échantillon possédant le volume suffisant pour cette étude .
+3.2. Corrélations et différences
+Les résultats de la comparaison des résultats obtenus sur le Vidas à partir des sérums frais et décongelés sont présentés sur la Fig. 1. Les résultats sont fortement corrélés ( r = 0,99 ) , mais les moyennes diffèrent avec une différence de +10 % ( 25,7 / 23,4 ) pour les résultats après décongélation .
+Bien que les paramètres de la corrélation soient satisfaisants , le diagramme des différences indique pour un seuil analytique à 12 % que 14 % des résultats s' écartent de ce seuil et pour un seuil clinique d' interprétation à 30 % selon Bonfer  , 4 % des résultats s' écartent encore .
+Il n' est pas possible de savoir si ces discordances sont imputables aux modifications des échantillons induites par le délai de conservation ou à l' évolution des réactifs dont le lot de fabrication est différent inévitablement à un an d' intervalle .
+Ce type de discordance a fait très récemment l' objet d' une alerte de réactovigilance par l' Afssaps ( alerte du 20 septembre 2006 ) .
+Ces résultats confirment qu' en cas de discordance il est impératif de pouvoir comparer les résultats de deux échantillons successifs non_seulement avec la même technique mais_aussi avec le même lot de réactif et si possible sur des échantillons de_même nature .
+Full-size image ( 52K )
+Figure 1. Comparaison des résultats sur Vidas pour les sérums frais et décongelés au bout d' un an. a : diagramme de corrélation selon Passing-Bablock ; b : diagramme des différences selon Valtec pour le seuil clinique .
+View Within Article
+Les résultats comparés avec la même technique réalisée sur l' AIA 21 du test en dix minutes par rapport au test en 40 min sont bien corrélés ( r = 0,98 ) .
+Cependant , le nombre de rejets , 27 % au seuil analytique et 3 % au seuil clinique , montre bien_que le passage d' une méthode vers l' autre doit être entrepris avec prudence .
+Par conséquent , il nécessite une information des cliniciens et une reprise des sérums antérieurs pour assurer une interprétation exacte de l' évolution de la concentration du marqueur .
+Tableau 3.
+Résultats des statistiques de comparaison des méthodes
+Couples comparésNombre résultatsÉquation Passing-BablockrPourcentage supérieur au seuil analytique de 12 %Pourcentage supérieur au seuil clinique de 30 % Vidas frais / décongelés108Y = 1,06X + 0,750,99144 AIA 10 min / 40 min113Y = 0,84X - 0,180,98273 AIA 40 min / Axsym112Y = 0,93X + 0,190,97295 Vidas / Axsym113Y = 0,84X + 0,070,97326 AIA 10 min / Axsym113Y = 0,76X + 0,340,97415 AIA 40 min / Vidas112Y = 1,11X - 0,030,94337 AIA 10 min / Vidas113Y = 0,92X + 0,240,92519
+Full-size table
+View Within Article
+Tableau 4.
+Résultats des comparaisons de moyennes des résultats patients
+Vidas décongelésAIA 40 minAIA 10 minAxsymMoyenne générale Moyenne méthode29,728,334,526,829,8 Ratio10,951,160,901
+Full-size table
+View Within Article
+L' ensemble des résultats des comparaisons des différents couples de méthodes est présenté dans le Tableau 3. Les résultats sont classés par ordre décroissant du coefficient de corrélation : r .
+Les figures des six diagrammes de corrélation établis selon Passing Bablock  sont représentées sur la Fig. 2.
+Full-size image ( 160K )
+Figure 2. Diagrammes des corrélations selon Passing-Bablock. a : corrélation AIA 10 / AIA40 ; b : corrélation AIA 40 / Axym ; c : corrélation Vidas / Axsym ; d : corrélation AIA10 / Axsym ; e : corrélation AIA 40 / Vidas ; f : corrélation AIA 10 / Vidas .
+View Within Article
+Les différences importantes des résultats entre les techniques peuvent s' expliquer par différents facteurs qui sont maintenant très bien connus , inhérents aux méthodes immunométriques utilisant un traceur de haute sensibilité .
+Ces principaux facteurs peuvent être utilement rappelés et sont très bien analysés dans l' article récent de Katrukha_et_al.  .
+En premier lieu , la préparation purifiée de l' antigène peut présenter des degrés variables de pureté et de dégradation .
+Puis le choix des épitopes qui vont servir à la sélection des anticorps monoclonaux peut bien évidemment conduire à des réactivités différentes d' un réactif à l' autre comme c' est précisément le cas des techniques dosant de CA27.29 et le CA15-3 .
+Ensuite la capacité des anticorps de capture et de liaison peut varier .
+Le système analytique peut aussi être perturbé par la présence d' autoanticorps hétérophiles éminemment variables d' un patient à l' autre .
+Enfin les caractères antigéniques du marqueur secrété par la tumeur peuvent aussi avoir des caractéristiques légèrement différentes selon les patients  .
+L' absence d' un étalon international surajoutée à ces facteurs doit inciter les biologistes à bien informer leurs cliniciens sur les précautions à respecter pour l' interprétation des résultats provenant de laboratoires différents .
+Des résultats discordants ne sont pas forcément dus à une erreur d' un laboratoire par_rapport_à un autre , mais doivent être documentés avant d' en tirer des conclusions .
+Dans notre étude , nous démontrons aussi que cette précaution s' applique également si des différences préanalytiques existent dans le traitement des échantillons comme par_exemple le fait de travailler sur des échantillons frais ou décongelés .
+Même dans ce cas qui paraît sans effet a_priori , l' expérience que nous rapportons montre que l' on n' obtient pas 100 % de concordance .
+De même lorsqu' une méthode fait l' objet de changement minime tel que dans le cas de notre étude pour la comparaison des résultats de la technique en dix minutes par_rapport_à la méthode en 40 min , la corrélation excellente ( r = 0,98 ) obtenue ne garantie pas une commutabilité absolue .
+En effet , 3 % des résultats variant de plus de 30 %  peuvent induire une interprétation clinique différente pour les patients .
+Les résultats de cette étude nous démontrent aussi clairement que le biologiste ne doit pas se laisser faussement rassurer par de belles droites de corrélation avec des coefficients de signification élevés .
+Il nous paraît indispensable de vérifier , à chaque fois , le niveau de concordance des couples de valeurs obtenus dans chacune des méthodes par le diagramme des différences tel qu' illustré dans la Fig. 3. Cette approche méthodologique probante de l' analyse des différences n' est malheureusement encore_que rarement employée , notamment par les fournisseurs de réactifs .
+Full-size image ( 146K )
+Figure 3. Diagrammes des différences selon Valtec après recalcul des résultats comparés ( Y' ) . a : différences AIA 10 / AIA40 ; b : différences AI 40 / Axsym ; c : différences Vidas / Axsym ; d : différences AIA10 / Axsym ; e : différences AIA 40 / Vidas ; f : différences AIA 10/ Vidas .
+View Within Article
+Par conséquent , avant_de changer de technique , il appartient au laboratoire de confirmer les valeurs basales pour ses patients en reprenant les sérums de la demande précédente pour s' assurer de l' évolution véritable du marqueur dans le nouveau système analytique .
+Cette recommandation n' évite pas la possibilité d' être confronté à quelques rares discordances qui seront difficiles à expliquer .
+Le recours à un prélèvement de contrôle plus rapproché dans le suivi peut se révéler indispensable pour valider l' évolution du marqueur dans un même système analytique .
+Cette étude doit aussi attirer l' attention des industriels du diagnostic sur les efforts de standardisation et de précision qu' ils doivent poursuivre afin_d' améliorer encore leurs méthodes de dosage des marqueurs des cancers en_général .
+Cela nous semble indispensable pour obtenir une meilleure exactitude dont la conséquence positive naturelle sera une plus grande commutabilité des résultats .
+Cet aspect nous paraît être un enjeu majeur pour l' avenir des marqueurs tumoraux .
+Il nous paraîtrait légitime qu' après ces améliorations , les marqueurs puissent reprendre une place importante dans le panel des indicateurs utiles pour la lutte contre la maladie cancéreuse .
+L' utilisation , plus précisément de ce marqueur du cancer du sein , a en_effet un rôle reconnu pour le suivi lors d' une rechute ou d' une métastase  .
+Bien qu' il ne puisse être l' indicateur unique de l' efficacité du traitement , il est un complément objectif des données cliniques et de l' imagerie que l' oncologue intégrera en vue de la prise de décision la plus utile pour sa patiente .
+Son intérêt dans le dépistage précoce des récidives est attesté mais actuellement il n' est pas démontré que le traitement au stade infraclinique améliore la survie  .
+L' interprétation des résultats en termes de cinétique individuelle et du calcul des temps de demi-vie peuvent apporter des informations complémentaires utiles pour la conduite des traitements et sont l' objet de recherche ces dernières années  .
+Il nous paraît opportun de rappeler que les résultats transmis aux médecins doivent mentionner la méthode utilisée conformément aux recommandations de la nomenclature des actes de Biologie médicale et que tout changement de technique doit faire l' objet d' information et de recommandations adaptées aux bonnes pratiques .
+4. Conclusion
+La méthode testée fournit des résultats en dix minutes avec des critères analytiques acceptables dans l' état de l' art .
+Les résultats des patientes sont bien corrélés avec la méthode en 40 min .
+La comparaison des résultats par le diagramme des différences montre que la commutabilité est possible avec certaines précautions .
+L' idéal étant de pouvoir faire le dosage par les deux méthodes sur des prélèvements itératifs pour ne pas induire de biais d' interprétation dans l' évolution et permettre le passage sécurisé de l' une vers l' autre méthode .
+Le recours aux échantillons antérieurs décongelés après conservation en biothèque est une alternative acceptable mais qui a aussi des limites .
+La comparaison avec deux des méthodes largement utilisées ( Vidas et Axsym ) donne des corrélations acceptables mais des différences plus fréquentes entre les valeurs d' un même couple ( 5 à 9 % de rejet ) .
+Le recours à ces comparaisons ne peut donc être applicable qu' à des situations exceptionnelles et avec le maximum de précaution pour l' interprétation .
+Toutefois , la méthode Tosoh présente certains avantages qui nous paraissent intéressants d' être signalés selon notre point_de_vue : l' utilisation d' un cône de pipetage unitaire avec prélèvement automatique sur tube primaire et des capsules de tests unitaires garantissant la stabilité des réactifs en ligne .
+De plus , le format d' incubation de dix minutes permet un rendu du résultat plus rapide .
+Ces particularités du réactif unitaire sous forme lyophilisée présentant une longue conservation permettent une grande souplesse dans l' organisation du travail quotidien .
+Cette méthode convient bien aux laboratoires ayant une activité quotidienne soutenue d' immunodosages ( environ 400 tests par jours ) .
+Elle est également bien adaptée aux laboratoires ayant des demandes faibles pour certains paramètres n' atteignant que quelques dosages par jour .
+En effet , le concept mis en oeuvre sur les analyseurs de la gamme AIA garantit bien actuellement , nous semble t il , la stabilité des réactifs et l' exactitude des résultats rendus au jour le jour ce qui est conforme à l' intérêt des patients .
+Remerciements
+Nous remercions la société Tosoh Bioscience pour la mise à disposition des coffrets de réactifs qui ont rendu possible cette étude comparative .
+Nos remerciements s' adressent aussi à l' ensemble de nos techniciens qui ont pris en charge très efficacement cette importante activité supplémentaire concentrée sur courte période

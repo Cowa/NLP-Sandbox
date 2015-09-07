@@ -1,0 +1,297 @@
+In the treatment of patients with lymph-node-negative breast cancer , adjuvant systemic treatment decreases the risk of developing distant metastases and death by around 50%.  Prognostic factors are used to identify patients at relatively high risk of developing distant metastases because those patients benefit most from such treatment .
+The main clinically used prognostic factors in lymph-node-negative breast cancer are age , tumour diameter , and histological grade.4 Several commonly used clinicopathological guidelines have been developed on the basis of these prognostic factors.  However , these factors do not predict accurately the exact clinical behaviour of breast tumours , and therefore , patients can be over-treated or under-treated depending on what clinicopathological guidelines are used for advising adjuvant systemic treatment .
+According to one study , as many as 33 patients would need to be treated for one patient to remain alive when these clinicopathological guidelines are used.13 Therefore , additional factors are needed to guide decisions on adjuvant systemic treatment .
+A 70 gene prognosis signature was identified by gene expression profiling on 78 patients with breast cancer selected from the tissue bank of the Netherlands Cancer Institute.14 Five of these patients had received some form of adjuvant systemic treatment ( three patients had received chemotherapy , two patients had received endocrine treatment ) .
+All patients had been followed up at least annually for at least 5 years .
+Patients classified by the prognosis signature as having poor prognosis had an odds ratio ( OR ) of 15 ( 95% CI 4 - 56 , p00001 ) to develop a distant metastasis within 5 years compared with patients who had good prognosis.14 This signature seemed a more powerful prognostic factor for distant metastasis and death than current clinicopathological factors , and seemed a strong independent prognostic factor in multivariate analysis.14 The prognostic value of this signature was validated in three retrospective studies of patients with node-negative breast cancer : Van de Vijver and colleagues15 studied the signature in 151 patients ( aged 53 years ; 40% good prognosis signature vs 60% poor prognosis signature ) ; Buyse and co-workers16 assessed 302 untreated patients ( aged 61 years ; 37% good prognosis signature vs 63% poor prognosis signature ) ; and Bueno-de-Mesquita and colleagues17 studied 123 patients from two Dutch institutes ( aged 55 years ; 52% good prognosis signature vs 48% poor prognosis signature ) .
+Van de Vijver 's group showed that the 10 year overall survival in patients with lymph-node-negative cancer and poor prognosis signatures was 50% ( SE 6 ) versus 97% ( SE 2 ) for patients with good prognosis signatures.15 In these three studies , the prognosis signature seemed a strong independent prognostic factor in comparison with current clinicopathological factors in the multivariate analysis .
+By use of the prognosis signature , up to 13 patients might be treated to save one life ; however , whether this modelling13 is accurate is a subject of ongoing research .
+A major difficulty in the technical implementation of the prognosis signature in daily clinical practice will be the feasibility of collecting good-quality breast tumour RNA , which is necessary for obtaining the prognosis signature .
+In most hospitals , tumour samples are routinely and directly fixed in formalin and embedded in paraffin blocks ; however , storage of tissue in this way results in RNA degradation .
+To evaluate whether the prognosis signature could be suitable for use in clinical practice , we undertook the MicroarRAy PrognoSTics in Breast CancER ( RASTER ) study .
+We aimed to assess : feasibility of implementation of a 70 gene prognosis signature as a diagnostic test in community hospitals in the Netherlands ; effect of the prognosis signature on use of adjuvant systemic treatment ; proportion of patients with poor versus good prognosis in a series of unselected patients with node-negative breast cancer ; and concordance between risk predicted by the prognosis signature and risk predicted by commonly used clinicopathological guidelines .
+We report here the findings of the RASTER study .
+Methods Patients .
+Women were enrolled in this study after giving informed consent if they had histologically confirmed unilateral primary operable invasive adenocarcinoma of the breast ( clinically T1 - 4N0M0 according to the Tumour , Nodes , and Metastases [ TNM ] staging system , sixth edition ) and were aged under 61 years at diagnosis .
+Exclusion criteria were previous history of a malignancy ( with exception of basal-cell carcinoma or cervical dysplasia ) or neoadjuvant systemic treatment .
+By the end of 2004 , after accrual of 242 patients , the study coordinators decided to change the maximum allowed age to 54 years ( ie , 55 years ) .
+The study coordinators amended the protocol because the prognostic value of the prognosis signature had been obtained in patients aged under 55 years , and , at that time , a planned validation of the prognostic value in patients aged over 55 years was not yet available .
+The central Investigative Review Board of the Netherlands Cancer Institute approved this amendment .
+However , all patients were included in the analysis reported here .
+Procedures .
+To participate in this study , hospitals had to have uniformly structured multidisciplinary breast cancer care that used standard operating procedures ; they had to treat at least 100 patients with breast cancer a year , and had to have at least one dedicated physician ( surgeon , pathologist , or medical oncologist ) as a local coordinator .
+Since collection of tumour tissue from surgical specimens by the pathologist for obtaining the prognosis signature was not a standard procedure , patients permission and informed consent before surgery were needed .
+Therefore , patients were enrolled before surgery to ensure permission was obtained .
+After enrolment , patients received surgery as their primary treatment .
+Immediately after the breast tumour was surgically removed , it was stored in a container without any preserving solution ( eg , formalin ) , taken to the pathology department under supervision of the surgeon , and processed by the attending local pathologist .
+The surgeon , the pathologist , and the assisting staff were trained in these procedures .
+Within 1 h after surgery , a tumour sample was taken by the local pathologist for quality control checks of the RNA in accordance with the guidance of the US Food and Drug Administration ( FDA ) for the assessment of the 70 gene prognosis signature ( MammaPrint , Amsterdam , Netherlands ) .
+For this purpose , biopsy punches ( 6 mm diameter ) were distributed by the trial coordinator at the Netherlands Cancer Institute to participating pathology departments to ensure standardised tumour sampling .
+The samples were stored by the local pathologist directly after its removal in a container with RNAlater ( RNA preservation fluid ; name has since changed to RNARetain ; Asuragen , Austin , TX , USA ) and sent by regular mail to the pathology department of the Netherlands Cancer Institute .
+Samples from patients that were postoperatively eligible for analysis of the prognosis signature were sent to Agendia Laboratories , Amsterdam , Netherlands .
+The samples from postoperatively ineligible patients were stored at the pathology department of the Netherlands Cancer Institute .
+Quality checks of the RNA in each sample were done routinely at Agendia Laboratories where the prognosis signature test was undertaken.18 .
+After surgery , patients with any of the following were excluded from analysis : node-positive disease ( defined as a lymph-node metastasis 2 mm ) , non-permitted histology , less than 50% invasive tumour cells in the sample , or insufficient quality of tumour RNA.18 .
+In patients with non-permitted histology , the patients were considered to have invasive breast cancer before surgery and therefore asked to participate in the RASTER study ; after surgery and definitive pathological examination , the diagnosis proved to be different than invasive carcinoma ( eg , ductal carcinoma in situ , adenoid cystic carcinoma , myoepithelial tumour , or no malignancy ) .
+The treating physician ascertained patients prognoses and corresponding advice on adjuvant systemic treatment ( chemotherapy [ with or without immunotherapy ] , or endocrine treatment [ or both ] ) by use of the Dutch Institute for Healthcare Improvement ( CBO ) guidelines and registered this treatment advice on Clinical Registration Form ( CRF ) 1.  Subsequently , the prognosis signature result was obtained , weighed in this treatment decision , and final treatment advice was registered on CRF 2. This adjuvant systemic treatment advice was discussed with the patient .
+The patient 's preference for treatment was included and the actual adjuvant systemic treatment given was registered on CRF 3. Follow-up was obtained annually for all accrued patients up to April , 2007 .
+Paraffin-embedded tumour samples were analysed at the pathology department of the participating hospitals by pathologists who were blinded to the result of the prognosis signature .
+Histological tumour grade according to Elston and Ellis,19 oestrogen-receptor status , progesterone-receptor status , and ERBB2-receptor status were established by each participating hospital according to locally used methods .
+According to Dutch guidelines , oestrogen and progesterone receptors were deemed positive if at least 10% of tumour cells stained positive in immunohistochemical assay .
+Samples were deemed ERBB2-positive if the score was 3+ in immunohistochemical assay .
+If the score was 2+ in immunohistochemical assay and a fluorescent in-situ hybridisation result ( FISH ) was available , the FISH result ( positive or negative ) was used .
+The initial histopathology data , without central review of paraffin-embedded tumour samples , were used for clinical-risk assessment by the treating physician and in the statistical analysis .
+After tumour samples were received at the Netherlands Cancer Institute , they were snap frozen in liquid nitrogen and stored at 70C .
+Frozen sections of each sample were obtained and stained with haematoxylin and eosin and analysed by an experienced breast pathologist ( MJvdV or JLP ) .
+Eligible samples had to contain at least 50% tumour cells .
+Details of RNA isolation , microarray analysis , and correlation of microarray data with the prognosis signature have previously been described.  Microarray analysis for obtaining the prognosis signature ( MammaPrint ) was done by staff at Agendia Laboratories who were blinded to clinical and pathological data .
+Agendia 's MammaPrint diagnostic service is recognised by the US Food and Drug Administration as a medical device and is ISO-17025 accredited with use of MammaPrint ; this array chip assesses the mRNA expression of the 70 genes in triplicate by use of the Agilent ( Santa Clara , CA , USA ) oligonucleotide microarray platform.18 The sensitivity of the 70 gene signature was initially set to allow 9% of the patients with poor outcome in the series on which the signature was developed to be identified as low risk .
+In the current study , the cut-off between the good and poor prognosis signatures was the same as that used to first identify the prognosis signature and in subsequent validation studies. 
+Hereafter , risk assessment by use of clinicopathological factors is referred to as clinical risk .
+Clinical risk indexes included : Dutch CBO guidelines,  St Gallen guidelines,7 Nottingham Prognostic Index ( NPI ) ,  and Adjuvant !
+Online , version 8.0 ) .  In this study , a moderate or high clinical risk was an indication for adjuvant systemic treatment .
+Clinical guidelines vary substantially in their selection criteria of which patients should receive adjuvant systemic treatment .
+The Dutch CBO guidelines and the NPI are more restrictive in selecting patients for adjuvant systemic treatment compared with the other guidelines outlined above .
+The Dutch CBO guidelines are primarily based on the assumption that adjuvant chemotherapy is only justified if an absolute survival benefit of more than 5% at 10 years can be expected .
+These guidelines were formally adapted in 2004 and led to minor changes in risk assessment for adjuvant systemic treatment .
+If a patient was treated before the adaptation of the guidelines , the risk assessment for adjuvant systemic treatment was based on the previous guidelines of 2002.5 In the 2002 guidelines , low clinical risk was defined as age over 35 years , tumour grade 1 , and smaller than 30 mm , or grade 3 smaller than 10 mm .
+For tumours smaller than 30 mm and of grade 2 , low risk was defined as fewer than 13 mitotic figures every 2 mm2 .
+If a patient 's risk assessment for treatment was done after this adaptation , the adapted 2004 guidelines were used.6 According to these 2004 guidelines , low clinical risk was defined as age over 35 years , tumour of grade 1 and 30 mm or smaller , grade 2 and smaller than 20 mm , or grade 3 and 10 mm or less .
+Additionally , age of 35 years or under with grade 1 tumour of 10 mm or less was deemed low risk .
+All other patients aged 35 years or under were deemed high risk .
+Notably , in the Dutch CBO guidelines , adjuvant endocrine treatment is advised only in clinically high-risk patients with hormone-receptor-positive tumours in combination with chemotherapy .
+According to the St Gallen guidelines , low clinical risk was defined as oestrogen-receptor positive or progesterone-receptor-positive status ( or both ) and all of these criteria : tumour size of 2 cm or smaller , grade 1 , and age 35 years or over.7 All others tumours were deemed to be associated with a moderate or high risk of distant metastasis and death .
+The NPI computes a score with the algorithm : 02size ( cm ) +grade+nodal status .
+A moderate or high risk was defined as a score greater than 34.  The Adjuvant !
+Online software calculates a 10 year survival probability based on the patient 's age , tumour size , tumour grade , oestrogen-receptor status , and nodal status.  Patients were assigned to a high clinical risk if their 10 year survival probability was less than 90% , as estimated by Adjuvant !
+Online software .
+Institutional approval for this study was obtained centrally from the Institutional Review Board of the Netherlands Cancer Institute , and locally from the Institutional Review Boards of the participating hospitals .
+This prospective feasibility study is registered on the International Standard Randomised Controlled Trial Register , number ISRCTN71917916 .
+All patients gave written informed consent .
+The analyses reported here were done ( JMBdM , SCL , MJvdV and HvT ) centrally at the Netherlands Cancer Institute .
+Statistical analysis .
+Calculations were done by use of SPSS ( version 14.0 ) .
+Differences between the groups of interest were tested with the Pearson 2 test .
+Ordinal variables ( age , pathological T stage of TNM , histological grade , and nodal status ) with more than two groups were tested for trends ( by Cochran-Armitage test ) .
+A significant finding was defined as p value lower than 005 .
+Level of agreement between clinical-risk assessment and prognosis signature was expressed by means of a Cohen 's kappa .
+A kappa of one suggests perfect agreement , and a kappa of zero suggests no agreement .
+Role of the funding source .
+This study was financially supported by the Dutch Health Care Insurance Board .
+The funding source had no role in the study design , data collection , data analysis , data interpretation , in writing the report , or in the decision to submit for publication .
+JMBdM , HvT , MJvdV , and SCL had access to all of the raw data .
+JMBdM , MJvdV , and SCL had final responsibility for the decision to submit for publication .
+Results .
+812 patients were enrolled in the 16 participating Dutch hospitals between 2004 and 2006 .
+After exclusion of preoperative and postoperative non-eligible patients ( 19 protocol violations , 182 patients had node-positive cancer , and 26 patients had histology that was not permitted ; figure 1 ) , 585 ( 72% ) eligible patients remained .
+Of these patients , another 158 patients were excluded because of sampling failure ( 128 patients ) and incorrect procedure ( 30 patients ) .
+In 427 of the 585 ( 73% ) eligible patients , prognosis profiles were obtained .
+Full-size image ( 29K )
+High-quality image ( 239K )
+Figure 1. Patients enrolled , excluded , and tested for the 70 gene signature .
+DCIS=ductal carcinoma in situ .
+Note : Tumour too small for biopsy means that if a tumour sample had been taken to obtain a 70 gene prognosis signature , too little tumour tissue would remain for standard pathological examination .
+View Within Article .
+Mean age of eligible patients was 48 years ( median 49 ; SD 7 ; range 27 - 60 ) and mean tumour diameter was 17 mm ( median 15 ; SD 8 ; range 2 - 80 ) .
+We did not note any difference in age between eligible patients for whom a prognosis signature was or was not obtained ( webtable 1 ) .
+By contrast , the mean diameter ( SD ) was larger in patients for whom the prognosis signature could be obtained ( 17 mm  vs 14 mm  ) , and tumour was more often grade 3 ( 136 of 427 [ 32% ] vs 37 of 158 [ 23% ] ) .
+Patient and tumour characteristics of the 427 patients in whom a prognosis signature was assessed are summarised in table 1. Median follow-up was 14 months ( range 03 - 364 ) .
+During follow-up , ten first events occurred consisting of three regional recurrences , five distant metastases as first event , one contralateral breast cancer , and one second primary malignancy ( bronchoalveolar carcinoma ) .
+Table 1. .
+Characteristics of patients and tumours in the analysis of the 70 gene prognosis signatures .
+70 gene prognosis signature ( n=427 ) p Good ( n=219 ) Poor ( n=208 ) Age , years0002 35719. .
+36 - 401427. .
+41 - 453747. .
+46 - 508655. .
+51 - 555644. .
+551916. .
+Type of surgery0026 Ablation3349. .
+Breast-conserving treatment186159. .
+Axillary procedure0645 SLNP190186. .
+ALND98. .
+SLNP and ALND2014. .
+Histological tumour type00001 Ductal162183. .
+Lobular389. .
+Other1615. .
+Missing31. .
+Tumour size ( pTNM ) , mm00001 pT1 ( 20 ) 177124.. pT2 ( 20 - 50 ) 4283.. pT3 ( 50 ) 01. .
+Histological grade00001 1 ( good ) 7215. .
+2 ( intermediate ) 13173. .
+3 ( poor ) 16120. .
+Oestrogen-receptor status00001 Negative382. .
+Positive216126. .
+Progesterone-receptor status00001 Negative33100. .
+Positive186107. .
+Missing01. .
+ERBB2-receptor status00001 Negative197161. .
+Positive939. .
+Missing138. .
+Nodal status0006 N0175186. .
+Isolated tumour cells ( 02 mm ) 179. .
+Micrometastases ( 02 - 20 mm ) 2713. .
+Adjuvant systemic treatment00001 None15810. .
+Chemotherapy176. .
+Endocrine treatment2829. .
+Both3293. .
+Adjuvant trastuzumab00001 No218180. .
+Yes128. .
+Radiotherapy0045 No3246. .
+Yes187162. .
+Full-size table .
+SLNP=sentinel-lymph-node procedure .
+ALNP=axillary-lymph-node dissection. pTNM=pathological Tumour , Nodes , and Metastases staging system. pT=pathological T stage .
+Missing values were not used for calculation of p values .
+Actual treatment in CRF 3. Percentages might not add up to 100% because of rounding .
+View Within Article .
+219 of the 427 ( 51% ) patients in this series had a good prognosis signature and 208 ( 49% ) patients had a poor prognosis signature .
+Table 1 shows the association of the 70 gene prognosis signature with clinical and pathological characteristics .
+A good prognosis signature was infrequently noted in oestrogen-receptor-negative tumours ( 3 of 85 [ 4% ] patients ) , in grade 3 tumours ( 16 of 136 [ 12% ] patients ) , and in ERBB2-positive tumours ( 9 of 48 [ 19% ] patients ) .
+By contrast , poor prognosis signatures were not often found in grade 1 tumours ( 15 of 87 [ 17% ] patients ) and lobular breast carcinomas ( 9 of 47 [ 19% ] patients ) .
+According to the Dutch CBO guidelines , 184 of 427 ( 43% ) patients were at high risk ; Adjuvant !
+Online , 294 of 427 ( 69% ) patients ; the NPI , 179 of 427 ( 42% ) patients ; and the St Gallen guidelines , 353 of 427 ( 83% ) patients .
+Clinical risk was discordant with the prognosis signature for 128 patients ( 30% ; kappa 0398 ) according to the Dutch CBO guidelines ; 160 patients ( 37% ; kappa 0258 ) according to Adjuvant !
+Online ; 117 patients ( 27% ; kappa 0450 ) according to the NPI ; and 168 patients ( 39% ; kappa 0226 ) according to the St Gallen guidelines ( table 2 ) .
+We would like to emphasise that these comparisons between clinicopathological risk assessment and prognosis signature risk assessment are theoretical and are based on the fact that only one of the risk-assessment methods would be chosen for use .
+These comparisons show that for about one-third of the patients , the patients identified as high risk differed when the clinical-risk profile and the prognosis-signature-risk profile were compared .
+This amount of discordance was similar to the amount of discordance between findings from the clinical guidelines used in this paper ( which varied between 7 - 40% ; data not shown ) .
+Table 2. .
+Discordances between 70 - gene prognosis profile and risk assessment according to other clinicopathological risk indexes .
+70 - gene prognosis signature , n ( % ) ( n=427 ) Discordant findings , n ( % ) , 95% CI , kappa Good ( n=219 ) Poor ( n=208 ) Clinical risk ( Dutch CBO guidelines ) Low ( n=243 ) 167 ( 39 ) 76 ( 18 ) 128 ( 30 ) , 26 - 34 , 0398 High ( n=184 ) 52 ( 12 ) 132 ( 31 ) . .
+Clinical risk ( Adjuvant ! Online ) Low ( n=133 ) 96 ( 22 ) 37 ( 9 ) 160 ( 37 ) , 32 - 42 , 0258 High ( n=294 ) 123 ( 29 ) 171 ( 40 ) . .
+Clinical risk ( NPI guidelines ) Low ( n=248 ) 175 ( 41 ) 73 ( 17 ) 117 ( 27 ) , 23 - 31 , 0450 Moderate or high ( n=179 ) 44 ( 10 ) 135 ( 32 ) . .
+Clinical risk ( St Gallen guidelines ) Low ( n=73 ) 62 ( 15 ) 11 ( 3 ) 168 ( 39 ) , 34 - 44 , 0226 Moderate or high ( n=353 ) 157 ( 37 ) 196 ( 46 ) . .
+Full-size table .
+These numbers were summed to obtain discordant findings .
+For definitions of clinical low , moderate , or high risk see methods .
+Data missing for one patient .
+Percentages might not add up to 100% because of rounding .
+View Within Article .
+According to the Dutch CBO guidelines , 184 of 427 ( 43% ) patients were at clinical high risk and 243 of 427 ( 57% ) were at clinical low risk ( table 3 ) .
+Based on these guidelines , the oncologist recommended adjuvant systemic treatment for 203 patients ( 48% ) , chemotherapy for 71 patients ( 16% ) , endocrine therapy for 17 patients ( 4% ) , and both for 115 patients ( 27% ; table 3 and figure 2 ) ; these recommendations were registered on CRF1 .
+In 26 of 427 ( 6% ) patients , more adjuvant systemic treatment was advised than theoretically needed according to the Dutch CBO guidelines .
+In 11 of 427 ( 3% ) patients , less adjuvant systemic treatment was advised than theoretically needed according to the Dutch CBO guidelines ( table 3 ) .
+Therefore , the oncologist 's treatment advice was compliant with clinical Dutch CBO guidelines in 390 of 427 ( 91% ) patients .
+If the clinical risk and the prognosis signature were taken into account ( table 4 and figure 2 ) , the oncologist recommended adjuvant systemic treatment for 265 of 427 ( 62% ) patients , chemotherapy for 80 ( 19% ) patients , endocrine treatment for 46 ( 11% ) patients , and both for 139 ( 33% ) patients ; these recommendations were registered on CRF 2 and show that 62 more patients ( 15% ) were recommended for treatment on CRF 2 than on CRF 1. .
+Table 3. .
+Adjuvant systemic treatment advice formulated with the Dutch CBO guidelines ( CRF 1 )
+None ( n=224 ) Chemotherapy ( n=71 ) Endocrine treatment ( n=17 ) Both ( n=115 ) Dutch CBO guidelines , n ( % ) Low risk ( n=243 ) 217 ( 51 ) 4 ( 1 ) 13 ( 3 ) 9 ( 2 ) Compliance : 91% ( 390 of 427 ) High risk ( n=184 ) 7 ( 2 ) 67 ( 16 ) 4 ( 1 ) 106 ( 25 ) Not compliant : 9% ; ( 37 of 427 )
+Full-size table .
+Treatment advice ( CRF 1 ) does not agree with advice of the Dutch CBO guidelines .
+Percentages might not add up to 100% because of rounding .
+View Within Article .
+Full-size image ( 63K )
+High-quality image ( 469K )
+Figure 2. Adjuvant systemic treatment recommendations .
+( A ) For all patients ( n=427 ) ; ( B ) patients in whom the clinical risk based on Dutch CBO guidelines was concordant with the prognosis signature based risk ( n=299 ) ; and ( C ) patients in whom the two methods of risk assessment were discordant ( n=128 ) .
+View Within Article .
+Table 4. .
+Adjuvant systemic treatment advice formulated with the Dutch CBO guidelines and prognosis signature ( CRF 2 )
+None ( n=162 ) Chemotherapy ( n=80 ) Endocrine treatment ( n=46 ) Both ( n=139 ) Dutch CBO guidelines and prognosis signature , n ( % ) Low-good ( n=167 ) 152 ( 36 ) 012 ( 3 ) 3 ( 1 ) Low-poor ( n=76 ) 4 ( 1 ) 12 ( 3 ) 20 ( 5 ) 40 ( 9 ) High-good ( n=52 ) 6 ( 1 ) 1 ( 02 ) 12 ( 3 ) 33 ( 8 ) High-poor ( n=132 ) 067 ( 16 ) 2 ( 05 ) 63 ( 15 )
+Full-size table .
+Treatment advice ( CRF 1 and CRF 2 ) does not agree with advice of the Dutch CBO guidelines .
+No guidelines exist for these patients .
+Percentages might not add up to 100% because of rounding .
+View Within Article .
+If clinical risk , prognosis signatures , and patients preferences for treatment were all taken into account , adjuvant systemic treatment was actually given in 259 of 427 ( 61% ) patients and registered on CRF 3 : chemotherapy in 77 ( 18% ) patients , endocrine treatment in 57 ( 13% ) patients , and both given in 125 ( 29% ) patients ( Table 5 and Table 6 , and figure 2 ) .
+56 ( 13% ) patients had more adjuvant systemic treatment than the 203 ( 48% ) patients who had initially been advised and registered on CRF 1 based on only the Dutch CBO guidelines .
+Overall , 83 ( 19% ) patients received another adjuvant systemic treatment when the combined Dutch CBO guidelines , prognosis signature findings , and patients preference for treatment ( CRF 3 ) were used compared with treatment advice based only on the Dutch CBO guidelines registered on CRF 1 ( table 6 ) .
+Table 5. .
+Adjuvant systemic treatment advice formulated with Dutch CBO guidelines , prognosis signature , and patients treatment preference ( CRF 3 )
+None ( n=168 ) Chemotherapy ( n=77 ) Endocrine treatment ( n=57 ) Both ( n=125 ) Dutch CBO guidelines , prognosis signature , and patients preference , n ( % ) Low-good ( n=167 ) 152 ( 36 ) 013 ( 3 ) 2 ( 05 ) Low-poor ( n=76 ) 8 ( 2 ) 10 ( 2 ) 25 ( 6 ) 33 ( 8 ) High-good ( n=52 ) 6 ( 1 ) 1 ( 02 ) 15 ( 4 ) 30 ( 7 ) High-poor ( n=132 ) 2 ( 05 ) 66 ( 15 ) 4 ( 1 ) 60 ( 14 )
+Full-size table .
+Actual treatment given does not agree with advice of the Dutch CBO guidelines .
+No guidelines exist for these patients .
+Percentages might not add up to 100% because of rounding .
+View Within Article .
+Table 6. .
+Treatment advice of the Dutch CBO guidelines ( CRF 1 ) versus actual treatment given ( CRF 3 )
+CRF 3 ( n=427 ) None ( n=168 ) Chemotherapy ( n=77 ) Endocrine treatment ( n=57 ) Both ( n=125 ) CRF 1 ( n=427 ) None ( n=224 ) 163 ( 38 ) 7 ( 2 ) 27 ( 6 ) 27 ( 6 ) Chemotherapy ( n=71 ) 1 ( 02 ) 70 ( 16 ) 00 Endocrine treatment ( n=17 ) 2 ( 05 ) 014 ( 3 ) 1 ( 02 ) Both ( n=115 ) 2 ( 05 ) 016 ( 4 ) 97 ( 23 )
+Full-size table .
+Data are number of patients and percentage of patients ( of 427 ) .
+Treatment advice agreed with actual treatment given and was not changed by findings from the 70 gene prognosis signature .
+Patients received more adjuvant systemic treatment than had been advised by the Dutch CBO guidelines , after incorporation of prognosis signature and patients preference .
+Patients received less adjuvant systemic treatment than had been advised by the Dutch CBO guidelines after incorporation of prognosis signature and patients preference .
+View Within Article .
+As shown in figure 2 , in patients for whom the risk assessment and 70 gene prognosis signature gave concordant findings , advice on adjuvant systemic treatment remained the same .
+Consequently , the increase in adjuvant systemic treatment was mainly noted in patients for whom the risk according to the clinical Dutch CBO guideline was discordant with that according to the prognosis signature ( n=128 ; figure 2 ) .
+Based on the risk according to the clinical Dutch CBO guidelines , some form of adjuvant systemic treatment was advised for 61 ( 48% ) of these patients , chemotherapy for five ( 4% ) patients , endocrine treatment for six ( 5% ) patients , and both for 50 ( 39% ) patients ( webtable 2 ) .
+If the Dutch CBO guidelines , prognosis signature finding , and patient 's preference for treatment were all considered , 114 of the 128 ( 89% ) patients actually received adjuvant systemic treatment , 11 ( 9% ) received chemotherapy , 40 ( 31% ) patients received endocrine treatment , and 63 ( 49% ) received both ( webtable 2 ) .
+Compared with CRF 1 , the decision to use adjuvant systemic treatment was changed in 69 of 128 ( 54% ) patients , which resulted in an increase of 19 ( 4% ) patients receiving chemotherapy and 47 ( 37% ) patients receiving endocrine treatment .
+Discussion .
+The findings of this study show that implementation of the 70 gene prognosis signature as a diagnostic test is feasible in community hospitals in the Netherlands .
+Postoperatively , 208 of the 812 ( 26% ) patients were excluded , mainly because of lymph-node metastases ( 182 of 208 ) .
+Generally , 30% of the invasive breast cancers are node-positive and 70% are node-negative .
+Only a small proportion of the patients are already clinically node-positive ( about 10% ) before surgery .
+Consequently , a large proportion of the patients who are clinically node-negative are deemed to be node-positive after surgery and pathological assessment of the lymph nodes ( around 20% ) .
+In our study , 22% of patients were node-positive after surgery , as expected .
+The remaining 3% of patients were excluded because of histology that was not permitted ( eg , ductal carcinoma in situ without invasion ) , which can be assessed only after pathological assessment of the surgical specimen .
+In future , these exclusions could be prevented by collecting frozen tumour samples from all patients with breast cancer as a standard clinical procedure .
+In that way , the need for a prognosis signature can be assessed postoperatively when the patient 's pathological tumour characteristics are known , thereby preventing unnecessary logistical difficulties .
+Furthermore , more emphasis on adequate sampling of tumours during pathological assessment could decrease the number of tumours with a low tumour cell percentage .
+At the start of the RASTER study , 35 patients aged 56 - 60 years were included before the amendment of protocol at the end of 2004 to lower the upper age limit to 55 years .
+However , because the number of patients aged 55 - 61 years only represented 8% ( 35 of 427 patients ) of the whole study population , we did not undertake sub-group analyses to assess the effect of inclusion of these 35 patients on our study findings .
+Prognosis signatures were obtained for 427 ( 73% ) eligible patients .
+This proportion could be improved by optimising the required logistics ; however , low tumour- cell percentage in specimens and insufficient RNA quality cannot always be avoided .
+Of the tumours assessed ( 427 patients ) , 49% showed a good prognosis signature and 51% showed a poor prognosis signature .
+This finding confirms previous findings.17 We noted discordance between the prognosis signature and the clinical risk assessment in about one-third of patients , regardless of the clinical risk index used .
+When the prognosis signature was used in combination with the Dutch CBO guidelines for adjuvant systemic treatment decisions , adjuvant systemic treatment would have been advised in 56 ( 13% ) additional patients , chemotherapy in six ( 1% ) additional patients , endocrine treatment in 40 ( 9% ) additional patients , and both in ten ( 2% ) additional patients compared with use of the Dutch CBO guidelines alone ( table 6 ) .
+These increases were mainly caused by 12% more ( 50 of 427 patients ) receiving endocrine treatment ( 54 [ 13% ] had endocrine treatment added , and four [ 1% ] had endocrine treatment withheld ) .
+Chemotherapy was added in 35 ( 8% ) patients and withheld in 19 ( 4% ) patients ( net 16 ( 4% ) patients had more chemotherapy ) .
+The original purpose of the research project was to improve selection of patients at very low or high risk of developing distant metastases , thereby optimising advice on adjuvant systemic treatment .
+Clinical guidelines differ substantially in such advice .
+The Dutch CBO guidelines are restrictive in the recommendation of adjuvant systemic treatment ( endocrine and chemotherapy ) compared with the Adjuvant !
+Online and St Gallen guidelines .
+Initially , based on the validation by van de Vijver and colleagues,15 we expected that less chemotherapy would be advised if the prognosis signature was used in clinical practice .
+In our study , more patients received adjuvant systemic treatment ; this was mainly endocrine treatment ( 12% of patients ) and chemotherapy ( only 4% of patients ) .
+These findings can be explained by the fact that Van de Vijver and co-workers used the St Gallen guidelines to estimate the effect of the prognosis signature on decisions on use of adjuvant systemic treatment .
+The St Gallen guidelines classified 83% of the patients in our current study as clinically high risk , whereas the more restrictive Dutch CBO guidelines classified 43% as clinically high risk .
+If the prognosis signature was used , 49% of the patients would be classified as having poor prognosis .
+This prediction would have resulted in less treatment if the St Gallen guidelines had been used , but more adjuvant systemic treatment in comparison with the Dutch CBO guidelines .
+Overall , in comparison with all risk assessment tests , in about one-third of the patients the clinicopathological risk assessment was discordant with the prognosis signature .
+For 19% of patients , systemic adjuvant treatment management differed between that recommended by the Dutch CBO guidelines and that actually given based on the prognosis signature , Dutch CBO guidelines , and patients preferences .
+This finding might result in improved selection of patients and survival outcome , as has been shown in retrospective studies.  Furthermore , this study does not show how we should combine the prognosis signature with traditional prognostic and predictive factors to give advice on adjuvant systemic treatment .
+Also , we do not know yet the exact predictive value of the prognosis signature .
+The MINDACT-trial ( TRANSBIG consortium in collaboration with the European Organisation for Research and Treatment of Cancer ) in which the prognosis signature is prospectively studied , is currently underway and will provide findings on the exact prognostic and predictive value of the prognosis signature.20 .
+This study shows that in patients with oestrogen-receptor-negative tumours , only 4% have a good prognosis signature .
+In view of this , the use of the prognosis signature is not needed to classify oestrogen-receptor-negative tumours as poor prognosis because the likelihood of a good prognosis signature is very low .
+Obviously , the prognosis signature has less discriminative value regarding prognosis in this subgroup .
+Additional prognostic tests might be needed for these patients .
+The performance of the 76 gene prognosis signature would be interesting in this respect.21 ERBB2-gene amplification is an adverse prognostic factor ; however , we know that not all ERBB2-positive tumours will develop distant metastases after adequate locoregional treatment only.  In our study , 19% of the ERBB2-positive tumours had a good prognosis signature .
+The need for chemotherapy and trastuzumab in this subgroup of patients needs to be studied .
+Worldwide , many patients with node-negative breast cancer and oestrogen-receptor-positive tumours receive adjuvant hormonal treatment .
+Often , prognostic tests are used to decide which patients should also receive adjuvant chemotherapy .
+However , over 70% of patients with node-negative breast cancer are treated successfully without any adjuvant systemic treatment .
+Tests that improve the selection of patients who will benefit from adjuvant systemic treatment ( including hormonal treatment ) are needed urgently for optimum individualised treatment of breast cancer.13 The clinical research community will have an important role in this process by freezing and storing breast cancer tissue , enabling the generation of prognostic ( and predictive ) gene-expression profiles .
+The RASTER-study reported here has shown that this process is possible in large numbers of hospitals .
+The 21 gene recurrence score ( Oncotype DX assay ) is another prognostic gene-expression profile and quantifies the likelihood of distant recurrence in patients treated with tamoxifen who have node-negative , oestrogen-positive breast cancer with paraffin-embedded material.  The TAILORx ( Trial Assigning IndividuaLized Options for Treatment ) trial will assess whether genes that are frequently associated with risk of recurrence for women with early-stage breast cancer can be used to assign patients to the most appropriate and effective treatment .
+Comparison of the prognostic value of the 70 gene prognosis signature studied here and the 21 gene recurrence score would be useful , as would assessment of their performances in a patient series .
+Another interesting question is why did some physicians choose not to base their treatment decisions on the prognosis signature when the risk assessment was discordant between the Dutch CBO guidelines and the prognosis signature ?
+Additionally , would patients knowledge of their prognosis signatures affect their decisionmaking ?
+We are currently studying these behavioural analyses and findings will be published later in a separate report .
+A pilot for a formal cost-effectiveness analysis has not been done in the RASTER-study .
+However , this analysis is planned in conjunction with the MINDACT ( Microarray In Node negative Disease may Avoid ChemoTherapy ) trial .
+The implementation of the 70 gene prognosis signature is feasible in Dutch community hospitals .
+The fact that frozen tissue is needed to undertake this test is not an obstacle for clinical use , as has been shown in this study .
+The most important question remains whether the prognosis signature studied here will avoid unnecessary adjuvant systemic treatment without compromising overall patient survival .
+We expect that for optimum use of adjuvant systemic treatment , the prognosis signature should be integrated with current clinicopathological risk assessments .
+Contributors .
+SCL , MJvdV , SR , WHvH , and LJvVeer were responsible for the study design and development of the protocol .
+WHvH ensured financing .
+JMBdM coordinated the study .
+EJTR , RMHR , FEB , and CvK participated in the patient accrual .
+JMBdM , KK , and VPR took part in data collection .
+JMBdM and HvT analysed the data .
+JMBdM , SCL , MJvdV took part in data interpretation and writing of the report .
+All authors were involved in reviewing the report .
+No medical writers were involved in this paper .
+MJvdV and SCL contributed equally to this report .
+Principal and co-investigators of RASTER study .
+These clinicians entered patients or participated in the study , or both ( number of accrued patients is in parentheses ) : J Meijer , J Klinkenbijl , J Douma , Alysis Care Group , Arnhem ( 31 ) ; J Wijsman , D van der Meer , P de Wit , O Loosveld , Amphia Hospital , Breda ( 4 ) ; S Veltkamp , A Baan , G Timmers , K van der Hoeven , Amstelland Hospital , Amstelveen ( 66 ) ; J van der Bijl , A M Lenssen , I Snijders , M Nap , J Wals , M Pannebakker , Atrium Medical Center , Heerlen ( 13 ) ; L Strobbe , F van den Wildenberg , R Berry , B Dekker , E Thunnissen , A Uyterlinde , C Mandigers , Canisius-Wilhelmina Hospital , Nijmegen ( 21 ) ; J W Arends , H de Vries , A Hemels-van der Lans , A Imholz , Deventer Hospital , Deventer ( 40 ) ; I Burgmans , C I Perre , T van Dalen , J van Gorp , D ten Bokkel Huinink , P Thunissen , Diakonessenhuis , Utrecht ( 4 ) ; J Roussel , C Bernhart , E Weltevreden , S Radema , Gelre Hospitals , Apeldoorn ( 21 ) ; R Roumen , P Reemst , A Brands , K Vercoelen , M van Beek , W Dercksen , G Vreugdenhil , Maxima Medical Centre , Eindhoven / Veldhoven ( 114 ) ; T van der Sluis , A Stam , Lotus Sterk , Medisch Spectrum Twente , Enschede ( 6 ) ; M J Baas-Vrancken Peeters , H Oldenburg , I Eekhout , H Hauer , J Schornagel , Netherlands Cancer Institute , Antoni van Leeuwenhoek Hospital , Amsterdam ( 172 ) ; H van der Mijle , D de Vries , I Kruithof , S Hovenga , Nij Smellinghe Hospital ; Drachten ( 18 ) ; B de Valk , M de Boer , P J Borgstein , A Walter , Onze Lieve Vrouwe Gasthuis , Amsterdam ( 16 ) ; C van Krimpen , P W de Graaf , C van de Pol , N van Holsteijn , A van Leeuwen , M M E M Bos , E Maartense , Reinier de Graaf Group , Delft ( 124 ) ; A Zeillemaker , G van Leeuwen , J Calame , W Molendijk , G Jonkers , F Cluitmans , Rijnland Hospital , Leiderdorp ( 59 ) ; and F Bellot , G Heuff , A Tanka , P Hoekstra , K van de Stadt , J Schrama , Spaarne Hospital , Hoofddorp ( 103 ) .
+Conflicts of interest .
+The RASTER study was financially supported by the Dutch Health Care Insurance Board ( CVZ ) .
+LJvV and MJvdV are named inventors on a patent application for the 70 gene signature used in this study .
+LJvV is a shareholder in and employed by Agendia , the commercial company that markets the 70 gene signature as MammaPrint .
+ANF , TSW , GB , and AMG are employed by Agendia .
+WHvH is a non-remunerated , non-stake-holding member of the supervisory board of Agendia .
+Acknowledgments .
+We are indebted to the women who participated in this study ; to the doctors , nurses , and data managers from the participating hospitals in the Netherlands that enrolled patients in the RASTER-study .

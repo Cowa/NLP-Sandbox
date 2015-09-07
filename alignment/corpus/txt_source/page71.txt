@@ -1,0 +1,617 @@
+Ce travail , réalisé à la demande du ministère de la Santé , est une mise à jour des recommandations Inserm - FNCLCC publiées en 1998 et 1999  .
+Plus de 75 % des références scientifiques utilisées dans le rapport ont été publiées en 1998 et après .
+Cette activité médicale n' est encore ni stabilisée ni évaluée selon les niveaux de preuves les plus élevés .
+Le texte présenté s' appuie sur un travail réalisé pendant 12 mois par un groupe d' experts réunis par la DGS à la demande du ministère de la Santé .
+Pour ce travail , les experts ont bénéficié d' une formation assurée par l' Inserm , l' Anaes , et le groupe « SOR » de la FNCLCC .
+Le problème qui a été abordé dans ce texte est celui de gènes de prédisposition , c' est-à-dire de gènes dont les mutations constitutionnelles délétères induisent un sur-risque très important de cancers , en termes de risque absolu .
+Dans ce domaine , plus encore qu' ailleurs , il est fondamental de respecter le choix des individus et de les faire participer aux décisions médicales  .
+2. Epidémiologie2.1 .
+Part attribuable , fréquence , risques principaux
+Concernant le nombre de ces cancers se développant chez des personnes ayant une prédisposition d' origine génétique , le chiffre de 5 % peut être retenu  .
+On estime ainsi_qu' annuellement , en France , 2000 nouveaux cas de cancers du sein et 200 cancers de l' ovaire seraient liés à une prédisposition génétique constitutionnelle .
+La fréquence des personnes porteuses d' une mutation constitutionnelle délétère ( « MCD » ) de BRCA1 ou BRCA2 peut être estimée entre une personne sur 300 et une personne sur 800 , soit de l' ordre de 17000 à 45000 femmes ayant de 30 à 69 ans .
+Les estimations des risques de développer un cancer pour les femmes ayant une altération du gène BRCA1 ou du gène BRCA2 sont très variables selon les études .
+On peut estimer que les femmes porteuses d' une « MCD » ont  : - de l' ordre de 40 à 85 % de risque de développer un cancer du sein avant 70 ans alors_que ce risque est de l' ordre de 10 % dans la population générale ;
+- entre 10 et 63 % de risque de développer un cancer de l' ovaire avant 70 ans alors_que ce risque est de l' ordre de 1 % dans la population générale .
+Ce risque est cependant assez différent selon qu' il s' agisse d' une « MCD » BRCA1 ou BRCA2 .
+Dans la synthèse réalisée par Antoniou_et_al.  , le risque de cancer du sein à 70 ans est de 65 % ( 95 % IC95 % 44 - 78 % ) pour BRCA1 et de 45 % ( 31 - 56 % ) pour BRCA2 .
+Le risque de cancer de l' ovaire est de 39 % ( 18 - 54 % ) pour BRCA1 et de 11 % ( 2,4 - 19 % ) pour BRCA2 .
+À partir des données de cette publication on peut estimer que le risque d' être atteint d' un cancer de l' ovaire avant 45 ans est de l' ordre de 10 % en cas de mutation de BRCA1 et de moins de 1 % en cas de mutation de BRCA2 .
+Pour le risque de cancer du sein les chiffres sont de l' ordre de 25 % pour BRCA1 et 7 % pour BRCA2 .
+Concernant le risque annuel de cancer controlatéral , d' une femme atteinte d' un cancer du sein , il peut être estimé  entre 3,8 et 6,4 % pour BRCA1 et entre 2,1 et 4,2 % pour BRCA2 .
+La question d' un pronostic différent des cancers du sein ou de l' ovaire se développant chez des femmes ayant des « MCD » BRCA est toujours en débat .
+Les différences ont été jugées faibles par le groupe d' experts et à ce jour sans impact sur les décisions thérapeutiques .
+2.2. Spectre d' expression tumorale en_dehors du cancer du sein et de l' ovaire
+Chez les porteurs de « MCD » BRCA , les risques principaux concernent le sein et l' ovaire .
+Un certain nombre d' études rapportent également des risques accrus pour d' autres cancers  néanmoins , en_particulier , pour des raisons de biais méthodologiques , il semble difficile pour l' instant , de tenir compte de ces éventuels sur-risques dans la prise en charge .
+Tableau 1.
+Risques relatifs de cancer des différents organes ( hors sein et ovaire ) chez les porteurs de « Mutation CD » BRCA selon le gène impliqué et l' histoire familiale .
+Seuls les cancers dont les risques ont été signalés en excès par au moins une étude sont notés .
+En raison d' un problème de tests multiples , qui n' a été corrigé dans aucune des études , nous n' avons retenu que les risques significatifs à 1 % .
+BCLC
+BRCA2 1999 
+BCLC BRCA1 2002  Consultations oncogénétique BRCA1  Cas consécutifs de cancers 2001 BRCA1  Cas consécutifs de cancers 2001 BRCA2  Pancréas5,52,32,8NSNS Prostate4,6NSNSNSNS Vésicule biliaire5,0NSNSNSNS Mélanome2,6NSNSNSNS CôlonNS2,02,0NS ( côlon et rectum ) 2,5 ( côlon et rectum ) RectumNS0,2NS Estomac2,6NS6,96,2NS FoieNS4,1NSNSNS Utérus corpsNS2,7NSNSNS Utérus colNS3,7NSNSNS Trompes de FallopeNS50120NSNS Tous cancers femmesNS2,3?NSNS
+Full-size table
+BCLC : Breast cancer linkage consortium ; NS : non significatif ou non signalé .
+View Within Article
+On peut globalement retenir : - un sur-risque probable de cancer du pancréas , en_particulier pour BRCA2 ;
+- un sur-risque possible de cancer de la prostate ;
+- la non-confirmation du risque de mélanome ;
+- le très important sur-risque de cancer des trompes de Fallope ;
+- l' absence très probable de sur-risque de cancer colorectal , la position est donc de ne pas tenir compte de l' histoire familiale sein - ovaire ou de « MCD » BRCA pour définir les meilleures stratégies de prise en charge préventives du cancer colorectal qui seront donc celles établies par la conférence de consensus  .
+2.3. Histoire familiale , « MCD » et risques de cancer
+Il n' est pas possible , à ce jour , de décider si l' interprétation « clinique » des « MCD » , c' est-à-dire le niveau de risque évalué , doit ou non tenir compte de l' histoire familiale ( peu ou au_contraire de nombreux cas de cancer ) .
+Dans le même ordre d' idée , en cas d' absence de mutation délétère identifiée à titre individuel dans une famille BRCA+ avec de nombreux cas , il n' est pas possible aujourd'hui de définir s' il existe un réel retour au niveau du risque de la population standard ou la persistance d' un risque légèrement plus élevé .
+Néanmoins , les experts de ce groupe de travail estiment que la première hypothèse est la plus probable .
+2.4. Spectre d' expression tumorale en cas de cancers multiples atteignant une seule personne
+Au vu des données analysées , l' hypothèse retenue est celle de l' indépendance des événements .
+Aucun argument ( en_dehors des différences BRCA1 - BRCA2 ) ne permet d' anticiper le sens d' une éventuelle association ( des mutations « agressives » pourraient augmenter l' incidence des deux cancers sein et ovaire , en_revanche , des cofacteurs comme la pilule par_exemple pourraient opposer les variations d' incidences ) .
+Pour répondre à des questions « profanes » : il n' y a ni malédiction ( « si j' en ai eu un , j' en aurai deux » ) ni répartition équilibrée ( « j' ai eu un cancer , ça suffit » ) .
+2.5. Corrélations génotype - phénotype
+Les études sont , à ce jour , peu démonstratives pour BRCA1 .
+Pour BRCA2 , l' impact des mutations siégeant dans la zone « OCCR » ( ovarian cancer cluster region ) n' est pas , définitivement établi mais l' hypothèse d' un risque moindre de cancer du sein et / ou d' un sur-risque de cancer de l' ovaire ne peut être rejetée .
+Néanmoins pour l' instant , il n' est pas recommandé de tenir compte de cet élément dans les processus de décision .
+3. Les consultations3.1 .
+Règles d' organisation et modes d' accès à la première consultation
+La distinction porte sur la finalité des examens , il s' agit ( selon les termes de la loi ) : - soit de confirmer ou d' infirmer le diagnostic de maladie génétique chez une personne qui en présente les symptômes ;
+- soit de rechercher , chez une personne asymptomatique , les caractéristiques d' un ou plusieurs gènes susceptibles d' entraîner à terme le développement d' une maladie chez la personne elle-même ou sa descendance .
+Dans ce cas , la prescription d' un examen des caractéristiques génétiques doit être effectuée par un médecin oeuvrant au sein d' une équipe pluridisciplinaire rassemblant des compétences cliniques et génétiques .
+Le consentement de la personne doit être libre et éclairé par une information préalable comportant notamment des indications sur la portée de l' examen .
+Ce consentement est donné par écrit .
+La position des experts de ce groupe est de considérer que l' équipe pluridisciplinaire devrait pouvoir mobiliser les différentes compétences suivantes : cancérologue , généticien , biologiste ayant une formation en génétique moléculaire , chirurgien , radiologiste , gynécologue , psychologue - clinicien , le médecin traitant chaque fois que cela est possible et tout autre spécialiste dont la présence pourrait être utile à la discussion d' un cas clinique .
+Il est souligné l' importance de la consultation de première ligne ( médecins généralistes et spécialistes ) permettant une information préalable des personnes .
+Un algorithme simplifié , sans validation empirique , d' indication des consultations d' oncogénétique est proposé en annexe .
+Le niveau supposé de risque et la réalité de la demande de la consultante sont deux critères importants , mais c' est le second qui doit , en priorité , être pris en compte .
+Pour une personne , appartenant à une famille à très haut risque , qui est réticente , la consultation doit être différée , peut-être indéfiniment .
+Le respect de cette position est un impératif une fois les informations sur les enjeux délivrées par le médecin ( notion de refus éclairé proposée par Jacques Simard ) .
+Si l' on se réfère au critère de niveau de risque ( tout en respectant les craintes et les réticences des personnes ) , quelles sont les personnes auxquelles les médecins pourraient proposer une consultation spécialisée ?
+Deux approches pourraient être proposées : - des indications restrictives ( probabilité élevée d' appartenir à une famille où existe une « MCD » ) .
+Cette approche est peu « sensible » c' est-à-dire laisse non identifié un nombre important de personnes ayant des mutations , mais en limitant le nombre de consultations , cette approche limite le risque de « saturation » des consultations d' oncogénétique permettant une prise en charge de qualité ( longue ) et des délais courts .
+Cette approche permet la prise en charge prioritaire des personnes les plus menacées ;
+- des indications plus larges augmenteraient la sensibilité mais risqueraient de dégrader partiellement la qualité du service .
+On peut considérer que pour 1000 cas incidents de cancer du sein , on pourrait avoir environ 170 indications de consultations d' oncogénétique ( 60 à 290 selon la littérature ) pouvant conduire dans 50 à 60 % des cas à des indications de tests de génétique constitutionnelle ( 24 à 87 % selon la littérature ) .
+Ces chiffres varient dans des conditions très importantes soit vers des valeurs moindres ( critères plus stricts , acceptabilité faible ) ou vers des valeurs plus importantes ( prise en compte des cas prévalents ) .
+3.2. Objectifs de la première consultation
+Le but de la consultation , après avoir vérifié la réalité de la demande , est : - d' évaluer la probabilité de l' existence d' une « MCD » ( PbBRCA )  et de décrire les possibilités d' infirmer ou de confirmer cette hypothèse ( utilité des tests de génétique moléculaire ) ;
+- d' évaluer les risques de cancer ( RC ) chez la personne qui consulte ;
+- de décrire les différentes stratégies adaptées aux différents niveaux de risque .
+Les RC sont la moyenne pondérée par la probabilité ( PbBRCA ) d' avoir une « MCD » ( probabilité pouvant grâce aux tests de génétique constitutionnelle atteindre 1 ou 0 ) , des risques observés en cas de « MCD » ( pénétrance ) et en population sporadique ( RSp ) .
+RC = ( PbBRCA Pénétrance ) + [ ( 1 - PbBRCA ) RSp ]
+Lorsqu' il s' agit de la première analyse réalisée dans une famille , actuellement en raison d' indications de prescription non restrictives , d' un défaut de sensibilité technique et de l' hétérogénéité génétique ( BRCAx  ) , la situation la plus fréquente des consultations d' oncogénétique est le cas d' une personne qui , en raison de son histoire familiale et individuelle , est à risque d' avoir une « MCD » mais pour laquelle le test est négatif ( absence de « MCD » identifiée ) .
+Pour cette personne , il est fondamental , pour permettre d' effectuer une prise en charge de qualité , fondée sur une évaluation des risques , d' être capable d' estimer les risques résiduels ( post-test négatif ) d' être atteinte d' un cancer .
+Cette estimation passe par l' estimation de la probabilité d' avoir une « MCD » avant le test ( probabilité a_priori ) , puis par l' utilisation du Théorème de Bayes .
+En dehors de l' expertise informelle , des aides au calcul de la probabilité a_priori existent .
+Il s' agit , soit d' abaques ou d' heuristique simple soit de programmes ou algorithmes  .
+Certains de ces programmes sont pragmatiques ( Myriad , Gail ) et ne tiennent pas compte des spécificités du modèle génétique .
+D' autres , comme BRCAPRO , peuvent intégrer ces données .
+Ce dernier logiciel est peu performant pour les risques faibles ( zone où les modèles seraient le plus utile ) .
+L' utilisation de ces outils peut améliorer la performance du médecin prescripteur  .
+La phase initiale de calcul de la probabilité que la consultante ait une anomalie génétique est ainsi une étape primordiale car : - elle conditionne de manière importante les indications de biologie moléculaire ;
+- elle permet d' interpréter un résultat négatif lorsqu' il s' agit d' une première analyse dans la famille .
+Concernant les recherches d' informations sur la validité des diagnostics rapportés ( obtention des comptes-rendus opératoire et d' anatomopathologie ) , l' arbitrage se fait , entre , d' un côté la volonté de ne pas troubler des personnes qui ne souhaitent pas « replonger » dans leur maladie et d' autre_part une optimisation des indications associées et une fiabilisation des interprétations des tests de génétique constitutionnelle .
+Il a été considéré que l' obtention des comptes-rendus était : - indispensable pour la personne testée qui fait une démarche active pour un test biologique à qui l' on peut expliquer l' utilité d' une telle démarche ;
+- très souhaitable lorsque le résultat peut modifier de manière significative une décision ( tester ou non ) ou une interprétation ( risque résiduel ) .
+3.3. Identification des cas liés à une « MCD »
+Les éléments ayant une valeur prédictive significative pouvant être utilisés pour calculer la probabilité a_priori qu' une personne ait une « MCD » d' un des gènes connus BRCA sont les suivants .
+3.3.1. Les caractéristiques anatomopathologiques des cancers
+Les sarcomes ovariens , les tumeurs embryonnaires et les métastases ( ovariennes ) de cancers ne sont pas comptabilisés dans l' évaluation du risque ( de_même que les envahissements ovariens à_partir_d' autres tumeurs pelviennes ) .
+Pour les tumeurs borderline de l' ovaire , la littérature donne des arguments forts , mais peut être non définitifs pour ne pas les comptabiliser  .
+En revanche , les carcinoses péritonéales sont considérées comme un indicateur de « MCD » équivalent à un cancer de l' ovaire .
+Tableau 2.
+Caractéristiques de la tumeur , résumé des paramètres devant être pris en compte pour renforcer l' hypothèse d' une mutation constitutionnelle délétère
+Caractère - paramètreValeur prédictiveArgumentaPrise en compte Ovaire borderlineFaibleÉtude spécifiqueNon Ovaire non adénocarcinomeFaibleConsensus d' expertsNon Sein non adénocarcinomeFaibleConsensus d' expertsNon Sein lobulaire in situFaibleAnalogie étude pop.Plutôt non MulticentriqueInconnueAucunPlutôt non Sein canalaire in situÉquivalent invasif dix ans plus tardAnalogie étude pop.Plutôt oui MultifocalitéIntermédiaireAnalogiePlutôt oui RE- Grade 3 ( BRCA1 ) Significative si avant 35 - 40 ansÉtude spécifiqueOui BilatéralitéÉquivalent deux cancersÉtude spécifiqueOui Sein médullaire ( BRCA1 ) SignificativeÉtude spécifiqueOui
+Full-size table
+a Différentes bases des prises de positions .
+Études spécifiques portant sur le caractère dans les populations à risque héréditaire .
+Transposition d' études portant sur le caractère dans une population générale .
+Position des experts .
+View Within Article
+Pour les cancers du sein in_situ , la littérature ne donne pas d' information spécifique pouvant permettre de prendre position .
+En population , il est classique de considérer depuis les travaux de Fischer et de Page  qu' il est probable qu' environ 15 à 50 % des cancers in_situ pourraient se transformer en cancers invasifs au bout de 20 ans .
+Une règle qui consisterait à assimiler un cancer in_situ comme un équivalent d' un cas invasif apparaissant 10 - 15 ans plus_tard serait donc une règle qui augmenterait la sensibilité ( sans_doute au détriment de la spécificité ) .
+Pour les carcinomes lobulaires in_situ ( CLIS ) , depuis les travaux de Fischer ils sont plus considérés comme un marqueur de risque que comme une lésion pouvant évoluer vers un cancer invasif  .
+Il apparaît donc rationnel de ne pas tenir compte de cas de CLIS dans le calcul de la probabilité a_priori .
+Pour les cancers du sein , une tumeur de type médullaire quel que soit l' âge et quelle que soit l' histoire familiale a été retenue comme une indication d' analyse génétique constitutionnelle .
+En revanche , les caractéristiques des récepteurs aux estrogènes ( RE ) négatifs et Grade SBR 3 qui ont une valeur prédictive de « MCD » significative  ne peuvent être utilisées seules mais comme un complément à l' âge d' apparition du cancer .
+Le groupe d' experts estime que cette information est pertinente pour un âge au diagnostic inférieure à 35 - 40 ans .
+La multifocalité et le caractère multicentrique pourraient , à terme , être incorporés dans l' évaluation du risque mais la quantification de leurs valeurs prédictives est à ce jour non disponible .
+Le cancer du sein bilatéral a , selon l' expérience de Myriad Genetics , une valeur prédictive équivalente à la situation de deux apparentées au premier degré ayant eu chacune un cancer ( communication personnelle ) .
+3.3.2. Les caractéristiques de la personne
+Le sexe masculin , pour un adénocarcinome du sein , possède une forte valeur prédictive .
+L' âge auquel une personne est atteinte est un facteur prédictif considérable et est un critère suffisant en cas d' adénocarcinome du sein apparu avant 30 ans .
+Les atteintes multiples chez une seule personne ont été analysées et les configurations suivantes sont suffisantes pour poser une indication ( quel que soit l' âge ) : - un cancer du sein et soit un cancer de l' ovaire ( ou des trompes ) soit un cancer du pancréas ;
+- un cancer du sein et de la prostate ;
+- un cancer du sein ( ou un cancer de l' ovaire ) et deux autres cancers ( à_l'_exclusion_de cancers peu ou pas liés à des « MCD » comme le poumon , la sphère ORL , col de l' utérus ) .
+3.3.3. Les caractéristiques de la famille
+Il est important d'_emblée de rappeler que les « MCD » des gènes BRCA peuvent avoir été héritées par le biais de la branche paternelle ou maternelle .
+En conséquence , l' histoire familiale doit analyser ces deux compartiments d' affiliation différents .
+Seront pris en compte : - d'_une_part , la localisation anatomique des cancers , les tumeurs du spectre seront prises en compte en tenant compte de leur valeur prédictive évaluée à partir du risque relatif c' est-à-dire : la trompe , l' ovaire , le sein voire le pancréas ;
+- d' autre_part pour chacune de ces tumeurs : l' âge d' apparition ( très important pour le sein ) , le degré de parenté , la branche d' affiliation , le nombre de sujets atteints et non atteints .
+L' origine ethnogéographique peut avoir une certaine valeur prédictive .
+3.4. Déroulement et aspects pratiques des consultations3.4.1 .
+Confidentialité
+Les informations sur les anomalies génétiques sont soumises aux règles classiques du secret médical .
+En France , l' information directe des apparentés par les médecins , même dans leur intérêt , est interdite  .
+3.4.2. Indication des tests
+Concernant la réalisation de tests chez une personne indemne en première intention dans une famille , il existe deux étapes : la légitimité d' une analyse et son optimisation .
+La légitimité est obtenue par deux critères : la volonté de la personne informée ( volonté exprimée par son consentement ) et la probabilité a_priori d' avoir une mutation constitutionnelle délétère .
+Les règles habituelles précisent que le test d' une personne mineure ne peut s' envisager que s' il existe un intérêt médical immédiat .
+Dans le cadre BRCA il n' y a pas lieu de tester des personnes mineures .
+L' optimisation consiste à tester la personne qui a la plus forte probabilité d' avoir une mutation constitutionnelle délétère , il s' agit le_plus_souvent d' une personne atteinte .
+Parfois la personne qui a la plus forte probabilité est inaccessible ( refus , décédée ) .
+Concernant la probabilité d' être porteur d' une « MCD » , l' expertise collective Inserm avait retenu deux seuils : un au-delà duquel le test était recommandé , un en_deçà duquel il était recommandé de ne pas le faire .
+Le choix de réutiliser cette méthode de deux seuils a été de_nouveau retenu au vu : des intervalles de confiance encore significatifs autour des prédictions de risque et de la variabilité des résultats des calculs de probabilité a_priori selon les hypothèses retenues .
+Les niveaux retenus en 1998 étaient respectivement 25 % de probabilité et 5 % .
+La position du groupe d' experts est donc de considérer que les tests sont recommandés dès_lors que la probabilité d' être porteur d' une « MCD » d' un gène majeur de prédisposition ( BRCA1,2,X ) était de 25 % et que ces recherches peuvent être déconseillées pour une probabilité inférieure à 10 % .
+Ces valeurs de probabilité de trouver une « MCD » correspondent dans l' état actuel à approximativement des taux attendus de « MCD » de BRCA1 et 2 de l' ordre de 6 à 15 % .
+3.4.3. L' information sur le statut biologique
+Il s' agit d' une consultation particulièrement importante et sans_doute délicate .
+Il est peut-être utile de s' inspirer des réflexions déjà construites autour_de la consultation d' annonce du diagnostic du cancer ( point 7.2.-annexe no 4 du plan cancer ) .
+3.4.4. Le suivi et la prise en charge médicale de ces personnes
+Ils doivent bénéficier de l' offre d' un suivi médical , d' un soutien psychologique et d' un contrôle de qualité des procédures .
+4. Génétique moléculaire4.1 .
+Organisation et régulations
+Ces tests doivent être réalisés dans des laboratoires agréés et dans lesquels exercent des praticiens ayant reçu un agrément à titre individuel .
+Le compte-rendu de résultats d' analyse doit contenir des éléments assurant une traçabilité tant au niveau de l' identification du sujet que du prélèvement analysé .
+Le résultat doit être présenté de manière explicite et exploitable par un non-biologiste .
+Les décrets d' applications prévoient que la prescription des tests « prédictifs » soit plus encadrée que la prescription des tests « diagnostiques » .
+Le groupe d' experts souligne qu' en cancérologie , les tests ne sont jamais diagnostiques .
+La justification de retenir un encadrement souple repose sur la possibilité d' avoir un impact immédiat sur la prise en charge thérapeutique de la personne .
+On peut noter qu' à ce jour lorsque le test est réalisé chez une personne atteinte de cancer , les résultats sont sans impacts thérapeutiques sur le cancer déclaré , sa perspective est donc prédictive .
+Plusieurs arguments militent ainsi pour élargir l' encadrement obligatoire de la prescription chez les personnes asymptomatiques vers les personnes atteintes de cancer : nombre limité de critères simples d' indication de tests de génétique constitutionnelle ; interprétation clinique délicate des résultats biologiques génétiques , familiaux négatifs ; diversité des stratégies de prise en charge ; multiplicité des risques ; prise en charge d' apparentés .
+Pour toutes ces raisons , il est sans_doute souhaitable que certaines précautions , dont l' existence d' une équipe pluridisciplinaire déclarée ( avec protocoles de prise en charge ) par_exemple , puissent être offertes aux personnes même déjà malades .
+L' obtention du consentement est de la responsabilité du prescripteur .
+Le laboratoire doit avoir une attestation ou la photocopie de consentement signée par le prescripteur ou la photocopie du consentement .
+La veille scientifique spécifique de type biologique est de la responsabilité du laboratoire ( Variant de signification inconnue , techniques ) mais son impact dépend de la qualité des échanges clinique - biologie .
+Une réunion regroupant laboratoires et prescripteurs sur une base annuelle a été jugée indispensable pour permettre d' informer les prescripteurs des évolutions technologiques et d' analyser les taux de détection de « MCD » en fonction des indications .
+Dans le même état d' esprit une réunion regroupant prescripteurs et médecins « adresseurs » est très souhaitable voire indispensable selon le niveau d' activité .
+4.2. Problème posé par les familles négatives pour la recherche de mutation constitutionnelle délétère des gènes BRCA1 et BRCA2 mais conservant une forte probabilité d' être liée à une mutation germinale délétère d' un gène de prédisposition
+Trois options peuvent s' envisager : - nouvelles analyses avec des techniques plus sensibles qui pourraient permettre de réaliser un gain de sensibilité substantiel  ;
+- la recherche de réarrangements de grande taille pose le problème de la variabilité de la part attribuable en fonction de l' origine géographique des familles analysées , allant de 10 % des altération de BRCA1 à près_de 27 %  .
+Pour BRCA2 , les études sont peu nombreuses mais les altérations semblent plus rares  ;
+- enfin , du fait de l' existence de cas sporadiques associés , il peut être proposé de tester une autre personne dans la famille .
+5. Généralités sur la prise en charge médicale
+Ces dernières sont proposées dans l' état actuel des connaissances ( les références les plus pertinentes ayant été listées dans le rapport ) .
+Les stratégies de prise en charge médicale sont donc applicables à deux groupes de personnes : - personnes avec une « MCD » ;
+- personnes dont on ne sait pas si elles sont ou non porteuses d' une « MCD » ( sans analyse réalisée ou avec une analyse négative sans « MCD » identifiée au préalable dans la famille ) .
+Ces personnes ont une probabilité évaluable d' avoir une « MCD » dont on peut déduire le risque de développer un cancer du sein ou de l' ovaire ( cf. Objectifs de la consultation ) .
+Pour guider les décisions pour ces personnes , trois sous-groupes sont définis à_partir_de deux seuils portant sur le risque de développer un cancer : un seuil au-delà duquel ces personnes sont considérées comme proches des personnes ayant une « MCD » et où_donc les procédures sont proposées ;
+un seuil en_deçà duquel les personnes sont considérées comme très proches de la population à risque standard et où_donc les interventions sont considérées comme non pertinentes ;
+entre ces deux seuils , existe une catégorie intermédiaire où les décisions seront individualisées .
+Quelles que soient les positions ici décrites , c' est la personne intéressée qui joue le rôle le plus important dans le choix des différentes stratégies de prise en charge .
+Les médecins ont un devoir d' information et de conseil .
+Compte-tenu des risques absolus les interventions portent sur deux organes : le sein et l' ovaire ( le cas particulier du cancer de la prostate est discuté plus loin ) .
+Pour les autres organes au vu des risques absolus plus faibles et en l' absence de données pragmatiques , à ce jour aucune intervention n' est préconisée .
+Les stratégies de dépistage et de prévention ne doivent pas se substituer à la gestion des symptômes .
+En particulier les médecins ne doivent pas négliger des signes en raison d' un âge « trop » précoce .
+Il est important de rappeler qu' en l' absence , à ce jour , de corrélations génotype - phénotype significatives l' âge d' apparition des cancers dans une famille en cas de « MCD » identifiée ne devrait pas influencer les propositions de prise en charge .
+La prise en compte de l' âge ( souvent le plus jeune observé ) pour déterminer ou nuancer l' âge de début des interventions peut néanmoins être légitime en cas d' histoire familiale significative avec tests négatifs .
+6. Personnes asymptomatiques .
+Risque de cancer du sein6.1 .
+Dépistage ( en_dehors de l' imagerie ) 6.1.1 .
+Auto-examen des seins
+L' auto-examen en population générale ne semble pas efficace  .
+La position des experts est de ne pas préconiser cet examen pour les femmes à risque .
+En cas de souhait de la patiente , il faut en expliquer les limites et favoriser l' inspection dynamique .
+Possibilité d' évolution de cette position : faible à négligeable
+6.1.2. Examen clinique par un médecin
+Les données de la littérature confirment l' efficacité de cette approche y_compris en cas d' histoire familiale .
+Dans le cas particulier des femmes à très haut risque , une étude  montre qu' un cancer sur les 35 détectés l' a été par l' examen clinique en l' absence de détection mammographique ou échographique .
+Cet outil est donc à préconiser .
+Sont à discuter : l' âge du début ( 20 - 25 ans ? ) , la périodicité ( quatre ou six mois ? ) .
+Intervention préconisée pour les personnes ayant une « MCD » BRCA ou dont la probabilité d' avoir une « MCD » est supérieure à 5 - 15 %.Possibilité d' évolution de cette position : faible .
+6.1.3. Dépistage biologique
+Le dépistage par des techniques de biologie n' est pas une intervention préconisée .
+Il n' y a pas encore de validitation clinique .
+Possibilité d' évolution de cette position : significative .
+6.2. Dépistage par imagerie - dépistage mammographique6.2.1 .
+Sémiologie radiologique
+L' analyse des mammographies de femmes porteuses des « MCD » de BRCA1 et BRCA2 a démontré qu' elles ont tendance à avoir des seins denses faiblement contrastés avec une texture grossière  .
+Le risque de cancer augmente avec la densité du sein (  , Boyd , 1999 #330 ) .
+La densité mammaire est le facteur prédictif indépendant le plus significatif de la sensibilité mammographique qui passe de 98 % pour les seins graisseux ( type de densité BIRADS 1 de l' American College of Radiology [ ACR ] ) à 48 % pour les seins extrêmement denses ( BIRADS 4 ) .
+Elle est plus basse avant 49 ans qu' à 50 ans et plus ; les effets sont indépendants  .
+Chez les porteuses de « MCD » , n' importe quelle masse mammographique de nature solide en échographie peut être considérée comme suspecte , du fait de la prévalence plus élevée de cancers de forme ronde ( carcinomes médullaires , cancers canalaires infiltrants de haut grade ) .
+Le contour « proéminent » de la tumeur ( caractère habituel des carcinomes médullaires ) explique en_partie ces résultats  .
+6.2.2. Arguments en faveur du dépistage mammographique
+Le « rendement » de la mammographie est meilleur chez les femmes génétiquement prédisposées ( plus forte prévalence ) que chez les femmes du même âge sans mutation constitutionnelle délétère .
+Néanmoins , aucune étude spécifique concernant les femmes à risque n' a mis en évidence de réduction de mortalité cancer du sein dépendante .
+Seuls des indicateurs intermédiaires , en_amont , sont disponibles .
+L' étude Brekelmans_et_al.  montre une faisabilité et une relative efficacité .
+Néanmoins , sur 35 cancers découverts ( dont deux in_situ ) neuf sont des cancers de l' intervalle .
+Il apparaît , au vu des résultats de cette étude , qu' il est extrêmement souhaitable d' exercer une surveillance tous les six mois ou tous les quatre mois .
+Le débat porte sur la nature de cette surveillance : imagerie et / ou examen clinique .
+6.2.3. Effets délétères du dépistage mammographique
+La radiosensibilité mammaire est très forte de 0 à 20 ans et chute brusquement ensuite  .
+Après 30 ans , le risque réel pour les doses utilisées de rayons X ( RX ) est quasi nul  .
+En mammographie , la dose de RX est d' autant plus forte que le sein est plus dense , ce qui est le cas chez la femme jeune  , plus encore chez les femmes génétiquement prédisposées .
+Il est possible que la sensibilité aux radiations ionisantes des seins BRCA+ soit plus forte que celle de la population générale  , mais cela n' est pas prouvé .
+Les faux positifs sont responsables d' investigations complémentaires inutiles pouvant de plus accroître l' anxiété .
+Un taux de faux positifs mammographiques plus élevé a été observé chez les femmes jeunes : 7,8 % de 40 à 49 ans vs 4,4 % de 70 à 79 ans  .
+Les femmes qui ont des tissus mammaires extrêmement denses ont une probabilité presque deux fois plus forte d' avoir un faux positif mammographique que les femmes avec des seins graisseux  .
+Les faux négatifs induisent un retard au traitement .
+Une revue rétrospective des mammographies précédentes après la découverte d' un cancer du sein , a montré que 25 % d' entre elles étaient faussement négatives ( cancers visibles lors_de l' examen précédent  ) .
+Une « MCD » BRCA1 / BRCA2 et une forte densité des seins en mammographie contribuent indépendamment aux résultats faussement négatifs de la mammographie .
+Le taux de faux négatifs mammographiques est corrélé significativement aux contours tumoraux « proéminents » et aux masses de contours non spiculées , refléte la fréquence particulière des carcinomes médullaires  .
+Il n' existe pas de donnée spécifique permettant de juger de l' importance du problème du surdiagnostic .
+6.2.4. Innovation en mammographie depuis 1998 : mammographie numérique plein champ ( MNPC )
+Concernant la numérisation , les conclusions du rapport Anaes  sont les suivantes : « Les études disponibles suggèrent que les dernières techniques de numérisation plein champ en mammographie aient des performances diagnostiques équivalentes à celles des techniques conventionnelles .
+Ces résultats devraient être confirmés par des études dans un contexte de dépistage » .
+Depuis cette date ( 2000 ) , l' efficacité de la MNPC avec lecture sur écran a été observée en dépistage de masse à Oslo chez 4028 femmes âgées de 50 à 69 ans et 3083 femmes âgées de 45 - 49 ans .
+La mammographie argentique ( MA ) et la MNPC avec lecture sur écran sont des modalités comparables dans un programme de dépistage. ( Skaane P , RSNA 2002 , dimanche 1er décembre , communication no 131 , session : A14 ) .
+Aux États-Unis , la FDA a approuvé le 18 décembre 2002 l' utilisation de la mammographie numérique plein champ en dépistage du cancer du sein : ( ) .
+L' étude DMIST ( Digital Mammography Imaging Screening Trial : comparaison analogique vs MNPC chez 49500 femmes ) de l' ACRIN apportera des données utiles pour situer la place de la MNPC dans le dépistage .
+Par comparaison avec la mammographie argentique sur le couple film - écran conventionnel , la mammographie numérique plein champ réduit la dose glandulaire moyenne de RX de 25 % environ  .
+6.2.5. Innovation en mammographie depuis 1998 : détection assistée par un ordinateur ( DAO )
+Plusieurs systèmes de DAO ont reçu l' agrément de la FDA pour les mammographies de dépistage ou de diagnostic .
+L' amélioration des performances avec l' ordinateur est plus nette pour les radiologues non spécialisés que pour ceux spécialisés en mammographie  .
+Chez des femmes atteintes d' un cancer du sein , les études rétrospectives de 377 mammographies précédentes considérées comme normales ou ne comportant que des anomalies bénignes , 9 à 24 mois avant le diagnostic du cancer , ont montré que l' utilisation du système de DAO aurait amélioré significativement la détection des cancers du sein en augmentant la sensibilité des radiologues de 21,2 % .
+Elle aurait pu diminuer de 65 % le nombre de cancers manqués par le dépistage  .
+Concernant les seins denses , le DAO augmente le nombre d' examens positifs avec une sensibilité ( vrai positif ) indépendante de la densité mammaire mais un taux de faux positif plus important en cas de seins denses ( par rapport aux seins non denses )  .
+Ces données doivent être confirmées par d' autres études .
+6.3. Dépistage par imagerie - dépistage échographique
+L' étude prospective de Kolb  montre que la sensibilité de la mammographie baisse significativement avec l' augmentation de la densité mammaire .
+L' échographie complémentaire augmente significativement la détection des petits cancers , particulièrement chez les femmes à risque .
+6.4. Dépistage - prélèvements à l' aiguille
+L' inconvénient de l' échographie de dépistage systématique en complément de la mammographie est d' augmenter le nombre de faux diagnostics positifs .
+Pour améliorer la VPP des biopsies après une échographie , Kaplan  propose d' appliquer les critères de Stavros en contrôlant six mois après leur découverte les anomalies probablement bénignes , au_lieu_de les biopsier d'_emblée .
+Cette attitude attentiste n' est pas forcément justifiée chez les femmes génétiquement prédisposées .
+6.5. Dépistage par imagerie - Place de l' IRM
+Le rôle de l' IRM mammaire dans le dépistage du cancer du sein chez les femmes à haut risque reste en évaluation  .
+L' IRM semble être l' examen le plus sensible pour la surveillance de ces patientes jeunes à très haut risque .
+En raison d' une spécificité moindre cet examen ne doit être utilisé qu' en cas de forte prévalence correspondant à une population très ciblée .
+Les différentes études en cours dans le monde doivent être poursuivies pour conclure sur la meilleure stratégie à adopter dans le dépistage et la surveillance des patientes à haut risque génétique .
+Pour le dépistage du cancer du sein chez les jeunes femmes à haut risque , l' IRM du sein est prometteuse .
+Les résultats préliminaires des études montrent qu' elle détecte un plus grand nombre de cancers que la mammographie et l' échographie avec un taux bas de faux positifs .
+Le nombre de cas étudiés est cependant assez faible et l' on manque encore de recul .
+De plus , le repérage des anomalies visibles uniquement en IRM est long et complexe et ne permet pas d' envisager actuellement en routine un dépistage annuel par l' IRM pour les femmes à haut risque .
+Actuellement , il apparaît , dans certaines pratiques , qu' il s' agisse d' un examen de deuxième niveau après les examens de première intention mammographie et / ou échographie .
+Tableau 3.
+Synthèse des comparaisons mammographie , échographie et IRM
+EffectifsDurée du suiviTechnique de détectionSensibilitéSpécificité Allemagne [ Kuhl , 2003 #3634 ]
+462 femmes ( « Mutation CD » ou Hist. Fam )
+51 cancers
+Cinq ansClinique Mammographie42,8 %94,3 % Échographie47 %88,4 % IRM95 %95,1 % Hollande [ Kriege , 2003 #3625 ] 1848 femmes 294 BRCA+ 30 cancersDeux ansClinique16 %97 % Mammographie36 %95 % Échographie IRM71 %88 % Clinique Canada [ Warner , 2001 #2876 ] 196 femmes sept cancersTrois ansMammographie43 %86 % Échographie43 % IRM86 %26 % Italie [ Podo , 2002 #3351 ] 105 patientes huit cancersDeux ansClinique Mammographie13 %100 % Échographie13 % IRM100 %87 %
+Full-size table
+View Within Article
+6.6. Résumé portant sur l' utilisation de l' imagerie
+La position des experts est de préconiser pour ces femmes à haut risque une prise en charge par une équipe d' imagerie avec un protocole de prise en charge standardisée .
+Cette équipe doit au_minimum avoir répondu aux critères de contrôle de qualité .
+Une expérience ( activité ) importante en_particulier pour ces femmes ayant des seins denses est souhaitable .
+Le couple mammographie - échographie ( pour les seins dont la densité mammographique est classée 3 ou 4 [ et parfois 2 ] selon les critères du BI-RADS de l' ACR ) apparaît comme un outil à proposer .
+En mammographie : examen annuel avec une incidence de face et en oblique externe par sein et double lecture comparative des clichés à_partir_de 30 ans ( faible prévalence avant , faible valeur prédictive et toxicité possibles ) .
+La périodicité d' un an peut être retenue au vu des arguments suivants : - pas d' intervalle plus long sur des critères théoriques : vitesse de croissance cellulaire , fréquence des cancers de l' intervalle ;
+- un intervalle plus court aurait une efficacité marginale faible en regard d' une simple surveillance clinique entre deux examens d' imagerie et une faible acceptabilité de l' ordre de 25 % des femmes vues en consultation d' oncogénétique  ;
+- arrêt dès_que l' espérance de vie est inférieure à cinq - dix ans .
+Il n' existe aucun argument de rang élevé pour retenir ces chiffres ( ni d' autres ) .
+L' échographie est recommandée en cas de densité mammaire classée 3 - 4 voire 2.
+L' IRM pourrait devenir une option préférentielle , mais l' accès à cette ressource qui doit être pour l' instant simplement possible , pourrait devenir nécessaire .
+En présence d' une anomalie de type BI-RADS 3 ( probablement bénigne ) , en tenant compte de la plus forte prévalence , une cytoponction à l' aiguille fine ou une microbiopsie est préférable à une simple surveillance .
+Cette position est d' autant plus valide que l' on examine une femme ayant une « MCD » et d' autant moins valide que la surveillance s' exerce sur des personnes ayant une histoire familiale sans « MCD » prouvée .
+Quand elle est réalisable , la microbiopsie échoguidée est préférable à la microbiopsie stéréotaxique , car elle est plus rapide et mieux supportée .
+Le choix de la meilleure procédure sera si possible collégial , en milieu spécialisé .
+Si pour des raisons particulières un examen d' imagerie systématique devait être réalisé avant l' âge de 30 ans une échographie une IRM apparaîtrait comme les outils à privilégier .
+En cas de grossesse « programmée » , un examen clinique et un examen d' imagerie sont recommandés , avant la grossesse , et de toute façon après celle-ci .
+Options : pour ces examens , compte tenu des données récentes , de la plus grande densité des seins des femmes génétiquement prédisposées , d' un doute concernant leur sensibilité potentielle aux radiations ionisantes et de la nécessité de commencer tôt le dépistage , l' utilisation des systèmes numériques ( avec un contrôle de qualité des appareils  ) est envisagée ; la dose d' exposition aux RX y étant plus faible qu' en mammographie conventionnelle .
+La détection assistée par ordinateur pourrait compléter la double lecture des mammographies par les radiologues .
+L' impact sur la modification de l' espérance de vie est possible mais non démontré et son niveau incertain .
+Ces positions sont proposées aux femmes avec une « MCD » ou une probabilité supérieure à 10 - 15 % .
+Les femmes avec une probabilité inférieure à 5 % ne peuvent se voir conseiller ces pratiques .
+Possibilité d' évolution de ces positions : forte .
+6.7. Prévention et réduction des risques6.7.1 .
+La contraception orale ( CO )
+Le débat sur les risques de cancer du sein induit par la prise de CO semble s' orienter vers une position rassurante  .
+Néanmoins , un sur-risque portant sur un sous-groupe peu fréquent de femmes est toujours possible en_particulier pour les femmes ayant une histoire familiale de cancer du sein ou une « MCD » BRCA1  .
+En regard des risques il existe peut-être également des bénéfices : La CO diminuerait les risques de cancer de l' ovaire , et ce également chez des femmes ayant une « MCD » BRCA  .
+La CO ne peut être considérée comme un outil de chimioprévention en soi , ni comme étant contre-indiquée chez les femmes avec une histoire familiale de cancer du sein ou de l' ovaire  .
+6.7.2. Le traitement hormonal substitutif ( THS )
+La position des experts est de considérer que les antécédents familiaux jugés non significatifs ne doivent pas être pris en compte dans l' évaluation des risques - bénéfices du THS .
+Pour les femmes ayant une « MCD » BRCA ou une probabilité significative d' avoir une mutation constitutionnelle délétère , l' augmentation supplémentaire de risque n' est pas démontrée mais probable .
+Son importance n' est pas connue et ne permet pas un arbitrage objectif entre les risques et les bénéfices .
+La plupart des experts souhaitent une prudence particulière concernant la prescription de THS et ce d' autant_que la probabilité d' avoir une « MCD » est élevée ( au maximum « MCD » identifiée ) .
+La tibolone , stéroïde de synthèse parfois proposée augmenterait le risque de cancer du sein dans des proportions équivalentes aux THS « classiques »  .
+Une recherche bibliographique spécifique ( SOR FNCLCC ) sur des alternatives telle_que la DHEA ou les dérivés du soja ne permet pas de préconiser l' utilisation de ces molécules - produits .
+Enfin , il existe une réflexion autour_de protocoles de recherche sur une association THS plus tamoxifène  .
+6.7.3. Chimioprévention
+Il n' existe pas d' étude prospective portant spécifiquement sur des femmes ayant des mutations constitutionnelles délétères BRCA1 ou BRCA2 .
+Les données sont donc issues de trois types d' études : - études rétrospectives sur des femmes ayant des « MCD »  ;
+- études d' intervention portant sur des femmes ayant un sur-risque de développer un cancer du sein mais regroupant différentes catégories de facteurs de risque  ;
+- analyses a_posteriori du sous-groupe BRCA+ des études précédentes  .
+6.7.3.1. Le Tamoxifène
+Il s' agit , à ce jour , de la seule molécule ayant une autorisation de mise sur le marché aux États-Unis ( FDA ) .
+Il convient de signaler qu' aucun pays européen n' a délivré d' autorisation , aucune demande n' a d'_ailleurs été effectuée .
+L' efficacité du tamoxifène en prévention du cancer du sein apparaît établie  .
+Néanmoins , d' autres questions se posent : - combien de temps la protection observée persistera -t elle ?
+- La posologie et la durée de prescription ont elles un impact significatif ?
+- Quels sont les risques induits par une telle intervention ?
+- Existe -t il une ( des ) sous-population ( s ) ayant des bénéfices ou des risques différents de la valeur moyenne observée ( plus_ou_moins importants ) ?
+Dans le cas des femmes BRCA+ , il est , sur la base d' arguments théoriques cohérents , souhaitable de distinguer les cas BRCA1 ( majoritairement ER - ) , BRCA2 et les formes héréditaires BRCA1 - BRCA2 - .
+Cependant , une étude rétrospective de Foulkes  retrouve une efficacité du tamoxifène chez des femmes ayant une « Mutation CD » de BRCA1 .
+Si le débat est ouvert pour les femmes ayant une « Mutation CD » de BRCA1 , en_revanche , l' efficacité en cas de « Mutation CD » BRCA2 ou de risque héréditaire de cancer du sein non lié à BRCA1 / BRCA2 est très probable .
+6.7.3.2. Les autres molécules
+Contrairement au tamoxifène pour lequel des données existent avec un recul très important , les effets des autres molécules sont sur ce point moins bien documentés .
+Le raloxifène possède , semble -t il , un profil proche du tamoxifène .
+Les inhibiteurs de l' aromatase pourraient également dans l' avenir être une option efficace .
+Les rétinoïdes seuls ou en association avec du tamoxifène à faible dose sont également en cours d' étude  .
+Aucune donnée pertinente n' est disponible pour la tibolone .
+6.7.4. Résumé portant sur la chimioprévention
+Une intervention sur les femmes en postménopause , BRCA2+ et sur les formes BRCA1 - BRCA2 - apparaît très souhaitable .
+Il ne peut s' agir dans la situation actuelle que de protocoles de recherche .
+Pour les femmes ayant une « MCD » BRCA1 et pour les femmes en préménopause les arbitrages sont sans_doute plus complexes .
+6.8. Chirurgie prophylactique - mammectomie prophylactique
+Il existe trois types de mastectomie - la mastectomie totale ( Patey modifié ) ;
+- la mastectomie totale qui conserve l' étui cutané ( skin sparing mastectomy ) ;
+- la mastectomie sous-cutanée qui conserve l' étui cutané et la plaque aréolomamelonaire ( PAM ) .
+Quelles que soient les techniques utilisées il existe un prolongement axillaire de la glande qui est avec le mamelon , la zone où existe le plus de cancers du sein postmammectomie  .
+Les études récentes confirment l' efficacité de la mastectomie .
+Il s' agit d' études spécifiques portant sur des personnes ayant des « MCD » BRCA  .
+L' efficacité de cette intervention ne peut être remise en cause , son niveau peut être , néanmoins , discuté et la position des experts de ce groupe est que le chiffre présenté de 90 % apparaît comme une « estimation raisonnable » .
+Le risque d' échec de la mammectomie prophylactique en termes de cancer du sein dépend de nombreux facteurs dont : le volume et la densité mammaire , le type de mammectomie retenu , la voie d'_abord , l' extension de la chirurgie dans le creux axillaire , la technique utilisée ( les experts préconisent le bistouri froid et / ou les ciseaux ) .
+Le groupe d' experts souhaite que l' expérience du chirurgien réalisant ce geste très particulier et peu fréquent soit d' au moins de 100 interventions mammaires et d' au moins 15 mastectomies ( curatives et prophylactiques ) par an .
+L' importance esthétique , psychologique et symbolique du sein entraîne un impact important sur la qualité de vie qui doit être pris en compte  .
+En anticipation , les femmes considèrent , en majorité que la mammectomie aura un impact négatif sur la qualité de vie  .
+Globalement si les études sont relativement favorables  , il convient d' en souligner les limites : biais de recrutement , faibles effectifs , critères subjectifs
+En majorité , les femmes ( 70 % ) déclarent être satisfaites de la mammectomie prophylactique , les résultats sont jugés négativement dans 19 % des cas  .
+Les effets négatifs semblent porter sur le sentiment de féminité ( 36 % ) et la qualité des relations sexuelles ( 25 % )  .
+L' impact psychologique positif décrit est celui de la réduction de l' angoisse liée au_risque_de développer un cancer  , ce point étant cohérent avec l' analyse de Meiser  qui identifie la crainte d' être atteint comme facteur prédictif du souhait de réaliser cette chirurgie .
+Parmi les autres facteurs pouvant influer sur la décision l' on peut noter la spécialité médicale ou chirurgicale  .
+Ce dernier point est un argument supplémentaire pour préconiser une dimension pluridisciplinaire .
+Il semble difficile de prédire les femmes qui n' auront pas d' impact négatif majeur et celles qui auront une qualité de vie altérée .
+Il semble néanmoins que la qualité de la prise en charge en_amont avec en_particulier la phase d' information - conseil soit un critère pertinent  .
+De même les regrets sont plus importants lorsque le médecin a été à l' initiative de la réflexion ( 19 / 255 ) que lorsque la patiente a abordé elle-même la question ( 2 / 108 )  .
+Dans des études modélisées , les femmes à haut risque génétique ont un gain moyen faible de l' ordre de deux à trois ans ( avec une forte dispersion peu de femmes gagnant beaucoup ) en quantité de vies ajustées sur la qualité  .
+6.8.1. Critères intervenants dans la construction des prises de position
+Le risque d' être atteinte d' un cancer du sein dans les cinq ans ( ce qui justifie une réticence à réaliser ce geste trop tôt dans la vie et à nuancer en fonction du gène impliqué BRCA1 ou BRCA2 ) .
+L' espérance de vie ( ce qui justifie une réticence à réaliser ce geste tard dans la vie ou en cas de pathologies associées , dont un premier cancer de mauvais pronostic ) .
+Le statut indemne de toute pathologie rend particulièrement délicat l' acte chirurgical ( ce qui justifie un ensemble de conditions d' applicabilité ) .
+Les médecins doivent respecter autant le souhait d' une femme d' éviter une intervention prophylactique que le souhait d' une autre femme de bénéficier du niveau de protection induit par cette chirurgie .
+Les médecins doivent éviter de porter un jugement de valeur sur ce choix .
+6.8.2. Prise de position et options
+Le choix de la technique repose sur le souhait d' une exérèse glandulaire la plus complète possible .
+Elle doit donc intéresser tous les prolongements accessoires , particulièrement axillaire et sous-claviculaire , ainsi_que la région rétroaréolaire .
+La conservation de celle-ci expose au_risque_de cancer secondaire en cas d' exérèse incomplète ( et de nécrose , si l' exérèse est trop proche du revêtement cutané ) .
+Certaines équipes préconisent de retirer le fascia prépectoral  .
+Le groupe d' experts est opposé à cette position de principe car il n' existe aucun argument expérimental ou d' observation soutenant cette option technique ( il n' en existe pas_non_plus démontrant son inutilité ) .
+Par ailleurs , ce geste expose classiquement à un risque accru d' explantation prosthétique .
+Certains auteurs préconisent en peropératoire l' utilisation d' un endoscope  pour aider à la réalisation d' un geste ( SSM ) le plus complet possible .
+Cette position a été retenue par le groupe d' experts .
+Certains auteurs préconisent l' utilisation d' une IRM préopératoire pour orienter d' éventuels examens extemporanés .
+Le groupe d' experts est opposé à cette position de principe car il n' existe aucun argument expérimental ou d' observation soutenant cette option technique .
+La pratique d' une IRM préopératoire pour juger de l' importance du parenchyme mammaire dans la région rétroaréolaire et guider ainsi le choix de la technique a été défendue  .
+Une IRM postopératoire pour estimer la quantité de tissu fibroglandulaire restant pourrait être incorporée dans un protocole standardisé de suivi .
+En 1998 , la position française avait été de considérer que la mammectomie prophylactique était envisageable mais jamais recommandée .
+Les données actuelles concernant l' efficacité de cette intervention incitent à la recommander sous réserve d' une qualité de vie post-intervention compatible avec le niveau de protection attendu .
+Un certain nombre de critères devraient néanmoins être respectés : - l' indication doit avoir été validée par une réunion de concertation pluridisciplinaire où étaient présents : un oncologue , au moins un chirurgien ayant une expérience importante de la chirurgie mammaire et des techniques de reconstruction , un médecin spécialiste de l' évaluation des risques appartenant à une équipe pluridisciplinaire déclarée en oncogénétique .
+L' avis du psychologue clinicien doit être pris en compte à ce moment ;
+- l' espérance de vie de la personne doit être suffisamment importante pour qu' en moyenne le bénéfice attendu soit significatif ( avis d' experts : au moins 15 - 20 ans ) :
+- la reconstruction mammaire ( immédiate ) doit être systématiquement proposée ;
+- qu' une information complète sur les avantages , les risques et les alternatives doit avoir été délivrée , en_particulier sur les complications en fonction de la nature de la chirurgie et des techniques de reconstruction  ;
+- la consultation auprès du psychologue clinicien rattaché à une équipe pluridisciplinaire est indispensable et une consultation du conjoint recommandée .
+À côté de l' indication d' un psychologue clinicien , les médecins participant à l' information préalable de la femme peuvent porter l' indication d' une consultation auprès d' un psychiatre s' ils estiment qu' un trouble mental est susceptible de perturber le processus décisionnel ;
+- le critère du délai entre la décision et la réalisation , retenu en 1998 , n' a pas été repris .
+Les experts ont considéré que le processus aboutissant à la chirurgie prophylactique donne lieu , en_pratique à des délais supérieurs à quatre mois et à au moins cinq consultations et qu' ainsi , une période minimale de réflexion est de fait réalisée ;
+- la proposition d' un suivi clinique et psychologique est nécessaire ;
+- l' âge de réalisation de la mastectomie relève du choix de la patiente .
+Néanmoins , le groupe d' experts estime qu' une réalisation avant 30 ans ne se justifierait pas au vu des risques faibles de cancer du sein .
+D' un point_de_vue médical l' âge d' apparition du ou des cancers dans la famille ne doit pas intervenir ( il intervient sans_doute dans le choix de la femme ) ;
+- la technique de réalisation préconisée est la mastectomie totale avec conservation de l' étui cutané ( SSM ) et exérèse de la PAM , sous réserve d' une très bonne technique  .
+En cas de découverte d' un cancer du sein ( sur pièce ) une chirurgie carcinologique ( curage axillaire ) est indispensable pour le staging ( malgré la possibilité théorique de surdiagnostic de cancer latent non évolutif ) .
+6.8.3. Cas de femmes n' ayant pas de « MCD » identifiée ( cette position traite indifféremment des histoires familiales avec tests de génétique constitutionnelle négatifs et non réalisés )
+C' est le risque de développer un cancer du sein qui est pris en compte pour retenir l' indication .
+Ce dernier peut être estimé à_partir_d' une pénétrance moyenne BRCA1 / BRCA2 et de la probabilité d' avoir une « MCD » ( cf. Objectifs de la consultation ) .
+En 1998 , l' expertise collective avait retenu le niveau de 20 % de risque de développer un cancer du sein comme le seuil en_deçà duquel la chirurgie prophylactique ne devait pas être réalisée .
+Ce niveau peut être conservé .
+En deçà de ce niveau , de très nombreux risques environnementaux seraient susceptibles d' induire ce niveau de risque et la chirurgie prophylactique n' est pas envisagée .
+Pour l' âge de réalisation , contrairement à la situation où une « MCD » a été identifiée l' âge d' atteinte des apparentés peut être pris en compte .
+6.9. Chirurgie prophylactique - ovariectomie prophylactique
+Rebbeck_et_al.  ont observé une réduction importante du risque de cancer du sein induit par l' ovariectomie prophylactique en cas de « MCD » de BRCA1 .
+Dans cette étude , l' âge moyen de réalisation était de 39,4 ans ( avec des extrêmes allant de 22 à 63 ans ) .
+La réduction était de l' ordre de 50 % pour un suivi de cinq ans et moins et de l' ordre de 70 % pour un suivi plus long .
+La prise d' un THS ( ni le type ni la durée n' étant précisés ) ne modifie pas ce résultat de manière significative .
+La même équipe confirme cette réduction de risque et son importance  avec 21 cas de cancer du sein en cas d' ovariectomie vs 60 dans le groupe témoin .
+Dans cette dernière étude la protection est également observée lorsque la chirurgie a été réalisée après 50 ans ( différence importante mais non statistiquement significative ) .
+Ces résultats importants portent néanmoins sur des personnes ayant une « MCD » de BRCA1 , population où la généralisation de ces résultats est légitime .
+L' extension aux femmes ayant une « MCD » de BRCA2 est plus incertaine .
+Il s' agit là d' un bénéfice important de cette intervention dont le bénéfice principal est la réduction du risque de cancer de l' ovaire .
+On peut noter que cette chirurgie est beaucoup mieux acceptée  que la mastectomie .
+Les modalités et les éléments de la prise de décision sont décrits dans le chapitre suivant .
+7. Personnes asymptomatiques .
+Risque de cancer de l' ovaire7.1 .
+Dépistage clinique
+Le dépistage clinique systématique ne peut être présenté comme un outil efficace pour réduire de manière significative la mortalité .
+Il peut néanmoins être réalisé .
+7.2. Dépistage par imagerie ( parfois associé aux marqueurs « classiques » CA125 )
+Les séries sont décevantes avec à_la_fois des faux positifs ( interventions inutiles ) et des tumeurs de stade très évolué apparaissant entre deux examens  .
+En population , le nombre de faux positifs apparaît très important : 324 interventions pour 22 tumeurs  et 180 interventions pour 17 cancers  .
+D' un point_de_vue théorique avec un examen ayant une spécificité de 95 % , il faudrait une incidence annuelle de l' ordre de 0,57 % pour atteindre une valeur prédictive positive de 10 % ( soit déjà neuf interventions inutiles pour un cancer ) .
+Si la spécificité n' est que de 93 % il faudrait pour atteindre ce seuil une incidence annuelle de plus de 0,8 % .
+Ces taux d' incidence annuelle ne sont atteints que pour les « MCD » de BRCA1 à_partir_de 35 - 40 ans  .
+L' adjonction du doppler pulsé à l' échographie est parfois présentée comme améliorant les valeurs prédictives  .
+Malgré les résultats décevants certains auteurs continuent de préconiser la réalisation d' un dépistage sur la base de l' absence d' alternative plus efficace  .
+7.3. Nouveaux marqueurs
+L' utilisation de profil protéique sérique  est à ce jour controversée  .
+L' utilisation d' une recherche de déséquilibre allélique dans le plasma aurait une spécificité élevée ( 89 à 100 % )  qui , si elle était confirmée , permettrait d' envisager une utilisation clinique .
+7.4. Résumé portant sur le dépistage
+L' histoire naturelle du cancer de l' ovaire est peu favorable au dépistage .
+Il n' y a pas d' étude d' efficacité du dépistage sur une population à risque génétique de cancer de l' ovaire .
+Les études actuelles sont décevantes , ce dépistage aboutissant à une inefficacité , ou correspondant à des chirurgies prophylactiques masquées ( interventions inutiles itératives ) .
+De nouveaux outils ou des algorithmes  combinant plusieurs outils pourraient modifier cette position .
+7.5. Prévention
+La contraception orale pourrait réduire le risque de cancer de l' ovaire en population avec une « MCD » BRCA  comme elle le fait en population générale .
+Néanmoins , les données sont encore insuffisamment établies pour pouvoir servir de base à des recommandations .
+7.6. Chirurgie prophylactique ovarienne
+Si toutes les chirurgies pelviennes réduisent le risque de cancer de l' ovaire  , le niveau de protection le plus important est atteint par l' ovariectomie bilatérale .
+Il est de l' ordre de 85 à 95 %  .
+Les réserves classiques concernant un risque de carcinose péritonéale « primitive » doivent être formulées , néanmoins leur fréquence au vu des études disponibles est faible et constitue parfois des métastases de cancer ovarien .
+Le taux de découverte d' un cancer ovarien lors_de la réalisation de la chirurgie prophylactique est variable , et dépend sans_doute de la classification et de l' expertise anatomopathologique de l' âge et des indications .
+Les études récentes donnent des chiffres de l' ordre de 3 %  .
+Les complications de la coeliochirurgie pour pathologies bénignes ( auxquelles le groupe d' experts assimile la chirurgie prophylactique ) sont : une mortalité proche_de zéro ( moins de 1 / 5000 ) et une morbidité de 2,2 / 1000 .
+Cette chirurgie a été classée de niveau I en ce qui concerne les risques par la société de chirurgie endoscopique sur une échelle qui contient quatre niveaux .
+La chirurgie coelioscopique des ovaires n' induit pas plus de complications que la chirurgie traditionnelle : elle est moins douloureuse avec une hospitalisation plus courte .
+En raison de son développement embryologique , il existe un risque d' ovaire rémanent .
+Le cancer des trompes est rare en population mais le risque relatif en cas de « MCD » de BRCA ( démontré pour BRCA1 et supposé pour BRCA2 ) est supérieur à 50. La chirurgie prophylactique doit donc , en_conséquence correspondre à une annexectomie bilatérale .
+La localisation interstitielle du cancer des trompes est exceptionnelle .
+Une coeliochirurgie , qui emporterait la zone interstitielle , serait plus complexe et induirait une iatrogénie plus importante .
+Elle n' est donc pas retenue par les experts .
+Une ménopause précoce chirurgicale induit un sur-risque d' ostéoporose et de progression d' athérosclérose .
+Un sur-risque de cancer du côlon est également possible .
+Par ailleurs , les troubles de la ménopause seraient plus importants en cas de chirurgie prophylactique qu' en cas de ménopause non provoquée  .
+Le THS corrige totalement ou en_partie ces effets , mais possède des inconvénients ( augmentation du risque de cancer du sein ) .
+7.6.1. Critères intervenants dans la construction des prises de position
+- Le risque d' être atteint ( e ) d' un cancer de l' ovaire ( et des trompes ) dans les cinq ans ( ce qui justifie une réticence à réaliser ce geste trop tôt dans la vie et à nuancer en fonction du gène impliqué BRCA1 ou BRCA2 ) ;
+- l' espérance de vie ( ce qui justifie une réticence à réaliser ce geste tard dans la vie ou en cas de pathologies associées , dont un premier cancer de mauvais pronostic ) ;
+- le projet parental et sa capacité à évoluer ( ce qui justifie l' application d' un critère d' âge en_plus_de la déclaration par la femme d' un projet parental achevé ) .
+Le statut indemne de toute pathologie rend particulièrement délicat l' acte chirurgical ( ce qui justifie un ensemble de conditions d' applicabilité ) .
+Les médecins doivent respecter autant le souhait d' une femme d' éviter une intervention prophylactique que le souhait d' une autre femme de bénéficier du niveau de protection induit par cette chirurgie .
+Les médecins doivent éviter de porter un jugement de valeur sur ce choix .
+7.6.2. Position
+L' annexectomie ( et non la simple ovariectomie ) , vu son niveau d' efficacité est recommandée pour les femmes ayant une « MCD » de BRCA1 ou BRCA2.Un certain nombre de critères doivent être respectés : - l' indication doit avoir été validée par une réunion de concertation pluridisciplinaire où étaient présents au moins : un oncologue , un chirurgien , un médecin spécialiste de l' évaluation des risques appartenant à une équipe pluridisciplinaire déclarée en oncogénétique .
+L' avis du psychologue clinicien doit être pris en compte à ce moment ;
+- l' espérance de vie de la personne doit être suffisamment importante pour qu' en moyenne le bénéfice attendu soit significatif ( avis d' experts au moins 15 ans ) ;
+- qu' une information complète sur les avantages , les risques et les alternatives ait été délivrée ;
+- qu' une consultation auprès du psychologue clinicien rattaché à l' équipe pluridisciplinaire doit avoir été recommandée à la consultante .
+Le groupe d' experts n' a pas jugé légitime de demander que cette consultation soit obligatoire mais a souhaité qu' elle soit systématiquement proposée et conseillée .
+À côté de l' indication d' un psychologue clinicien , les médecins participant à l' information préalable de la femme peuvent porter l' indication d' une consultation auprès d' un psychiatre s' ils estiment qu' un trouble mental est susceptible de perturber le processus décisionnel ;
+- le critère du délai entre la décision et la réalisation , retenu en 1998 , n' a pas été repris malgré le fait que 11 % des femmes ayant eu une ovariectomie prophylactique conseilleraient aux femmes de prendre le temps de la réflexion  .
+Les experts ont considéré que le processus aboutissant à la chirurgie prophylactique donne lieu , en_pratique à des délais supérieurs à quatre mois et à au moins quatre consultations et qu' ainsi , une période minimale de réflexion était de fait réalisée .
+- un suivi clinique , psychologique ( membre de l' équipe pluridisciplinaire ) et gynécologique ( membre de l' équipe pluridisciplinaire ) doit être offert .
+L' âge de réalisation de l' annexectomie relève du choix de la patiente .
+Néanmoins , le groupe d' experts estime qu' une réalisation avant 35 ans ne se justifie pas vu les risques faibles de cancer de l' ovaire ou des trompes avant cet âge et la fréquence non négligeable de femmes ayant des enfants après cet âge .
+À partir de 40 ans , cette intervention est recommandée .
+Elle peut néanmoins être réalisée plus_tôt si une hystérectomie devait être réalisée pour une pathologie utérine  ( les experts soulignent néanmoins que deux indications « limites » ne font pas une bonne indication ) .
+Son association à un THS est possible après analyse des cas individuels et ce jusqu' à 50 ans .
+L' option du raloxifène qui possède une AMM pour prévention de l' ostéoporose a été analysée sans prise de position homogène dans le groupe d' experts dans l' attente des résultats de l' étude Star .
+Après 50 ans , le ratio risque / bénéfice du traitement de la ménopause n' a pas été jugé de manière homogène par le groupe d' experts , mais ceux-ci considèrent qu' une grande prudence dans la prescription est souhaitable .
+L' âge de réalisation doit également tenir compte du nombre d' enfants existants et projetés et peut tenir compte des différences de pénétrance existant entre BRCA1 et BRCA2 .
+En revanche , il n' existe pas , à ce jour , de corrélation intrafamiliale démontrée portant sur le spectre d' expression ni sur l' âge d' apparition des cancers .
+En conséquence , d' un point_de_vue « objectif » , il n' y a pas lieu de prendre en compte les spécificités de l' histoire familiale ( organes atteints , âge au diagnostic ) en cas de « MCD » identifiée pour porter l' indication ou décider de l' âge de réalisation .
+La méthode de réalisation préconisée est la coelioscopie .
+La présence d' un épanchement dans le Douglas doit être utilisée pour réaliser une cytologie ( indispensable pour le staging ) .
+En cas d' absence , un lavage est indispensable .
+Le nombre et les localisations ne sont pas fixés , mais le groupe d' experts préconise le Douglas et les gouttières pariétocoliques .
+En cas de découverte d' un cancer de l' ovaire ( extemporanée ou sur pièce ) une chirurgie carcinologique est préconisée pour le traitement du cancer et le staging .
+Concernant une hystérectomie associée , les arguments opposés sont résumés dans le Tableau 4.
+Tableau 4.
+Arguments pour et contre l' hystérectomie associée à une ovariectomie prophylactique
+Favorables à la réalisationDéfavorables à la réalisation Élimine complètement la trompe y_compris la portion interstitielleComplique la procédure et augmente la morbidité et les délais d' hospitalisation Permet un THS fondé uniquement sur une estrogénothérapieIl n' existe pas de risque héréditaire significatif lié aux gènes BRCA1 et BRCA2 Supprime le risque de sur-risque de cancer de l' endomètre induit par un traitement par le tamoxifènePossibilité d' impact psychologique plus important Vu le niveau de risque très faible , des prises en charge pour des risques équivalents pourraient être multipliées .
+Full-size table
+View Within Article
+Le groupe d' experts ne retient comme indication d' hystérectomie associée que le cas d' un utérus pathologique ( fibrome ) .
+7.6.3. Cas de femmes n' ayant pas de « MCD » identifiée ( histoires familiales avec tests de génétique constitutionnelle négatifs ou non réalisés )
+C' est le risque de développer un cancer de l' ovaire qui est pris en compte .
+Ce dernier peut être estimé à_partir_d' une pénétrance moyenne BRCA1 et BRCA2 et de la probabilité d' avoir une « MCD » ( cf. Objectifs de la consultation ) .
+En 1998 , l' expertise collective avait retenu le niveau de 5 % de risque de développer un cancer de l' ovaire comme le seuil en_deçà duquel la chirurgie prophylactique ne devait pas être réalisée .
+En raison d'_une_part croissante de l' autonomie de décision des patientes et de l' efficacité de l' annexectomie à_la_fois sur le risque de cancer de l' ovaire et du sein , ce seuil de risque résiduel en_deçà duquel la chirurgie prophylactique ne devrait pas être réalisée a été modifié et un seuil de l' ordre de 2 à 3 % de risque de cancer de l' ovaire a été retenu ( probabilité résiduelle d' avoir une « MCD » après test négatif de l' ordre de 5 à 10 % ) .
+Au-delà , des risques environnementaux seraient susceptibles d' induire ce niveau de risque et la chirurgie prophylactique n' est pas envisagée .
+De plus , le risque de complications immédiates ( embolie pulmonaire , infection ) quoique faible prend une importance significative par rapport au bénéfice différé très limité .
+Cette position n' est pas consensuelle .
+En effet , l' hypothèse d' une absence de sur-risque ovarien en cas de « MCD » de « BRCA3 » peut être défendue  .
+Ainsi en cas d' histoire familiale sans cancer de l' ovaire , testée en biologie moléculaire avec les plus hauts standards et sans « MCD » identifiée , l' indication d' une ovariectomie prophylactique peut être discutable  .
+Les différentes options sont résumées dans le Tableau 5.
+Tableau 5.
+Résumé des interventions ( cancer du sein )
+OptionsIncidence cancer du seinMortalité par cancer du seinPositionge réalisationFréquenceModalitésÉvolutivité Rien60 %25 %Non conseilléeFaible ( progrès thérapeutiques ) Autopalpation60 - 65 %25 %Non conseillée - - - Faible Marqueurs sériques60 - 65 %25 %DéconseilléeProtocoleProtocoleProtocoleIntermédiaire Palpation60 - 65 %24 - 25 %Conseillée20Deux à trois fois par an - Faible Imagerie60 - 70 %15 - 20 %Conseillée30 - 75Une fois par anMammographie - échographieSignificative ( IRM ) Chimioprévention30 - 40 %10 - 20 %EssaiProtocoleProtocoleProtocoleSignificative Ovariectomie30 - 40 %10 - 20 %Conseillée
+40 ( BRCA1 ) - 70
+45 ( BRCA2 ) -
+- ComplexeIntermédiaire à faible Imagerie + Ovariectomie30 - 40 %5 - 15 %ConseilléeIdemIdemIdemIntermédiaire à faible Mastectomie prophylactique2 - 6 %1 - 2 %Conseillée35 - 65 - ComplexeIntermédiaire à faible
+Full-size table
+Hypothèse incidence moyenne BRCA à 60 % .
+Mortalité 35 % .
+Efficacité imagerie de l' ordre de 30 % de réduction de mortalité .
+Efficacité de la mastectomie d' au moins 90 % .
+Efficacité de l' ovariectomie sur l' incidence du cancer du sein de 50 à 25 % .
+View Within Article
+L' existence de plusieurs options non exclusives rend leurs combinaisons possibles mais d' impact variable .
+Tableau 6.
+Listes des combinaisons d' interventions
+Mastectomie prophylactiqueOvariectomie prophylactiqueDépistage imagerie SeinPrévention seinaAnalyse comparative OuiOui « Rationnel »  4 OuiOui « Rationnel » .4 OuiOui « Rationnel »  4 OuiOuiOui « Rationnel » mais risque - bénéfice4 Chimioprévention pénalisé par l' impact sur le risque de cancer du sein de l' ovariectomie et du dépistage OuiOuiOui « Rationnel » mais dépistage imagerie faible impact ( patientes faible risque ) 4 OuiSi BRCA1 stratégie non proportionnée ( risque de cancer de l' ovaire non-réduit ) 3 OuiMalgré le risque de cancer du sein élevé , population pas d' imagerie3 OuiOuiSi BRCA1 stratégie non proportionnée ( risque de cancer de l' ovaire non réduit ) 2 OuiOuiDépistage imagerie faible impact ( patientes faible risque ) .
+Si BRCA1 stratégie non proportionnée ( risque de cancer de l' ovaire non réduit ) 2 OuiSi BRCA1 stratégie non proportionnée ( risque de cancer de l' ovaire non réduit - intervention « lourde » pour le sein ) 2 OuiSi BRCA1 stratégie non proportionnée ( risque de cancer de l' ovaire non réduit ) .
+Malgré le risque de cancer du sein élevé , population pas d' imagerie2 Risques très élevés , sans minimisation2 OuiOuiOuiOuiChimioprévention contre-indiquée ( patientes faible risque ) .
+Dépistage imagerie faible impact1 OuiOuiOuiChimioprévention contre-indiquée ( faible risque ) 1 OuiOuiOuiChimioprévention contre-indiquée ( patientes faible risque ) .
+Dépistage imagerie faible impact ( même raison ) .
+Si BRCA1 stratégie non proportionnée ( risque de cancer de l' ovaire non réduit ) OuiOuiChimioprévention contre-indiquée ( faible risque ) 1
+Full-size table
+Classification en quatre catégories : 4 : Rationnel ; 3 : Intermédiaire ; 2 : Possible mais jugé sous-optimal ; 1 : Irrationnel .
+La stratégie chirurgie des ovaires serait la plus efficace , mais la stratégie chirurgie prophylactique ovarienne associée à la surveillance mammaire par imagerie pourrait l' être en tenant compte de la qualité de vie  .
+a Par chimioprévention ( tamoxifène ) .
+Non disponible ( pas d' AMM ) .
+Évoqué ( protocole de recherche associé ) .
+View Within Article
+8. Personnes en phase de traitement8.1 .
+Cancer du sein8.1.1 .
+Traitement locorégional
+Le taux de rechute locale n' est pas influencé par le statut BRCA  .
+Le taux de récidive ( second cancer ) homolatérale semble très élevé ( 50 % en 12 ans )  .
+Le caractère BRCA+ ne contre-indique pas en soi le traitement par radiothérapie dont l' efficacité et la toxicité semblent équivalentes  .
+8.1.2. Traitement systémique
+La chimiosensibilité particulière est en cours d' évaluation ( taxanes ) .
+Il semblerait exister une meilleure sensibilité aux inhibiteurs de topoisomérase I et II  .
+Le caractère BRCA+ ne contre-indique pas en soi le traitement par tamoxifène dont l' efficacité semble conservée  .
+8.2. Position du groupe d' experts
+La chirurgie conservatrice est possible au vu des résultats équivalents à ceux observés en situation sporadique et cette option lorsqu' elle est possible au vu des caractéristiques du premier cancer doit être proposée .
+Néanmoins , compte tenu du niveau de risque de second cancer homolatéral ( des seconds cancers le_plus_souvent ) il est nécessaire de proposer également comme option une chirurgie radicale sous réserve des mêmes critères présentés pour la chirurgie prophylactique ( en tenant compte du pronostic du premier cancer ) .
+Les indications de chimiothérapie et d' hormonothérapie ne sont pas à ce jour modifiées par le statut BRCA+ .
+La place respective de l' hormonothérapie et de la castration chirurgicale pourrait être arbitrée en_faveur_de la chirurgie .
+Un pronostic défavorable du cancer du sein est en_théorie une limitation aux indications de l' ovariectomie prophylactique mais pour BRCA1 , l' impact de cette chirurgie sur la survie du cancer du sein semble être positif  .
+Le caractère de facteur prédictif indépendant doit être néanmoins plus clairement établi avant_de préconiser cette intervention même en cas de cancer avec un pronostic réservé .
+8.3. Cancer de l' ovaire
+Les données sur le statut BRCA comme facteur pronostique indépendant évoquent un meilleur pronostic ( peut-être lié à une plus grande chimiosensibilité ) avec un impact potentiel en survie  .
+Les indications de chimiothérapie et d' hormonothérapie ne sont pas , néanmoins à ce jour modifiées par le statut BRCA+ .
+9. Cas des hommes ayant une « MCD » BRCA9.1 .
+Cancer du sein
+Le risque cumulé d' un homme ayant une « MCD » BRCA est inférieur au risque des femmes sans anomalie génétique et proche_de celui des femmes de 40 à 49 ans .
+L' imagerie ne semble donc pas indiquée de manière systématique .
+De plus , la gestion des symptômes est sans_doute plus simple et l' accent doit être mis sur cette étape .
+Les examens d' imagerie à visée diagnostique sont , en_revanche , à utiliser de manière beaucoup plus large qu' en population d' hommes sans anomalie génétique .
+La chirurgie prophylactique peut être envisagée en cas de gynécomastie .
+9.2. Le cancer de la prostate
+L' incidence élevée de ce cancer justifie une réflexion sur les interventions à préconiser .
+L' augmentation du risque liée à des mutations BRCA est possible ( sans_doute pour BRCA2 ) mais non formellement démontrée .
+Le test de dépistage de référence est le dosage du PSA associé à l' échographie .
+La sensibilité et la spécificité analytiques de cette stratégie de dépistage peuvent être considérées comme bonnes .
+De nombreuses études prospectives et randomisées effectuées sur une grande échelle ont confirmé la pertinence de l' utilisation du PSA dans le diagnostic précoce du cancer de la prostate qui devrait avoir un impact positif sur la durée de vie des patients.  .
+Néanmoins , l' utilité clinique est grevée d' un taux important de surdiagnostics en population  .
+Une recommandation théorique doit ( en_dehors d' un essai randomisé qui permettrait une décision pragmatique ) estimer l' incidence par tranche d' âge , les risques évolutifs de ces cancers de la prostate associés à des mutations constitutionnelles délétères de BRCA ( point critique ) et la proportion de surdiagnostics entraînant un surtraitement dont la morbidité est importante .
+La réalisation d' un test PSA annuel ne peut en l' état des connaissances être ni formellement indiquée ni formellement contre-indiquée .
+Les arbitrages en population ne sont pas aujourd'hui faits .
+Néanmoins si l' on considère la forte incidence ( et l' anticipation ) , les personnes ayant une « MCD » BRCA sont sans_doute les personnes pour lesquelles l' efficacité théorique serait la plus importante .
+On peut estimer à_partir_de Edwards  et en prenant une estimation arbitraire de 15 % de « part attribuable » ( BRCA1 BRCA2 BRCA3 ) dans cette tranche d' âge , qu' environ 20 personnes ayant une « MCD » BRCA développeront un cancer de la prostate avant 50 ans chaque année .
+Si ce dépistage devait être retenu , une réalisation annuelle à_partir_de 50 et jusqu' à 75 ans environ apparaîtrait comme une zone d' équilibre .
+La fréquence annuelle est envisagée car d' une manière générale les tumeurs associées à des anomalies génétiques constitutionnelles ont un index mitotique élevé ou des indicateurs de croissance rapide ( cette donnée n' est pas connue pour le cas spécifique des cancers de la prostate associés à des altérations génétiques constitutionnelles BRCA ) .
+Après 75 ans , l' espérance de vie moyenne de_même que la capacité à contrôler le cancer de la prostate limitent l' utilité d' un dépistage .
+10. Questions annexes
+Une recherche bibliographique spécifique aux questions du diagnostic anténatal a été réalisée ( Équipe SOR FNCLCC ) .
+Aucune information publiée n' est disponible sur ce sujet .
+Il convient donc de s' en tenir aux règles préexistantes et confier ces personnes aux équipes pluridisciplinaires en charge de ce problème .
+Il n' y a pas de contre-indication au don de sang .
+Un refus serait une stigmatisation inutile .
+Le don de moelle ne peut être contre-indiqué au vu , à ce jour , des sur-risques minimes et incertains d' hémopathies malignes .
+Il est déconseillé aux personnes ayant une « Mutation CD » de s' inscrire dans un programme de don de gamète ou d' embryon .
+11. Conclusion
+Les positions du groupe d' experts sont proches des positions prises dans la revue générale parue dans le New England Journal of Medicine en 2003  , qui proposait dans un ordre décroissant : - une forte recommandation concernant la chirurgie prophylactique ovarienne dès_que le projet parental serait « complet » ( en soulignant l' inefficacité des stratégies de dépistage du cancer de l' ovaire ) avec comme dans notre position une recommandation pour une prise de THS jusqu' à 50 ans ;
+- une recommandation pour un choix entre un dépistage mammographique annuel ( en soulignant le risque de cancer de l' intervalle ) et une mastectomie prophylactique ;
+- une possibilité de participation à des études évaluatives en_particulier concernant l' IRM mammaire ;
+- une incertitude concernant la prise de tamoxifène qui est néanmoins proposée à_partir_de 50 ans ( ce traitement possède une AMM en prévention aux États-Unis ) .
+Du fait des limites méthodologiques , d' effectifs parfois insuffisants observés dans les études consultées et enfin du manque de recul , certaines prises de position ne peuvent prétendre à une stabilité suffisante .
+Le contexte très évolutif de ce domaine médical fait de ce travail une étape et non une fin .
+En particulier , l' évolution des positions prises dans ce rapport ( avec peut-être une plus grande précision , fiabilité et / ou légitimité ) sera favorisée par la réalisation d' études scientifiques .
+Aucun conflit d' intérêts n' a été déclaré par les experts .
+Arrêt des recherches bibliographiques systématiques le 30/09 / 2003 .
+Financement : - ministère de la Santé ;
+- la ligue nationale contre le cancer ;
+- la FNCLCC ;
+- Inserm et grâce au travail des experts .
+Les positions concernant le texte « Identification et prise en charge des prédispositions héréditaires aux cancers du sein et de l' ovaire ( mise à jour 2004 ) » engagent la responsabilité des seuls cosignataires .
+Remerciements
+Nous remercions , pour leur participation à des séances thématiques ou pour l' aide à la rédaction de chapitres , les personnes suivantes : Nadine Andrieu , Valérie Bonadonna , Catherine Bonaiti , Agnès Chompret , Marc Espié , Emmanuelle Fourme , Claire Julian-Reynier , Pascale Leblanc-Talent , Fabrice Lecuru , Rosette Lidereau , Monique Pons-Escabasse , Olga Serova , Mario Tosi ; et pour la lecture critique : Yves-Jean Bignon , Alain Bremond , André-Robert Grivegnée , Sylviane Olschwang , Jacques Simard , Dominique Stoppa-Lyonnet .
+Avec la participation , le soutien ou l' aide des sociétés savantes , organismes et des fédérations suivants : - Association française de chirurgie .
+- Fédération nationale de cancérologie des CHR-U .
+- Fédération nationale des centres de lutte contre le cancer .
+- Groupe génétique et cancer de la FNCLCC .
+- Inserm .
+- Ligue nationale contre le cancer .
+- Société française de cancérologie privée .
+- Société française de génétique humaine .
+- Société française d' oncologie gynécologique .
+- Société française de psycho oncologie .
+- Société française de radiologie .
+- Société française de sénologie et de pathologie mammaire

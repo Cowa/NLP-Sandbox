@@ -1,0 +1,96 @@
+La technique du ganglion sentinelle ou lymphadénectomie sélective s' affiche , au travers des multiples expériences rapportées dans la littérature mondiale , comme une alternative révolutionnaire dans la prise en charge thérapeutique des petites tumeurs mammaires à faible risque d' envahissement ganglionnaire .
+Par son caractère mini-invasif , elle permet non_seulement d' accéder à la connaissance du statut ganglionnaire axillaire au prix d' une morbidité réduite tout en l' optimisant par l' application à ce prélèvement ganglionnaire , limité et représentatif , de techniques histopathologiques de pointe à la recherche de micrométastases .
+L' avènement de la technique du ganglion sentinelle n' est que l' aboutissement de la récente remise en cause de la légitimité de la lymphadénectomie axillaire sur la base de plusieurs arguments  : - d'_une_part , les modifications de recrutement et le développement des campagnes de dépistage des cancers du sein ayant conduit à la prise en charge progressive de malades atteintes de tumeur infraclinique ou de petite taille ( taux d' envahissement ganglionnaire 20 % ) ; - d' autre_part , l' extension des indications de la chimiothérapie adjuvante posées devant d' autres facteurs pronostiques péjoratifs ( taille tumorale , grade , récepteurs hormonaux ) que le seul statut histologique ganglionnaire ; - enfin , la prise de connaissance par les chirurgiens de la morbidité du curage axillaire qui apparaît à_présent clairement documentée dans la littérature .
+Les indications privilégiées  de la technique du ganglion sentinelle sont constituées par les patientes atteintes d' un cancer mammaire confirmé ( par cytologie ou microbiopsie préthérapeutique ) , non inflammatoire , unifocal , de diamètre inférieur ou égal à 15 mm , sans atteinte clinique axillaire ( No ) .
+Le taux d' identification du ganglion sentinelle varie , dans la littérature , entre 66 et 98 % et le taux de faux négatif entre 0 et 19 % .
+Si cette technique n' est pas , à ce jour , érigée au rang de standard , sa pratique encadrée ( essais cliniques contrôlés , enregistrement prospectif ) après une phase d' apprentissage  est vivement recommandée comme vient encore de le souligner le récent rapport de l' Anaes ( agence nationale d' accréditation et d' évaluation en santé )  .
+Sans vouloir délibérément rentrer dans le débat qui agite les conditions de sa réalisation quotidienne  et en l' absence de données disponibles sur l' impact de cette technique sur la survie des patientes , il nous a paru important de faire le point sur les principaux essais menés dans le monde et de dégager leurs objectifs respectifs [ 2 , 3 , 4 , 6 , 8 , 9 and 10 ] .
+2. Essai ALMAC ( Axillary Lymphatic Mapping Against Nodal Axillary Clearance )
+Mené sous l' égide de l' Association britannique de chirurgie oncologique ( BASO ) et coordonné par R.E. Mansel , cet essai multicentrique ( 15 institutions ) , randomisé , comporte d'_abord une phase de validation ( qualifiée d' audit ) de la technique ( Bleu et isotope ) chez 40 malades en six mois .
+Après obtention d' un taux de localisation du ganglion sentinelle excédant 90 % et d' un taux de faux négatif inférieur à 5 % , elle permet à l' opérateur d' accéder à la seconde phase dite de randomisation ( douze mois ) comparant lymphadénectomie classique ( bras A ) et technique du ganglion sentinelle ( bras B ) .
+Dans ce dernier bras , les patientes indemnes d' un envahissement histologique du ganglion sentinelle en technique standard ( pSLN ) sont exemptées de curage complémentaire à la différence des patientes pSLN  .
+Mille trois cents malades seront incluses et soumises à un suivi de 18 à 24 mois .
+Les paramètres analysés sont en_premier_lieu la morbidité ( lymphoedeme , raideur de l' épaule , troubles sensitifs ) , l' impact économique ( durée d' hospitalisation et de maintien du drainage ) , la qualité de vie ( questionnaire FACT-B4 ) .
+En second lieu , le taux de récidive axillaire sera étudié en examinant tout particulièrement le groupe de patientes présentant des métastases ganglionnaires occultes du ganglion sentinelle .
+L' objectif final de cet essai est d' apprécier les avantages et désavantages de la technique du ganglion sentinelle et de préciser si sa pratique chirurgicale en routine peut être envisagée [ 2 and 6 ] .
+3. Essai NSABP 32
+Coordonné par D. Krag , cet essai nord-américain randomisé compare , dans les tumeurs classées T1 à T3 , la lymphadénectomie sélective suivie dans le même temps opératoire d' un curage axillaire ( bras I ) à la lymphadénectomie sélective exclusive ( bras II ) .
+Dans ce dernier bras , les patientes indemnes d' un envahissement histologique du ganglion sentinelle ( pSLN ) ne font l' objet d' aucun complément chirurgical axillaire contrairement aux malades pSLN qui relèvent d' un curage axillaire complémentaire .
+Une stratification selon l' âge ( 50 ans ou > 50 ans ) et selon la taille tumorale ( 2 cm , 2,1 - 4 cm , 4,1 cm ) est effectuée .
+Identifiés par la technique combinée , les ganglions sentinelles sont examinés en hémotoxyline-éosine et en immunohistochimie .
+Cette étude comparative du standard actuel ( curage axillaire ) et de la technique mini-invasive ( lymphadénectomie sélective ) vise à apprécier pour chaque bras la survie globale et sans récidive , le contrôle locorégional ainsi_que la morbidité respective des deux procédures [ 3 , 4 , 6 and 8 ] .
+4. Essais de l' ACOSOG ( American College of Surgeons Oncology Group )
+Ce groupe de travail propose , après une phase d' apprentissage de 20 cas avec un taux d' identification supérieur à 90 % et un taux de faux négatif 10 % , deux essais ( Z0010 et Z0011 ) interdépendants .
+Ils ont en_commun une détection du ganglion sentinelle ( selon une technique dont le choix est laissé à la discrétion de l' opérateur ) associée à une biopsie de moelle osseuse ( crête iliaque ) effectuée en cours d' intervention .
+Cet essai s' adresse aux tumeurs classées T1 et T2 ( uni ou multifocales ) traitées par association radiochirurgicale conservatrice .
+En complément de l' analyse standard par hématoxyline-éosine , une étude par immohistochimie du ganglion sentinelle est effectuée en laboratoire centralisé .
+Les résultats de cette dernière analyse ne sont communiqués ni au patient ni à son chirurgien [ 3 , 6 and 8 ] .
+Les résultats de l' analyse histopathologique de routine par coloration à l' hématoxyline-éosine permet d' orienter les patientes soit vers l' essai Z0010 ; soit vers l' essai Z0011
+4.1. Vers l' essai Z0010 , en cas d' absence d' envahissement ganglionnaire en technique standard ( HE )
+Dans cette éventualité , aucun complément de traitement axillaire ( chirurgical ou par irradiation ) n' est effectué , seule une irradiation mammaire est délivrée .
+L' indication d' un traitement adjuvant systémique est fonction des facteurs pronostiques tumoraux .
+Les critères de jugement sont la prévalence et l' incidence pronostique des micrométastases ganglionnaires et de l' envahissement médullaire , le taux de récidive ganglionnaire axillaire .
+Sept mille six cents malades seront incluses pour une durée de l' essai de 3,8 ans  .
+En juin 2002 , plus de 4000 patientes ont été incluses et 2200 biopsies médullaires réalisées  .
+4.2. Vers l' essai Z0011 , lors_de la constatation d' un envahissement ganglionnaire en hématoxyline-éosine
+Les patientes sont ici randomisées entre curage axillaire complémentaire et surveillance .
+La randomisation est effectuée soit en peropératoire sur la base de l' examen extemporané , soit en postopératoire selon les données de l' analyse histologique définitive du ganglion sentinelle .
+Une irradiation complémentaire et une chimiothérapie systémique sont systématiquement administrées .
+Cet essai vise à apprécier la survie globale des patientes ayant font l' objet d' une procédure ganglion sentinelle exclusive mais également à quantifier la morbidité respective de la chirurgie axillaire classique et mini-invasive .
+Cet essai , à_l'_instar_de son homologue NSABP-04 ( national surgical adjuvant breast and bowel project ) , vise à préciser l' impact sur la survie du curage axillaire .
+Le critère de la randomisation diffère cependant : statut ganglionnaire clinique pour le NSABP04 , statut ganglionnaire histologique pour le Z0011 .
+Mille neuf cents malades seront incluses pour une durée d' essai de 3,8 ans  .
+5. Essai AMAROS ( After Mapping of the Axilla : Radiotherapy or Surgery )
+Cet essai N 10981 de l' EORTC ( European society for research and treatment of cancer ) , coordonné par l' équipe néerlandaise d' E.J.T .
+Rutgers et C.J.H .
+Van de Velde , s' adresse aux cancers invasifs classés T1 et T2 de moins de 3 cm , No , uni-focaux .
+Une phase d' apprentissage de 30 cas constitue un prérequis .
+Toutes les patientes font l' objet d' une détection du ganglion sentinelle par bleu et radio-isotope .
+Les malades à ganglion sentinelle envahi sont randomisées , entre radiothérapie axillaire ( 50 Gy sur les trois étages de BERG ) et curage axillaire ( étages I et II de BERG ) emportant un minimum de dix ganglions .
+Les patientes sans atteinte métastatique histologique du ganglion sentinelle ne relèvent d' aucun complément ( chirurgical ou radiothérapique ) .
+Le recrutement ( 3000 malades ) s' effectue sur trois ans et le suivi sur cinq ans .
+Une radiothérapie axillaire complémentaire est indiquée en cas d' envahissement excédant quatre ganglions et / ou de rupture capsulaire .
+L' indication de chimiothérapie adjuvante est retenue en fonction du protocole thérapeutique de chaque institution .
+Les critères de jugement sont principalement le taux de récidive ganglionnaire axillaire et plus accessoirement la morbidité dans les deux bras thérapeutiques , le contrôle locorégional et la survie respective , le cot et enfin la qualité de vie [ 5 and 6 ] .
+6. Essai Fransenod ( French Randomized Sentinel Node Study )
+Cet essai , dont nous avons assuré la coordination , a été mené sous l' égide de la Fédération nationale des centres de lutte contre le cancer et de la Ligue nationale contre le cancer .
+Les patientes éligibles ( atteintes de tumeur classée T0 , T1 N0 ) sont randomisées , en pré-opératoire , entre une injection péri-aréolaire ou péritumorale du colorant et du radio-isotope ( technique combinée ) .
+Les patientes dont le ganglion sentinelle n' est pas envahi ( cytologie d' apposition , hématoxyline éosine , immunohistochimie ) ne reçoivent aucun complément axillaire .
+Un curage axillaire est effectué dans le groupe de malades ayant une atteinte métastatique axillaire ou en l' absence d' identification du ganglion sentinelle .
+Cet essai multicentrique , prospectif et randomisé , est clos depuis début 2003 après l' inclusion de 450 malades .
+L' objectif est de définir le site d' injection optimal et d' évaluer le taux de récidive axillaire , la morbidité et le cot de la lymphadénectomie sélective .
+7. Essais scandinaves
+La pratique du ganglion sentinelle dans les pays scandinaves est résumée dans le Tableau 1.
+Tableau 1. Pratique de la technique du ganglion sentinelle dans les pays scandinaves
+Full-size table ( 3K )
+View Within Article
+8. Autres essais nord-américains et européens8.1 .
+Aux États-Unis
+Il convient de signaler la Bay Area Sentinel Node Study ( coordonnateur : S.S Jeffrey ) randomisant l' injection de bleu isosulfan contre la technique combinée par lymphazurine et radio-isotope .
+Cet essai s' adresse à des institutions non universitaires américaines .
+Les malades bénéficient d' une détection du ganglion sentinelle avec curage axillaire complémentaire systématique .
+Les critères de jugement sont le taux d' identification du ganglion sentinelle , le taux de faux négatifs .
+Une appréciation des diverses courbes d' apprentissage est proposée tout comme une corrélation du taux de faux négatifs à la taille tumorale et au grade histopronostique  .
+Un autre essai nord américain a été organisé par le Department of Defense Study ( DoD ) coordonné par D. Reintgen .
+Il a inclus 965 malades et ses résultats ont été publiés en 2002  .
+Cet essai prospectif , non randomisé , visait à suivre l' évolution de deux groupes de malades après détection du ganglion sentinelle .
+Les malades à ganglion sentinelle non envahi ( pSLN ) ne faisaient l' objet d' aucun complément thérapeutique axillaire à la différence des patientes pSLN qui relevaient d' un curage axillaire complémentaire .
+Les paramètres analysés étaient le taux de récidive axillaire , la survie globale et sans récidive  .
+Cette étude permet de confirmer l' absence de récidive axillaire chez les malades ayant été simplement surveillées après exérèse d' un ganglion sentinelle indemne .
+Le taux de succès dans le centre de référence est de 92,8 % .
+Il est de 91,4 % dans les autres centres universitaires affiliés et de 85,2 % dans les hôpitaux régionaux .
+La différence n' est pas significative et les auteurs concluent que la technique peut être diffusée après une période d' apprentissage menée dans les règles .
+8.2. En Europe
+Plusieurs études multicentriques sont en cours en Italie , Allemagne , Autriche ainsi_qu' en Suisse .
+En France , deux essais sont sur le point d' être activés .
+L' essai GF-GS01 sous la conduite de J.Y. Bobin , randomise le curage axillaire systématique versus le curage axillaire guidé par le résultat de la biopsie du ganglion sentinelle .
+L' essai Ganea , coordonnée par J.M. Classe , vise à apprécier la place de la technique du ganglion sentinelle après chimiothérapie néo-adjuvante des cancers invasifs du sein .
+9. Conclusion
+Les questions actuelles soulevées par l' avènement de la chirurgie ganglionnaire mini-invasive des cancers du sein sont multiples : taille particulaire et site d' injection optimaux , intérêt de la lymphoscintigraphie , impact de la technique sur la survie , quantification de sa morbidité , attitude à adopter dans le groupe de patientes ayant un envahissement histologique du ganglion sentinelle ( pSLN ) , évolution locorégionale des malades pSLN , incidence pronostique des micrométastases ganglionnaires sentinelles , attitude vis-à-vis des ganglions sentinelles mammaires internes .
+C' est précisément l' objectif des essais présentés que de tenter d' éclairer ces points d' ombre .
+Il en résultera un meilleur positionnement des indications de la technique du ganglion sentinelle et des thérapeutiques adjuvantes [ 5 and 6 ] .
+Dans l' attente de la publication des résultats de ces essais , on ne peut que souscrire à une démarche d' adhésion des diverses équipes à une pratique encadrée après réalisation d' une courbe d' apprentissage et une information claire , objective des malades .
+La profusion des données actuelles de la littérature sur cette technique ne doit pas être délétère à sa validation et à son développement harmonieux .
+Comme le soulignait O. Nieweg  dès 2001 , la vitesse de diffusion de cette technique est telle qu' il ne serait pas inconcevable d' assister à sa validation en qualité de standard avant_même la publication des résultats à long terme des essais cliniques .
+Doit on le souhaiter ou faut il le craindre ?
+Il n' en demeure pas moins que la route vers la désescalade de l' agressivité de la chirurgie ganglionnaire des cancers infiltrants du sein est irréversiblement ouverte

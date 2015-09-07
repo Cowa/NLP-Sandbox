@@ -1,0 +1,206 @@
+Dans les annales de l' utilisation des hormones féminines , le THS , qu' il s' agisse de son expression d' origine sous forme de l' un ou l' autre des estrogènes non opposés ou de son expression sous forme de l' une ou l' autre des associations estroprogestatives , a connu plus de mouvements de balancier et de tours et détours en ce qui concerne le rapport bénéfice - risque que tout autre traitement auquel je puisse penser .
+Il est généralement admis que le THS a des effets bénéfiques sur les symptômes de la ménopause et les affections qui lui sont liées , telles_que l' atrophie vaginale et peut-être la cystite .
+Mais pour d' autres résultats , le verdict , notamment en ce qui concerne le THS de longue durée , a parfois été favorable , parfois nul et parfois défavorable , selon la manière dont ces résultats ont été obtenus et la personne qui les a obtenus .
+Je suis quant_à moi plus familier de ce qui s' est passé aux États-Unis et une brève chronologie , délibérément très simplifiée , pourrait contribuer à illustrer certaines des évolutions à la mode .
+Aux États-Unis , dans les années 1950 et au début des années 1960 , les estrogènes non opposés n' avaient que des qualités .
+Ces produits , principalement des estrogènes conjugués , ont initialement fait l' objet d' une promotion agressive par les fabricants , qui promettaient une jeunesse ( non confirmé ) , une beauté ( non confirmé ) et une sexualité ( partiellement confirmé ) prolongées , voire éternelles .
+On a ensuite trouvé que les estrogènes non opposés provoquaient des cancers de l' endomètre , le risque augmentant en fonction de la dose et de la durée du traitement ( largement confirmé ) .
+Puis on a dit qu' ils réduisaient le risque d' ostéoporose ( confirmé ) .
+Puis on a trouvé qu' ils réduisaient aussi le risque de maladie coronaire ( MC ) ( ce que certains investigateurs ont pensé pendant longtemps , mais pas d' autres , à confirmer ) , mais que , dans le même temps , ils augmentaient le risque de thromboembolie veineuse ( TEV ) ( confirmé ) .
+Puis on a trouvé qu' ils réduisaient le risque de cancer du côlon ( confirmé ) .
+Puis on a pensé que l' utilisation actuelle des estrogènes non opposés ( mais pas leur utilisation passée ) pouvait peut-être un tant soit peu accroître le risque de cancer du sein , un risque que l' on soupçonnait plus_ou_moins depuis le début mais qui a pris de l' ampleur avec le temps , en_dépit_de preuves plutôt contradictoires .
+Puis on a revendiqué haut et fort un effet cardio-protecteur , non_seulement pour le traitement par estrogènes non opposés , mais_aussi pour le THS combiné ( avec l' avantage supplémentaire que ce dernier traitement semblait dans le même temps ne pas augmenter le risque de cancer de l' endomètre ) .
+Puis les doutes quant_à un lien avec le cancer du sein se sont faits plus insistants , le traitement combiné étant alors suspecté d' augmenter le risque peut-être plus que les estrogènes non opposés , mais seulement légèrement plus ( et sur ce sujet , la confirmation ou l' infirmation dépendait de chacun , surtout parce_que les données étaient rares ) .
+Dans ce contexte , l' opinion qui prévalait , récemment encore , était qu' en dépit d' un doute persistant quant_à la possibilité d' un risque accru de cancer du sein , les bénéfices prévisibles du THS à long terme ( notamment une moindre incidence de MC ) dépassaient probablement , dans l' ensemble , les risques .
+La consommation d' estrogènes non opposés par les femmes hystérectomisées et la consommation de THS combiné par les femmes non hystérectomisées ont atteint des niveaux record et se sont maintenues à ces niveaux jusqu' en juillet 2002 .
+Depuis cette date , l' utilisation du THS , en_particulier le traitement combiné , a dégringolé .
+Sur la base des résultats publiés par la WHI ( Women' s Health Initiative )  , il est désormais admis qu' il existe des preuves manifestes selon lesquelles le THS combiné augmente de fait le risque de cancer du sein ; qu' il ne diminue pas , mais au_contraire qu' il augmente le risque de MC ; et qu' il augmente également le risque d' accident vasculaire cérébral ( AVC ) et d' embolie pulmonaire ( EP ) .
+Qui plus est , les investigateurs de la WHI affirment que les effets conjoints de ces résultats nocifs dépassent , d' un point_de_vue quantitatif , les bénéfices associés à la diminution du risque d' ostéoporose et de cancer du côlon .
+Plus précisément en ce qui concerne le risque de cancer du sein , les résultats de deux études supplémentaires , une méta-analyse plus ancienne , The Collaborative Reanalysis ( CR ) , Collaborative Group , 1997  ayant regroupé presque toutes les études épidémiologiques conduites à ce jour dans le monde ; et une étude publiée peu après l' étude WHI ( The Million Women Study [ MWS ] [ Million Women Study Collaborators ; 2003 ] )  , ont documenté les mêmes associations .
+Si l' on considère conjointement les résultats de ces deux études et ceux de l' étude WHI , il semble admis que les trois études ont établi de manière définitive que le THS , et notamment le traitement combiné , augmente le risque de cancer du sein .
+Je montre ici qu' il n' est pas exclu que les trois études aient partagé les mêmes biais et facteurs de confusion et que ceux-ci puissent être des alternatives plausibles à la relation de causalité pour expliquer l' augmentation rapportée du risque de cancer du sein et de maladie cardiovasculaire .
+À titre d' illustration , je vais me concentrer sur un seul biais , le biais de détection .
+Les autres biais seront mentionnés en passant .
+Les trois études sont abordées dans l' ordre chronologique .
+2. The Collaborative Reanalysis ( CR )
+Dans une méta-analyse des données générées par 51 études ( en grande majorité des études cas témoins ) conduites dans 21 pays , 17949 cas postménopausiques de cancer du sein et 35916 témoins ont été comparés  .
+Parmi les femmes exposées pour la dernière fois au THS supérieur ou égal à cinq ans auparavant , aucune association avec le risque de cancer du sein n' a été trouvée .
+Pour les femmes ayant utilisé le THS pour la dernière fois inférieur à cinq ans auparavant , les odd ratios ( risques relatifs ) , ajustés pour les facteurs de confusion , pour des durées d' utilisation inférieures à un an , un à quatre ans , cinq à neuf ans , dix à 14 ans et supérieures ou égales à 15 ans ont été respectivement de 0,99 , 1,08 , 1,31 , 1,24 et 1,56 ( test de tendance , p = 0,003 ) .
+Parmi les femmes exposées pendant cinq ans ou plus le risque relatif a été de 1,35 ( intervalle de confiance à 95 % : 1,21 - 1,49 ) .
+Tableau 1. Collaborative Reanalysis .
+Risques relatifs de cancer du sein en fonction de la durée d' utilisation du THS parmi les femmes exposées au THS au cours des cinq années précédentes
+Full-size table ( 3K )
+View Within Article
+Ces résultats peuvent ils s' expliquer par un biais de détection et , si oui , quelle ampleur ce biais devrait il avoir eu ?
+On sait que le cancer du sein peut parfois rester « occulte » ou « cliniquement silencieux » pendant de nombreuses années , mais qu' il peut être détecté par dépistage .
+De fait , la mammographie de dépistage est préconisée comme mesure de santé publique car elle permet de détecter les cas cliniquement silencieux plus_tôt et à un stade moins avancé que ce que l' absence de cet examen , aurait laissé prévoir ( pour plus de détails sur la manière dont un biais de détection peut se produire  ) .
+Les femmes recevant un THS devraient avoir bénéficié d' une surveillance médicale plus importante que les femmes ne recevant pas un tel traitement , ne serait -ce que parce_qu' elles avaient besoin de faire renouveler leurs ordonnances .
+Egalement parce_que le risque possible de cancer du sein induit par le THS a rendu ces patientes et leurs médecins plus anxieux .
+Par ailleurs , la conscience et la préoccupation quant_à l' augmentation possible du risque ont pu être plus importantes à_mesure de l' augmentation de la durée d' exposition .
+Prenons un groupe hypothétique de 100 femmes ménopausées .
+Dans le Tableau 2 , la colonne 1 présente la distribution de l' utilisation et de l' absence d' utilisation du THS au cours des cinq années précédentes en fonction de la durée d' exposition , calculée d'_après la distribution des témoins dans les données de la CR .
+Dans les colonnes 2 et 3 , les nombres de femmes dans chaque catégorie de durée sont multipliés par les risques relatifs correspondants pour donner les nombres prévisibles de cas .
+Dans la colonne 4 , les différences entre les colonnes 3 et 2 donnent les nombres de cas en excès prévisibles dans chacune des catégories , qui sont additionnés pour donner l' excès total .
+Tableau 2. Collaborative Reanalysis .
+Nombre de cas en excès dans une population hypothétique de 100 femmes exposées au THS au cours des cinq années précédentes
+Full-size table ( 7K )
+View Within Article
+Sur la base de ces données , l' application des estimations du risque relatif rapportées dans les données de la CR donne un excès total prévisible de cas parmi les femmes traitées par THS de 3 % sur une période supérieure ou égale à 15 ans , soit une moyenne inférieure à 0,2 % par an .
+Avec une différence d' incidence entre les femmes exposées au THS et les femmes non exposées au THS de 0,2 % par an ou moins , il est impossible de distinguer entre la relation de causalité et le biais de détection comme explications alternatives des résultats de la CR .
+De plus , l' absence d' augmentation du risque supérieure ou égale à cinq ans après l' arrêt du THS correspond exactement à_ce_que l' on pouvait attendre dans l' hypothèse du biais de détection , puisque la conscience et la préoccupation quant au_risque_de cancer du sein devraient perdre de leur intensité au fil du temps écoulé après l' arrêt du THS .
+Des preuves quantitatives dans la CR suggèrent également l' existence d' un biais de détection .
+Le Tableau 3 présente les risques relatifs en fonction du stade du cancer du sein et de sa durée .
+Dans toutes les catégories de durée , jusqu' à celle supérieure ou égale à dix ans , les estimations du risque relatif ont été plus élevées pour la maladie localisée que pour la maladie disséminée , ce qui correspond à ce à quoi l' on aurait pu s' attendre puisque la surveillance devrait avoir permis une détection plus précoce .
+Tableau 3. Collaborative Reanalysis .
+THS pris durant moins de cinq ans dans les antécédents .
+Risques relatifs de cancer du sein en fonction du stade et de la durée d' utilisation
+Full-size table ( 2K )
+View Within Article
+Les autres limites importantes concernant les données de la CR sont , premièrement , qu' un biais d' information ne peut pas être exclu dans les études cas témoins ( qui ont généré la_plupart des données ) , et même que ce biais est probable ; et , deuxièmement , que les facteurs de confusion ( par_exemple le statut socioéconomique ) n' ont pas été contrôlés de manière adéquate .
+Au vu de la forte probabilité d' un biais de détection ainsi_que d' autres biais , la faible ampleur des estimations du risque relatif relevées dans la CR ne constitue pas une preuve valide d' une augmentation du risque de cancer du sein parmi les utilisatrices du THS  .
+Par ailleurs , le fait que les estimations aient été statistiquement significatives ne modifie pas cette évaluation : dans une méta-analyse , le regroupement des données d' une série d' études , qui partagent , dans leur majorité , les mêmes biais , a simplement pour effet de resserrer l' intervalle de confiance autour_de l' amplitude de ces biais  .
+3. L' essai contrôlé randomisé de la Women' s Health Initiative ( WHI )
+Dans la WHI , 8506 et 8102 femmes ménopausées ont été randomisées respectivement vers un traitement par une association estroprogestative et vers un placebo  .
+Ces femmes ont initialement été suivies pendant 5,2 ans en moyenne et , dans les rapports ultérieurs sur le risque de MC  et de cancer du sein  , le suivi a été prolongé jusqu' à 5,6 ans .
+Les résultats des deux périodes de suivi n' ont pas été sensiblement différents et , par commodité , c' est le suivi sur 5,2 ans qui est pris en compte ici .
+J' ai par_ailleurs publié une critique plus détaillée des résultats de la WHI  .
+Le rapport de risques pour le cancer du sein a été de 1,26 ( intervalle de confiance à 95 % : 1,00 - 1,59 ) et les estimations pour la MC , l' accident vasculaire cérébral et l' EP ont été respectivement de 1,29 ( 1,02 - 1,63 ) , 1,41 ( 1,07 - 1,85 ) et 2,13 ( 1,39 - 3,25 ) .
+L' étude a été arrêtée pour deux raisons : un risque accru de cancer : du sein et un indice global « à l' appui d' une nocivité globale » ( page 325 ) .
+Les éléments ayant abouti à cet indice global de nocivité ont été le cancer du sein , la MC , l' accident vasculaire cérébral et l' EP .
+Pour tous les autres éléments inclus dans l' indice , les rapports de risques ont été inférieurs à l' unité .
+Tableau 4. Women' s Health Initiative .
+Rapports de risques et différences dans les taux d' incidence de cancer du sein , de maladie coronaire , d' accident vasculaire cérébral et d' embolie pulmonaire
+Full-size table ( 7K )
+View Within Article
+Les résultats relatifs à l' augmentation du risque de cancer du sein et à l' indice global de nocivité ont été considérés comme définitifs parce_qu' ils avaient été documentés dans ce qui a été présenté comme un essai contrôlé randomisé en double insu .
+Or il était prévisible que l' étude ne resterait pas en double insu puisque les femmes sous traitement estroprogestatif allaient normalement et inévitablement développer des symptômes , tels_que saignements intermenstruels , augmentation du volume des seins et sensibilité mammaire , qui allaient attirer leur attention sur le traitement reçu .
+Il était donc prévisible qu' il y ait un risque de biais de détection .
+Et compte tenu de cette levée de l' aveugle , il était également prévisible qu' il y ait un risque de confusion du fait des différences d' observance des traitements attribués et aussi des permutations entre les groupes de traitement .
+Le Tableau 5 indique , comme on pouvait s' y attendre , que l' étude a révélé ce qui était prévisible et qu' elle a cessé d' être en double insu : à la fin de l' étude , 44,4 % des femmes recevant une association estroprogestative contre 6,8 % des femmes sous placebo avaient compris quelle était leur exposition , principalement en raison de saignements vaginaux persistants : une différence relative de 6,5 fois et une différence absolue de 37,6 % .
+Le Tableau 6 indique également un défaut d' observance des traitements attribués important , atteignant 42 % et 38 % chez les femmes respectivement sous association estroprogestative et sous placebo , et la fréquence des permutations ( respectivement 6 et 11 % ) .
+Tableau 5. Women' s Health Initiative .
+Levée de l' aveugle sur l' exposition
+Full-size table ( 3K )
+View Within Article
+Tableau 6. Women' s Health Initiative .
+Taux cumulés d' abandon et de permutation ( pourcentage )
+Full-size table ( 2K )
+View Within Article
+Envisageons , dans ce contexte , la possibilité d' un biais de détection .
+La manière dont ce biais a pu se produire pour le cancer du sein a été abordée ci-dessus et plus en détail par_ailleurs  .
+En ce qui concerne l' infarctus du myocarde ( IDM ) , l' accident vasculaire cérébral ( AVC ) et l' embolie pulmonaire ( EP ) , les femmes ont été averties deux fois , d'_abord 2,5 ans environ après le début de l' étude , puis de_nouveau un an plus_tard , quant_à l' augmentation possible du risque chez les utilisatrices d' associations estroprogestatives .
+En dépit de l' anxiété inévitable d'_abord provoquée , puis accentuée , par ces mises en garde , il a toutefois été demandé aux femmes de poursuivre le traitement qui leur avait été attribué .
+De plus , la conscience du risque d' IDM était déjà présente avant les mises en garde , puisque dès le début , les femmes avaient été informées que l' objectif de la WHI était de déterminer si le traitement estroprogestatif diminue le risque d' IDM .
+Comment un biais de détection a -t il pu se manifester pour les critères cardiovasculaires ?
+Il est peu probable que les formes sévères ou classiques d' IDM , d' accident vasculaire cérébral ou d' EP aient pu être détectées de manière différente chez les femmes sous association estroprogestative et chez les femmes sous placebo .
+Mais il a pu y avoir des différences dans la détection des cas légers ou atypiques ( par_exemple un IDM pris pour une « indigestion » ; une hémiparésie cédant en quelques jours ; une EP pris pour une « grippe » ou une « bronchite » ) .
+Quelle ampleur le biais de détection aurait il d avoir pour expliquer les résultats obtenus pour les quatre événements cardiovasculaires ?
+Le Tableau 4 présente les taux d' incidence annuels moyens de cancer du sein , de MC , d' accident vasculaire cérébral et d' EP parmi les femmes sous association estroprogestative et les femmes sous placebo .
+Parmi les femmes sous association estroprogestative , l' excès du taux d' incidence pour chacun des quatre événements cardiovasculaires a été respectivement de 0,8 , 0,7 , 0,8 et 0,8 pour 1000 femmes exposées par an .
+Au vu de l' ampleur de la levée de l' aveugle chez les femmes sous association estroprogestative , sensiblement plus importante que chez les femmes sous placebo , il est parfaitement plausible que le biais de détection puisse à lui seul rendre compte de la faible association relevée pour le cancer du sein , qui , quoi qu' il en soit , a seulement « presque atteint le seuil nominal de significativité statistique » ( page 327 ) .
+Compte tenu de ces données , il est là encore impossible de distinguer entre le biais de détection et la relation de causalité comme explications alternatives des résultats obtenus .
+En ce qui concerne les événements cardiovasculaires , en considérant que les femmes savaient qu' elles avaient été affectées au traitement estroprogestatif après avoir été averties , non pas une fois mais deux fois , de l' existence d' un risque accru , on peut se demander si les résultats de la WHI doivent être considérés comme prouvant quoi que ce soit .
+Mais même si l' on admet qu' ils prouvent quelque chose , un biais de détection ne peut pas , là non plus , être exclu .
+D' autres études ont documenté un risque accru d' EP et de TEV parmi les utilisatrices du THS , association compatible avec les effets bien établis des contraceptifs oraux chez les femmes jeunes , et il est probable que cette relation soit une relation de cause à effet .
+Il n' est toutefois pas possible de parvenir à cette conclusion sur la base des seuls résultats de la WHI .
+En ce qui concerne l' IDM et l' accident vasculaire cérébral , il est absolument évident que non_seulement le biais de détection peut expliquer les résultats , mais également que ce biais est l' explication la plus plausible de ces résultats .
+Un autre défaut de la WHI a été que les faibles taux d' observance , atteignant 38 à 42 % , associés aux permutations fréquentes du THS à l' absence de traitement et vice_versa , ont généré d' importants facteurs de confusion .
+Il est par_exemple possible que les femmes ayant arrêté le THS par peur d' un cancer du sein aient par_la_suite examiné leurs seins plus fréquemment .
+Pour faire face_à ce problème , les données ont été analysées à l' aide de méthodes en intention de traiter .
+Ces méthodes peuvent être valables pour réduire les facteurs de confusion dans des essais à relativement court terme dans lesquels il y a peu ou pas de levée de l' aveugle et dans lesquels il y a des taux de non-observance ou de permutation relativement modestes .
+Mais dans une étude à long terme avec des taux élevés et une étude où près_de la moitié des femmes exposées au THS en viennent à connaître le traitement qu' elles reçoivent , ces méthodes perdent de leur sens et ne permettent pas d' éliminer la possibilité de facteurs majeurs de confusion .
+Comment les résultats de la WHI ont ils pu être présentés comme définitifs avec aussi peu d' éléments de justification ?
+Je soupçonne que la réponse soit que cette étude a été considérée comme ayant satisfait à la « règle d' or » de la recherche épidémiologique , à savoir celle d' un essai contrôlé randomisé en double insu .
+Ce que les investigateurs semblent n' avoir pas pris en compte , c' est que si la WHI était initialement un essai contrôlé , elle a vite cessé de l' être [ 4 and 9 ] et qu' elle a pris les caractéristiques d' une étude d' observation , avec toutes les limites propres à cette méthodologie en matière de biais et de facteurs de confusion .
+Là encore , comme dans toute autre étude d' observation , en ce qui concerne les risques relatifs de faible ampleur relevés dans la WHI , il est impossible de distinguer entre le biais de détection ou les facteurs de confusion et la relation de causalité comme explications alternatives des résultats obtenus  .
+Contrairement à ce qui a été proclamé , la WHI n' a pas établi que le THS augmente le risque de cancer du sein , de MC , d' accident vasculaire cérébral ou d' EP .
+4. The Million Women Study ( MWS )
+Au Royaume-Uni , toutes les femmes âgées de 50 à 64 ans ont été invitées à passer des mammographies de dépistage tous les trois ans  .
+De mai 1996 à mars 2001 , la MWS a envoyé des lettres d' invitation et des questionnaires aux femmes concernées par les mammographies de routine .
+1084 110 femmes ont été recrutées et suivies au regard de l' incidence de cancer du sein invasif et de mortalité dans les registres centraux du National Health Service ( NHS ) .
+Les analyses principales ont porté sur l' utilisation passée et présente du THS , selon les indications enregistrées lors du recrutement ( initial ) parmi les 828923 femmes ménopausées .
+Aucun élément en faveur d' une association avec le cancer du sein n' a été retrouvé chez les femmes ayant utilisé un THS pour la dernière fois plus d' un an avant le recrutement par rapport aux femmes n' ayant jamais utilisé de THS , y_compris lorsque l' utilisation passée du THS avait une durée supérieure ou égale à dix ans .
+En revanche , parmi les femmes utilisant un THS lors du recrutement ( utilisatrices actuelles ) , les estimations du risque relatif avec les estrogènes seuls , les associations estroprogestatives , la tibolone et d' autres THS ou bien une exposition inconnue ont été respectivement de 1,30 , 2,00 , 1,45 et 1,44 ; toutes les associations ont été statistiquement significatives .
+La différence entre les estimations pour les estrogènes seuls vs estrogènes plus progestatifs a également été significative ( p 0,0001 ) .
+Les risques relatifs chez les utilisatrices actuelles d' estrogènes et les utilisatrices actuelles d' associations estroprogestatives ont été significativement plus élevés pour des durées totales d' utilisation supérieures ou égales à cinq ans vs des durées d' utilisation plus courtes .
+En ce qui concerne le risque de cancer du sein à issue fatale , le risque relatif a été de 1,22 ( intervalle de confiance à 95 % : 1,05 - 1,41 ) .
+Tableau 7. Million Women Study .
+Estimations du risque relatif parmi les utilisatrices actuelles d' un THS
+Full-size table ( 4K )
+View Within Article
+Ces résultats peuvent ils s' expliquer par un biais de détection ?
+Les investigateurs ont exclu « les femmes avec un cancer quel qu' il soit enregistré avant le recrutemen » ( souligné par moi ; page 420 ) .
+Ainsi , les cancers du sein identifiés lors_de la mammographie réalisée au moment du recrutement devraient avoir été rapportés dans les registres du cancer et inclus .
+De plus , dans le meilleur des cas , la sensibilité de la mammographie n' est que de 70 à 80 % environ  et , parmi les femmes sous THS , elle devrait être encore probablement plus faible du fait de la densité accrue  .
+De sorte que les femmes exposées ayant des masses mammaires connues ont parfois pu échapper à la détection mammographique initiale et être diagnostiquées un_peu plus_tard comme ayant un cancer du sein lors_de l' examen clinique .
+L' inclusion des cas diagnostiqués initialement pourrait rendre probable non_seulement la présence d' un biais de détection dans la MWS , mais également l' importance plus grande de ce biais par rapport aux deux autres études examinées ici , et ce , pour les raisons suivantes .
+En premier lieu , les femmes qui se présentent pour une mammographie de dépistage sont plus souvent des utilisatrices de THS  et elles présentent plus souvent des masses mammaires , qui sont des cas de cancer du sein non encore diagnostiqués , que les femmes qui ne passent pas de mammographie de dépistage  .
+L' anxiété liée à l' utilisation du THS ou l' anxiété liée à la présence connue de tumeurs mammaires sont des incitations fortes à consulter .
+Et l' utilisation d' un THS associée à la présence connue de tumeurs mammaires devrait avoir un effet additif puisque chacune est une incitation forte à consulter .
+Il est par_ailleurs probable que l' anxiété parmi les utilisatrices d' un THS se soit accrue avec l' augmentation de la durée d' utilisation du THS ; et cette anxiété pourrait également être plus importante parmi les femmes qui utilisent des associations estroprogestatives puisque la suspicion d' un lien avec le risque de cancer du sein a plus porté sur ces associations que sur les estrogènes non opposés .
+En second lieu , la formulation de l' invitation et du questionnaire ( disponibles sur le site Internet de l' étude : ) a probablement accru l' anxiété préexistante des femmes ou , chez les femmes qui n' étaient pas anxieuses , l' invitation a pu générer de l' anxiété .
+Citons un passage : « Nous avons une occasion unique , au travers du programme de dépistage des affections du sein du NHS , d' apprendre comment les différents types de THS affectent la santé des femmes , en_particulier l' état de leurs seins » ( sic ) ( paragraphe introductif ) .
+Ce raisonnement est étayé par les données de la MWS :
+Premièrement , parmi les femmes n' ayant jamais utilisé de THS , l' incidence moyenne de cancer du sein a été de 2,8 pour 1000 par an ( selon mes calculs ) , tandis_que l' incidence correspondante dans « les pays développés est estimée généralement à 32 pour 1000 parmi les femmes âgées de 50 à 65 ans » ( page 424 ) , soit environ 2,1 pour 1000 par an .
+Ainsi , y_compris parmi les femmes n' ayant jamais utilisé de THS , l' incidence plus élevée observée dans la MWS par_rapport_à la population générale indique qu' il y a eu de fait une tendance à un recrutement sélectif de cas de cancer du sein préexistants initialement .
+Tableau 8. Incidence de cancer du sein parmi les nouvelles utilisatrices du THS dans la population générale et dans la Million Women Study
+Full-size table ( 2K )
+View Within Article
+Deuxièmement , les investigateurs de la MWS ont réalisé une enquête auprès d' un échantillon de 1183 femmes , dans laquelle ils ont montré que le recrutement d' utilisatrices de THS pour la mammographie était également sélectif ( les taux d' utilisation du THS étaient de 32 vs 19 % respectivement parmi les femmes se présentant à la mammographie et les femmes ne se présentant pas à la mammographie )  .
+Ainsi , les risques relatifs élevés observés dans la MWS pourraient s' expliquer par un recrutement encore_plus sélectif de femmes qui à_la_fois utilisaient un THS et savaient qu' elles avaient des masses mammaires .
+Troisièmement , les résultats sont inexplicables en termes cliniques comme histopathologiques .
+Le Tableau 9 présente les intervalles moyens de suivi .
+La durée moyenne du suivi pour l' identification des cas de cancer du sein a été de 2,6 ans et le délai moyen entre le recrutement et le diagnostic a été de 1,2 ans .
+La durée moyenne du suivi pour la mortalité par cancer du sein a été de 4,1 ans , tandis_que le délai entre le recrutement et le décès n' a pas été mentionné .
+Toutefois , comme le délai entre le diagnostic et le décès a été de 1,7 ans , le délai entre le recrutement et le décès a d être d' environ 2,4 ans ( 4,1 - 1,7 ) .
+Tableau 9. Million Women Study .
+Intervalles de suivi
+Full-size table ( 4K )
+View Within Article
+Il est bien établi que les cancers du sein , dans leur majorité , évoluent lentement , sur une période de plusieurs années .
+De sorte que les intervalles moyens courts observés dans la MWS , et notamment l' intervalle court entre le recrutement et le diagnostic , ne peuvent s' expliquer que si une proportion importante des cancers du sein était déjà présente initialement , même si ces cancers n' avaient pas été diagnostiqués .
+Par ailleurs , un intervalle moyen de 1,7 ans seulement entre le diagnostic et le décès ne peut s' expliquer que si un nombre substantiel de cancers du sein était déjà présent depuis_longtemps au moment du recrutement .
+Il est établi également que la progression du cancer du sein , une fois que la tumeur entre dans une phase active de croissance , devient autonome .
+De sorte que si , à titre d' exemple , on suppose que l' utilisation actuelle du THS augmente le risque de cancer du sein et que l' association devient plus forte à_mesure que la durée d' utilisation augmente , il est quasiment inconcevable que le THS puisse cesser d' avoir un effet dans l' année suivant l' arrêt du traitement , même si son utilisation a duré plus de dix ans .
+De fait , il est difficile de concevoir une explication à des effets aussi disparates , autre que l' existence d' un biais de détection .
+Quatrièmement , 75 % environ des femmes invitées à bénéficier d' une mammographie de dépistage se sont effectivement présentées et sur ces 75 % , 71 % ont passé la mammographie .
+De sorte que le taux de participation à la MWS a été de 53 % environ .
+Avec un taux de non-participation de 47 % , il est tout_à_fait possible que le recrutement des femmes dans la WHS ait été lié à l' utilisation d' un THS , au fait d' avoir des masses mammaires non diagnostiquées et , davantage encore , à l' association des deux .
+Cinquièmement , le risque relatif significativement élevé pour la tibolone ( un produit qui bloque l' action des estrogènes et qui n' a pas été mis en cause dans le risque de cancer du sein ) s' ajoute aux éléments en faveur d' un biais de détection .
+Les données de mortalité auraient elles pu faire l' objet d' un biais de détection ?
+Il est bien connu que les certificats de décès peuvent ne pas être fiables .
+Prenons deux groupes hypothétiques d' utilisatrices et de non-utilisatrices de THS atteintes d' un cancer du sein à un stade avancé , chez qui l' événement final ayant conduit au décès a dans tous les cas été une bronchopneumonie .
+La tendance aurait pu être d' enregistrer plus volontiers le cancer du sein comme cause du décès plutôt que la bronchopneumonie chez les utilisatrices de THS .
+En particulier pour un risque relatif estimé à 1,26 seulement et un intervalle de confiance à 95 % plus faible de 1,05 , il est là encore impossible d' exclure que l' explication soit un biais de détection .
+Non seulement la probabilité d' un biais de détection est importante dans la WMS , mais de nombreux autres défauts ont été signalés dans la correspondance  .
+On peut notamment citer le fait que le temps zéro n' a pas été correctement spécifié , le plan de l' étude s' apparentant dès_lors à « quelque chose entre une étude de cohorte prospective et une étude cas témoins » ( sic ) ( page 1330 ( Van Leeuwen et Rockus ) dans Garton_et_al.  ; le fait de ne pas avoir pris en compte les modifications de l' utilisation du THS avec le temps ; le fait de ne pas avoir enregistré les permutations d' exposition après le recrutement et , par_conséquent , la classification erronée entre l' exposition actuelle et la non-exposition ainsi_que la classification erronée du type d' utilisation du THS ; et le manque de fiabilité des données relatives à la durée de l' exposition .
+De nombreuses erreurs ont également été faites dans le rapport de la MWS ( je suis redevable au Dr Juergen Dinger ( Schering AG ) d' avoir attiré mon attention sur ce défaut ) .
+Ces erreurs sont notamment la divergence entre les intervalles de confiance mentionnés dans le résumé et dans le texte ; la divergence entre les estimations données dans le texte et dans les figures ; des erreurs de calcul ; et la désignation erronée d' un produit estrogénique .
+Des erreurs occasionnelles peuvent parfois être faites dans un rapport , auquel cas elles peuvent ensuite être reconnues et corrigées .
+Mais des erreurs de l' ampleur de celles identifiées dans le rapport de la MWS doivent conduire à s' interroger sur le soin avec lequel l' étude a été conduite .
+Et enfin , il est là encore nécessaire de souligner que , dans toute étude qui prend suffisamment d' ampleur , quasiment toute association , même si elle est petite et même si elle est biaisée , peut devenir statistiquement significative  .
+Et là encore , compte tenu des faibles augmentations du risque observées dans la MWS , il est impossible de distinguer entre la relation de causalité et le biais de détection comme explications alternatives des résultats obtenus .
+5. Conclusions
+Il reste à souligner que les résultats relatifs au cancer du sein divergent entre les trois études .
+Les investigateurs de la MWS ( Million Women Study Collaborators ; 2003 )  ont affirmé que leurs résultats étaient en accord avec ceux de la CR ( Collaborative Group ; 1997 )  .
+Cette affirmation est fausse .
+La CR a rapporté une augmentation du risque parmi les femmes qui utilisaient actuellement un THS ou qui l' avaient arrêté jusqu' à cinq ans auparavant , alors_que dans l' étude MWS , il n' y avait pas d' augmentation du risque un an ou plus après l' arrêt du traitement .
+Les investigateurs de la WHI  ont affirmé que leurs résultats concernant le traitement combiné étaient en accord avec ceux de la CR  « qui a rapporté une augmentation de 15 % en cas d' utilisation inférieure à cinq ans et une augmentation de 53 % en cas d' utilisation de plus de cinq ans » ( page 330 ) .
+Cette affirmation est également fausse .
+Dans la CR , le risque associé à l' utilisation des associations estroprogestatives n' a pas_du_tout été analysé : les données relatives aux associations estroprogestatives et aux estrogènes seuls ont été regroupées et analysées ensemble dans une seule et même catégorie .
+De plus , une proportion inconnue de femmes de cette catégorie avait précédemment utilisé des estrogènes non opposés .
+Et qui_plus_est , les augmentations mentionnées de 15 et 53 % n' ont pas été statistiquement significatives et elles ont pu être dues au hasard .
+Contrairement à ce qui a été largement affirmé , les preuves épidémiologiques existantes ne justifient pas la conclusion selon laquelle le THS , et le traitement combiné en_particulier , augmente le risque de cancer du sein ou selon laquelle les augmentations combinées du risque de cancer du sein et de maladie cardiovasculaire dépassent les bénéfices .
+Sur la base des preuves existantes , le THS peut ou non être associé à un risque accru de cancer du sein et de maladie cardiovasculaire , mais compte tenu des faibles risques relatifs observés , couplés aux limites méthodologiques de ces trois études , il est impossible de distinguer entre le biais de détection et la relation de causalité comme explications alternatives des associations observées .
+Que va -t il se passer avec les études futures ?
+L' épidémiologie peut elle faire progresser la compréhension de l' étiologie hormonale du cancer du sein ?
+Comme cette maladie est 100 fois plus fréquente chez les femmes que chez les hommes , il ne fait aucun doute que les hormones féminines jouent un rôle crucial dans l' étiologie de la maladie .
+Mais nous n' avons aucune chance de réussir à mieux comprendre ce rôle si nous passons notre temps à réexaminer sans_cesse les mêmes questions concernant le THS .
+La question à mon avis la plus pertinente est la suivante : « Pourquoi le THS n' augmente -t il pas le risque de cancer du sein de 100 fois ? » Et comme il ne le fait pas , nous devrions concentrer notre attention sur le rôle possible joué par les hormones féminines dans le tissu mammaire lui-même , où la concentration d' estrogènes et de progestatifs est considérablement plus élevée que dans le sang périphérique , que les femmes soient ou non utilisatrices d' un THS .
+Les concentrations sanguines physiologiques d' estrogènes et de progestatifs plus élevées dans les cas de cancer du sein que dans les cas indemnes de cancer du sein sont parfois invoquées pour appuyer la plausibilité que le TSH soit une cause possible de cancer du sein .
+Mais ce raisonnement ignore la possibilité que les concentrations sanguines élevées soient principalement liées à ce qui se passe dans le sein lui-même et que les modifications des taux sanguins induits par le THS puissent n' avoir aucun effet , ou quasiment aucun effet .
+Je doute que l' épidémiologie puisse jamais résoudre la question de savoir si les hormones féminines exogènes augmentent ou pas le risque de cancer du sein .
+Mais les recherches collaboratives entre l' histopathologie et l' épidémiologie , centrées sur ce qui se passe dans le sein lui-même , pourrait aider à faire progresser notre compréhension .
+De telles recherches sont peut-être difficiles , mais elles pourraient être la prochaine étape nécessaire .
+Financement - soutien .
+L' auteur a reçu des honoraires de Schering AG et il a consulté les juristes représentant Wyeth

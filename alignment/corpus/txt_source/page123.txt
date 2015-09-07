@@ -1,0 +1,97 @@
+La place du CA 15.3 a été définie dans trois types de recommandations qui sont celles de l' Agence nationale d' accréditation et d' évaluation en santé ( Anaes ) en 1998  les recommandations de l' American Society of Clinical Oncology ( ASCO ) en 1998  avec mise à jour en 2000  et enfin les standards options et recommandations ( SOR ) élaborées par un groupe de biologistes dans le cadre de la Fédération nationale des centres de lutte contre le cancer qui datent de 2000  .
+Le but de cet article est de revoir les points importants de ces recommandations dans notre pratique quotidienne de cliniciens et de les analyser en fonction des données récentes de la littérature .
+La CA 15.3 ( MUC-1 ) est une glycoprotéine de haut poids moléculaire qui appartient à la famille des mucines , présente dans le sérum et dans les gouttelettes lipidiques du lait humain .
+Cet antigène peut être dosé dans le sérum ou mis en évidence sur des coupes histologiques à l' aide d' anticorps monoclonaux .
+Le CA 15.3 est défini par sa réaction immunologique avec deux anticorps monoclonaux qui sont le 115 D8 , dirigé contre la membrane du globule graisseux du lait humain et le DF3 , dirigé contre la membrane de cellules humaines de cancer du sein .
+Le CA 15.3 est un épitope sérique de la Polymorphic Epithelial Mucin , codée par le gène MUC 1 , qui intervient dans les mécanismes d' adhésion cellulaire .
+Il a également un rôle immunosuppresseur .
+2. Dépistage et diagnostic du cancer du sein
+Une méta-analyse a été effectuée par les auteurs des SOR en 2000  qui a montré une sensibilité clinique variant de 13 à 65 % avec une spécificité clinique de 87 à 100 % .
+Le CA 15.3 n' est élevé que dans 9 % des cas en moyenne dans les stades I et 19 % dans les stades II .
+En revanche , il s' élève plus fréquemment dans les stades plus graves .
+Le CA 15.3 n' a donc pas d' utilité dans le dépistage ou le diagnostic des cancers du sein .
+En revanche , en cas de découverte d' une métastase d' un adénocarcinome sans tumeur primitive évidente , le CA 15.3 est susceptible d' orienter vers une origine mammaire et ainsi d' orienter le bilan initial et_ensuite le traitement .
+3. Valeur pronostique du CA 15.3 initial
+Le diagnostic étant établi , le dosage initial du CA 15.3 est facteur pronostique reconnu et il constitue une valeur de référence pour le suivi ultérieur des patientes .
+En effet , la valeur d' une évolution biologique est plus importante si l' on se réfère à la valeur basale de chaque patiente plutôt qu' à une valeur statistique d' un groupe .
+C' est la cinétique du CA 15.3 de chaque patiente qui doit être examinée pour avoir un meilleur suivi biologique .
+Dans trois études récentes , la valeur pronostique du CA 15.3 est reconnue comme indépendante des autres facteurs de pronostic classiques .
+La première est une étude rétrospective de Boccara en 1998  qui montre qu' à dix ans toutes les patientes qui avaient un CA 15.3 initial supérieur à 55 U / ml étaient décédées .
+La deuxième étude est celle de Shering  qui a étudié la valeur du CA 15.3 préopératoire chez 368 patientes présentant un cancer du sein opérable dont 50 % présentaient une invasion ganglionnaire ( N+ ) .
+En analyse multivariée les trois facteurs influençant la survie globale étaient le statut ganglionnaire ( p = 0,043 ) , la taille de la lésion ( p = 0,095 ) et le CA 15.3 avec une valeur seuil de 30,38 U / ml ( p = 0,007 ) .
+La survie globale des patientes était de 83 % avec un CA 15.3 inférieur ou égal à 30,38 U / ml et de 67 % avec un CA 15.3 supérieur à 30,38 U / ml ( p 0.001 ) .
+Une autre étude plus récente , intéressante car elle ne porte que sur des patientes sans envahissement ganglionnaire ( N - ) , effectuée par Gion et publiée en 2002  a recherché la valeur pronostique du CA 15.3 initial .
+Ce groupe a montré que le risque de récidive est bien sur faible mais constant jusqu' à 10 U / ml puis qu' il augmente ensuite proportionnellement avec la concentration du CA 15.3. Pour les lésions pT1 les courbes de survie divergent en fonction de la concentration de CA 15.3 , avec des groupes comprenant des valeurs inférieures à 10 U / ml , de 10 à 21 U / ml et de 22 à 31 U / ml .
+Pour les lésions pT2 , on retrouve une différence de 24 % entre les patientes ayant un CA 15.3 inférieur à 10 U / ml et les patientes ayant un CA 15.3 supérieur à 31U / ml .
+Il serait donc intéressant de développer des études de facteurs pronostiques incluant ce paramètre pour des cancers N - .
+Il existe des divergences importantes concernant le dosage initial du CA 15.3 entre les trois types de recommandations .
+En effet l' Anaes et l' ASCO ne recommandent pas de dosage initial .
+En revanche , pour les SOR , le CA 15.3 est inclus dans le bilan initial afin_d' avoir pour chaque patiente une valeur de référence et qui permet , avec sa valeur pronostique , d' orienter vers une thérapeutique générale .
+Dans notre pratique quotidienne un CA 15.3 initial élevé nous incite à poursuivre le bilan d' extension ( IRM vertébrale , scanner abdominopelvien , voire TEP Scan ) .
+4. CA 15.3 et surveillance des cancers du sein
+Faut il doser le CA 15.3 dans la surveillance des cancers du sein non métastatiques traités ?
+C' est la question la plus débattue et qui reste un sujet de controverse .
+4.1. En premier lieu quelle est la sensibilité clinique du CA 15.3 dans ce cadre ?
+Pour le dépistage des récidives locales , le CA 15.3 n' est pas utile puisque sa sensibilité est faible , de l' ordre de 20 % .
+Son dosage ne sera fait que dans le cadre du bilan de cette récidive essentiellement à la recherche d' une évolution métastatique associée .
+Pour les récidives métastatiques une méta-analyse de l' ASCO montre une sensibilité dans cette situation de 67 % avec une spécificité de 92 % .
+Ce qui est plus important à noter est la notion de cinétique pour une patiente donnée plutôt qu' un seuil statistique , d' où la nécessité d' effectuer , sauf impossibilité réelle , les dosages successifs par le même laboratoire .
+Enfin , il faut rappeler que le CA 15.3 peut s' élever en avance ( lead time ) par rapport aux symptômes ou aux signes radiologiques de métastases dans 30 à 40 % des cas avec un lead time qui peut aller de deux à neuf mois , voire plus  .
+La sensibilité du CA 15.3 est variable en fonction du site métastatique : c' est une notion ancienne bien connue .
+Elle est plus importante pour les localisations hépatiques et les épanchements pleuraux .
+Viennent ensuite les métastases osseuses et pulmonaires .
+La sensibilité du CA 15.3 est médiocre pour les métastases cérébrales .
+La sensibilité du CA 15.3 varie en fonction de la présence ou de l' absence de récepteurs de l' estradiol dans la tumeur  .
+C' est une notion qui est moins connue .
+Tampellini  a montré sur une population de 430 patientes étudiées entre 1988 et 1998 que chez les patientes qui ont des récepteurs hormonaux positifs ( RH+ ) le CA 15.3 a une sensibilité statistiquement supérieure à celle observée chez les patientes dont la tumeur est dépourvue de récepteurs ( 70 vs 46 % , p 0,0001 ) .
+Pour des patientes oligométastatiques , à faible masse métastatique ( classement selon le score de Colomer ) , le CA 15.3 reste performant pour les patientes RH+ avec une sensibilité de près_de 58 contre 26 % pour les patientes RH - .
+Or ce sont les patientes dont la tumeur contient des récepteurs hormonaux qui peuvent bénéficier des traitements anti-hormonaux avec une gamme de traitements qui s' est élargie ces dernières années .
+Par ailleurs plus la masse tumorale est faible , plus le traitement général a des chances d' être efficace .
+4.2. Deuxième question : quelle est la valeur pronostique du CA 15.3 au moment de la récidive métastatique ?
+Pour répondre à cette question , nous avons étudié une population de 119 patientes lors_de leur 1re métastase et qui ont montré une augmentation de leur CA 15.3 à un moment de leur évolution  .
+Toutes ces patientes ont eu leur traitement primaire dans notre établissement entre 1987 et 1994 et ont été suivies avec des dosages de CA 15.3 réguliers jusqu' à l' apparition des métastases .
+Au moment du diagnostic de métastases , 82 % des patientes avaient un CA 15.3 élevé , dont 42 % avec un lead time médian de quatre mois .
+L' analyse multivariée des facteurs de la survie sans maladie a retrouvé deux facteurs liés à la tumeur ( la taille initiale de la lésion et la présence ou non de récepteurs hormonaux ) et trois facteurs de pronostic relatifs à la cinétique du CA 15.3 : - la concentration de CA 15.3 lors_de la découverte de la métastase ( avec une valeur discriminante spécifique de 47 U / ml ) ;
+- le temps entre le traitement initial et l' augmentation du CA 15.3 ;
+- et enfin la présence ou non d' un lead time supérieur à 30 jours .
+L' avantage en termes de survie des patientes qui ont un lead time n' est pas lié dans notre étude à un traitement plus précoce , puisque trois patientes seulement ont reçu un traitement par tamoxifène avant le diagnostic radiologique de métastases .
+Une explication est probablement que ces patientes ont été suivies de plus près que les autres jusqu' à la preuve de la métastase .
+Une autre raison pourrait être une sélection des patientes par le biais du lead time puisque 90 % de ces patientes avec un lead time étaient hormonosensibles .
+Nous avons fait une comparaison de notre population de patientes suivies avec des dosages réguliers de CA 15.3 avec un groupe témoin composé de patientes extraites de notre base de données appariées en termes de facteurs cliniques , histologiques et traitées entre 1965 et 1983 avant l' apparition des dosages de CA 15.3. Il existe une différence statistiquement significative entre les deux populations , pouvant relever , entre autres explications , d' un diagnostic plus précoce des métastases dans le groupe avec surveillance biologique par CA 15.3.
+5. Recommandations pour le suivi des patientes
+Pour l' Anaes et l' ASCO il n' est pas recommandé de doser le CA 15.3 dans la surveillance des cancers du sein .
+Pour les SOR , il existe des nuances : l' intérêt du dosage du CA 15.3 dans le diagnostic des métastases est reconnu avec un niveau de preuve A. En revanche , l' intérêt pour les patientes d' un diagnostic biologique précoce des métastases par_rapport_à l' attitude classique qui consiste à attendre l' apparition de signes cliniques et l' impact de ce diagnostic biologique précoce sur la durée de survie globale n' est pas prouvé .
+Cela avec un niveau de preuve C selon la méthodologie des SOR , ce qui veut dire que les données disponibles sont peu concluantes .
+En effet pour répondre à cette question on ne dispose que de peu d' éléments .
+Il existe deux études randomisées de petite taille , chacune n' ayant inclus que 40 patientes  .
+Ces patientes étaient suivies avec des dosages de marqueurs tumoraux tous les trois mois .
+En cas d' élévation isolée d' un marqueur , elles étaient randomisées entre un traitement hormonal ou une simple surveillance jusqu' à l' apparition de métastases radiologiques .
+Les résultats , peu détaillés , montraient un retard à l' apparition des métastases dans le bras traité , une augmentation du taux de survie à un an , laquelle disparaissait à cinq ans .
+Une troisième étude prospective non randomisée a été effectuée par Nicolini  selon le même principe .
+La méthodologie de cette étude est critiquable mais elle montre une survie à_partir_de la 1re métastase supérieure dans le bras traité par rapport au bras contrôle , mais_surtout une amélioration de la survie à_partir_de la mastectomie initiale .
+Un essai de phase III fondé sur le même concept a été tenté dans les années 1990 en France .
+Mais il s' est révélé rapidement impossible à réaliser en_pratique du fait de la difficulté d' obtenir un consentement éclairé des patientes et il a donc été abandonné .
+Faut il en raison de l' impossibilité de réaliser cet essai rejeter l' utilité du CA 15.3 faute_de preuve ?
+Pour étayer la thèse de la nécessité de ne pas abandonner un ancien outil qu' est le CA 15.3 dans le diagnostic de métastases , l' équipe d' Hortobagyi au MD Anderson ( États-Unis )  nous apporte quelques éléments encourageants .
+Cette équipe a analysé la survie des patientes métastatiques en fonction des années du diagnostic des métastases en les groupant par tranches de cinq ans à_partir_de 1974 .
+Ces auteurs ont constaté une augmentation croissante de la survie des patientes métastatiques entre 1974 et 2000 et la courbe de survie s' élève nettement à partir des années 1990 avec une survie de l' ordre de 45 % à cinq ans à_partir_de 1995 .
+L' une des explications données par les auteurs est l' arrivée sur le marché de nouveaux médicaments avec en_particulier dans les années 1990 les taxanes et les différentes anti-aromatases .
+Parallèlement , il faut rajouter les progrès des méthodes de diagnostic avec le scanner dans les années 1980 , l' IRM dans les années 1990 et la TEP Scan en 2000 .
+Avec ces technologies d' imagerie moderne , il nous paraît vraiment difficile de ne pas utiliser aussi le CA 15.3 qui constitue un signal d' alerte nous permettant d' utiliser les nouveaux moyens de diagnostic le plus précocement possible et par_là même les nouveaux traitements .
+Il nous parait donc nécessaire de revisiter ce marqueur en déterminant peut-être de façon plus ciblée les populations à surveiller , en fonction de la valeur du CA 15.3 initial et de la présence ou non de récepteurs hormonaux et des facteurs de risque métastatique , avec un rythme de surveillance des patientes qui reste aussi à mieux préciser .
+6. Place du CA 15.3 dans le suivi thérapeutique des métastases
+Dans ce domaine les choses sont plus claires et ne se sont pas vraiment modifiées ces dernières années .
+Il existe une très bonne corrélation entre l' évolution clinique et celle des marqueurs tumoraux ACE et CA 15.3 dans plus de 80 % des cas .
+Une discordance est observée dans 20 % des cas , avec l' effet pointe ( spike effect ) connu qui se caractérise par une élévation paradoxale du marqueur du a un relargage initial en début de traitement .
+Il existe également des dissociations entre les variations de la concentration du CA 15.3 et le tableau clinique qui correspondent à une réduction de la lésion initiale traitée avec l' apparition d' une nouvelle lésion .
+C' est pourquoi l' évaluation des réponses thérapeutiques doit se faire à_la_fois sur la base de la concentration du marqueur et sur les critères radiologiques .
+En l' absence de lésions évaluables comme c' est le cas assez souvent dans les lésions osseuses , le WGTM ( Working Group in Tumor Markers Criteria )  a défini des critères relatifs aux variations du marqueur .
+7. Association de marqueurs tumoraux
+Aucun autre marqueur ne s' est révélé supérieur au CA 15.3. Il existe d' autres marqueurs dérivés de la famille des mucines comme le CA 27 - 29 le CA 549 ou le MCA et mais leur sensibilité clinique reste inférieure à celle du CA 15.3. L' ACE est très ubiquitaire et peu spécifique et il s' élève dans diverses situations et localisations tumorales .
+Le TPA , antigène tissulaire polypeptidique dérivé de cytokératines , est un marqueur ubiquitaire non spécifique de tissu qui a été présenté sans preuve formelle comme un marqueur lié au degré de prolifération tumorale .
+Si l' on associe le CA 15.3 à l' ACE ou au TPS on obtient un gain en sensibilité de 5 à 10 % mais on perd en spécificité .
+En revanche il existe un accord d' expert pour doser l' ACE ou le TPA si l' on veut s' appuyer sur des paramètres biologiques pour juger de l' efficacité d' un traitement .
+8. Conclusion
+Les progrès obtenus grâce aux traitements et moyens de diagnostic actuels doivent nous encourager à utiliser les dosages de marqueurs tumoraux comme le CA 15.3 qui permettent dans un bon nombre de cas de dépister une évolution métastatique d' un cancer du sein avec une faible masse tumorale ou avant l' apparition des symptômes .
+Si les traitements actuels sont orientés en_partie par les caractéristiques biologiques des tumeurs ( récepteurs hormonaux , HER-2 ) et les facteurs de risque ( atteinte ganglionnaire , taille tumorale , grade histologique , âge ) , il apparaît nécessaire de réfléchir sur des modalités de surveillance particulière en fonction de ces même critères : CA 15.3 pour les patientes dont la tumeur contient des récepteurs hormonaux , ou bien en cas de CA 15.3 initial élevé , HER-2 sérique pour les patients ayant une tumeur HER-2 positive .
+Les modalités de surveillance des patientes traitées pour un cancer du sein ne sont pas optimisées , il faut poursuivre nos efforts et nos recherches dans ce sens

@@ -1,0 +1,133 @@
+Treatment options for patients with advanced breast cancer are many and varied and include endocrine therapies , chemotherapies and novel targeted therapies such as trastuzumab.  Patients may also receive investigational agents in the context of clinical trials at the discretion of their physician .
+Treatment choice depends on patient age , menopausal status and disease characteristics .
+Endocrine therapies are usually the treatment of choice for patients with potentially hormone-sensitive disease and include aromatase inhibitors ( AIs ; anastrozole , letrozole and exemestane ) ,  anti-oestrogens ( tamoxifen and the new oestrogen receptor [ ER ] antagonist , fulvestrant )  and luteinising hormone releasing hormone agonists.9 Mono- or polychemotherapy provides the mainstay of treatment for patients with hormone receptor-negative tumours as well as for those with very aggressive disease or whose tumours no longer respond to endocrine therapy. 
+Over the past 5 years , treatment strategies for hormone-sensitive early breast cancer have changed dramatically , with tamoxifen being superseded by AIs,10 and the introduction of other novel agents.11 In contrast to the early breast cancer setting where well-established consensus guidelines are available,12 uniform guidelines for the management of patients with advanced disease are currently lacking .
+Guidelines can be an important tool in treatment decision making , but those currently available for advanced breast cancer vary geographically , and may not adequately address specific patient groups.  The changes in clinical practice in the early disease setting and the lack of uniform guidelines have raised questions about optimal treatment strategies for patients who subsequently develop advanced disease .
+For now , physician and patient must jointly explore and select the most appropriate therapy from the complex array of options available .
+Aims of this study .
+The primary aim of this study was to establish the level of need among breast cancer physicians for the development of new advanced breast cancer treatment guidelines .
+Secondary aims were : to assess the impact of disease recurrence on both physicians and patients ; to gain understanding of the goals of treatment and the factors influencing physicians in their treatment decisions for patients with advanced breast cancer ; to gain understanding of the information sources utilised and the role of current treatment guidelines in the decision-making process ; and to gain insight into potential areas of improvement for existing guidelines .
+Methods .
+An internet-based survey was conducted between 6 and 23 February 2006 .
+Breast cancer physicians were directed to the survey via the European School of Oncology ( ESO ) website .
+Responses were analysed after approximately 200 physicians had completed the survey .
+A copy of the survey used in this study is included in the Supplementary materials .
+Survey respondents and their patients with breast cancer .
+Survey respondents stated that they were fully qualified physicians treating patients with breast cancer .
+Respondents were then asked to confirm the country / region in which they were based and the specialist role ( s ) they had in the management of patients with breast cancer .
+It was also ascertained how many patients with breast cancer each physician saw over the course of a usual year and the proportion of these patients who had early ( stage 1 / 2 ) or advanced ( stage 3 / 4 ) disease .
+The emotional impact of disease recurrence .
+Physicians were asked to think about their patients who had recently progressed from early- to advanced-stage breast cancer .
+They were then asked to consider whether these patients were less , about the same or more distressed at progression than when they were newly diagnosed with early disease .
+Again just considering these patients , physicians were asked whether they themselves were less , about the same or more distressed than when their patients had been diagnosed with early disease .
+For both questions they were also asked to provide details as to why the emotional impact was less or more ( as appropriate ) .
+From this stage onwards , the survey asked physicians to think specifically about patients who had recently progressed from early- to advanced-stage breast cancer .
+Treatment goals and factors influencing treatment decisions for patients with advanced breast cancer .
+In the next section , physicians were asked to rate a list of potential treatment goals for these patients .
+Options included : improve overall survival , delay disease progression , improve quality of life , achieve a response and other ( physicians were asked to specify ) .
+Information sources utilised by physicians to support their treatment decisions for patients with advanced breast cancer .
+Physicians were asked to rate a list of patient factors that may play a role in the treatment decisions they make for these patients .
+Factors included the patient 's : age , menopausal status , treatment history , ER status , human epidermal growth factor receptor 2 ( HER2 ) status , performance status , size of tumour , degree of nodal involvement , number of metastases , sites of metastases , comorbidities , psychological state , social circumstances and distance from hospital .
+Physicians were then asked to rate a list of treatment factors that may play a role in their decisions .
+Factors included the treatment 's : efficacy , side effects , contraindications , cost , ease of use , formulation / administration , need for hospitalisation , their own personal experience and whether it was endorsed by guidelines or used as part of a hospital 's policy .
+For each question , they could also specify up to three additional factors .
+Role of guidelines in the treatment of advanced breast cancer .
+Physicians were asked to rate how often they used various information sources to aid treatment decisions for these patients .
+Sources included : work colleagues , opinion leaders , medical conferences , medical press , lay press , treatment guidelines , sales representatives , text books , the internet and patients .
+They were also given the option of including and rating up to three additional information sources .
+Physicians stating that they never used guidelines were asked if they were aware of any treatment guidelines for patients with advanced breast cancer and to list any that they had heard of .
+They were also asked to give reasons why they did not use any of these guidelines .
+If the physician frequently or occasionally used treatment guidelines , they were asked to name the guidelines that they used .
+All physicians except those stating that they never used guidelines were asked whether or not they agreed with a list of reasons why guidelines could be useful .
+Those stating that they did not currently use guidelines but who thought that they may be useful , were also asked about the importance of the following reasons .
+The list of reasons why guidelines could be useful included : to confirm their treatment decision , to keep them aware of new drugs , to keep them aware of new clinical data , to keep them aware of new combinations/sequences / dosing regimens , to reassure them , to reassure their patient , to justify their approach to payers , to remind them of the available options , to prompt further patient evaluation and to protect them from legal action .
+Potential improvements to existing treatment guidelines .
+Physicians who frequently or occasionally used treatment guidelines were also asked to rate the importance of a list of potential improvements to existing guidelines .
+Potential improvements to guidelines included : being updated more frequently , being more specific for particular groups of patients , including more clinical data , including better summary pages , being endorsed by recognised international opinion leaders , being endorsed by cancer organisations such as ESO and being easier to find .
+They were also given the option to list any other improvements that they would recommend .
+Results Survey respondents and their patients with breast cancer .
+In total , 198 questionnaires were completed .
+More than half ( 58% ) of respondents were European , 16% were from Asia and 15% from South America , with the remainder being split between North America ( 6% ) , Africa ( 4% ) and Australasia ( 1% ) .
+Respondents encompassed all areas of medical personnel involved in the treatment of breast cancer , including surgeons , oncologists and radiologists .
+Just over one-third ( 36% ) of respondents stated that more than 50% of their patients were being treated for breast cancer , while overall approximately 25% of breast cancer patients being treated had advanced disease .
+Full-size image ( 37K )
+Fig. 1. The survey respondent 's roles in the management of breast cancer patients ( n=198 ) .
+View Within Article .
+The emotional impact of disease recurrence .
+The results of the survey showed that disappointment / distress levels were greater at first recurrence than at first diagnosis of early breast cancer for 67% of physicians and 65% of their patients .
+It was stated as being about the same for 26% of physicians and 30% of patients , with only 9% and 3% , respectively , stating that distress levels were less than at first diagnosis of early breast cancer .
+These data indicate that both physicians and patients find first recurrence distressing and difficult .
+The main reasons given by physicians as to why they found recurrence more disappointing than first diagnosis were : - It raises questions over the first treatment they prescribedwas it adequate ?
+Have they let the patient down ?
+- It results in a feeling of personal failure .
+- Disease is now incurable .
+- There are fewer treatment options available to offer your patient .
+- It is difficult to tell patients that their disease has recurred .
+- Physicians have developed a closer relationship with their patients by this stage .
+For the physicians who found it less disappointing than first diagnosis the main reason was that recurrence had always been acknowledged as a possibility .
+There were similarities in the main reasons given by physicians as to why their patients found this event more distressing than first diagnosis , these included : - The knowledge that there is now no cure .
+- The fear of death , particularly as they perceive death from cancer as being very unpleasant .
+- The patient 's confidence in both their physician and treatment is shaken and may lead to distrust in both .
+- They expect to be cured of early breast cancer and so recurrence is a shock and causes feelings of disappointment and anxiety .
+- The patient may develop depression .
+- The patient fears the next treatment ( e.g. because of worse side effects , poor quality of life and no possible cure ) .
+For the physicians who said that their patients found it less distressing than first diagnosis , the main reasons given were that some patients are not told about the recurrence , some have already accepted that they have cancer and some patients will have already been told to expect recurrence .
+Treatment goals and factors influencing treatment decisions for patients with advanced breast cancer .
+At this stage of the disease , the goals of the treating physician are to improve the patient 's quality of life , delay the progression of the disease and to improve overall survival .
+Treatment decisions therefore centre on efficacy ( 98.0% of respondents ) , potential side effects ( 96.0% ) , ER status ( 95.5% ) , sites of metastases ( 95.0% ) , contraindications ( 93.5% ) and HER2 status ( 93.0% ) .
+In addition , 85.9% of responding physicians stated that it was important that treatments were endorsed by guidelines .
+Full-size image ( 22K )
+Fig. 2. Treatment goals for physicians treating patients with advanced breast cancer , ranked in order of importance ( n=198 ) .
+View Within Article .
+Table 1. .
+Factors influencing physicians when they are making treatment decisions for patients with advanced breast cancer ( n=198 )
+Importance of factorNo response ImportantNeutralNot considered Patient factors , n ( % ) ER status189 ( 95.5 ) 2 ( 1.0 ) 07 ( 3.5 ) Sites of metastases188 ( 95.0 ) 1 ( 0.5 ) 2 ( 1.0 ) 7 ( 3.5 ) HER2 status184 ( 93.0 ) 6 ( 3.0 ) 3 ( 1.5 ) 5 ( 2.5 ) Treatment history178 ( 89.9 ) 10 ( 5.1 ) 1 ( 0.5 ) 9 ( 4.5 ) Performance status178 ( 89.9 ) 13 ( 6.6 ) 1 ( 0.5 ) 6 ( 3.0 ) Comorbidities176 ( 88.9 ) 15 ( 7.6 ) 07 ( 3.5 ) Age172 ( 86.9 ) 19 ( 9.6 ) 2 ( 1.0 ) 5 ( 2.5 ) Menopausal status171 ( 86.4 ) 21 ( 10.6 ) 1 ( 0.5 ) 5 ( 2.5 ) Number of metastases166 ( 83.8 ) 25 ( 12.6 ) 2 ( 1.0 ) 5 ( 2.5 ) Psychological state152 ( 76.8 ) 39 ( 19.7 ) 1 ( 0.5 ) 6 ( 3.0 ) Degree of nodal involvement138 ( 69.7 ) 39 ( 19.7 ) 14 ( 7.1 ) 7 ( 3.5 ) Size of tumour127 ( 64.1 ) 53 ( 26.8 ) 13 ( 6.6 ) 5 ( 2.5 ) Social circumstances102 ( 51.5 ) 73 ( 36.9 ) 16 ( 8.1 ) 7 ( 3.5 ) Distance from home to hospital70 ( 35.4 ) 87 ( 43.9 ) 35 ( 17.7 ) 6 ( 3.0 )
+Drug factors Efficacy194 ( 98.0 ) 1 ( 0.5 ) 03 ( 1.5 ) Side effects190 ( 96.0 ) 4 ( 2.0 ) 2 ( 1.0 ) 2 ( 1.0 ) Contraindications185 ( 93.5 ) 9 ( 4.5 ) 1 ( 0.5 ) 3 ( 1.5 ) Endorsed by guidelines170 ( 85.9 ) 24 ( 12.1 ) 2 ( 1.0 ) 2 ( 1.0 ) Personal experience149 ( 75.3 ) 39 ( 19.7 ) 7 ( 3.5 ) 3 ( 1.5 ) Ease of use143 ( 72.2 ) 49 ( 24.7 ) 4 ( 2.0 ) 2 ( 1.0 ) Need for hospitalisation133 ( 67.2 ) 53 ( 26.8 ) 10 ( 5.1 ) 2 ( 1.0 ) Cost127 ( 64.1 ) 50 ( 25.3 ) 18 ( 9.1 ) 3 ( 1.5 ) Formulation / administration116 ( 58.6 ) 72 ( 36.4 ) 8 ( 4.0 ) 2 ( 1.0 ) Part of a hospital policy108 ( 54.5 ) 63 ( 31.8 ) 24 ( 12.1 ) 3 ( 1.5 )
+Full-size table .
+ER , oestrogen receptor ; HER2 , human epidermal growth factor receptor 2. .
+View Within Article .
+Information sources utilised by physicians to support their treatment decisions for patients with advanced breast cancer and the role of guidelines .
+Most respondents used the currently available treatment guidelines frequently ( 72% ) or occasionally ( 24% ) .
+Other key sources of information were medical conferences ( 97.5% ) , the internet ( 95.5% ) and the medical press ( 93.5% ) .
+The most commonly used guidelines included formal publications ( e.g. National Comprehensive Cancer Network [ NCCN ] guidelines ) and publications from specific meetings ( e.g. American Society of Clinical Oncology [ ASCO ] , St Gallen and San Antonio Breast Cancer Symposium [ SABCS ] ) .
+These were primarily used as reminders of the available options ( 85.8% ) and to confirm a treatment decision ( 94.2% ) .
+Table 2. .
+Information sources utilised by breast cancer physicians to support their treatment decisions for patients with advanced breast cancer ( n=198 )
+Source , n ( % ) Frequency of useNo response FrequentlyOccasionallyNever Treatment guidelinesa144 ( 72.0 ) 48 ( 24.0 ) 8 ( 4.0 ) 0 Medical conferences143 ( 72.2 ) 50 ( 25.3 ) 05 ( 2.5 ) Internet136 ( 68.7 ) 53 ( 26.8 ) 3 ( 1.5 ) 6 ( 3.0 ) Medical press132 ( 66.7 ) 53 ( 26.8 ) 6 ( 3.0 ) 7 ( 3.5 ) Work colleagues92 ( 46.5 ) 93 ( 47.0 ) 5 ( 2.5 ) 8 ( 4.0 ) Text books91 ( 46.0 ) 86 ( 43.4 ) 13 ( 6.6 ) 8 ( 4.0 ) Opinion leaders77 ( 38.9 ) 103 ( 52.0 ) 7 ( 3.5 ) 11 ( 5.6 ) Patients21 ( 10.6 ) 78 ( 39.4 ) 88 ( 44.4 ) 11 ( 5.6 ) Lay press13 ( 6.6 ) 64 ( 32.3 ) 102 ( 51.5 ) 19 ( 9.6 ) Sales representatives11 ( 5.6 ) 103 ( 52.0 ) 71 ( 35.9 ) 13 ( 6.6 )
+Full-size table .
+a Two physicians gave this answer twice , making the total responders for this question 200 rather than 198 .
+The percentages have been adjusted accordingly .
+View Within Article .
+Full-size image ( 50K )
+Fig. 3. The reasons why treatment guidelines are useful to physicians ( n=198 ) .
+View Within Article .
+Potential improvements to existing treatment guidelines .
+Responses suggested that breast cancer physicians would welcome improvements to existing guidelines , including making them easier to find and having more frequent updates , endorsements from cancer organisations and opinion leaders , and better specificity to particular patient groups .
+In addition , respondents would like to see a worldwide consensus on treatment options , with the development of global guidelines including specific recommendations for the elderly , those with bone metastases , pregnant women and male patients .
+Guidelines for patients with comorbidities , such as renal failure , psychiatric problems or other malignancies , would also be useful .
+The responding physicians in this survey indicated a preference for easy access to a large amount of information , and many suggested the use of interactive computer technology , and e-mail updates .
+Full-size image ( 44K )
+Fig. 4. Potential improvements for existing treatment guidelines ( n=198 ) .
+View Within Article .
+Discussion and conclusions .
+The results of this survey suggest that the degree of emotional impact on both breast cancer physicians and patients at the time of first recurrence is greater than at first diagnosis .
+Our results suggest that this is due to both the emotional impact of recurrence itself as well as the dilemma physicians face regarding how to choose the most appropriate treatment for patients with advanced breast cancer .
+That levels of distress are greater for both parties at this stage is perhaps unsurprising , because for patients in this situation our survey suggests that recurrence means death , while for physicians recurrence implies failure .
+On both sides , questions are likely to be raised about the adequacy and efficacy of previous treatment and confidence in the physician and future therapies may be reduced .
+In line with previous reports , the results of this survey highlight that the treatment goal for the physician treating patients with advanced breast cancer is to improve quality of life , while extending overall survival.17 This point , along with those raised above , suggest that greater efforts should be made to research treatment options for patients with advanced breast cancer and that the results of such trials should be disseminated effectively , perhaps through the use of guidelines .
+In addition , the use of new technologies , such as interactive computer programs and e-mail updates , may help ensure that physicians are fully able to make appropriate and informed decisions regarding the optimum treatment strategies for their patients with advanced breast cancer .
+This survey showed that treatment guidelines are a key source of information supporting the treatment decisions made for patients with advanced breast cancer , ranking alongside medical conferences , the internet and the medical press .
+Approximately half of the survey respondents also listed patients as a source of information .
+This may in part reflect the fact that patients with breast cancer are often very well informed of the available treatment options and thus may have greater involvement in the treatment decision-making process than other patient groups .
+The fact that patient-centred care has been shown to affect treatment adherence may also have influenced responses.18 While some advanced breast cancer guidelines are currently available ( including both formal NCCN publications and regional guidelines ) ,  these are limited in their scope and are less consistent than those available for early breast cancer .
+Respondents in this survey felt that improvements could be made through the development of uniform , global guidelines for advanced breast cancer detailing treatment recommendations for specific patient groups .
+Although there are limitations to any survey based on a relatively small sample size due to the responses and interpretation of the questions being potentially subjective , it appears that these results are in line with current thinking in the field .
+Indeed , since the time of this survey , efforts have been initiated by the ESO together with the European Breast Cancer Conference to produce global metastatic breast cancer ( MBC ) guidelines through the creation of the ESO-MBC Task Force.20 An initial set of 12 recommendations for the management of patients with MBC has now been published.21 Interestingly this article reaffirms the notion that the treatment of MBC is considered an art , as there are few approved standards of care , particularly after first-line treatment has failed .
+Encouragingly , the factors affecting treatment choice viewed as important in the current survey are broadly in agreement with those included in the current ESO-MBC recommendations .
+The results of the present survey reinforce the importance of this initiative and the development of more detailed guidelines from the Task Force is awaited with interest .
+Conflicts of interest .
+The author , Dr. Andrew Wardley , has received honoraria from GlaxoSmithKline , Roche , AstraZeneca and Novartis , and speaker fees from Roche , AstraZeneca , Novartis and Amgen .
+In addition , he has received travel support from Roche , AstraZeneca , Novartis , Amgen and GlaxoSmithKline .
+Acknowledgements .
+This research was funded by AstraZeneca and conducted in collaboration with the ESO .
+The author would like to thank Dr. Sally Mitchell from Complete Medical Communications , who provided medical writing support funded by AstraZeneca .

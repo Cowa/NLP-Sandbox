@@ -1,0 +1,246 @@
+In Taiwan , breast cancer is the second most occurring cancer and the death rate from breast cancer is increasing each year ( [ Cancer Registry Annual Report , 2004 ] and [ Overview of Public Health , 1998 ] ) .
+Almost 64.1% of women with breast cancer are diagnosed before the age of 50 and 29.3% of women with breast cancer are diagnosed before the age of 40 ( Cheng , Tsou , Liu , Jian , 2000 ) .
+On the average , the women diagnosed with breast cancer in Taiwan are younger than those in the US .
+Some recognized factors will increase the risk of breast cancer ; however , the causes are still unknown .
+Hence , it is difficult for medical professionals to treat breast cancer with the appropriate preventive methods  .
+Yu , Rohan , Cook , Howe , and Miller ( 1992 ) investigated the risk factors for fibroadenoma in a case-control study involving 117 fibroadenoma cases in Australia .
+This study shows that fibroadenoma shared some risk factors with breast cancer .
+It is estimated that DNA viruses , which emerge as major causal factors , contribute 20% to the occurrence of human cancers ( Dimmock Primrose , 1994 ) .
+DNA viruses , as causes , are closely related to the human cancers as part of the high-risk factors .
+These DNA viruses include specific types of HSV-1 ( herpes simplex virus type 1 ) , EBV ( Epstein-Barr virus ) , CMV ( cytomegalovirus ) , HPV ( human papillomavirus ) , and HHV-8 ( human herpesvirus-8 ) ( Dimmock Primrose , 1994 ) .
+Wu_et_al.  studied biological purging of breast cancer cells using an attenuated replication-competent HSV-1 in human hematopoietic stem cell transplantation .
+Hu_et_al.  developed a second generation of genetically modified HSV-1 with paclitaxel in the treatment of breast cancer in vitro .
+Wang and Vos studied a hybrid herpesvirus infectious vector , pH300 , based on HSV-1 and EBV for gene transfer to human cells in vitro and in vivo .
+In other studies , Liu_et_al.  indicated that the EBV hybridoma technique offers several advantages over the other hybridoma systems for generating anti-breast cancer human monoclonal antibodies .
+Katano_et_al.  established a Breast-M and an EBV-infected B-cell line ( Hairy-BM ) from breast tumor tissue .
+Also , Yip , Hawkins , Clark , and Ward ( 1997 ) used the EBV-transformed peripheral blood mononuclear cells from individuals with breast cancer for the construction of human immunoglobulin gene libraries .
+Fina_et_al.  studied the frequency and genome load of EBV in 509 breast cancers from various geographical areas .
+Recently , Grinstein_et_al.  demonstrated EBV in carcinomas of the breast , lung , and other sites .
+Xue , Lampert , Haldane , Bridger , and Griffin ( 2003 ) also studied the EBV gene in human breast cancer .
+Then Huang , Chen , Hutt-Fletcher , Ambinder , and Hayward ( 2003 ) suggested that sporadic lytic EBV infection might contribute to polymerase chain reaction based ( PCR-based ) detection of EBV in traditionally non-virally associated epithelial malignancies .
+In addition , Ribeiro-Silva , Ramalho , Garcia , and Zucoloto ( 2004 ) studied whether there is a relationship between latent infection with EBV and p53 and p63 expression in breast carcinomas .
+Lastly , Baeyens_et_al.  compared the radiation response in EBV cell lines derived from breast cancer patients with or without a BRCA1 mutation and revealed no significant difference .
+In the previous studies of CMV for breast cancer , Strender_et_al.  studied a group of 17 patients who had undergone modified radical mastectomy for breast cancer .
+Lee , Reimer , Oh , Campbell , and Schnitzer ( 1998 ) found that the caveolin expression was significantly reduced in human breast cancer cells provided that the caveolin cDNA linked to the CMV promoter was transfected into human mammary cancer cells .
+Still , Hamilton , Vince , Wolfman , and Cowell ( 1999 ) indicated that the constitutive expression of the gene under the control of CMV promoter in mouse fibroblasts results in cellular transformation and anchorage-independent growth .
+Svane_et_al.  analyzed the impact of high-dose chemotherapy on antigen-specific T cells responsive to CMV immunity in breast cancer patients .
+Akbulut , Zhang , Tang , and Deisseroth ( 2003 ) studied the cytotoxic effect of replication-competent adenoviral vectors carrying l-plastin promoter regulated E1A and cytosine deaminase genes on cancers of breast , ovary , and colon .
+A similar vector driven by the CMV promoter has also been constructed as a control .
+This treatment resulted in decreased tumor size and decreased tumor cell growth rate .
+Ma_et_al.  demonstrated that the inhibition of the PKB-dependent survival pathway could promote apoptosis and thermosensitization in malignant breast cancer cells , with relative sparing of their normal counterpart .
+Zhu_et_al.  showed that CXCR4 had a low expression of luciferase ( 0.32% ) compared to that of the CMV promoter in mice live in vivo .
+The CXCR4 was proven to be a good candidate as a tissue-specific promoter for cancer gene therapy for melanoma and breast cancers .
+Recent studies have revealed a possible role for HPV in the pathogenesis of breast cancer , although no definitive interaction was observed between types of oral contraceptives or with any recognized risk factor for breast cancer .
+Oral contraceptives may act as a promoter for HPV-induced carcinogenesis ( La Vecchia , Tavani , Franceschi , Parazzini , 1996 ) .
+Chang_et_al.  demonstrated a high frequency of abnormalities of this gene in human breast cancer .
+They found that there was no genomic deletion or rearrangement in spite of the presence of abnormal transcripts and no definite relationship between the abnormal transcripts and HPV infection .
+Liu_et_al.  showed that 6 out of 17 ( 35% ) types of breast cancers were identified as being HPV positive in the PCR / dot blot analysis with both the HPV E6-E7 and L1 primer sets .
+Widschwendter , Brunhuber , Wiedemair , Mueller-Holzner , and Marth ( 2004 ) suggested that HPV DNA might be transported from the original site of infection to the breast tissue by the bloodstream , and that it possibly existed in the carcinogenesis of breast neoplasia in some patients .
+Finally , the researches for HHV-8 and breast cancer have few citations in the literature .
+Klein and Klein studied the surveillance against tumor .
+HHV-8 is a relevant viral agent in this context .
+Andres ( 2005 ) found that Kaposi 's sarcoma had a high incidence in the renal-transplanted population , and that it was related to HHV-8 .
+From the literature reviews , it can be seen that it is important to evaluate the associations among DNA viruses , HSV-1 , EBV , CMV , HPV , and HHV-8 with breast cancer and fibroadenoma .
+In order to obtain the relationship between DNA viruses and breast tumors , this paper uses the support vector machines ( SVM ) to find the pertinent bioinformatics .
+Support vector machines were first suggested by Vapnik ( 1995 ) and have recently been used in a range of problems including pattern recognition ( Pontil Verri , 1998 ) , bioinformatics ( Yu , Ostrouchov , Geist , Samatova , 2003 ) , text categorization  , and cancer diagnosis ( [ Lee and Lee , 2003 ] , [ Lee et al. , 2000 ] and [ Liu et al. , 2003 ] ) .
+When using SVM , two problems are confronted : how to choose the optimal input feature subset for SVM and how to set the best kernel parameters .
+These two problems are crucial because the feature subset choice influences the appropriate kernel parameters and vice versa ( Frhlich Chapelle , 2003 ) .
+Feature selection is an important issue in building classification systems .
+It is advantageous to limit the number of input features in a classifier in order to have a good predictive and less computationally intensive model  .
+With a small feature set , the explanation of rationale for the classification decision can be more readily realized .
+In addition to the feature selection , proper model parameters setting can improve the SVM classification accuracy .
+The parameters that should be optimized include penalty parameter C and the kernel function parameters such as the gamma ( ) for the radial basis function ( RBF ) kernel .
+To design a SVM , one must choose a kernel function , set the kernel parameters and determine a soft margin constant C. The grid algorithm is an alternative to finding the best C and gamma when using the RBF kernel function ( Hsu Lin , 2002 ) .
+To explore five DNA viruses - HSV-1 , EBV , CMV , HPV , and HHV-8 - affecting the breast tumor diagnosed by using support vector machines , this study tried grid search to find the best SVM model parameters and used F-score calculation to select input features .
+This paper is organized as follows .
+Section 2 describes basic SVM concepts .
+Section 3 describes three SVM-based strategies used in this research .
+Section 4 presents the experimental results from using the proposed method to diagnose the real world breast cancer data set .
+Section 5 gives remarks and provides a conclusion .
+2. Basic concepts of SVM classifier .
+In this section , we will briefly describe the basic SVM concepts for typical two-class classification problems .
+These concepts can also be found in ( [ Kecman , 2001 ] , [ Scholkopf and Smola , 2000 ] and [ Cristianini and Shawe-Taylor , 2000 ] ) .
+Given a training set of instance-label pairs ( xi , yi ) , i = 1 , 2 , , m where xi Rn and yi +1 , 1} , SVM finds an optimal separating hyperplane with the maximum margin by solving the following optimization problem :
+( 1 )
+It is known that to solve this quadratic optimization problem one must find the saddle point of the Lagrange function :
+( 2 )
+where the i denotes Lagrange multipliers , hence i 0. The search for an optimal saddle point is necessary because the Lp must be minimized with respect to the primal variables w and b and maximized with respect to the non-negative dual variable i .
+By differentiating with respect to w and b , and introducing the Karush - Kuhn - Tucker ( KKT ) conditions for the optimum constrained function , then is transformed to the dual Lagrangian LD ( ) :
+( 3 )
+To find the optimal hyperplane , a dual Lagrangian LD ( ) must be maximized with respect to non-negative i .
+The solution i for the dual optimization problem determines the parameters w and b of the optimal hyperplane .
+Thus , the optimal hyperplane decision function f ( x ) = sgn ( w x + b ) can be written as .
+( 4 )
+In a typical classification task , only a small subset of the Lagrange multipliers i usually tends to be greater than zero .
+Geometrically , these vectors are the closest to the optimal hyperplane .
+The respective training vectors having non-zero i are called support vectors , as the optimal decision hyperplane f ( x , , b ) depends on them exclusively .
+The above concepts can also be extended to the non-separable case ( linear generalized SVM ) .
+In terms of these slack variables , the problem of finding the hyperplane that provides the minimum number of training errors ( i.e. , to keep the constraint violation as small as possible ) has the formal expression as follows :
+( 5 )
+where C is a penalty parameter on the training error , and i is the non-negative slack variables .
+SVM finds the hyperplane that provides the minimum number of training errors ( i.e. , to keep the constraint violation as small as possible ) .
+This optimization model can be solved using the Lagrangian method , which is almost equivalent to the method for solving the optimization problem in the separable case .
+One must maximize the dual variables Lagrangian :
+( 6 )
+To find the optimal hyperplane , a dual Lagrangian LD ( ) must be maximized with respect to non-negative i under the constraints and 0 i C. The penalty parameter C , which is now the upper bound on i , is determined by the user .
+Finally , the form of optimal hyperplane decision function is the same as ( 4 ) .
+The nonlinear SVM maps the training samples from the input space into a higher-dimensional feature space via a mapping function .
+The kernel function k ( xi , xj ) defines an inner product as k ( xi , xj ) = ( xi ) ( xj ) .
+In the dual Lagrange ( 6 ) , the inner products are replaced by the kernel function , and the nonlinear SVM dual Lagrangian LD ( ) ( 7 ) is similar with that in the linear generalized case .
+( 7 )
+Followed by the steps described in the linear generalized case , we obtain the decision function of the following form :
+( 8 )
+The kernel function we explored in our experiments was the radial basis function ( RBF ) which is defined by ( 9 ) .
+( 9 )
+k ( xi,xj ) =exp ( -||xi-xj||2 )
+3. Experiments and methodologies3.1 .
+Data collection and data partition .
+The source of 80 data points ( tissue samples ) , including 52 specimens of non-familial invasive ductal breast cancer from women and 28 mammary fibroadenomas , is the Chung-Shan Medical University Hospital  .
+After using PCR and Southern hybridization to screen for the presence of -globin , it was discovered that the 80 specimens screened were DNA virus positive / negative for the presence of -globin , the internal control .
+To guarantee that the present results are valid and can be generalized for making predictions regarding new data , the data set is further randomly partitioned into training and independent testing sets via a stratified 5 fold cross validation .
+Each of the 5 subsets acts as an independent holdout test set for the model trained with the rest of the 4 subsets .
+The advantages of k-fold cross validation are that the impact of data dependency is minimized and the reliability of the results can be improved  .
+In addition , the classification models are developed with a huge portion of the accessible data ( 80% in this case ) and all the data is utilized to test the trained models .
+A pair of training and testing set is called a fold or a group in this study .
+As shown in Table 1 , due to the number of cases ( positive : 52 , negative : 28 ) that can not be divided by 5 ; the size of each fold is not the same - the number of cases for fold #5 is 20 , and for the others it is 15. .
+Table 1. .
+The data set is further randomly partitioned into training and independent testing sets via a stratified 5 fold cross validation .
+Size of training setSize of testing set Fold #16515 Fold #26515 Fold #36515 Fold #46515 Fold #56020 .
+Full-size table .
+View Within Article .
+3.2. Feature selection .
+Feature selection is an important issue in building classification systems .
+It is advantageous to limit the number of input features in a classifier in order to have a good predictive and less computationally intensive model  .
+With a small feature set , the explanation of rationale for the classification decision can be more easily realized .
+In the area of medical diagnosis , a small feature subset means lower test and diagnosis costs .
+F-score ( Chen Lin , 2005 ) is a simple technique that measures the discrimination of two sets of real numbers .
+Given training vectors xk , k = 1 , 2 , , m , if the number of positive and negative instances are n+and n , respectively , then the F-score of the ith feature is defined as follows ( Chen Lin , 2005 ) :
+( 10 )
+where , , and are the averages of the ith feature of the whole , positive , and negative data sets , respectively ; is the ith feature of the kth positive instance , and is the ith feature of the kth negative instance .
+The numerator indicates the discrimination between the positive and negative sets , and the denominator indicates the one within each of the two sets .
+The larger the F-score is , the more likely this feature is more discriminative ( Chen Lin , 2005 ) .
+3.3. Setting model parameters .
+In addition to the feature subset selection , proper model parameters setting can improve the SVM classification accuracy .
+The parameters that should be optimized include penalty parameter C and the kernel function parameters such as the gamma ( ) for the radial basis function ( RBF ) kernel .
+To design an SVM , one must choose a kernel function , set the kernel parameters and determine a soft margin constant C. With the RBF kernel , there are two parameters to be determined in the SVM model : C and gamma ( ) .
+The grid search approach ( Hsu , Chang , Lin , 2003 ) is an alternative to finding the best C and gamma when using the RBF kernel function .
+In the grid search approach , pairs of ( C , ) are tried and the one with the best cross-validation accuracy is chosen .
+After identifying a better region on the grid , a finer grid search on that region can be conducted .
+To get good generalization ability , grid search approach uses a validation process to decide parameters .
+That is , for each of the k subsets of the data set D , create a training set T = D k , then run a cross-validation process as follows ( [ Chen and Lin , 2005 ] and [ Hsu et al. , 2003 ] ) :Step 1. Consider a grid space of ( C , ) with log2C 5,4,,12} and log2 12 , 13 , , 5} .
+Step 2. For each hyperparameter pair ( C , ) in the search space , conduct k-fold cross validation on the training set .
+Step 3. Choose the parameter ( C , ) that leads to the lowest CV ( cross validation ) error classification rate .
+Step 4. Use the best parameter to create a model as the predictor .
+Overall accuracy is averaged across all k partitions .
+These k accuracy values also give an estimate of the accuracy variance of the algorithms .
+3.4. Setting model parameters using grid search and selecting input features using F-score .
+To build diagnosis models successfully , this study tried a SVM-based strategy using grid search to optimize model parameters and F-score calculation to select input features ( see Fig. 1 ) .
+The procedure of grid search is the same as that shown in Section 3.3. A cross-validation approach with k = 5 was also conducted to avoid overfitting during training process .
+The overall testing accuracy is averaged across all k partitions .
+That is , for each of the k subsets of the data setD , create a training set T = D k , then run a cross-validation process as follows:Step 1. Calculate and sort the F-scores .
+Step 2. For the possible number of features f , f 1 , 2 , , m} , where m is the total number of features in a data set , do the following steps: ( 2.1 ) Keep the first f features according to the sorted F-scores .
+( 2.2 ) For the training set , calculate the average SVM accuracy using 5 fold cross validation ( 5-CV ) .
+Step 3. Choose the f with the largest average 5-CV accuracy .
+Retrain the SVM with the training set , and predict the test accuracy with the test set .
+Full-size image ( 47K )
+Fig. 1. The SVM-based strategy using grid search to optimize model parameters and F-score calculation to select input features .
+View Within Article .
+4. Experimental results and discussion4.1 .
+Experimental results .
+In this experiment , the importance of each feature is measured by F-score , and the SVM parameters are optimized by grid search .
+Table 2 and Fig. 2 show the relative feature importance with F-score for each feature on each fold .
+The average F-score for HSV-1 , HHV-8 , CMV , EBV , and HPV ( from high to low ) are 0.478937 , 0.302668 , 0.066613 , 0.002844 , and 0.001793 , respectively .
+The degree of breast tumor associated with DNA viruses , from high to low , are HSV-1 , HHV-8 , CMV , EBV , and HPV .
+Therefore , five models with a different number of features are constructed further to obtain the SVM classification models .
+As shown in Table 3 , the five models with different feature subsets based on F-score are HSV-1} , HSV-1 HHV-8} , HSV-1 HHV-8 CMV} , HSV-1 HHV-8 CMV EBV} , and HSV-1 HHV-8 CMV EBV HPV} .
+Table 2. .
+The relative feature importance with F-score .
+FeatureFold #1Fold #2Fold #3Fold #4Fold #5Average HSV-10.3885530.6464480.3342840.4100130.6153850.478937 HHV-80.3538460.2923080.2406150.3538460.2727270.302668 CMV0.1053210.0765550.0338160.0765550.0408160.066613 EBV0.0023110.0023110.0067120.0006170.0022680.002844 HPV0.001580.0002870.0058030.0002960.0010010.001793 .
+Full-size table .
+View Within Article .
+Full-size image ( 48K )
+Fig. 2. The relative importance of DNA virus based on the F-score .
+View Within Article .
+Table 3. .
+The five feature subsets based on the F-score .
+ModelNumber of selected featuresFeatures #11HSV-1 #22HSV-1 HHV-8 #33HSV-1 HHV-8 CMV #44HSV-1 HHV-8 CMV EBV #55HSV-1 HHV-8 CMV EBV HPV .
+Full-size table .
+View Within Article .
+Table 4 and Table 5 show the training and testing accuracies for the five models , each model achieved a high average overall accuracy of above 80% .
+Among the five models , two models with feature subsets , HSV-1 , HHV-8} and HSV-1 , HHV-8 , CMV} achieved the highest training and testing accuracy .
+For these two models , HSV-1 , HHV-8} and HSV-1 , HHV-8 , CMV} , Table 6 shows their details for the best SVM parameters ( c and gamma ) , training accuracy , and testing accuracy for each fold .
+Their average negative , positive , and overall hit rate for model achieved 0.71 , 0.946666 , and 0.866666 , respectively .
+Table 4. .
+Overall training accuracy for each feature subset .
+Number of selected featuresSVM + GS + FS : Training accuracy Fold #1Fold #2Fold #3Fold #4Fold #5AverageStandard deviation 178.461583.076976.923178.461583.333380.051262.636905 284.615487.692384.615486.153888.333386.282041.534166 384.615487.692384.615486.153888.333386.282041.534166 484.615487.692384.615486.153888.333386.282041.534166 584.615487.692386.153886.153888.333386.589721.306426 .
+Full-size table .
+View Within Article .
+Table 5. .
+Overall testing accuracy for each feature subset .
+Number of selected featuresSVM + GS + FS : Testing accuracy Fold #1Fold #2Fold #3Fold #4Fold #5AverageStandard deviation 10.8666670.6666670.9333330.8666670.70.8066670.104137 20.9333330.80.9333330.8666670.80.8666670.059628 30.9333330.80.9333330.8666670.80.8666670.059628 40.9333330.6666670.80.8666670.80.8133330.088443 50.9333330.6666670.80.8666670.80.8133330.088443 .
+Full-size table .
+View Within Article .
+Table 6. .
+Detail testing accuracy for feature subset of size 2 and 3
+Features size = 2Features size = 3 Negative hit ratioPositive hit ratioOverall hit ratioNegative hit ratioPositive hit ratioOverall hit ratio Fold #10.810.933330.810.93333 Fold #20.60.90.80.60.90.8 Fold #30.810.933330.810.93333 Fold #40.610.866670.610.86667 Fold #50.750.833330.80.750.833330.8 Average0.710.9466660.8666660.710.9466660.866666 .
+Full-size table .
+View Within Article .
+Only two or three attributes , HSV-1 , HHV-8} or HSV-1 , HHV-8 , CMV} , can achieve identical high accuracy .
+It is not necessary to include all features for the sake of cost saving .
+For accuracy , the positive hit ratio is higher than the negative hit ratio ; on average , the overall hit ratio is highly accurate .
+The results reveal that the SVM model has a good disarmament performance in diagnosing breast cancer according to our data set .
+4.2. Comparison with linear discriminate analysis .
+In this experiment , the importance of each feature and the classificatory accuracy is measured by Linear discriminate analysis ( LDA ) .
+Table 7 shows the significance of each attribute .
+The feature subset HSV-1 , HHV-8 , EBV} is included in the LDA model except for Fold #2 .
+The attribute EBV is slightly insignificant in the model of Fold #2 ; therefore , only two attributes HSV-1 , HHV-8} are included .
+Table 8 shows the details of training and testing accuracy for each fold .
+Their average negative , positive , and overall hit rate for the model achieved 0.71 , 0.893 , and 0.833 , respectively .
+Table 7. .
+The P-level of each attribute for LDA .
+HSV-1HHV-8EBVCMVHPV Fold #10.0000250.0001920.0133890.0714840.615577 Fold #21.56E070.0008010.0689390.1841080.309406 Fold #32.70E070.0000400.0022720.0510810.096721 Fold #40.0000020.0000280.0272270.0600130.243957 Fold #59.12E080.0011570.0206980.2894980.522833 .
+Full-size table .
+View Within Article .
+Table 8. .
+Training and testing accuracy for LDA .
+TrainingTesting Negative hit ratioPositive hit ratioOverall hit ratioNegative hit ratioPositive hit ratioOverall hit ratio Fold #169.5652292.8571484.615390.8001.0000.933 Fold #273.9130490.4761984.615390.6000.9000.800 Fold #386.9565288.0952487.692310.8000.9000.867 Fold #471.4285794.2307786.250000.6001.0000.867 Fold #570.0000097.5000088.333340.7500.6670.700 Average74.3726792.6318786.301290.7100.8930.833 .
+Full-size table .
+View Within Article .
+Table 9 shows that the accuracy of SVM is slightly superior to the accuracy of LDA .
+For the selected features , SVM includes HSV-1 , HHV-8 , CMV} or HSV-1 , HHV-8} , while LDA includes HSV-1 , HHV-8 , EBV} or HSV-1 , HHV-8} .
+Table 9. .
+Comparison summary between SVM and LDA .
+Negative hit ratioPositive hit ratioOverall hit ratioSelected features SVM0.7100.9470.867HSV-1 , HHV-8 , CMV} or HSV-1 , HHV-8} LDA0.7100.8930.833HSV-1 , HHV-8 , EBV} or HSV-1 , HHV-8 }
+Full-size table .
+View Within Article .
+5. Discussion and conclusion .
+This paper has explored five DNA viruses - HSV-1 , EBV , CMV , HPV , and HHV-8 - affecting a breast tumor diagnosed by using support vector machines .
+In order to find the correlation DNA viruses with breast tumor , and to achieve a high classificatory accuracy , F-score is adapted to find the important features , and the grid search approach is used to search the optimal SVM parameters .
+The results revealed that the SVM-based model has good performance in diagnosing breast cancer according to our data set .
+The present study 's results also show that the attributes HSV-1 , HHV-8} or HSV-1 , HHV-8 , CMV} can achieve identical high accuracy , at 86% of average overall hit rate .
+Although these two models have an identical high accuracy , considering the diagnosis cost and accuracy , this study suggests simultaneously considering HSV-1 and HHV-8 is feasible ; however , only considering HHV-8 or HSV-1 is less accurate .
+From the SVM model and LDA , the authors found that the HSV-1 and HHV-8 are the common important features for breast tumor in distinguishing breast cancer and fibroadenoma .
+The development of an oncolytic viral therapy for breast cancer with an HSV-1 mutant , HF10 is by Teshigahara_et_al.  ; the result also indicated that replication-competent HSV-1 mutants held significant potential as cancer therapeutic agents .
+Allan_et_al.  detected two women who developed Kaposi 's sarcoma in the lymphedematous arm many years after surgery for breast cancer .
+Kaposi 's sarcoma-associated herpesvirus ( KSHV , HHV-8 ) was suggested to be associated with breast cancer  .
+Additionally , from the SVM model , CMV has also the important features for breast tumors .
+Richardson_et_al.  investigated the association between EBV and CMV immunoglobulin G levels and the risk of breast cancer before age 40 in Australian breast cancer families .
+Their results are such that CMV is a risk factor for breast cancer .
+Furthermore , Richardson ( 1997 ) suggested that CMV is a risk factor for breast carcinomas .
+The antibody activity against CMV increased in several seropositive patients .
+None of these patients , however , developed signs of a CMV infection .
+The LDA shows EBV is an important feature in breast tumors beside HSV-1 and HHV-8 .
+The first report of the positive effect of EBV on breast cancer is Labrecque , Barnes , Fentiman , and Grifin ( 1995 ) .
+Chu , Chen , and Chang ( 1998 ) studied the presence of EBV in breast cancer and suggested that it may not play a significant role in the etiology of breast cancers in Taiwan .
+Glaser , Ambinder , DiGiuseppe , Horn-Ross , and Hsu ( 1998 ) concluded that the EBV EBER-1 transcript is not commonly expressed in breast cancer , based on a broadly representative case series .
+Bonnet_et_al.  investigated the presence of EBV in human breast cancers and indicated that EBV might be a cofactor in the development of some breast cancers .
+McCall_et_al.  researched nine studies of EBV in breast cancer and found only one of 115 cases that tested positive for EBV .
+Murray_et_al.  concluded that EBV can be regularly detected in whole sections of breast cancers , but its viral copy number is very low .
+Based on SVM model and LDA , the neglect factor is HPV .
+This finding is the same as that of Klein and Klein .
+Klein and Klein also showed that HPV has not been associated with breast cancer .
+This report concluded that products of the HPV genome induce immortalization of human breast epithelial cells and reduce their growth factor requirement .
+The present study shows that the SVM-based classifier for fibroadenoma or breast cancer diagnosis classification model is satisfactory both in classificatory accuracy and in finding the important features to discriminate between fibroadenoma or breast cancer .
+The practical obstacle of the SVM-based ( as well as neural networks ) classification model is its black-box nature .
+A possible solution for this issue is the use of SVM rule extraction techniques or the use of hybrid-SVM model combined with other more interpretable models .
+These issues remain to be solved in future research .

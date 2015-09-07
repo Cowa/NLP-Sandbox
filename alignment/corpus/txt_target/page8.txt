@@ -1,0 +1,124 @@
+A role for incomplete pregnancy in causing breast cancer was hypothesized from the biology of hormone elevations during pregnancy and suggested by preliminary epidemiologic studies  .
+Methodologic issues with these retrospective case-control studies , including potential for reporting bias , inappropriate referent group selection and lack of differentiation between spontaneous and induced abortion , were identified as limitations to the internal validity of these findings .
+Studies with prospectively collected data , which ameliorate the potential introduction of reporting bias , have shown no evidence for an association between spontaneous  or induced abortion  and breast cancer risk .
+In 2004 , the Collaborative Group on Hormonal Factors in Breast Cancer published a pooled analysis of prospective studies that showed no significant overall increase in breast cancer risk associated with having had one or more pregnancies that ended as either a spontaneous or as an induced abortion  .
+Subsequently , the European Prospective Investigation into Cancer and Nutrition reported no association between induced abortion and breast cancer risk , but a positive association with spontaneous abortion  .
+A report from the Nurses Health Study II showed no association between either type of incomplete pregnancy and breast cancer risk  .
+Although the weight of the evidence has shifted toward no association , there continues to be substantial public debate regarding this question  .
+We evaluated the hypothesis that incomplete pregnancy is associated with breast cancer risk in the California Teachers Study ( CTS ) , a large , prospective cohort study with detailed pregnancy history data .
+2. Materials and methods2.1 .
+Study population .
+A detailed description of the CTS has been published previously  .
+In brief , the CTS is a prospectively followed cohort of current , recent and retired female public school teachers and administrators , who were members of the California State Teachers Retirement System at the time of study inception in 1995 .
+Cohort participants completed a detailed questionnaire , collecting information on personal medical history , family history of breast cancer , reproductive history , hormone therapy ( HT ) use , other medication use , recreational physical activity , diet , alcohol consumption and smoking history .
+The reproductive history section included a detailed assessment of age at and outcome of each pregnancy , including miscarriage and induced abortions separately .
+Use of human subject data in this study was approved by the institutional review boards at each participating institution in accord with assurances filed with and approved by the United States Department of Health and Human Services .
+A total of 133,479 women comprise the CTS cohort .
+For this analysis , we excluded women ( in the following order ) who were living outside California at the time they completed the baseline questionnaire ( n=8867 ) , had a prior history of breast cancer or whose history of breast cancer was unknown ( n=6319 ) , who were 80 years or older at baseline ( n=5107 ) , who were currently pregnant with their first pregnancy ( n=157 ) or who had incomplete information on critical breast cancer risk factors , such as unknown age at menarche , unknown if ever pregnant , unknown number of pregnancies ( n=3136 ) .
+The resulting analytic cohort for this report consisted of 109,893 women .
+Table 1. .
+Selected baseline characteristics of CTS participantsa in relation to ever having a miscarriage or an induced abortion .
+Total n ( column % ) n ( % ) NulliparousParous Never pregnantEver pregnantFull-term pregnancies onlyFull-term pregnancies with other outcomes Number of participants109,89322,747 ( 20.8 ) 6643 ( 6.0 ) 53,335 ( 48.5 ) 27,168 ( 24.7 ) Number of invasive breast cancer cases3325613 ( 18.4 ) 166 ( 5.0 ) 1724 ( 51.9 ) 822 ( 24.7 ) Age at baseline , years ( meanSD ) 46.914.445.311.953.812.451.811.9 Race / ethnicity Non-Latina white94,819 ( 86.3 ) 19,221 ( 20.3 ) 5402 ( 5.7 ) 46,642 ( 49.2 ) 23,554 ( 24.8 ) African American2970 ( 2.7 ) 439 ( 14.8 ) 317 ( 10.7 ) 1349 ( 45.4 ) 865 ( 29.1 ) Latina4952 ( 4.5 ) 1251 ( 25.3 ) 407 ( 8.2 ) 2181 ( 44.0 ) 1113 ( 22.5 ) Asian / Pacific Islander4080 ( 3.7 ) 1127 ( 27.6 ) 273 ( 6.7 ) 1830 ( 44.9 ) 850 ( 20.8 ) Other / unknown3072 ( 2.8 ) 709 ( 23.1 ) 244 ( 7.9 ) 1333 ( 43.4 ) 786 ( 25.6 ) First-degree family history of breast cancer No93,224 ( 84.8 ) 19,447 ( 20.9 ) 5658 ( 6.1 ) 45,108 ( 48.4 ) 23,011 ( 24.7 ) Yes12,847 ( 11.7 ) 2416 ( 18.8 ) 708 ( 5.5 ) 6427 ( 50.0 ) 3296 ( 25.7 ) Adopted / unknown3822 ( 3.5 ) 884 ( 23.1 ) 277 ( 7.3 ) 1800 ( 47.1 ) 861 ( 22.5 ) Age at menarche , years 1225,063 ( 22.8 ) 5277 ( 21.1 ) 1570 ( 6.3 ) 11,958 ( 47.7 ) 6258 ( 25.0 ) 1230,241 ( 27.5 ) 6386 ( 21.1 ) 1768 ( 5.9 ) 14,493 ( 47.9 ) 7594 ( 25.1 ) 1332,309 ( 29.4 ) 6627 ( 20.5 ) 1942 ( 6.0 ) 15,746 ( 48.7 ) 7994 ( 24.7 ) 1413,525 ( 12.3 ) 2628 ( 19.4 ) 799 ( 5.9 ) 6858 ( 50.7 ) 3240 ( 24.0 ) 15+8755 ( 8.0 ) 1829 ( 20.9 ) 564 ( 6.4 ) 4280 ( 48.9 ) 2082 ( 23.8 ) Menopausal status and HT use Premenopausal46,805 ( 42.5 ) 11,898 ( 25.4 ) 4063 ( 6.7 ) 18,939 ( 40.5 ) 11,905 ( 25.4 ) Peri-menopausal2061 ( 1.9 ) 376 ( 18.2 ) 144 ( 7.0 ) 1017 ( 49.3 ) 524 ( 25.4 ) Post-menopausal Never used HT10,160 ( 9.3 ) 2081 ( 20.5 ) 307 ( 3.0 ) 5656 ( 55.7 ) 2116 ( 20.8 ) Estrogen only10,112 ( 9.2 ) 1814 ( 17.9 ) 385 ( 3.8 ) 5571 ( 55.1 ) 2342 ( 23.2 ) Combined estrogen and progesterone only13,094 ( 11.9 ) 2133 ( 16.3 ) 549 ( 4.2 ) 7268 ( 55.5 ) 3144 ( 24.0 ) Otherb6422 ( 5.9 
+) 1129 ( 17.6 ) 254 ( 4.0 ) 3411 ( 53.1 ) 1628 ( 25.4 ) Unknown menopausal status21,239 ( 19.3 ) 3316 ( 15.6 ) 941 ( 4.4 ) 11,473 ( 54.0 ) 5509 ( 25.9 ) Ever miscarriage No88,725 ( 80.7 ) 22,747 ( 25.6 ) 4289 ( 4.8 ) 53,335 ( 60.1 ) 8354 ( 9.4 ) Yes21,168 ( 19.3 ) 0 ( 0.0 ) 2354 ( 11.1 ) 0 ( 0.0 ) 18,814 ( 88.9 ) Ever induced abortion No94,767 ( 86.2 ) 22,747 ( 24.0 ) 2054 ( 2.2 ) 53,335 ( 56.3 ) 16,631 ( 17.6 ) Yes15,126 ( 13.8 ) 0 ( 0.0 ) 4589 ( 30.3 ) 0 ( 0.0 ) 10,537 ( 69.7 )
+Full-size table .
+a Limited to women under age 80 who had no prior history of breast cancer at baseline .
+b Includes use of both estrogen-only and estrogen and progesterone HT , progesterone-only HT and unknown HT use .
+View Within Article .
+2.2. Case ascertainment and follow-up .
+Newly diagnosed cases of invasive breast cancer were identified through annual linkages with the California Cancer Registry .
+The California Cancer Registry receives reports for over 99% of all cancer diagnoses occurring in California residents from its regional registries and through data sharing agreements with neighboring states as part of a state mandate  .
+During follow-up , 3325 CTS participants considered eligible for analysis were diagnosed with invasive breast cancer in the time interval which began on the date the baseline questionnaire was completed and continued until the first diagnosis of breast cancer or the first occurrence of a censoring event : a move outside of California ( n=6646 ) , a diagnosis of carcinoma in situ of the breast ( n=708 ) , death ( n=4092 ) or December 31 , 2004 ( n=95,122 ) .
+Continued residence in California was determined by using annual mailings of newsletters or questionnaires , annual linkage with the United States Postal Service National Change of Address database and change-of-address postcards submitted by participants .
+Dates of death were obtained from the California state mortality files , the National Death Index and the Social Security Administration death master file .
+2.3. Measures of incomplete pregnancy .
+Participants provided detailed information on the baseline questionnaire regarding their pregnancy histories , including age at and outcome of each pregnancy .
+In addition to outcome of first pregnancy ( never pregnant , induced abortion , miscarriage , tubal pregnancy or live birth ) , we designed the following measures to capture various aspects of induced abortion : ever / never induced abortion [ ever had an abortion vs. never pregnant ( among nulliparous women ) or only full-term pregnancies ( among parous women ) ] , total number of induced abortions ( never pregnant or only full-term pregnancies , 1 induced abortion or 2+ induced abortions ) , age at first induced abortion ( never pregnant or only full-term pregnancies , first abortion before age 20 years , first abortion at ages 20 - 24 years , first abortion at ages 25 - 29 years or first abortion at age 30 years or older ) , year of first induced abortion [ never pregnant or only full-term pregnancies , first abortion before 1973 ( the year of federally legalized abortion ) or first abortion in 1973 or later ] .
+We designed the following variables to characterize miscarriage history : ever / never miscarriage ( ever had a miscarriage vs. never pregnant or only full-term pregnancies ) , total number of miscarriages ( never pregnant or only full-term pregnancies , 1 miscarriage or 2+ miscarriages ) and age at first miscarriage ( never pregnant or only full-term pregnancies , first miscarriage before age 20 years , first miscarriage at ages 20 - 24 years , first miscarriage at ages 25 - 29 years or first miscarriage at age 30 years or older ) .
+2.4. Assessment of breast cancer risk factors .
+We considered established breast cancer risk factors as potential confounders  .
+These included self-reported race / ethnicity ( non-Latina white , African American , Latina , Asian / Pacific Islander or other / unknown ) , first-degree family history of breast cancer ( no , yes or adopted / unknown ) , age at menarche ( 12 , 12 , 13 , 14 or 15+ years ) , age at first full-term pregnancy ( 20 , 20 - 24 , 25 - 29 , 30 - 34 or 35+ years ) and number of full-term pregnancies ( 1 , 2 , 3 or 4+ ) .
+A woman was considered to be postmenopausal if she met one of the following criteria : ( 1 ) she reported that her periods stopped more than 6 months ago ; ( 2 ) she reported that she had both ovaries removed ; ( 3 ) she was age 56+ at baseline and was not already classified as pre- or perimenopausal .
+Women who had had a hysterectomy prior to their last menstrual period and who were 55 years or younger were considered to have unknown menopausal status .
+Questions were asked about conjugated equine estrogen ( Premarin ) as well as other estrogens and progestins used .
+A combination menopausal status and HT variable was constructed as follows : premenopausal , perimenopausal , postmenopausal and never used HT , postmenopausal and used estrogen only , postmenopausal and used combined estrogen - progestin therapy , postmenopausal and used both estrogen only and estrogen plus a progestin at different periods of time , postmenopausal and used a progestin only , and postmenopausal with unknown HT use or unknown menopausal status .
+2.5. Statistical analysis .
+We used multivariable Cox proportional hazards regression  to assess whether measures of incomplete pregnancy were associated with breast cancer incidence .
+Multivariable adjusted hazard rate ratios , presented as the relative hazard , with 95% confidence intervals ( CI ) , were estimated using ages in days at the start and at the end of follow-up as end points for the time under observation .
+Models used to evaluate the relationship between the measures of incomplete pregnancy and breast cancer risk were stratified by parity status ( nulliparous vs. parous ) in order to address the strong possibility of confounding by this factor .
+All models were also stratified by age ( 50 and 50 - 79 years ) ( data not shown ) .
+All analyses were performed in SAS version 9.1 ( SAS Institute , Cary , NC , USA ) .
+3. Results .
+As shown in Table 1 , 73.3% of women in the analytic dataset were parous .
+Parous women were older at baseline than nulliparous women and 19.2% of women reported ever having had a miscarriage .
+The proportion of women who reported ever having had a miscarriage varied by baseline age .
+For age groups 20 - 39 , 40 - 49 , 50 - 59 , 60 - 69 and 70 - 79 years , the proportions were 13.9% , 30.2% , 25.6% , 18.7% and 11.7% , respectively , and 13.8% of women overall reported ever having had an induced abortion .
+The proportion of women reporting ever having had an induced abortion varied by baseline age category and , as with history of miscarriage , was highest in the 40- to 49 year age group .
+For age groups 20 - 39 , 40 - 49 , 50 - 59 , 60 - 69 and 70 - 79 years , the proportions were 24.9% , 41.9% , 21.8% , 7.5% and 3.9% , respectively .
+Breast cancer risk was not associated with the outcome of first pregnancy .
+Among nulliparous women , we observed no relationship between induced abortion , miscarriage or tubal pregnancy as the outcome of first pregnancy and risk of invasive breast cancer .
+We observed no association between these outcomes of first pregnancy and risk of breast cancer among parous women .
+We observed no statistically significant associations between breast cancer risk and induced abortion history , measured as the number of induced abortions or as the age at first induced abortion , in either nulliparous or parous women .
+We examined risk before and after the legalization of induced abortion in the United States in 1973 and observed no association between breast cancer risk and the timing of first induced abortion .
+Breast cancer risk was not associated with history of miscarriage ( number of miscarriages or age at first miscarriage ) among nulliparous or parous women .
+In an analysis restricted to gravid women , we found that breast cancer risk was not significantly elevated [ hazard ratio ( race adjusted ) =1.10 ; 95% CI , 0.88 - 1.39 ] among women for whom all pregnancies ended in abortion as compared to women for whom all pregnancies ended in full-term live births .
+All models were also run stratified by age ( 50 and 50 - 79 years ) ; results did not differ from those shown for all women ( data not shown ) .
+Table 2. .
+Multivariable relative hazarda ( RH ) and 95% CI for breast cancer associated with outcome of first pregnancy among women in the CTS , by parity status .
+VariableNulliparousParous Outcome of first pregnancy Reference groupb1.0 ( 613 ) c1.0 ( 2165 ) Induced abortion0.95 , 0.76 - 1.19 ( 94 ) 0.95 , 0.79 - 1.14 ( 128 ) Miscarriage1.04 , 0.80 - 1.35 ( 62 ) 0.98 , 0.86 - 1.13 ( 226 ) Tubal pregnancy1.19 , 0.62 - 2.31 ( 9 ) 0.96 , 0.50 - 1.85 ( 9 )
+Full-size table .
+a Models were adjusted for race , family history of breast cancer , age at menarche and a combination variable of menopausal status and HT use .
+Model for parous women was additionally adjusted for age at first full-term pregnancy and number of full-term pregnancies .
+b Reference group for nulliparous women was women who had never been pregnant .
+Reference group for parous women was women who had a full-term pregnancy as the outcome of their first pregnancy .
+c Values are shown as RHa , 95% CI ( no. of cases ) .
+View Within Article .
+Table 3. .
+Relative hazarda and 95% CI for breast cancer associated with induced abortion among women in the CTS , by parity status .
+VariableNulliparousParous Ever vs. never induced abortion Reference groupb1.0 ( 613 ) 1.0 ( 1724 ) Ever had an abortion0.95 , 0.76 - 1.18 ( 99 ) c1.05 , 0.92 - 1.20 ( 280 ) Total number of induced abortions Reference groupb1.0 ( 613 ) 1.0 ( 1724 ) 10.98 , 0.77 - 1.25 ( 75 ) 1.08 , 0.93 - 1.24 ( 212 ) 2+0.86 , 0.57 - 1.30 ( 24 ) 0.97 , 0.76 - 1.24 ( 68 ) Age at first induced abortion Reference groupb1.0 ( 613 ) 1.0 ( 1724 ) First abortion at age 20 years0.76 , 0.40 - 1.43 ( 10 ) 1.14 , 0.82 - 1.58 ( 38 ) 20 - 24 years0.67 , 0.43 - 1.03 ( 21 ) 0.95 , 0.75 - 1.21 ( 72 ) 25 - 29 years0.99 , 0.67 - 1.47 ( 26 ) 1.25 , 0.98 - 1.59 ( 71 ) 30+ years1.24 , 0.90 - 1.70 ( 42 ) 0.99 , 0.90 - 1.09 ( 99 ) Year of first induced abortion Reference groupb1.0 ( 613 ) 1.0 ( 1724 ) First abortion before 19731.00 , 0.75 - 1.33 ( 51 ) 1.09 , 0.92 - 1.27 ( 165 ) First abortion in 1973 or later0.90 , 0.66 - 1.22 ( 48 ) 1.00 , 0.82 - 1.22 ( 115 )
+Full-size table .
+a Models were adjusted for race , family history of breast cancer , age at menarche and a combination variable of menopausal status and HT use .
+Model for parous women was additionally adjusted for age at first full-term pregnancy and number of full-term pregnancies .
+b Reference group for nulliparous women was women who had never been pregnant .
+Reference group for parous women was women who only had full-term pregnancies .
+c Values are shown as RHa , 95% CI ( no. of cases ) .
+View Within Article .
+Table 4. .
+Relative hazarda and 95% CI for breast cancer associated with miscarriage among women in the CTS , by parity status .
+VariableNulliparousParous Ever vs. never miscarriage Reference groupb1.0 ( 613 ) c1.0 ( 1724 ) Ever had a miscarriage1.01 , 0.79 - 1.30 ( 71 ) 0.99 , 0.90 - 1.09 ( 595 ) Total number of miscarriages Reference groupb1.0 ( 613 ) 1.0 ( 1724 ) 11.17 , 0.89 - 1.54 ( 56 ) 1.02 , 0.92 - 1.13 ( 447 ) 2+0.68 , 0.41 - 1.13 ( 15 ) 0.93 , 0.78 - 1.10 ( 148 ) Age at first miscarriageb Reference groupb1.0 ( 613 ) 1.0 ( 1724 ) First miscarriage at age 20 years0.55 , 0.14 - 2.22 ( 2 ) 0.65 , 0.37 - 1.12 ( 13 ) 20 - 24 years1.13 , 0.69 - 1.86 ( 16 ) 0.94 , 0.78 - 1.12 ( 133 ) 25 - 29 years1.24 , 0.83 - 1.86 ( 25 ) 1.00 , 0.87 - 1.15 ( 219 ) 30+ years0.87 , 0.59 - 1.27 ( 28 ) 1.06 , 0.93 - 1.23 ( 230 )
+Full-size table .
+a Models were adjusted for race , family history of breast cancer , age at menarche and a combination variable of menopausal status and HT use .
+Model for parous women was additionally adjusted for age at first full-term pregnancy and number of full-term pregnancies .
+b Reference group for nulliparous women was women who had never been pregnant .
+Reference group for parous women was women who only had full-term pregnancies .
+c Values are shown as RHa , 95% CI ( no. of cases ) .
+View Within Article .
+4. Discussion .
+Neither induced abortion nor miscarriage was associated with breast cancer risk in this prospective cohort of female California teachers and administrators .
+This result is consistent with the report from the Nurses Health Study II , a cohort of 105,716 female registered nurses aged 29 to 46 years old at baseline in 1993 .
+In that cohort , the adjusted hazard ratio for breast cancer among women who had one or more induced abortions was 1.01 ( 95% CI , 0.88 - 1.17 ) and the adjusted hazard ratio for breast cancer among women who had one or more miscarriages was 0.89 ( 95% CI , 0.78 - 1.01 )  .
+Public concern regarding the relationship between induced abortion and breast cancer risk continues to be voiced despite the mounting evidence that no association exists  .
+Much of the data prompting this concern came from case-control studies , many of which may have been affected by bias or design flaws  .
+More recently published case-control studies have reported no positive association between induced abortion and breast cancer risk  .
+Prospective cohort studies , which minimize the potential for biased risk estimates , have also found no association between induced abortion and breast cancer risk  .
+Our data appear to refute two mechanisms hypothesized to underlie an association of induced abortion to breast cancer risk .
+The first , that women who undergo abortion do not experience the long-term protection against breast cancer that a full-term pregnancy would provide , is not supported by our observation of similar risk among women whose pregnancies only ended in abortion with women whose pregnancies only ended in full-term live births .
+The second hypothesis , that the breasts of women undergoing induced abortions are exposed to high hormone levels typical of early normal pregnancy , but then do not experience the terminal cell differentiation that occurs late in a normal pregnancy , leaving breast tissue more vulnerable to carcinogens , is also not supported by our results .
+Some women in our cohort may have underreported induced abortion .
+The abortion ratio among cohort members was 19.5 per 100 pregnancies ending in induced abortion or live birth for women under age 45 at baseline , as compared with 24.5 per 100 pregnancies in the United States during the same time period  .
+Socioeconomic status is a strong predictor of all measures of abortion , including the abortion - birth ratio , with figures that are at least 50% lower among women with a college education and those who are not economically disadvantaged  .
+While CTS participants are highly educated , they represent a range of socioeconomic strata , and thus the lower number of pregnancies ending in induced abortion or live birth for women under age 45 at baseline may not reflect underreporting .
+Furthermore , among women in the CTS who were between the ages of 40 and 49 years at baseline , 41.9% reported having had at least one induced abortion , a percentage consistent with Henshaw 's estimate that 43% of women in the United States will have had an induced abortion by the age of 45 years  .
+The level of underreporting in our study appears to be low , and , in addition , any effect of underreporting in a prospective cohort study is expected to be nondifferential since at the time they reported their reproductive histories , women were not aware of a future breast cancer diagnosis .
+It is unlikely that breast cancers in the population of women in this study would be undiagnosed , as the rate of screening in our study was very high .
+Ninety-four percent of women 40 - 49 years of age at baseline and 97% of women 50+ years of age at baseline reported having had at least one mammogram .
+The proportions of women in those two age groups who reported having had a mammogram in the 2 years prior to baseline were 82% and 91% , respectively  .
+Another potential limitation pertinent to this analysis is that data on abortion , miscarriage and tubal pregnancies were measured at baseline .
+It is possible that women could have experienced another event during follow-up , before breast cancer diagnosis .
+However , when we stratify the analysis by age ( 50 and 50 - 79 ) , thereby comparing groups who would be more or less likely to experience an additional event , respectively , we find no difference in our results .
+The current results may have limited generalizability .
+In addition to limited racial / ethnic diversity relative to the general female population of the United States , the CTS is characterized by a higher level of education and associated characteristics such as later age at first full-term pregnancy .
+Nevertheless , our results provide further , strong evidence that neither induced abortion nor miscarriage is associated with breast cancer risk and may help to resolve any remaining uncertainty as to whether such a relationship exists .
+Acknowledgments .
+The authors would like to thank all the participants in the California Teachers Study ( CTS ) .
+In addition , we thank Richard Pinder , Sarah Marshall and Carmen Vasquez who are responsible for the overall data collection , data management and maintenance of the cohort , and the members of the CTS Steering Committee who are responsible for the formation and maintenance of the cohort within which this study was conducted but whom have not been included as authors on the current article .
+Hoda Anton-Culver , Rosemary Cress , Dennis Deapen , Daniel O. Stram , Dee W. West and Argyrios Ziogas .

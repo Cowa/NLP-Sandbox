@@ -1,0 +1,122 @@
+The plasminogen activator system is a complex system with multiple interactions and members participating in fibrinolysis , cell migration , angiogenesis , wound healing , embryogenesis , tumor cell dissemination , and metastasis in a variety of solid tumors .
+Increased levels of uPA and / or PAI-1 in primary tumor tissues of breast cancer patients correlate with tumor aggressiveness and poor clinical outcome .
+Patients with high tumor tissue antigen content of uPA and / or PAI-1 have a worse probability of disease-free and overall survival than patients with low levels of both of the biomarkers , serving as prognostic markers .
+The clinical utility of uPA and PAI-1 has been proven on the highest level of evidence ( LOE-I ) .
+Next to being clinically useful prognostic factors allowing estimates of the course of disease in early breast cancer , uPA and PAI-1 may also serve as predictive factors predicting response to systemic therapy .
+Node-negative primary breast cancer patients with high uPA / PAI-1 levels benefit significantly from adjuvant chemotherapy .
+The aim of the ongoing NNBC-3 trial is to determine the benefits of a sequential anthracycline - docetaxel regimen in high-risk node-negative breast cancer patients compared to the current standard of anthracycline-based chemotherapy .
+At present , uPA and PAI-1 provide the unique opportunity to allow validated and clinically relevant risk assessment of breast cancer patients , over and above that provided by established risk factors .
+Therefore , in the evidence-based , annually updated AGO guidelines for breast cancer management , the German Working Group for Gynecological Oncology ( AGO ) has recommended both biomarkers as risk-group-classification markers for routine clinical decision making in node-negative breast cancer , next to established clinical and histomorphological factors .
+2. The uPA / PAI-1 System .
+The plasminogen activator system , also known as the fibrinolytic system , consists of the serine protease-type plasminogen activators uPA ( urokinase-type plasminogen activator ) and tPA ( tissue-type plasminogen activator ) , the high-affinity cell surface-associated receptor for uPA ( u-PAR ; CD87 ) , the plasminogen activator inhibitors type 1 and 2 ( PAI-1 , PAI-2 ) , and the proenzyme plasminogen which is activated by uPA or tPA into the proteolytically active serine protease plasmin .
+Although uPA and tPA are quite similar in structure and have common inhibitors and physiological substrates , their physiological roles are distinct  .
+This system is not only highly specific in catalyzing plasminogen into plasmin by tPA present in the blood stream ( in the presence of fibrin ) but is also effective in tissues when uPA is attached to its cellular receptor uPAR leading to activation of nearby plasminogen and subsequently to degradation of extracellular fibrin and other matrix proteins by the newly generated plasmin [ [2 ] ,  ] .
+The plasminogen activator system is a complex system with multiple interactions among its members and also with constituents of the extracellular matrix .
+Traditionally , the role of tPA was primarily in fibrinolysis and that of uPA in cell migration , especially in angiogenesis , wound healing , embryogenesis , tumor cell dissemination , and metastasis [ [6 ] ,  ] .
+The functional role of the plasminogen inhibitors is no longer simply to inhibit plasminogen activators : for PAI-1 , a role in promoting cycles of attachment and detachment of the cell from the extracellular matrix that is independent of its role as an enzymatic inhibitor of uPA was revealed ; PAI-2 has an unidentified role in the regulation of cell death , where it can alter gene expression , influence the rate of cell proliferation and differentiation , and inhibit programmed cell death ( apoptosis ) in a manner independent of urokinase inhibition [ [11 ] and  ] .
+Well-balanced production and activation of uPA / PAI-1 system components therefore can lead to changes in degradation of the extracellular matrix and also affect cell adhesion , angiogenesis , cell proliferation , and cell invasion , not only under physiological conditions but also under pathological conditions such as cancer .
+Expression of uPA and PAI-1 is often higher in the epithelial and stromal cells of the tumor tissue than in the surrounding normal tissue pointing to the fact that in cancer , regulation of uPA-mediated extracellular proteolysis does involve a complex interplay between cancer cells , nonmalignant stroma cells , and components of the plasminogen activation system  .
+Full-size image ( 6K )
+Fig. 1. Key role of the uPA / PAI-1 system in tumor invasion and metastasis .
+View Within Article .
+3. Clinical Relevance of uPA and PAI-1 in Breast Cancer .
+Elevated expression of uPA and PAI-1 at the mRNA and protein level was demonstrated in basically every solid malignant tumor type examined , such as cancer of the breast , ovary , esophagus , stomach , colorectum , kidney , lung , or liver .
+Increased levels of uPA and / or PAI-1 in primary tumor tissues correlate with tumor aggressiveness and poor patient outcome  .
+Among all of the articles published in the scientific literature on this subject , most data regarding the prognostic and predictive value of uPA / PAI-1 and their impact on clinical decision making are available for breast cancer .
+These data consistently show that high levels of uPA and / or PAI-1 determined in primary tumor tissue extracts by protein analysis or mRNA screening are associated with poor clinical outcome of the patient [ [14 ] ,  ] .
+3.1. Prognostic Impact of uPA and PAI-1 .
+In primary breast cancer , the validation process demonstrating the clinical utility of uPA and PAI-1 was achieved by several , mostly European , research centers .
+In 1988 , Duffy et al. were the first to show that the serine protease uPA has a prognostic impact on breast cancer patients .
+They demonstrated that high enzymatic activity of uPA in primary breast cancer tissues correlates with tumor size , number of lymph nodes involved , and with shorter disease-free survival when compared to patients with low uPA activity  .
+Soon after this initial observation , Jnicke et al. demonstrated in 1989 that determination of the uPA antigen content in primary tumor tissue by enzyme-linked immunosorbent assay ( ELISA ) also allows prediction of the course of disease in patients who did not receive any adjuvant treatment [ [24 ] and  ] .
+At the same time , it also became apparent that not only the antigen level of uPA but also that of PAI-1 possesses prognostic value in node-negative and node-positive breast cancer patients  .
+A model was then developed which still is of clinical relevance : Patients with high tumor tissue antigen content of uPA and / or PAI-1 have a worse probability of disease-free and overall survival than patients with low levels of both of the biomarkers [ [27 ] ,  ] .
+Regarding risk-group assessment , the combination of uPA / PAI-1 ( both low vs either / or both high ) was found to be superior to either factor taken alone .
+Furthermore , based on multivariate analyses , uPA and PAI-1 are statistically independent of established prognostic factors such as tumor size , tumor grade , steroid hormone receptor status , or menopausal status  .
+As a prognostic factor , uPA / PAI-1 is superior to the oncoprotein HER2 and thus renders statistically independent , clinically important information [ [30 ] and  ] .
+Other international research groups reported a similar prognostic impact of uPA and PAI-1 in breast cancer [ [31 ] ,  ] .
+Moreover , the published interaction between PAI-1 and vascular endothelial growth factor ( VEGF ) warrants further investigation into the relationship between biomarkers of angiogenesis and those of the protease cascade [ [34 ] and  ] .
+In order to achieve the highest level of evidence ( LOE-I ) for clinical utility of a cancer-associated biomarker , according to the ASCO tumor marker utility grading system ( TMUGS )  , clinical significance of a prognostic ( or predictive ) cancer biomarker must be evaluated either by a prospective randomized clinical trial or a large meta-analysis .
+Regarding this guideline , for uPA / PAI-1 , both the criteria were fulfilled by : ( 1 ) a prospective randomized multicenter breast cancer therapy trial ( Chemo N0 ) in which a total of 689 patients were enrolled in 14 study centers in Germany and Slovenia between 1993 and 1998  ; ( 2 ) a large meta-analysis conducted by the EORTC Receptor and Biomarker Group , comprising 8377 breast cancer patients from 18 independent datasets  ( EORTC = European Organisation for Research and Treatment of Cancer ; a trans-European cancer foundation based in Brussels , Belgium ) .
+In the Chemo N0 trial , uPA and PAI-1 antigen content were determined in primary tumor tissue extracts by commercially available ELISA kits obtained from American Diagnostica Inc. , Stamford , CT , USA .
+Patients with low uPA and PAI-1 content were allocated to the observation arm ; patients with high uPA and / or PAI-1 content were randomized to either adjuvant chemotherapy with six cycles of CMF ( cyclophosphamide/methotrexate / 5-fluorouracil ) or observation only .
+By comparing the two observation arms ( low vs high uPA / PAI-1 ) , the prognostic impact of uPA / PAI-1 could be evaluated in a prospective fashion .
+The first interim analysis of the Chemo N0 trial after a median follow-up time of 32 months demonstrated a statistically independent prognostic impact of uPA / PAI-1 with regard to disease-free survival .
+Also , previously optimized cut-off values for uPA and PAI-1 to discriminate between low and high uPA / PAI-1 were confirmed  .
+A second analysis after a median follow-up time of 50 months comprising 647 patients consolidated the prognostic impact of uPA / PAI-1 regarding disease-free and overall survival .
+This analysis revealed that node-negative breast cancer patients presenting with low uPA / PAI-1 in their primary tumor tissues have a low-risk profile with a 5 year overall survival rate of 95% even in the absence of any adjuvant systemic therapy  .
+Full-size image ( 8K )
+Fig. 2. Study design of the Chemo N0 trial  .
+View Within Article .
+3.2. Predictive Impact of uPA and PAI-1 .
+Next to being clinically useful prognostic factors allowing estimates of the course of disease in early breast cancer , uPA and PAI-1 may also serve as predictive factors predicting response to systemic therapy .
+As yet , only few studies have been published looking at the predictive impact of uPA and PAI-1 regarding response or failure to chemotherapy or endocrine therapy in breast cancer .
+For instance , in the palliative setting , it was shown that metastasized breast cancer patients with high levels of uPA and PAI-1 in their primary tumor tissue responded poorly to palliative endocrine tamoxifen therapy , compared to patients with low levels of both factors [ [40 ] and  ] .
+In the neoadjuvant setting , Pierga et al. looked at the correlation between PAI-1 levels determined in drill biopsy tumor tissue samples taken before anthracycline-containing neoadjuvant chemotherapy and in tumor biopsies taken after chemotherapy at the time of primary surgery in a small collective of 69 patients .
+No association was found between initial PAI-1 levels and clinical response to primary chemotherapy  .
+In early breast cancer , the improvement in clinical risk assessment and therapy benefit prediction gained by combining uPA and PAI-1 was evaluated by Harbeck_et_al.  .
+For this , uPA and PAI-1 levels were prospectively measured by ELISA in tumor tissue extracts of 761 patients with primary breast cancer .
+The criterion either alone or by both factors has identified with high sensitivity the patients at high risk for disease recurrence while keeping more than half of the patients in the low-risk group .
+More interestingly , a significant interaction between uPA / PAI-1 and adjuvant systemic therapy was demonstrated suggesting a benefit from adjuvant therapy in high-risk breast cancer patients as defined by uPA / PAI-1 .
+Harbeck et al. , in a subsequent study of 3424 primary breast cancer patients from breast cancer centers in Munich , Germany , and Rotterdam , The Netherlands , evaluated the predictive impact of uPA / PAI-1 regarding response to adjuvant chemo- and endocrine therapy  .
+It was shown that patients with high uPA / PAI-1 levels had an enhanced benefit from adjuvant chemotherapy compared to those with low levels of the biomarkers .
+No corresponding interaction between endocrine therapy and low or high uPA / PAI-1 levels was observed .
+The uPA / PAI-1-dependent benefit from adjuvant chemotherapy was subsequently validated in the pooled analysis collective of the EORTC Receptor and Biomarker Group  .
+In the prospective multicenter Chemo N0 trial , node-negative primary breast cancer patients with high uPA / PAI-1 levels were either randomized to CMF-based chemotherapy or to observation only , thereby looking at the clinical value of a therapeutic intervention in high uPA / PAI-1 patients .
+Already after a short follow-up period of 32 months , a considerable and statistically significant benefit from adjuvant CMF chemotherapy was also observed in high uPA / PAI-1 node-negative breast cancer patients , which was still valid after a longer median follow-up time of 50 months [ [37 ] and  ] .
+This prospective randomized multicenter clinical trial therefore not only validated the prognostic value of uPA / PAI-1 in node-negative breast cancer patients but also demonstrated their predictive impact at the highest level of evidence , LOE-1 .
+4. Methods for Determination of uPA and PAI-1 .
+In the majority of published retrospective studies , quantification of uPA and PAI-1 antigen levels in tumor tissue extracts was performed using the commercially available ELISA kits  .
+These assays were also used for the prospective Chemo N0 clinical trial where routine tissue analysis for clinical decision making within the trial was conducted in six different laboratories  .
+Consequently , for routine use , quantitative determination of uPA and PAI-1 antigen content by ELISA using these assays is recommended , employing protein extracts from fresh-frozen primary breast cancer tissue samples .
+These assays can also be applied to assess protein extracts obtained from small breast cancer biopsies , such as core biopsy specimens or cryostat sections  .
+The uPA and PAI-1 ELISA tests have been standardized and quality assured by the Receptor and Biomarker Group and the PathoBiology Group of the EORTC [ [46 ] ,  ] .
+At present , PCR-based mRNA analysis of uPA and / or PAI-1 messenger expression has not reached the level of clinical routine , mainly due to the lack of validated , multicenter clinical studies .
+Still , such studies should be encouraged as recent publications , although on a few patient collectives only , indicated feasibility of such a test system for breast cancer tissue uPA / PAI-1 analysis , which would be independent of protein expression or internalization of uPA / PAI-1 complexes by the cells [ [49 ] ,  ] .
+Likewise , no validated multicenter clinically relevant breast cancer immunohistochemistry studies , using uPA and / or PAI-1 directed antibodies and routinely processed paraffin-embedded formalin-fixed breast cancer specimens , have been conducted so far .
+Consequently , harmonization of various detection and quantification systems for uPA and PAI-1 at the gene and protein level is one of the current tasks of the EORTC PathoBiology Group .
+In this context , we would like to mention that in addition to mRNA and protein expression , epigenetic modification of CpG islands within the promoter region of the uPA gene is also an indicator of tumor aggressiveness ; still , prospective breast cancer trials observing uPA DNA-methylation as a stratification factor have not yet been conducted [ [53 ] and  ] .
+5. Clinical NNBC-3 Trial .
+As a consequence of the results of the Chemo N0 breast cancer trial , a number of clinical questions were answered but others still remain open regarding prognosis and therapy response prediction of breast cancer patients .
+Breast cancer patients with low levels of uPA and PAI-1 comprising about half of the node-negative breast cancer patients have a rather low risk of disease recurrence ( 10% ) and therefore are not subjected to adjuvant systemic chemotherapy .
+In contrast , patients with high uPA and / or PAI-1 levels , who are at risk to develop metastasis do benefit from adjuvant systemic therapy .
+A second prospective multicenter phase III therapy trial , the NNBC-3 trial ( Node Negative Breast Cancer 3 trial ) is now open for patient recruitment [ Principal investigators : Prof. Dr. Christoph Thomssen ( Leiter der Klinischen Prfung according to German law ) , University of Halle ; and Prof. Dr. Nadia Harbeck , Technical University of Munich , Germany ] .
+The two main aims of this trial are : ( 1 ) to compare risk assessment and clinical outcome based on tumor biological factors uPA / PAI-1 to that based on established , clinical and histomorphological factors ; and ( 2 ) to optimize the adjuvant chemotherapy regimen for high-risk node-negative breast cancer patients .
+The NNBC-3 trial is an intergroup trial conducted in cooperation with the AGO ( German Arbeitsgemeinschaft Gynkologische Onkologie ) , the EORTC PathoBiology Group , and the German Breast Group .
+By end of October 2007 , recruitment was at 2022 patients who came from 97 clinical centers in Germany and France .
+Node-negative primary breast cancer patients aged 18 - 70 years with a tumor size between 0.5 and 5 cm are eligible for the trial .
+Recruitment centers are allowed to select risk assessment criteria either using established clinical and histomorphological criteria or using determination of uPA / PAI-1 in primary tumor tissue extracts .
+Risk assessment by established factors takes the recommendations of the St .
+Gallen 2005 consensus meeting into account  : Using these criteria , a node-negative breast cancer patient fulfilling any of the following criteria is regarded as being at high risk for disease recurrence : ( 1 ) age 35 years , peritumoral vascular invasion , tumor grade 3 , steroid hormone receptors PgR / ER+ or PgR / ER , or HER2-positive , or ( 2 ) tumor grade G2 and tumor size 2 cm .
+Full-size image ( 24K )
+Fig. 3. ( A ) NNBC-3 trial : clinical and histomorphological risk assessment. ( B ) NNBC-3 trial : tumor biological risk assessment .
+View Within Article .
+The second option for risk assessment is based on the presence of the tumor biological factors uPA and PAI-1 in the primary tumor tissue .
+However , for risk assessment , node-negative primary breast cancer patients are first classified according to tumor grade .
+Patients with G1 tumors are considered at low risk and allocated to the observation arm ; all G3 tumor patients are considered at high risk and therefore are randomized in the chemotherapy arm .
+For patients with G2 tumors , further risk stratification according to uPA / PAI-1 is appropriate .
+Patients with 35 years of age or above and low uPA / PAI-1 are considered at low risk and thus allocated to the observation arm .
+Patients with 35 years of age or above and high uPA and / or PAI-1 , or those younger than 35 years of age , are randomized to one of the two chemotherapy regimens .
+In the NNBC-3 trial , all patients defined as being at high risk for disease recurrence are randomized to either six cycles of FE100C ( 5-fluorouracil/epirubicin / cyclophosphamide ) every three weeks or to three cycles of FE100C followed by three cycles of docetaxel every three weeks .
+Node-negative patients defined as being at low risk for disease recurrence are allocated to the observation arm and receive endocrine therapy according to the AGO guidelines if applicable  .
+The overall aim of the trial is to compare both risk stratification methodsthe clinical and histomorphological and the tumor biological oneand to determine the benefit of a sequential anthracycline - docetaxel regimen in high-risk node-negative breast cancer patients .
+We would like to mention that another clinical therapy trial , the ADEBAR trial ( Adjuvant Docetaxel versus Epirubicin-Based Regimen Trial ) , has already been completed in which 1500 high-risk node-positive breast cancer patients with more than three involved axillary lymph nodes were enrolled .
+Patients recruited in 198 centers were randomized to either six cycles of FE120C or to six cycles of a three-weekly sequential anthracycline - docetaxel regimen .
+Testing for uPA and PAI-1 was an optional translational research subprotocol intended to evaluate the benefit of adding taxane to anthracycline-based chemotherapy in the two risk groups according to the uPA / PAI-1 status .
+The ADEBAR trial was closed for patient recruitment in spring 2005 ; clinical results and thus also results of the uPA / PAI-1 subprotocol are still pending .
+6. Current Use of uPA / PAI-1 in Clinical Decision Making .
+Tumor biological factors uPA and PAI-1 were validated at the highest level of evidence regarding their prognostic and predictive impact in primary breast cancer .
+Therefore , the German Working Group for Gynecological Oncology ( AGO ) recommends both biomarkers for risk-group-classification and routine clinical decision making in node-negative breast cancer next to the established clinical and histomorphological factors .
+These recommendations were first issued in 2002 in the annually updated evidence-based AGO guidelines ( )  .
+Full-size image ( 13K )
+Fig. 4. AGO 2006 Breast Cancer Treatment Guidelines : prognostic ( A ) and predictive ( B ) factors for clinical routine use .
+View Within Article .
+Still , although substantial and consistent data have been published and prospective clinical therapy trial evidence validating these prognostic factors and demonstrating the benefit of adjuvant chemotherapy in high uPA and / or PAI-1 node-negative breast cancer patients is available , these tumor biological markers have until recently not been integrated in international guidelines , such as the St .
+Gallen conference consensus  .
+While the clinical validity is not being disputed , one reason for the limited worldwide acceptance is certainly the necessity of fresh-frozen tumor tissue for preparation of tumor tissue extracts and ELISA testing , which is not available as a standard of care in many countries of the world , including USA .
+This is rather surprising since for many years fresh-frozen breast cancer tissue was set aside for steroid hormone receptor testing by the DCC or EIA test .
+Moreover , mRNA testing employing cDNA-microarray technology also requires fresh breast cancer tissue for analysis [ [57 ] and  ] .
+Based on the level I evidence , the most recent ASCO guidelines 2007 have included uPA and PAI-1 as markers which are recommended for use in practice .
+We want to stress again , that to date uPA and PAI-1 are the only breast cancer-associated biomarkers whose clinical utility was demonstrated by a prospective clinical trial ( Chemo N0 ) with a second confirmatory trial ( NNBC-3 ) on its way .
+Regarding prospective gene signature validation in breast cancer patients , the first clinical therapy trials have just been launched , such as TAILORx ( Trial Assigning IndividuaLized Options for Treatment , Rx ) , using the 16 gene disease recurrence score  , or MINDACT ( Microarray In Node-negative Disease may Avoid Chemo Therapy ) using a 70 gene signature for risk assessment  .
+Thus , at present , only uPA and PAI-1 provide the unique opportunity to allow validated and clinically relevant risk assessment in breast cancer patients , over and above that provided by the traditional and established risk factors .

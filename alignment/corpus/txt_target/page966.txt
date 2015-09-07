@@ -1,0 +1,67 @@
+The breast is the most frequent cancer site in women worldwide , predominantly in the industrialised countries ( western Europe , North America ) .
+The incidence is increasing in all countries,1 in Europe,2 North and Latin America , Asia and Oceania,3 although the increase is more pronounced in industrialised countries .
+However , a reversal of the incidence trend has been observed in the United States since the early 2000s in women over 45or over 50 depending on the study  whereas the incidence in younger women has remained stable.  In France , the incidence of breast cancer has been increasing continuously since the late 1970s8 by 2.4% per year between 1978 and 2000 .
+Health professionals in France have expressed a concern about a possible increase in the frequency of breast cancer among young women .
+There are few publications specifically addressing this age group .
+Recently , after similar concerns had been expressed by clinicians , a study carried out in the canton of Geneva observed an annual increase of 46.7% ( 95% CI : 7.1 - 100.8 ) in the incidence of breast cancer between 2002 and 2004 for women aged 25 - 39.9 This observation was not confirmed by another study analysing data from the Vaud and Neuchatel cancer registries in Switzerland.10 Our aim was to describe the trend in the incidence of breast cancer in young women under 40 in France using the data from seven cancer registries ( 3277 cases between 1983 and 2002 recorded by these seven registries ) , and to compare it with that observed in older women .
+Materials and methods .
+The incidence of invasive breast cancer tumours recorded in seven French départements ( Calvados , Doubs , Hérault , Isère , Bas-Rhin , Somme and Tarn ) for the period 1983 - 2002 was analysed , focusing on women under 40 , who represent a total of 3277 cases out of the 53,128 cases in patients aged 15 and over at the time of diagnosis .
+Annual percentage changes over the period 1983 - 2002 were estimated separately in four age groups : 15 - 39 ( young women ) , 40 - 49 ( women just below the age of invitation to organised screening in France ) , 50 - 74 ( women invited to organised screening ) , and 75 and over ( women beyond the age of organised screening ) .
+The changes were estimated using Poisson regression11 on data aggregated by annual age and year .
+In each age group , the model included a linear time trend and a polynomial function of age .
+The linearity of the time trend was tested by adding a polynomial function of time .
+In order to provide a global visualisation of the trends in breast cancer incidence , a graphical approach reporting the observed 5 year age-specific incidence by birth cohort is also presented .
+Results .
+The incidence rates increased in all age groups , but to different extents .
+The smallest increases were found in women under 50 , and more specifically in women under 40 , with an annual increase under 1% .
+The greatest increase was observed in women aged 50 - 74 , with an increase of almost 3% per year .
+Consequently , the distribution of the number of cases changed during the period 1998 - 2002 : the 15 - 39 age group represented 7.4% of the total number of new breast cancer cases during the period 1983 - 1987 and 5.3% during the period 1998 - 2002 .
+The linearity of the time trend was tested : the change in incidence was log-linear only in women aged under 40. For other age groups , the variation was more complex and could not simply be summarised by an annual percentage change .
+In particular , a decrease was observed in the last period in the over 75 age group , which indeed only included women aged 75 - 79 .
+The increase also tended to flatten in the 40 - 49 age group .
+Table 1. .
+Annual rate of change ( in percent , with 95% CI ) , number of cases and incidence rates by age group and period .
+Age groupRate of change 1983 - 2002Log linearity of the trenda1983 - 19871988 - 19921993 - 19971998 - 2002 Incidence rate per 100,000bNumber of casesIncidence ratebNumber of casesIncidence ratebNumber of casesIncidence ratebNumber of cases 15 - 390.65 ( 0.03 ; 1.26 ) Yes14.367115.785315.686016.4893 40 - 490.82 ( 0.46 ; 1.18 ) No147.21636158.92298165.12914168.43024 50 - 742.94 ( 2.73 ; 3.15 ) No195.54853238.96929264.18118308.99907 75+1.56 ( 1.21 ; 1.91 ) No222.21869242.92434278.02739273.23130 .
+Full-size table .
+a Result of the test of the polynomial function of time .
+b Truncated world age standardised rates .
+View Within Article .
+Full-size image ( 40K )
+Fig. 1. Incidence according to age and cohort .
+View Within Article .
+Fig. 1 presents age-specific incidence rates observed according to birth cohort .
+Analysis by birth cohort is made difficult in the context of breast cancer due to major changes in diagnostic practices .
+However , the figure enabled the observed change in incidence to be presented in a detailed manner .
+For a given age , the risk of breast cancer increased with birth cohort , with a visible perturbation induced by the development of screening in women aged 50 - 74 and probably those aged 45 - 49. The increase levelled off among older women .
+A flattening was noticed in the 75 - 79 age group in the last period , which might result from a former advance in diagnosis due to screening in the 50 - 74 age group .
+A flattening of the trend was also seen in the 45 - 59 and 50 - 54 age groups .
+Discussion .
+Between 1983 and 2002 , breast cancer incidence increased in France , with a considerable difference with regard to age .
+Even though it was moderate , there was an increase in the incidence of breast cancer in young women under 40 in our study .
+Moreover , the trend was consistent over the whole period .
+Organised or opportunistic screening became very common in France among women aged 50 - 74.12 It was thus difficult when interpreting time trends in breast cancer incidence in this age group to disentangle the combined effects of the development of screening associated with the improvement in diagnostic techniques and those of many potential moderate risk factors.13 In younger women , early diagnosis was more uncommon , as it is technically harder to carry out than in older women.14 However , the trend in incidence in these younger women was compatible with a slow change in diagnostic practices , which was difficult to distinguish from the effect of possible changes in risk factors .
+A study of trends in stage at diagnosis or in survival in this age group would have helped to interpret the observed increase in incidence .
+Another explanation is a likely improvement in the completeness of cancer registration over the period .
+Such a possibility is difficult to quantify but is probably low .
+French cancer registries data are collected through multi-source networks and coded using European Network Cancer Registries recommendations .
+This system prevents a large number of cases being underreported .
+Data were recently checked through an extensive comparison with mortality data,8 without indicating special situations .
+Few publications have described the changing trend in incidence of breast cancer in young women , probably because the incidence is relatively low in women under 40. In Sweden , a study analysed trends in breast cancer incidence from 1970 to 1984 among young women and reported an increase of 3.2% , 3.4% and 2.2% per year , respectively , in the age groups 25 - 29 , 30 - 34 and 35 - 39.15 Another study , restricted to women aged 15 - 29 , carried out in the United States during the years 1975 - 200016 did not show a significant change in breast cancer incidence .
+Tarone7 also reported stability in the incidence of breast cancer in women aged 20 - 29 for the period 1975 - 2002 in the USA , but he observed a significant , though small , decrease between 1980 and 2002 for women aged 30 - 39 , with an annual percentage change of under 0.5% .
+On the contrary , a significant increase was observed in the canton of Geneva ( Switzerland ) , corresponding to an annual percentage change of 8.7% ( 95% CI : 2.8 - 15.0 ) between 1995 and 2004 in women aged 25 - 39,9 with a sharp acceleration between 2002 and 2004 ( 46.7% annual increase [ 95% CI : 7.1 - 100.8 ] ) .
+There is no proper explanation of this phenomenon , although increased use of magnetic resonance imaging ( MRI ) as a diagnostic tool may partly explain the increase .
+These results should be considered cautiously due to the small number of cases ( 63 patients aged 25 - 39 between 2002 and 2004 ) .
+This increase was not observed in two other areas of Switzerland.10 .
+Even though it was moderate , there was a real increase in the incidence of breast cancer in young women under 40 in our study .
+Systematic screening for breast cancer among young women is not recommended16 since in this age group the disease is rare , diagnosis is difficult and the impact on mortality has not been established .
+Breast cancers diagnosed in young patients are more aggressive than those detected in older women,17 and this cancer is responsible for a large proportion of lost potential years of life.18 A prevention policy targeted at known risk factors would thus be important .
+Breast cancer risk factors in young women are numerous and are not specific to this age group : family history of breast cancer , exposure to radiation , particularly after Hodgkin 's disease , lack of physical activity , reproductive factors ( late first pregnancy , early onset of menstruation , number of children ) , oral contraceptives and alcohol .
+Some are still poorly established ( spontaneous or artificial termination of pregnancy , smoking ) or need substantial research development ( environmental exposure ) .
+It is thus difficult to set up a prevention policy since there is no major risk factor for breast cancer in young women and many of them , such as early puberty , cannot be prevented .
+However , a positive effect on breast cancer incidence may follow awareness campaigns on the benefits of a healthy lifestyle , which represents a major health issue far beyond the topic of breast cancer .
+The lower risks associated with new oral contraceptives19 is also encouraging .
+Also , some protecting factors , such as the benefits of breast-feeding20 or physical activity , should be better publicised .
+Conflict of Interest .
+None declared .
+Acknowledgements .
+This study received funding from the Ligue Nationale Contre le Cancer , ( National Cancer Research Fund , France ) Comité de l'Isère .

@@ -1,0 +1,89 @@
+Après un cancer du sein , certaines femmes expriment un désir de grossesse , la possibilité de grossesse étant vécue comme un gage de bonne santé par ces patientes .
+Le praticien doit pouvoir informer loyalement la patiente sur les risques qu' elle encourt , ainsi_que ceux pour le foetus .
+Il doit évaluer le risque de rechute de ce cancer en considérant les facteurs pronostiques propres à cette patiente et connaître les risques liés à la grossesse et aux méthodes d' Assistance médicale à la procréation si celle-ci se révèle nécessaire .
+Il faut de plus connaître les risques d' infertilité suite aux différents traitements reçus par la patiente .
+Nous envisagerons les données et outils à la disposition du praticien pour guider la patiente et son conjoint dans leur choix vis-à-vis d' une éventuelle grossesse .
+Six pour cent des cancers du sein surviennent avant 40 ans , ce qui représente une incidence annuelle de plus de 2500 cas en France  .
+La grossesse ou le souhait de grossesse après cancer du sein est en fait une situation de_plus_en_plus fréquente , du fait de l' augmentation de l' âge des femmes au premier enfant .
+L' âge jeune de survenue des cancers du sein est en lui-même un facteur de mauvais pronostic : les femmes les plus jeunes ont un plus haut risque de rechute locale et de décès , indépendamment de tous les autres facteurs pronostiques  .
+Les conseils donnés aux patientes doivent donc tenir compte de ces facteurs et de l' importance des traitements adjuvants correctement administrés , et sur une durée assez longue .
+Il est à noter que les conséquences de la chimiothérapie doivent être envisagées avant le traitement .
+2. Problématique de l' hormonothérapie
+Bien que la part des cancers du sein hormonorésistants soit plus élevée chez les femmes jeunes que sur la population globale , la moitié des cancers du sein de la femme jeune exprime des récepteurs hormonaux  .
+L' hormonothérapie représente donc une part essentielle du traitement de ces patientes  .
+De plus , contrairement à ce qui était suggéré antérieurement , certains auteurs ont constaté sur des séries cependant rétrospectives que chez les femmes jeunes la positivité des récepteurs hormonaux ne soit pas particulièrement associée à un meilleur pronostic  .
+La non-compliance ou l' arrêt précoce de l' hormonothérapie pourrait être en cause  .
+D' ailleurs , des études récentes suggèrent de façon convergente que les femmes de moins de 40 ans sont celles qui bénéficient le plus de la suppression ovarienne et de l' aménorrhée chimio-induite  .
+Ces différents éléments du traitement limitent les possibilités de fertilité chez une femme qui devra recevoir cinq ans d' hormonothérapie selon les recommandations actuelles .
+En cas de désir de grossesse , il faut informer la patiente que si l' on écourte l' hormonothérapie pour permettre cette grossesse , on limite le bénéfice escompté du traitement ( la diminution du risque relatif de rechute est de 25 à 30 % avec cinq ans de tamoxifène et de 10 à 15 % avec deux - trois ans de tamoxifène seulement )  .
+Le praticien peut s' aider de modèles mathématiques permettant d' évaluer le risque individuel de rechute ou de décès et le bénéfice potentiel de chaque traitement adjuvant .
+Ces outils Internet tel que AdjuvantOnline ( ) , en fonction de facteurs pronostiques ( âge de la patiente , grade et taille de la tumeur , atteinte ganglionnaire , statut récepteurs hormonaux ) , permettent de calculer le risque de mortalité et le taux de rechute à dix ans , ainsi_que le bénéfice d' une chimiothérapie , d' une hormonothérapie et des deux traitements combinés .
+Cependant , AdjuvantOnline , de_même que les autres modèles , semble assez peu pertinent et n' est pas recommandé chez les femmes les plus jeunes ( en_dessous de 36 ans ) .
+Par ailleurs , ces modèles ne calculent pas le risque relatif en cas d' arrêt de l' hormonothérapie avant cinq ans : on se référera pour cela aux données de la méta-analyse d' Oxford  assez bien documentées ( essais adjuvants comparant cinq ans de tamoxifène versus un , deux , trois ans ) .
+On rappelle aussi qu' en cas d' arrêt du tamoxifène , dont les effets tératogènes ont été documentés , une période de wash-out ( fenêtre thérapeutique ) est recommandée avant le début d' une grossesse ( trois mois sont généralement proposés )  .
+3. Fertilité après traitement d' un cancer du sein
+La fertilité après cancer du sein dépend , comme cela a été montré à de nombreuses reprises , du type de chimiothérapie et de l' âge de la patiente .
+Un déterminisme génétique pourrait , également , être partiellement en cause  .
+Cependant , un problème central pour informer les patientes est que les données disponibles ne sont pas des données de fertilité mais des données de fonction ovarienne évaluée par la présence ou non de règles .
+Ainsi , dans la_plupart des études , la seule mesure donnée est celle du taux d' aménorrhée après traitement .
+Le risque d' aménorrhée varie par_exemple selon les études de 10 à 25 % avant 40 ans ( 80 à 90 % après 40 ans ) pour une chimiothérapie de type 6 cures de FEC ( 5FU - épirubicine - cyclophosphamide ) , il est de 61 % pour une chimiothérapie de type 6 cures de TAC ( docetaxel - doxorubicine - cyclophosphamide )  .
+Plusieurs méthodes de préservation de la fertilité pendant la chimiothérapie ont été étudiées  , mais aucune n' est actuellement utilisée en_pratique courante .
+Des essais thérapeutiques sont en cours concernant la goséréline administrée pendant la chimiothérapie et qui serait susceptible de protéger la fonction et le capital ovariens  , là encore étudiés en termes de taux d' aménorrhée chimio-induite .
+Les premiers résultats sont encourageants , cependant l' innocuité d' une telle approche reste à prouver : la goséréline bloque la maturation folliculaire à un stade où la chimiothérapie pourrait léser les follicules , et les interactions avec la chimiothérapie sont encore mal connues .
+De nombreuses équipes abordent la thématique des possibilités de cryopréservation embryonnaire avant le début de la chimiothérapie , en_particulier après stimulation par tamoxifène ou létrozole  ( mais des risques embryonnaires ont été évoqués  ) .
+Ces techniques sont malheureusement encore du domaine de la recherche et il n' y a pas d' autorisation de mise sur le marché dans cette indication .
+Les deux possibilités envisageables sont soit une stimulation puis une ponction ovocytaire , soit une congélation de tissu ovarien avec maturation in_vitro .
+Ces techniques entraînent néanmoins un retard à la mise en route d' une chimiothérapie .
+4. Données concernant les effets de la grossesse sur le risque de rechute du cancer
+Les conséquences hormonales de la grossesse ont longtemps été redoutées pour leur effet potentiel sur le risque de rechute de cancer du sein .
+Toutefois , de récentes études remettent en cause les effets forcément néfastes de la grossesse  .
+Dans toutes les études rétrospectives menées , les femmes ayant une grossesse à plus de 24 mois de leur cancer du sein ont la même , voire une meilleure survie que les patientes n' ayant pas eu de grossesse .
+Cette constatation explique les deux à trois ans classiquement recommandés avant d' envisager une grossesse après cancer du sein .
+De plus , dans une étude de cohorte sur les grossesses après cancer du sein , Ives et al. observent qu' une grossesse six mois après la fin du traitement ne réduit pas la survie des femmes ayant eu un cancer du sein localisé avec des facteurs de bon pronostic  .
+Cependant , ces grossesses publiées concernent les patientes de meilleur pronostic d' où un possible biais majeur de sélection ( effet healthy mother ) .
+5. Quand autoriser une grossesse ?
+Les délais actuellement proposés avant d' envisager une grossesse sont assez arbitraires : un à deux ans après un carcinome in_situ , deux à trois ans après un carcinome invasif avec facteurs de bon pronostic ( hormonosensible , sans atteinte ganglionnaire , grade SBR1 , HER2 négatif ) , trois à quatre ans après un carcinome invasif sans atteinte ganglionnaire .
+En cas d' atteinte ganglionnaire , on dispose d' encore moins de données et un délai de quatre ans au moins est proposé .
+Ces délais sont empiriques et tiennent compte de la période de risque des rechutes les plus graves sur le plan métastatique : le premier pic de métastases survient dans les trois ans qui suivent le traitement initial  .
+Dans tous ces cas l' hormonothérapie est interrompue avant son terme , constituant une inévitable perte théorique de chance , même si elle est mineure .
+La patiente doit en être informée impérativement .
+Parallèlement , plus le délai imposé est long , plus la fertilité diminue .
+Il faut donc informer le couple des risques encourus et les aider dans leur décision .
+Les conseils donnés à la patiente doivent être discutés par l' ensemble des intervenants , notamment en réunion de concertation pluridisciplinaire ( RCP ) .
+6. Quel bilan proposer avant une grossesse éventuelle ?
+Si le couple est décidé à mettre en route une grossesse , il semble raisonnable de proposer avant la grossesse un bilan minimal comportant une mammographie , associée ou non à une échographie , qui pourra servir de référence pendant la grossesse .
+On peut discuter une IRM mammaire pour éliminer tout cancer débutant de petite taille probablement encore non accessible à l' imagerie conventionnelle sur ce terrain à risque .
+Par ailleurs , en cas d' antécédent de cancer infiltrant , il peut être raisonnable de vérifier le bilan d' extension , en_particulier l' échographie abdominale , une scintigraphie osseuse , un bilan biologique et une imagerie thoracique .
+Pendant la grossesse , un suivi mammaire clinique et échographique pourra être recommandé chez cette femme à risque spécifique de_nouveau cancer du sein .
+On rappelle que si la patiente avait 36 ans ou moins au diagnostic , ou bien si elle avait 40 ans ou moins et au moins un antécédent familial de cancer du sein ou de l' ovaire , une consultation d' oncogénétique est aujourd'hui recommandée à la recherche de mutations germinales des gènes BRCA1 et BRCA2 .
+La présence d' une telle anomalie génétique , si elle ne doit pas influencer la décision de grossesse , doit en_revanche influencer le type de suivi proposé sur le plan mammaire mais également ovarien .
+L' IRM mammaire sera hautement recommandée avant la grossesse et une surveillance ovarienne indiquée .
+Plusieurs publications  ont fait état d' une modification transitoire du risque de cancer du sein en période de per- et post-partum , notamment en cas de mutation germinale des gènes BRCA1 ou BRCA2 .
+7. Risques pour le foetus
+Les questions du couple peuvent porter sur les possibles risques foetaux .
+Les études les plus anciennes concernaient toutes les grossesses après chimiothérapie , mélangeant ainsi les effets de chimiothérapies très différentes .
+Dans une étude récente sur une cohorte danoise , il n' était pas retrouvé davantage de complications chez 216 nouveau-nés dont la mère avait eu un cancer du sein comparé à une population sans antécédent de cancer du sein avant la grossesse  .
+Dalberg_et_al.  , sur 331 grossesses après cancer du sein , ne retrouvent pas de complications dans la majorité des cas .
+Toutefois , ils soulignent un excès d' accouchement prématuré ( risque relatif d' accouchement avant 32 semaines d' aménorrhée ( SA ) = 3,20 ) , de petits poids de naissance ( risque relatif de poids inférieur à 1500 g à la naissance = 2,86 ) , et de malformations ( risque relatif = 1,68 ) .
+Les risques estimés bruts sont cependant faibles .
+Les études de surveillance de ces patientes avec une évaluation notamment des effets de nouveaux produits de chimiothérapie comme les taxanes sur le long cours doivent être poursuivies .
+8. Assistance médicale à la procréation ( AMP )
+Peu de données existent concernant le recours à une AMP chez une femme ayant un antécédent de cancer du sein .
+À long terme , les stimulations ovariennes ne semblent pas délétères dans la population générale sur le risque de cancer du sein  .
+Cependant , à court terme , il est décrit une augmentation de l' incidence des cancers du sein dans l' année suivant la procréation médicalement assistée  .
+Chez une femme ayant eu un cancer du sein , donc à_la_fois à haut risque de second cancer et à risque de récidive , des stimulations ovariennes par méthodes standard ne semblent donc pas envisageables à ce jour .
+Cependant , une fécondation in_vitro est envisageable après recueil d' ovocytes en cycles naturels , même si les chances de succès sont bien moindres évidemment .
+La patiente doit être adressée dans un centre spécialisé dans l' AMP , et les décisions prises conjointement entre gynécologues - obstétriciens et oncologues .
+Dans le cadre d' études en cours , les inhibiteurs d' aromatase létrozole et anastrozole sont évalués pour leur potentiel d' induction d' ovulation ou pour leur capacité à limiter l' hyperestradiolémie induite par une induction habituelle  ( il n' y a pour l' instant pas d' autorisation de mise sur le marché dans cette indication ) .
+Cependant , l' innocuité de ces substances dans cette situation est largement remise en question par les données les plus récentes , elles doivent donc être réservées à l' évaluation en recherche clinique .
+9. Conclusion
+La consultation d' information en raison d' un risque de grossesse est une consultation longue et complexe .
+Une information claire et loyale doit être donnée , souvent répétée , fondée sur : - les facteurs pronostiques propres du cancer de la patiente ;
+- le bénéfice individuel théorique attendu chez elle des divers traitements , avec surrisque potentiel lié à la nécessité de modification du traitement ;
+- les possibilités de fertilité ;
+- les risques foetaux .
+Les connaissances sont encore limitées quant aux effets des différents traitements utilisés dans le cancer du sein sur le capital ovarien .
+En particulier , on ne dispose pas de marqueur spécifique que l' on pourrait tester en fonction des substances envisagées .
+La majorité des centres recommande un délai de trois ans avant d' envisager une grossesse ( après le premier pic de métastases ) .
+L' arrêt prématuré de l' hormonothérapie diminue les bénéfices de celle-ci .
+Pour l' instant , les méthodes de préservation de la fertilité dans le cadre du cancer du sein ne sont pas utilisées en_pratique courante

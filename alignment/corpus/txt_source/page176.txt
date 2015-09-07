@@ -1,0 +1,81 @@
+Avec environ 33000 nouveaux cas par an en France , le cancer du sein est le plus fréquent des cancers de la femme .
+Le suivi des patientes ayant un cancer du sein fait appel aux dosages d' ACE et surtout de CA 15-3 1. Bien que n' ayant pas de valeur pour le dépistage , le CA 15-3 présente un intérêt pronostique et son évolution est corrélée à l' évolution clinique des patientes .
+Le CA 15-3 est un antigène défini par les anticorps 115D8 et DF3 , appartenant à des glycoprotéines de la famille des mucines , codées par le gène MUC1 6 and 7. L' anticorps B27-29 , utilisé dans le dosage 27 - 29 , reconnaît un épitope de 8 acides aminés localisé dans le « core » de la protéine codée par MUC1 .
+Cet épitope recouvre partiellement l' épitope reconnu par l' anticorps DF3 , cependant en raison de la variabilité interindividuelle du nombre de séquences répétitives et de glycosylation de la protéine pouvant toucher l' un ou l' autre de ces épitopes , on peut s' attendre à une certaine hétérogénéité de reconnaissance par les tests CA 15-3 et 27 - 29. Cet anticorps est utilisé dans des tests proposés pour la prise en charge des cancers du sein , soit avec des résultats similaires au CA 15-3 2 ; 3 and 5 soit avec une meilleure discrimination entre les sujets sains et les malades 4. Enfin , concernant la détection des métastases , certaines études suggèrent que les deux marqueurs n' auraient pas la même sensibilité selon le site de récidive 8.
+Full-size image ( 1K )
+Fig. 1. Séquence en acides aminés des épitopes reconnus par les anticorps monoclonaux DF3 et B27 - 29 sur le produit du gène MUC1 ( d'_après Bon et al. , 1997 ) .
+View Within Article
+Le but de cette étude était l' évaluation analytique de la trousse AIA Pack 27 - 29 sur l' automate AIA 600 II Tosoh ( un nouveau test utilisant l' anticorps B27-29 ) sur une période de 4 mois et la comparaison avec la technique CA 15-3 sur l' automate Kryptor , Brahms .
+2. Méthodes2.1 .
+Principe du dosage AIA Pack BRCA
+L' étude a été réalisée sur l' automate AIA 600 II , Tosoh .
+La trousse de dosage AIA Pack 27 - 29 utilise une technique immuno-enzymatique .
+Un anticorps couplé à des billes magnétiques capte l' antigène CA 27-29 présent dans l' échantillon de sérum et un deuxième anticorps monoclonal couplé à la phosphatase alcaline bovine vient se fixer sur un deuxième site de l' antigène .
+Après lavage des billes , un substrat fluorescent ( 4 méthyl ombelliferone phosphate ou 4MOP ) permet de détecter la présence du deuxième anticorps .
+La quantité d' échantillon nécessaire au dosage est de 10 l .
+Il y a une prédilution au 1 / 21e et la limite de linéarité est à 400 kU / l .
+La durée du dosage est de 50 min .
+2.2. Principe du dosage CA 15-3
+Nous avons comparé les résultats avec ceux obtenus avec la technique CA 15-3 sur l' automate Kryptor ( Brahms ) .
+Il s' agit d' un Fluoro-Immunoassay en phase homogène , dérivé de la technologie Trace ( Time Resolved Amplified Cryptate Emission ) .
+Cette technique est fondée sur un transfert d' énergie entre un anticorps monoclonal marqué par un donneur ( cryptate d' europium ) et un anticorps monoclonal marqué par un accepteur ( fluorophore ) .
+Ce transfert d' énergie dépend de la proximité du donneur et de l' accepteur dans le complexe immunologique .
+2.3. Préparation des échantillons
+Les échantillons servant aux mesures de répétabilité et reproductibilité provenaient de pools de sérums de patients suivis à l' hôpital Saint-Louis , ( Paris ) , aliquotés et conservés à - 30 C. Les échantillons servant aux tests de dilution et de corrélation proviennent d' aliquotes de sérum de patients conservés à - 30 C depuis leur prélèvement et n' ayant pas subi de décongélation .
+Les sérums de contrôle ( TV04 , TV05 et TV06 ) proviennent d' un programme permanent de contrôle intra-laboratoire Pro-Bio-Qual .
+3. Résultats et discussion3.1 .
+Stabilité de la calibration
+Les calibrateurs ont été dosés comme des échantillons inconnus chaque semaine pendant un mois ( durée de validité de la calibration proposée par le fabricant ) .
+Deux jeux différents de calibrateurs ont été utilisés .
+Les valeurs théoriques des calibrateurs sont indiquées entre parenthèses dans la partie « concentration » du Tableau 1.
+Tableau 1. Stabilité de la calibration .
+Deux jeux de calibrateurs ont été dosés comme des échantillons inconnus. ( NB : les valeurs des concentrations des standards non dilués sont multipliées par 21 pour le calcul des concentrations dans les échantillons à doser )
+Full-size table ( 10K )
+View Within Article
+On observe une légère baisse des concentrations mesurées entre la 1re et la 2e série .
+Mais cette baisse n' étant pas confirmée sur les séries suivantes et les coefficients de variation étant inférieurs à 10 % , la calibration semble stable sur la période testée .
+3.2. Imprécision
+L' étude de répétabilité a été réalisée sur 7 pools de sérums ( P1 à P7 ) obtenus à_partir_de prélèvements de malades , de_façon_à couvrir différents niveaux de concentration .
+Ces pools ainsi_que 3 sérums destinés au contrôle de qualité intralaboratoire ( TV04 , TV05 et TV06 Pro-bio-qual ) ont été dosés 10 fois dans une même série .
+Tableau 2. Étude de répétabilité sur 7 pools de sérums ( P1 à P7 ) et 3 sérums de contrôle de qualité intra-laboratoire ( TV04 , TV05 et TV06 Pro-bio-qual ) .
+Chaque échantillon a été dosé 10 fois de suite
+Full-size table ( 5K )
+View Within Article
+L' étude de reproductibilité a été réalisée sur les pools P1 et P3 utilisés pour l' étude de répétabilité ainsi_que sur 3 sérums destinés au contrôle de qualité intralaboratoire ( TV04 , TV05 et TV06 Pro-bio-qual ) .
+Ces échantillons ont été dosés dans vingt séries distinctes .
+Cette étude a utilisé 2 lots de réactifs : les lots 01 et 51. Pour chaque lot , 2 calibrations ont été utilisées .
+On n' observe pas de différence entre les valeurs obtenues avec les deux lots .
+Tableau 3. Étude de reproductibilité sur trois sérums de contrôle ( TV04 , TV05 et TV06 Pro-bio-qual ) et deux pools de sérum de patients ( P1 et P3 ) .
+Chaque échantillon a été dosé dans 10 séries différentes en utilisant deux lots de réactifs et deux calibrations dans chaque lot
+Full-size table ( 7K )
+View Within Article
+3.3. Test de Dilution
+Huit sérums de concentrations élevées , mais dans la gamme de mesure , ont été dilués en utilisant le diluant fourni avec les réactifs ( dilutions 1 / 2 , 1 / 4 , 1 / 8 et 1 / 16 ) et chaque échantillon a été dosé trois fois .
+Les coefficients de corrélation entre les valeurs observées et les valeurs attendues sont supérieurs à 0,995 .
+Le pourcentage moyen de récupération est de 111 % ( extrêmes 92 à 130 % ) .
+Une relative perte de linéarité a été observée pour les dilutions 1 / 8 et 1 / 16 ( pourcentage de récupération entre 120 et 130 % ) avec la moitié des échantillons étudiés , toutefois aucun défaut majeur de linéarité n' a été observé .
+3.4. Effet crochet
+Un sérum présentant une concentration très élevée ( 15000 kU / l ) a été mesuré et n' a pas généré d' effet crochet avec la méthode 27 - 29.
+3.5. Comparaison de méthode
+La comparaison a porté sur 100 échantillons dont les concentrations en CA 15-3 s' échelonnent entre 5 et 2600 kU / l .
+Comme l' indique la Fig. 2 , la corrélation entre les deux méthodes est très bonne , que ce soit sur l' ensemble des dosages ( y = 0,89x + 4,48 ; r = 0,97 ) , ou sur les 68 valeurs entre 5 et 100 kU / l ( y = 0,96x + 1,00 ; r = 0,97 ) .
+Cette bonne corrélation est confirmée par l' étude des différences et des rapports ( logiciel Valtec ) pour les valeurs les plus intéressantes en clinique ( situées entre 15 et 100 kU / l ) .
+Full-size image ( 16K )
+Fig. 2. Corrélation entre dosage CA 15-3 ( Kryptor ) et dosage 27 - 29 ( AIA 600 II ) sur 100 échantillons ( partie haute ) et plus précisément sur 68 échantillons entre 5 et 100 kU / l ( partie basse ) .
+View Within Article
+Full-size image ( 14K )
+Fig. 3. Graphiques des différences ( A ) et des rapports ( B ) pour les échantillons compris entre 15 et 100 kU / l dosés par les méthodes CA 15-3 ( Kryptor ) et 27 - 29 ( AIA 600 II ) .
+View Within Article
+3.6. Suivi des patients
+Afin d' évaluer l' intérêt clinique du test 27 - 29 , nous avons comparé l' évolution cinétique de ce marqueur avec celui du CA 15-3 chez 4 patientes suivies pour cancer du sein .
+Comme le montre la Fig. 4 , les taux de 27 - 29 sont très voisins de ceux de CA 15-3 chez trois patientes ( A , B , D ) .
+Dans le cas de la patiente C , chez qui les taux sont plus élevés en 27 - 29 qu' en CA 15-3 , l' évolution cinétique des deux marqueurs est tout_à_fait parallèle , amenant à une interprétation identique des dosages .
+Full-size image ( 18K )
+Fig. 4. Dosages CA 15-3 ( Kryptor ) et dosage 27 - 29 ( AIA 600 II ) sur des échantillons répétitifs prélevés au_cours_de l' évolution de la maladie chez 4 patientes atteintes de cancer du sein .
+View Within Article
+4. Conclusion
+L' évaluation de la nouvelle méthode de dosage du CA 27 - 29 sur l' automate AIA 600 II ( Tosoh ) fait ressortir des qualités analytiques satisfaisantes .
+En effet , la précision de la méthode évaluée à_la_fois en intra-essai et en inter-essai de_même que la stabilité de calibration n' ont pas été prises en défaut et aucun effet crochet n' a été détecté .
+De plus , l' étude de corrélation avec la méthode de dosage du CA 15-3 Kryptor ainsi_que la comparaison des cinétiques d' évolution des marqueurs pendant le suivi des patients confirme que ces deux tests sont très voisins et suggèrent que le test 27 - 29 pourrait être utile au suivi de patientes atteintes de cancer du sein .
+Remerciements
+Nous remercions la société Eurogenetics qui nous a permis d' effectuer cette étude

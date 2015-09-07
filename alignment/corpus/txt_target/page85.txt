@@ -1,0 +1,216 @@
+Matrix metalloproteinase ( MMP ) 9 ( 92 kDa ; gelatinase B ) is an endopeptidase of a large MMP family  and is related to tumor invasion and metastasis by its capacity for tissue remodeling via the extracellular matrix and for basement membrane degradation  .
+Indeed , MMP-9 is secreted as a zymogen and cleaved to an active form , and its function is tightly regulated by several multistep mechanisms  .
+Previous studies indicated that MMPs could be expressed in breast cancer tissues  .
+Aberrant overexpression of MMP-9 is associated with increased cancer-invasive potential in breast cancer cells  .
+To date , many studies have investigated the importance of MMP-9 in breast cancer metastasis  .
+Aberrant expressions of HER-2 oncogene are related to disease progression and increased invasive capacity in breast cancer , which may be due to increased MMP expression  .
+Positive MMP-9 expression correlates with HER-2 overexpression in estrogen receptor ( ER ) + diseases  .
+HER-2 is a ubiquitous transmembrane tyrosine kinase that has been implicated in different growth-related and growth-unrelated processes that are critical for the development and progression of malignant tumors , such as proliferation , survival and anchorage-independent growth , as well as cell adhesion , migration and invasion  .
+Amplification and overexpression of HER-2 / neu have been found in breast , ovarian , gastric and prostate carcinomas  .
+A recent study demonstrated that the growth factor heregulin-1 ( HRG-1 ) , which is expressed in about 30% of breast cancer malignancies , activates HER-2 receptor via the induction of heterodimeric complexes of HER-2 with HER-3 or HER-4 .
+High levels of HRG-1 , a major signaling molecule of HER-4 , correlated with tumor size and shorter disease-free survival in ER+ tumors  .
+HER-2 / HER-3 dimerization is a strong mitogen for many hormone-dependent breast cancer cell lines and has been found in the epithelial and / or stromal component of breast tumors  .
+HRG-1 induces the following : activation of HER-2 receptor , increased expression of MMP-9 and invasiveness of breast cancer cells  .
+Overexpression of HER-2 is also able to up-regulate the expression of MMP-9 and to enhance the invasive capacity of tumor cells  .
+These observations suggested that , in ER+ cells , the HRG-1 / HER-2 signaling pathway could be critical for metastatic cell spread .
+In recent studies , tissue inhibitor metalloproteinase protein ( TIMP ) has been reported as a natural MMP inhibitor and to prevent the degradation of extracellular matrix proteins .
+It abolishes the hydrolytic activity of all activated members of the metalloproteinase family , in particular that of MT1-MMP , MMP-2 and MMP-9 , which are selective for Type IV collagenolysis  .
+Thus , TIMP-1 negatively regulates MMP-9 activity  .
+However , its multifunctional role also correlates with the expression of HER-2 and mammary malignancy  .
+Resveratrol , a major component in grape , exhibited potential anticarcinogenic activity in many types of cancer  .
+The chemotherapeutic role of resveratrol could act at several stages of the multistep malignancy process  .
+However , the inhibitory effects of resveratrol on the HRG-1 / HER-2-mediated expression of MMP-9 have not been studied well yet .
+In this study , we investigated whether resveratrol could affect TIMP-1 expression and suppress the HER-2-mediated expression of MMP-9 during breast cancer cell invasion .
+2. Materials and methods2.1 .
+Reagents and antibodies .
+Recombinant HRG-1 protein , antiphosphorylation ERK-1 / 2 antibody and anti-TIMP monoclonal antibody were purchased from RD Systems , Inc. ( Minneapolis , MN ) .
+Antiphosphorylation HER-2 monoclonal antibody was purchased from Cell Signaling , Inc. ( Danvers , MA ) .
+Antiactin monoclonal antibody was purchased from Santa Cruz Biotech , Inc. ( Santa Cruz , CA ) .
+Resveratrol , l-glutamine , sodium bicarbonate , sodium pyruvate , nonessential amino acid ( NEAA ) and gelatin were purchased from Sigma , Inc. ( St. Louis , MO ) .
+Dulbecco 's modified Eagle 's medium ( DMEM ) and insulin were purchased from Invitrogen , Inc. ( Carlsbad , CA ) .
+Human breast cancer MCF-7 cells were purchased from the American Type Culture Collection ( Manassas , VA ) .
+2.2. Cell culture .
+Briefly , MCF-7 cells were cultured in a 37C humidified incubator with 5% CO2 and grown to confluency using fetal bovine serum ( FBS ) -supplemented DMEM .
+DMEM was supplemented with 10% heat-inactivated FBS , 2 mM l-glutamine , 1.5 g / L sodium bicarbonate , 1.0 mM sodium pyruvate , 0.1 mM NEAA and 4 ng / ml insulin .
+2.3. Supplementation with resveratrol .
+Human breast cancer cells were incubated with different concentrations ( 0 , 2 , 5 and 10 M ) of resveratrol .
+For efficient uptake of resveratrol by MCF-7 cells , resveratrol was dissolved in dimethyl sulfoxide as a carrier vehicle , incorporated into FBS for 30 min and mixed with DMEM .
+2.4. Gelatin zymography .
+Protein ( 20 g ) from supernatants of cultured breast cancer cells was loaded into a 7.5% polyacrylamide gel containing 0.1% ( wt / vol ) gelatin .
+The gel was incubated at room temperature for 2 h in the presence of 2.5% Triton X-100 and subsequently at 37C overnight in a buffer containing 10 mM CaCl2 , 0.15 M NaCl and 50 mM Tris ( pH 7.5 ) .
+The gel was stained for protein with 0.25% Coomassie blue and photographed on a light box .
+Proteolysis was detected as a white zone in a dark field .
+2.5. Western blot analysis .
+Human breast MCF-7 cancer cells were cultured in a 10% FBS culture medium in the presence or in the absence of resveratrol for various lengths of time ( 30 min for the phosphorylation of HER-2 and ERK1 / 2 ; 24 h for the expression of TIMP ) .
+Cells were lysed in a buffer containing the following : 1 phosphate-buffered saline , 1% Ipegal CA-630 ( Sigma , Inc. ) , 0.5% sodium deoxycholate , 0.1% sodium dodecyl sulfate with 100 M phenylmethylsulfonyl fluoride , aprotinin and specific phosphatase inhibitors , sodium orthovanadate .
+Cell lysates were cleared by centrifugation .
+Cellular proteins were fractioned on 10% sodium dodecyl sulfate - polyacrylamide gel electrophoresis , transferred to nitrocellulose membranes and blotted with antiphosphorylation ERK1 / 2 antibody , according to the manufacturer 's instructions .
+Blots were stripped and reprobed with antiactin antibody as loading control .
+TIMP and phosphorylated HER-2 were measured using the same procedure described above .
+2.6. Cell invasion assay .
+Invasion of tumor cells was analyzed in Transwell Boyden chambers with a polyvinyl / pyrrolidone-free polycarbonate filter of 8 m pore size .
+Each filter was coated with 100 l of a 1:10 diluted Matrigel in cold DMEM to form a thin continuous film on top of the filter .
+Human breast cancer cells stimulated with HRG-1 ( 50 ng / ml ) were added to each of the triplicate wells in DMEM ( 50,000 cells / well ) .
+After incubation for 16 h , cells in 10 randomly selective fields were counted .
+The number of cells invading the lower side of the filter was measured as invasive activity ( invasive index ) .
+2.7. Statistical analysis .
+We used a statistical software to analyze and determine differences in invasive capability between experimental sets of invasive cancer cells and control sets of cancer cells .
+In brief , statistical analyses of differences in invasive capability among triplicate sets of experimental conditions were performed using SAS .
+The confirmation of differences in invasion as being statistically significant requires rejection of the null hypothesis of no difference between mean invasive indices obtained from triplicate sets at the level of P=.05 ( Student 's t test ) .
+3. Results3.1 .
+Effect of resveratrol on HRG-1-mediated HER-2 activation in MCF-7 breast cancer cells .
+A previous study has indicated that HRG-1 is a strong mitogen for many hormone-dependent breast cancer cell lines and has been found in the epithelial and / or stromal component of breast tumors  .
+However , the effects of resveratrol on HRG-1 / HER-2 signaling pathways have not been demonstrated yet .
+Therefore , in the present study , we investigated whether resveratrol could inhibit the HRG-1 / HER-2-mediated expression of MMP-9 in human breast cancer cells .
+Initially , we examined the effect of resveratrol on HRG-1-mediated HER-2 activation .
+As shown in Fig. 1 , HRG-1 significantly induced the phosphorylation of HER-2 receptor .
+However , resveratrol had a negligible effect on the activation of HER-2 receptor protein without any change in the total actin protein level .
+Full-size image ( 28K )
+Fig. 1. Effect of resveratrol on HRG-1-mediated HER-2 activation in MCF-7 breast cancer cells .
+Postconfluent human breast cancer cells cultured on a 10 cm Petri dish were incubated in DMEM with 10% FBS at 37C .
+After washing out the medium , breast cancer cells were preincubated in DMEM with 10% FBS with various concentrations of resveratrol ( 0 - 10 M ) and were stimulated by HRG-1 ( 50 ng / ml ) at 37C for 30 min .
+Total cell lysates were blotted with anti-p-HER-2 antibody , as described in Materials and Methods .
+Levels of detection represent the amount of tyrosine-phosphorylated HER-2 in breast cancer cells .
+Blots were stripped and reprobed with anti-actin monoclonal antibody as loading control .
+Immunoreactive bands are noted with an arrow ( A ) .
+Densitometric analysis is shown in ( B ) .
+The data shown are representative of three independent experiments .
+View Within Article .
+3.2. Mitogen-activated protein kinase ( MAPK ) /ERK1 / 2 signaling molecule plays an important role in HRG-1-mediated MMP-9 expression in MCF-7 breast cancer cells .
+Since an MMP-9 promoter consists of AP-1-binding sites , it is plausible to investigate the important roles of MAPK and PI-3K signaling pathways in HRG-1-mediated MMP-9 activation .
+We used different specific kinase inhibitors to examine the important role of MAPK signaling pathways in the regulation of MMP-9 expression .
+Among all of them , we found that the ERK1 / 2-specific inhibitor PD098059 , at a low concentration ( 10 M ) , could significantly suppress HRG-1-mediated MMP-9 expression in human breast cancer MCF-7 cells ( Lane 2 in Fig. 2 ) .
+Further inhibitory effect was observed in the presence of resveratrol and PD098059 ( Lane 3 in Fig. 2 ) .
+No inhibitory effect was observed under treatment with a low concentration ( 10 M ) of wortmannin ( a PI-3K-specific inhibitor ) , SP600125 ( a JNK-specific inhibitor ) and SB203580 ( a p38-specific inhibitor ) ( data not shown ) .
+It suggested that the expression of MMP-9 is , in part , regulated by the ERK1 / 2 signaling pathway .
+Resveratrol is still a potential compound in the suppression of MMP-9 expression .
+Full-size image ( 22K )
+Fig. 2. MAPK/ERK1 / 2 signaling molecule plays an important role in HRG-1-mediated MMP-9 expression in MCF-7 breast cancer cells .
+Postconfluent breast cancer cells cultured on a 24 well plate were incubated in DMEM with 10% FBS at 37C .
+After washing out the medium , breast cancer cells were incubated in serum-free ( conditioned medium ) DMEM with the MEK signaling inhibitor PD098059 ( 10 M ) and were stimulated by HRG-1 ( 50 ng / ml ) at 37C for 24 h .
+Conditioned medium was collected and loaded into gelatin-containing zymogram gel .
+The gel was stained with Coomassie blue stain , as described in Materials and Methods .
+Levels of detection represent the zymogen expression of MMP-9 in breast cancer cells .
+MMP-9 bands are noted with an arrow ( A ) .
+Densitometric analysis is shown in ( B ) .
+Asterisks represent statistically significant differences compared to the HRG-1-stimulated group ( P.05 ) .
+The data shown are representative of three independent experiments .
+View Within Article .
+3.3. Effect of resveratrol on HRG-1-mediated ERK1 / 2 activation in MCF-7 breast cancer cells .
+To explore the possible mechanisms of resveratrol in the suppression of MMP-9 activity , we investigate the inhibitory effects of resveratrol on HRG-1-mediated MAPK / ERK activation .
+As shown in Fig. 3 , resveratrol could suppress HRG-1-mediated ERK1 / 2 phosphorylation without any change in total actin protein .
+It suggests that resveratrol could block the HER-2-mediated expression of MMP-9 via the suppression of ERK1 / 2 activity .
+Full-size image ( 30K )
+Fig. 3. Effect of resveratrol on HRG-1-mediated ERK1 / 2 activation in MCF-7 breast cancer cells .
+Postconfluent human breast cancer cells cultured on a 10 cm Petri dish were incubated in DMEM with 10% FBS at 37C .
+After washing out the medium , breast cancer cells were preincubated in DMEM with 10% FBS with various concentrations of resveratrol ( 0 - 10 M ) and were stimulated by HRG-1 ( 50 ng / ml ) at 37C for 30 min .
+Total cell lysates were blotted with anti-p-ERK1 / 2 antibody , as described in Materials and Methods .
+Levels of detection represent the amount of tyrosine-phosphorylated ERK1 / 2 in breast cancer cells .
+Blots were stripped and reprobed with antiactin monoclonal antibody as loading control .
+Immunoreactive bands are noted with an arrow ( A ) .
+Densitometric analysis is shown in ( B ) .
+Asterisks represent statistically significant differences compared to the HRG-1-stimulated group ( P.05 ) .
+The data shown are representative of three independent experiments .
+View Within Article .
+3.4. Effect of resveratrol on HRG-1-mediated MMP-9 expression in MCF-7 breast cancer cells .
+We further examined whether resveratrol could suppress MMP-9 expression and the invasion of breast cancer cells .
+Our results from zymogram gels indicated that resveratrol potentially blocked HER-2-mediated MMP expression in human breast cancer MCF-7 cells at a concentration of 10 M .
+These results suggested that resveratrol could play a crucial role in the down-regulation of MMP-9 expression .
+Full-size image ( 28K )
+Fig. 4. Effect of resveratrol on HRG-1-mediated MMP-9 expression in MCF-7 breast cancer cells .
+Postconfluent breast cancer cells cultured on a 24 well plate were incubated in DMEM with 10% FBS at 37C .
+After washing out the medium , breast cancer cells were incubated in serum-free ( conditioned medium ) DMEM with different concentrations of resveratrol ( 0 - 10 M ) and were stimulated by HRG-1 ( 50 ng / ml ) at 37C for 24 h .
+Conditioned medium was collected and loaded into gelatin-containing zymogram gel .
+The gel was stained with Coomassie blue stain , as described in Materials and Methods .
+Levels of detection represent the zymogen expression of MMP-9 in breast cancer cells .
+Zymogen bands are noted with an arrow ( A ) .
+Densitometric analysis is shown in ( B ) .
+Asterisks represent statistically significant differences compared to the HRG-1-stimulated group ( P.05 ) .
+The data shown are representative of three independent experiments .
+View Within Article .
+3.5. Effect of resveratrol on HRG-1-mediated human breast cancer cell invasion .
+Results from the above experiments showed that resveratrol inhibited the expression of MMP-9 via suppression of the MAPK / ERK signaling pathway .
+Since MMPs , including MMP-9 , play an important role in cellular invasion , we further examined the effects of resveratrol on HRG-1-mediated human breast cancer cell invasion .
+Our results showed that resveratrol significantly inhibited breast cancer cell invasion in the presence of HRG-1 .
+These results suggest that resveratrol could not only inhibit MMP-9 activity but also prevent the invasion of breast cancer cells under the stimulation of HRG-1 .
+Therefore , resveratrol could function as a chemotherapeutic and therapeutic agent to prevent and suppress the spread of breast cancer cells .
+Full-size image ( 57K )
+Fig. 5. Effect of resveratrol on HRG-1-mediated human breast cancer cell invasion .
+Invasion of tumor cells was analyzed in Transwell Boyden chambers with a polyvinyl / pyrrolidone-free polycarbonate filter of 8 m pore size .
+Each filter was coated with 100 l of a 1:10 diluted Matrigel in cold DMEM to form a thin continuous layer on top of the filter .
+Confluent human breast cancer cells were cultured in DMEM with 10% FBS at 37C .
+After washing out the medium , breast cancer cells were trypsinized and transferred to Matrigel-coated Transwell Boyden chambers .
+Human breast cancer cells ( 50,000 cells / well ) stimulated with HRG-1 ( 50 ng / ml ) were added to each of triplicate wells in DMEM containing various concentrations of resveratrol ( 0 - 10 M ) .
+After incubation for 16 h , cells were stained and counted as described above , and the number of cells invading the lower side of the filter was measured as invasive activity. ( A - D ) Microphotographs of invasive breast cancer cells. ( E ) The number of invasive cells .
+Asterisks represent statistically significant differences compared to the unstimulated group ( P.05 ) .
+The data shown are representative of three independent experiments .
+View Within Article .
+3.6. Effects of resveratrol on TIMP-1 expression in human breast cancer .
+Recent studies demonstrated that TIMP-1 suppresses tumor angiogenesis  .
+However , its contrasting role in the growth of mammary carcinoma has been identified  .
+Therefore , we investigated the possibility that resveratrol could affect TIMP-1 expression to suppress breast cancer invasion .
+As shown in Fig. 6 , resveratrol has no effect on the expression of TIMP-1 in human breast cancer cells .
+It suggested that the inhibitory effect of resveratrol on cell invasion does not occur through the TIMP-1 pathway .
+Full-size image ( 27K )
+Fig. 6. Effects of resveratrol on the expression of TIMP-1 in human breast cancer .
+Postconfluent human breast cancer cells cultured on a 10 cm Petri dish were incubated in DMEM with 10% FBS at 37C .
+After washing out the medium , breast cancer cells were incubated in DMEM with 10% FBS with various concentrations of resveratrol ( 0 - 10 M ) and were stimulated by HRG-1 ( 50 ng / ml ) at 37C for 24 h .
+Total cell lysates were blotted with anti-TIMP antibody , as described in Materials and Methods .
+Levels of detection represent the amount of TIMP in breast cancer cells .
+Blots were stripped and reprobed with antiactin monoclonal antibody as loading control .
+Immunoreactive bands are noted with an arrow ( A ) .
+Densitometric analysis is shown in ( B ) .
+The data shown are representative of three independent experiments .
+View Within Article .
+4. Discussion .
+Tumor angiogenesis , invasion and metastasis require controlled degradation of extracellular matrix , and increased expression of MMPs is associated with tumor invasion and metastasis of malignant tumors  .
+HER-2 / neu amplification has been shown to correlate with MMP-9 expression and tumor invasion  .
+Although resveratrol has been indicated as a strong anticarcinogenic compound , its effects on HER-2-mediated MMP-9 expression and cellular invasion have not been investigated yet .
+We initially test the possibility that resveratrol could inhibit the HER-2 signaling pathway .
+As shown in Fig. 1 , resveratrol could not suppress the phosphorylation of HER-2 receptor .
+Since HER-2 pathway could play an important role in the regulation of MMP-9 expression  , we further test the downstream signaling pathway .
+Previous studies have shown that HRG-1 could activate HER-2 and HER-3 / HER-4 heterodimers and induce the activation of downstream signaling pathways , including PI-3K and MAPK pathways .
+To investigate whether MMP-9 up-regulation is mediated through the activation of these signaling pathways , we test our hypothesis by using a low concentration ( 10 M ) of different specific kinase inhibitors , including PD098059 ( MEK inhibitor ) , wortmannin ( a PI-3K-specific inhibitor ) , SP600125 ( a JNK-specific inhibitor ) and SB203580 ( a p38-specific inhibitor ) .
+Even at a concentration of 10 M , MEK inhibitor alone could effectively block the expression of MMP-9 .
+However , no change or little change in MMP-9 expression was observed in the treatment of other kinase inhibitors ( data not shown ) .
+These results suggest that expression of MMP-9 is sensitive to the phosphorylation status of ERK1 / 2 .
+The activation of MAPK / ERK cascade plays an important role in the regulation of HRG-1-mediated MMP-9 expression .
+Thus , we further test whether resveratrol could suppress the activation of MAPK / ERK signaling molecule to block the expression of MMP-9 .
+As shown in Fig. 3 , we found that resveratrol at a low concentration of 10 M significantly inhibits the activation of the MAPK / ERK signaling pathway .
+Interestingly , we also found a very low basal ERK1 / 2 phosphorylation in MCF-7 cells , although comparable total ERK1 / 2 was detected ( data not shown ) .
+It suggested that it could compromise the extent to which resveratrol inhibited HRG-1-dependent ERK1 / 2 phosphorylation .
+One plausible explanation is that we used the early stages of MCF-7 cells ( low-malignancy cells ) rather than the later stages of MCF-7 cells ( transformed and moderate malignancy cells ) in this study .
+We are currently investigating the discrepancy based on the different stages of MCF-7 cells .
+These results suggest that resveratrol could inhibit the activation of MAPK / ERK molecule in spite of the absence of effect on HER-2 receptor .
+Joint treatment of resveratrol and PD098059 could further slightly inhibit MMP-9 expression on zymogram analysis .
+Therefore , these results did not rule out the possibility that resveratrol could also partially inhibit other signaling pathways and further block MMP-9 expression .
+To test the hypothesis that resveratrol effectively suppresses cell invasion in part through MMP-9 down-regulation , we investigate the inhibitory effects of resveratrol on HRG-1-mediated MMP-9 expression in human breast cancer cells .
+As shown in this study , resveratrol significantly suppressed MMP-9 expression in human breast cancer MCF-7 cells .
+We also found that a low level of resveratrol could slightly induce the expression of MMP-9 .
+It might suggest that resveratrol could have agonistic effects on ER to induce the expression of MMP-9 , although we are currently investigating this possibility .
+To further confirm the anticarcinogenic role of resveratrol , we investigated the effect of resveratrol on cellular invasion .
+As shown in Fig. 5 , resveratrol significantly inhibited cellular invasion in a dose-dependent manner .
+A recent study suggested that TIMP gene expression negatively inhibits MMP activity and suppresses cell angiogenesis  .
+However , TIMP-1 has emerged with a multifunctional role , with contrasting roles of inhibiting tissue-degrading enzymes and promoting mammary growth  .
+To test the important role of TIMP-1 , we examine whether resveratrol affects TIMP-1 expression to block cell invasion .
+As shown in Fig. 6 , resveratrol has a negligible effect on TIMP-1 expression in human breast cancer cells .
+We also found that HRG-1 slightly induced the expression of TIMP-1 .
+It suggested that TIMP-1 expression might correlate with the activation of HER-2 receptor .
+We are currently investigating the molecular mechanisms of TIMP-1 in mammary malignancy .
+We demonstrated that resveratrol suppressed MMP-9 expression , as well as invasion of breast cancer .
+Recent studies also indicated that resveratrol also failed to modulate other receptor tyrosine kinases , such as vascular endothelial growth factor receptor-2  .
+It is consistent with our findings that resveratrol acts as a chemotherapeutic agent in targeting intracellular signaling molecules .
+Thus , resveratrol could regulate MMP-9 activity in part through suppression of MAPK/ERK1 / 2 signaling pathways .
+Previous studies have indicated that AP-1-binding sites exist in the promoter region of MMP-9 .
+AP-1 transcriptional factor is mainly regulated by the activation of MAPK signaling pathways .
+Our results showed that blockade of MAPK signaling pathways could contribute to the inhibition of MMP-9 expression .
+Reduced activation of ERK1 / 2 and MMP-9 by resveratrol correlates with the low level of breast cancer invasion in the present study .
+Baur and Sinclair  recently suggested the anticancer properties and therapeutic potential of resveratrol in vivo .
+Our previous study also indicated that phytochemical compounds could inhibit tumor angiogenesis and metastasis  .
+Since resveratrol has long been demonstrated to have anticancer effects , it is plausible that a mixture of these grapeseed extracts and resveratrol might be more effective than a single compound in suppressing tumor growth , invasion and metastasis .
+In the present study , we demonstrated that resveratrol inhibits MMP-9 expression and blockade of cell invasion in human breast cancer cells .
+Resveratrol might act as a therapeutic agent in the inhibition of cancer development .
+These findings provide a novel mechanistic insight into the potential effects of resveratrol on the suppression of tumor invasion and metastasis .
+Acknowledgment .
+This material is based on work supported , in part , by a Department of Health grant ( under agreement no. DOH95-TD-F-113-010 ) , a National Science Council grant ( under agreement no. NSC 94-2320-B-030-011 ) and a China Medical University grant ( under agreement no. CMU95-192 ) .
+We thank Chia-Hsin Shih and Chin-Hua Pan for data analysis .

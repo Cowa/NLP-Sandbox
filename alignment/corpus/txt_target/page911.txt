@@ -1,0 +1,380 @@
+The cancer stem cell hypothesis suggests that many cancers are maintained in a hierarchical organization of rare , slowly dividing cancer stem cells ( or tumor-initiating cells , T-IC ) , rapidly dividing amplifying cells ( early precursor cells , EPC ) and differentiated tumor cells  .
+Tentatively defined T-IC have been identified in hematologic , brain , breast , prostate , liver , pancreas , and colon cancers .
+T-IC , which are self renewing and can differentiate into multiple lineages , are highly tumorigenic in immunodeficient mice .
+According to the hypothesis , T-IC are not only the source of the tumor but also may be responsible for tumor progression  , metastasis  , resistance to therapy , and subsequent tumor recurrence  .
+Breast T-IC ( BT-IC ) can be enriched by sorting for CD44+CD24 / low cells  , by selecting for side-population ( SP ) cells that efflux Hoechst dyes  , or by isolating spherical clusters of self-replicating cells ( mammospheres ) from suspension cultures  .
+However , these methods purify both T-IC and some EPC ( [ Al-Hajj et al. , 2003 ] and [ Ponti et al. , 2005 ] ) .
+Since miRNAs regulate differentiation and can function as either tumor suppressors or oncogenes to regulate tumor development and prognosis  , we looked at whether differences in miRNA expression might distinguish BT-IC / EPC from their more differentiated progeny. miRNAs are known to contribute to preserving stemness of embryonic stem ( ES ) cells , because ES cells deficient in miRNA processing cannot be maintained  .
+Previous studies have shown an overall reduction in miRNA expression in embryonic or tissue stem cells  , and changes in specific miRNAs have been associated with ES cell self renewal and differentiation  .
+Moreover , miRNA-expression profiling can help characterize the stage , subtype , and prognosis of some cancers  .
+Because BT-IC are relatively resistant to chemotherapy , we are able to generate large numbers of BT-IC-enriched cells by in vivo passage of breast cancer cells in NOD / SCID mice treated with chemotherapy .
+We find that miRNA expression is globally reduced in BT-IC compared with more differentiated cancer cells .
+In particular , the let-7 family is not expressed by BT-IC generated from cell lines or 1 patient tumors and increases with differentiation .
+By expressing let-7 but not other differentially expressed oncomirs , in BT-IC or antagonizing let-7 in more differentiated cells , we find that let-7 regulates the key features of breast cancer stem cellsself renewal in vitro , multipotent differentiation , and the ability to form tumors that can be serially transplanted and metastasize in NOD / SCID mice .
+Protein expression of the let-7 targets RAS  and HMGA2  is high in BT-IC and silenced during differentiation .
+RAS silencing contributes to loss of self renewal but does not affect multipotent differentiation , while silencing HMGA2 enhances multilineage differentiation but has no effect on self renewal .
+Results Chemotherapy Selectively Enriches for Self-Renewing Breast Cancer Cells .
+Resistance to chemotherapy distinguishes T-IC from other cancer cells  .
+To examine whether chemotherapy might enrich for BT-IC , we compared the proportion of in vitro self-renewing cancer cells in 1 breast cancers from patients who received neoadjuvant chemotherapy with tumors resected from chemotherapy-naive patients ( Table S1A ) .
+Freshly isolated cells were cultured in suspension to generate mammospheres , a method for culturing both mammary gland progenitor cells  and BT-IC  .
+Mammosphere generation is an in vitro assay of self-renewal potential  .
+After 15 days , 5.8% 2.6% of tumor cells from 5 neoadjuvant chemotherapy patients formed mammospheres as compared with 0.4% 0.3% from 8 chemotherapy-naive patients , a 14 fold increase ( p 0.001 , Figure 1A ) .
+Furthermore , 1 mammospheres from chemotherapy patients could be passaged for at least eight to ten generations ( endpoint of the study ) , while those from patients without chemotherapy vanished within two to three generations .
+In the 1 breast cancers ; 74% 7% of tumor cells from chemotherapy-treated patients , but only 9% 4% of cells from untreated patients , were CD44+CD24 / low , the phenotype ascribed to BT-IC ( [ Al-Hajj et al. , 2003 ] and [ Ponti et al. , 2005 ] ) ( p 0.001 , Figure 1B ) .
+Enrichment of BT-IC by chemotherapy was confirmed by studying paired specimens from seven patients obtained by biopsy prior to chemotherapy and at surgery following neoadjuvant chemotherapy .
+Only 0.5% 0.3% of tumor cells before chemotherapy , but 5.9% 1.7% of cells obtained after chemotherapy , formed mammospheres after 15 days of suspension culture ( p 0.001 , Figure S1A ) .
+Similarly , the proportion of CD44+CD24 / low cells was 9.5 fold higher in samples after chemotherapy ( p 0.001 , Table 1B ) .
+In another patient group with metastatic pleural effusions who had received chemotherapy 2 - 6 years before , pleural cancer cells were highly enriched ( 31% 10% ) for CD44+CD24 / low cells ( Table S1C ) .
+These data from three cohorts suggest that chemotherapy selectively enhances the proportionate survival of BT-IC .
+Full-size image ( 127K )
+High-quality image ( 1660K )
+Figure 1. Breast Cancer Cells under Pressure of Chemotherapy Are Enriched for BT-IC .
+( A and B ) 1 breast cancers from patients who received neoadjuvant chemotherapy are substantially enriched for self-renewing cells with the expected properties of BT-IC , compared to untreated patients .
+Representative images show increased numbers of mammospheres after 15 days of culture ( A ) and a higher percentage of CD44+CD24 cells in freshly isolated tumors ( B ) from a patient who received chemotherapy. ( Tumors resected from eight patients who did not receive chemotherapy and five patients who received neoadjuvant chemotherapy were analyzed [ Table S1A ] ) .
+( C ) Similarly , passaging the human breast cancer line SKBR3 in epirubicin-treated NOD / SCID mice enriches for cells with BT-IC properties .
+SK-3rd cells from the third passage xenograft form more mammospheres than the parent line , and the mammospheres can be repetitively passaged in vitro and are larger .
+Shown are numbers of 1 , 2 ( generated from dissociated 1 spheres ) , and 3 ( generated from dissociated 2 spheres ) mammospheres on day 15 from 1000 cells. , p 0.001 compared with SKBR3 .
+Error bars correspond to mean SD .
+( D ) Mammospheres generated from single-cell cultures of SK-3rd and SKBR3 , imaged on indicated day of suspension culture .
+Shown are the mean SD number of cells / sphere for each time. , p 0.001 compared with SKBR3 .
+Error bars correspond to mean SD .
+( E ) The majority of freshly isolated SK-3rd cells are CD44+CD24 , as expected for BT-IC , while cells with this phenotype are rare in SKBR3 ( representative data of five experiments shown ) .
+( F ) SK-3rd and SKBR3 cells cultured as spheres are CD44+CD24 .
+When they differentiate in adherent cultures , they gradually assume the parental SBKR3 phenotype , but somewhat more rapidly for SKBR3 mammospheres .
+( G ) When SK-3rd spheres are dissociated , removed from growth factors , and plated on collagen for 8 hr ( top ) , they do not express luminal ( Muc1 and CK-18 ) or myoepithelial ( CK-14 and -SMA ) differentiation markers , while after further differentiation ( bottom ) , they develop into elongated cells with subpopulations staining for either differentiated subtype .
+( H ) Freshly isolated SK-3rd cells are enriched for Hoechstlow SP cells compared with SKBR3 cells .
+View Within Article .
+We took advantage of this finding to see if we could enrich for BT-IC by consecutively passaging breast cancer cells in NOD / SCID mice treated with chemotherapy .
+Mice injected in the mammary fat pad with SKBR3 cells were treated with epirubicin weekly for 10 - 12 weeks until xenografts reached 2 cm diameter .
+Cells from the third passage ( SK-3rd ) were cultured in suspension to generate mammospheres .
+The number of mammospheres reflects the quantity of cells capable of in vitro self renewal , while the number of cells / sphere measures the self-renewal capacity of each sphere-generating cell ( [ Dontu et al. , 2003 ] and [ Dontu et al. , 2004 ] ) .
+SK-3rd formed 20 fold more spheres than SKBR3 ( 16.3% versus 0.8% , p 0.001 ; Figure 1C ) .
+Moreover , dissociated SK-3rd cells from 1 mammospheres generated an equivalent proportion of 2 and 3 spheres , demonstrating their in vitro self-renewing potential .
+SK-3rd mammosphere cultures could be maintained for 50 passages , while within three to four passages , SKBR3 mammospheres failed to generate 2 spheres , became adherent , and differentiated .
+These findings were confirmed by single-cell cloning ( Figure S2 ) .
+SK-3rd mammospheres were observed beginning at day 5 and increased in size and cell number until day 15 .
+Mammospheres could be passaged 40 times from single-cell SK-3rd clones .
+However , mammospheres did not appear until day 15 in parental SKBR3 cells and were about 18 fold fewer in number and much smaller .
+In addition , freshly isolated SK-3rd formed 4 fold more colonies than SKBR3 in a colony-forming assay that correlates with self renewal  ( Figure S3 ) .
+Seventy-two percent of freshly isolated SK-3rd cells , compared to 0.5% of SKBR3 cells , were CD44+CD24lin .
+Moreover , 93% of SK-3rd sphere cells were CD44+CD24lin .
+When cells were plated on collagen under differentiating conditions in serum , only 2% remained CD44+CD24 by day 10 .
+Similarly , 93% of freshly isolated mammospheric cells from SKBR3 were CD44+CD24lin , while after 10 days of differentiating conditions , 1% maintained this phenotype .
+Furthermore , sphere-derived SK-3rd and SKBR3 cells , but not parental SKBR3 cells , highly expressed stem cell-associated OCT4  , which declined with in vitro differentiation ( Figure S4 ) .
+Therefore , SK-3rd and SKBR3 mammospheric cells not only have self-renewing and differentiating capability in vitro but also have the phenotype expected of BT-IC .
+SKBR3 mammosphere cells , however , may be subtly different from SK-3rd mammospheres ; although they initially had similar proportions of CD44+CD24lin cells , the SKBR3-derived mammospheres lost this phenotype more rapidlyon day 3 of differentiation , 15% of SKBR3 mammospheric cells versus 32% of SK-3rd cells were CD44+CD24lin , CD24 staining was brighter on differentiated SKBR3 cells , and a larger proportion of SKBR3 cells were CD44 .
+Taken together with the slower growth and smaller size of SKBR3 mammospheres and our inability to passage them as spheres , these data suggest that SKBR3 mammospheres may have undergone a first step toward losing self-renewing capacity .
+A key property of T-IC is multipotency .
+Mammospheric SK-3rd cells were round and did not stain for cytokeratins ( CK ) or other differentiation markers , such as mucin 1 ( MUC1 ) and -smooth-muscle actin ( -SMA ) , even after they adhered to collagen for 8 hr .
+However , after further differentiation , they developed into elongated cells with subpopulations staining for either myoepithelial ( CK14 , -SMA ) or luminal epithelial ( CK18 , MUC1 ) markers .
+As expected , the differentiated cells also lost self-renewal potential since only 1.5% 0.5% of cells maintained under differentiating conditions for 10 days formed spheres , an 11 fold reduction compared to cells grown as spheres .
+T-IC are also believed to be resistant to chemotherapy , in part from overexpressing an ATP-binding cassette half-transporter ABCG2  .
+This property correlates with the ability to expel dyes , defined as a flow cytometry side population ( SP ) .
+Freshly isolated SK-3rd cells contained 26 fold more SP cells than SKBR3 ( 15.7% 4.2% versus 0.6% 0.4% , n = 5 , p 0.001 ; Figure 1H ) .
+In line with this , mammospheric SK-3rd , but not differentiated SK-3rd or SKBR3 , stained for ABCG2 by immunoblot ( Figure S4 ) .
+Reduced ABCG2 was not a direct consequence of chemotherapy , as a similar reduction was observed in mammospheric SK-3rd and chemotherapy-unexposed mammospheric SKBR3 .
+ABCG2 mRNA paralleled differences in protein ( not shown ) .
+Moreover , mammospheric SK-3rd and SKBR3 cells were relatively resistant to epirubicin , compared to differentiated SK-3rd or SKBR3 ( not shown ) .
+An important T-IC feature is efficient xenograft formation  .
+When 2103 mammospheric SK-3rd cells were inoculated into NOD / SCID mice , eight out of ten mice generated tumors .
+All animals injected with 10- or 100 fold more cells developed tumors .
+By contrast , no mice inoculated with 2103 or 2104 SKBR3 cells developed tumors , while tumors developed in only three out of ten animals inoculated with 2105 SKBR3 cells .
+Therefore , mammospheric SK-3rd cells were at least 100 fold more tumorigenic than SKBR3 .
+Importantly , mammospheric tumor cells from SK-3rd xenografts could be serially passaged into 2 and 3 recipients , while the unselected cells could not ( Table S2 ) .
+The potent tumorigenic capability of mammospheric SK-3rd cells upon serial xenotransplantation suggests in vivo self-renewing capacity  .
+Table 1A .
+Incidence of Tumors and Metastasis by Mammospheric SK-3rd Cells and SKBR3 Cells in NOD / SCID Mice .
+Number of Cells Inoculated2 10321042 105 TumorsLung MetastasisLiver MetastasisTumorsLung MetastasisLiver MetastasisTumorsLung MetastasisLiver Metastasis Mammospheric SK-3rd cellsuntransduced8/106/103/1010/107/104/1010/108/106 / 10 lentivector8/105/103/1010/108/105/1010/108/105/10 lenti-let-72/101/100/105/103/101/107/104/103 / 10 RAS-shRNA3/102/101/107/105/103/1010/107/104/10 parent SKBR30/10$0/100/100/10#0/10$0/103/10$0/10#0 / 10 .
+Full-size table .
+, p 0.05 ; $ , p 0.01 ; # , p 0.001 compared with untransduced mammospheric SK-3rd cells .
+View Within Article .
+It has been hypothesized that only cancer cells with T-IC properties can initiate metastases  .
+We therefore compared lung and liver metastases of SK-3rd and SKBR3 xenografts .
+Five weeks after inoculation with 2105 mammospheric SK-3rd cells , massive lung metastases were visualized by microscopy in eight out of ten mice , but no mice injected with the same number of SKBR3 developed microscopic lung metastases , analyzed when 1 SKBR3 tumors reached the same size ( 2 cm diameter ) as SK-3rd xenografts .
+Similarly , 2105 mammospheric SK-3rd cells generated liver micrometastases in six out of ten mice , but SKBR3 cells produced none .
+To determine whether chemotherapy is needed to maintain a stable percentage of self-renewing cells , we compared mammospheric SK-3rd-generated tumors further passaged in NOD / SCID mice treated or not with chemotherapy ( SK-4th [ + ] and SK-4th [ ] , respectively ) .
+SK-4th ( + ) contained an equal percentage of sphere-forming cells as SK-3rd ( Table S3 and Figure 1 ) , suggesting that the proportion of BT-IC had already plateaued by the third passage .
+In contrast , SK-4th ( ) cells generated 8 fold fewer spheres , implying that selective pressure from chemotherapy is required to maintain the proportion of self-renewing cells in vivo .
+When 2103 or 2104 mammosphere-selected SK-4th ( + ) or SK-4th ( ) cells were injected into NOD / SCID mice , tumors developed in virtually all animals and the majority of these metastasized ( Table S3 ) .
+There was no significant difference in tumor formation or metastasis by mammospheric SK-3rd , SK-4th ( + ) or SK-4th ( ) cells , while unselected SK-4th cells , whether from chemotherapy-exposed mice or not , generally did not generate tumors from this number of cells .
+Therefore , chemotherapy selects for self-renewing BT-IC and prevents their differentiation in xenografts but is not responsible for BT-IC tumor-forming capacity .
+Collectively , these data show that in vivo passaging of breast cancer lines under chemotherapy pressure enriches for BT-IC .
+At least 16% of SK-3rd cells displayed all the expected properties of T-IC : in vitro stable mammosphere formation , growth under nonadherent conditions , multipotent differentiation , lin-CD44+CD24 phenotype and drug-expelling SP , and a high rate of forming tumors capable of serial transplantation as xenografts  .
+Mammospheric Cells Have Reduced let-7 .
+Because miRNA help regulate cell differentiation , we took advantage of our ability to obtain large numbers of self-renewing cells to compare miRNA expression in mammospheric SK-3rd with their in vitro differentiated progeny and SKBR3 .
+Most of the 52 miRNAs expressed above background in any of the lines had reduced expression in mammospheric SK-3rd cells either freshly dissociated ( Figure 2A , lane 1 ) or briefly adhered ( 8 hr , lane 2 ) compared with cells differentiated under adherent conditions ( 1 day , lane 3 ; 10 days , lane 4 ) or SKBR3 ( lane 5 ) .
+During differentiation most reduced miRNAs gradually increased to the level in SKBR3 .
+Cluster analysis of multiple samples showed a clear distinction between mammospheric versus differentiated cells and SKBR3 ( not shown ) .
+Using ANOVA analysis on normalized chip data , we identified a number of miRNAs whose expression in mammospheres was significantly different from the differentiated and parent cells .
+Among them , the let-7 family emerged as the most consistently and significantly reduced miRNAs .
+Some other miRNAs , including miR-16 , miR-107 , miR-128a , and miR-20b , showed the same expression pattern as let-7. let-7 was initially identified as a miRNA that regulates C. elegans development  , where it targets key genes including lin-41 , hbl , daf-12 , pha-4 , and let-60 , a RAS homolog  .
+There are 11 human let-7 family members , differentially expressed in different tissues , that are believed to have redundant targets and functions  . let-7 , which is downregulated in some human cancers and associated with poor lung cancer prognosis  , targets RAS  and HMGA2  , which encodes a DNA-binding protein implicated in mesenchymal cell differentiation and tumor formation .
+This paper focused on let-7 because it is a known tumor suppressor .
+Full-size image ( 155K )
+High-quality image ( 1422K )
+Figure 2. let-7 miRNA Is Reduced in Mammospheric SK-3rd Cells and 1 Tumor BT-IC .
+( A - C ) miRNA array analysis shows miRNAs differentially expressed in SK-3rd cells cultured in mammospheres ( 1 ) or adhered for 8 hr ( 2 ) , 24 hr ( 3 ) , or 10 days ( 4 ) and parent SKBR3 ( 5 ) .
+Most miRNAs , including all let-7 homologs , are reduced in SK-3rd cultured in mammospheres or just adhered for 8 hr , and increase during differentiation to similar levels as SKBR3 .
+Northern blot probed for let-7 ( B ) and qRT-PCR amplified for let-7a ( C , mean SD relative to U6 ) verify the microarray results .
+Spheres derived from either SK-3rd or SKBR3 show similar low expression of let-7 that increases gradually beginning 1 days following induction of differentiation and plateaus within 6 days. # , p 0.01 ; , p 0.001 as compared with cells cultured in spheres .
+Error bars correspond to mean SD .
+( D ) let-7 function , assayed by luciferase assay , is negligible in SK-3rd , but increases upon differentiation or infection with lenti-let-7 ( , p 0.001 compared with mammospheric SK-3rd ) .
+Transfection with let-7 ASO reduces endogenous or exogenous let-7 activity ( # , p 0.01 compared to untransfected cells ) .
+Error bars correspond to mean SD .
+( E and F ) H-RAS ( E ) and HMGA2 ( F ) , targets of let-7 , are highly expressed in mammospheric SK-3rd but not in differentiated adherent SK-3rd or SKBR3 ( protein assayed by immunoblot relative to -actin ) .
+Infection with lenti-let-7 or lentivirus encoding RAS- or HMGA2-shRNA , but not GFP-shRNA or vector , suppresses H-RAS or HMGA2 expression , respectively , in mammospheric SK-3rd cells , while transfection of SKBR3 with let-7 ASO augments H-RAS and HMGA2 protein .
+( G - I ) In addition , tumors from eight untreated patients and five patients treated with neoadjuvant chemotherapy were enriched for BT-IC by sorting for linCD44+CD24 cells or by growth as mammospheres .
+Tumors depleted of BT-IC by adherent growth or by excluding CD44+CD24 cells also have reduced let-7 compared to adjacent normal breast tissue .
+FACS analysis and northern blots probed for let-7 and U6 are shown in ( G ) and ( H ) , respectively , for representative untreated ( #7 , Table S1 ) and neoadjuvant chemotherapy treated ( #5 ) patients .
+Mean SD of relative let-7 expression for all samples analyzed by qRT-PCR ( I ) ; data for each patient are in Figure S9A .
+Infection with lenti-let-7 increases let-7 in BT-IC-enriched 1 cells. # , p 0.05 ; , p 0.01 compared with samples depleted of CD44+CD24 cells .
+View Within Article .
+To verify the reduction of let-7 in mammospheric cells , we performed northern blot using a probe that recognizes all let-7 homologs  and qRT-PCR using let-7a-specific primers .
+By both assays , let-7 was barely detected in mammospheric SK-3rd , did not change after 8 hr of adherence , but began to increase within 1 day and increased further over 10 days of differentiation. let-7 also was not expressed in SKBR3 mammospheres and was upregulated upon in vitro differentiation with similar kinetics .
+Therefore , although we cannot rule out the possibility that chemotherapy exposure alters properties of pre-existing self-renewing cells , reduced let-7 is not a consequence of chemotherapy or anchorage-independent growth but rather a corollary of self-renewal capacity .
+After 10 days , let-7 expression in the differentiated cells increased 10 fold and was not significantly different from let-7 expression in SKBR3 .
+Reduction of some other tumor-related miRNAs ( miR-15a , miR-16 , miR-21 ) in SK-3rd spheres was also verified by qRT-PCR using specific miRNA primers ( Figure S6 ) . miR-15a was reduced 3 fold ( p 0.05 ) and miR-16 4 fold ( p 0.01 ) in mammospheric SK-3rd as compared with SKBR3 or differentiated SK-3rd. miR-21 was reduced by 50% , but not significantly ( p 0.05 ) .
+To investigate let-7 function , we transfected a luciferase reporter containing a let-7 target 3UTR sequence into mammospheric or differentiated SK-3rd and SKBR3 .
+Luciferase activity was suppressed by 52% in differentiated SK-3rd ( p 0.001 ) and by 78% in SKBR3 ( p 0.001 ) , while there was no suppression in SK-3rd .
+Infection of SK-3rd with a lentivirus expressing let-7a enhanced miRNA expression and function comparably to that of the differentiated cells ( Figures S7 and 2D ) .
+Cotransfection of differentiated SK-3rd cells , SKBR3 , or lenti-let-7a-infected SK-3rd with a let-7a antisense oligonucleotide ( ASO ) significantly reduced the suppression in luciferase activity by endogenous or exogenous let-7 ( p 0.01 , Figure 2D ) .
+Transfection of let-7a ASO in SKBR3 reduced not only let-7a but also let-7b , let-7e , and let-7i , expression by qRT-PCR analyzed using specific primers ( p 0.001 , Figure S8 ) .
+Because of the close homology within the let-7 family , a single ASO may be able to inhibit the entire family or many of its members .
+Since RAS and HMGA2 are known let-7 targets , we compared their expression in the three cell lines .
+H-RAS and HMGA2 proteins were highly expressed in mammospheric SK-3rd cells but greatly reduced in differentiated SK-3rd cells and SKBR3 . ( Other RAS proteins were not detected in these cells [ not shown ] . ) Expressing lenti-let-7a or shRNA against either gene in mammospheric SK-3rd reduced H-RAS and / or HMGA2 to the level in differentiated cells , while let-7 ASO in SKBR3 upregulated both proteins substantially .
+However , H-RAS and HMGA2 mRNA , measured by qRT-PCR , did not differ significantly among the three cell lines ( not shown ) .
+Therefore , let-7 silences RAS and HMGA2 expression by inhibiting translation as previously reported ( [ Johnson et al. , 2005 ] and [ Mayr et al. , 2007 ] ) , rather than by cleaving mRNA  .
+Moreover , reduced let-7 in mammospheric cells leads to RAS and HMGA2 overexpression .
+let-7 Is Reduced in BT-IC from Clinical Cancer Specimens .
+Reduced let-7 in SK-3rd or SKBR3 mammospheres suggested that let-7 might be reduced in 1 BT-IC .
+We therefore examined let-7 expression by northern blot and qRT-PCR in BT-IC selected from the three groups of patient specimens .
+BT-IC were enriched by culture as mammospheres or by sorting freshly isolated cells for linCD44+CD24 cells .
+Both the mammospheres and sorted cells , composed mostly of BT-IC and EPC ( [ Al-Hajj et al. , 2003 ] and [ Ponti et al. , 2005 ] ) , from patients in Table S1A , had reduced let-7 as compared with either adherent cells or tumor cells that were not CD44+CD24 ( p 0.01 ) .
+Figure 2H shows northern blots from a representative patient who received chemotherapy and one who did not , while Figures 2I and S9A depict the mean standard deviation ( SD ) and individual patient data , respectively , of qRT-PCR analysis of let-7a / U6 expression. let-7 expression in normal adjacent breast tissue was 35% higher than in 1 cancer cells depleted of BT-IC , consistent with a prior report that breast cancers express less let-7 than normal breast tissue  .
+Transduction with lenti-let-7 , but not with lentivector , enhanced let-7 expression comparably to that of the 1 cancers depleted of BT-IC ( p 0.05 ) .
+Although there were more BT-IC in the patients who received chemotherapy ( Figures 1A and 1B and Table S1 ) , let-7 reduction in mammospheres or sorted lin-CD44+CD24 cells was comparable whether or not patients received preoperative chemotherapy .
+Reduced let-7 in 1 cancer cells enriched for BT-IC , either by growth as mammospheres or by sorting for BT-IC phenotype , was also confirmed and shown to be independent of chemotherapy exposure or whether the tumors were 1 or metastatic in samples from the other two patient groups ( Figures S9B and S9C ) .
+Therefore , reduced let-7 is an intrinsic property of BT-IC / EPC .
+Reduced let-7 Is Required to Maintain Mammospheres .
+To test whether low let-7 is important for self renewal , we studied the effect of enforced let-7a expression by mammosphere assay .
+SK-3rd cells infected with lenti-let-7a formed 5.3 fold fewer mammospheres than uninfected SK-3rd or SK-3rd cells infected with empty or eGFP-shRNA lentiviruses .
+Mammosphere formation was also delayed , and the mammospheres that formed were 2- to 3 fold smaller in let-7a-expressing SK-3rd cells than control SK-3rd cells .
+Importantly , let-7a-transduced mammospheres could only be passaged for eight to ten generations , whereas the untransduced spheres could by passaged for at least 50 generations ( 1 year ) .
+Therefore let-7a weakened self-renewal capacity under nonadherent conditions .
+Conversely , transfecting let-7 ASO into parental SKBR3 or differentiated SK-3rd cells enhanced mammosphere formation 6 fold . let-7 ASO also greatly increased the percentage of SP and CD44+CD24 cells in differentiated SK-3rd and SKBR3 ( Figure S10 ) .
+Full-size image ( 69K )
+High-quality image ( 495K )
+Figure 3. SK-3rd Cells Engineered to Express let-7a Lose Ability to Form Mammospheres and Proliferate Less under Differentiating Conditions .
+( A and B ) Single-cell cultures of dissociated SK-3rd cells , infected with lenti-let-7 or lentivirus-expressing RAS-shRNA but not GFP-shRNA or empty vector , form fewer mammospheres ( A ) , and mammospheres that do form develop more slowly and are reduced in cell number ( B ) ( , p 0.0001 compared to untransduced cells ) .
+Error bars correspond to mean SD .
+( C ) Conversely , SKBR3 and differentiated SK-3rd cells transfected with let-7a , but not control lin-4 , ASO , generate 10 fold more mammospheres .
+Error bars correspond to mean SD .
+( D ) BT-IC-enriched cells , sorted for linCD44+CD24 / low phenotype from 1 chemotherapy-naive breast tumors , have a markedly higher capacity to form mammospheres compared with CD44+CD24-depleted cells .
+Transduction with lenti-let-7 , but not lentivector , reduces mammosphere generation. , p 0.001 compared with untransduced cells .
+Mammosphere formation by let-7-transduced BT-IC is also significantly reduced on serial passage but is stable in untransduced cells .
+( E ) SK-3rd cells infected with lenti-let-7 , and to a lesser extent RAS-shRNA lentivirus , proliferate less during in vitro differentiation than untransduced or control cells as measured by [ 3H ] -incorporation , p 0.01 ; # , p 0.05 compared with untransduced SK-3rd .
+View Within Article .
+Enforced let-7 expression also reduced mammospheres formed by 1 patient BT-IC .
+When sorted linCD44+CD24 cancer cells from chemotherapy-naive patients were infected with lenti-let-7 , the percentage of 1 mammospheres from single-cell cultures declined 3 fold ( Figure 3D , p 0.001 ) .
+Moreover , although the untransduced lin-CD44+CD24 cells maintained stable sphere-forming capacity upon in vitro passage , the number of 2 and 3 spheres formed by the corresponding let-7-expressing cells declined with each passage ( Figure 3D , p 0.05 ) .
+Although other tumor-related miRNAs ( i.e. , miR-15a and miR-16 ) were reduced in mammospheric SK-3rd ( Figures 2A and S6 ) , exogenously expressing these miRNAs to SKBR3 levels did not alter mammosphere formation ( p 0.05 , Figure S6 ) .
+Moreover , although BCL-2 has been identified as a target of miR-15a / 16  , transduction of miR-15a or miR-16 in mammospheric SK-3rd did not reduce BCL-2 protein in these cells , suggesting that effective targeting may vary with the cellular context ( Figure S6 ) .
+Reduced let-7 Maintains Proliferation but Inhibits Differentiation .
+Another property of self-renewing cells is the potential to expand under differentiating conditions .
+Mammospheric SK-3rd proliferated at half the rate of SKBR3 as measured by [ 3H ] incorporation .
+Under differentiating conditions , SK-3rd proliferation increased 7 fold from baseline to a peak on day 4 and then fell by day 8 to a level somewhat higher than that of SKBR3 ( p 0.01 ) .
+When SK-3rd cells were transduced to express let-7 , peak [ 3H ] -incorporation declined by 58% , demonstrating that let-7 reduces the proliferative potential of differentiating precursor cells .
+Another T-IC hallmark is their undifferentiated state and potential for multilineage differentiation .
+Mammospheric SK-3rd expressed neither myoepithelial CK14 nor luminal epithelial CK18 , while SKBR3 was 70% CK14+CK18 and 30% CK14CK18+ ( Figures S11A and S11B ) .
+After 10 days of differentiation , most SK-3rd cells expressed differentiation markers ( 44% 4% CK14+CK18 , 28% 7% CK14CK18+ ) , but 15% 3% remained lin. let-7a overexpression significantly ( p 0.001 ) reduced the proportion of lin cells to 78% 6% in mammospheric SK-3rd and to 6% 2% in differentiated SK-3rd .
+Control lentiviruses , including a lentivirus expressing RAS-shRNA ( see below ) , had no effect on maintaining the lin population under differentiating conditions .
+Conversely , let-7 ASO greatly increased the percentage of residual CK14CK18 cells in both differentiated SK-3rd and SKBR3 ( p 0.001 , Figure S11C ) .
+Similarly , let-7 transduction of linCD44+CD24 cells , isolated from patient cancers , reduced the proportion of CK14CK18 cells 2 fold ( p 0.001 , Figure S11D ) .
+Therefore , low let-7 helped maintain the undifferentiated status and proliferative potential of mammospheric cells from a cell line and of 1 tumor BT-IC .
+Silencing RAS or HMGA2 Partially Recapitulates the Effect of let-7 .
+We next examined whether the effects of reduced let-7 on promoting self renewal and multilineage differentiation could be attributed to RAS or HMGA2 .
+RAS-shRNA or HMGA2-shRNA reduced H-RAS or HMGA2 , respectively , in SK-3rd to the level in SKBR3 or differentiated SK-3rd and comparably to that by let-7a-lentivirus .
+SK-3rd with silenced H-RAS formed about half as many mammospheres as untransduced or vector-transduced SK-3rd but about three times more than cells infected with lenti-let-7a .
+Moreover , the mammospheres were intermediate in size ( 46594 cells versus 745155 cells for untransduced SK-3rd and 27782 cells for let-7a-transduced SK-3rd on day 20 , Figure 3B ) .
+Silencing RAS also reduced SK-3rd proliferation under differentiating conditions , but much less than expressing let-7a ( Figure 3E ; p 0.001 on day 4 of differentiation , the peak of proliferation ) .
+Silencing RAS , unlike overexpressing let-7a , in either mammospheric or differentiated SK-3rd did not reduce the proportion of undifferentiated cells lacking CK ( Figure S11 ) .
+By contrast , silencing HMGA2 did not alter 2 mammosphere formation by mammospheric SK-3rd cells ( p 0.05 versus control vector , Figure 4A ) , but slightly reduced SK-3rd proliferation ( p 0.05 , Figure 4B ) , although not as much as let-7a transduction .
+However , HMGA2-shRNA reduced the proportion of undifferentiated lin cells in SK-3rd , grown either as spheres or under adherent conditions ( p 0.001 , Figures 4C and 4D ) .
+Moreover , the reduction in lin cells by HMGA2-shRNA in both mammospheric and differentiated SK-3rd was comparable to that mediated by expressing let-7a ( p 0.05 , Figures 4C and 4D ) .
+Therefore , reduced let-7 regulates different aspects of stemness by silencing multiple genes. let-7 inhibits self renewal in part by regulating RAS , while it causes BT-IC differentiation by silencing HMGA2 .
+Full-size image ( 35K )
+High-quality image ( 210K )
+Figure 4. Silencing HMGA2 Reduces the Undifferentiated Subpopulation and Proliferation of SK-3rd Cells but Does Not Significantly Alter Mammosphere Formation .
+( A ) Single-cell cultures of dissociated SK-3rd cells , infected with lenti-HMGA2-shRNA , form a comparable number of mammospheres as uninfected cells or cells infected with lenti-GFP-shRNA or lentivector .
+Lenti-let-7 was used a positive control. , p 0.01 as compared with untransduced SK-3rd .
+( B ) Silencing HMGA2 with lenti-HMGA2-shRNA reduces proliferation of SK-3rd cells on day 4 of in vitro differentiation in adherent cultures ( peak of proliferation ) , but not as much as lenti-let-7 transduction .
+Cell proliferation was measured by [ 3H ] -incorporation , p 0.01 ; # , p 0.05 compared with untransduced SK-3rd .
+( C and D ) Transduction with lenti-HMGA2-shRNA or lenti-let-7 , but not with lenti-GFP-shRNA or vector , similarly reduces the proportion of lin cells in SK-3rd cells cultured in mammospheres ( C ) or under adherent differentiating conditions for 10 days ( D ) . , p 0.01 compared with vector transduced cells .
+Error bars correspond to mean SD .
+View Within Article .
+let-7 Expression Inhibits Tumor Formation in NOD / SCID Mice .
+We next assessed the effect of enforced let-7 expression on tumor formation .
+Although eight out of ten mice inoculated with 2103 SK-3rd cells and all mice injected with greater numbers of SK-3rd cells formed tumors , significantly fewer tumors developed from let-7-expressing mammospheric SK-3rd cells .
+Moreover , the let-7a-expressing tumors grew more slowly than the untransduced or control SK-3rd tumors ; the let-7+ tumors reached 2 cm in diameter 25 - 33 days after they became palpable , while the control SK-3rd tumors reached that size in 12 days .
+Similarly , let-7-expressing mammospheric cells gave rise to fewer tumors when they were serially passaged in vivo ( Table S2 ) , suggesting that let-7 inhibits self-renewing capacity in vivo , as well as in vitro .
+RAS-shRNA slightly reduced tumorigenesis , but not as much as let-7a .
+Full-size image ( 139K )
+High-quality image ( 1677K )
+Figure 5. Mammospheric SK-3rd Cells Are More Tumorigenic Than SKBR3 in NOD / SCID Mice , and let-7 Expression by SK-3rd Cells Suppresses Tumor Outgrowth .
+( A ) Tumor volume was measured after mammary fat pad inoculation of 2103 ( left ) , 2104 ( middle ) or 2105 ( right ) SKBR3 cells or mammospheric SK-3rd cells that were untransduced or transduced with vector or to express let-7 or RAS-shRNA .
+The number in the legend indicates the number of mice who developed tumors .
+Mammospheric SK-3rd cells are more tumorigenic than SKBR3 cells .
+Overexpression of let-7a , and to a lesser extent RAS-shRNA , led to fewer tumors , and the tumors that arose grew more slowly .
+Error bars correspond to mean SD .
+( B ) Tumors that grew in mice inoculated with 2105 cells had similar histology by hematoxylin and eosin staining ( HE , magnification 200 ) , but the SK-3rd tumors , either untransduced or transduced with vector , had higher expression of H-RAS ( 400 , and C ) and a higher proliferative index by PCNA staining ( 400 , and D ) , than SKBR3 tumors .
+Infection of SK-3rd with lenti-let-7 reduced RAS expression almost as much as silencing RAS , but let-7 more effectively reduced proliferation. # , p 0.05 ; , p 0.001 compared with untransduced tumors .
+Error bars correspond to mean SD .
+View Within Article .
+The tissue structure and cell morphology of tumors generated from SKBR3 , mammospheric SK-3rd or SK-3rd expressing let-7a or RAS-shRNA were not grossly different .
+However , H-RAS was more highly expressed in mammospheric SK-3rd xenografts than in SKBR3 tumors .
+Transduction of SK-3rd with lenti-let-7a or RAS-shRNA , but not lentivector , significantly reduced H-RAS in the tumors , to the level of SKBR3-derived tumors .
+In keeping with their faster growth , a higher proportion of SK-3rd-derived than SKBR3-derived tumor cells stained for proliferating cell-associated antigen PCNA .
+Transduction of SK-3rd with let-7a-lentivirus also significantly reduced PCNA staining in the xenografts ( p 0.01 ) , although not to that of the SKBR3-derived tumor .
+RAS-shRNA also significantly reduced the PCNA index ( p 0.05 ) , but not as effectively as lenti-let-7 .
+Thus , lack of let-7 enhanced SK-3rd cell tumorigenicity , in part by modulating HRAS .
+let-7 Expression Inhibits Tumorigenesis by linCD44+CD24 1 Breast Cancer Cells .
+To assess whether let-7 reduction is also important for tumorigenesis by 1 cancer cells , sorted linCD44+CD24 cells from eight chemotherapy-naive patient cancers were evaluated for xenograft formation .
+Injection of 2103 1 linCD44+CD24 cells generated tumors in six out of eight mice , while no tumors developed in mice injected with the cells that were not CD44+CD24 from the same patients .
+Increasing the number of injected CD44+CD24 cells to 5103 resulted in tumors in eight out of eight mice but still no tumors in mice that received cells lacking this phenotype .
+Moreover , when cancer cells passaged in NOD / SCID mice were FACS-sorted again for CD44+CD24 cells they could be serially transplanted for two further passages without reduced tumorigenicity .
+Lenti-let-7 transduction not only significantly reduced tumorigenicity but also reduced tumor formation upon serial transplantation .
+Therefore , enforced let-7 expression in 1 BT-IC interferes with both tumor initiation and in vivo self renewal .
+Table 1B .
+Incidence of Tumors from 1 Breast Cancer Cells Serially Transplanted in NOD / SCID Mice .
+2103 cells5 103 cells 1 Tumor CellsPassage 1Passage 21 Tumor CellsPassage 1Passage 2 linCD44+CD24/lowuntransduced6/88/88/88/88/88 / 8 lentivector6/88/88/87/88/88/8 lenti-let-72/82/8$2/8$4/8$4/8$5 / 8 lin NotCD44+CD24/low0/8#0/8#0/8#0/8#0/8#0 / 8# .
+Full-size table .
+, p 0.05 ; $ , p 0.01 ; # , p 0.001 compared with untransduced linCD44+CD24 / low cells .
+For the initial inoculation , each mouse was inoculated with sorted cells , transduced or not , from a different chemotherapy-naïve patient .
+The clinical features of these eight patients are described in Table S1A .
+For subsequent passages , cells were isolated , sorted , and transduced from mice injected with tumor cells from the two patients whose lenti-let-7 transduced cells established xenografts .
+View Within Article .
+let-7-Expressing Tumors Are Less Likely to Metastasize .
+We also evaluated whether enforced let-7 or RAS-shRNA expression in SK-3rd affected metastasis by examining the lungs and livers when xenografts reached 2 cm in diameter , the same size used to assess metastasis of untransduced xenografts .
+Lenti-let-7 infection of SK-3rd reduced both the numbers of mice with lung metastases to two out of ten mice and the average lung weight by 44% ( p 0.01 , Figure 6B ) .
+Metastases were not only smaller but also dispersed among alveoli , suggesting reduced clinical severity .
+The number of lung tumor cells , quantified by qRT-PCR for hHPRT in mice with metastases , was also 30% less in animals injected with let-7a-expressing SK-3rd compared with mice inoculated with vector-transduced cells ( p 0.05 , Figure 6C ) .
+Expressing RAS-shRNA in SK-3rd modestly , but significantly , reduced lung metastasis , but was less effective than let-7 .
+Full-size image ( 88K )
+High-quality image ( 1331K )
+Figure 6. Mammospheric SK-3rd Cells Metastasize to the Lung and Liver ( unlike SKBR3 ) , and Infection with Lenti-let-7 Inhibits Their Metastasis .
+( A ) HE staining of the lung ( 200 ) and liver ( 400 ) of mice implanted with 2105 SK-3rd cells ( either untransduced or transduced with lentivector , lenti-let-7 , or lenti-RAS-shRNA ) or SKBR3 .
+Arrows indicate focal metastasis .
+( B ) Mean SD wet lung weight in tumor-bearing mice ( n = 10 / group ) .
+( C ) Expression of hHPRT mRNA relative to mouse GAPDH , by qRT-PCR .
+The numbers indicate the number of animals in each group of ten with lung or liver metastasis .
+The analysis for ( B ) and ( C ) excludes animals without metastases to the relevant organ .
+ND , not detected. # , p 0.05 ; , p 0.001 compared with untransduced tumors .
+View Within Article .
+Similarly in the liver , let-7 expression or RAS silencing reduced the numbers of mice with liver metastasis by 50% and 33% , respectively .
+This was confirmed by measuring 72% less hHPRT mRNA in the livers of mice inoculated with let-7-transduced cells who had micrometastases ( three out of ten mice ) and a 30% reduction in mice injected with RAS-shRNA-transduced cells ( four out of ten mice ) , respectively , as compared with those implanted with vector-transduced cells ( 5 / 10 mice , p 0.01 ; Figure 6C ) .
+Therefore , let-7 reduced mammospheric SK-3rd cell metastasis to both lung and liver .
+This reduction was only partially due to changes in RAS .
+Reduced metastasis by let-7-transduced cells was not due to a difference in 1 tumor size because all tumor-bearing animals were sacrificed when the tumor diameter reached 2 cm but could result from the slower growth of the 1 tumor or altered metastatic potential of let-7-expressing cells .
+This study cannot distinguish between these possibilities .
+Discussion .
+Evidence for the cancer stem cell hypothesis has grown as T-IC have been identified in an increasing number of malignancies .
+However , because T-IC are rare within tumors , they are difficult to study , and little is known about what regulates their critical ability to self renew and initiate tumors .
+We found that breast tumors from chemotherapy-treated patients are highly enriched for cells with the properties of BT-IC .
+We took advantage of BT-IC chemotherapeutic resistance  to generate a highly malignant breast cancer cell line ( SK-3rd ) by sequential in vivo passage in epirubicin-treated NOD / SCID mice .
+SK-3rd is enriched for cells that display all the tentatively defined properties of BT-IC , including enhanced mammosphere formation , multipotent differentiation , chemotherapy resistance , and BT-IC phenotype ( OCT4+CD44+CD24lin )  .
+Based on in vitro mammosphere forming assays and the proportion of SP cells , we estimate that 16% of SK-3rd cells are T-IC and that the remaining cells , which are also CD44+CD24 , are largely EPC .
+Mammospheric SK-3rd cells are 100 fold more tumorigenic in NOD / SCID mice than the parent line , metastasize , and are capable of serial xenotransplantation .
+The key properties of mammospheres from SK-3rd coincide with those of BT-IC obtained by sorting lin-CD44+CD24 cells from 1 breast cancers .
+SK-3rd cells could provide virtually unlimited numbers of cells for studying BT-IC .
+A similar approach of in vivo chemotherapy might also be used to select T-IC from other breast cancer lines or possibly for other tumors .
+Because of the potential for accumulating specific idiosyncratic mutations in any line , the relevance of any results obtained with such BT-IC enriched cells would , however , need to be confirmed using sorted 1 cancer cells .
+Chemotherapy-exposed patients should provide a means for isolating large numbers of 1 BT-IC to study what regulates stemness .
+Our finding that neoadjuvant chemotherapy treatment selects for the survival of CD44+CD24 BT-IC and EPC , although not surprising in light of their known resistance to chemotherapy , is somewhat disturbing .
+The selective outgrowth of less differentiated cells may be one reason that neoadjuvant or adjuvant chemotherapy is not always effective at preventing late tumor recurrence .
+One contributing factor for chemotherapy selection of BT-IC , whether in neoadjuvant chemotherapy patients or epirubicin-treated xenotransplanted mice , is increased expression by BT-IC of the drug efflux transporter ABCG2 , which provides BT-IC with a selective survival advantage .
+Increased ABCG2 expression in BT-IC supports earlier studies that took advantage of drug efflux to enrich for BT-IC in SP cells  .
+Multiple mechanisms likely influence selective survival under chemotherapy , including preferential activation of DNA repair pathways in T-IC , as was shown for glioma  .
+We took advantage of our ability to obtain large numbers of self-renewing cells to study changes in miRNA expression during in vitro differentiation .
+Mammospheric SK-3rd cells express substantially less miRNA than differentiated SK-3rd or the parent cells .
+A global reduction of miRNA expression has previously been noted for both ES and cancer cells relative to normal tissue  .
+We did not investigate the mechanism for the global reduction in miRNAs in BT-IC .
+One possible contributing factor might be reduced miRNA processing , as has been described in mouse embryonic development  .
+Differences in miRNA expression are not an immediate consequence of anchorage-independent growth , since adherence for 8 hr does not substantially alter miRNA expression .
+Within a day of being placed under differentiating conditions , however , most miRNAs expressed in the parental line are induced , although some take longer to be expressed .
+Virtually absent expression of let-7 distinguishes the tumor-initiating SK-3rd cells from their differentiated progeny and the parent line .
+Moreover , lack of let-7 is required for self renewal in vitro and tumorigenicity in vivo .
+Overexpression of let-7a in SK-3rd reduces self renewal and proliferative capacity and converts highly malignant and metastasizing T-IC into less malignant cells .
+Conversely , antagonizing let-7 with ASO in differentiated SK-3rd or SKBR3 enhances sphere formation .
+In contrast , overexpressing other oncomirs differentially underexpressed in SK-3rd mammospheres ( miR-15a , miR-16 , and miR-21 ) has no effect on in vitro self renewal .
+Although let-7 appears to play a major role in regulating stemness , regulated expression of other differentially expressed oncomirs , including those listed above as well as miR-17 and miR-222 , will undoubtedly contribute to regulating the distinct pathways required for tumor initiation , transformation , proliferation , invasion , metastasis , apoptosis , and chemo / radiotherapy resistance .
+This will be a good system to study the role of other oncomirs in breast cancer initiation .
+These results with SK-3rd and SKBR3 suggested that reduced let-7 might regulate the fate of BT-IC more generally .
+Because cell lines expanded in vitro and / or in vivo might accumulate mutations that might make them different from 1 tumors , we tested the importance of let-7 reduction in enriched BT-IC obtained from 1 breast cancers by sorting or mammosphere culture .
+Regardless of how BT-IC are isolated , 1 BT-IC express substantially less let-7 than corresponding populations of cells depleted of BT-IC .
+Moreover , expressing let-7 in linCD44+CD24 cells from 1 breast cancers reduces mammosphere formation and proliferation in vitro and tumor xenograft formation .
+Because mammospheres and linCD44+CD24 cells contain both BT-IC and EPC , we are unable to define the exact point at which let-7 begins to be expressed .
+Our results suggest that let-7 expression begins at a very early stage of differentiation .
+Reduced let-7 is an intrinsic property of BT-IC ( and possibly EPC ) and not a consequence of exposure to chemotherapy or anchorage-independent growth .
+Both unexposed SKBR3 mammospheres and enriched BT-IC from chemotherapy-naive patients , generated either by sorting or growth under sphere-forming conditions , had similarly reduced let-7 as comparably derived cells that had been exposed to chemotherapy .
+let-7 has been postulated to work as a tumor suppressor by silencing RAS  and HMGA2  .
+We confirmed these findings in SK-3rd and SKBR3 cells , where H-RAS ( other RAS homologs were not expressed ) and HMGA2 protein , but not mRNA , correlated inversely with let-7 expression .
+HRAS and HMGA2 were high in SK-3rd but low in differentiated SK-3rd and SKBR3 .
+Moreover , exogenous let-7a significantly knocked down H-RAS and HMGA2 .
+Increased H-RAS  and HMGA2  have been reported in breast cancer and correlate with poor prognosis .
+H-RAS is increased in 60% of human breast cancers , but mutations are rare  , suggesting the possibility of posttranscriptional regulation .
+HMGA2 overexpression in tumors was thought to be primarily secondary to chromosomal translocations that delete the HMGA2 3UTR with its multiple let-7 recognition sites  .
+Our study suggests that HMGA2 overexpression can also be secondary to reduced let-7 expression .
+RAS and HMGA2 each regulate different aspects of stemness .
+RAS appears to be important for self renewal , since silencing RAS reduces mammosphere formation , clonal expansion , and tumorigenicity but has no effect on cell differentiation .
+HMGA2 on the other hand appears to help maintain multipotency , since silencing HMGA2 reduces the proportion of undifferentiated cells but does not affect in vitro self renewal .
+In support of this , HMGA2 is overexpressed in embryos  and poorly differentiated tumors  . let-7 thus acts as a master regulator of multiple aspects of stemness , presumably by silencing multiple targets , some of which remain to be identified .
+Other direct let-7 targets include genes implicated in cell-cycle regulation , including CDC25a , CDK6 , and cyclin D  .
+Comparing miRNA and mRNA expression by CD44+CD24 and non-CD44+CD24 cells may help define miRNA networks and additional let-7 targets in BT-IC .
+The mRNA comparison was recently reported  .
+Because let-7 regulates multiple oncogenes and more than one T-IC pathway , therapeutic use of let-7 mimics might be attractive for differentiating resistant T-IC within breast cancer and possibly other tumors .
+Mimicking let-7 could be more potent than specifically silencing one or a few oncogenes with siRNA drugs. let-7 mimics could potentially be used as single agents or combined with conventional chemo / radiotherapy .
+Since let-7 is expressed in normal breast tissue and other differentiated cells , introducing it exogenously should not trigger unintended toxicity to noncancerous cells .
+A corollary of the cancer stem cell hypothesis is that metastases may also arise from T-IC .
+In support , we found that cells with the BT-IC phenotype ( linCD44+CD24 ) are prevalent in metastatic pleural effusions .
+Moreover , xenograft metastases are reduced by let-7 expression in parallel with other BT-IC properties .
+An alternate hypothesis is that metastatic tumors originate when cells in a 1 tumor undergo an epithelial-mesenchymal transition ( EMT )  .
+Our results suggest that these two seemingly contrary ideas are not mutually exclusive .
+In fact , let-7 is poorly expressed in mesenchymal , but highly expressed in epithelial , tumors  .
+The opposite is true of the let-7 target HMGA2 , which is highly expressed in embryos , mesenchymal cells , and mesenchymal tumors  .
+Therefore , reduced let-7 may link T-IC and EMT .
+let-7 genes map to sites with frequent chromosomal instability in cancer  , and let-7 is poorly expressed in lung  and colon cancer  .
+Downregulation of let-7 in breast tumors compared to normal breast has been reported in a previous microarray analysis  .
+This is confirmed by our present study where let-7 was reduced by 35% in 1 cancers compared with adjacent normal breast .
+However , this difference is small when compared to the 4 fold reduction in let-7 in BT-IC compared to BT-IC-depleted 1 cancer cells .
+T-IC and EPC within tumors might contribute to the moderate reduction of let-7 in the bulk of breast cancer cells .
+Measuring let-7 reduction in breast tumors might serve as a surrogate for the frequency of BT-IC or other poorly differentiated cells in the tumor and provide useful prognostic information about the likelihood of chemotherapy response or relapse .
+In fact , low let-7 and high HMGA2 expression strongly correlates with poor prognosis in advanced ovarian cancer  .
+Despite evidence for T-IC in an increasing array of cancers , the cancer stem cell hypothesis remains a hypothesis .
+Our results need to be considered in light of evidence for possible phenotypic heterogeneity of T-IC , as recently suggested for glioma  and of the heterogeneity of breast tumor cells that develop after tumor initiation secondary to additional mutations or epigenetic changes  .
+An alternate possibility to the cancer stem cell hypothesis also needs to be kept in mind .
+A recent study suggests that T-IC might be an artifact of xenotransplantation , consisting of the minority of cells capable of surviving with the support of mouse , rather than human , growth factors supplied by the xenogeneic tumor microenvironment .
+In fact , when mouse lymphoma cells generated in E-c-myc transgenic mice are transplanted into congenic mice , lymphoma cells lacking stem cell markers also form tumors  .
+However , the stronger adaptability of the tentatively defined T-IC to a xenogeneic microenvironment may also be an indicator of their ability to seed congenic tumor sites .
+It may be that the multipotency of the T-IC provides a means to generate not only the tumor but the supporting niche cells necessary to sustain it , as has recently been shown for human ES cells  .
+Experimental Procedures .
+Detailed procedures are provided in the Supplemental Data .
+1 Tumors .
+Tumors were obtained from 25 female patients with biopsy-diagnosed breast carcinomas , including 20 cases of 5 cancer and 5 cases of recurrent breast cancer with pleural metastasis ( Table S1 ) .
+Twelve 1 breast cancer patients received neoadjuvant chemotherapy followed by modified radical mastectomy , and eight 1 cancer cases were treated with resection without chemotherapy .
+Specimens were obtained by ultrasound-guided vacuum-assisted Vacora biopsy ( Bard Biopsy System , Tempe , AZ ) in seven patients before neoadjuvant chemotherapy .
+Pleural fluid was obtained by pleural puncture from five cases of recurrent cancer with pleural metastasis .
+All samples were immediately mechanically disaggregated , digested with collagenase as described  and filtered through a 30 filter .
+Tumor cells were sorted after staining with FITC-anti-CD44 , PE-anti-CD24 and nontumor cells were depleted with a cocktail of lineage marker antibodies .
+Generation of SK-3rd and SK-4th Cell Lines .
+SKBR3 cells ( ATCC ) were passaged in NOD / SCID mice by injecting 2106 cells into the mammary fat pad of 5-week-old mice .
+Epirubicin ( 8 mg / kg , Pharmacia and Upjohn ) was injected into the tail vein weekly .
+Single-cell suspensions of tumor xenografts , removed when tumors reached 2 cm in diameter , were isolated as described  .
+Dissociated cells were passaged in epirubicin-treated NOD / SCID mice as above .
+Mammosphere Culture .
+Cells ( 1000 cells / mL ) were cultured in suspension in serum-free DMEM-F12 ( BioWhittaker ) , supplemented with B27 ( 1:50 , Invitrogen ) , 20 ng / mL EGF ( BD Biosciences ) , 0.4% bovine serum albumin ( Sigma ) , and 4 g / mL insulin ( Sigma )  .
+To propagate spheres in vitro , spheres were collected by gentle centrifugation , dissociated to single cells as described  , and then cultured to generate mammospheres of the next generation .
+Differentiation .
+Cells dissociated from spheres were plated at 1105 cells / mL on 6 well plates precoated with Collagen IV ( BD BioScience ) in DMEM supplemented with 10% FCS without growth factors and passaged when they reached 95% confluence .
+Acknowledgments .
+We thank Robert Clarke and Anthony Howell ( Manchester , UK ) for advice .
+This work was supported by a Natural Science Foundation of China grant ( 30525022 ) , the National Changjiang Scholars Program , 973 ( 2005CB724605 ) and 863 ( 2006AA02Z106 ) Projects from the Ministry of Science and Technology of China , and the Guangzhou Science and Technology Bureau ( 2005Z2-E0121 ) ( E.S. ) and the U.S. NIH ( J.L. )

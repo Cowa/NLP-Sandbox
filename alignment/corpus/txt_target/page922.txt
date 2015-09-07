@@ -1,0 +1,509 @@
+In previous studies,  we found that 2-phenylindole-3-carbaldehydes 1 with appropriate substituents in the aromatic rings strongly inhibited the growth of breast cancer cells .
+Investigations on the mode of action revealed that tubulin is the primary target of these agents.2 They bind to the colchicine binding site and prevent the polymerization of the /-tubulin dimers to functional microtubules which are required for vital functions of the cell including mitosis .
+Though these compounds were active in the nanomolar range , their in vivo activity was disappointing probably due to the presence of the metabolically unstable aldehyde function .
+Chemical modifications of this functional group should render these molecules stable under physiological conditions .
+One of first modifications performed comprised the conversion of the aldehyde function into methyl imines , e.g. 2a , and oximes , e.g. 2b .
+The methyl imines proved to be simply prodrugs that released the aldehydes after hydrolysis.1 The oximes , however , were stable and displayed activities somewhat lower than those of the parent aldehydes.1 These results prompted us to convert the aldehyde into other stable derivatives .
+In this study , we describe the syntheses and biological characterization of the Knoevenagel condensation products of the aldehydes with malononitrile .
+Full-size image ( 36K )
+Figure 1. Examples for indole-derived agents that inhibit cell cycle progression through different mechanisms .
+View Within Article .
+The main objective of this study was the search for compounds which strongly inhibit tumor growth by a blockade of the cell cycle .
+As shown for the 2-phenylindole-3-carbaldehydes 1 and other antimitotic agents , the inhibition of tubulin polymerization is accompanied by a cell cycle arrest in the G2 / M phase.1 This blockade of the normal cell cycle renders the cell susceptible to apoptosis .
+Cell cycle intervention has emerged as an interesting new strategy to combat cancer.  The first approved drugs which inhibit tumor growth by cell cycle arrest in G2 / M phase were the vinca alkaloids which inhibit tubulin polymerization.5 More recently , natural products such as the taxanes have been discovered which block the cell cycle in the same phase by stabilizing the microtubules.6 Other attractive targets are enzymes controlling the cell cycle such as cyclin-dependent kinases.  A large number of heterocycle-based compounds have been found to inhibit some of these kinases , especially cdk4 and cdk6 .
+Since we are mainly interested in indole derivatives , a selection of those agents containing this structural element are presented in Figure 1. .
+The simplest example is indole-3-carbinol , a natural constituent of crucifer plants .
+It induces the arrest of the cell cycle in G1 phase and inhibits the growth of breast cancer cells.  Its major acid-catalyzed reaction product 3,3 diindolylmethane ( 3 ) also interferes with the cell cycle progression of breast cancer cells.  Other indole-based inhibitors of cyclin-dependent kinases are indirubin and derivatives.  Cell cycle control in G1 phase can also be achieved with the indolyl sulfonamide E7070 ( 4 ) ,  whereas the diindolylmethylene derivative 5 blocks the cell cycle in G2 / M phase.20 .
+In the present study , we converted the 2-phenylindole-3-carbaldehydes 1 which block the cell cycle in G2 / M phase by inhibition of tubulin polymerization to ( 2-phenylindol-3-yl ) methylenepropanedinitriles 6 and determined their anti-proliferative activities in MDA-MB 231 and MCF-7 breast cancer cells .
+The effects on the cell cycle were analyzed by flow cytometry .
+Since a cell cycle arrest may lead to an apoptotic cell death , markers of apoptosis such as the activation of caspases 3 and 9 were determined for two representative examples .
+A major goal of this study was the discovery of potent antitumor agents that retain their activity in vivo .
+Thus , one of the compounds synthesized was evaluated in the MXT mouse mammary tumor model .
+2. Results and discussion2.1 .
+Chemistry .
+In previous investigations the most favorable substitution pattern of the starting 2-phenylindole-3-carbaldehydes 1 in respect to antitumor activity had been elaborated.1 We decided to select the same substituents because we anticipated a similar mode of action for the propanedinitriles 6. The conversion of the aldehydes 1 to the corresponding methylene propanedinitriles 6 was readily accomplished by the reaction with malononitriles .
+This structural modification should not alter the physico-chemical properties of the indole core much and would lead only to minor steric effects .
+We also have synthesized some analogues of the methylene propanedinitriles in which one of the nitrile groups had been replaced by hydrogen , carboxamide , or carboxylate groups , but all these modifications abolished or strongly decreased the activity of the indole derivatives .
+Thus , the data for these compounds are not presented .
+Full-size image ( 14K )
+Figure 2. Synthesis of [ ( 2-phenylindol-3-yl ) methylene ] propanedinitriles 6a - s .
+View Within Article .
+2.2. Anti-proliferative activity .
+All of the compounds synthesized were first evaluated for anti-proliferative activity using hormone-independent human MDA-MB 231 breast cancer cells in a microplate assay .
+As one of the reference compounds the unsubstituted [ ( 2-phenylindol-3-yl ) methylene ] propanedinitrile ( 6a ) was used .
+It strongly inhibits the growth of these cells with an IC50 value of 0.43 M .
+Based on previous investigations with methoxy-substituted 2-phenylindole-3-carbaldehydes , a series of compounds with a methoxy group in the para-position of the phenyl ring and a variety of lipophilic substituents in positions 5 and / or 6 of the indole including halogens and alkyl groups of variable length were tested .
+All 2- ( 4 methoxyphenyl ) indole derivatives strongly inhibited the growth of MDA-MB 231 cells with IC50 values below 1 M .
+The potency of the unsubstituted indole 6a was significantly increased when substituents had been introduced that add a substantial amount of lipophilicity to the parent molecule as exemplified by the 5 alkyl derivatives 6l - n .
+Elongation of the alkyl chain from methyl to pentyl decreased the IC50 value from 0.28 to 0.042 M .
+A similar observation was made with 2 phenylindoles furnished with a methyl , ethyl , or trifluoromethyl group in para-position of the phenyl ring ( 6o - s ) .
+The IC50 values are only one order of magnitude higher than that of the established antimitotic drug vincristine .
+When the methoxy group in this ring was shifted to the 3 position the activity decreased from 0.26 to 0.97 M ( IC50 values ) .
+A polar character of the substituents in the indole moiety was detrimental to the anti-proliferative potency .
+The IC50 value of the 6-methoxy-2- ( 4 methoxyphenyl ) indole derivative 6d dropped by one order of magnitude when the ether function in 6 position was cleaved ( data not shown ) .
+Table 1. .
+Anti-proliferative effects of [ ( 2-phenylindol-3-yl ) methylene ] propanedinitriles 6a - s on human MDA-MB 231 and MCF-7 breast cancer cells .
+CompoundR1R2R3MDA-MB 231a IC50 ( M ) MCF-7b IC50 ( M ) 6aHHH0.430.19 6bHHOMe0.720.77 6cOMeHOMe0.590.34 6dHOMeOMe0.260.30 6eFHOMe0.400.31 6fHFOMe0.280.22 6gHOMeMe0.180.25 6hMeHOMe0.280.20 6iMeClOMe0.0750.20 6jn-PrHOMe0.0830.19 6kiPrHOMe0.210.31 6ln-BuHOMe0.0260.013 6mn-PentylHOMe0.0420.076 6nn-HexylHOMe0.0460.025 6on-BuHMe0.0650.10 6pn-BuHEt0.0760.20 6qn-BuHCF30.0560.15 6rn-PentylHCF30.0780.10 6sn-HexylHCF30.150.068 Vincristine0.0045n.d.c .
+Full-size table .
+a Inhibition of cell growth determined after incubation for 4 days and subsequent crystal violet staining of viable cells .
+Mean values of two independent experiments with 16-24 replicates , SD are generally less than 25% .
+b Analogous experiment as described for MDA-MB 231 cells with one exception : The incubation period was 5 days .
+c Not determined .
+View Within Article .
+Full-size image ( 18K )
+Figure 3. Inhibitory effects of [ [5-alkyl-2- ( 4 methoxyphenyl ) indol-3-yl ] methylene ] propanedinitriles 6 with variable alkyl chain length on the growth of MDA-MB 231 breast cancer cells .
+Inhibition of cell growth was determined after incubation for 4 days and subsequent crystal violet staining of viable cells .
+Vincristine ( Vin ) was used as reference drug .
+View Within Article .
+All [ ( 2-phenylindol-3-yl ) methylene ] propanedinitriles 6 were also tested for anti-proliferative activity in MCF-7 breast cancer cells .
+Since similar activities were observed in both cell lines an involvement of the estrogen receptor , present in MCF-7 cells , can be ruled out .
+The differences in activity were usually within the statistical errors of both assays ( 20% ) except for a small number of compounds whose IC50 values differed by a factor of 2 or more ( 6a , 6i , 6j , 6l , 6o - q , 6s ) .
+There was no general preference in sensitivity between these two cell lines though a slight tendency to higher IC50 values in MCF-7 cells was noticed .
+The comparison of the inhibitory effects of the methylene propanedinitriles 6 with those of the corresponding 2-phenylindole-3-carbaldehydes 1 revealed that the latter are more active by a factor of 3 - 10. .
+2.3. Cell cycle arrest in G2 / M-phase .
+Previous studies with 2-phenylindole-3-carbaldehydes 1 have shown that these aldehydes exert their cytotoxic effects through inhibition of tubulin polymerization and cell cycle arrest in G2 / M-phase .
+Thus it was of interest to study the effect of the [ ( 2-phenylindol-3-yl ) methylene ] propanedinitriles 6 on the cell cycle .
+In this assay , the cell cycle dependent DNA content of MDA-MB 231 cells was determined by flow cytometry using propidium iodide in permeabilized cells .
+First , one of the most active methylene propanedinitriles ( 6n ) was studied for its effect on the cell cycle in comparison to the corresponding aldehyde 1n and vincristine .
+Treatment of the cells with any of these three agents led to a decrease of the peak for cells in the G1 / G0 phase and the parallel increase of the number of cells in G2 / M phase due to the blockade of the cell cycle in G2 / M phase .
+This change in the cell cycle distribution was accompanied by the appearance of significant quantity of cells with a DNA content lower than that in G1 / G0 cells ( sub-G1 fraction ) .
+The comparison revealed that 6n exerted the same effect as 1n but required a tenfold higher concentration ( 0.05 vs 0.5 M ) .
+Vincristine was even more active and blocked the cell cycle at a 10-nM concentration .
+Full-size image ( 51K )
+Figure 4. Flow cytometry analysis of cell cycle .
+MDA-MB 231 breast cancer cells were exposed to compounds 1n , 6n , and vincristine in various concentrations for 24 h .
+The DNA content was quantified by the standard propidium iodide procedure , as described in the Experimental Section .
+Cells are assigned to those in G0 / G1- ( label b ) , S- ( label c ) , and G2 / M-phase ( label d ) , and to sub-G1 cells ( label a ) , respectively , according to their DNA content .
+View Within Article .
+Five more derivatives with different cytostatic potencies were examined for their effects on the cell cycle progression in increasing concentrations .
+Already at very low concentrations a significant sub-G1 fraction appeared probably due to apoptotic processes in cells of the G1 ( G0 ) pool .
+Sometimes this phenomenon became evident before cell cycle arrest occurs ( 6f in Fig. 5a , 6p in Fig. 5c ) .
+According to the reduced number of cells in G1 / G0 phase , this peak decreases at higher concentrations .
+Usually blockade of the cell cycle is observed at concentrations five- to tenfold higher than the IC50 values .
+Full-size image ( 47K )
+Figure 5. Cell cycle distribution of MDA-MB 231 cells treated for 24 h with [ ( 2-phenylindol-3-yl ) methylene ] propanedinitrile 6f , 6o ( panel a ) , 6h , 6n ( panel b ) , and 6p , 6q ( panel c ) in various concentrations .
+Vincristine ( Vin ) was used as reference drug .
+Percentages of sub-G1 cells and cells in G1 / G0- , S- , and G2 / M-phase are shown .
+Data refer to a representative experiment out of two .
+View Within Article .
+2.4. Inhibition of tubulin polymerization .
+One of the possible explanations for the cell cycle arrest is the inhibition of tubulin polymerization to functional microtubules as it is observed for antimitotic agents such as colchicine and combretastatin A-4 .
+Therefore , two methylene propanedinitriles ( 6c and 6f ) and the corresponding 2-phenylindole-3-carbaldehydes 1c and 1f were tested for their inhibitory activity on the polymerization of tubulin isolated from calf brains .
+For comparison the aldehydes 1a and 1b and colchicine were included in this assay .
+Cytotoxicities were determined in two breast cancer cell lines which differ by their estrogen receptor status ( ER- MDA-MB 231 , ER+ MCF-7 ) and the vulva carcinoma cell line A-431 which is characterized by high levels of EGF receptors .
+The progression of tubulin polymerization was measured turbidimetrically at 350 nm in cuvettes over a period of 20 min after the temperature had been raised from 2 to 37 C. At a concentration of 40 M , colchicine and the aldehydes 1b , 1c , and 1f suppressed tubulin polymerization , whereas both methylene propanedinitriles were inactive .
+The data on cytotoxicity determined in three different cell lines revealed that the inhibition of tumor cell growth by the derivatives 6c and 6f does not depend on the blockade of tubulin polymerization .
+In this respect the methylene propanedinitriles 6c and 6f resemble the unsubstituted aldehyde 1a , which also inhibits cell growth without affecting tubulin polymerization at relevant concentrations .
+These results make an alternative mode of action for the latter compounds likely .
+Table 2. .
+Effects of 2-phenylindole-3-carbaldehydes 1a-c and 1f , and of [ ( 2-phenylindol-3-yl ) methylene ] propanedinitriles 6c and 6f on the growth of human cancer cells and tubulin polymerization .
+CompoundR1R2R3XMDA-MB 231a IC50 ( M ) MCF-7b IC50 ( M ) A-431c IC50 ( M ) TPd % T / C 1aHHHO0.42 0.070.65 0.080.76 0.0798 7 1bHHOMeO0.47 0.020.18 0.040.21 0.063 4 1cOMeHOMeO0.26 0.030.18 0.070.20 0.127 4 6cOMeHOMeC ( CN ) 20.59 0.060.27 0.050.34 0.06100 5 1fHFOMeO0.047 0.0060.043 0.0090.18 0.098 5 6fHFOMeC ( CN ) 20.28 0.070.22 0.090.19 0.0499 6 Colchicine0.03 0.01n.t.en.t.e1 5
+Full-size table .
+a Inhibition of cell growth determined after incubation for 4 days and subsequent crystal violet staining of viable cells .
+Mean values of four independent experiments with 16 - 24 replicates SD .
+b The incubation period was 5 days .
+c The incubation period was 3 days .
+d Tubulin polymerization in the presence of inhibitor ( 40 M ) ; controls without inhibitor = 100% .
+e Not tested .
+View Within Article .
+2.5. Activation of caspases .
+The inhibition of cell growth by the indole derivatives 6 is accompanied by the occurrence of a substantial sub-G1 fraction in the cell cycle analysis .
+This effect is probably due to apoptotic processes induced in G1 and / or G2 phase .
+This observation is in accord with microscopic images of the cell nucleus taken after treatment with 6f ( 0.1 M ) .
+They show blackberry-like structures and a fragmentation pattern of the nuclei typical for apoptosis ( image not shown ) .
+The apoptotic path to cell death is characterized by the release of cytochrome c from the mitochondria , the induction of various caspase enzymes , condensation of the chromosomes , and the fragmentation of nuclear DNA.21 In this study , the cleavage of caspase 3 and 9 substrates was used as biochemical marker of apoptosis .
+Two representative examples of the methylene propanedinitriles ( 6m and 6q ) were tested for their ability to increase caspase activity within 24 h in HL-60 human leukemia cells .
+Both compounds induce caspase activity at a 1-M concentration with somewhat different effects on the cleavage of the caspase 3 and 9 substrates .
+The induction of caspase 9 like activity is much stronger than that observed for the reference antitumor agent etoposide , even when etoposide is applied at an eightfold higher concentration .
+Strongly enhanced caspase activities of 6m and 6q were also observed at 24 h at a concentration of 0.3 M ( data not shown ) .
+The indole derivatives also inhibit the growth of the HL-60 cells after a 48 h treatment with IC50 values of 416.5 nM ( 6m ) and 7011 nM ( 6q ) , respectively , as determined by the MTT assay.22 In this assay , the clinically used anticancer agent etoposide displayed an IC50 value of 31572 nM .
+Full-size image ( 15K )
+Figure 6. Effects of 6m ( 1.0 M ) , 6q ( 1.0 M ) , and etoposide ( 8 M ) on caspase 3 like ( panel a ) and caspase 9 like ( panel b ) activities of HL-60 cells after a 24 h exposure .
+Controls show caspase activities at the beginning of treatment .
+Bars represent means of three independent experiments SD .
+All increases are statistically significant ( a , p 0.02 ; b , p 0.001 ) .
+View Within Article .
+Although these studies provide strong evidence that apoptosis is the mechanism of cell death for the title compounds , necrosis as the competing action cannot be ruled out .
+Therefore , we stained HL-60 cells that were used for the induction of caspases with trypan blue , a procedure that is applied to detect necrotic cells23 although the uptake of trypan blue can occur in both apoptotic and necrotic cells.24 Staining of the HL-60 cells with trypan blue after a 24 h treatment period with etoposide ( 8 M ) , 6m ( 1 M ) , and 6q ( 1 M ) showed the occurrence of many cells that have taken up the dye though roughly the same number of cells remained unstained .
+Untreated control cells showed hardly any uptake of the dye .
+Since staining of cells with trypan blue does not allow a clear distinction to be made between necrosis and apoptosis , other methods are required to quantify the number of cells undergoing apoptosis such as counting the cells with nuclear condensation23 or the addition of cycloheximide which blocks the synthesis of proteins required for apoptotic processes.24 Nevertheless , the pictures obtained by light microscopy of HL-60 cells treated with 1.0 M of 6m or 6q showed similar morphologies to those treated with 8.0 M etoposide after 24 h ( see Supplementary material ) .
+2.6. Inhibition of MXT mouse mammary tumors .
+Preliminary studies of the aldehydes 1 in a MXT mouse mammary tumor model revealed that the antitumor activity observed in vitro is lost in vivo .
+This lack of in vivo activity can be rationalized by the presence of a metabolically labile aldehyde function .
+Thus , the aldehydes were converted to derivatives with a modified functional group .
+Since the indole derivatives 6 have retained their in vitro activities , a representative compound of this series ( 6f ) was evaluated in vivo .
+As test model the hormone-independent transplantable MXT mouse mammary tumor was used .
+Treatment was started 24 h after transplantation and lasted two weeks .
+At the end of treatment the tumor size of treated animals was compared with that of untreated control animals .
+The methylene propanedinitrile 6f showed a significant , dose-dependent inhibition of tumor growth .
+The effect was comparable to that of doxorubicin.25 The effect of the reference drug cisplatin was not reached in this experiment because cisplatin was administered in a sub-toxic dose ( 2 mg / kg ) which led to a 4.5% reduction of body weight , whereas the animals showed no sign of toxicity when treated with 10 or 30 mg of 6f per kilogram body weight .
+Full-size image ( 12K )
+Figure 7. Inhibitory effects of indole 6f and cisplatin on the growth of transplanted MXT mouse mammary tumors after two weeks of treatment .
+Each point of the scatter diagram represents the tumor area of one animal .
+The stated doses were administered subcutaneously three times per week .
+View Within Article .
+Table 3. .
+Effect of 6f and cisplatin on the growth of hormone-resistant MXT mouse mammary tumors .
+CompoundDosea ( mg ) Tumor areab ( mm2 ) % T / CcChange of body weightd ( % ) 294 75+4.5 6f10218 6274e+3.6 6f30164 5256f+2.3 Cisplatin28 83f4.5 .
+Full-size table .
+a Dose / kg body weight , administered three times per week .
+b Means SD after two weeks of treatment .
+c Tumor area of treated animals / tumor area of control animals 100 .
+d Difference of mean body weights between the first and the last day of treatment .
+e Significant inhibition of tumor growth ( p 0.05 ) .
+f Significant inhibition of tumor growth ( p 0.01 ) .
+View Within Article .
+2.7. Discussion .
+The aim of this study was the chemical modification of the antimitotic 2-phenylindole-3-carbaldehydes 1 to derivatives with in vivo activity .
+Since the only reactive group in 1 is the aldehyde function , its conversion to a methylene propanedinitrile structure should render the molecule stable to metabolic transformations that reduce the bioactivity of the parent structure .
+The results of this study showed that the carbonyl oxygen in the 2-phenylindole-3-carbaldehydes can be replaced by the dicyanomethylene group without abolishing the anti-proliferative activity on cancer cells .
+It was also interesting to note that the different substituents in the methylene propanedinitriles 6 had a similar influence on the antitumor activity as in the aldehyde series .
+The similarity of the structure - activity relationships indicates a common mode of action for both aldehydes 1 and the corresponding methylene propanedinitriles 6 , but when we investigated the mode of action of the methylene propanenitriles 6 we found that they must act through a different mechanism .
+The aldehydes 1 were shown to inhibit tubulin polymerization and this action was assumed to be responsible for the strong antimitotic effects of the aldehydes .
+The fact that the propanedinitriles and aldehydes share the same structure - activity profile , and the significantly higher activity of most the aldehydes can be rationalized by a common mode of action for both types of indole derivatives , but must encompass an additional effect of the aldehydes on tubulin polymerization .
+This assumption is supported by the data for the unsubstituted aldehyde 1a and its 4 methoxy derivative 1b .
+Both show similar cytostatic activities but only 1b inhibits tubulin polymerization .
+Obviously , the methoxy group in para-position of the phenyl ring plays a crucial role in the interaction with tubulin .
+When the methoxy group is located in the 6 position of the indole rather than in para-position of the phenyl ring , no inhibition of tubulin polymerization was observed.2 .
+The precise mechanism by which the methylene propanedinitriles 6 inhibit cell growth remains unclear .
+These agents block the cell cycle in G2 / M phase and drive the cells into an apoptotic cell death .
+This process is probably mediated by the activation of caspases such as caspases 3 and 9. Both enzyme activities are strongly stimulated at concentrations 4- to 20 fold higher than IC50 and much lower than those required for the anticancer drug etoposide .
+These findings are in accord with the observed fragmentation of nuclear DNA at submicromolar concentrations .
+From the data obtained , the growth inhibitory effect of the indoles 6 can be rationalized as the result of an apoptotic cell death following the cell cycle arrest in G2 / M phase .
+However , the reason for the cell cycle blockade is not evident .
+An interaction with tubulin as found for the corresponding aldehydes can be excluded .
+Another target we considered was the EGF receptor associated PTK because the structure of the methylene propanedinitriles 6 resembles some tyrphostins.26 However , an inhibition of EGF receptor phosphorylation which would cause a cell cycle arrest in the late G1 phase27 was not observed .
+Obviously , the tyrphostins require free phenolic hydroxyl groups for their action on EGF receptors .
+We also checked some other protein tyrosine kinases from human placental tissue , but found no activity .
+Whether CDK or cyclins are involved in the observed cell cycle blockade remains to be investigated .
+The chemical structure of the indole-based methylene propanedinitriles , however , exhibits hardly any similarities with known inhibitors of CDKs.3 .
+An important aspect of the application of anti-proliferative agents as anticancer drugs is their in vivo activity .
+One of the compounds of this study was used to treat mice bearing transplanted , hormone-independent MXT mammary tumors .
+A significant inhibition of tumor growth was achieved without obvious adverse effects .
+Though these data are derived from a single experiment and are preliminary in character they can be considered as proof of principle .
+These indole derivatives exhibit in vivo activity which remains to be optimized .
+3. Conclusions .
+A series of 2-phenylindole-3-carbaldehydes 1 , which have previously been characterized as antimitotic agents of high potency , were converted to the corresponding methylene propanedinitriles 6 to render them stable to possible metabolic transformations of the aldehyde function .
+The in vitro assays on anti-proliferative activity in various cell lines revealed that the potencies of these 2 phenylindole derivatives decreased only slightly upon this structural modification .
+The increase of the IC50 values in human MDA-MB 231 and MCF-7 breast cancer cells was generally less than the factor of 5. Though the methylene propanedinitriles share the same structure - activity relationship with the aldehydes , their molecular target ( s ) , however , might be different because they do not interfere with the polymerization of tubulin , the dominant molecular action of the 2-phenylindole-3-carbaldehydes .
+Similar as the aldehydes , the methylene propanedinitriles block the cell cycle in G2 / M phase and drive the tumor cells into apoptosis as demonstrated by the strong increase of caspase 3 and 9 activities .
+The question whether the necrotic cell death also plays a role cannot yet be clearly answered .
+An important aspect of this study was the in vivo activity of this class of antimitotic agents .
+Thus , the derivative 6f was evaluated in vivo for antitumor activity .
+It significantly inhibited the growth of transplanted MXT mouse mammary tumors at doses between 10 and 30 mg / kg body weight .
+This in vivo activity was not paralleled by the corresponding aldehydes .
+The biological characteristics of these new compounds make them interesting candidates for further development as anticancer agents .
+4. Experimental4.1 .
+General methods .
+Melting points were determined on a Bchi 510 apparatus and are uncorrected .
+1H NMR spectra were recorded in d6-DMSO on AC-250 , AVANCE300 and AVANCE400 spectrometers ( Bruker ) with TMS as internal standard and were in accord with the assigned structures .
+Mass spectra were obtained with a MAT-311A spectrometer ( Varian ) .
+Purity of all compounds was checked by TLC .
+Elemental analyses were performed by the Mikroanalytisches Laboratorium , University of Regensburg .
+The syntheses of the starting aldehydes 1a - d,2 1f,2 1e , and 1g - s1 have been described previously .
+4.2. Preparation of [ ( 2-phenylindol-3-yl ) methylene ] propanedinitriles 6
+To a suspension of the 2-phenylindole-3-carbaldehyde 1 ( 50 mmol ) and malonic acid dinitrile ( 55 mmol ) in EtOH ( 5 mL ) were added 2 - 3 drops of piperidine .
+The mixture was then heated under reflux for 2 h .
+After cooling H2O ( 50 mL ) was added slowly .
+The crystalline precipitate was separated by filtration and purified by recrystallization from EtOH or by column chromatography ( SiO2 ) with CH2Cl2 / EtOAc mixtures as the eluent .
+4.2.1. [ ( 2-Phenylindol-3-yl ) methylene ] propanedinitrile ( 6a )
+Yellow crystals ( 16% yield ) , mp 217 - 219 .
+1H NMR 7.20 - 7.74 ( m , 9H , ArH ) ; 7.93 ( s , 1H , vinyl-H ) ; 7.98 - 8.14 ( m , 1H , indole-H4 ) .
+Anal. for C18H11N3 ; calcd C , 80.28 ; H , 4.12 ; N , 15.6 ; found : C , 79.42 ; H , 3.99 ; N , 16.03. .
+4.2.2. [ [2- ( 4-Methoxyphenyl ) -indol-3-yl ] methylene ] propanedinitrile ( 6b )
+Yellow crystals ( 85% yield ) , mp 210 C ( EtOH ) .
+1H NMR 3.87 ( s , 3H , OCH3 ) ; 7.20 , 7.61 ( AABB , 3J = 9.0 Hz , 4H , phenyl-H ) ; 7.25 - 7.39 ( m , 2H , indole-H ) ; 7.51 - 7.56 ( m , 1H , indole-H ) ; 7.93 ( s , 1H , vinyl-H ) ; 8.02 - 8.09 ( m , 1H , indole H ) ; 12.93 ( s , 1H , N-H ) .
+Anal. for C19H13N3O ; calcd C , 76.24 ; H , 4.38 ; N , 12.04 ; found : C , 76.08 ; H , 5.18 ; N , 12.44. .
+4.2.3. [ [5-Methoxy-2- ( 4 methoxyphenyl ) -indol-3-yl ] methylene ] propanedinitrile ( 6c )
+Yellow crystals ( 89% yield ) , mp 257 C ( EtOH ) .
+1H NMR 3.84 ( s , 3H , OCH3 ) ; 3.88 ( s , 3H , OCH3 ) ; 6.97 ( dd , 3J = 8.8 Hz , 4J = 2.4 Hz , 1H , indole-H6 ) ; 7.20 , 7.59 ( AABB , 3J = 8.8 Hz , 4H , phenyl-H ) ; 7.44 ( d , 3J = 8.8 Hz , 1H , indole-H7 ) ; 7.61 ( d , 4J = 2.4 Hz , 1H , indole-H4 ) ; 7.88 ( s , 1H , vinyl-H ) ; 12.86 ( s , 1H , N-H ) .
+Anal. for C20H15N3O2 ; calcd C , 72.94 ; H , 4.59 ; N , 12.76 ; found : C , 72.87 ; H , 4.67 ; N , 12.40. .
+4.2.4. [ [6-Methoxy-2- ( 4 methoxyphenyl ) -indol-3-yl ] methylene ] propanedinitrile ( 6d )
+Yellow solid ( 96% yield ) , mp 250 C. 1H NMR 3.84 ( s , 3H , OCH3 ) ; 3.88 ( s , 3H , OCH3 ) ; 6.93 ( dd , 3J = 8.8 Hz , 4J = 2.4 Hz , 1H , indole-H5 ) ; 7.09 ( d , 3J = 2.4 Hz , 1H , indole-H7 ) ; 7.20 , 7.58 ( AABB , 3J = 8.8 Hz , 4H , phenyl-H ) ; 7.81 ( s , 1H , vinyl-H ) ; 7.97 ( d , 3J = 8.8 Hz , 1H , indole-H4 ) , 12.78 ( s , 1H , N-H ) .
+Anal. for C20H15N3O2 ; calcd C , 72.94 ; H , 4.59 ; N , 12.76 ; found : C , 72.67 ; H , 4.82 ; N , 12.51. .
+4.2.5. [ [5-Fluoro-2- ( 4 methoxyphenyl ) -indol-3-yl ] methylene ] propanedinitrile ( 6e )
+Yellow crystals ( 20% yield ) , mp 225 C ( EtOH ) .
+1H NMR 3.86 ( s , 3H , OCH3 ) ; 7.15 - 7.84 ( m , 3H , indole-H ) ; 7.20 , 7.60 ( AABB , 3J = 9.0 Hz , 4H , phenyl-H ) ; 7.98 ( s , 1H , vinyl-H ) ; 13.00 ( s , 1H , N-H ) .
+Anal. for C19H12FN3O ; calcd C , 71.92 ; H , 3.81 , N , 13.24 ; found : 71.92 ; H , 5.14 ; N , 12.06. .
+4.2.6. [ [6-Fluoro-2- ( 4 methoxyphenyl ) -indol-3-yl ] methylene ] propanedinitrile ( 6f )
+Orange crystals ( 20% yield ) , mp 228-232 C. 1H NMR 3.72 ( s , 3H , OCH3 ) ; 6.84 - 8.02 ( m , 3H , ArH ) ; 7.02 , 7.43 ( AABB , 3J = 9 Hz , 4H , ArH ) ; 7.78 ( s , 1H , vinyl-H ) ; 7.90 ( m , 1H , indole-H4 ) .
+Anal. for C19H12FN3O ; calcd C , 71.92 ; H , 3.81 , N , 13.24 ; found : C , 72.53 ; H , 4.89 ; N , 12.32. .
+4.2.7. [ [6-Methoxy-2- ( 4 methylphenyl ) indol-3-yl ] methylene ] propanedinitrile ( 6g )
+Yellow crystals ( 47% yield ) , mp 258 C ( EtOH ) .
+1H NMR 2.45 ( s , 3H , - CH3 ) ; 3.87 ( s , 3H , OCH3 ) ; 7.14 ( dd , 3J = 8 Hz , 4J = 2 Hz , 1H , indole-H5 ) ; 7.43 ( d , 4J = 2 Hz , 1H , indole-H7 ) ; 7.20 , 7.60 ( AABB , 3J = 9 Hz , 4H , phenyl-H ) ; 7.90 ( s , 2H , vinyl-H and indole-H4 ) ; 12.86 ( s , 1H , N-H ) .
+Anal. for C20H15N3O ; calcd C , 76.66 ; H , 4.82 ; N , 13.41 ; found : C , 76.57 ; H , 4.92 ; N , 12,62 .
+4.2.8. [ [2- ( 4-Methoxyphenyl ) -5-methylindol-3-yl ] methylene ] propanedinitrile ( 6h )
+Yellow solid ( 71% yield ) , mp 260 C ( EtOH ) .
+1H NMR 2.43 ( s , 3H , - CH3 ) ; 3.84 ( s , 3H , OCH3 ) ; 6.94 - 7.01 ( m 2H , indole-H7,6 ) ; 7.45 , 7.53 ( AABB , 3J = 9 Hz , 4H , phenyl-H ) ; 7.86 ( s , 1H , vinyl-H ) ; 8.00 ( s , 1H , indole-H4 ) ; 12.86 ( s , br , 1H , N-H ) .
+Anal. for C20H15N3O ; calcd C , 76.66 ; H , 4.82 ; N , 13.41 ; found : C , 76.04 ; H , 4.68 ; N , 13.22. .
+4.2.9. [ [6-Chloro-2- ( 4 methoxyphenyl ) -5-methylindol-3-yl ] methylene ] propanedinitrile ( 6i )
+Yellow solid ( 47% yield ) , mp 234 C ( EtOH ) .
+1H NMR ( ppm ) = 2.45 ( s , 3H , - CH3 ) ; 3.87 ( s , 3H , OCH3 ) ; 7.20 , 7.60 ( AABB , 3J = 9 Hz , 4H , phenyl-H ) ; 7.54 ( s , 1H , indole-H4 ) ; 7.96 ( s , 1H , indole-H7 ) ; 8.00 ( s , 1H , vinyl-H ) ; 12.31 ( s , br , 1H , N-H ) .
+Anal. for C20H14ClN3O ; calcd C , 69.07 ; H , 4.06 ; N , 12.08 ; found : C , 68.21 ; H , 4.42 ; N , 11.63. .
+4.2.10. [ [2- ( 4-Methoxyphenyl ) -5-n-propylindol-3-yl ] methylene ] propanedinitrile ( 6j )
+Yellow crystals ( 46% yield ) , mp 180 C ( EtOH ) .
+1H NMR 0.91 ( t , 3J = 7 Hz , 3H , - CH2 - CH3 ) ; 1.67 ( sext , 3J = 7 Hz , 2H , - CH2 - CH2 - CH3 ) ; 2.69 ( t , 3J = 7 Hz , 2H , - CH2 - CH2 - ) ; 3.87 ( s , 3H , OCH3 ) ; 7.17 - 7.23 ( m , 1H , indole-H6 ) ; 7.21 , 7.60 ( AABB , 3J = 9 Hz , 4H , phenyl-H ) ; 7.44 ( d , 3J = 8 Hz , 1H , indole-H7 ) ; 7.88 ( d , 4J = 2 Hz , 1H , indole-H4 ) ; 7.92 ( s , 1H , vinyl-H ) ; 12.83 ( s , 1H , N-H ) .
+Anal. for C22H19N3O ; calcd C , 77.40 ; H , 5.61 ; N , 12.31 ; found : C , 76.78 ; H , 5.46 ; N , 11.98. .
+4.2.11. [ [6-Isopropyl-2- ( 4 methoxyphenyl ) indol-3-yl ] methylene ] propanedinitrile ( 6k )
+Yellow solid ( 33% yield ) , mp 145 C ( EtOH ) .
+1H NMR 1.27 ( d , 3J = 7 Hz , 6H , - CH- ( CH3 ) 2 ) ; 3.01 ( sept , 3J = 7 Hz , 1H , - CH- ( CH3 ) 2 ) ; 3.86 ( s , 3H , OCH3 ) ; 7.20 , 7.58 ( AABB , 3J = 9 Hz , 4H , phenyl-H ) ; 7.18 - 7.26 ( m , 1H , indole-H6 ) ; 7.43 ( d , 3J = 8 Hz , 1H , indole-H7 ) ; 7.87 ( s , 1H , indole-H4 ) ; 7.99 ( s,1H , vinyl-H ) ; 12.86 ( s , br , 1H , N-H ) .
+Anal. for C22H19N3O ; calcd C , 77.40 ; H , 5.61 ; N , 12.31 ; found : C , 76.51 ; H , 5.65 ; N , 11.57. .
+4.2.12. [ [5-n-Butyl-2- ( 4 methoxyphenyl ) indol-3-yl ] methylene ] propanedinitrile ( 6l )
+Yellow solid ( 78% yield ) , mp 154 C ( EtOH ) .
+1H NMR 0.90 ( t , 3J = 7 Hz , 3H , - CH2 - CH3 ) ; 1.33 ( sext , 3J = 7 Hz , 2H , - CH2 - CH2 - CH3 ) ; 1.64 ( quin , 3J = 7 Hz , 2H , - CH2 - CH2 - CH2 - ) ; 2.71 ( t , 3J = 7 Hz , 2H , - CH2 - CH2 - ) ; 3.87 ( s , 3H , OCH3 ) ; 7.20 , 7.59 ( AABB , 3J = 9 Hz , 4H , phenyl-H ) ; 7.19 ( d , 3J = 8 Hz , 1H , indole-H6 ) ; 7.52 ( d , J3 = 8 Hz , 1H , indole-H7 ) ; 7.88 ( s , 1H , indole-H4 ) ; 7.93 ( s , 1H , vinyl-H ) ; 12.82 ( s , 1H , N-H ) .
+Anal. for C23H21N3O ; calcd C , 77.72 ; H , 5.95 ; N , 11.82 ; found : C , 77.23 ; H , 5.66 ; N , 11.60. .
+4.2.13. [ [2- ( 4-Methoxyphenyl ) -5-n-pentylindol-3-yl ] methylene ] propanedinitrile ( 6m )
+Yellow solid ( 75% yield ) , mp 158 C ( EtOH ) .
+1H NMR 0.86 ( t , 3J = 7 Hz , 3H , - CH2 - CH3 ) ; 1.26 ( m , 4H , - CH2 - ( CH2 ) 2 - CH3 ) ; 1.64 ( m , 2H , - CH2 - CH2 - CH2 - ) ; 2.70 ( t , 3J = 7 Hz , 2H , - CH2 - CH2 - ) ; 3.87 ( s , 3H , OCH3 ) ; 7.18 ( d , 3J = 8 Hz , 1H , indole-H6 ) ; 7.60 , 7.20 ( AABB , 3J = 9 Hz , 4H , phenyl-H ) ; 7.43 ( d , 3J = 8 Hz , 1H , indole-H7 ) ; 7.88 ( s , 1H , Indol-H4 ) ; 7.93 ( s , 1H , vinyl-H ) ; 12.87 ( s , br , 1H , N-H ) .
+Anal. for C24H23N3O ; calcd C , 78.02 ; H , 6.27 ; N , 11.37 ; found : C , 77.57 ; H , 6.11 ; N , 11.12. .
+4.2.14. [ [5-n-Hexyl-2- ( 4 methoxyphenyl ) indol-3-yl ] methylene ] propanedinitrile ( 6n )
+Yellow solid ( 78% yield ) , mp 131 C ( EtOH ) .
+1H NMR 0.85 ( t , 3J = 7 Hz , 3H , - ( CH2 - CH3 ) ) ; 1.28 ( m , 6H , - CH2 - ( CH2 ) 3 - CH3 ) ; 1.64 ( m , 2H , - CH2 - CH2 - CH2 - ) , 2.70 ( t , 3J = 7 Hz , 2H , - CH2 - CH2 - ) ; 3.87 ( s , 3H , OCH3 ) ; 7.16 ( d , 4J = 1 Hz , 1H , indole-H6 ) ; 7.59 , 7.20 ( AABB , 3J = 9 Hz , 4H , phenyl-H ) ; 7.44 ( d , 3J = 8 Hz , 1H , indole-H7 ) ; 7.88 ( s , 1H , indole-H4 ) ; 7.93 ( s , 1H , vinyl-H ) ; 12.85 ( s , br , 1H , N-H ) .
+Anal. for C25H25N3O ; calcd C , 78.30 ; H , 6.57 ; N , 10.96 ; found : C , 78.11 ; H , 6.41 ; N , 10.83. .
+4.2.15. [ [5-n-Butyl-2- ( 4 methylphenyl ) indol-3-yl ] methylene ] propanedinitrile ( 6o )
+Orange crystals ( 30% yield ) , mp 203 - 204 C ( EtOH ) .
+1H NMR 0.90 ( t , 3H , 3J = 7 Hz , - CH2 - CH3 ) ; 1.32 ( m , 2H , - CH2 - CH2 - CH3 ) ; 1.63 ( m , 2H , - CH2 - CH2 - CH2 - ) ; 2.42 ( s , 3H , - CH3 ) ; 2.71 ( t , 2H , 3J = 7 Hz , - CH2 - CH2 - ) ; 7.19 ( dd , 1H , 3J = 8 Hz , 4J = 2Hz , indole-H6 ) ; 7.45 ( d , 3H , 3J = 8Hz , indole-H7 and phenyl-H ) ; 7.54 ( d , 2H , 3J = 8 Hz , phenyl-H ) ; 7.91 ( s , 1H , indole-H4 ) ; 7.92 ( s , 1H , vinyl-H ) ; 12.90 ( s , br , 1H , N-H ) .
+Anal. for C23H21N3 ; calcd C , 81.38 ; H , 6.24 ; N , 12.38 ; found : C , 81.01 ; H , 6.06 ; N , 12.20. .
+4.2.16. [ [5-n-Butyl-2- ( 4 ethylphenyl ) indol-3-yl ] methylene ] propanedinitrile ( 6p )
+Yellow powder ( 68% yield ) , mp 164 - 165 ( EtOH ) .
+1H NMR 0.90 ( t , 3H , 3J = 7 Hz , - CH2 - CH3 ) ; 1.25 ( t , 3H , 3J = 7 Hz , - CH2 - CH3 ) ; 1.33 ( m , 2H , - CH2 - CH2 - CH3 ) ; 1.63 ( m , 2H , - CH2 - CH2 - CH2 - ) ; 2.72 ( m , 4H , - CH2 - CH3 and - CH2 - CH2 - ) ; 7.19 ( dd , 1H , 3J = 8 Hz , 4J = 2 Hz , indole-H6 ) ; 7.46 ( m , 3H , indole-H7 and phenyl-H ) ; 7.56 ( d , 2H , phenyl-H ) ; 7.92 ( s , 2H , vinyl-H and indole-H4 ) ; 12.89 ( s , br , 1H , N-H ) ; MS : m / z ( % ) = 353 ( 100 , [ M ] + ) ; 310 ( 84 , [ M ] +C3H7 ) .
+Anal. for C24H23N3 1 / 2H2O ; calcd C , 79.51 ; H , 6.62 ; N 11.59 ; found : C , 79.81 ; H , 6.45 ; N , 11.35. .
+4.2.17. [ [5-n-Butyl-2- [ 4- ( trifluoromethyl ) phenyl ] indol-3- yl ] methylene ] propanedinitrile ( 6q )
+Orange powder ( 64% yield ) , mp 212 - 213 C ( EtOH ) .
+1H NMR 0.90 ( t , 3H , 3J = 7 Hz , - CH2 - CH3 ) ; 1.33 ( m , 2H , - CH2 - CH2 - CH3 ) ; 1.67 ( m , 2H , - CH2 - CH2 - CH2 - ) ; 2.75 ( t , 2H , 3J = 7 Hz , - CH2 - CH2 - ) ; 7.23 ( dd , 1H , 3J = 8 Hz , 4J = 2Hz , indole-H6 ) ; 7.49 ( d , 1H , 3J = 8 Hz , indole-H7 ) ; 7.88 ( m , 3H , phenyl-H and indole-H4 ) ; 7.99 ( d , 2H , 3J = 8 Hz , phenyl-H ) ; 8.16 ( s , 1H , vinyl-H ) ; 13.05 ( s , br , 1H , N-H ) .
+Anal. for C23H18F3N3 ; calcd C , 70.22 ; H , 4.61 ; N , 10.68 ; found : C , 69.81 ; H. 4.67 ; N , 9.84. .
+4.2.18. [ [5-n-Pentyl-2- [ 4- ( trifluoromethyl ) phenyl ] indol-3- yl ] methylene ] propanedinitrile ( 6r )
+Yellow solid ( 50% yield ) , mp 195 - 196 C ( EtOH ) .
+1H NMR 0.84 ( t , 3H , 3J = 7 Hz , - CH2 - CH3 ) ; 1.25 ( m , 4H , - CH2 - ( CH2 ) 2 - CH2 - ) ; 1.64 ( m , 2H , - CH2 - CH2 - CH2 - ) ; 2.69 ( t , 2H , 3J = 7 Hz , - CH2 - CH2 - ) ; 7.20 ( dd , 1H , 3J = 8 Hz , 4J = 2Hz , indole-H6 ) ; 7.46 ( d , 1H , 3J = 8 Hz , indole-H7 ) ; 7.84 , 7.97 ( d , 4H , 3J = 8 Hz , AABB , phenyl-H ) ; 7.88 ( s , 1H , indole-H4 ) ; 8.13 ( s , 1H , vinyl-H ) ; 13.04 ( s , br , 1H , N-H ) ; MS : m / z ( % ) = 407 ( 56 , [ M ] + ) ; 350 ( 100 , [ M ] +C4H9 ) .
+Anal. for C24H20F3N3 ; calcd C , 70.75 ; H , 4.95 ; N , 10.31 ; found : C , 70.46 ; H , 5.10 ; N , 10.26. .
+4.2.19. [ [5-n-Hexyl-2- [ 4- ( trifluoromethyl ) phenyl ] indol-3- yl ] methylene ] propanedinitrile ( 6s )
+Orange crystals ( 52% yield ) , mp 177 - 178 C ( EtOH ) .
+1HNMR 0.85 ( t , 3H , 3J = 7 Hz , - CH2 - CH3 ) ; 1.25 ( m , 6H , - CH2 - ( CH2 ) 3 - CH3 ) ; 1.64 ( m , 2H , - CH2 - CH2 - CH2 - ) ; 2.71 ( t , 2H , 3J = 7Hz , - CH2 - CH2 - ) ; 7.23 ( dd , 1H , 3J = 8 Hz , 4J = 2 Hz , indole-H6 ) ; 7.49 ( d , 1H , 3J = 8 Hz , indole-H7 ) ; 7.89 ( s , 1H , indole-H4 ) ; 7.87 , 7.99 ( d , 4H , 3J = 8 Hz , AABB , phenyl-H ) ; 8.15 ( s , 1H , vinyl-H ) ; 13.06 ( s , br , 1H , N-H ) ; MS : m / z ( % ) = 421 ( 62 , [ M ] + ) ; 350 ( 100 , [ M ] +C5H11 ) .
+Anal. for C25H22F3N3 ; calcd C , 71.25 ; H , 5.26 ; N , 9.97 ; found : C , 70.73 ; H , 4.79 ; N , 9.22. .
+4.3. Materials and reagents for bioassays .
+Drugs and biochemicals were obtained from Sigma ( Deisenhofen , Germany ) except where noted .
+All cell lines used ( MDA-MB 231 and MCF-7 breast cancer cells , A-431 vulva carcinoma cells ) were of human origin and were obtained from the American Type Culture collection ( ATCC , Rockville , MD , U.S.A. ) .
+Female B6D2F1 mice were bought from Charles-River ( Sulzfeld , Germany ) .
+The MXT mammary tumors were generously provided by Dr. A. E. Bogden , Laboratory of Experimental Oncology , Worcester , Mass , USA .
+4.4. Determination of anti-proliferative activity .
+Hormone-independent human MDA-MB 231 breast cancer cells were grown in McCoy-5a medium , supplemented with L-glutamine ( 73 mg / L ) , gentamycin sulfate ( 50 mg / L ) , NaHCO3 ( 2.2 g / L ) , and 5% sterilized fetal calf serum ( FCS ) .
+At the start of the experiment , the cell suspension was transferred to 96 well microplates ( 100 L / well ) .
+After the cells had grown for 2 - 3 days in a humidified incubator with 5% CO2 at 37 C , medium was replaced by one containing the test compounds ( 200 L / well ) .
+Control wells ( 16 / plate ) contained 0.1% of DMF that was used for the preparation of stock solutions .
+Initial cell density was determined by addition of glutaric dialdehyde ( 1% in PBS ; 100 L / well ) instead of test compound .
+After incubation for about 4 days , the medium was removed and 100 L of glutaric dialdehyde in PBS ( 1% ) was added for fixation .
+After 15 min , the solution of aldehyde was decanted .
+Cells were stained by treating them for 25 min with 100 L of an aqueous solution of crystal violet ( 0.02% ) .
+After decanting , cells were washed several times with water to remove adherent dye .
+After addition of 100 L EtOH ( 70% ) , plates were gently shaken for 2 h .
+Optical density of each well was measured in a microplate autoreader EL 309 ( Bio-tek ) at 578 nm .
+For hormone-sensitive MCF-7 human breast cancer cells a similar procedure to that described for MDA-MB 231 cells was applied with alterations : cells were grown in EMEM supplemented with sodium pyruvate ( 110 mg / L ) , gentamycin sulfate ( 50 mg / L ) , NaHCO3 ( 2.2 g / L ) , phenol red and 10% FCS .
+An analogous protocol was applied for A-431 vulva carcinoma cells with two modifications .
+The concentration of FCS was reduced to 5% and the incubation period was 4 days .
+For the determination of the IC50 values in the HL-60 cell line , the MTT assay was used as previously described.22 .
+4.5. Flow cytometry .
+MDA-MB 231 cells were grown to 70 - 80% confluence on the bottom of a 75 cm2 culture flask .
+Test substances were dissolved in DMF and diluted to the required concentrations .
+The content of DMF in medium and in controls after 1000 times dilution was set to 0.1% .
+For each concentration one culture flask was used .
+Cells were exposed to test substances for 24 h .
+This incubation time was necessary to obtain a sufficient number of cells ( 5106 cells ) .
+After incubation the cells were trypsinized , centrifuged ( 250g ) in an excess of serum containing medium for 10 min , and washed with PBS .
+The pellets of cells were resuspended in 1 mL of PBS and 9 mL of 70% EtOH ( ice-cold ) .
+EtOH and PBS were removed by centrifugation and the cells were washed with PBS .
+After the addition of 0.5 mL of PBS and 0.5 mL of DNA extraction buffer , the cells were transferred into Eppendorf cups ( 2 mL ) , incubated for 5 min at room temperature , and centrifuged again .
+The cells are stained with 1 mL of propidium iodide solution for at least 30 min at room temperature and then analyzed by flow cytometry using a FACS-Calibur .
+For analysis , data files for four parameters were collected for 8,000 - 15,000 events from each sample .
+The flow rate was adjusted to ca .
+300 cells / s for appropriate accuracy .
+Data were analyzed by the WinMDI 2.8 software .
+4.6. Tubulin polymerization assay4.6.1 .
+Isolation and purification of calf brain tubulin .
+The cortex of one or two fresh calf brains in ice-cold PEM buffer ( 1 mL / g tissue , +16 mg DTE / 100 mL buffer solution ) was homogenized in portions .
+After centrifugation ( 90 min ; 20,000g ) at 2 - 4 C , the supernatant was carefully decanted .
+The concentrations of GTP and ATP were adjusted to 0.1 and 2.5 mM , respectively .
+After stirring gently at 37 C for 30 min , the solution was transferred to centrifugation tubes and carefully underlayered with a pre-warmed ( 37 C ) sucrose solution ( 10% in PEM buffer solution containing 1 mM GTP , approx. 10% of the transferred volume ) .
+After centrifugation at 37 C for 45 min ( 20,000g ) , the pellets were weighed and suspended in ice-cold PEM buffer solution ( 3 mL / g ) and homogenized in a Teflon-in-glass potter .
+After standing in ice for 30 min , the suspension was centrifuged at 2 C for 30 min ( 40,000g ) .
+The supernatant was separated and adjusted to 1 mM GTP .
+By incubation at 37 C for 15 min tubulin was polymerized once again .
+After centrifugation at 37 C for 30 min microtubules were obtained as shiny gel-like pellet .
+The yields ranged from 2 to 6 g per brain .
+Aliquots were frozen in liquid nitrogen and stored at 70 C. Purity was checked by polyacrylamide gel electrophoresis .
+4.6.2. Temperature-induced tubulin polymerization .
+The pellet of frozen microtubules was warmed to 37 C in a water bath .
+After addition of the 20 fold volume of ice-cold PEMG buffer it was homogenized .
+Depolymerization was completed by keeping the mixture at 0 C for 30 min , followed by centrifugation at 2 C ( 30 min ; 30,000g ) to remove insoluble protein .
+Each reaction tube contained 0.46 mL of the supernatant and 20 L of the DMSO solution of the test compound in varying concentrations .
+Reaction mixture were preincubated at 37 C for 15 min and chilled on ice followed by addition of 20 L of a 25 mM GTP solution in PEMG buffer to each tube .
+Reaction mixtures was transferred to cuvettes of a UV spectrophotometer connected to two different temperature controller .
+First , the temperature inside the cuvettes was held at 2 C. The cuvette holder was then switched to the second temperature controller at 37 C and the absorption was measured over a period of 20 min at 350 nm .
+Absorption at the start of the reaction was used as baseline .
+Three independent experiments were performed for the determination of IC50 values .
+Each experiment had two control reaction mixtures ; their mean value was defined as 100% and their turbidity readings were generally within 10% of each other .
+4.7. Caspase induction studies28 .
+HL-60 human acute myeloid leukemia cells ( DSMZ ) were maintained in logarithmic growth in RPMI 1640 supplemented with 10% FCS , 30 mg / L of penicillin G and 40 mg / L of streptomycin sulfate .
+Apoptosis was induced by treatment of cells ( 1105 cells / mL ) with the indole derivatives or with etoposide as the reference drug .
+Cells were incubated in a humid atmosphere of 5% CO2 at 37 C and the cell lysates were prepared after 24 h of treatment .
+For the preparation of the cell-free extracts , all steps were performed at 4 C. Cells were pelleted at 500g for 4 min , washed with PBS , once again pelleted at 500g for 3 min and resuspended in hypotonic Hepes buffer ( 10 mM Hepes , pH 7.0 ; 5 mM 1,4 dithiothreitol ( DTT ) ; 2 mM Na - EDTA ; 0.1% ( w / v ) CHAPS ) .
+After a 20 min incubation on ice , lysates were centrifuged at 10,000g for 10 min .
+The supernatant was removed while taking care to avoid the pellet .
+Fifty microliter aliquots containing 2 - 4 g of cytosolic protein ( estimated by the Bradford method ) were pre-incubated with 10 M of appropriate protease inhibitor ( benzyloxycarbonyl-Asp-Glu-Val-Asp-chloromethylketone and acetyl-Leu-Glu-His-Asp-chloromethylketone , both from Bachem. Heidelberg , Germany , for caspases 3 and 9 , respectively ) or DMSO ( assay without inhibitor ) for 5 min at 21 C and then diluted to 198 L with the assay buffer ( 50 mM Hepes ; 5 mM DTT ; 2 mM Na - EDTA ; 0.1% ( w / v ) CHAPS ) .
+The samples were frozen at 32 C. All experiments were performed within one week of extract preparation .
+Caspase 3 and 9 activities were assessed by monitoring cleavage of fluorochrome tagged synthetic substrates Acetyl-Asp-Met-Gln-Asp-7-amino-4-methyl-coumarin ( Ac-DMQD-AMC ) and Acetyl-Leu-Glu-His-Asp - amino-4-trifluoromethyl-coumarin ( Ac-LEHD-AFC ) ( Bachem ) , respectively , by HPLC .
+After thawing of lysates , 2 L of appropriate substrate was added ( final concentration of 150 and 200 M for Ac-DMQD-AMC and Ac-LEHD-AFC , respectively ) .
+The samples were incubated for 30 min at 30 C and the specific products quantified by RP-HPLC with a fluorescence detector ( L-7485 , Merck ) .
+Fluorescence was measured by using an excitation wavelength of 380 nm or 400 nm and emission wavelength of 460 or 505 nm for released AMC or AFC , respectively .
+Control experiments ( data not shown ) confirmed that the release of AMC or AFC was linear for at least 60 min at the conditions specified .
+To estimate a specific caspase activity , measurements of blank ( substrate only ) , negative control ( substrate + cell lysate + inhibitor ) and positive controls ( substrate + cell lysate ) were performed .
+From each result obtained as fluorescence units ( peak area ) blank values were subtracted .
+Standards containing 0 - 15 pmol of AMC and 0 - 30 pmol of AFC were utilized to determine the amount of fluorochrome released .
+The results are presented as amount of AMC or AFC release ( pmol/mg / min ) , which can be blocked by selective protease inhibitor .
+4.8. Microscopy of HL-60 cells .
+HL-60 cells at a density of 500,000 / ml in 10% FCS/ RPMI medium were treated with either 0.1% DMF ( control ) , 1.0 M 6m , 1.0 M 6q , or 8 M etoposide for 24 h at 37 C. Cells were photographed directly at a 400 fold magnification with a Sony alpha100 digital camera mounted on a Zeiss Axiovert 25 phase-contrast microscope .
+4.9. Determination of antitumor activity in mice .
+Hormone resistant MXT mouse mammary tumors were grown in ovariectomized female B2D2F1 mice before transplantation .
+At the start of the experiment , tumor pieces of 1 mm3 were serially transplanted into 8- to 9-week-old female B2D2F1 mice .
+Animals were randomly assigned to groups of 6 - 8 and treatment started 24 h after transplantation .
+Compound 6f was suspended in polyethylene glycol 400 / 1.8% saline ( 1:1 ) ; the reference drug cisplatin was dissolved in 0.9% saline .
+Both agents were administered subcutaneously on Monday , Wednesday , and Friday .
+After two weeks of treatment , the tumor area was determined by transdermal calliper measurements of two perpendicular axes , one across the largest diameter .
+The change of body weight between start and end of therapy was recorded in order to detect obvious toxicity .
+Acknowledgments .
+The authors thank Dr. Doris Marko , University of Karlsruhe , for helpful discussions and Renate Liebl , University of Regensburg , for excellent technical assistance .
+References and notes .
+1 D. Kaufmann , M. Pojarova , S. Vogel , R. Liebl , R. Gastpar , D. Gross , T. Nishino , T. Pfaller and E. von Angerer , Bioorg .
+Med .
+Chem .
+15 ( 2007 ) , pp. 5122 - 5136 .
+Article | PDF ( 834 K ) | View Record in Scopus | Cited By in Scopus ( 2 )
+2 R. Gastpar , M. Goldbrunner , D. Marko and E. von Angerer , J. Med .
+Chem .
+41 ( 1998 ) , pp. 4965 - 4972 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 24 )
+3 J.K. Buolamwini , Curr .
+Pharm .
+Des .
+6 ( 2000 ) , pp. 379 - 392 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 76 )
+4 K.R. Webster , Chem .
+Res .
+Toxicol .
+13 ( 2000 ) , pp. 940 - 943 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 16 )
+5 E. von Angerer , Exp .
+Opin .
+Ther .
+Patents 9 ( 1999 ) , pp. 1069 - 1081 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 20 )
+6 E. von Angerer , Curr .
+Opin .
+Drug Discovery Dev .
+3 ( 2000 ) , pp. 575 - 584 .
+View Record in Scopus | Cited By in Scopus ( 14 )
+7 C. Benson , S. Kaye , P. Workman , M. Garrett , M. Walton and J. de Bono , Br .
+J. Cancer 92 ( 2005 ) , pp. 7 - 12. Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 27 )
+8 T.M. Sielecki , J.F. Boylan , P.A. Benfield and G.L. Trainor , J. Med .
+Chem .
+43 ( 2000 ) , pp. 1 - 18. Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 193 )
+9 H.H. Garcia , G.A. Brar , D.H.H .
+Nguyen , L.F. Bjeldanes and G.L. Firestone , J. Biol .
+Chem .
+280 ( 2005 ) , pp. 8756 - 8764 .
+View Record in Scopus | Cited By in Scopus ( 11 )
+10 C.M. Cover , S.J. Hsieh , S.H. Tran , G. Hallden , G.S. Kim , L.F. Bjeldanes and G.L. Firestone , J. Biol .
+Chem .
+273 ( 1998 ) , pp. 3838 - 3847 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 155 )
+11 C. Hong , G.L. Firestone and L.F. Bjeldanes , Biochem .
+Pharmacol .
+63 ( 2002 ) , pp. 1085 - 1097 .
+Article | PDF ( 525 K ) | View Record in Scopus | Cited By in Scopus ( 68 )
+12 C. Hong , H. Kim , G.L. Firestone and L.F. Bjeldanes , Carcinogenesis 23 ( 2002 ) , pp. 1297 - 1305 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 70 )
+13 K.W. Rahman , Y. Li , Z. Wang , S.H. Sarkar and F.H. Sarkar , Cancer Res .
+66 ( 2006 ) , pp. 4952 - 4960 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 11 )
+14 S. Nam , R. Buettner , J. Turkson , D. Kim , J.Q. Cheng , S. Muehlbeyer , F. Hippe , S. Vatter , K.H. Merz , G. Eisenbrand and R. Jove , Proc .
+Natl .
+Acad .
+Sci .
+U.S.A .
+102 ( 2005 ) , pp. 5998 - 6003 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 51 )
+15 M.J. Moon , S.K. Lee , J.W. Lee , W.K. Song , S.W. Kim , J.I. Kim , C. Cho , S.J. Choi and Y.C. Kim , Bioorg .
+Med .
+Chem .
+14 ( 2006 ) , pp. 237 - 246 .
+Article | PDF ( 267 K ) | View Record in Scopus | Cited By in Scopus ( 15 )
+16 S.A. Kim , Y.C. Kim , S.W. Kim , S.H. Lee , J.J. Min , S.G. Ahn and J.H. Yoon , Clin .
+Cancer Res .
+13 ( 2007 ) , pp. 253 - 259 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 5 )
+17 G. Eisenbrand , F. Hippe , S. Jakobs and S. Muehlbeyer , J. Cancer Res .
+Clin .
+Oncol .
+130 ( 2004 ) , pp. 627 - 635 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 22 )
+18 C.T. Supuran , Exp .
+Opin .
+Invest .
+Drugs 12 ( 2003 ) , pp. 283 - 287 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 66 )
+19 T. Owa , H. Yoshino , T. Okauchi , K. Yoshimatsu , Y. Ozawa , N.H. Sugi , T. Nagasu , N. Koyanagi and K. Kitoh , J. Med .
+Chem .
+42 ( 1999 ) , pp. 3789 - 3799 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 122 )
+20 A. Andreani , M. Granaiola , A. Leoni , A. Locatelli , R. Morigi , M. Rambaldi , V. Garaliene , G. Farruggia and L. Masotti , Bioorg .
+Med .
+Chem .
+12 ( 2004 ) , pp. 1121 - 1128 .
+Article | PDF ( 435 K ) | View Record in Scopus | Cited By in Scopus ( 13 )
+21 H.Y. Chang and X. Yang , Microbiol .
+Mol .
+Biol .
+Rev .
+64 ( 2000 ) , pp. 821 - 846 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 221 )
+22 K. Bracht , Boubakari , R. Grnert and P.J. Bednarski , Anti-Cancer Drugs 17 ( 2006 ) , pp. 41 - 51. Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 9 )
+23 I. Suzuki , M. Kondoh , F. Nagashima , M. Fujii , Y. Asakawa and Y. Watanabe , Planta Med. ( 2004 ) , pp. 401 - 406 .
+View Record in Scopus | Cited By in Scopus ( 6 )
+24 L. Zhang , K. Mizumoto , N. Sato , T. Ogawa , M. Kusumoto , H. Niiyama and M. Tanaka , Cancer Lett .
+142 ( 1999 ) , pp. 129 - 137 .
+Article | PDF ( 477 K ) | View Record in Scopus | Cited By in Scopus ( 21 )
+25 K. Szepeshazi , A.V. Schally and A. Nagy , Breast Cancer Res .
+Treat .
+56 ( 1999 ) , pp. 267 - 276 .
+View Record in Scopus | Cited By in Scopus ( 17 )
+26 A. Levitzki , Biochem .
+Pharmacol .
+40 ( 1990 ) , pp. 913 - 918 .
+Abstract | PDF ( 651 K ) | View Record in Scopus | Cited By in Scopus ( 82 )
+27 N. Kleinberger-Doron , N. Shelah , R. Capone , A. Gazit and A. Levitzki , Exp .
+Cell Res .
+241 ( 1998 ) , pp. 340 - 351 .
+Abstract | PDF ( 1158 K ) | View Record in Scopus | Cited By in Scopus ( 28 )
+28 F. Saczewski , P. Reszka , M. Gdaniec , R. Grunert and P.J. Bednarski , J. Med .
+Chem .
+47 ( 2004 ) , pp. 3438 - 3449 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 11 )
+Supplementary data .
+( 8122 K )
+mmc1.doc .
+Microsoft Word file 1. .
+Supplementary data .
+View Within Article .
+Corresponding author .
+Tel. : +49 ( 0 ) 9419434821 ; fax +49 ( 0 ) 9419434820 .
+Bioorganic Medicinal Chemistry .
+Volume 15 , Issue 23 , 1 December 2007,Pages 7368-7379Result list | previous < 21 of 1,560 > next .
+Home .
+Browse .
+Search .
+- selected .
+My Settings .
+Alerts .
+Help .
+About ScienceDirect | Contact Us | Terms & Conditions | Privacy PolicyCopyright 2008 Elsevier B.V. All rights reserved .
+ScienceDirect® is a registered trademark of Elsevier B.V .
+var t;t=101000;collabTimer=setTimeout ( hideDiv ( " CollabBoxContent " ) , t ) ;collabKeyEventURL='http://www.sciencedirect.com/science / collab?targetURL= .

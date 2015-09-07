@@ -1,0 +1,207 @@
+Isolated local recurrence ( ILR ) after mastectomy or conservative surgery ( CS ) is associated with an increased risk of distant metastasis and death from breast cancer .
+ILR may be a source of distant metastasis or a marker of systemic dissemination occurred before initial treatment.  A number of factors , such as disease-free interval , initial tumor and lymph node stage , patients age , extent and histology of the recurrent tumor are identified that may influence the risk of cause-specific mortality after local recurrence in patients with early-stage invasive breast cancer.  Breast cancer specific events are not uncommon more than five years after salvage treatment for local recurrence .
+However , few authors published 10 year results and used multivariate analysis to examine factors that affect outcome after ILR,  and there are only three studies evaluating survival after local relapse with respect to initial surgical treatment. 
+The purpose of this study was to evaluate the long-term survival of patients after salvage treatment for ILR with respect to primary surgical treatment and prognostic factors .
+Materials and methods .
+From January 1983 to December 1987 , 1309 patients with stage I or II breast cancer were treated consecutively with modified radical mastectomy ( n=894 ) or CS ( n=415 ) at the National Institute of Oncology , Budapest .
+Details , regarding baseline characteristics and adjuvant treatments , are described elsewhere.22 One hundred twenty four of the 1309 patients ( 9.5% ) had subsequent ILR ( mastectomy , 56 and CS , 68 ) .
+ILR was defined here as the appearance of any histologically verified new breast tumor ( invasive or non-invasive adenocarcinoma ) in the chest wall ( surgical flap and scar ) or in the operated breast parenchyma and / or in the overlying skin , at least three months prior to regional relapse or distant metastasis .
+Ipsilateral in-breast relapses were classified as either new primary ( NP ) tumor or true local recurrence ( TR ) .
+NP was diagnosed if the recurrence was distinctly different from the primary tumor with respect to the histological type , or if the recurrence location was in a different anatomical sub-site ( clearly distinct location ) .
+Salvage treatment consisted of surgery , radiation , chemotherapy , hormone therapy , or a combination of the above .
+Following CS , the decision on the use of repeat wide excision or mastectomy was made by the patient and the treating surgical oncologist .
+Generally , a wide tumor excision was suggested , if it was technically feasible , and there was no skin involvement .
+Sixteen patients did not have salvage surgery .
+They were considered inoperable due to disease extension ( affecting the whole breast or wide-spread multiple-diffuse skin lesions ) .
+Table 1. .
+Types of salvage treatments .
+Mastectomyn=56 Excision12 Excision+RTa5 Excision+systemicbRT27 SystemicRT12 .
+Conservative surgeryn=68 Excision19 Excision+RT4 Excision+systemic9 Mastectomy22 Mastectomy+systemic10 SystemicRT4 .
+Full-size table .
+a Radiotherapy .
+b Chemo- or / and hormonal therapy .
+View Within Article .
+Survival analysis was carried out using Kaplan - Meier method.23 Time to ILR was calculated from initial surgery until the occurrence of ILR .
+Time to second local recurrence was calculated from salvage surgery until the occurrence of second local recurrence .
+Cause-specific survival was calculated from the date of the histological diagnosis of ILR until death from breast cancer or last follow-up .
+Actuarial curves were compared by the two-tailed log-rank test , and differences of p0.05 were considered significant .
+The independent prognostic significance of variables , proved to be significant factor in univariate analysis , was tested in proportional hazards regression models described by Cox.24 The estimates of the models are given as relative risk ( RR ) with 95% confidence intervals ( 95% CI ) .
+A separate analysis was also performed for both original surgical treatment groups ( mastectomy and CS ) to investigate the possibility of a difference in prognostic factors after either treatment .
+Results Initial presentation .
+Of the 124 ILR , 121 was invasive and three in situ cancer ( CS patients ) .
+The median time from initial surgery to ILR was 48 months ( range , 5 - 206 months ) .
+The median follow-up time for surviving patients after the onset of ILR was 165 months ( range , 75 - 240 months ) .
+At last follow-up , 42 patients ( 34% ) were alive ( two with distant disease ) , and 60 ( 48% ) patients had died of breast cancer .
+The other 22 patients died of internal disease ( n=20 , 16% ) or other cancer ( n=2 , 2% ) .
+The actuarial rate of 10 year cause-specific survival after ILR was 52% .
+Mastectomy patients had more advanced initial stage than CS patients : axillary lymph node metastasis 59% vs. 28% ( p=0.005 ) , and pT2 primary 54% vs. 16% , respectively ( p0.0001 ) .
+Table 2 shows the time from initial surgery to local recurrence by subsets of patients .
+This interval was significantly shorter for patients with subsequent distant failure following local recurrence , with node positive primary , with inoperable local recurrence and with grade 3 recurrent tumor .
+Table 2. .
+Delay between initial surgery and local recurrence in months ( n=124 )
+FactorsNo. of patientsMedian ( mean ) p-Valuea Subsequent distant metastasis 0.0001 No6261 ( 75 ) Yes6229 ( 45 )
+Age at first treatment0.2403 40 years2235 ( 51 ) 40 years10252 ( 62 )
+Initial tumor stage0.1107 pT18353 ( 64 ) pT24143 ( 51 )
+Initial lymph node stage0.0422 pN negative7255 ( 67 ) pN positive5235 ( 50 )
+Initial surgery0.5253 Mastectomy5644 ( 55 ) Conservative surgery6853 ( 63 )
+Adjuvant radiotherapy0.1009 No6443 ( 52 ) Yes6063 ( 68 )
+Operability of recurrence0.0043 Inoperable1618 ( 26 ) Operable10854 ( 65 )
+Recurrent tumor grade0.0451 1 - 28553 ( 65 ) 33940 ( 47 )
+Full-size table .
+a Log-rank test .
+View Within Article .
+Prognostic variables for all patients .
+The results of the univariate analysis of the tested prognostic variables are shown in Table 3. Adjuvant radiotherapy was not , but the other seven potential prognostic variables were significantly related to survival after local recurrence .
+All patients with inoperable local recurrence died within 10 years , and the 3 year cause-specific survival was 13% .
+The 10 year survival rate was also poor ( 30% ) for young and node positive women , or for those with short time to ILR .
+On multivariate analysis , only inoperable recurrence ( RR , 5.9 ) , young age at initial diagnosis ( RR , 2.2 ) , and short time to recurrence ( RR , 2 ) remained independent negative predictors of cause-specific survival , and axillary lymph node stage at initial diagnosis showed borderline significance ( p=0.0615 ) .
+Table 3. .
+10 year cause specific survival following isolated local recurrence by type of initial surgery and prognostic factors for all patients ( n=124 )
+VariablesNo. of patientsSurvival ( % ) p-Value Age at first treatment0.0191 40 years2227 40 years10258 .
+Initial tumor stage0.0363 pT18360 pT24136 .
+Initial lymph node stage 0.0001 pN negative7269 pN positive5229 .
+Initial surgery0.0079 Mastectomy5640 Conservative surgery6862 .
+Adjuvant radiotherapy0.1020 No6463 Yes6042 .
+Time to local recurrence 0.0001 24 months3419 24 months9065 .
+Operability of recurrence0.0001 Inoperablea160 Operable10860 .
+Recurrent tumor grade0.0306 1 - 2855733941 .
+Full-size table .
+a 3 year survival was 13% .
+View Within Article .
+Table 4. .
+Multivariate proportional hazards model for cause-specific death following local recurrence .
+VariablesRR95% CIp-Value Age at first treatment 40 vs. 40 years2.21.2 - 4.20.0118 .
+Initial tumor stage pT1 vs. pT21.50.8 - 2.70.2222 .
+Initial lymph node stage pN negative vs. positive1.71 - 3.30.0615 .
+Initial surgery Conservative surgery vs. mastectomy1.40.8 - 2.50.2979 .
+Time to local relapse 24 vs. 24 months21.1 - 3.70.0255 .
+Operability of recurrence Operable vs. inoperable5.92.7 - 12.60.0001 .
+Recurrent tumor grade 1 - 2 vs. 31.40.7 - 2.50.3379 .
+Full-size table .
+RR , relative risk and CI , confidence interval .
+View Within Article .
+In the second step multivariate analysis , the type of initial surgery and the operability of local recurrence were not included in the model as potential independent risk factors .
+The operability of in-breast recurrences , affecting the whole breast or chest wall ( surgical flap ) recurrences with wide-spread multiple-diffuse skin infiltration , may be subject to operator skill and are obvious markers of distant dissemination .
+The following factors increased the risk of death after treatment for ILR : positive lymph node stage ( RR : 2.4 ; 95% CI : 1.3 - 4.2 ; p=0.0031 ) and short time ( 24 months ) to ILR ( RR : 2.9 ; 95% CI : 1.6 - 5.1 ; p=0.0003 ) .
+The combination of these variables strengthened their prognostic value .
+The 10 year survival after treatment for ILR with node negative stage with 24 months to ILR ( n=60 ) or with node positive stage with 24 months to ILR ( n=22 ) was 76% and 10% , respectively ( p=0.0001 ) .
+Prognostic variables for mastectomy patients .
+Of the 56 patients , 34 ( 61% ) had died of breast cancer , and the rate of 10 year cause-specific survival was 40% .
+In 17 patients ( 30% ) the ILR developed after 5 years following initial operation .
+The results of the univariate analysis of the tested prognostic variables are shown in Table 5. All women with inoperable ILR died within 10 years , and the 3 year cause-specific survival was 15% .
+The number of young patients at risk was insufficient in giving a reliable estimate at 10 years , and the 5 year survival rate was 33% .
+The 10 year survival was also very poor for patients with lymph node metastasis or with short time to local relapse : 21% and 15% , respectively .
+Lymph node negative stage and single scar recurrence predicted relatively good survival , 68% and 66% at 10 years , respectively .
+Patients with single scar recurrence with initial lymph node negative stage ( n=15 ) had an excellent survival rate , 85% at 10 years .
+The 10 year survival rate after surgery of ILR was 81% ( 13 of 17 ) for patients with initial lymph node negative stage with 24 months to ILR .
+In the operable patient group , patients with initial lymph node metastasis with 24 months to ILR had the poorest survival rate : 14% ( 1 of 7 ) at 10 years .
+Table 5. .
+10 year cause specific survival after an isolated local recurrence by prognostic factors for mastectomy patients ( n=56 )
+VariablesNo. of patientsSurvival ( % ) p-Value Age at first treatment0.0670 40 yearsa60 40 years5045 .
+Initial tumor stage0.3317 pT12649 pT23031 .
+Initial lymph node stage0.0014 pN negative2368 pN positive3321 .
+Adjuvant radiotherapy0.0961 No2952 Yes2728 .
+Time to local recurrence0.0036 24 months2015 24 months3655 .
+Operability of recurrence0.0001 Inoperableb120 Operable4451 .
+Type of operable recurrence0.0015 Single scar2966 Othersc1520 .
+Recurrent tumor grade0.3728 1 - 2334132333 .
+Full-size table .
+a 5 year survival rate 33% .
+b 3 year survival rate 15% .
+c Multiple thoracic wall .
+View Within Article .
+Prognostic variables for CS patients .
+Of the 68 patients , 26 ( 38% ) had died of breast cancer , and the rate of 10 year cause-specific survival was 62% .
+In 29 patients ( 43% ) the ILR developed after 5 years following initial operation .
+12 of the 16 ( 75% ) NP developed in node negative patients .
+Four patients had inoperable ILR ( affecting the whole breast with diffuse skin infiltration ) .
+The average recurrent tumor size for salvage excision or mastectomy patients was 14 mm ( range : 7 - 30 mm ) and 23 mm ( range : 10 - 55 mm ) , respectively ( p=0.0018 ) .
+The results of the univariate analysis of the tested prognostic factors are shown in Table 6. Age , time to ILR , type of recurrence , operability of recurrence , and size of recurrence had significant impact on survival .
+The type of salvage surgery ( mastectomy or repeat lumpectomy ) had no significant impact on post-recurrence survival neither for patients with 2 cm ( 10 year estimated survival rate : 81% [ 13 of 16 ] and 81% [ 22 of 28 ] , p=0.7919 ) nor for patients with 2 cm ( 10 year estimated survival rate : 28% [ 5 of 16 ] and 50% [ 2 of 4 ] , p=0.4928 ) local recurrence .
+All NP developed after 24 months after initial surgery .
+Median time to ILR with NP or TR was 68 and 47 months , respectively ( p=0.22 ) .
+Older patients ( 40 years ) with NP had the best survival rate following surgery of ILR , 92% ( 12 of 13 ) at 10 years .
+Survival rate at 10 years was 67% for younger patients ( 40 years ) with NP , but only three patients belonged to this group .
+Table 6. .
+10 year cause specific survival after an isolated local recurrence by prognostic factors for conservative surgery patients ( n=68 )
+VariablesNo. of patientsSurvival ( % ) p-Value Age at first treatment0.0175 40 years1638 40 years5271 .
+Initial tumor stage0.4410 pT15764 pT21153 .
+Initial lymph node stage0.0816 pN negative4969 pN positive1946 .
+Adjuvant radiotherapy0.2989 No3570 Yes3354 .
+Time to local recurrence0.0004 24 months1425 24 months5472 .
+Type of recurrencea0.0141 True5254 New primary1688 .
+Operability of recurrence0.0049 Inoperableb40 Operable6466 .
+Size of operable recurrence0.0005 2 cm4481 2 cm2032 .
+Type of salvage surgery0.1216 Wide excision3277 Mastectomy3255 .
+Recurrent tumor grade0.1503 1 - 2526731646 .
+Full-size table .
+a One tumor bed recurrence was ductal carcinoma in situ , and two new primary were Paget 's disease .
+b Affecting the whole breast with skin infiltration , 3 year survival was 25% .
+View Within Article .
+Second local recurrence .
+Sixteen patients were never free of local disease after systemic treatment for their inoperable ILR .
+Of the 108 patients treated with surgery for initial local recurrence , 30 ( 27% ) developed second local recurrence .
+Mean time to second local recurrence was 28 months ( range : 3 - 81 months ) .
+Second local recurrence increased the risk of death ( RR : 2.8 ; 95% CI : 1.5 - 5.1 ) , and the 10 year survival following treatment for ILR without or with second local recurrence was 72% and 27% , respectively ( p=0.007 ) .
+The rate of second local recurrence following initial mastectomy or CS was 36% ( 16 of 44 ) and 22% ( 14 of 64 ) , respectively ( p=0.0986 ) .
+In mastectomy patients , half of second local recurrences was synchronous event with distant relapse or came after distant relapse .
+In CS patients , the rate of second local recurrence following salvage excision or mastectomy was 28% ( 9 of 32 ) and 16% ( 5 of 32 ) , respectively ( p=0.2265 ) .
+The rate of second local recurrence following salvage surgery for TR or NP was 27% ( 13 of 48 ) and 6% ( 1 of 16 ) , respectively ( p=0.0809 ) .
+The local recurrence size ( 2 cm vs. 2 cm ) had no significant impact on the rate of second local recurrence ( 20.5% and 25% , p=0.6835 ) .
+The second local recurrence rate for patients with 2 cm in-breast recurrence treated with salvage excision or mastectomy was 28.6% and 6.3% , respectively ( p=0.0774 ) , and for patients with 2 cm in-breast recurrence the rate was 25% after both salvage modalities .
+Discussion .
+In this series of 124 patients with stage I - II breast cancer who developed an ILR after mastectomy or CS , the 10 year actuarial rate of cause-specific survival after the event was 52% .
+Other studies with pooled results of mastectomy and CS patients , have reported survival rates similar to ours.  In the study of van Tienhoven et al.,10 the 5 year survival rate after local recurrence was similar for mastectomy and CS patients ( 58% and 59% , respectively , p=0.73 ) .
+In our series the 10 year survival was significantly better for CS patients ( 62% and 40% , respectively , p=0.0079 ) .
+In the aforesaid study , the characteristics of mastectomy and CS groups were similar with respect to initial prognostic factors .
+In our series , mastectomy patients had significantly more advanced initial stage , and on multivariate analysis the type of initial surgery did not remain an independent predictor of post-recurrence survival .
+On the multivariate analysis of Lê et al.,11 the outcome of patients was also not affected by the type of initial surgery .
+In the matched pair analysis of Janni et al.,17 primary surgical treatment modality had marginal statistical significance ( p=0.05 ) , and the 5 year survival after chest wall or in-breast recurrence was 46% and 61% , respectively .
+In our series , time to local recurrence , operability of local recurrence , and age remained independent predictors of post-ILR survival , and initial axillary lymph node status showed borderline significance .
+In the series of Institut Gustave Roussy,11 short relapse-free interval ( 24 months ) , older age at diagnosis of the primary tumor and higher histologic grade of the primary tumor , and in the pooled results of two randomized trials10 short time to local recurrence and initial axillary lymph node metastasis increased the risk of post-local recurrence mortality .
+In the matched pair study of Janni et al.,17 initial lymph node status and time to local recurrence were the most significant prognostic factors for subsequent survival after local recurrence .
+In our study the combination of these two variables strengthened their prognostic value .
+The 10 year survival after treatment for ILR with node negative stage with 24 months to ILR or with node positive stage with 24 months to ILR was 76% and 10% , respectively .
+The cause-specific survival rate after in-breast recurrence is about 60 - 70% at 10-years,  but Voogd et al.,21 reported 39% survival rate for patients with invasive recurrence .
+In our cases the survival rate was 62% .
+We found that patients with older age at initial diagnosis , a longer interval to ILR , NP , or operable ILR had a more favorable prognosis .
+The most frequently reported prognostic factor for survival after in-breast local recurrence is time to ILR.  Extent of recurrence is also found to be significant prognostic factor.  In the study of Galper et al.,13 patients who did not undergo surgery for their local recurrence had three-times higher risk for death compared with patients who were subjected to surgery .
+All of our patients with inoperable in-breast recurrence died within 10 years .
+Kurtz et al.,7 reported 74% survival at 5 years for patients with smaller than 2 cm in-breast recurrence .
+According to our analysis , the 10 year survival was 81% with 2 cm in-breast recurrence .
+In our study , the type of salvage surgery ( mastectomy vs. repeat wide tumor excision ) was not a significant predictor of post-recurrence survival , and for patients with 2 cm in-breast recurrence the 10 year survival was 81% after both salvage modalities .
+On the base of published survival results , mastectomy does not appear to be mandatory for in-breast recurrence.  However , patients with in-breast recurrence have already failed CS once , and safe selection criteria for repeat lumpectomy are not well defined .
+In our patients the rate of second local recurrence following salvage excision or mastectomy was 28% and 16% , respectively ( p=0.2265 ) .
+In the study of Salvadori et al.,28 the rate of second local recurrence with repeat lumpectomy was 19% , but others reported higher rates.  Studies show that there is a non significant tendency that patients subjected to salvage mastectomy have better local control compared to the patients subjected to repeat excision.  However , repeat lumpectomy is not disadvantageous regarding survival , but mastectomy is an irreversible amputation .
+Therefore , in motivated patients with small ( 2 cm ) in-breast recurrence , repeat CS might be carried out .
+Ipsilateral breast tumor recurrences represent two distinct types of entities : TR and NP .
+Patients with NP have generally more favorable outcome.  In our series the 10 year cause-specific survival rate after ILR was 54% with TR and 88% with NP .
+Smith et al.,29 reported similar 10 year survival rate , 55% and 75% , respectively .
+In our patients all NP were developed after 24 months after primary surgery .
+We found two indicators of good prognosis : patients with older age ( 40 years ) with NP had the best survival rate following salvage surgery for ILR , 92% at 10 years .
+Other authors did not find a difference between the prognosis of the two entities.  In the published series,  the proportion of NP varied between 15 and 50% , and in our patients its rate was 24% .
+The lack of standardized classification rules might explain the controversies .
+Chest wall recurrence after mastectomy generally forecasts a grim prognosis , but long-term survival is possible in some patients .
+Our survival rate at 10 years was 40% .
+We found that patients with negative initial lymph node stage , longer time to ILR , single scar recurrence or operable ILR had a more favorable prognosis .
+Our node negative patients with single scar recurrence had an excellent survival rate , 85% at 10 years .
+The most commonly reported prognostic factors for survival after local recurrence in mastectomy patients are the time to local recurrence and initial lymph node stage.  Chagpar et al.,35 demonstrated that initially node-negative patients who developed ILR 24 months after diagnosis of their primary tumor had a favorable prognosis .
+His et al.,34 had the same observation , and their 10 year cause-specific survival rate was 77% for this subset of patients .
+In our study the 10 year cause-specific survival rate after local recurrence was 81% for these patients , but for those with initial lymph node metastasis with 24 months to ILR was only 14% .
+In our patients the rate of second chest wall recurrence after salvage surgery was 22% .
+Chagpar et al.,35 reported same results .
+Young women with early invasive breast cancer generally have poor prognosis , and those who are treated with CS have a high risk of local recurrence.36 The high frequency of local recurrence among younger patients represents a problem itself , but studies did not find the survival to be significantly different for young women who underwent CS compared with those who were subjected to mastectomy.  In our multivariate analysis age remained independent predictor of post-recurrence mortality , and young ( 40 years ) patients had poor cause-specific survival rate , 27% at 10 years .
+In other studies , with pooled results of mastectomy and CS patients , young age was not a significant negative predictor for post-recurrence survival. 
+We found that the median time to ILR was very short with subsequent distant metastasis or aggressive tumors .
+The shortest time ( median , 18 months ) to ILR was observed in patients with inoperable local recurrence , and none of them survived 10 years after salvage therapy .
+Interval between initial surgery and ILR was also relatively short ( median , 35 months ) in young or node positive patients .
+Time to ILR was the longest ( median , 68 months ) for CS patients with NP tumor , and they had an excellent survival rate , 88% at 10 years .
+The shortened intervals between events suggest that distant metastases already existed at the time of initial surgery. 
+Conclusion .
+The current study demonstrated that for patients who develop an ILR after mastectomy or CS for early invasive breast cancer longer time to local recurrence , initial node negative stage and older age confer a good prognosis .
+Inoperable ILR or initial node positive stage with short time to ILR is an indicator of systemic dissemination .
+The type of initial surgery is not an independent predictor of post-recurrence survival .
+Node negative mastectomy patients with single scar recurrence have a good estimated survival .
+For patients who underwent CS , a repeat complete tumor excision had no deleterious effect on survival , and NP confers significantly better survival than TR .
+Conflict of Interest Statement .
+None declared .

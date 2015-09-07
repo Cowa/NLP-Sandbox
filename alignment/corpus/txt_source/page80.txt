@@ -1,0 +1,148 @@
+La phase postménopausique est caractérisée chez la femme par l' installation d' un nouvel état hormonal de carence oestrogénique .
+Celle-ci est à l' origine d' un certain nombre de manifestations fonctionnelles , mais également à plus long terme d' altérations tissulaires favorisant chez les femmes à risque la survenue des fractures ostéoporotiques ou des maladies cardiovasculaires .
+Jusqu' à ces toutes dernières années , le traitement hormonal substitutif ( THS ) était considéré comme la solution thérapeutique de choix permettant de prendre en charge et de prévenir ces différentes conséquences .
+Ainsi , son efficacité vis-à-vis des signes du climatère ainsi_qu' en prévention de la perte osseuse postménopausique était établie depuis de nombreuses années et amplement documentée par de nombreuses études .
+De même , une réduction du risque cardiovasculaire , tout comme les espoirs de prévention de la maladie d' Alzheimer étaient autant d' arguments en faveur d' une utilisation large de ce traitement .
+L' ensemble de ces données a été , comme chacun le sait désormais , largement remis en cause par les résultats récents des études WHI  et MWS  .
+En particulier , l' augmentation des risques mammaire et cardiovasculaire a conduit à une profonde remise en cause de ce traitement tant de nos autorités de santé , que de beaucoup de médecins ainsi_que de nos patientes .
+On peut estimer que de septembre 2002 à juillet 2004 , environ 750000 femmes en France ont interrompu leur THS , soit plus de 40 % des femmes traitées  .
+Cette nouvelle situation a conduit de facto à privilégier l' utilisation d' autres traitements , notamment pour l' ostéoporose postménopausique puisque nous disposons maintenant de plusieurs molécules efficaces .
+Ainsi , les dernières recommandations de l' Afssaps  tendent à privilégier l' utilisation des bisphosphonates ou du raloxifène dans la prévention et le traitement de l' ostéoporose , le THS ne devant être discuté chez les femmes en début de ménopause que lorsqu' il existe des signes du climatère .
+Parmi ces molécules , le raloxifène offre l' avantage , comme pour le THS , de la multiplicité de ses cibles d' action tissulaire permettant d' envisager une prise en charge plus globale de la femme ménopausée .
+Nous savons en_effet que l' ostéoporose postménopausique s' inscrit souvent dans un contexte caractérisé par l' augmentation du risque d' autres pathologies qui ont en_commun de dépendre à_la_fois de l' âge et du statut oestrogénique .
+L' oestrogénodépendance de ces pathologies postménopausiques sous-tend des mécanismes physiopathologiques communs , comme le suggèrent les données épidémiologiques sur l' association ostéoporose - athérosclérose  , ou densité osseuse élevée - risque de cancer du sein  .
+Ce cousinage biologique montre donc tout l' intérêt d' une évaluation globale des risques de santé chez la femme qui aborde sa ménopause .
+Dans ce cadre , le raloxifène et , de manière plus générale , les SERMs , apparaissent particulièrement intéressants puisque ces molécules conservent l' effet agoniste de celui des oestrogènes sur l' os et certains paramètres du risque cardiovasculaire , tout en étant neutres , voire ayant un effet antagoniste sur le sein et l' endomètre  .
+Tous les problèmes ne sont pas résolus pour autant en raison à_la_fois de l' absence d' efficacité du raloxifène vis-à-vis des signes climatériques , limitant sa prescription aux femmes non ou peu symptomatiques , et des conditions de son remboursement qui n' est permis que pour celles ayant déjà présenté une fracture par fragilité .
+Le but de cet article est de faire le point sur les données d' efficacité actuelles du raloxifène , de_manière_à dégager les indications préférentielles de cette molécule chez la femme ménopausée .
+2. Effets osseux du raloxifène
+Il s' agit des effets princeps de cette molécule qui a été , avant_tout , développée pour le traitement de l' ostéoporose postménopausique. - En début de ménopause , le raloxifène permet une prévention efficace de la perte osseuse tant trabéculaire que corticale  .
+Les femmes recevant 60 mg / j de raloxifène avaient ainsi , en moyenne après deux ans de traitement , des valeurs de densité osseuse vertébrale et fémorale significativement plus élevées , de 2,5 % par_rapport_à celles des femmes ayant reçu le placebo .
+Cet effet osseux , confirmé également chez des femmes plus âgées et ostéoporotiques  apparaît lié , comme pour les oestrogènes , à une diminution de la résorption ostéoclastique , et est étayé par le retour à des valeurs préménopausiques des marqueurs biochimiques du remodelage osseux .
+Il est cependant important de remarquer que les variations densitométriques apparaissent habituellement inférieures à celles observées avec les oestrogènes ;
+- de manière plus intéressante , le raloxifène entraîne une diminution de l' incidence des nouveaux tassements vertébraux chez la femme ostéoporotique .
+L' étude MORE ( Multiple Outcomes of Raloxifene Evaluation ) a ainsi intéressé 7705 femmes , âgées en moyenne de 67 ans , qui présentaient une diminution de leur densité minérale osseuse ( DMO ) ( t-score - 2,5 ) , avec dans près d' un tiers des cas , la présence d' un ou de plusieurs tassements vertébraux prévalents .
+L' ensemble de la population a été randomisée pour recevoir en double insu le raloxifène à la posologie de 60 ou de 120 mg / j ou un placebo  .
+À l' issue des trois années de l' étude , les femmes traitées par 60 mg / j de raloxifène présentaient par rapport aux femmes ayant reçu le placebo , une diminution de 37 % du risque de_nouveau tassement vertébral ( risque relatif [ RR ] = 0,63 IC 95 % [ 0,52 - 0,77 ] ) avec une efficacité comparable chez les femmes déjà fracturées ( RR = 0,7 [ 0,6 - 0,9 ] ) par_rapport_à celles qui ne l' étaient pas ( RR = 0,5 [ 0,3 - 0,7 ] ) .
+Un suivi complémentaire de 12 mois a été réalisé chez 6828 patientes  , autorisant une analyse d' efficacité chez les 5077 femmes qui n' avaient reçu aucun traitement complémentaire à visée osseuse .
+La réduction du risque de nouvelle fracture à quatre ans restait comparable à celle observée à trois ans , que ce soit pour les femmes sans ( RR = 0,52 [ 0,35 - 0,78 ] ) ou avec fracture vertébrale prévalente ( RR = 0,65 [ 0,52 - 0,81 ] ) .
+L' efficacité du raloxifène à diminuer l' incidence des nouvelles fractures vertébrales restait par_ailleurs significative lorsque seules les fractures symptomatiques étaient prises en compte  .
+En revanche , et sur la base de données actuellement disponibles  , il n' y avait pas d' effet en prévention des fractures non vertébrales ( FNV ) ( RR = 0,9 [ 0,8 - 1,1 ] ) à trois ans , comme à quatre ans ( RR = 0,93 [ 0,81 - 1,06 ] ) , notamment pour celles du col du fémur .
+Cette absence d' effet doit néanmoins pour partie , prendre en compte la faible incidence de ce type de fracture dans une population en moyenne âgée de 67 ans .
+Ultérieurement , l' essai MORE a bénéficié d' une extension de trois ans , pour une durée totale de suivi de huit ans ( essai CORE pour Continuing Outcomes Relevant to Evista ) .
+Cette extension a été possible par le fait que l' anonymat du traitement n' avait pas été levé immédiatement après la fin de l' essai MORE .
+Ainsi au terme d' un délai moyen de 10,6 mois entre la fin de MORE et le début de CORE , 4011 femmes parmi celles initialement incluses ont repris en double insu le traitement pour lequel elles avaient été initialement randomisées .
+Les données d' incidence fracturaire sont cependant restées limitées dans la mesure où l' extension CORE avait essentiellement pour but la surveillance du risque mammaire à long terme .
+Les événements fracturaires n' ont été colligés qu' en_tant_qu' effets indésirables et ne concernent donc que les fractures périphériques en l' absence de tout suivi radiographique .
+De plus , un traitement à visée osseuse , notamment par les bisphosphonates , semblait possible , limitant l' interprétation des résultats ( même si on peut remarquer que cette prise de bisphosphonate a été plus fréquente dans le groupe placebo que dans le groupe raloxifène ) .
+La poursuite du raloxifène ( n = 259 ) chez les 386 femmes qui n' avaient reçu aucun autre traitement à visée osseuse au cours des huit ans de l' étude a été associée au maintien de la DMO au rachis et à l' extrémité supérieure du fémur  .
+Pour sept ans de traitement ( quatre ans de MORE plus trois ans de CORE ) , la DMO était supérieure de +2,2 % au rachis et de +3 % à la hanche totale chez les femmes traitées par le raloxifène par rapport au placebo .
+Au plan fracturaire , aucune différence dans l' incidence des FNV n' a cependant été observée entre les femmes traitées et celles ayant reçu le placebo ( RR = 1,00 [ 0,82 - 1,21 ] )  .
+Seules des analyses complémentaires réalisées chez les femmes les plus à risque de fracture ( femmes avec antécédents de fractures vertébrales sévères : stade 3 de la classification de Genant ) montrent une efficacité du raloxifène dans la prévention des FNV ( RR = 0,53 [ 0,29 - 0,99 ] ) , parallèlement_à l' effet de prévention vis-à-vis des fractures vertébrales ( RR = 0,73 [ 0,54 - 0,99 ] )  .
+Ces données issues d' analyses rétrospectives doivent cependant être considérées avec prudence .
+Au total , le nombre de femmes à traiter pour éviter une nouvelle fracture vertébrale ( NNT ) était ainsi respectivement de 16 chez les femmes avec fracture initiale et de 42 chez les femmes initialement sans fracture à trois ans et de 12 et 34 à quatre ans .
+Tableau 1.
+Nombre de femmes à traiter ( NNT ) pour éviter une nouvelle fracture vertébrale
+NNT à trois ansNNT à quatre ans Sans fracture vertébrale préalable4234 Avec fracture vertébrale préalable1612
+Full-size table
+View Within Article
+3. Effets extra-osseux du raloxifène3.1 .
+Raloxifène et sein
+L' incidence du cancer du sein , qui constituait un des objectifs secondaires de l' étude MORE , a été évaluée par des mammographies ( ou une échographie mammaire ) réalisées au départ , puis au terme de deux ans et trois ans de suivi  .
+Après un suivi moyen de 40 mois , 54 cancers du sein ont été diagnostiqués dans la cohorte .
+Globalement , une réduction de 76 % de l' incidence des nouveaux cancers du sein invasifs ( RR = 0,24 [ 0,13 - 0,44 ] ) a été observée chez les femmes traitées pendant trois ans .
+Cet effet était surtout marqué pour les tumeurs avec des récepteurs aux oestrogènes ( RE+ ) où la réduction du risque était de 90 % ( RR = 0,10 [ 0,04 - 0,24 ] ) .
+En revanche , le risque de cancer sans récepteur aux oestrogènes ( RE - ) n' a pas été modifié ( RR = 0,88 [ 0,26 - 3,0 ] ) .
+Une mammographie supplémentaire a été réalisée , au bout de quatre ans de suivi , chez 93 % des patientes  .
+Soixante et un cas de cancers invasifs ont été confirmés sur l' ensemble du suivi parmi les 79 cas de cancer diagnostiqués , correspondant à une réduction de 72 % du risque de cancer invasif avec le raloxifène ( RR = 0,28 IC [ 0,17 - 0,46 ] ) .
+Le risque était réduit de 84 % ( RR = 0,16 [ 0,09 - 0,30 ] ) pour les cancers RE+ et non modifié pour les cancers RE - .
+Cette réduction de l' incidence des cancers du sein , essentiellement RE+ , a immanquablement soulevé la question des effets mammaires à long terme du raloxifène non_seulement chez les femmes qui poursuivaient leur traitement , mais également lors_de l' arrêt du traitement .
+En effet , en référence aux effets à long terme du tamoxifène , la crainte d' une réaugmentation secondaire de l' incidence des cancers du sein , voire de la sélection de clones plus agressifs pouvait se poser .
+Les données de l' étude CORE ( voir le chapitre 2 sur les effets osseux du raloxifène ) , avec un suivi complémentaire de quatre ans chez 5213 femmes de la cohorte MORE , apparaissent néanmoins rassurantes  .
+En effet , la réduction du risque de cancer invasif RE+ restait patente chez les femmes qui avaient reçu le raloxifène au long cours ( quatre ans de MORE plus trois ans de CORE ) .
+Une réduction de 59 % a ainsi été observée pour les cancers RE+ ( RR = 0,41 [ 0,24 - 0,71 ] ) et au terme des huit ans , le raloxifène avait réduit de 66 % l' incidence des cancers par rapport au placebo ( RR = 0,43 [ 0,23 - 0,50 ] ) .
+L' incidence des cancers RE - n' a pas été modifiée par le raloxifène au_cours_de cette période .
+Ces résultats suggèrent donc plus une véritable action préventive soutenue dans le temps du raloxifène qu' un effet temporaire d' inhibition de l' initiation ou de la prolifération tumorale .
+Il pourrait être argumenté que les femmes des cohortes MORE et CORE étaient potentiellement à plus faible risque de cancer du sein que la population générale en raison de leur ostéoporose susceptible de témoigner d' une exposition cumulée aux oestrogènes plus faible .
+Néanmoins , l' incidence des cancers du sein dans le groupe placebo apparaissait correspondre à celle attendue dans une population de cet âge , c' est-à-dire de l' ordre de 4 / 1000 femmes .
+Par ailleurs , il n' est pas inintéressant de noter que le raloxifène n' augmente pas , contrairement aux oestroprogestatifs la densité mammaire  , ce qui constitue un avantage pour la surveillance des femmes de cet âge .
+En effet , l' augmentation de la densité mammaire , qui représente un facteur de risque indépendant de cancer du sein  , contribue également à diminuer la sensibilité du dépistage mammographique .
+Au total , et si nous disposons actuellement d' arguments en faveur d' un effet préventif du raloxifène vis-à-vis du risque de cancer du sein , une réponse plus complète devrait être apportée dès 2006 par les résultats de l' étude STAR ( Study of Tamoxifen And Raloxifen ) , visant à comparer les effets du tamoxifène et du raloxifène chez des femmes ménopausées à haut risque de cancer du sein .
+3.2. Raloxifène et endomètre
+Un des avantages essentiels du raloxifène par rapport au tamoxifène est son absence d' effet stimulant sur l' endomètre .
+L' absence d' hyperplasie endométriale chez les femmes traitées par raloxifène a été en_effet confirmée par les études échographiques et biopsiques , ce qui rend inutile l' association d' un progestatif .
+Ainsi , l' analyse de quatre essais randomisés contre placebo , d' un essai contre oestroprogestatifs et d' un essai contre oestrogènes seuls , n' a retrouvé aucun cas d' hyperplasie endométriale ou de cancer de l' endomètre chez 1157 femmes traitées de six à trente mois par 60 mg / j de raloxifène  .
+Dans l' étude MORE  , six cas de cancers de l' endomètre ont été notés chez les femmes traitées par raloxifène ( quatre dans le groupe 60 mg et deux dans le groupe 120 mg ) contre quatre dans le groupe placebo au terme des trois ans ( RR = 0,8 IC 95 % [ 0,2 - 2,7 ] ) .
+3.3. Raloxifène et risque cardiovasculaire3.3.1 .
+Risque artériel
+Les effets du raloxifène sur le métabolisme lipidique apparaissent comparables à ceux des oestrogènes  , sur la diminution du cholestérol total ainsi_que de la fraction LDL .
+Contrairement aux oestrogènes par voie orale , le raloxifène n' augmente pas le HDL , mais n' a en_revanche aucun effet négatif sur les triglycérides .
+De plus il n' affecte pas la régulation glycémique chez les femmes avec ou sans diabète de type 2 ou le niveau de la pression sanguine artérielle  .
+Tableau 2.
+Comparaison des effets du raloxifène et du traitement hormonal par voie orale sur les principaux marqueurs intermédiaires du risque cardiovasculaire
+Critères intermédiairesRaloxifèneTHS Cholestérol totala LDL - Cb HDL - Cb Triglycéridesb Lp ( a ) b/ Fibrinogèneb PAI - 1b CRPc Homocystéinec
+Full-size table
+Études comparatives raloxifène vs THS .
+a Étude Euralox I - Climateric 2001  .
+b Walsh JAMA 1998  .
+c Walsh JCEM 2001  .
+View Within Article
+Les effets sur la progression de l' athérosclérose apparaissent pour une grande part , similaires à ceux des oestrogènes , encore_que des différences aient été rapportées selon les modèles expérimentaux .
+Alors qu' un effet préventif du développement de l' athérosclérose peut être mis en évidence dans le modèle de la lapine castrée soumise à une diète athérogène  , un tel effet n' a pu être démontré dans celui de la guenon castrée  .
+En revanche , il est intéressant de remarquer que le raloxifène n' entraîne pas , contrairement aux oestrogènes par voie orale , d' augmentation des paramètres de l' inflammation , tel l' homocystéine et surtout la CRP  qui apparaît bien corrélée au risque cardiovasculaire .
+Au-delà d' un effet neutre sur les marqueurs intermédiaires du risque cardiovasculaire , l' impact du traitement par raloxifène sur le risque de survenue d' accidents cardiovasculaires a fait l' objet d' une analyse au terme de quatre ans de suivi de la cohorte MORE  .
+Dans l' ensemble , aucune différence dans le nombre des accidents coronariens et des accidents vasculaires cérébraux n' a été notée entre les groupes placebo et les deux groupes traités .
+En revanche , dans un sous-groupe de 1035 femmes classées comme à risque cardiovasculaire accru en début d' étude , le risque de nouvel accident cardiovasculaire était significativement abaissé chez les femmes recevant du raloxifène par rapport aux femmes recevant le placebo ( RR = 0,6 [ 0,38 - 0,95 ] ) .
+Ces données intéressantes demandent à être confirmées par des études prospectives en cours , telle l' étude RUTH ( Raloxifene Use for The Heart ) qui devrait nous apporter les réponses vers la fin 2005 .
+3.3.2. Risque veineux
+Le raloxifène augmente le risque thromboembolique  dans la même proportion que les oestrogènes ( RR = 3,1  ) et un antécédent de thrombose veineuse profonde ou d' embolie pulmonaire reste comme pour les oestrogènes , une contre-indication à son utilisation .
+En revanche , et contrairement aux oestrogènes , ce surrisque apparaît maintenu tout_au_long du traitement comme cela vient de l' être rapporté pour les huit ans de l' étude CORE .
+3.4. Effets généraux du raloxifène
+Le raloxifène est de manière générale bien toléré et sur la base des essais randomisés , mais également de l' expérience clinique , il n' existe que peu d' effets secondaires .
+Le principal inconvénient chez la femme ménopausée est avant_tout représenté par l' absence d' effet curatif sur les bouffées de chaleur , qui peuvent être parfois majorées , de_même qu' en prévention de la sécheresse et l' atrophie urogénitale  , ce qui limite son intérêt chez les femmes symptomatiques .
+Des oedèmes périphériques et des crampes des membres inférieurs ( indépendamment de toute atteinte veineuse ) ont été rapportés plus fréquemment mais de façon non significative chez les femmes traitées ( 7,0 % ) que chez celles recevant le placebo ( 3,7 % ) dans l' étude MORE  .
+4. En pratique , quelles sont les indications du raloxifène chez la femme ménopausée ?
+Il est clair que l' indication du raloxifène est exclusivement , une indication osseuse conformément à son AMM , pour la prévention et le traitement de l' ostéoporose postménopausique .
+Rappelons également que le raloxifène ne doit être envisagé que chez la femme ménopausée du fait de son effet de stimulation des gonadotrophines hypophysaires avec un risque de dystrophie ovarienne chez la femme en période d' activité génitale .
+La prescription du raloxifène chez une femme ménopausée ne doit donc être en_pratique envisagée qu' après une évaluation soigneuse de son risque fracturaire .
+Cette évaluation est actuellement de mieux en mieux codifiée et repose à_la_fois sur la recherche des facteurs de risque clinique et la mesure de la densité minérale osseuse ( DMO ) par une méthode validée , en_pratique l' absorptiométrie biphotonique à rayons X  .
+Parmi ces facteurs de risque , un antécédent personnel de fracture par fragilité est l' un des plus importants  .
+La fracture de l' extrémité inférieure de l' avant-bras ( fracture de Pouteau-Colles ) qui survient aux alentours de 60 ans est le_plus_souvent la première manifestation clinique de l' ostéoporose et ne doit jamais être banalisée .
+L' âge est également un élément fondamental du risque , avec globalement , à niveau de DMO équivalent , un doublement du risque pour chaque tranche de dix ans  .
+Le taux de perte osseuse postménopausique doit aussi être pris en compte , notamment chez la femme à risque osseux modéré , par_exemple , en raison d' une diminution limitée de la DMO ( t-score - 1 , mais - 2,5 ) .
+La possibilité de doser de manière simple les marqueurs du remodelage osseux ( notamment le CTX ) , voire la possibilité de documenter la perte osseuse par la réalisation d' une nouvelle densitométrie à deux ans peut permettre de préciser l' existence d' une perte osseuse évolutive  et représenter une aide à la décision thérapeutique. - L' indication classique du raloxifène , en référence aux essais cliniques , est représentée par la femme de 60 ans qui présente une augmentation de son risque fracturaire et chez qui l' objectif premier est de prévenir la survenue ou la récidive des fractures vertébrales .
+C' est dans cette situation clinique que l' efficacité osseuse de la molécule a été la mieux documentée .
+À cet âge , les signes climatériques ont le_plus_souvent disparu et ne constituent plus un obstacle pour une observance au long cours .
+Les effets bénéfiques extra-osseux de la molécule , notamment au plan mammaire , mais également cardiovasculaire , sous réserve de leur confirmation , sont par_ailleurs des arguments complémentaires pour cibler le raloxifène dans cette tranche d' âge .
+Rappelons en_effet que le pic d' incidence du cancer du sein se situe aux alentours de 63 - 65 ans et que le risque des maladies cardiovasculaires est majoré surtout au-delà_de cet âge .
+L' inconvénient majeur reste néanmoins représenté par le fait que le raloxifène ne sera pris en charge par l' assurance maladie que chez la femme ayant déjà présenté un antécédent fracturaire quelle qu' en soit sa localisation ( en_dehors des doigts , des orteils , du crâne et des vertèbres cervicales ) ;
+- au-delà_de l' âge de 65 - 70 ans , la prédominance le_plus_souvent , du risque de fracture de l' extrémité supérieure du fémur conduit plutôt à privilégier un bisphosphonate du fait de l' absence de démonstration étayée de l' efficacité antifracturaire du raloxifène dans cette situation .
+De plus , l' augmentation avec l' âge du risque thromboembolique veineux est également un élément susceptible de limiter l' utilisation du raloxifène chez les femmes âgées ;
+- en fait , la question qui demeure actuellement la plus discutée est celle de la prise en charge de la femme qui aborde sa ménopause avec une augmentation du risque fracturaire .
+Alors que le THS restait jusqu' à très récemment l' option de choix de première intention , les limites actuelles de son utilisation conduisent souvent à privilégier les autres traitements de l' ostéoporose .
+Le raloxifène apparaît de fait un candidat logique en raison de son efficacité pour freiner la perte osseuse à tous les sites osseux , notamment chez les femmes en début de ménopause  .
+C' est cependant dans cette situation que les conditions de remboursement sont les plus contraignantes puisque dans la majorité des cas , la femme n' a pas encore présenté de fracture par fragilité .
+De plus , l' existence potentielle de symptômes fonctionnels , telles des bouffées de chaleur ou des sueurs nocturnes , de_même qu' une sécheresse vaginale , fréquents en début de phase postménopausique , peuvent représenter des facteurs limitants .
+Si l' association du raloxifène à un traitement oestrogénique reste contre-indiquée ( bien_que l' utilisation de faibles doses d' oestrogènes ait pu être proposée dans certains pays ) , les traitements locaux à base d' oestradiol peuvent parfaitement être utilisés , permettant de limiter les symptômes vaginaux .
+Tableau 3.
+Principaux facteurs cliniques du risque fracturaire
+ge Antécédent personnel de fracture par fragilité Antécédent maternel de fracture vertébrale ou de hanche Faible BMI ( 19 kg / m2 ) Antécédent d' hypogonadisme prolongé et / ou précoce Tabagisme Corticothérapie prolongée
+Full-size table
+View Within Article
+Le débat sur l' utilisation du raloxifène en début de ménopause reste en_outre alimenté par la question récurrente de la durée nécessaire de traitement .
+Il est en_effet important de garder en mémoire que tous les agents actuellement disponibles pour la prévention de l' ostéoporose sont des agents antiostéoclastiques qui n' ont qu' un effet suspensif vis-à-vis_de la perte osseuse .
+Il existe ainsi une reprise obligatoire de la perte osseuse , de manière plus_ou_moins rapide , lors_de l' arrêt thérapeutique .
+Même si les données sur l' augmentation du risque fracturaire qui en résulterait restent très limitées , la_plupart des recommandations étaye la nécessité d' une période prolongée de prise en charge chez les femmes les plus à risque .
+Pour le raloxifène , nous disposons actuellement de données témoignant de sa bonne tolérance ( notamment mammaire ) après huit ans de traitement  .
+Le maintien de son efficacité antifracturaire pour une telle durée de traitement n' est pas démontré , mais peut sembler logique en raison de la stabilité du niveau de la DMO  .
+Il n' en demeure pas moins que du fait de la persistance d' incertitudes à très long terme , une prévention de l' ostéoporose qui serait débutée chez une femme jeune tend plutôt à être envisagée sous la forme de séquences thérapeutiques successives utilisant des molécules dont la balance bénéfices / risques ( notamment en terme de durée ) est chaque fois la plus adaptée à l' âge et la situation clinique de la femme .
+Le traitement hormonal administré tôt et d' une durée limitée ( cinq à sept ans ) devrait ainsi rester l' option thérapeutique de premier choix avec une prise de relais ultérieure par le raloxifène et plus tardivement , chez la femme âgée , par un bisphosphonate .
+Il est évident que cette démarche ne peut qu' être adaptée au plan individuel en fonction de l' âge , de la réalité et de l' importance du risque osseux sous-jacent ( nombre et poids des facteurs de risque ; en_particulier , existence d' un antécédent récent de fracture par fragilité ; valeur du t-score ) , ainsi_que des contre-indications ( et de l' acceptation ) du THS , voire du bénéfice extra-osseux attendu des différentes thérapeutiques .
+5. Conclusion
+Le raloxifène représente un progrès thérapeutique incontestable pour la prise en charge de l' ostéoporose postménopausique et son intérêt est susceptible de s' étendre au-delà_de cette pathologie , surtout si les essais actuellement en cours permettent de confirmer l' efficacité du raloxifène dans la prévention du cancer du sein ( STAR ) chez les femmes à risque .
+Au plan osseux , le raloxifène inhibe la perte osseuse postménopausique , et prévient la survenue et la récidive des fractures vertébrales .
+Les données les plus récentes suggèrent par_ailleurs un effet neutre au plan cardiovasculaire et cérébral , ce qui pourrait constituer un atout supplémentaire dans la prise en charge d' une population exposée , du fait de son âge , à un risque cardiovasculaire accru .
+Il faut néanmoins remarquer que , comme pour toute molécule à action oestrogénique , il existe une augmentation du risque thromboembolique veineux .
+Au plan gynécologique , outre la confirmation d' une diminution significative du risque de cancer du sein sur une période de huit ans , le raloxifène est associé à une très bonne tolérance endométriale .
+En revanche , il ne permet pas de corriger les troubles du climatère ( qui parfois même peuvent être majorés ) , et ne prévient pas l' atrophie cutanéo-muqueuse , ce qui peut représenter un frein à son utilisation en début de ménopause .
+Les perspectives d' avenir des SERMs apparaissent potentiellement intéressantes avec le développement de molécules de troisième génération plus particulièrement ciblées pour la prise en charge des cancers du sein résistants au tamoxifène et / ou avec métastases

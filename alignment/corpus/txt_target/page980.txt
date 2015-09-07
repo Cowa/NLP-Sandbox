@@ -1,0 +1,182 @@
+The benefit of adjuvant radiotherapy ( RT ) to the chest wall has been controversial for many years .
+Recently published data have shown that the RT regimens produced moderate , but definite , reductions , not only in breast cancer mortality , but also overall mortality ( 1 ) and ( 2 ) .
+The benefit of postmastectomy RT , independent of the effects of systemic treatment , was also shown in studies from the Danish Breast Cancer Cooperative Group and the British Columbia study ( 3 ) , ( 4 ) and ( 5 ) .
+However the first meta-analysis report did not find any advantage in overall survival at 10 and 20 years ( 6 ) .
+One explanation is the increase of non - breast cancer-related deaths , particularly cardiac disease in relationship to old radiation techniques ( 7 ) and ( 8 ) .
+Two opposed tangential photon beams is a common technique for postmastectomy RT to the chest wall ( 9 ) and ( 10 ) .
+Electron beam RT of the chest wall is also routinely used ( 9 ) , ( 11 ) , ( 12 ) , ( 13 ) , ( 14 ) and ( 15 ) .
+It has already been shown that this technique yields locoregional control , disease-free survival , and overall survival rates similar to those of standard photon beam RT ( 15 ) and ( 16 ) .
+Other important problems are the junction of the internal mammary chain ( IMC ) fields , supraclavicular fields , and the chest wall electron beam field .
+Computed tomography ( CT ) -based localization of the IMC has been studied already , and some rules were developed to define the field limits ( 17 ) .
+Electron beam RT to the chest wall , with or without lymph node irradiation , has been used at the Institut Curie for 20 years .
+The purpose of this study was to report the latest improvements of our technique and to assess the early toxicity .
+Methods and Materials .
+For 20 years , electrons have been used for postmastectomy adjuvant irradiation of the chest wall at the Institut Curie , and a few thousand patients have been treated with it .
+At the Institut Curie , postmastectomy adjuvant irradiation is indicated for lymph node-positive tumors at initial presentation ( for patients treated with neoadjuvant chemotherapy , the indication remained even if the histologic examination showed a complete tumor response in the lymph nodes ) , tumors 40 mm , clinically multiple tumors , and vascular invasion in young patients .
+The prescribed dose has been 50 Gy in 25 fractions to the chest wall and regional lymph nodes ( treated by photons for the supraclavicular and axillary regions and a mixed photon-electron technique for the IMC area ) .
+No boost is given to the mastectomy scar .
+The new technique is a dosimetric improvement of the standard technique , without any change in the treatment volumes ( chest wall and lymph node areas ) or the prescribed doses .
+The dose distributions are calculated using our treatment planning software ISIS ( Technologie Diffusion , Paris , France ) .
+The dose calculation was performed using the same calculation parameters for the new and standard techniques .
+Study design .
+The study was split into two parts .
+A new electron radiation technique was designed and compared with the standard one ( dosimetric study ) .
+Then , the early skin toxicity of our new technique was evaluated prospectively in the first 25 patients using Radiation Therapy Oncology Group criteria and reported ( clinical study ) ( 9 ) .
+Treatment planning for Institut Curie standard technique .
+Since 1990 , treatment plans were performed on CT slices ( acquired with a simulator CT Varian Ximatron ) to be more adapted to the patient 's anatomy .
+Five CT slices were performed in the chest wall area , from the central axis to 2 cm inside the superior and inferior limits .
+Because of the unavailability of a large-bore CT scanner in our department , the anatomic data were taken at the simulator CT scanner .
+This allowed an ideal patient position on an angled breast board , with horizontality of the thorax ( which is important for electrons to avoid source-to-skin distance effects ) and the patient 's arm at 90 from the craniocaudal direction so that a 30 angled chest wall beam would not intersect either the contralateral breast or the dorsal muscle .
+When important irregularities of the chest wall were present , more slices were acquired .
+One CT slice was acquired at the supraclavicular mid-field .
+The clinical target volume of the chest wall included the breast bed , mastectomy scar with 1 - 2 cm margins , and IMC and supraclavicular areas .
+Since 1980 , electron beam irradiation was our standard for postmastectomy treatment .
+The setup facility of a direct en face field was a convincing reason to choose it .
+The lymph node irradiation at the Institut Curie has been previously described ( 17 ) .
+A mixed photon and electron beam in the IMC area was our technique of choice to avoid unnecessary irradiation of the heart , with a ratio of about 20 Gy / 30 Gy between the photon and electron doses .
+The supraclavicular area was irradiated with photons .
+The patient lay on an angled breast board with an angle of 15 - 20 to bring the thorax of the patient to a horizontal position .
+The irradiation consisted of three separate fields : the chest wall , IMC , and supraclavicular field .
+The technique used a 30 angled chest wall beam with a separate anterior IMC field .
+A gap of 5 mm was systematically used for the junction between the chest wall and the IMC fields and between the chest wall and the supraclavicular fields .
+A generous 2 cm margin was added to ensure that the target volume would be entirely encompassed in the homogeneous part of the electron beam .
+To ensure a sufficient skin dose , a 5 mm bolus was systematically used .
+Electron energy was chosen so that the 95% isodose ( 47.5 Gy ) was situated at the costal wall depth .
+The energies available on our treatment machine ( Saturne 41 , Varian ) and routinely used for chest wall irradiation were 7.5 , 9 , and 10.5 MeV .
+When energy 10.5 MeV was necessary , the patients were treated by photons only or with mixed photons and electrons to avoid late skin complications .
+For all patients , the treatment plans were optimized and adapted to the individual patient anatomy .
+The dose distribution in the central axis plane of the chest wall is given in Fig. 2. The 95% isodose ( 47.5Gy ) was situated at the costal wall depth .
+The skin received a dose of 95% of the prescribed dose .
+To evaluate the dose at the IMC , a dose point ( IMC reference point ) was positioned at the depth of the lung interface , 3 cm laterally to the medial line , and at the central transverse plane through the IMC target volume , as previously shown in the CT scan study ( 17 ) .
+Despite the 5 mm gap between the IMC and chest wall fields , in most cases , an overdosage of 110% ( 55 Gy ) was observed .
+Full-size image ( 43K )
+Fig. 1. Patient position and standard postmastectomy fields : chest wall ( electrons ) , internal mammary chain ( photons and electrons ) , and supraclavicular nodes ( photons ) .
+View Within Article .
+Full-size image ( 39K )
+Fig. 2. Standard technique : dose distribution for 50-Gy prescribed total dose .
+View Within Article .
+Treatment planning for new irradiation technique .
+A new irradiation technique was recently implemented at our institution after approval from our Board of Radiation Oncology .
+The chest wall and IMC volumes are now included into one unique field at a gantry angle of 20 - 30 from the vertical .
+During the simulation , the radiation oncologist determined the clinical volume of the chest wall to be irradiated and also delineated the IMC target volume .
+The electron energy was chosen so that the 47.5-Gy isodose was at the costal wall depth when a 5 mm bolus was in place .
+Then , the bolus was modified in two dimensions on each of the five chest wall CT slices so that the IMC and chest wall were well covered by the 95% isodose ( 47.5 Gy ) .
+Full-size image ( 47K )
+Fig. 3. Postmastectomy fields for new technique : chest wall ( electrons ) , internal mammary chain ( electrons and photon boost ) , and supraclavicular nodes ( photons ) .
+View Within Article .
+Full-size image ( 38K )
+Fig. 4. Dose distribution for 50-Gy prescribed dose using new technique .
+View Within Article .
+Because of the beam obliquity and the source-to-skin distance variations , the IMC is often underdosed .
+In clinical practice , layers of 5 mm silicon ( Bolusil ) are used as a bolus material .
+In our standard technique , the IMC was irradiated by a mixed photon-electron field separated from the chest wall field .
+No bolus was used in this area .
+During simulation of the new technique ( chest wall , including the IMC area ) , the radiation oncologist delineated the IMC old field .
+When dosimetrically needed , part of the bolus was removed , corresponding to the size of the old IMC field .
+When the IMC reference point received a dose per fraction inferior to 1.8 Gy , part of the bolus was removed from the IMC region , so that the electrons could go deeper into the nodal area .
+A boost to the IMC completed the dose to a total of 50 Gy .
+To better spare the skin when the additional dose was delivered to the IMC , the boost field was delivered with photons ( 6 MV ) .
+It was treated with 0.5-Gy fractions ( prescribed at maximal dose ) , once or twice weekly , depending on the complement dose to be delivered .
+Full-size image ( 27K )
+Fig. 5. Bolus shape and positioning : part of bolus removed to obtain better dose distribution in internal mammary chain volume. Missing portion corresponded to internal mammary chain field of standard technique .
+Edges were beveled to avoid high-dose variations at transition .
+View Within Article .
+In the lateral ( external ) part of the chest wall , a distance effect is also present .
+Moreover , the chest wall is always thicker in that region .
+This leads to an underdosage of the lateral chest wall .
+To become more conformal , we would also need to boost that portion of the chest wall ( 18 ) .
+Our standard technique plans also included the same dosimetric defect .
+A previous retrospective study ( 19 ) showed no recurrences in that area .
+We , therefore , decided not to complement the dose in that part of the chest wall .
+When the reference isodose ( 47.5 Gy ) entered into the ipsilateral lung , a second layer of 0.5 cm bolus material was placed on each CT slice , as needed .
+The bolus was prepared by the dosimetrist .
+When two layers of bolus were needed to protect the lung , a beam 's eye view showing the projection of the bolus layers was used for bolus confection .
+The transversal and sagittal laser positions were marked on the patient 's skin and on each of the bolus layers to ensure reproducible positioning at every fraction .
+Because a steep edge of the bolus produces hot and cold spots in the subcutaneous area beneath it , the bolus edges were beveled at the workshop .
+Full-size image ( 59K )
+Fig. 6. New technique with two thicknesses of bolus : ( a ) position and reproducibility and ( b ) dose distribution .
+View Within Article .
+Dosimetric comparisons with standard technique .
+The dosimetry study included the first 25 patients treated with the new technique .
+To evaluate the dosimetric advantages of this technique , we performed a second treatment plan for each patient using the standard technique .
+For each treatment plan ( standard and new techniques ) , we have reported the maximal dose in the treated volume ; the dose received at the IMC reference point ; the depth of the 20-Gy isodose , measured from the posterior border of the sternum , on the medial plane , and in the central axis slice ; the depth of the 20-Gy isodose , measured from the posterior border of the sternum , laterally to the sternum , at its ipsilateral edge , and in the central axis slice ; and the maximal depth of the 40-Gy isodose in the ipsilateral lung in the central axis slice .
+Prospective clinical study .
+The data of all patients treated with the new technique were prospectively recorded , and early toxicity was assessed weekly according to the Radiation Therapy Oncology Group classification ( 9 ) .
+The Radiation Therapy Oncology Group grades were as follows : Grade 0 , no skin reaction ; Grade 1 , follicular , faint , or dull erythema , epilation , dry desquamation , and decreased sweating ; Grade 2 , tender or bright erythema , patchy moist desquamation , and moderate edema ; Grade 3 , confluent , moist desquamation other than skin folds , and pitting edema ; and Grade 4 , ulceration , hemorrhage , and necrosis .
+Results Dosimetric study .
+A chest wall dose of 50 Gy was prescribed for both techniques .
+In the standard technique , the IMC dose was delivered with photons ( 20 Gy ) and electrons ( 30 Gy ) .
+In the new technique , depending on the conformation of the patient , it was necessary to add a dose of 0 - 5 Gy to the IMC using a photon boost .
+Our standard technique used different gantry angles for the IMC and the chest wall .
+This created hot spots , as shown in Table 1 , which summarizes the main dosimetric differences between our new technique and our standard technique .
+Table 1. .
+Dosimetric comparison between new and standard techniques executed in 25 patients .
+VariableNew technique ( n = 25 ) Standard technique ( n = 25 ) Maximal dose ( Gy ) Median53.359.2 Range52.2 - 55.453.4 - 62 Mean SD53.4 1.159.1 2.3 IMC dose Median5055.4 Range47.5 - 52.949.8 - 58 Mean SD50 1.855.2 2.7 Depth 20-Gy isodose ( cm ) , medial plane Median0.61.5 Range0.2 - 1.31 - 1.8 Mean SD0.7 0.31.4 0.3 Depth 20-Gy isodose ( cm ) , parasternal Median11.8 Range0.3 - 1.51.2 - 2.2 Mean SD0.9 0.41.7 0.3 Depth 40-Gy isodose ( cm ) , lung Median0.91.2 Range0.5 - 1.50.9 - 2.1 Mean SD1.0 0.31.4 0.4 .
+Full-size table .
+Abbreviations : IMC = internal mammary chain ; SD = standard deviation .
+Prescribed dose to chest wall , 50 Gy .
+Dose received at IMC reference point .
+Distance from posterior border of sternum to 20-Gy isodose curve .
+Distance from posterior lateral border of sternum to 20-Gy isodose curve .
+Maximal depth of 40-Gy isodose curve in lung .
+View Within Article .
+The maximal dose found on the five slices was 53.4 1.1 Gy for the new technique and 59.1 2.3 Gy for the standard technique .
+The hot spots of the standard technique plans were situated at the overlap between the IMC and chest wall fields .
+The mean dose at the IMC reference point was 501.8 Gy and 55.2 2.7 Gy for the new and standard plans , respectively .
+In the medial plane , the 20-Gy isodose was at 0.7 0.3 cm from the sternum with the new technique and 1.4 0.3 cm with the standard plans .
+At the lateral border of the sternum , the 20-Gy isodose was also deeper in the standard plans .
+The 40-Gy isodose was at a 1.0 0.3 cm depth in the homolateral lung in the new plans .
+It was deeper by 0.4 cm ( 1.4 0.4 cm ) in the standard plans .
+Clinical prospective study .
+To date , 25 patients have been treated , studied , and followed .
+Three patients developed a Grade 0 reaction ( 12% ) , 12 ( 48% ) a Grade 1 , 8 ( 32% ) a Grade 2 , and 2 ( 8% ) a Grade 3 reaction at the end of RT .
+Two patients underwent concomitant radiochemotherapy , and one of them experienced a Grade 1 and one a Grade 3 reaction .
+The median radiation dose was 50 Gy ( range , 48 - 52 Gy ) , and the RT duration was 37 days ( range , 36 - 40 days ) .
+Discussion .
+Our standard electron irradiation technique has been used for 20 years at the Institut Curie .
+This study reports on the early evaluation of its improvement .
+The choice of RT fields has been based on the patterns of local and regional recurrences .
+Most mastectomy series have demonstrated that 50% of local recurrences develop in the chest wall , especially in the mastectomy scar , with the second most common site the supraclavicular region ( 20 ) and ( 21 ) .
+It has been shown that advanced disease at presentation and positive lymph nodes after chemotherapy predict for clinically significant rates of locoregional recurrence ( 22 ) .
+Therefore , postmastectomy irradiation to the chest wall and supraclavicular region is recommended in patients with four or more positive lymph nodes ( 23 ) and ( 24 ) .
+It has already been shown that the optimal dose that offers the greatest chance of locoregional control of breast cancer at the lowest cost in locoregional morbidity appears to be 40 - 60 Gy in 2-Gy fractions ( 2 ) .
+Different techniques have been used for irradiation of the chest wall and regional lymph nodes ( 9 ) and ( 10 ) .
+Numerous studies have confirmed that postmastectomy electron beam chest wall irradiation is as effective as photon beam chest wall irradiation for local control and overall survival ( 11 ) , ( 12 ) , ( 13 ) , ( 14 ) , ( 15 ) and ( 16 ) .
+It has also been demonstrated that this technique could be less toxic ( 16 ) .
+Our study has confirmed this finding and reported a dosimetric improvement of our standard technique .
+Dosimetric comparisons .
+At our institution , 1,000 new breast cancer patients are treated every year , about one-third of whom are postmastectomy patients .
+The challenge was , therefore , to change our technique without involving time-consuming practices for the dosimetrist or therapist .
+Improvement was needed because our standard technique produced hot spots and was not conformal enough .
+As has already been noted , because of the unavailability of a large-bore CT scanner in our department , the anatomic data were preferably taken at the simulator CT .
+It was shown that a patient 's model reconstructed from five slices was comparable to three-dimensional CT acquisition regarding beam placement and dosimetric optimization ( 25 ) .
+However , when important irregularities were present in the chest wall , more CT slices were performed .
+Our treatment planning software ISIS uses an electron algorithm similar to the primary-scattered radiation concept , originally developed for photon beams ( 26 ) .
+It accounts for source-to-skin distance effects throughout the field , as well as penumbra changes in depth .
+However , heterogeneity corrections are calculated with an equivalent depth method and are , therefore , very inaccurate .
+For this reason , it was decided in the clinics , that the dose distributions should be shown with no heterogeneity correction , with particular attention to optimizing the dose distribution within the chest wall , choice of energy , and bolus shaping to get the 95% isodose at the costal wall .
+The new technique , using one unique electron beam that included both the chest wall and the IMC target volumes , demonstrated a better dose homogeneity .
+With our standard technique , in which we treated the IMC separately with mixed photons and electrons , we could choose different electron energies for the IMC and the chest wall .
+With one unique field in the new treatment plans , the depth modulation is performed with a change in bolus thickness ( 0 , 0.5 , or 1 cm ) .
+Because the change in shape in the craniocaudal direction is well represented by five CT slices , it was possible to design a bolus from the data from our simulator CT slices .
+The shaping of the bolus associated with the choice of energy by step of 1.5 MeV improves the conformality of the dose distribution .
+Because the plan is done using five CT slices , the treatment planning time has not noticeably increased ; thus , it has been possible to apply these new planning methods to all our mastectomy patients , allowing them to benefit from a more conformal plan adapted to their individual anatomy .
+Moreover , we have simplified the treatment delivery by suppressing the IMC field , with the boost being delivered at most twice weekly .
+Standard linear accelerators , other than the Saturne linear accelerators , produce electron energies by steps of 3 MeV .
+This implies more effort to optimize the plans because of the use of mixed electron energies or a more complex bolus ( 18 ) , ( 23 ) and ( 24 ) .
+Dose distributions using the five simulator CT slices result in a gain in planning time compared with full CT-based dosimetry .
+This implies that there is not much variation of contour in the chest wall .
+A few patients , however , would benefit from a three-dimensional CT scan and a three-dimensional bolus ( 18 ) .
+A limitation of our practice is that it was not possible to derive dose - volume histograms of the heart and lung .
+However , the dose distribution with electrons is strongly dependent on the TPS algorithm ( 27 ) .
+To date , we have not used heterogeneity corrections because of the inaccuracy of our calculation model .
+Efforts were made to get a conformal and homogeneous dose distribution between the skin and costal wall .
+However , the positions of the 20-Gy and 40-Gy isodoses relative to the sternum and homolateral lung are routinely assessed as warnings to limit unnecessary heart and lung irradiation .
+The new technique resulted in better sparing of the underlying normal tissue , with the 20-Gy isodose about 0.7 cm shallower in the heart , and the 40-Gy isodose 0.4 cm less deep in the lung .
+These measurements have been used only as relative measurements to compare the two treatment plans of the same patient .
+Another important point is that the early tolerance was similar to that of previously reported findings ( 19 ) .
+In the evaluation of the standard technique in a series of 118 patients treated in 1997 at the Institut Curie , we reported Grade 1 early skin reactions in 30 patients ( 25% ) , Grade 2 in 75 patients ( 64% ) , and Grade 3 in 13 patients ( 11% ) .
+Conclusions .
+This report describes an improvement in the standard postmastectomy electron beam technique of the chest wall .
+This new technique provides improved target homogeneity and conformality compared with the standard technique .
+This treatment was well tolerated with a low rate of early toxicity events .

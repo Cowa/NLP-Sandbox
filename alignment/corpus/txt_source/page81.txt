@@ -1,0 +1,183 @@
+L' anti oncogène p53 est une protéine impliquée dans de multiples voies antiprolifératives et son activation en réponse au stress génotoxique  conduit à l' arrêt transitoire du cycle cellulaire en phase G1  après altération de l' ADN , à la réparation de l' ADN endommagé  , à l' induction de la mort cellulaire programmée ou apoptose  et même à l' induction de l' angiogenèse tumorale  .
+L' ensemble de ces fonctions confère à la p53 un rôle anti oncogénique .
+Toutes ces fonctions sont réalisées , en_partie , grâce aux propriétés transactivatrices de cette protéine , qui active une série de gènes impliqués dans la régulation du cycle cellulaire  .
+En 1989 , Vogelstein et Minna publièrent la première mise en évidence de mutations du gène p53 dans des cellules de cancers colorectaux et bronchiques  .
+Par la suite , ces travaux ont été confirmés par d' autres équipes et de très nombreuses publications font état de mutations du gène p53 dans divers cancers humains  .
+Les mutations du gène p53 sont retrouvées au niveau de la tumeur primitive dans environ 50 % des cancers humains toutes localisations cancéreuses confondues  avec un taux particulièrement élevé dans les cancers les plus fréquents ( poumon , sein et côlon )  .
+La p53 , qui est normalement indécelable dans les cellules normales , vu sa demi-vie extrêmement courte .
+Son altération par mutation du gène ou par d' autres mécanismes entraîne une inactivation biologique de cette protéine qui se stabilise et s' accumule dans le noyau des cellules tumorales  .
+Cette accumulation peut être mise en évidence par immunohistochimie .
+Dans certains cas , l' altération de la p53 dans les cellules tumorales s' accompagne de l' apparition d' anticorps anti-p53 dans le sérum des malades  .
+Plus d' un tiers des patients ayant une altération génétique du gène p53 développent une réponse humorale vis-à-vis_de la protéine correspondante qui se traduit par l' apparition d' anticorps anti-p53 circulant dans le sérum des malades  .
+Cette réponse humorale s' accompagne d' une réponse cellulaire avec apparition de cellules T reconnaissant la protéine p53  .
+L' apparition d' anticorps anti-p53 est liée à une réaction immunitaire en réponse à une accumulation intratumorale de la protéine , mais les mécanismes précis qui gouvernent cette auto-immunisation ne sont pas encore élucidés  .
+Ainsi , leur présence serait spécifique de l' état tumoral car ils ne sont détectés que chez 0,5 % des sujets normaux  .
+Le cancer du sein est sans conteste le cancer qui a fait l' objet du plus grand nombre d' analyses des altérations du gène p53 .
+Depuis 1998 , des centaines d' articles ont analysé l' état du gène p53 et ses conséquences dans le cancer du sein .
+Les altérations du gène sont retrouvées dans 20 à 40 % des cas analysés dans cette pathologie  .
+La protéine mutante s' accumule dans le noyau  et lorsque le cancer est invasif , la positivité de la p53 nucléaire varie entre 16 et 46 %  .
+En 1992 , une première analyse sérologique sur 100 patientes atteintes de cancer du sein avait montré que 12 % de ces patientes avaient des anticorps anti-p53 dans leur sérum  .
+Des observations plus récentes confirment ce résultat sur de plus grandes séries  .
+La réponse immunitaire vis-à-vis des antigènes tumoraux semble dépendre d' un certain nombre de facteurs inhérents à la présentation de la maladie , son type histologique et son niveau d' évolution ; ces facteurs pouvant agir à_la_fois sur la présentation de l' antigène ainsi_que sur l' accessibilité des cellules immunitaires à la cellule tumorale .
+Ainsi , l' étude de la réponse immune antitumorale et de la production d' anticorps anti-p53 doit inclure des données de nature épidémiologiques tel que le grade de la maladie , son stade , l' état de l' envahissement ganglionnaire , l' état des récepteurs hormonaux
+Notre objectif est d' essayer de comprendre les mécanismes immunologiques à l' origine de la rupture de tolérance vis-à-vis_de la p53 nucléaire dans le cancer du sein en rapport avec la spécificité pathologique de ce cancer .
+À cet effet , nous nous sommes intéressés à des patientes tunisiennes et à leurs profils épidémiologiques , génétiques et immunologiques .
+Le cancer du sein demeure chez les femmes tunisiennes le cancer le plus fréquent .
+Il représente 29,8 % de l' ensemble des tumeurs de la femme , avec un âge moyen au moment du diagnostic de 49,4 ans  .
+Dans le présent travail , nous avons testé l' hypothèse du rôle de l' accumulation de la p53 dans les cellules tumorales dans la rupture de tolérance du système immunitaire vis-à-vis_de cet auto-antigène en adoptant deux approches : une approche immunohistochimique pour étudier l' accumulation de la p53 dans les cellules tumorales et une approche sérologique pour détecter l' apparition d' anticorps anti-p53 dans le sérum de ces mêmes malades par Elisa .
+La corrélation des données immunohistochimiques et sérologiques a été analysée en vue de conclure quant_à l' hypothèse avancée .
+2. Matériels2.1 .
+Patientes
+Cette étude a porté sur 108 patientes atteintes de cancer du sein primitif , recensées en 2002 sur une période de quatre mois ( du mois d' avril au mois de juillet ) , au service de chimiothérapie de l' institut Salah-zaiez ( ISA ) de Tunis .
+L' étude sérologique a porté sur 108 patientes , alors_que l' étude immunohistochimique n' a porté que sur 88 patientes .
+Leur tranche d' âge varie de 23 à 67 ans .
+Pour chaque patiente , les données cliniques et anatomopathologiques relatives au type histologique , au grade histologique SBR , à l' envahissement ganglionnaire et à l' état des récepteurs hormonaux ont été établies .
+2.2. Matériel biologique
+Pour chaque patiente le tissu tumoral est inclus dans un bloc de paraffine au service d' anatomopathologie de l' ISA et 5 ml de sang périphérique total sont prélevés .
+2.3. Kit et anticorps
+Nous avons utilisé pour l' étude immunohistochimique des anticorps monoclonaux anti-p53 nucléaire DO-1 ( Immunotech Réf : 1407 ) et DO-7 ( Immunotech Réf : M7001 ) .
+Ces anticorps sont dirigés contre la partie N-terminale de la p53 et reconnaissent aussi_bien sa forme sauvage que sa forme mutée .
+Le Kit Elisa ( Pharmacell Réf : ELAP5302 ) a été utilisé pour mettre en évidence la présence d' anticorps anti-p53 dans le sérum des 108 sujets analysés .
+3. Méthodes3.1 .
+Mise en évidence de la p53 par étude immunohistochimique
+C' est une technique fondée sur la détection in_situ de la p53 nucléaire accumulée dans les cellules tumorales grâce_à un anticorps monoclonal dirigé contre un épitope immunodominant .
+Nous avons effectué l' analyse immunohistochimique sur des coupes histologiques de tissus tumoraux inclus dans la paraffine comme il a été décrit par Angelopoulou et al.,1996  .
+L' immunoréaction est considérée négative ou disséminée si la proportion des cellules tumorales marquées est inférieure à 10 % , faible si la proportion des cellules marquées est entre 10 et 50 % .
+Le marquage est considéré modéré à fort si la proportion de cellules tumorales marquées est supérieure ou égale à 50 % ( Fig. 1 : A , B , C , D ) .
+Full-size image ( 134K )
+Fig. 1. A. Coupe histologique d' un carcinome mammaire avec des cellules tumorales négatives en immunohistochimie avec l' anticorps anti-p53 DO-7 ( G400 ) .
+B. Accumulation de la p53 nucléaire dans les cellules tumorales d' un carcinome mammaire analysée par IHC avec l' anticorps monoclonal DO-7 .
+Marquage modéré avec un taux de cellules marqués inférieur à 10 % ( G400 ) .
+C. Accumulation de la p53 nucléaire dans les cellules tumorales d' un carcinome mammaire analysée par IHC avec l' anticorps monoclonal DO-7 .
+Marquage modéré avec un taux de cellules marquées entre 10 et 50 % ( G400 ) .
+D. Accumulation de la p53 nucléaire dans les cellules tumorales d' un carcinome mammaire analysée par IHC avec l' anticorps monoclonal DO-7 .
+Marquage intense dans 95 % des cellules ( G400 ) .
+E. Accumulation de la p53 nucléaire dans les cellules tumorales d' un carcinome mammaire avec les trois intensités de coloration ( + , ++ , +++ ) ( G1000 ) .
+View Within Article
+Quant à l' interprétation des lames d' IHC anti-p53 , l' intensité de la coloration des tissus revêt de l' importance .
+En effet , on peut effectuer une classification des tissus positifs en trois intensités colorimétriques , que nous notons ( + ) , ( ++ ) et ( +++ ) ( Fig. 1 : E ) .
+3.2. La sérologie anti-p53
+La sérologie anti-p53 a été effectuée par le Kit Elisa ( Pharmacell Réf : ELAP5302 ) .
+Le principe de ce test repose sur l' utilisation de plaques de microtitration sensibilisées avec la p53 humaine sauvage recombinante ou avec des antigènes différents utilisés comme témoins négatifs .
+La fixation des anticorps anti-IgG conjugués à la peroxydase sur les anticorps anti-p53 est révélée par l' addition du TMB ( substrat de la peroxydase ) , donnant une réaction colorimétrique , chaque échantillon est testé en double .
+3.3. L' analyse statistique
+Le calcul de « 2 » ainsi_que le coefficient de corrélation entre la sérologie anti-p53 , l' immunohistochimie et les paramètres cliniques et anatomopathologiques ont été réalisés grâce au logiciel « Epi info 6 » .
+La signification statistique est évaluée à 5 % .
+4. Résultats4.1 .
+Patientes : données cliniques et épidémiologiques sur les patientes atteintes de cancer du sein
+Au cours de la période 1995 - 1998 , il a été enregistré parmi une moyenne annuelle de 492 cas de cancer du sein traités à l' ISA à Tunis , uniquement 14 cancers in_situ , avec des carcinomes canalaires plus fréquents et des médullaires très rares .
+Par ailleurs , les tumeurs ayant un grade 3 , selon la classification de Scraff , Bloom et Richardson , restent très fréquentes ( 38 % )  .
+Dans la population tunisienne , la consultation tardive des patients peut expliquer la prédominance des stades avancés des tumeurs .
+Cette situation particulière paraît favorable à l' étude de la rupture de tolérance vis-à-vis_de la p53 qui a été décrite comme facteur de mauvais pronostic dans les tumeurs mammaire .
+La présente étude a concerné 108 patientes atteintes de cancer du sein recrutées à l' ISA provenant essentiellement du grand Tunis et du Nord Ouest de la Tunisie .
+Les patientes recrutées ont un âge variant entre 23 et 67 ans avec une moyenne de 45 ans parmi lesquelles 24 % sont âgées de moins de 35 ans .
+Sur les 108 cas colligés , 97 ont des carcinomes mammaires de type carcinome canalaire infiltrant CCI soit 89,9 % .
+Six cas sont de type carcinome lobulaire infiltrant ; les cas restant étant de type , carcinome mixte , carcinome mucineux et carcinome colloïde muqueux .
+Le grade SBR III est retrouvé dans 38,8 % des cas , le grade II dans 44,4 % des cas ; uniquement 13 % des malades sont de grade I. Pour les 80 cas dont nous disposons de l' état de l' envahissement ganglionnaire , nous comptons 61 malades dont les ganglions sont envahis et 19 qui n' ont pas d' envahissement ganglionnaire .
+L' état des récepteurs hormonaux est déterminé pour 49 patientes , avec 38 cas positifs pour l' un et / ou l' autre des récepteurs et 11 cas négatifs .
+4.2. Étude immunohistochimique de l' accumulation de la p53 dans les cellules tumorales
+Il s' agit de détecter in_situ l' accumulation de la protéine p53 dans le noyau des cellules tumorales grâce_à un anticorps monoclonal .
+Parmi les 88 coupes histologiques incluses dans la paraffine étudiées en IHC , 33 ( 37,5 % ) sont immunoréactives pour la p53 nucléaire .
+Pour les 33 patientes atteintes de cancer du sein positives en IHC , la confrontation entre la réactivité tissulaire anti-p53 évaluée quantitativement et l' intensité de marquage des cellules montre que dans 13 cas , plus de 50 % des cellules sont marquées avec un marquage intense ( +++ ) .
+En outre , on n' observe aucun cas où un pourcentage faible de cellules marquées ( entre 10 et 50 % ) est associé à une intensité de marquage forte ( +++ ) .
+Cela indique que lorsque la p53 est accumulée dans un grand nombre de cellules tumorales , cette accumulation est intense et que dans les tissus à positivité moyenne à faible , la p53 s' accumule dans un pourcentage modéré de cellules tumorales .
+Le cancer canalaire infiltrant ( CCI ) montre une expression de la p53 dans presque la moitié des cas ( 41 % ) , contrairement aux autres types histologiques ( CLI : carcinome lobulaire infiltrant et CC : carcinome colloïde ) qui sont négatifs en IHC .
+Une corrélation significativement positive ( p = 0,0006 ) entre l' accumulation de la p53 dans les noyaux des cellules tumorales et le grade histologique le plus élevé de la tumeur a été établie .
+En examinant uniquement les cas positifs en IHC , on constate que 21 / 33 cas ( 63,6 % ) sont de grade III .
+Aucune corrélation de la positivité histologique de la p53 nucléaire avec l' envahissement ganglionnaire ni l' état des récepteurs hormonaux n' a été observée .
+Tableau 1.
+Corrélation entre l' étude immunohistochimique et les différents grades histologiques dans le cancer du sein
+Grade IIIGrade IIGrade I IHC+3321 ( 58,3 % ) 11 ( 30,5 % ) 0 ( 0 % ) IHC - 5315 ( 41,7 % ) 25 ( 69,4 % ) 13 ( 100 % ) Total86363613 Pourcentage41,8 %41,8 %15,1 %
+Full-size table
+p = 0,0006 ; X2 = 14,71 .
+View Within Article
+4.3. Résultats de l' étude sérologique
+Sur les 108 sérums testés 15 dont 14 présentant un cancer canalaire infiltrant sont positifs pour les anticorps anti-p53 .
+Nous avons trouvé d'_une_part une corrélation positive ( p = 0,041 ) entre l' apparition d' anticorps anti-p53 et le degré d' envahissement ganglionnaire et d' autre_part une association significative négative ( p = 0,017 ) entre la séropositivité anti-p53 et la négativité des cellules tumorales quant aux des récepteurs hormonaux ( estrogènes et progestérone ) .
+Aucune corrélation n' a été mise en évidence entre la présence d' anticorps anti-p53 dans le sérum et le grade histologique SBR ( p = 0,141 ) ni avec l' accumulation nucléaire de la p53 dans les cellules tumorales ( p = 0,24 ) .
+Tableau 2.
+Corrélation entre les résultats de la sérologie anti-p53 et l' envahissement ganglionnaire ( N ) dans le cancer du sein
+NAnti-p53 +Anti-p53 -Total N - 01717 N+ 301111 N+ 38 ( 17 % ) 3745 Total86573
+Full-size table
+p = 0,041 ; X2 = 6,36 .
+View Within Article
+Tableau 3.
+Corrélation entre la sérologie anti-p53 et l' état des récepteurs hormonaux dans le cancer du sein
+RHAnti-p53+Anti-p53 - Total RH+3 ( 8 % ) 3437 RH - 4 ( 36 % ) 711 Total74149
+Full-size table
+p = 0,017 ; X2 = 5,65 .
+View Within Article
+Tableau 4.
+Confrontation des résultats de la sérologie anti-p53 et des résultats de l' immunohistochimie anti-p53 nucléaire dans le cancer du sein
+IHCAnti-p53+Anti-p53 - AmbiguëTotal IHC+7 ( 21,2 % ) 25 ( 75,7 % ) 1 ( 3 % ) 33 IHC - 4 ( 7,2 % ) 48 ( 87,2 % ) 3 ( 5,4 % ) 55 TOTAL1173488
+Full-size table
+p = 0,24 ; X2 = 1,34 .
+View Within Article
+5. Discussion
+Dans la présente étude , notre objectif est de contribuer à la compréhension des mécanismes immunologiques à l' origine de la rupture de tolérance vis-à-vis_de la p53 nucléaire dans le cancer du sein dans le contexte du profil épidémiologique des patientes tunisiennes .
+Ainsi , nous avons testé une méthode directe ( immunohistochimique ) et une méthode indirecte ( sérologie anti-p53 ) pour l' étude des altérations de la p53 humaine chez 108 femmes tunisiennes atteintes du cancer du sein .
+Nous avons également cherché des corrélations possibles entre la réponse de l' organisme vis-à-vis_de la p53 et certaines données cliniques connues pour leur valeur pronostique .
+Les anticorps anti-p53 révélés par Western Blot ont été décrits pour la première fois en 1982 par Crowford_et_al.  dans le sérum de 9 % des patients ayant le cancer du sein .
+Plus récemment une quinzaine d' études utilisant la méthode Elisa ont évalué la présence d' anticorps anti-p53 dans le cancer du sein  .
+La fréquence de ces anticorps anti-p53 est de 15 à 20 % , mais la majorité de ces études ont été réalisées soit en Europe , soit aux États-Unis , aucune étude n' a été réalisée en Afrique du Nord ni précisément en Tunisie où la fréquence du cancer du sein ( 29,8 % ) est proche_de celle des populations européennes  .
+Nous avons montré par une analyse sérologique que 14 % des patientes sont séropositives pour les anticorps anti-p53 .
+Ce pourcentage de positivité se situe dans l' intervalle des valeurs trouvées ( 1 à 26,5 % ) dans des études analogues  .
+Nos analyses statistiques ont montré d'_une_part , une corrélation négative entre la production de ces anticorps et l' expression des récepteurs hormonaux démontrant ainsi_que la réponse immune anti-p53 serait un marqueur d' agressivité tumorale , elle-même connue pour être associée à l' absence de récepteurs d' hormones stéroïdiennes  .
+D' autre_part , on démontre une corrélation positive entre l' apparition d' anticorps anti-p53 et l' envahissement ganglionnaire ; cette corrélation n' a pas été démontré par certaines études  .
+Parmi les hypothèses sur la rupture de tolérance vis-à-vis_de la p53 , l' apparition des anticorps dirigés contre cette protéine serait la conséquence de son accumulation dans les cellules tumorales .
+Normalement la p53 est indétectable in_situ dans un tissu sain , son altération peut induire une augmentation de sa demi-vie qui passe de 15 - 20 minutes à 4 - 12 heures  .
+Il en résulte une accumulation nucléaire qui est mise en évidence par analyse immunohistochimique .
+Ainsi , nous avons révélé l' accumulation de la p53 dans les cellules tumorales de 37,5 % des patientes .
+Cette positivité vis-à-vis_de la p53 nucléaire a été déjà démontrée dans 20 à 50 % des cas des cancers mammaires  .
+Dans notre étude , l' accumulation de la p53 nucléaire est corrélée significativement avec le grade histologique élevé ( p = 0,0006 ) puisque dans 63,6 % des cas où la p53 est accumulée , la tumeur est de grade III .
+Pour le grade I , toutes les tumeurs analysées sont négatives conformément aux résultats de la littérature .
+Dans les cas de carcinomes canalaires infiltrants , une corrélation hautement significative a été trouvée entre la proportion de cellules positives pour la p53 et le grade histologique SBR III  .
+Ces résultats signifient que l' altération de la p53 est associée au grade le plus agressif du cancer .
+La surexpression de la p53 altérée et / ou de la p53 sauvage peut entraîner sa reconnaissance par le système immunitaire .
+Elle sera ainsi considérée comme un antigène tumoral  .
+Bien que la présente étude n' ait démontré aucune corrélation entre les résultats de l' immunohistochimie et de la sérologie , nous avons observé que dans 21 % des cas étudiés , l' accumulation de la p53 nucléaire est accompagnée d' une synthèse d' anticorps anti-p53 .
+Cette situation concorde avec une étude réalisée par  sur des patients thaïlandais où il avait été démontré que la présence des anticorps anti-p53 était fortement associée à une accumulation tumorale de la protéine p53 ; ce qui implique que cette réponse immune est déclenchée par l' accumulation de la p53 dans les tumeurs comme cela a été décrit dans le cas du cancer du poumon  .
+Mais , il semble que cet effet dose stipulé par la_plupart des auteurs  ne soit le seul responsable de la rupture de tolérance de l' organisme vis-à-vis_de la p53 .
+Nous avons démontré que dans 75,7 % des cas analysés , il y a une accumulation tumorale de la protéine p53 sans qu' elle soit associée à une synthèse d' anticorps anti-p53 .
+Cela signifie bien_que l' effet dose à lui seul est insuffisant pour avoir la rupture de tolérance .
+L' accessibilité des cellules immunitaires à l' antigène pourrait constituer une condition importante pour induire une réponse immunitaire .
+Cette accessibilité est normalement observée en cas d' envahissement ganglionnaire .
+En effet , nous avons montré que la production d' anticorps anti-p53 n' était pas observée en absence d' envahissement ganglionnaire .
+Ce dernier facteur semble donc déterminant pour l' obtention d' anticorps anti-p53 .
+Ainsi , sur l' ensemble de ces analyses , nous avons observé que 50 % des patientes séropositives pour la p53 sont positives en immunohistochimie et présentent un envahissement ganglionnaire .
+Selon le modèle préconisé , l' effet dose d' un côté et l' accessibilité des cellules immunitaires à l' antigène de l' autre permettrait la réponse anti-p53 .
+Cependant , 50 % des patientes séropositives pour la p53 sont négatives en immunohistochimie et présentent un envahissement ganglionnaire .
+Ces patientes représentent 7,2 % des cas étudiés pour lesquelles la p53 n' est pas décelable par IHC dans les cellules tumorales .
+Ce résultat indique encore_une_fois que l' accumulation de la p53 qui traduit normalement l' altération du gène p53 n' est pas forcément associée à la rupture de tolérance .
+Tableau 5.
+Confrontation de l' état de l' envahissement ganglionnaire ( N ) avec les résultats de la sérologie et de l' immunohistochimie anti-p53 dans le cancer du sein
+Envahissement ganglionnaireAntip53 - IHC - Antip53+ IHC - Antip53 - IHC+Antip53+ IHC+Total N+29416453 N - 1006016
+Full-size table
+View Within Article
+Dans les cas où l' on détecte des autoanticorps anti-p53 en absence d' une accumulation de la protéine cible p53 dans les cellules tumorales , il est à noter que l' absence d' accumulation de la p53 n' indique pas forcément l' absence de mutation du gène .
+En effet , il a été décrit des mutations de la p53 qui n' induisaient pas d' accumulation de la protéine dans les cellules tumorales  .
+Ce type de mutations affecte cependant la structure et la fonction de la protéine et pourrait donc générer de nouveaux épitopes T reconnus comme non soi par les lymphocytes T CD4+ qui par coopération avec les lymphocytes B induiraient la production d' autoanticorps , ces cellules vont activer ces derniers malgré la faible accumulation d' autoantigène p53 .
+Ce type de mécanisme a déjà été invoqué pour expliquer la réponse antitumorale .
+Enfin , il est à noter qu' il existe un nombre appréciable de cas où les conditions semblent favorables à la production d' autoanticorps : accumulation ( effet dose ) et envahissement ganglionnaire ( accessibilité ) sans qu' il y ait détection d' anticorps anti-p53 .
+Ces cas pourraient signifier qu' un troisième paramètre interviendrait dans la rupture de tolérance à la p53 .
+Ce facteur serait génétique et probablement en relation avec la présentation antigénique .
+Cette hypothèse trouve des arguments dans la confrontation des résultats de la présente étude avec ceux obtenus sur la population thaïlandaise chez laquelle la majorité des sujets positifs en immunohistochimie sont séropositifs .
+La variabilité génétique de la population tunisienne expliquerait la diversité des situations observées .
+En résumé , les résultats de la présente étude montrent qu' en raison de la consultation tardive des patientes tunisiennes , un stade avancé de la maladie est observé dans 76 % des cas .
+Une corrélation entre l' état de l' envahissement ganglionnaire et la positivité sérique a pu être mis en évidence .
+Cette situation nous a permis d' analyser la rupture de tolérance vis-à-vis_de la p53 en rapport avec l' efficacité de la présentation antigénique .
+En effet , le taux de CPA dotées d' un grand pouvoir immunostimulant et le taux de cellules immunitaires immunocompétentes au niveau des ganglions constituent une situation favorable à l' induction d' une réponse immune antitumorale .
+Le développement des anticorps sériques contre un oncogène donné ou contre le produit de gène suppresseur de tumeur représente un modèle intéressant pour étudier la réponse immunitaire chez les patients cancéreux .
+Dans le cas de la p53 , une réponse de cellules T CD4+ a été décrite chez des patients ayant le cancer du sein  , et un clone de cellules T CD4+ reconnaissant la p53 sauvage et mutée a pu être généré in_vitro à partir des PBMC d' individus sains  .
+Les anticorps anti-p53 sont retrouvés de façon prédominante dans le sérum des patients cancéreux avec une spécificité de 96 % , mais une sensibilité de détection uniquement de 30 %  .
+Puisque les anticorps anti-p53 ne sont pas en_général détectés dans le sérum des sujets n' ayant aucune pathologie maligne ( 0,5 à 1 % )  , les chercheurs ont suggéré que le test sérologique anti-p53 puisse être considéré comme une méthode spécifique d' identification précoce des sous-groupes de patients cancéreux et cela malgré la faible sensibilité du test  .
+En effet , des anticorps anti-p53 ont été détectés chez des patients à haut risque de cancer ( fumeurs , dysplasie de Barrett ) plusieurs années avant la manifestation clinique du cancer  .
+La présente étude est la première en Tunisie à utiliser deux approches : sérologique et immunohistochimique pour mettre en évidence l' implication de la protéine p53 dans le cancer du sein .
+Elle démontre bien_que la sérologie anti-p53 ne peut être considérée comme un outil de plus dans le diagnostic de la maladie en raison des multiples conditions qui doivent être remplies pour obtenir une rupture de tolérance vis-à-vis_de la p53 dans le cancer du sein .
+Cette observation contraire à ce qui a été observé dans une autre étude sur la population thaïlandaise indique l' importance de prendre en considération les spécificités des populations dans de pareilles études  .
+Nous envisageons une étude moléculaire qui se fonde sur le dépistage des mutations probables du gène p53 pour les patientes positives en Elisa et / ou en IHC .
+Ces analyses moléculaires sont en_général plus consensuelles et présentent un intérêt en_tant_que marqueur pronostique dans le cancer du sein  .
+Des corrélations entre la nature et le site des mutations avec les résultats sérologiques et immunohistochimiques pourraient nous éclairer davantage sur le processus par lequel la protéine pourrait s' accumuler et / ou induire une réponse immune .
+Remerciements
+Ce travail a été réalisé entre le laboratoire de génétique moléculaire , d' immunologie et de biotechnologie à la faculté des sciences de Tunis et le service d' anatomie pathologique et de cytologie à l' institut Salah-Azaiez de Tunis .
+Nous remercions les chefs services de chimiothérapie et d' anatomie pathologique de l' institut Salah-Azaiez de Tunis ainsi_que tout le personnel d' avoir fourni respectivement le sang périphérique des patientes et les blocs de paraffine correspondants

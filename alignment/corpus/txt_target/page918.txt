@@ -1,0 +1,148 @@
+Breast cancer is the predominant cancer in women in the Western world with an incidence of 1 in 9 women who will develop breast cancer during her life.1 Due to early detection and extensive treatment options , for many patients breast cancer has evolved from a deadly form of cancer to a chronic disease.2 As a consequence , well-being has become a subject of great interest for patients and physicians.3 .
+Physical and psychological functioning are aspects of well-being4 and can be measured using health status ( HS ) questionnaires .
+Quality of life ( QoL ) is another aspect of well-being4 and refers to satisfaction with different aspects of life .
+The number of QoL-studies in breast cancer has increased enormously in recent years , however a large number of these studies does not refer to QoL , but measures health status or health-related QoL ( HR-QoL ) .5 .
+HS , HR-QoL , and QoL are often considered interchangeable , but these concepts are not the same.5 QoL is defined by the World Health Organization Quality of Life Group as an individual 's perception of his position in life in the context of the culture and value systems in which he lives and in relation to his goals , expectations , standards and concerns'.6 In other words , QoL is a person 's subjective evaluation of his functioning in a wide range of areas .
+In a review Hughes et al. identified 14 frequently mentioned QoL domains : social relationships and interaction ; psychological well-being and personal satisfaction ; employment ; self-determination , autonomy , and personal choice ; recreation and leisure ; personal competence , community adjustment and independent living skills ; residential environment ; community integration ; support services received ; individual and social demographic indicators ; personal development and fulfillment ; social acceptance , social status , and ecological fit ; physical and material well-being ; and civic responsibility.7 These domains are considered to encompass the breadth of life experience.8 .
+When research only focuses on satisfaction within health related domains such as physical functioning , psychological well-being and personal satisfaction , and social relationships and interaction HR-QoL is measured .
+HS measures the impact of disease on health related functioning.9 Patients are asked about their physical possibilities , social activities , and state of mind and not about their ( dis ) contentment concerning their functioning .
+Thus , HS indicates whether there are limitations , whereas ( HR ) QoL also reflects to what extent a patient indicates to be bothered by these limitations .
+Depending on the research question , both HS and QoL can be important to evaluate well-being in breast cancer survivors .
+If the outcomes of interest are the possible long term effects of breast cancer treatment on functioning , HS questionnaires are sufficient .
+When the objective is to study satisfaction with functioning , QoL questionnaires need to be used .
+Thus , it is extremely important to recognize the different definitions of both concepts and to realize that HS questionnaires are not able to answer research questions concerning QoL .
+The majority of studies concerning well-being in breast cancer patients use more than one questionnaire to reach their conclusions.5 This will provide a good insight into the well-being of the women tested , as long as the distinction is made between outcome scores from HS questionnaires and outcome scores derived from QoL questionnaires .
+This cross-sectional study was carried out to demonstrate the difference between QoL and HS .
+The World Health Organization Quality of Life Questionnaire ( WHOQOL-100 ; a QoL questionnaire ) and the RAND 36-Item Health Survey ( RAND-36 ; a HS questionnaire ) were administered to breast cancer survivors .
+Two hypotheses were studied .
+The first hypothesis concerns the difference in QoL and HS for breast cancer survivors .
+We assumed that breast cancer survivors would not have an impaired QoL due to ( psychological ) adjustment to the given situation , whereas HS would still be impaired because of continuing negative effects of breast cancer and its treatment on functioning .
+The second hypothesis concerns the correlation between the WHOQOL-100 and the RAND-36 .
+We assumed that the outcome scores of the WHOQOL-100 ( QoL ) and the RAND-36 ( HS ) would not correlate well and that the scores on the two questionnaires would not yield the same conclusions .
+Based on previous studies that showed differences in health status due to surgical treatment,  the breast cancer survivors were divided in two treatment groups ( breast conserving therapy versus mastectomy ) .
+Patients and methods Patients .
+All consecutive patients who were diagnosed with early stage breast cancer and had surgical treatment between January 2000 and December 2001 were eligible for this study .
+Women with proven breast cancer recurrence or distant metastases were excluded , since it is known that recurrence of breast cancer has a profound negative effect on QoL  and would therefore compromise our results .
+One hundred and seventy-eight women were contacted by telephone and asked if they wanted to participate .
+Reasons for refusal were not interested ( n = 10 ) , too hard / do not want to be confronted with the past ( n = 15 ) , and other reasons ( n = 7 ) .
+One hundred and forty-six women agreed to participate .
+Of these , 140 returned the questionnaires .
+These 140 patients are a representative sample of the Dutch early stage breast cancer patients .
+Treatment was according to international guidelines and the proportion of the two treatment groups is comparable with information from the International Cancer Institute.14 For all patients , time since diagnosis and surgical treatment was at least 54 months ( range 54 - 66 months ) .
+Reference population .
+The reference populations used for hypothesis 1 were derived from the questionnaire manuals .
+For QoL the reference population existed of healthy Dutch women who lived in the same residential area as the included breast cancer survivors.15 The reference population for the HS were healthy Dutch women who were comparable concerning age and social status.16 .
+Questionnaires .
+QoL was assessed with the World Health Organization Quality of Life assessment instrument-100 ( WHOQOL-100 ) ,  a cross-culturally developed generic multi-dimensional questionnaire.18 It consists of 100 items assessing 24 facets of QOL within six domains ( Physical health , Psychological health , Level of independence , Social relationships , Environment , Spirituality ) and a general evaluative facet ( Overall quality of life and general health ) .
+The WHOQOL-100 was developed cross-culturally and simultaneously in 15 centers worldwide .
+Aspects of life that were considered to contribute to QoL were discussed in focus groups in each center .
+The inclusion of facets was eventually based on a consensus within and between cultures among health professionals , healthy individuals from the general population and persons who were in contact with health services because of disease or impairment.19 The response scales for each question are 5 point scales and scores on each facet and domain can range from 4 to 20. The timeframe for evaluation when completing the questionnaire is the previous two weeks .
+The reliability and validity of the instrument are good.19 In the present study the Cronbach alphas for the domains ranged from 0.67 ( domain Physical health ; 3 facets ) to 0.83 ( domain Environment ; 8 facets ) .
+The RAND 36-Item Health Survey 1.0,20 Dutch Version16 was used to assess health status .
+The RAND 36 is practically identical to the Medical Outcome Study / Short Form-36 ( SF-36 ) 21 and evaluates health in eight dimensions : physical functioning , bodily pain , role limitations due to physical health problems , role limitations due to personal or emotional problems , general mental health , social functioning , vitality ( energy / fatigue ) , and general health perceptions .
+In addition , it includes a single item providing an indication of perceived changes in health .
+The rationale for these dimensions is that the health concepts are most frequently included in widely-used health surveys .
+The items used to measure the scores per dimension were adapted from instruments that have been used for 20 - 40 years or longer.21 Subscale scores are represented on a scale from 0 to 100 .
+A high score indicates a good health status .
+The timeframe for evaluation of functioning is the previous four weeks .
+The RAND-36 has a good reliability and validity.22 In the present study , the Cronbach alphas ranged from 0.79 ( dimension social functioning ; 2 items ) to 0.92 ( dimension physical functioning ; 10 items ) .
+Statistical procedure .
+For examining differences between the two treatment groups ( breast conserving therapy ( BCT ) and mastectomy ( MTC ) ) with regard to clinical parameters of the tumor , surgical treatment , adjuvant treatment , and the demographic characteristics ( children , living with a partner , educational level ) , chi-square tests were employed .
+Analysis of variance was performed to examine differences between the BCT and MTC patients with regard to scores on QoL , its separate domains , and the dimensions of the RAND-36 .
+The scores on overall QoL , the domains of QoL , and the dimensions of the RAND were compared for each treatment group separately with the scores of an existing reference population using one-sample t-tests .
+Due to the number of tests , p-values smaller than 0.01 were considered statistically significant .
+The association between the domains of the WHOQOL-100 and the dimensions of the RAND-36 were examined with Pearson correlation coefficients .
+All analyses were performed with the Statistical Package for Social Sciences ( SPSS version 11.5 ) .
+Results Characteristics of included patients .
+The 140 included women were comparable to the 38 women who declined participation with respect to surgical treatment and tumor characteristics .
+However , the participants were significantly younger ( p = 0.003 ) , more often received chemotherapy ( p = 0.048 ) , and more often were treated with radiotherapy ( p = 0.047 ) .
+Characteristics of the two treatment groups .
+Sixty-eight women were treated with breast conserving therapy ( i.e. removal of the tumor by means of a lumpectomy and axillary lymph node dissection followed by radiation of the breast ) and 72 women underwent a mastectomy ( i.e. removal of all breast tissue including the nipple and axillary lymph node dissection ) .
+Concerning demographic and clinical features there were no differences in age , and having a partner or children between the two treatment groups .
+Level of education showed a significant difference .
+Compared with the BCT group a larger percentage of the MTC group had had more than 14 years of education ( p = 0.031 ) .
+The clinical features showed differences regarding tumor size , lymph node metastases , and adjuvant treatment .
+The MTC group had significantly more large tumors ( p = 0.005 ) , had more lymph node metastases ( p = 0.008 ) , and more often received hormonal therapy ( p = 0.01 ) .
+Women in the BCT group were treated more frequently with radiotherapy ( p 0.001 ) , as this was part of the conserving treatment .
+Table 1. .
+Clinical and demographic features for BCT and MTC group ( included patients only )
+BCT ( n = 68 ) MTC ( n = 72 ) Age at diagnosis ( SD ) 54.9 ( 11.8 ) 58.2 ( 10.9 ) Partner5555 Children6058 Level of education 6 yrs / 6 - 10 / 10 - 14 / 14 yrs9/45/9/511/40/4/17 Tumor size 1 cm / 1 - 3 cm / 3 cm#15/49/45/52/14 Lymphnode metastases yes/no14/4630 / 33 Chemotherapy1627 Hormone therapy2239 Radiotherapy##5821 .
+Full-size table .
+Note : p 0.05 ; p 0.01 ; #p = 0.005 ; ##p 0.001 .
+View Within Article .
+Quality of life and surgical treatment .
+Scores on the facet overall QoL and the separate domains of the WHOQOL-100 did not show significant differences between the two treatment groups .
+Compared with the reference scores , the BCT group scored higher in the psychological domain ( p 0.001 ) .
+There were no other differences. The reference scores were derived from the manuals of the WHOQOL-100 and the RAND-36 .
+Table 2. .
+Scores of the BCT and MTC group on the different domains of the WHOQOL-100 and the reference scores .
+BCTMTCReference scoreResults t-test Overall QoL and general health15.8 ( 2.4 ) 15.9 ( 2.7 ) 15.5 ( 3.2 ) Physical domain14.3 ( 2.8 ) 14.4 ( 2.5 ) 14.6 ( 2.7 ) Psychological domain15.4 ( 1.8 ) 14.9 ( 2.1 ) 14.4 ( 2.2 ) BCT : t = 3.8 , p 0.001 Level of independence15.4 ( 2.9 ) 15.5 ( 2.8 ) 16.8 ( 2.9 ) Social relationships15.5 ( 2.4 ) 15.4 ( 2.2 ) 15.3 ( 2.7 ) Environment16.1 ( 1.8 ) 16.3 ( 1.6 ) 15.8 ( 1.9 ) Spiritual domain12.5 ( 2.8 ) 12.5 ( 3.0 ) 13.0 ( 3.3 )
+Full-size table .
+Comparison between the scores by one-sample t-test ( significant results shown in table ) .
+Note : standard deviation between brackets .
+View Within Article .
+Health status and surgical treatment .
+Scores on the dimensions of the RAND-36 showed no significant differences between the BCT and MTC group .
+Compared with scores from the reference population , women in the MTC group scored lower on physical functioning ( p = 0.002 ) , role limitations due to physical problems ( p = 0.001 ) , and general health perceptions ( p = 0.007 ) .
+The BCT group had a similar health status as the reference population .
+Table 3. .
+Scores of the BCT and MTC group on the different dimensions of the RAND-36 and the reference scores .
+BCTMTCReference scoreResults t-test General health perceptions67.3 ( 20.6 ) 64.9 ( 20.1 ) 71.5 ( 21.8 ) MTC : t = 2.8 , p = 0.007 Physical functioning76.3 ( 23.3 ) 71.2 ( 25.4 ) 80.7 ( 23.6 ) MTC : t = 3.2 , p = 0.002 Social functioning79.3 ( 24.2 ) 84.4 ( 19.7 ) 86.1 ( 20.9 ) Role limitations physical71.0 ( 37.3 ) 61.4 ( 41.5 ) 78.3 ( 36.5 ) MTC : t = 3.4 , p = 0.001 Role limitations emotional82.8 ( 30.7 ) 78.2 ( 36.8 ) 82.5 ( 33.5 ) General mental health78.3 ( 14.8 ) 74.4 ( 15.8 ) 75.5 ( 18.9 ) Energy / fatigue64.8 ( 21.3 ) 63.4 ( 18.6 ) 66.3 ( 19.6 ) Bodily pain77.2 ( 22.6 ) 75.3 ( 21.0 ) 80.0 ( 25.4 ) Health changes53.7 ( 18.6 ) 53.1 ( 20.9 ) 53.4 ( 19.6 )
+Full-size table .
+Comparison between the scores by one-sample t-test ( significant results shown in table ) .
+Note : standard deviation between brackets .
+View Within Article .
+Correlations between QoL and HS questionnaires .
+Finally , correlations were calculated between the RAND-36 and the WHOQOL-100 .
+Following Cohen,23 absolute correlations between 0.10 and 0.29 are considered small , between 0.30 and 0.49 medium , and 0.50 and higher as large .
+Overall , the correlations showed a considerable variety .
+Corresponding domains and dimensions were paired ( see bold correlations in Table 4 ) .
+General health and Overall QoL showed a high level of correlation .
+The QoL physical domain showed a high correlation with the RAND dimension energy / fatigue , but only a medium correlation with the dimension physical functioning .
+Mental health and the psychological domain had a high correlation , whereas the social domain and social dimension only just reached medium correlation .
+The highest correlation found was 0.75 ( HS Energy / Fatigue with QoL Physical domain ) , representing 56.3% common variance .
+Table 4. .
+Pearson correlations between the individual domains of the WHOQOL-100 and the separate dimensions of the RAND-36 .
+Overall QoLPhys. domainPsych .
+DomainLevel of indep.Social domainEnviron.Spiritual domain General health0.620.630.520.740.350.420.1 Phys funct.0.400.470.380.670.180.400.07 Social funct.0.500.620.460.630.300.410.01 Role lim. phys.0.500.550.430.680.260.380.06 Role lim. emot.0.440.380.390.450.190.290.08 Mental health0.660.630.700.510.370.380.11 Energy / fatigue0.570.750.560.650.350.460.10 Bodily pain0.460.630.430.650.220.340.01 Health changes0.270.190.250.220.040.140.13 .
+Full-size table .
+Note : = Correlations are not significant .
+All other correlations are significant at the 0.02 level ( 2 tailed ) or 0.01 level ( 2 tailed ) .
+View Within Article .
+Discussion Aim of study .
+The aim of this study was to determine whether the scores on QoL and HS of breast cancer survivors were comparable to scores of healthy reference populations and to establish the difference in conclusions reached when applying a QoL questionnaire compared with a HS questionnaire .
+Previous studies have compared different HS questionnaires to see whether the results are interchangeable when applied to cancer patients.  All studies showed considerable differences in outcomes between the questionnaires used .
+So far there has not been a comparison of a QoL and HS questionnaire in ( breast ) cancer patients .
+Results concerning QoL .
+No difference was found with regard to QoL between the two treatment groups .
+As expected , the patients QoL was not impaired when compared with the reference scores .
+The BCT group scored better in the QoL psychological domain .
+A possible explanation for these results might be psychological adaptation .
+Several studies have shown that benefit finding in the diagnosis breast cancer and its treatment result in better psychological adaptation and , thus , better QoL.  When breast cancer survivors were compared with age-matched women with benign breast disease , they reported poorer physical health and functioning , but no differences in psychological stress and greater positive psychological adaptation , such as improved life outlook.30 .
+Results concerning HS .
+The scores on the HS dimensions did not show significant differences between the two treatment groups .
+However , compared with the reference scores the MTC group scored significantly worse on general health perceptions , physical functioning , and role limitations due to physical problems .
+This concurs with our hypothesis .
+The results of our study are in agreement with previous studies using the RAND-36 , that reported scores comparable to healthy women,  but showed that women who had a mastectomy were more likely to have lower scores on the physical health dimensions.32 .
+Consequences of study outcomes .
+Based on the outcome of the WHOQOL-100 , it may be concluded that there is no long-term negative effect of breast cancer on QoL in survivors who did not have a recurrence of disease .
+However , the scores on the RAND-36 showed problems in the physical dimensions for the mastectomy group .
+Thus , based on a QoL measure it can be concluded that no intervention is needed , while treatment aimed at physical and emotional functioning seems needed in the MTC group when focusing on health status .
+The differences in outcome scores in our study were also reflected in the Pearson correlations .
+The highest correlation between the WHOQOL-100 and the RAND-36 was 0.75 for QoL physical health and HS energy / fatigue , representing 56% of the variance , i.e. slightly more than half of the variance , indicating that the outcome measures are not interchangeable .
+An illustrative example for the incompatibility of the scores on both questionnaires in our study is the social domain from the WHOQOL-100 compared to the dimension social functioning of the RAND-36 .
+When physical limitations or emotional problems cause a low number of social activities or social contacts , the score on the dimension Social functioning of the RAND-36 will be low .
+However , a patient may be very satisfied with the nature of the social contacts .
+Since the WHOQOL-100 does not inquire into the number of social contacts but especially inquires about the satisfaction concerning these social activities and the social support , the score on the social domain of the WHOQOL-100 may be high .
+This means that attempts to improve the social life of patients based on a low score on social functioning with the RAND-36 will probably not contribute to a better QoL , because the patients did not feel socially impaired .
+Literature overview .
+The only studies we found that compared a QoL questionnaire to a HS questionnaire were performed by Breek et al. and O'Carroll_et_al.  and  They administered both the RAND-36 and the WHOQOL-100 to patients with intermittent claudication33 and to patients following liver transplantation.34 Both studies observed that although patients reported significant impairment in all domains of HS , QoL measurement showed that they did not consider all objective functional impairments as a problem .
+The differences in results of both questionnaires underscore the importance of applying a questionnaire that is able to answer the research questions posed .
+When using a combination of measures of functioning and satisfaction , the relation between functioning and satisfaction can be studied most extensive .
+It has been argued that ideally a combination of HS and QoL measures should be used , because they provide different information.30 In practice this is hardly ever done , but it can be very useful in study designs that are both interested in functional outcome of a treatment , but also wish to assess the influence of treatment on QoL .
+Such study questions can only be answered correctly when using both types of questionnaires .
+Conclusion .
+Disease-free breast cancer survivors report a good QoL that illustrates a good adjustment to the diagnosis and treatment of breast cancer .
+HS , however , is still impaired after four to five years in women who received MST .
+Based on these outcomes we feel that it is imperative to conclude that HS questionnaires cannot be used to assess QoL .
+When researchers want to incorporate adjustment of a patient to a given situation , a QoL questionnaire should be used .

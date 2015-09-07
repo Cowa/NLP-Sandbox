@@ -1,0 +1,198 @@
+Dans le cancer du sein , après traitement conservateur par tumorectomie et curage axillaire , la radiothérapie mammaire est indispensable pour diminuer le risque de récidive locale .
+Lorsqu' il existe un envahissement ganglionnaire , une chimiothérapie adjuvante est toujours préconisée avant la ménopause , mais parfois aussi après la ménopause .
+Dans les formes sans envahissement ganglionnaire , l' existence de certains facteurs péjoratifs ( tumeurs de plus de 2 cm , grade SBR III , phase S élevée , récepteurs hormonaux négatifs ) peut aussi faire proposer avant la ménopause une chimiothérapie adjuvante .
+Lorsque l' irradiation et la chimiothérapie adjuvante sont nécessaires , la séquence optimale des deux traitements n' est pas clairement établie et reste très controversée .
+L' essai thérapeutique mené par l' équipe de Boston , comparant avant la chirurgie la séquence chimiothérapie puis radiothérapie à la séquence inverse , a montré qu' un retard à la mise en route de la chimiothérapie augmentait l' incidence des disséminations métastatiques et que le taux de récidive locale était plus élevé lorsque la radiothérapie était administrée tardivement  .
+Par ailleurs , les essais de Overgaard et al.et de Ragaz et al. publiés en 1997 [ 31 and 33 ] ont montré l' impact majeur , sur le taux de survie , de l' adjonction de la radiothérapie à la chimiothérapie adjuvante chez les patientes non ménopausées atteintes de cancer à haut risque métastatique et traité par mastectomie .
+On peut estimer que chacun des deux traitements pris séparément augmente le taux de survie de 7 à 10 % .
+Le problème de la chronologie optimale des deux traitements se pose donc de façon cruciale .
+Plusieurs séquences sont envisageables : - la chirurgie , la chimiothérapie puis la radiothérapie ; - la chirurgie , la radiothérapie puis la chimiothérapie ; - la chirurgie , puis la radiothérapie et la chimiothérapie concomitantes ; - la chirurgie , une partie de la chimiothérapie , la radiothérapie et la fin de la chimiothérapie .
+Ne pas retarder la mise en oeuvre de la chimiothérapie peut apparaître relativement important .
+Deux raisons viennent supporter cette opinion .
+Plus la chimiothérapie est administrée précocement , moindre est le risque de métastase .
+De plus , la radiothérapie risque d' amputer le capital médullaire et d' affecter le respect de l' intensité de dose .
+Ces raisons font proposer souvent une chimiothérapie précoce , voire concomitante de l' acte opératoire ou même le précédant .
+En revanche , la position idéale de la radiothérapie dans la séquence thérapeutique reste controversée .
+Un certain nombre de travaux , souvent rétrospectifs , semblent suggérer qu' un retard apporté à la mise en oeuvre de la radiothérapie serait susceptible d' augmenter le taux de récidive locale .
+Pour ces raisons , lorsque les deux thérapeutiques sont indiquées après la chirurgie , il est actuellement recommandé d' administrer d'_abord la chimiothérapie ( en_général 4 à 6 cycles ) et de délivrer ensuite la radiothérapie , qui est donc administrée trois à cinq mois après la chirurgie d' exérèse .
+Pour tenter de contourner ce problème , l' administration concomitante des deux traitements est un concept séduisant .
+Les avantages théoriques sont évidents ( pas de retard à l' initiation d' aucun des traitements , réduction de la durée globale du traitement ) .
+Les risques sont réels ( augmentation de la toxicité aiguë , mauvaise observance des deux traitements , augmentation du risque de toxicité tardive , altération de la qualité du résultat esthétique ) .
+Nous envisagerons dans cette analyse de la littérature d'_une_part les arguments qui plaident en faveur d' une radiothérapie précoce et d' autre_part les données des études réalisées avec des traitements concomitants .
+2. Délai entre la chirurgie et la radiothérapie
+Il y a assez peu de données sur l' impact du délai entre chirurgie et radiothérapie chez les patientes qui ne reçoivent pas de chimiothérapie adjuvante .
+Le Tableau 1 résume les données rapportées par plusieurs équipes sur ce sujet .
+À l' institut Gustave-Roussy , il avait été suggéré que les patientes chez lesquelles la radiothérapie était débutée moins de sept semaines après la chirurgie auraient un risque de récidive locale plus faible que celles dont le traitement était commencé après sept semaines .
+Cependant , l' analyse multifactorielle n' a pas retrouvé ce paramètre  .
+Tableau 1. Impact du délai entre chirurgie et radiothérapie sur le taux de contrôle local en absence de chimiothérapie adjuvante
+Full-size table (
+Ch , chirurgie conservatrice ; RT , radiothérapie ; Stat , signification statistique ; NS , non significatif ; np , non précise
+View Within Article
+Les travaux de Nixon_et_al.  et de Leonard_et_al.  ne permettent pas de conclure à une augmentation du risque de récidive locale lorsque le délai entre la chirurgie et la radiothérapie s' allonge , que ce soit après 8 , 12 ou même 24 semaines .
+Les travaux de Froud_et_al.  , portant sur près_de 2000 patientes , vont dans le même sens .
+Quelle que soit la durée de l' intervalle chirurgie - radiothérapie ( 0 - 5 , 6 - 8 , 9 - 12 ou plus de 13 semaines ) il n' y avait aucune différence dans le taux de récidive locale .
+En revanche , dans l' étude de Slotman  le taux de récidive locale était de 1,7 % lorsque la radiothérapie était débutée moins de 50 jours après la chirurgie et de 5,6 % lorsque l' intervalle était plus long ( p 0,05 ) .
+3. Délai entre chirurgie - radiothérapie et chimiothérapie
+Lorsque les patientes reçoivent de plus une chimiothérapie adjuvante , les données sont là encore contradictoires .
+Certains travaux suggèrent que le fait de retarder la mise en oeuvre de la radiothérapie , pendant_que les patientes reçoivent le traitement systémique , n' aurait pas de conséquence sur le taux de contrôle local .
+Il en est ainsi des résultats des essais suédois de l' International Breast Cancer Study Group VI et VII .
+Dans ces études , des patientes traitées avant ou après la ménopause par chirurgie conservatrice ou mastectomie ont été randomisées pour recevoir trois ou six cycles de CMF ( cyclophosphamide , méthotrexate , 5-fluoro-uracile ) et une irradiation seulement en cas de chirurgie conservatrice débutée après trois ou six cycles de chimiothérapie ( soit à 16 ou à 28 semaines après la chirurgie ) .
+Avec un recul médian de 48 mois , il n' y avait aucune différence en termes de récidive locale et de survie , que la radiothérapie ait été administrée précocement ou plus tardivement  .
+D' autres études ont , à l' inverse , fortement suggéré qu' un retard apporté à la mise en oeuvre de la radiothérapie était probablement préjudiciable pour un bon contrôle locorégional de la maladie et pouvait même avoir un effet délétère sur la survie , comme dans l' étude de Bucholz_et_al.  .
+Un seul essai thérapeutique , mené au Joint Center for Radiation Therapy de Boston , a évalué spécifiquement le problème de la séquence des traitements et a été publié en 1995  .
+L' objectif était de comparer , après chirurgie conservatrice chez des patientes atteintes de métastases ganglionnaires axillaires ( N+ ) , la séquence chimiothérapie ( CAMFP , cyclophosphamide , adriamycine , méthotrexate , 5-fluoro-uracile , prednisone ) puis radiothérapie à la séquence inverse .
+Sur 244 patientes , les taux de récidive locale et de dissémination métastatique à distance ont été respectivement de 5 et 37 % lorsque la radiothérapie était faite d'_abord et de 13 et 25 % lorsque la chimiothérapie était faite initialement .
+Ces résultats démontrent bien le risque de retarder la mise en oeuvre de l' une ou l' autre thérapeutique .
+Les auteurs concluaient à la nécessité d' administrer d'_abord la chimiothérapie pour ne pas augmenter le risque de dissémination métastatique à distance .
+Les principales données sur ce point sont rassemblées dans le Tableau 2.
+Tableau 2. Impact du délai entre chirurgie et radiothérapie sur le taux de contrôle local chez les patientes recevant une chimiothérapie adjuvante
+Full-size table (
+Chir , chirurgie conservatrice ; RT , radiothérapie ; CT , chimiothérapie ; RL , récidive locale ; SSM , survie sans maladie ; Stat , significativité statistique ; NS , non significatif ; N , nombre de patientes
+View Within Article
+Ces faits démontrent l' intérêt d' évaluer de nouvelles approches pour l' administration des traitements adjuvants et en_particulier les traitements simultanés .
+4. Radiothérapie et chimiothérapie concomitantes
+Le traitement médical adjuvant , donné juste après la chirurgie , a pour but d' augmenter le taux de survie globale .
+Les résultats à dix ans de 133 essais randomisés réunissant 75000 malades , ont fait l' objet d' une méta-analyse actualisée par l' Early Breast Cancer Trialist' s Collaborative Group en 1998  .
+Cette méta-analyse montre une amélioration de la probabilité de survie globale des femmes ayant reçu une chimiothérapie , avec un bénéfice d' une ampleur variable selon qu' elles étaient ou non ménopausées .
+Pour l' administration de la chimiothérapie la question du délai se pose de la même façon que pour la radiothérapie .
+L' intérêt d' une chimiothérapie très précoce , de type périopératoire , n' a jamais été clairement établi .
+Là aussi , des données rétrospectives suggèrent qu' une chimiothérapie débutée après le 35e jour postopératoire  ou après le sixième mois perdrait sa capacité de réduire le risque métastatique  .
+La durée habituelle d' une chimiothérapie adjuvante est de six mois même si l' étude du National Surgical adjuvant breast and bowel project ( NSABP ) 15 a retrouvé des résultats similaires en comparant six cycles de CMF à quatre cures de AC ( adriamycine , cyclophosphamide ) .
+L' utilisation d' une anthracycline dans le traitement adjuvant chez les femmes atteintes d' un cancer du sein avec envahissement ganglionnaire axillaire ( N+ ) est désormais la règle [ 15 , 16 and 27 ]
+Des données expérimentales ont indiqué que la toxicité de la radiothérapie était aggravée par l' emploi simultané de la doxorubicine , l' une et l' autre produisant des radicaux libres OH - très toxiques sur de nombreux organes ( peau , poumon , coeur )  .
+Les essais cliniques réalisés en situation adjuvante ont confirmé la mauvaise tolérance cutanée de l' association concomitante de radiothérapie et d' anthracycline  .
+De plus , le risque de potentialisation de la cardiotoxicité de la doxorubicine par la radiothérapie ne permet pas son utilisation concomitante dans le traitement adjuvant des cancers du sein gauche .
+Lorsque les deux traitements sont administrés simultanément , plusieurs travaux ont permis d' aboutir aux conclusions suivantes : le résultat esthétique est altéré , la toxicité hématologique est plus marquée , les réactions cutanées sont plus intenses , l' incidence des pneumopathies radiques est plus importante et un lymphoedème du membre supérieur apparaît plus fréquemment  .
+4.1. Les études cliniques de faisabilité de chimioradiothérapie
+Les données publiées dans la littérature sont assez peu nombreuses .
+Deux associations principales ont été évaluées dans des études de phase II : le CMF et le FNC ( 5-fluoro-uracile , novantrone et cyclophosphamide ) .
+La place des taxanes dans cette situation commence à faire l' objet de travaux préliminaires .
+4.1.1. Traitements concomitants avec le CMF
+L' étude de Denham et al. rapportée en 1995 a suggéré la faisabilité de l' association CMF et radiothérapie concomitante , avec une observance du traitement de l' ordre de 90 % et un taux d' épithélite de grade 3 de 4 % lorsque le cyclophosphamide était donné par voie intraveineuse contre 13 % quand il était administré par voie orale  .
+Dubey et al. ont publié en 1999 une analyse chez 112 patientes de la tolérance de l' association CMF oral et radiothérapie en réduisant la dose totale délivrée dans la totalité du sein ( 39,6 Gy en 22 fractions et complément de 16 Gy dans le lit tumoral ) .
+Une épithélite exsudative a été rapportée chez 50 % des patientes , mais seules cinq ont d interrompre la radiothérapie .
+Quatre-vingt-treize pour cent des patientes ont reçu au moins 85 % de la dose prévue .
+L' intensité des réactions cutanées peut probablement s' expliquer par le fait que les patientes ont reçu le CMF « classique » par voie orale , dans lequel l' intensité de dose de chacune des trois drogues était plus importante que dans le CMF par voie veineuse  .
+Dans l' étude de Markiewicz et al. , en_revanche , les auteurs n' ont pas rapporté de majoration significative du taux de toxicité aiguë ou tardive et ont conclu au maintien d' un résultat esthétique tout_à_fait satisfaisant  .
+Trois études de phase II ont été rapportées en 2002 et 2003 [ 13 , 14 and 22 ] dont les conclusions sont discordantes mais dont on peut tirer les enseignements suivants .
+En utilisant le CMF par voie intraveineuse , la toxicité était légèrement majorée mais de façon acceptable .
+En revanche , avec le CMF par voie orale , la toxicité était beaucoup plus sévère et cette association n' est pas recommandée .
+Le volume irradié était un facteur de prédiction de la toxicité : l' association concomitante de l' irradiation mammaire seule avec le CMF était tout_à_fait faisable .
+En revanche , l' administration du CMF avec une irradiation mammaire et ganglionnaire a posé de gros problèmes de toxicité .
+C' est donc avec le CMF que les données existent .
+Elles sont discordantes .
+Il ne s' agit que d' études de phase II avec des schémas variables desquelles on ne peut tirer que les conclusions prudentes suivantes : ce schéma est faisable à condition de faire une irradiation limitée au sein et d' utiliser un schéma de CMF par voie veineuse .
+4.1.2. Traitements concomitants avec les taxanes
+L' association séquentielle postopératoire d' une chimiothérapie comportant tout d'_abord une association doxorubicine et cyclophosphamide ( en_général 4 cycles ) puis du paclitaxel ou du docétaxel a fait proposer à certaines équipes d' administrer la radiothérapie dans le même temps que les taxanes , afin_de ne pas retarder la mise en route de la radiothérapie .
+Il s' agit là_aussi uniquement d' études de phase II qui concluent à la faisabilité , tout en rapportant une majoration de la toxicité cutanée et la nécessité d' être vigilant sur le risque de pneumopathie [ 1 , 12 , 19 , 39 and 43 ] .
+4.1.3. Traitements concomitants avec la mitoxantrone4.1.3.1 .
+Rationnel pour l' utilisation de la Mitoxantrone
+La mitoxantrone et les anthracyclines ont en_commun une action intercalante .
+Leur spectre d' activité est très voisin .
+La mitoxantrone , seule ( 14 mg / m2 IV , toutes les 3 semaines ) ou associée le_plus_souvent au 5-fluoro-uracile et au cyclophosphamide ( à 10 - 12 mg / m2 ) donne respectivement des résultats équivalents à la doxorubicine seule ( 75 mg / m2 par voie intraveineuse toutes les 3 semaines ) ou administrée conjointement avec le 5-fluoro-uracile et le cyclophosphamide ( FAC , Adriamycine à 50 mg / m2 ) en termes de survie sans récidive ou de survie globale chez des malades atteints d' un cancer du sein métastatique et n' ayant jamais reçu d' anthracycline [ 2 , 8 and 32 ] .
+La toxicité non hématologique de la mitoxantrone est à_la_fois moins fréquente et moins sévère que celle de la doxorubicine : faible incidence des alopécies , des nausées et vomissements , des mucites et rareté des nécroses cutanées en cas d' extravasation du médicament .
+La mitoxantrone a une moindre cardiotoxicité que les anthracyclines .
+Par ailleurs , Fountzilas_et_al.  ont étudié la fonction cardiaque chez des femmes ayant reçu une chimiothérapie adjuvante comportant six cycles de FNC ( 5-fluoro-uracile et cyclophosphamide , 500 mg / m2 , mitoxantrone 10 mg / m2 , toutes les 3 semaines ) .
+Les auteurs ont conclu qu' aux doses rapportées , ce traitement adjuvant n' était pas cardiotoxique chez les malades atteintes d' un cancer du sein de stade II .
+Surtout , la mitoxantrone offre l' avantage considérable , dans la perspective d' une administration simultanée à la radiothérapie , de ne pas produire de radicaux libres .
+Certains travaux expérimentaux ont même démontré que la mitoxantrone inhibait la formation de radicaux libres produits par la doxorubicine [ 23 and 30 ] .
+En situation adjuvante et comparativement à la doxorubicine seule l' épirubicine a été avec des résultats équivalents en termes d' efficacité .
+En revanche , aucune étude n' a testé l' efficacité de la mitoxantrone comparativement à la doxorubicine ou à l' épirubicine en situation adjuvante .
+4.1.3.2. Études de phase II de chimioradiothérapie concomitante avec la mitoxantrone
+Hoogenraad et al. ont montré la meilleure tolérance cutanée immédiate et tardive du protocole FNC ( N : 20 mg dose totale ) par rapport au protocole FEC ou au protocole EC ( E : 60 - 80 mg / m2 ) chez 108 malades traitées par l' association concomitante de chimiothérapie et de radiothérapie ( 42 à 60 Gy en 21 à 30 fractions et 4 à 8 semaines , avec interruption aux j1 et j2 des cycles de chimiothérapie )  .
+Serin et al. ont délivré , entre 1990 et 1994 , à 154 patientes une radiochimiothérapie concomitante adjuvante associant la mitoxantrone ( 12 mg / m2 ) , le 5-fluoro-uracile ( 500 mg / m2 ) , le cyclophosphamide ( 500 mg / m2 ) et une radiothérapie de 50 Gy .
+L' intensité de dose a été de 84 % pour la mitoxantrone , de 88 % pour le cyclophosphamide et de 90 % pour le 5-fluoro-uracile .
+Chez 76 % des patientes , la chimiothérapie a pu être administrée dans les délais prévus ( plus_ou_moins 7 jours ) .
+Les taux de toxicité cutanée et hématologique de grade 3 ou 4 , selon l' OMS , ont été respectivement de 4,5 et de 12 % .
+Aucune toxicité pulmonaire sévère n' a été observée .
+Un seul cas de toxicité cardiaque de grade 3 a été rapporté .
+Seule la toxicité digestive à type de dysphagie par oesophagite semblait plus importante avec un traitement simultané ( 28 % ) .
+Cet effet secondaire était très directement lié à la technique d' irradiation de la chaîne mammaire interne  .
+Au centre hospitalier universitaire de Tours , une étude similaire a été menée  et a confirmé la faisabilité de l' association simultanée de la même chimiothérapie ( aux mêmes doses ) et de la radiothérapie .
+Une toxicité cutanée ou digestive de grades 1 et 2 a été observée chez 50 % des malades .
+Les effets secondaires principaux ont été la neutropénie ( de grade 2 ou 3 ) , chez 28 % des malades , et une infection sévère .
+Le taux de survie actuarielle à trois ans était de 87 % .
+Aucune rechute locale n' a été rapportée .
+Un taux d' incidence un_peu plus élevé des dysphagies a aussi été retrouvé ( 12 % ) .
+Trois études randomisées ont été menées en France : une étude du centre René-Huguenin de Saint-Cloud ( J. Rouessé ) , a comparé après la chirurgie une chimiothérapie adjuvante avec quatre cures de FEC puis la radiothérapie locorégionale à une radiothérapie et une chimiothérapie concomitante par quatre cycles de FNC .
+Cette étude est maintenant close depuis plus de deux ans .
+Les résultats n' ont pas été encore rapportés .
+Une deuxième étude est en cours sous l' égide des hospices civils de Lyon ( G Freyer ) et compare six cures FEC suivis de radiothérapie à quatre cures d' épirubicine et de navelbine suivie de radiothérapie avec trois injections de mitoxantrone concomitantes .
+La troisième étude , intitulée Arcosein a été achevée dans sa phase d' inclusion en mai 2000 et est présentée en détail ci dessous .
+4.1.3.3. Étude Arcosein
+Les données des études de phase II ont permis la mise en place d' une étude de phase III chez des patientes atteintes d' un cancer du sein traité par chirurgie conservatrice d'_emblée comparant le traitement adjuvant par une association concomitante de chimiothérapie de type FNC ( 5-fluoro-uracile 500 mg / m2 , mitoxantrone 12 mg / m2 et cyclophosphamide 500 mg / m2 ) et de radiothérapie au même traitement administré de façon séquentielle .
+La chimiothérapie a comporté six cycles du protocole FNC , administrés tous les 21 jours , et était identique entre les deux bras .
+La radiothérapie a délivré 50 Gy avec un fractionnement classique dans la totalité du sein , avec un complément de 10 à 20 Gy dans la zone d' exérèse tumorale en fonction des facteurs de risque de récidive locale .
+Dans le bras témoin , la radiothérapie était administrée après les six cycles de chimiothérapie .
+Dans le bras expérimental , elle était délivrée de façon simultanée à l' administration des trois premiers cycles de chimiothérapie .
+L' objectif principal était la comparaison des taux de survie sans récidive .
+Les objectifs secondaires étaient l' évaluation de la toxicité immédiate et tardive et du résultat esthétique .
+Pour mettre en évidence une différence de 10 % de taux de survie sans récidive , 715 patientes ont été incluses .
+L' étude a été ouverte en mars 1996 et a été fermée à la randomisation en mai 2000 .
+Une première évaluation de la toxicité et de l' observance avait été faite après inclusion de 200 patientes  et n' avait pas révélé de différence majeure entre les deux bras .
+4.1.3.3.1. Résultats préliminaires
+Une analyse comparative de la toxicité aiguë , de l' observance du traitement et des résultats carcinologiques préliminaires a été faite sur un effectif de 647 patientes .
+Les Tableau 3 and Tableau 4 résument les caractéristiques de ces patientes .
+Les deux bras de l' étude sont équilibrés en ce qui concerne les caractéristiques des patientes , les traitements chirurgicaux et les paramètres histologiques .
+Tableau 3. Étude Arcosein .
+Principales caractéristiques des patientes
+Full-size table ( 5K )
+A , traitement séquentiel , B , traitement concomitant ; NS , différence statistiquement non significative
+View Within Article
+Tableau 4. Étude Arcosein : chirurgie et caractéristiques histologiques
+Full-size table ( 8K )
+A , traitement séquentiel ; B , traitement concomitant ; NS , différence statistiquement non significative
+View Within Article
+Mise en route du traitement .
+Le délai moyen de mise en oeuvre de la chimiothérapie a été de 29,9 jours ( avec des extrêmes de 10 à 69 jours ) .
+Il a été de 28,6 jours en cas de traitement séquentiel et de 31,1 jours pour les traitements concomitants ( p = 0,01 ) .
+Ce délai plus important à débuter le traitement est d à des problèmes d' organisation pratique des unités assurant la prise en charge des patients résultant des difficultés de gestion des rendez vous pour les deux thérapeutiques .
+Le délai moyen de mise en oeuvre de la radiothérapie a été de 91,4 jours ( 19 à 223 ) .
+Il a été de 163 jours dans le bras A et de 35,3 jours dans le bras B ( p 0,0001 ) , ce qui était attendu puisqu' il s' agit bien sr de la question posée dans cette étude .
+Nombre de cycles de chimiothérapie effectués .
+Quatre-vingt-treize pour cent des patients ont reçu les six cycles prévus par le protocole dans le bras A , contre 88 % dans le bras B ( p = 0,36 ) .
+Étalement .
+Chez les patientes ayant reçu six cycles , l' étalement moyen a été de 15,8 semaines dans le bras A et de 16,4 semaines dans le bras B , avec une tendance à l' allongement de la durée du traitement en situation concomitante ( p = 0,059 ) .
+Le retard relatif par_rapport_à la durée théorique a été de 6,6 % dans le bras A et de 8,2 % dans le bras B ( p = 0,003 ) .
+L' intensité de dose relative a été correcte , mais toujours significativement moins bonne dans le bras B et ceci pour chacune des trois drogues .
+Tableau 5. Étude Arcosein : intensité de dose relative
+Full-size table ( 3K )
+A , traitement séquentiel ; B , traitement concomitant ; NS , différence statistiquement non significative
+View Within Article
+Observance de la radiothérapie .
+La durée du traitement pour délivrer la dose de base à l' ensemble du sein de 50 Gy a été de 37,5 jours dans le bras A et de 37,8 jours dans le bras B.
+Une interruption de la radiothérapie a été nécessaire chez 99 patientes ( quel que soit le motif de cette interruption ) .
+Ceci a été le cas chez 48 patientes dans le bras A ( 18 % ) et chez 51 patientes dans le bras B ( 18 % ) .
+La durée moyenne de cette interruption a été de 6,8 jours dans le bras A et 5,8 jours dans le bras B. Les doses totales délivrées dans les différents volumes ont été comparables .
+Tableau 6. Étude Arcosein : observance de la radiothérapie
+Full-size table ( 4K )
+A , traitement séquentiel ; B , traitement concomitant ; NS , différence statistiquement non significative
+View Within Article
+Toxicité aiguë .
+Le nombre des événements iatrogéniques aigus , quel qu' en soit le grade , survenus pendant le traitement est rapporté dans le Tableau 7.
+Tableau 7. Étude Arcosein : toxicité aiguë ( nombre d' événements )
+Full-size table ( 6K )
+A , traitement séquentiel ; B , traitement concomitant ; NS , différence statistiquement non significative
+View Within Article
+4.1.3.3.2. Résultats carcinologiques
+Avec un recul moyen de 36 mois , 25 récidives locorégionales ont été observées ( 14 dans le bras A et 11 dans le bras B ) .
+La répartition et le type de récidive sont résumés dans le Tableau 8. Vingt-quatre patientes ont eu des métastases à distance dans le bras A ( 7,7 % ) et 32 dans le bras B ( 9,9 % ) .
+Sept patientes ont eu un second cancer , cinq dans le bras A et deux dans le bras B. Dans deux cas , il s' agissait de leucémies induites par la chimiothérapie ( un cas dans chaque bras ) .
+La probabilité de survie globale à 36 mois était de 93,9 % pour les patientes du bras A et de 94,1 % pour les patientes du bras B. Aucune différence statistiquement significative n' a été observée entre les deux bras .
+Seul le taux de contrôle locorégional était significativement meilleur chez les patientes ayant un envahissement axillaire et traitées de façon concomitante ( Fig. 1 ) .
+Ces résultats demandent à être confirmés par une analyse ultérieure faite avec un recul plus long .
+Tableau 8. Étude Arcosein : récidives locorégionales
+Full-size table ( 5K )
+View Within Article
+Full-size image ( 13K )
+Fig. 1. Probabilité de survie sans récidive locorégionale des patientes incluses dans l' étude Arcosein .
+Le bras A correspondait au traitement séquentiel .
+Le bras B au traitement concomitant .
+Lorsqu' il existait un envahissement axillaire ( groupe pN1 ) il y avait une forte tendance ( p = 0,053 ) à_ce_que la probabilité de contrôle locorégional de la maladie soit plus élevée lorsque la radiothérapie et la chimiothérapie étaient administrées de façon concomitante .
+View Within Article
+5. Conclusions
+L' administration concomitante de la radiothérapie et de la chimiothérapie après chirurgie pour cancer du sein est une technique séduisante pour ne pas retarder la mise en route de la radiothérapie .
+Malheureusement , cette option n' est envisageable qu' avec des drogues très sélectionnées .
+Les traitements concomitants ne sont pas actuellement réalisables avec les protocoles de chimiothérapie considérés comme les standards de traitement ( FAC , FEC ou AC ) .
+D' autres travaux sont nécessaires pour évaluer ces stratégies , notamment en association avec les taxanes , qui pourraient être incluses prochainement dans les chimiothérapies adjuvantes « standard » .
+La recommandation actuelle reste toujours de pratiquer les traitements adjuvants sur un mode séquentiel en administrant en_premier_lieu la chimiothérapie

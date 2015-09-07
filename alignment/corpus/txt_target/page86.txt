@@ -1,0 +1,204 @@
+Numerous epidemiological , biological and clinical studies indicate a strong correlation between dietary factors and prevention of human cancers  .
+Therefore , chemoprevention of cancers by nutraceuticals and phytochemicals has become a flourishing field of research over the past decade  .
+Ginger rhizome ( Zingiber officinale ) , commonly known as ginger , is utilized worldwide as a spice and a flavoring agent .
+It has a long history of both culinary and medicinal use  .
+Ginger contains pungent phenolic substances collectively known as gingerols.  -Gingerol ( 1, [ 4-hydroxy-3-methyoxyphenyl-5-hydroxy ] -3-decanone ) , one of the major pungent elements of ginger , has been found to exhibit antioxidant activity as determined by inhibition of phospholipid peroxidation induced by the FeCl3-ascorbate system  and confirmed in many in vitro and in vivo system  .
+Gingerol has also been found to inhibit platelet aggregation and formation of prostaglandin and leukotriene  .
+Ginger oil at a single oral dose of 33 mg / kg significantly suppressed severe chronic adjuvant arthritis in rats  .
+Ginger consumption ameliorated the pain and symptoms of rheumatic disorders  and lowered the platelet thromboxane production in humans  .
+Recently , the cancer chemopreventive potential of ginger has been determined by the inhibition of phobol ester-induced inhibition of Epstein - Barr virus activation I Raji cells  and suppression of azoxymethane-induced intestinal carcinogenesis in rats and mouse skin tumor  .
+Also , gingerol has been shown to exhibit anticancer activities through the induction of apoptosis  .
+Cancer metastasis consists of a complex cascade of events , which ultimately allow for tumor cell escape and seeding of ectopic environments  .
+For breast cancer cells to manifest their malignant potential , they must develop the ability to break through and dissolve extracellular matrix ( ECM ) , particularly the delimitating basement membrane ( BM ) .
+The degradation of the pericellular BM and ECM is catalyzed by the concerted action of several classes of ECM-degrading enzymes .
+One important class of ECM-degrading enzymes includes the matrix metalloproteinases ( MMPs )  .
+MMPs have been implicated as possible mediators of invasion and metastasis in some cancers .
+Kim_et_al.  recently showed that  -gingerol inhibited the formation of lung metastases of B16F10 melanoma in an experimental mouse model .
+However , there is limited knowledge regarding the effect of  -gingerol in terms of metastasis and MMPs , by which it may exert its antitumor effects .
+In this study , we investigated the effect of  -gingerol on tumor metastasis .
+Thus far , no studies have been undertaken to assess the effect of ginger on metastasis in breast cancer .
+Therefore , we examined the effect of  -gingerol against MDA-MB-231 human breast cancer cells .
+2. Materials and methods2.1 .
+Materials and reagents .
+ -Gingerol was purchased from Biomol ( USA ) and was dissolved in ethanol and diluted in cell culture medium .
+MDA-MB-231 cells were purchased from American Type Culture Collection ( Rockville , MD , USA ) .
+The following reagents and chemicals were obtained from the respective suppliers : Dulbecco 's modified Eagle 's medium / Nutrient Mixture Ham 's F12 ( DMEM / F12 ) , streptomycin and penicillin ( Gibco / BRL ) ; RIA-grade bovine serum albumin ( BSA ) and transferrin ( Sigma , St. Louis , MO , USA ) ;antibodies for MMPs were purchased from Santa Cruz Biotechnology , Inc. ( Santa Cruz , CA , USA ) .
+All other reagents were obtained from Sigma .
+2.2. Cell culture .
+The MDA-MB-231 human breast cancer cell line was maintained in DMEM / F12 containing 100 ml / L of fetal bovine serum ( FBS ) with 100,000 U / L of penicillin and 100 mg / L of streptomycin .
+To examine the effect of  -gingerol , cells were plated with DMEM / F12 containing 10% FBS .
+Before MDA-MB-231 human breast cancer cells were treated with  -gingerol , the cell monolayers were rinsed and starved of serum for 24 h , with DMEM / F12 supplemented with 5 mg / L transferrin , 1 g / L BSA and 5 g / L selenium ( serum-free medium , SFM ) .
+After serum starvation , fresh SFM with or without the indicated concentrations of  -gingerol was replaced .
+Viable cell numbers were estimated 24 , 48 and 72 h after the cells were exposed to  -gingerol using the 3- [ 4,5-dimethylthiazol-2-yl ] -2,5-diphenyltetrazolium bromide ( MTT ) assay , as described previously  .
+In brief , the MTT solution ( 0.5 mg / ml ) was added to the cells and incubated at 37C to allow cleavage of the tetrazolium ring by mitochondrial dehydrogenases and formation of blue formazan crystal .
+After 3 h , the residual MTT was carefully removed and crystals were dissolved with isopropanol .
+The absorbance at 470 nm was measured by spectrophotometry .
+2.3. Adhesion assay .
+Ninety-six-well plates were coated with fibronectin ( BD , Bioscience , Massachusetts , USA , 20 g / 1 ml PBS ) and incubated for 1 h at 37C with 5% CO2 .
+Coated wells were washed twice with PBS and incubated for 1 h with SFM .
+The wells were rewashed with PBS and dried on a clean bench , then MDA-MB-231 cells ( 8105 cells / well ) suspended in the medium containing 0 , 2.5 , 5 and 10 M  -gingerol were seeded into coated wells and incubated for 1 h at 37C .
+Adherent cells were washed three times with PBS and reincubated in a medium containing 1 mg / ml MTT for 3 h at 37C , and the absorbance was measured at 490 nm using a microplate reader ( Molecular Devices , Sunnyvale , CA , USA ) .
+Experiments were performed independently three times .
+2.4. Matrigel invasion assay .
+Wells of a matrigel chamber ( BD , Bioscience ) were filled with SFM and adapted at room temperature .
+MDA-MB-231 cells ( 1106 cells / ml ) resuspended in the medium containing 0 , 2.5 , 5 and 10 M  -gingerol were carefully transferred into the upper chambers .
+Lower chambers were filled with 10% FBS medium to attract cells .
+Matrigel chambers were incubated for 12 h at 37C with 5% CO2 .
+Then , the cells on the upper surfaces of the filters were removed by wiping with a paper .
+Filters were stained with Diff-Quik stain solution ( Dade Behring , Newark , NJ , USA ) , and the cells on the lower surface of the filter were fixed onto a glass slide .
+Cells in five randomly selected microscopic fields ( 400 ) of the lower slide were counted .
+Experiments were performed independently three times .
+2.5. Wound healing migration assay .
+Wound-healing migration assay is based on the repopulation of wounded cultures .
+The cells were seeded into 12 well culture plates at 5105 cells / ml and cultured in medium containing 10% FBS to near confluence of the cell monolayer .
+Confluent cell monolayers were incubated for 1 h with 1 g / ml mytomicin C to stop cell proliferation .
+The monolayers were carefully wounded using a yellow pipette tip , and any cellular debris present was removed by washing with PBS .
+The wounded monolayers were then incubated for 48 h in SFM containing 0 , 2.5 , 5 and 10 M  -gingerol .
+Photographs of the exact wound areas taken initially were again taken after 12 , 24 and 48 h .
+2.6. Boyden chamber motility assay .
+PVPF filters ( 8 m diameter pore size ) were coated with 0.01% gelatin solution for 16 h at room temperature .
+The lower chamber was filled with 10% FBS medium to attract cells .
+MDA-MB-231 cells ( 2106 cells / ml ) resuspended in the medium containing 0 , 2.5 , 5 and 10 M  -gingerol were carefully transferred into the upper chambers .
+The lower chamber was filled with 10% FBS medium to attract cells .
+The Boyden chamber was incubated at 37C with 5% CO2 for 22 h .
+After gentle removal of the filter from the chamber , the cells on the upper side of the filter were removed by wiping with a paper .
+The filter was stained with Diff-Quik stain solution ( Dade Behring ) , and the cells on the lower surface of the filter , which penetrated the pore of gelatin-coated filter , were fixed onto a glass slide .
+Cells in five randomly selected microscopic fields ( 400 ) of the lower slide were counted .
+Experiments were performed independently three times .
+2.7. Matrix metalloproteinase activity ( gelatin zymography )
+Cells were seeded into a six-well plate at 1103 cells / ml and incubated in a medium containing 10% FBS for 48 h .
+Supernatants were collected and concentrated using Centricon , and MMP activity of the supernatant was investigated using gelatin zymography .
+The supernatant was mixed with 2 sample buffer ( Invitrogen ) , and Zymography was performed using gels ( 10% polyacrylamide , 1% gelatin ) .
+MMP activities were visualized by staining with Coomassie blue .
+2.8. Matrix metalloproteinase amount assay .
+Cells were seeded into a six-well plate at 1103 cells / ml and were incubated in medium containing 10% FBS for 48 h .
+Supernatants were collected and concentrated using Centricon .
+Next , 96 well plates were coated with a 200 l coating buffer solution ( 1.59 mg Na2CO2 , 2.93 mg NaHCO3 / 1 ml DDW , pH 9.6 ) at 37C for 1 h .
+Coated wells were incubated with diluted primary monoclonal antibody ( 1:200 ) .
+Prepared supernatant was then added into wells , which were incubated at room temperature for 48 h .
+Wells were washed twice with 0.02 M PBS ( pH 7.4 ) containing 0.15 M NaCl and were blocked with 1% BSA solution for 3 h and then washed .
+Wells were incubated with secondary mouse antibody ( 1:1000 ) for 2 h at 37C and then washed .
+TBM substrate solution ( TBM 1 tablet / DMSO 100 ml ) was added into wells , and wells were incubated overnight in the dark .
+The reaction was stopped by the addition of 1 M H2SO4 .
+The absorbance was measured at 450 nm in a microplate reader ( Molecular Devices ) .
+2.9. Reverse transcriptase polymerase chain reaction .
+Total RNA was isolated using Tri-reagent ( Sigma ) , and cDNA was synthesized using 2 g of total RNA with SuperScript II reverse transcriptase ( Invitrogen ) .
+For amplification of cDNA , primers for MMP-2 ( upstream primer , 5-CAGGCTCTTCTCCTTTCSCAAC-3 ; downstream primer , 5-AAGCCACGGCTTGGTTTTCCTC-3 ) and primers for MMP-9 ( upstream primer , 5-TGGGCTACGTGACCTATGACCAT-3 ; downstream primer , 5-GCCCAGCCCACCTCCACTCCTC-3 , annealing at 55C for 1 min with 35 cycles ) were used .
+The expression of human -actin transcripts was examined as an internal control , as described previously  .
+The PCR products were separated on a 1% agarose gel and stained with ethidium bromide .
+Bands corresponding to each specific PCR product were quantified by densitometric scanning of the exposed film using the Bio-profile Bio-IL application ( Vilber-Lourmat ) .
+2.10. Statistical analysis .
+Statistical analysis was performed using the Statistical Analysis System software ( SAS Institute , Cary , NC , USA ) .
+Data were expressed as means with standard deviations and analyzed via analysis of variance ( ANOVA ) .
+Statistically significant differences among the means of the groups were tested at =.05 using Duncan 's multiple range test .
+3. Results3.1 .
+Effects of  -gingerol on growth and adhesion .
+The viable MDA-MB-231 cell numbers did not differ with  -gingerol treatment from 0 to 10 M within 24 h .
+To elucidate the effects of  -gingerol on metastasis , we first examined the effects of  -gingerol on cell adhesion. Fig. 2 shows the effect of  -gingerol on the cell adhesion of MDA-MB-231 cells.  -Gingerol had no effect on cell adhesion at 5 M , but resulted in a 16% reduction at 10 M compared to that at 0 M. .
+Full-size image ( 32K )
+Fig. 1. Effect of  -gingerol on cell proliferation in MDA-MB-231 cells .
+MDA-MB-231 cells were plated at a density of 2.5104 cells / ml in a 24 well plate with DMEM / F12 supplemented with 10% FBS for 48 h .
+The monolayers were serum starved with DMEM / F12 supplemented with 5 g / ml transferrin , 5 ng / ml selenium and 1 mg / ml bovine serum albumin for 24 h .
+After serum starvation , the monolayers were incubated in serum-free medium with 0 , 2.5 , 5 , 10 M  -gingerol .
+Viable cell numbers were estimated by the MTT assay .
+Each bar represents the meanS.D. calculated from three independent experiments .
+View Within Article .
+Full-size image ( 17K )
+Fig. 2. Effect of  -gingerol on adhesion in MDA-MB-231 cells .
+After 8105 cells / ml suspended in DMEM / F12 containing 0 , 2.5 , 5 , 10 M  -gingerol had been plated in each well of 96 well fibronectin-coated plates for 1 h , the medium was gently removed , and attached cells were assayed using MTT assay .
+Each bar represents the meanS.D. calculated from three independent experiments .
+Comparisons among different concentrations of the  -gingerol that yielded statistically significant difference ( P.05 ) are indicated by different letters above each bar .
+View Within Article .
+3.2. Effects of  -gingerol on invasion and motility .
+The invasion and motility of the MDA-MB-231 human breast carcinoma cell line were examined.  -Gingerol showed a dose-dependent inhibitory effect on cell invasion through the Matrigel chamber .
+Cell migration ( motility ) is a critical process of invasion allowing primary tumors to metastasize .
+The treatment of MDA-MB-231 cells with increasing concentrations of  -gingerol led to a concentration-dependent decrease in wound healing cell migration and cell motility by Boyden chamber assay .
+Full-size image ( 24K )
+Fig. 3. Effects of  -gingerol on invasion in MDA-MB-231 cells .
+The cells were cultured in the presence of various concentrations of  -gingerol for 12 h within a Matrigel invasion chamber .
+Microphotographs of filters ( A ) and quantitative analysis of the Matrigel chamber invasion assay ( B ) are shown .
+Invasion was expressed as a percentage of control ( 0 M ) .
+Each bar represents the meanS.D. calculated from three independent experiments .
+Comparisons among different concentrations of the  -gingerol that yielded statistically significant difference ( P.05 ) are indicated by different letters above each bar .
+View Within Article .
+Full-size image ( 21K )
+Fig. 4. Effects of  -gingerol on migration in MDA-MB-231 cells .
+The cells were plated in a 12 well plate at a density of 0.5105 cells / well with DMEM / F12 supplemented with 10% FBS .
+Confluent monolayers were wounded and then incubated in serum-free medium in the presence of 0 , 2.5 , 5 , 10 M  -gingerol .
+At 0 , 12 , 24 and 48 h after wounding , the cells were photographed under a phase contrast microscope .
+View Within Article .
+Full-size image ( 22K )
+Fig. 5. Effects of  -gingerol on cell motility in MDA-MB-231 cells .
+The cells were cultured in the presence of various concentrations of  -gingerol for 22 h within a Boyden chamber .
+Microphotographs of filters ( A ) and quantitative analysis of the Boyden chamber assay ( B ) are shown .
+Motility was expressed as a percentage of control ( 0 M ) .
+Each bar represents the meanS.D. calculated from three independent experiments .
+View Within Article .
+3.3. Effects of  -gingerol on activities , amount and mRNA expression of MMPs .
+Invasion of BMs is principally mediated by the gelatinase matrix metalloproteases , MMP-2 and MMP-9 .
+To determine whether  -gingerol affects the MMP-2 and MMP-9 , their activities , amounts and mRNA expressions were tested. Fig. 6 shows that the activity of MMP-2 or MMP-9 in MDA-MB-231 cells was decreased by  -gingerol in a dose-dependent manner .
+The amount of MMP-2 protein in culture supernatants was detected to decrease in a dose-dependent manner as a result of MDA-MB-231 cell culture with various concentrations of  -gingerol .
+Reverse transcriptase polymerase chain reaction ( RT-PCR ) analysis of MDA-MB-231 cell mRNA suggested that the expression of MMP-2 and MMP-9 was decreased in these cells upon treatment with  -gingerol .
+Although there was no change in the MMP-9 protein levels , the mRNA expression for MMP-9 was decreased by  -gingerol treatment .
+Full-size image ( 31K )
+Fig. 6. Effect of  -gingerol on MMP-2 and MMP-9 activity in MDA-MB-231 cells .
+MDA-MB-231 cells were plated in six-well plates at a density of 1103 cells / well with DMEM / F12 supplemented with 10% FBS for 48 h ; the monolayers were incubated in serum-free medium in the absence or presence of 0 , 2.5 , 5 , 10 M  -gingerol for 22 h .
+Medium was collected , and the activities of MMP-2 ( A ) and MMP-9 ( B ) were measured by zymography. ( a ) Photograph of the MMP bands , which is representative of three independent experiments , is shown. ( b ) Quantitative analysis of the bands .
+Each bar represents the meanS.D. calculated from three independent experiments .
+Comparisons among different concentrations of the  -gingerol that yielded statistically significant difference ( P.05 ) are indicated by different letters above each bar .
+View Within Article .
+Full-size image ( 38K )
+Fig. 7. Effect of  -gingerol on MMP-2 and MMP-9 amount in MDA-MB-231 cells .
+MDA-MB-231 cells were plated in six-well plates at a density of 1106 cells / well with DMEM / F12 supplemented with 10% FBS for 48 h .
+The monolayers were incubated in serum-free medium in the absence or presence of 0 , 2.5 , 5 , 10 M  -gingerol for 22 h .
+Medium was collected and the protein amount of MMP-2 ( A ) and MMP-9 ( B ) was estimated by ELISA .
+Each bar represents the meanS.D. calculated from three independent experiments .
+Comparisons among different concentrations of the  -gingerol that yielded statistically significant difference ( P.05 ) are indicated by different letters above each bar .
+View Within Article .
+Full-size image ( 40K )
+Fig. 8. Effect of  -gingerol on MMP-2 and MMP-9 mRNA expression in MDA-MB-231 cells .
+For RT-PCR , MDA-MB-231 cells were treated with  -gingerol .
+Total RNA was isolated and RT-PCR was performed to investigate the mRNA expression of MMP-2 ( A ) and MMP-9 ( B ) . ( a ) Photographs of ethidium bromide-stained gel , which were representative of three independent experiments , are shown. ( b ) Quantitative analysis of RT-PCR .
+Relative abundance of each band was estimated by densitometric analysis .
+Each bar represents the meanS.D. calculated from three independent experiments .
+Comparisons among different concentrations of the  -gingerol that yielded statistically significant difference ( P.05 ) are indicated by different letters above each bar .
+View Within Article .
+4. Discussion .
+This investigation attempted to address the role of  -gingerol on metastasis , by which it may exert its antitumor effects .
+Metastasis is a complex multi-step process involving cell adhesion , invasion and motility .
+Hence , interruption of one or more of these steps is one approach for anti-metastatic therapy .
+To date , there is no direct evidence to show that  -gingerol exerts such an effect on the development of breast cancer metastasis .
+The present study is the first to demonstrate that  -gingerol can significantly inhibit the metastatic process of MDA-MB-231 human breast cancer cells .
+The initial invasive action of metastatic cells involves interaction of tumor cells with the ECM , through the process of cell matrix adhesion .
+Once malignant cells have detached from the primary tumor , they bombard the surrounding BMs and adhere to its meshwork of Type IV collagen , laminin and fibronectin  .
+As shown in Fig. 2 of this manuscript ,  -gingerol inhibits attachment to the fibronectin , which is one of the major components of BM , dose dependently .
+The process of tumor cell invasion and metastasis requires the degradation of connective tissue associated with vascular BMs and interstitial connective tissue  .
+The BM is the largest barrier between a free malignant cell and the bloodstream , and it must be traversed before malignant cells can enter circulating blood  .
+Therefore , invasion through a BM is a critical step in metastasis  .
+Breast cancer cell invasiveness was investigated in this study using a transwell chamber system .
+To successfully penetrate the filter membrane , cells must successfully adhere , degrade and traverse the Matrigel-coated insert .
+The present study showed that  -gingerol inhibited the invasion of MDA-MB-231 breast cancer cells in a dose-dependent manner .
+However , in this study , cell proliferation was not affected by 2.5 - 10 M  -gingerol treatment until 24 h , although cell invasion was decreased during this period .
+Therefore , these data suggest that the effect on inhibition of cell invasion takes priority over the decrease in cell proliferation .
+Motility is another property of cancer cells that is needed for migration from the primary site to a secondary organ .
+Any alteration of this property would interrupt the metastatic cascade  .
+The present study showed that treatment with various concentrations of  -gingerol could reduce the motility of MDA-MB-231 cells .
+The mechanism by which  -gingerol inhibits cell adhesion , invasion and migration is not yet clear .
+Several lines of evidence strongly implicate MMPs , particularly MMP-2 , in the process of tumor cell invasion and metastasis .
+These include a positive correlation between MMP-2 expression and invasive potential , and the inhibition of metastasis formation by MMP inhibitors in vivo  .
+MMPs are a family of zinc-dependent enzymes consisting of propeptide , catalytic , hinge and COOH-terminal domains .
+All MMPs are produced in latent forms that require catalytic removal of the propeptide domain for function .
+MMP-2 and MMP-9 are unique because of the inclusion of three fibronectin Type II repeats within their catalytic domains  .
+Saad_et_al.  demonstrated that MMP-2 significantly contributes to the invasion of bone marrow fibroblasts by MDA-MB-231 cells .
+These investigators excluded the possibility that contact between breast cancer cells and bone marrow fibroblasts results in the rapid release of inactive membrane-associated MMP-2 .
+Once released , MMP-2 may associate with breast cancer cell-associated membrane Type 1 MMP / tissue inhibitor of MMP-2 complexes , facilitating the activation and subsequent invasion of normal tissue by the malignant cells .
+Because most malignant cells contain surface-associated fibronectin , this is likely to be an important mechanism for the development of metastases in many cancers .
+Somiari_et_al.  reported that plasma concentration and activity of MMP-2 were significantly lower in controls compared to those in cancer , benign and high-risk patients .
+And , MMP-9 expression has been described as a positive prognostic marker in node-negative breast cancer  .
+Here , we show that the activities of MMP-2 and MMP-9 were decreased by  -gingerol treatment and suggest that the levels of mRNA for MMP-2 and MMP-9 were decreased in MDA-MB-231 cells treated with  -gingerol .
+Additionally ,  -gingerol was found to decrease the amount of MMP-2 protein in culture supernatant as a result of treatment of MDA-MB-231 cells with  -gingerol at levels above 5 M , but the level of MMP-9 remained unchanged .
+In conclusion , we have described here for the first time that  -gingerol inhibits metastasis of the MDA-MB-231 breast cancer cell line .
+As such , we suggest that the anticancer effect of  -gingerol may contribute to the inhibition of metastasis by decreasing the activities and expressions of MMP-2 and MMP-9 .
+Ginger can be ingested in considerable amounts in the human diet ( 250 mg - 1 g / day ) .
+Considering that ginger contains 1.0 - 3.0%  -gingerol and its derivatives  , the concentration of  -gingerol used in this study ( i.e. , 10 M ) should be achieved in vivo .
+So ,  -gingerol may be useful for preventing or treating some cancer .

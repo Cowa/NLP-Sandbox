@@ -1,0 +1,167 @@
+Cardiotoxicity of various chemotherapeutic regimens is a side effect of special interest as it may be disabling or life threatening and therefore may necessitate a major modification of treatment .
+Most antineoplastic drugs demonstrating cardiac toxicity can be grouped as : i ) drugs producing decrease in myocardial contractility or relaxation ( cardiomyopathy ) , ii ) drugs causing or exacerbating ischemia , iii ) drugs affecting the cardiac conduction system  .
+Anthracyclines , such as doxorubicin and epirubicin , have been implicated as causative agents of chemotherapy induced cardiomyopathy  .
+The incorporation of anthracyclines in combination regimens has increased the response rate , remission duration and survival of patients with advanced breast cancer but their clinical value has been limited in some patients due to late onset ventricular dysfunction and subsequent congestive heart failure ( CHF )  .
+Although the majority of patients with impaired cardiac function due to anthracyclines develop clinically overt CHF within the first year after discontinuation of chemotherapy  in some patients this may take many years  .
+Among the two most commonly used anthracyclines , epirubicin is considered to be less cardiotoxic than doxorubicin  .
+The exact mechanism of epirubicin-induced cardiac damage is still unclear .
+Recent studies have shown that the combination of epirubicin and paclitaxel is a highly effective regimen , which improves the prognosis of patients with metastatic breast cancer  .
+Although paclitaxel 's cardiac effects are rare , limited mainly to disturbances of cardiac rhythm and conduction  , several studies have demonstrated that the combination of these two antineoplastic drugs increases the risk of cardiac toxicity , especially when administration of epirubicin exceeds cumulative doses of 550 mg / m2  .
+Atrial natriuretic peptide ( ANP ) and B-type natriuretic peptide ( BNP ) , are secreted by the atria and ventricles , respectively , in response to wall stress .
+Their main biological actions are : a ) natriuresis , b ) diuresis , c ) arterial vasodilation , d ) suppression of sympathetic activity and RAAS ( renin - angiotensin - aldosterone system ) and e ) inhibition of endothelin release  .
+They also demonstrate antimitogenetic and lusitropic effects  .
+ProANP ( 1 - 98 ) and ( NT ) N-terminal proBNP have been shown to be sensitive markers in predicting early cardiac dysfunction and their plasma levels are significantly elevated in patients with heart failure  .
+The early detection of cardiac dysfunction in patients receiving cardiotoxic chemotherapy is of major clinical importance .
+Evaluation of left ventricular ejection fraction ( LVEF ) by means of radionucleotide ventriculography ( MUGA scan ) , has been demonstrated to be a reliable index of left ventricular function , and electrocardiograph ( ECG ) along with clinical examination , remain so far the routine procedures for testing and monitoring cardiac function .
+The present study was undertaken in order to evaluate the cardiotoxicity of anthracyclines in combination with taxanes in breast cancer patients and to elucidate the possible role of proANP and N-terminal proBNP in the early diagnosis of clinical heart failure .
+The administered treatment included either a high risk cardiotoxic regimen containing epirubicin and paclitaxel , or a low risk cardiotoxic regimen consisted of mitoxantrone and docetaxel .
+LVEF , ECG as well as proANP ( 1 - 98 ) and NT-proBNP plasma levels were assessed in all patients , in order to evaluate cardiac function prospectively .
+2. Materials and methods2.1 .
+Study population .
+Between August 2001 and December 2002 , forty consecutive female patients , with histologically confirmed breast cancer , were enrolled in the study .
+All patients provided an informed consent .
+The study was approved by the scientific ethical committee of Metaxa Anticancer Hospital , where patients were diagnosed and managed .
+The investigation conformed to the principles outlined in the Declaration of Helsinki .
+Study eligibility criteria included : i ) ECOG ( Eastern Cooperative Oncology Group ) Performance Status 0 , 1 and 2 , ii ) LVEF values above 50% determined by MUGA scan , iii ) normal renal ( serum creatinine 1.3 mg / dL ) and normal or slightly abnormal hepatic function ( aspartate aminotransferase 80 IU / L or alanine aminotransferase 80 IU / L ) , iv ) absence of any underlying cardiac disease , such as coronary artery disease , arrhythmias , valvular disease , severe hypertension and congestive heart failure and v ) no history of any other malignant disease .
+Patients , who had received any chemotherapeutic and / or hormonal agents or local radiotherapy 6 months prior and during the study period , were excluded .
+All patients had undergone either total or partial mastectomy with axillary lymphadenectomy .
+Liver , lung , brain and lymph node metastases were diagnosed by computed tomography scan .
+Bone metastases were diagnosed by X-ray and bone scintigraphy .
+Staging was determined according to the TNM ( Tumor - Node - Metastasis ) classification .
+Detection of ER ( estrogen receptors ) , PgR ( progesterone receptors ) and HER-2 gene ( encodes the human epidermal growth factor receptor HER2 ) was done by immunohistochemistry .
+Cancer patients were divided into two nonrandomized groups , according to the administered treatment .
+Group A included patients treated with a high risk cardiotoxic regimen containing epirubicin and paclitaxel and Group B patients treated with a low risk cardiotoxic regimen containing mitoxantrone and docetaxel .
+For comparison two more groups were used as controls ; Group C , containing female patients with diagnosed heart failure and Group D which included healthy women .
+Both control groups were matched for age .
+2.2. Natriuretic peptides .
+In order to determine proANP ( 1 - 98 ) and NT-proBNP levels in Groups A and B , venous blood was drawn into sterile 10 mL EDTA containing tubes , before the onset and right after the end of chemotherapy .
+Concerning control groups C and D , only one sample of venous blood was taken .
+Samples were centrifuged at 3000 rpm for 15 min , serum was separated and stored at ( 70 C ) until the day of measurement .
+ProANP ( 1 - 98 ) and NT-proBNP levels were measured in fmol / mL , by using an enzyme immunoassay ( BIOMEDICA , Austria ) .
+2.3. Radionucleotide ventriculography .
+LVEF was determined by Radionucleotide Ventriculography by injection of Tc99-labeled autologous RBC 's .
+LVEF values lower than 50% were considered abnormal .
+An LVEF decline from baseline levels greater than 10% was considered to indicate significant cardiac toxicity .
+LVEF was determined in Group A and B patients before the onset and within one week after the end of chemotherapy .
+Control group C patients had LVEF values 15% to 30% and control group D had normal LVEF values higher than 50% .
+2.4. Cardiac evaluation and ECG .
+A standard 12 lead ECG was recorded , every three chemotherapy cycles in all patients .
+The QT time was corrected for heart rate ( QTc ) with Bazett 's formula ( QTc = QT / vRR ) .
+A QTc time more than 440 ms was considered prolonged .
+Physical examination was performed for all cancer patients , before each chemotherapy cycle and every three months after the end of treatment .
+2.5. Statistical analysis .
+Results are expressed as mean ( standard deviation ) for normally distributed continuous variables , as median ( interquartile range ) for skewed variables and as frequency ( % ) for categorical variables .
+Continuous variables were tested for normal distribution using the Kolmogorov - Smirnov test .
+Correlations were assessed by Spearman 's test .
+Differences , before and after treatment , were assessed by Wilcoxon signed-rank test .
+Comparisons between groups were studied with Student 's t test for normally distributed variables ; otherwise Kruskal - Wallis test was applied .
+Categorical data were compared by X2-test or Fisher exact test where appropriate .
+A probability value 0.05 ( 2 tailed ) was considered significant .
+All analyses were performed with the statistical software package STATA version 8.0 ( Stata Corp. ) .
+3. Results .
+A total of forty ( 40 ) cancer patients and thirty three ( 33 ) controls matched for sex and age were enrolled in the trial .
+Patient 's characteristics are listed in Table 1. The mean age of study population was 53 years ( SD = 12 ) .
+No difference was demonstrated regarding age between groups A and B ( p = 0.82 ) .
+The median follow-up period for all patients was 50 months ( range : 44 - 56 ) .
+Table 1. .
+Patients characteristics .
+Group AGroup B N%N% Total number2614 Age in year , mean ( SD ) 54 ( 10 ) 53 ( 11 ) Estrogen receptor status Positive1246.15428.57 Negative1453.841071.42 Progesterone receptor status Positive1142.31321.42 Negative1557.691178.57 HER-2 status Positive1038.46321.42 Negative1661.531178.57 .
+Full-size table .
+View Within Article .
+Group A ( n = 26 ) consisted of patients with advanced or metastatic breast cancer ( Stages IIIA , IIIB and IV ) .
+They were treated with six cycles of epirubicin 80 - 90 mg / m2 given as bolus intravenous infusion and paclitaxel 150 mg / m2 given as an intravenous 3 hourly infusion , on day one .
+The cycles were repeated every three weeks .
+None of the Group A patients had previously received any chemotherapeutic regimen containing anthracycline .
+Two ( 2 ) patients had been treated with left-sided chest wall irradiation and three ( 3 ) with right-sided chest wall irradiation at least six months prior to their enrollment in the study .
+Metastatic sites before treatment , in Group A patients were liver ( n = 7 ) , lung ( n = 4 ) , bone ( n = 2 ) , and lymph node ( n = 1 ) .
+Group B ( n = 14 ) consisted of patients with no residual disease after surgical treatment , ( Stages IIA , IIB , IIIA ) .
+They received six cycles of chemotherapy consisted of mitoxantrone 7.5 - 8.5 mg / m2 intravenously as an 1 hour infusion and docetaxel 75 - 85 mg / m2 intravenously as an 1 hour infusion , as well , on day one .
+The cycles were repeated every three weeks .
+None of Group B patients had any metastases before the onset of treatment .
+Group C ( n = 13 ) , consisted of female patients with New York Heart Association ( NYHA ) classification II - IV heart failure .
+The mean age of Group C was 50 years ( SD = 11 ) .
+Group D ( n = 20 ) consisted of healthy women with mean age 56.5 years ( SD = 16 ) .
+3.1. ProANP ( 1 - 98 ) and NT-proBNP analysis .
+In Group A plasma levels of proANP increased from 192.25 fmol / ml ( range : 147 - 243 ) to 287.84 fmol / ml ( range : 215 - 383 ) ( p = 0.0001 ) , whereas NT-proBNP increased from 152.50 ( range : 121 - 189 ) to 242 fmol / ml ( range : 191 - 335 ) ( p 0.0001 ) .
+On the contrary , in Group B values of natriuretic peptides before and after treatment were not significantly different ( p = 0.80 for proANP and p = 0.43 for NT-proBNP ) .
+Table 2. .
+Natriuretic peptides in patients and control groups .
+Group AGroup BGroup CGroup D BeforeAfterBeforeAfter ANP Median192.25287.84178.26183.50811154.50 Range147 - 243215 - 383135 - 211116 - 207318 - 3663116 - 211 BNP Median152.50242108.87113.78241138.96 Range121 - 189191 - 33535 - 25736 - 257171 - 42694 - 184 .
+Full-size table .
+View Within Article .
+Among Groups A and B no differences were recorded at the initial proANP and NT-proBNP levels , but after the completion of chemotherapy proANP and NT-proBNP levels were significantly increased in patients of Group A ( p = 0.0002 and p = 0.0087 , respectively ) .
+Between Groups B and C , proANP and NT-proBNP levels were different before ( p = 0.001 and p = 0.019 , respectively ) and after treatment ( p = 0.001 and p = 0.025 , respectively ) .
+Between Groups A and C , proANP and NT-proBNP levels were different before treatment ( p = 0.001 and p = 0.002 , respectively ) but after chemotherapy difference was limited only to proANP ( p = 0.008 ) .
+Levels of NT-proBNP after the end of chemotherapy were not significantly different between patients of Group A and control group of heart failure ( p = 0.743 ) .
+Full-size image ( 9K )
+Fig. 1. Comparison of proANP values after treatment between Groups A ( 1 ) and B ( 2 ) .
+View Within Article .
+Full-size image ( 10K )
+Fig. 2. Comparison of NT-proBNP values after treatment between Groups A ( 1 ) and B ( 2 ) .
+View Within Article .
+No statistically significant difference was demonstrated regarding the levels of natriuretic peptides before treatment between cancer patients and healthy controls ( Group D ) , but after the completion of therapy proANP and NT-proBNP were significantly elevated in Group A compared with Group D ( p = 0.0001 and p = 0.0002 , respectively ) .
+None of the factors that were studied ( grade , ER , PgR , HER-2 , metastases , age ) , was found to be significantly related to proANP and NT-proBNP .
+3.2. LVEF analysis .
+A statistically significant decrease in LVEF was observed after treatment with high risk cardiotoxic regimen ( p = 0.0001 , Fig. 3 ) .
+Regarding low risk cardiotoxic regimen no difference was demonstrated concerning LVEF changes before and after treatment ( p = 0.08 ) .
+Full-size image ( 16K )
+Fig. 3. Comparison of LVEF before and after treatment in Group A. .
+View Within Article .
+In Group A , three patients ( 11,5% ) had a significant LVEF decline between 10% and 18% from baseline values ( 65 to 47% , 70 to 60% and 70 to 59% respectively ) , while two more and one common with the above three ( 11.5% ) reached an LVEF value below 50% ( 65 to 47% , 50 to 45% and 50 to 43% respectively ) .
+All of the above five patients presented an increase in proANP and NT-proBNP values ( mean increase 270.31 124 fmol / ml and 303.57 108 fmol / ml , respectively ) .
+There was a significant correlation between the increase in plasma proANP and the decrease in LVEF ( r = 0.8 , p 0.0001 ) , and between the increase in NT-proBNP and the decrease in LVEF ( r = 0.7 , p 0.0001 ) .
+Conversely , in Group B no correlation between proANP , NT-proBNP alterations and LVEF values was found ( p = 0.46 and p = 0.82 , respectively ) .
+3.3. ECG analysis .
+There were no significant ECG changes in any of the patients in both groups during the study period .
+Concerning determination of QTc time , no significant prolongation was found .
+3.4. Follow up .
+Concerning Group A ( n = 26 ) : twelve ( 12 ) patients ( 46.1% ) died due to progressive metastatic disease .
+Two ( 2 ) of them ( 16.6% ) developed symptoms of congestive heart failure ( dyspnoea , peripheral oedema ) , and had to be admitted to the hospital for five ( 5 ) and seven ( 7 ) days , twelve ( 12 ) and fourteen ( 14 ) months after the completion of chemotherapy , respectively .
+A significant LVEF decline was demonstrated after chemotherapy in both cases with an 18% ( 65 to 47% ) drop in the former patient and an 11% ( 70 to 59% ) drop in the latter .
+During hospitalization echocardiographic study showed a further decrease in LVEF with 40% in the first patient and 45% in the second .
+Regarding natriuretic peptide levels proANP increased from 134.5 before chemotherapy to 460.7 fmol / ml after chemotherapy concerning the former patient and 143.5 to 383.45 fmol / ml for the latter one , whereas NT-proBNP levels increased from 152 to 492 fmol / ml and 153 to 571 fmol / ml , respectively .
+Eight ( 8 ) patients ( 30.7% ) are still being treated with second and third line chemotherapeutic regimens .
+Four ( 4 ) patients ( 15.3% ) remain free of disease since the completion of chemotherapy .
+None of the above patients developed symptoms of congestive heart failure .Two ( 2 ) patients were lost from follow up .
+Regarding Group B patients ( n = 14 ) , none of them has died of disease progression .
+Four ( 4 ) patients relapsed and subsequently received second line chemotherapy .
+There was no evidence of disease relapse in eight ( 8 ) patients whereas two ( 2 ) patients were lost from follow up .
+None developed symptoms of cardiac dysfunction .
+4. Discussion .
+The combination of anthracyclines and paclitaxel as first line treatment for metastatic breast cancer has been explored in several studies , showing high efficacy and superior level of activity , compared to anthracyclines and paclitaxel as single drugs  .
+Generally , the use of anthracyclines has been limited by the development of dose-dependent cardiomyopathy , which is among the most severe side effects associated with these drugs  .
+Anthracycline induced cardiotoxicity results in irreversible myocyte damage which is demonstrated as reduced contractility and subsequent clinical heart failure  .
+Epirubicin demonstrates less myelotoxicity and cardiotoxicity than doxorubicin allowing patients to tolerate higher doses of the anthracycline  .
+The reduced cardiotoxicity of the combination of epirubicin and paclitaxel is probably based upon their limited interaction on pharmacokinetics , as well as the lower cardiotoxic potential of epirubicin  .
+The estimated risk for epirubicin-induced CHF has been reported to be less than 1% at doses below 550 mg / m2 but it increases to 4% at 900 mg / m2 and to 15% at 1000 mg / m2  .
+However , Meinardi et al. have demonstrated that although the observed degree of subclinical cardiotoxicity with epirubicin-containing chemotherapy may be low in the short term , it probably increases in the long term , resulting in the late development of cardiac dysfunction in certain patients  .
+The combination of docetaxel and mitoxantrone has not been associated with an increased risk of cardiotoxicity and or the development of CHF even in cumulative doses of 100 mg / m2 and 22 mg / m2 , respectively  .
+The concurrent administration of these two drugs seems to be safe for patients with normal baseline cardiac function .
+Special concern is necessary for patients with prior anthracycline therapy , mediastinal irradiation or cardiovascular disease  .
+In the present study , it is clearly confirmed that the epirubicin-paclitaxel regimen represents a more cardiotoxic combination than the docetaxel-mitoxantrone one .
+Although the mean LVEF remained within normal range , a decrease from 63% to 57% was recorded immediately after chemotherapy .
+Meinardi et al. have pointed out that a reduction in LVEF of more than 10% , even if LVEF values remain within the normal limits , as well as an absolute LVEF value below 50% may be risk factors for the development of CHF in the long term  .
+Although the cumulative dose of epirubicin was 550 mg / m2 ( 480 - 540 mg / m2 ) , the observed drop in LVEF in our study indicates that even at low doses epirubicin containing regimens can cause myocardial damage , that is expressed as an impairment in systolic function .
+Although the clinical value of LVEF is referred to be limited , as its sensitivity and specificity seems to be rather low in predicting the subsequent occurrence of CHF  we have demonstrated that significant LVEF decline after chemotherapy was associated with the development of CHF in two patients few months later .
+Concerning natriuretic peptides several studies have demonstrated that ANP and BNP levels , are found elevated in patients with heart failure  .
+In cardiac impairment the proportional and absolute increment above normal levels of the proANP and NT-proBNP peptides suggest that these molecules might be more sensitive markers of early cardiac dysfunction than BNP and ANP respectively  .
+Plasma proANP and NT-proBNP levels are reported to be negatively correlated with LVEF  and the degree of increase in their concentrations correlates with the severity of heart failure  .
+Previous studies have shown that their levels become elevated before the development of CHF and even before a decline in LVEF occurs  .
+In the present study a statistically significant increase of proANP and NT-proBNP was found after chemotherapy in Group A patients treated with the high risk regimen of epirubicin - paclitaxel .
+We have also demonstrated that increases in proANP and NT-proBNP levels are strongly related to decreases in LVEF values .
+Moreover , levels of proANP and NT-proBNP were found excessively increased after chemotherapy in the two patients that developed CHF during follow up .
+Thus , proANP and NT-proBNP levels might be used as sensitive markers for the detection of either early or late-onset cardiotoxicity .
+In agreement with our findings , Meinardi et al. have reported a significant increase of proANP and NT-proBNP levels after chemotherapy with epirubicin-containing regimens  .
+Although none of the patients in his study developed overt CHF within one year of follow up , several findings of mild cardiotoxicity were detected indicating a possible risk for late-onset cardiac dysfunction .
+Late onset cardiotoxicity with the development of CHF was demonstrated in our study where the follow up period was longer .
+Bauch et al. have shown that ANP levels were significantly increased in children with cancer that received doxorubicin-based chemotherapy  .
+The most impressive increase was recorded in a group of six children , included two of them that went into CHF without a previous LVEF decline .
+Several previous studies have shown that an increase in BNP concentration seems to be more sensitive than ANP in detection of left ventricular dysfunction  .
+Cowie et al. have demonstrated that plasma BNP was 97% sensitive and 87% specific for identifying heart failure and had a positive predictive value of 70% for identifying left ventricular systolic dysfunction  .
+Our study recorded significant increases in both NT-proBNP and proANP in accordance with LVEF decline and CHF development .
+Although several studies have shown that QTc time prolongation is a sign of cardiotoxicity indicating disturbances in the repolarization of myocardium and probably predisposing patients to arrhythmias , in the present study neither QTc time prolongation nor arrhythmias was recorded  .
+In conclusion , our findings indicate that even at low cumulative doses of epirubicin , cardiac dysfunction as determined by LVEF decline , proANP and NT-proBNP increases and demonstrated clinically as CHF , presents as a serious side effect .
+ProANP and NT-proBNP levels might be used as reliable and sensitive markers in the detection of early as well as late cardiac impairment caused by epirubicin-based chemotherapy .
+The latter fact is of great importance taking into consideration the already compromised quality of life of patients with advanced metastatic disease .
+Acknowledgements .
+We would like to thank D.Degiannis MD and A.Kapsalis , Department of Immunology Onnasis Cardiac Surgery Center , for their valuable assistance regarding the enzyme immunoassays .

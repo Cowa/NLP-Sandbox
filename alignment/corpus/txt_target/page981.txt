@@ -1,0 +1,232 @@
+Translational regulation plays a key role in cancer development and progression , impacting on tumor cell proliferation and growth , response to stresses such as hypoxia , and stimulation by mitogenic signals and cell hormone receptors  .
+The ability of the translation machinery to load ribosomes onto mRNAs via the m7GTP cap is a primary point of control and stratifies mRNAs into those that are cap dependent and highly regulated , from cap-independent mRNAs that utilize an internal ribosome entry site ( IRES ) within the 5 untranslated region  , thereby bypassing translation inhibition during hypoxia  .
+Cap-dependent mRNAs acquire ribosomes and initiate translation through interaction with the cap-dependent initiation complex eIF4F , comprised of the 5 cap-binding protein eIF4E , scaffold protein eIF4G , and ATP-dependent helicase eIF4A  .
+Formation of eIF4F , its interaction with mRNAs , and its ability to facilitate translation initiation are controlled by the eIF4E sequestering proteins , of which 4E-BP1 is the major form  .
+4E-BP1 is maintained in the inactive ( hyperphosphorylated state ) by the kinase mTOR but is activated during stresses such as hypoxia when mTOR activity is reduced ( [ Connolly et al. , 2006 ] and [ Holcik and Sonenberg , 2005 ] ) .
+Hypophosphorylated ( activated ) 4E-BP1 sequesters eIF4E , thereby suppressing cap-dependent mRNA translation and promoting translation of IRES-containing mRNAs  .
+Many IRES mRNAs are thought to initiate with a subset of factors mediated by eIF4G-IRES interaction  .
+Importantly , some cellular mRNAs can utilize a dual mechanism of initiation ( cap or IRES ) ; these include those that orchestrate angiogenesis ( VEGF-A ) , hypoxia responses ( transcription factor HIF1 )  , and inhibition of apoptosis ( Bcl2 )  among others .
+Tumor progression requires the development of a tumor vasculature , which is generally induced in response to tumor hypoxia through a process known as an angiogenic switch  .
+Tumor angiogenesis is rate limiting for tumor growth and regulated at multiple levels of gene control , including mRNA translation  .
+Angiogenesis is also thought to be dynamic : as tumor volume expands , hypoxia increases and triggers additional vascularization through elevated expression of VEGF and other proangiogenic factors , partially restoring oxygen to the growing tumor edge , which is repeated as the tumor continues to grow  .
+Here we show that 4E-BP1 and eIF4G are strongly overexpressed in the majority of human large advanced tumors of the breast , known as locally advanced breast cancers ( LABC ) .
+Using breast cancer cell and tumor models , we show that , together , overexpressed 4E-BP1 and eIF4G function as a hypoxia-activated switch to facilitate cap-independent mRNA translation , promoting translation of IRES-containing mRNAs that promote tumor survival and angiogenesis .
+These data suggest that , in addition to tumor models with overexpression of eIF4E and increased cap-dependent mRNA translation , a second translational control pathway exists that stimulates cap-independent mRNA translation of select mRNAs involved in tumorigenesis .
+Results Expression Levels of Cap-Dependent Translation Initiation Factors in Breast Cancer .
+We first examined by immunohistochemistry ( IHC ) the expression levels of key factors that comprise or regulate the cap-dependent mRNA initiation complex in normal breast specimens and pretreatment tumor biopsies of invasive ductal carcinomas , the most common form of breast cancer in women .
+All antibodies used in this study were optimized for IHC , and there was no background staining if the primary antibody was omitted ( data not shown ) .
+Immunoblot analysis of equal amounts of protein extracted from normal breast epithelium and a posttreatment LABC surgical tumor specimen demonstrated strong and specific binding to respective targets . eIF4E levels were moderately elevated in 60% and strongly elevated in 20% - 25% of tumors of 1 to 5 cm in size ( T1-T2 tumors ) ( Figure 1A and Table S1 , in the Supplemental Data available with this article online ) and did not significantly increase thereafter with further increased tumor size ( 5 cm , T3 ) ( p = 0.0017 ) .
+Thus , eIF4E is moderately elevated in more than half of the smaller invasive ductal carcinomas and strongly elevated in roughly one-quarter of them .
+Surprisingly , 4E-BP1 , a negative regulator of cap-dependent mRNA translation , was markedly overexpressed in tumors 5 cm in size , increasing from 22% among small tumors to 63% in large tumors ( 5 cm , T3 , p = 0.0011 ) and 71% of LABC tumors ( p = 0.0013 ) ( Figure 1A and Table S1 ) .
+Initiation factor eIF4G was also strongly increased in LABC tumors ( 52% ) compared to small tumors ( T1 , 11% ) ( Figure 1A and Table S1 , p = 0.0023 ) .
+A future report will present clinical associations between overexpression of 4E-BP1 and eIF4G with tumor histological-grade , lymph node involvement , disease progression , and other disease parameters .
+Levels of initiation factor eIF4A were unchanged between normal and tumor breast tissues .
+We did not further pursue studies involving eIF4E because it 's increased expression was not associated with large tumor size .
+Full-size image ( 132K )
+High-quality image ( 1245K )
+Figure 1. Representative Levels of Protein Synthesis Factors in Breast Tumor Specimens Examined in This Study .
+( A ) IHC analysis of representative specimens .
+Normal breast epithelium , T1 , and T3 ( LABC ) tumors are shown .
+Data are representative of patient specimens reported in Table S1 , using three core punches per specimen .
+( B ) Immunoblot analysis demonstrating specificity of antibody binding .
+Equal protein amounts of fresh normal breast epithelial tissue and posttreatment surgical resection of a T3 tumor are shown .
+( C ) IHC of eIF4A levels .
+Representative normal breast epithelium and T3 tumor specimen are shown .
+View Within Article .
+We could not determine 4E-BP1 phosphorylation status in tumor cells by IHC due to unacceptable background staining and variability due to tissue processing differences .
+Such staining has been reported by others but generally without matching data on 4E-BP1 abundance ( [ Kremer et al. , 2006 ] , [ Zhou et al. , 2004 ] , [ Castellvi et al. , 2006 ] , [ Petricoin et al. , 2007 ] and [ Rojo et al. , 2007 ] ) .
+However , decreased mTOR Ser2448 phosphorylation ( a surrogate for loss of mTOR activity ) determined in hypoxic regions of tumors by IHC also suggests that 4E-BP1 is likely activated ( dephosphorylated ) in the hypoxic growing edge of tumors ( Kaper et al. , 2006 and data not shown ) , suggesting a dynamic role for mTOR / 4E-BP1 activity in cancer development .
+The large LABC tumor specimens studied here were highly hypoxic , as shown by increased abundance of HIF1 ( Figure S1A ) .
+Increased Expression of 4E-BP1 and eIF4G Promotes Translation of VEGF mRNA during Hypoxia .
+The human breast cancer specimens examined above suggest a significant association between overexpression of 4E-BP1 and eIF4G with large tumor size in breast cancer but cannot address a possible function .
+To determine the function of increased expression of 4E-BP1 and eIF4G in protein synthesis during hypoxia , angiogenesis , and tumor formation , a panel of transformed invasive ductal carcinoma cell lines was used .
+The lines consisted of MCF10A cells ( immortalized human breast epithelial cells ) , CRL1902 cells ( early stage-derived primary breast cancer cells ) , and BT474 cells ( late stage-derived highly transformed breast cancer cells )  .
+Immunoblot analysis of equal amounts of protein , which was the same as equal numbers of cells , demonstrated 2 fold increased levels of eIF4E and up to 3 fold higher levels of eIF4G with increasing transformation , similar to that of human tumor specimens .
+4E-BP1 levels were 3 fold lower in highly transformed BT474 cells compared to the less transformed cell lines but retained rapamycin-sensitive activation ( hypophosphorylation ) .
+There was no change in other core members of the cap-dependent initiation complex , including eIF4A and poly ( A ) binding protein ( data not shown ) , or of -tubulin protein ( shown ) .
+We therefore used these breast cancer cell lines to examine the functional importance of increased expression of 4E-BP1 in translation , angiogenesis , and tumor formation .
+Full-size image ( 141K )
+High-quality image ( 1101K )
+Figure 2. Analysis of Global Protein Synthesis and VEGF-Specific mRNA Translation with Elevated 4E-BP1 and eIF4G Levels in Increasingly Transformed Cell Lines .
+( A and B ) Immunoblot comparison of immortalized MCF10A cells , transformed CRL1902 cells , and transformed BT474 cells for expression levels of identified factors .
+Cells were treated with rapamycin at 20 g / ml for 4 hr .
+( C ) Overall protein synthesis activity with overexpression of wild-type or mutant 4E-BP1 .
+Global protein synthetic rates were determined by 35S-methionine labeling under normal or hypoxic conditions ( 0.5% O2 for 24 hr ) ( all p 0.05 , Student 's t test , two sided ) .
+( D ) Endogenous secreted VEGF protein levels under normoxic ( N ) and hypoxic ( Hx ) conditions in cell lines , determined by ELISA , normalized to equal levels of VEGF mRNA .
+( E ) VEGF mRNA levels in BT474 cells under normoxic or 24 hr hypoxic ( 0.5% O2 ) conditions. mRNA levels were determined by RT-PCR .
+Results for other cell lines were similar ( data not shown ) .
+( F ) Gene silencing of eIF4GI. eIF4G was silenced in BT474 cells with an shRNA or a nonspecific control shRNA expressing lentivirus vector to levels found in MCF10A cells .
+Levels of eIF4G and eIF4A in MCF10A and BT474 cells were determined by immunoblot .
+( G ) VEGF synthesis dependence on eIF4G .
+VEGF protein levels were determined by ELISA in BT474 cells , normalized to equal mRNA levels as shown in ( E ) .
+( H ) Overall protein synthesis levels with eIF4G reduction .
+Levels of protein synthesis were determined by 35S-methionine incorporation after eIF4G silencing under normoxic or 24 hr hypoxic conditions in vector control and 4E-BP1 overexpressing cells .
+Data in all studies were derived from at least three independent experiments .
+Standard errors of the mean were calculated from at least three independent experiments and all results achieve p 0.05 ( paired Student 's t test ) .
+View Within Article .
+BT474 , CRL1902 , and MCF10A breast cancer cells were engineered to stably overexpress by 4 fold ( similar to human LABC tumors based on IHC ; data not shown ) a wild-type HA-epitope tagged 4E-BP1 or a deletion mutant ( 4E-BP1 ) that cannot bind eIF4E .
+4E-BP1 fails to enhance cap-independent mRNA translation during hypoxia  .
+Overexpression of wild-type or mutant 4E-BP1 had little effect on overall normoxic ( 20% O2 ) protein synthesis rates in all cell lines when comparing equal protein amounts .
+In BT474 cells , which are largely resistant to moderate , but not strong ( 0.5% O2 , 24 hr ) , hypoxia downregulation of protein synthesis was rendered 40% more sensitive by overexpression of wild-type 4E-BP1 , but not by 4E-BP1 .
+However , overexpression of 4E-BP1 in hypoxic BT474 cells upregulated VEGF mRNA translation by 5 fold compared to 1.5 fold for the control , with no increase for 4E-BP1 , when normalized to equal VEGF mRNA levels .
+VEGF mRNA levels were increased 30% in BT474 cells under hypoxia regardless of wild-type or mutant 4E-BP1 protein overexpression .
+Similar VEGF mRNA results were found in CRL1902 and MCF10A cells ( data not shown ) .
+Wild-type 4E-BP1 overexpression increased VEGF-specific mRNA translation during hypoxia by 2.5 fold in CRL1902 cells and only slightly in MCF10A cells , possibly due to the lower levels of eIF4G in these less transformed cells .
+Indeed , stable reduction of BT474 eIF4G levels by gene silencing to that of immortalized MCF10A cells eliminated the strong hypoxia-induced translation of VEGF mRNA in 4E-BP1 overexpressing BT474 cells ( Figure 2G , p 0.05 ) but only reduced overall protein synthesis by 15% at normal oxygen levels. eIF4G silencing did not further impair protein synthesis during hypoxia ( 0.5% O2 , 24 hr ) , compared to control , nonsilenced cells .
+HIF1 mRNA translation during hypoxia was also more strongly stimulated by overexpression of wild-type 4E-BP1 in BT474 than MCF10A cells ( Figure S1B ) .
+Bcl2 expression was slightly ( 2- to 3 fold ) increased and was sustained in 4E-BP1 overexpressing MCF10A cells during hypoxia ( Figure S1B ) , consistent with these results .
+Elevated Levels of 4E-BP1 Comprise a Hypoxia-Activated Translation Switch .
+Increased expression of 4E-BP1 could provide a switch from cap-dependent to cap-independent ( IRES-mediated ) mRNA translation  , which is activated by hypoxia  .
+To investigate this possibility , BT474 cells overexpressing wild-type or 4E-BP1 were transfected with plasmids expressing bicistronic mRNA reporters containing a cap-dependent Renilla luciferase and a downstream Firefly luciferase , controlled by either the VEGF-A , HIF1 , or EMCV IRES or a cap-dependent 5NCR sequence described previously  .
+Translation rates during normoxia and hypoxia were determined by quantifying the levels of the two different forms of luciferase , normalized to equal mRNA levels .
+Increased levels of wild-type 4E-BP1 stimulated translation directed by the VEGF IRES by 5 fold under hypoxia while impairing cap-dependent translation by 1.5 fold .
+Proof of cap-dependent and HIF1 or VEGF-IRES-dependent translation by these elements is shown by control studies in which monocistronic mRNAs were expressed with and without a 5 stable hairpin upstream of either element or with deletion of the IRES ( Figure S1C ) .
+Hypoxia also did not alter the size of the monocistroinic mRNAs ( data not shown ) .
+The hairpin blocked luciferase translation from the cap-dependent , but not the IRES , element under normoxic and hypoxic conditions , whereas deletion of the IRES blocked luciferase translation during hypoxia .
+Full-size image ( 102K )
+High-quality image ( 845K )
+Figure 3. Overexpression of 4E-BP1 and eIF4G Confers a Cap-Dependent to IRES-Dependent mRNA Translation Switch .
+( A - C ) Bicistronic vectors containing a cap-dependent 5NCR and cap-independent IRES for ( A ) VEGF , ( B ) HIF1 , or ( C ) EMCV were tested for cap-dependent and cap-independent translation by using a dual Luciferase reporter system under normoxic ( N ) and 24 hr hypoxic ( Hx ) ( 0.5% O2 ) conditions .
+Quantification of results , expressed as the rates of IRES / cap-mediated translation , were tabulated as shown on the right .
+All results are p 0.05 controls versus experimental groups , determined by Student 's t test , two sided .
+( D ) Vector expressing the cap-dependent RFP and IRES-dependent GFP bicistronic reporter mRNA in hypoxic control and 4E-BP1 BT474 cells , visualized by confocal microscopy and quantified from ten independent fields of cells .
+( E ) Integrity of cap-dependent initiation complexes under normoxia and increasing hypoxia with overexpression of 4E-BP1 protein .
+Complexes were purified by cap chromatography , and proteins detected by immunoblot analysis .
+Lower resolution SDS-PAGE was used to concentrate all phosphoforms of 4E-BP1 associated with eIF4E for better quantitation .
+Typical results are shown of representative studies from at least three independent experiments .
+( F ) VEGF expression levels during normoxia ( 20% O2 ) , 24 hr hypoxia at 5 , or 0.5% O2 levels were determined by ELISA of secreted factor , normalized to equal VEGF mRNA levels , as described in the legend to Figure 2. .
+Standard errors of the mean were calculated from at least three independent experiments and all results achieve p 0.05 ( paired Student 's t test ) .
+View Within Article .
+Increased levels of 4E-BP1 also stimulated HIF1 IRES-directed translation by 3 fold and that of the EMCV IRES , a control viral IRES , by 8 fold while impairing their respective cap-dependent translation activities .
+Bcl2 IRES translation was sustained ( but not increased ) during hypoxia inhibition of protein synthesis by 4E-BP1 with eIF4G overexpression ( Figure S2A ) , and no alternatively spliced mRNA forms were detected ( data not shown ) .
+To directly visualize the translation switch from cap to IRES mediated by 4E-BP1 and eIF4G , vector control and 4E-BP1 overexpressing BT474 cells were transfected with a plasmid expressing a bicistronic mRNA in which the luciferase open reading frames were replaced with a cap-dependent red fluorescent protein ( RFP ) and a VEGF IRES-dependent green fluorescent protein ( GFP ) .
+Compared to vector control cells , 4E-BP1 cells expressed a 4 fold increased level of VEGF IRES-dependent GFP compared to cap-dependent RFP under hypoxia ( 0.5% O2 , 24 hr ) ( Figure 3D , right panel ) .
+Increased expression of 4E-BP1 therefore acts as a hypoxia-inducible switch , promoting cap-independent over cap-dependent translation .
+Increased 4E-BP1 Levels Trigger Disassembly of Cap-Dependent Initiation Complexes with Only Moderate Oxygen Depletion .
+The integrity of cap-dependent initiation complexes was investigated under conditions of increasing deprivation of oxygen in control and 4E-BP1 overexpressing cells .
+Proteins associated with eIF4E by retention on m7GTP-Sepharose were analyzed by immunoblot analysis .
+In control cells , cap-dependent initiation complexes were incompletely disrupted by 4E-BP1 displacement of eIF4E at 2% O2 and largely disrupted at 0.5% O2 .
+In cells overexpressing 4E-BP1 , initiation complexes were almost fully disrupted at 2% O2 .
+Increased expression of 4E-BP1 therefore decreases by 5 fold the level of O2 deprivation required to provoke stronger disassembly of cap-initiation complexes .
+When normalized to equal VEGF-A mRNA levels , 4E-BP1 overexpressing cells increased VEGF protein synthesis by 3.5 fold at 10-fold-less oxygen deprivation ( 5% O2 ) than required in control cells ( 0.5% O2 ) to yield a smaller ( 2 fold ) increase .
+Increased Expression of 4E-BP1 and eIF4G Promotes IRES-Dependent VEGF mRNA Translation and Tumor Vascularization in a Tumor Angiogenesis Model .
+We examined the effect of 4E-BP1 / eIF4G on VEGF expression and tumor vascularization in an angiogenesis model system .
+BT474 cells overexpressing vector control , wild-type , or 4E-BP1 were implanted into the chick chorioallantoic membrane ( CAM ) of the 10-day-old chick embryo  and allowed to grow for 7 days ( Figure 4A , upper panels ) .
+Angiogenesis of the CAM by this time is a measurement of tumor-directed vascularization  .
+CAM tumors derived from 4E-BP1 overexpressing BT474 cells showed a 3 fold higher density of vascularization ( 30% ) compared to vector control ( 8% ) or the 4E-BP1 mutant ( 5% ) ( Figure 4B , p 0.001 ) .
+Results obtained using CRL1902 cells , engineered to express similarly increased levels of 4E-BP1 but which express lower levels of eIF4G , showed a more modest increase in tumor angiogenesis ( Figures 4A and 4B , 7% versus 13% , p 0.01 ) .
+There was no significant effect on angiogenesis in MCF10A cells .
+Full-size image ( 97K )
+High-quality image ( 871K )
+Figure 4. Overexpression of 4E-BP1 Promotes Tumor Angiogenesis , Vascular Permeabilization , and VEGF Expression .
+( A ) Representative tumors grown in the CAM are shown , photographed in situ , corresponding to vector control , overexpression of vector alone , wild-type 4E-BP1 , or the 4E-BP1 mutant ( for BT474 cells only ) .
+( B ) The vascular areas of tumors grown in CAMs from cell lines with or without overexpression of wild-type 4E-BP1 were determined as described in the Experimental Procedures .
+( C ) Morphometric analysis of tumor vasculature in CAM studies , made visible by immunofluorescence staining with fluorescein isothiocyanate ( FITC ) -labeled Lycopersicon lectin ( Vector Labs ) , followed by fluorescence photography .
+( D ) Immunoblot analysis of VEGF-A protein levels and 4E-BP1 levels by high-resolution SDS-PAGE , obtained from equal amounts of the BT474 CAM tumor protein .
+( E ) Tumor mass ( weight ) of CAM-derived tumors with increased expression of wild-type 4E-BP1 or 4E-BP1 mutant ( in BT474 cells only ) .
+CAM tumor weights were quantified , and mean values with SEM shown , derived from at least three independent experiments .
+Standard errors of the mean were calculated from at least three independent experiments and all results achieve p 0.05 ( paired Student 's t test ) .
+View Within Article .
+In situ staining with FITC-tomato lectin , to visualize the luminal surface of blood vessels  , demonstrated that vessels in tumors overexpressing wild-type 4E-BP1 were significantly larger , more irregularly shaped , and leaky compared to that of vector control tumors .
+Because most VEGF in the CAM tumor at this time is tumor derived  , VEGF-A levels in the tumor CAM were determined by immunoblot analysis of equal amounts of CAM protein lysate , demonstrating a 2.5 fold increase in VEGF-A levels from wild-type 4E-BP1 samples .
+High-resolution electrophoretic analysis of 4E-BP1 protein indicated that 70% was in the hypophosphorylated ( activated ) form in CAM tumors , consistent with the ability to downregulate cap-dependent translation by sequestration of eIF4E .
+Tumor growth in the CAM showed that 4E-BP1 overexpressing BT474 cell tumors were almost 150% larger after 8 days of growth compared to vector or 4E-BP1 mutant controls ( Figure 4E , p 0.01 ) , whereas 4E-BP1 CRL1902 cell tumors increased by 50% compared to controls ( p 0.05 ) , and MCF10A cell tumors by 25% ( p 0.05 ) .
+Thus , increased expression of 4E-BP1 promotes angiogenesis and vascular density , in conjunction with increased levels of eIF4G .
+The importance of 4E-BP1 , eIF4G , and eIF4E in promoting tumor angiogenesis was also investigated in MDA-MB435 breast cancer cells by silencing their expression .
+Expression of 4E-BP1 , eIF4G , or eIF4E was reduced by 60% - 80% using stable transformed lentivirus shRNA vectors without an effect on nontargeted eIF4A or eIF4B levels .
+The reduction of eIF4G or eIF4E resulted in only a 15% - 20% decrease in overall protein synthesis rates ( data not shown ) , consistent with the results of Figure 2C .
+Compared to control tumors when implanted into the CAM of 10-day-old chick embryos , tumor angiogenesis was reduced by 35% with silencing 4E-BP1 , 60% with eIF4G , and 25% with eIF4E silencing .
+The silencing of eIF4G also most significantly reduced VEGF production and tumor growth compared to eIF4E silencing , consistent with the importance of IRES-directed VEGF mRNA translation .
+Full-size image ( 159K )
+High-quality image ( 1386K )
+Figure 5. Effect of 4E-BP1 , eIF4G , or eIF4E on Tumor Growth , Angiogenesis , and VEGF Expression .
+( A ) MDA-MB435 cells were stably reduced in expression of 4E-BP1 , eIF4GI , or eIF4E by transformation with shRNA lentivirus vectors and implanted into 10-day-old CAMs , and tumors were grown for 8 days .
+Tumors were excised , and equal amounts of protein examined by SDS-PAGE immunoblot analysis as shown .
+( B ) Top , representative tumors grown in the CAM from control and silenced MB435 cells were photographed in situ .
+Bottom , the tumor vasculature was made visible by immunofluorescence staining with FITC-labeled lectin as described in the legend to Figure 4. .
+( C ) Vascular density of tumors grown in CAMs shown in ( B ) was determined as described in the Experimental Procedures .
+( D ) The level of VEGF expression secreted into CAMs was determined by assaying equal amounts of CAM extracts by ELISA .
+( E ) Tumor growth was determined by comparing the excised weight and volume of tumors ( mg mm3 ) , normalizing to the vector control tumors set at 100% .
+Data in all studies were derived from at least three independent experiments comprising five eggs per tumor cell line .
+( F ) Vector control or HA-4E-BP1 overexpressing BT474 cells were implanted subcutaneously into the flank of nude mice with implantation of 60 day exogenous estrogen pellets ; tumors were photographed in situ and excised at 21 days .
+IHC was carried out on paraffin-embedded sections .
+Typical results are shown .
+( G ) BT474 tumor cell volumes were determined at 21 days from three independent trials of eight mice per group ( p 0.001 ) .
+( H ) BT474 control and 4E-BP1 / eIF4G overexpressing tumors were grown in mice for 3 weeks while expressing the cap-dependent RFP / IRES-dependent GFP bicistronic reporter mRNA .
+Tumors were excised into OCT , and frozen sections were prepared and visualized by confocal microscopy ( merged RFP / GFP image shown ) .
+Data were quantified from ten independent fields of cells and displayed as the ratio of GFP / RFP .
+( I ) Tumor vasculature visualized by Texas red-dextran decoration of tumor vasculature endothelium .
+Mice were injected i.v. with stain and sacrificed 5 min later , and tumor vasculature was visualized in embedded sections by confocal microscopy and quantified .
+Arrows indicate blood vessels with costained erythrocytes .
+Standard errors of the mean were calculated from at least three independent experiments and all results achieve p 0.05 ( paired Student 's t test ) .
+View Within Article .
+Increased Expression of 4E-BP1 and eIF4G Promotes Tumor Growth , IRES-Dependent Translation , and Angiogenesis in an Animal Model .
+Studies next determined whether IRES-directed expression of VEGF increases tumor angiogenesis and growth in a mouse tumor model .
+Female mice at 6 weeks of age were implanted subcutaneously in the flank with equal numbers of vector control or 4E-BP1 overexpressing BT474 cells .
+Primary tumor growth was promoted 2.5 fold over a period of 3 weeks by 4E-BP1 ( Figures 5F and 5G , p 0.001 ) .
+4E-BP1 tumors were very small , regressed within 2 weeks , and could not be studied further ( data not shown ) .
+Neither unmodified nor 4E-BP1 overexpressing MCF10A or CRL1902 cells could form tumors in mice ( data not shown ) .
+BT474 tumors were excised and embedded in paraffin , and thin sections were analyzed by IHC .
+All of the large tumors continued to overexpress 4E-BP1 , were strongly increased in expression of VEGF-A , and showed no change in eIF4G and eIF4E levels compared to vector controls .
+Levels of cap-dependent and VEGF IRES-dependent mRNA translation were visualized in tumors by prior transfection of vector and 4E-BP1 overexpressing BT474 cells with a vector expressing the bicistronic cap-RFP / VEGF IRES-GFP mRNA , described earlier .
+Tumors were grown over a period of 3 weeks , excised , and visualized by confocal microscopy .
+The GFP / RFP ratio , which is a measure of the cap-dependent to cap-independent level of translation directed by the VEGF IRES , was quantified .
+4E-BP1 overexpressing tumors synthesized 2.5 fold higher levels of GFP , which was driven by the VEGF IRES compared to RFP driven by the cap-dependent 5NCR found in vector control cells ( normalized for mRNA levels ) .
+These data therefore demonstrated a switch from cap-dependent to IRES-directed translation during tumor growth only in tumor cells overexpressing 4E-BP1 and eIF4G .
+The tumor vasculature was visualized by i.v. injection of Texas-red conjugated dextran , which binds and decorates the endothelial vasculature component  .
+Analysis of tumor sections by confocal microscopy demonstrated a 3 fold increase in small blood vessel density in the 4E-BP1 / eIF4G overexpressing tumors compared to controls , some of which could be seen containing erythrocytes .
+Overexpression of 4E-BP1 therefore promotes increased IRES-dependent mRNA translation at the expense of cap-dependent mRNA translation and is associated with increased tumor growth and angiogenesis in an animal model .
+Discussion .
+Several key mRNAs in tumorigenesis , such as VEGF-A , Bcl2 , and HIF1 , are dual translation mRNAs that can utilize cap-dependent and cap-independent ( IRES ) mechanisms .
+An important effect of hypoxia is to restrict cap-dependent mRNA translation  .
+Thus , mRNAs encoding angiogenic factors ( VEGF and FGF ) and mediators of the hypoxia response ( HIF1 ) , among others , must possess an alternate means for initiating translation under hypoxic conditions .
+It was previously shown that survival of breast tumor cells under stress conditions such as hypoxia involves increased VEGF mRNA translation via activation of the PI3K/Akt / mTOR pathway  .
+Our studies suggest that , although some of this increase is a result of HIF1 induction of VEGF transcription , selective VEGF translation is considerably increased by hypoxia activation of overexpressed 4E-BP1 , with consequent reduction of cap-dependent protein synthesis and promotion of IRES-dependent mRNA translation .
+It was also previously shown that human chromosome position 8p11-12 , which includes the 4E-BP1 gene , is amplified in some human breast and prostate cancers  , possibly explaining 4E-BP1 overexpression that we observed in large tumors .
+A key finding of this study is that increased expression of 4E-BP1 and eIF4G reprograms cells to trigger hypoxia-mediated angiogenesis responses at much higher levels of oxygen , through greater sequestration of eIF4E by 4E-BP1 , suppression of cap-dependent , and increased IRES-mediated mRNA translation .
+This scenario was reciprocally associated with increased or sustained translation via the IRES in dual function mRNAs during hypoxia , including those orchestrating angiogenesis ( VEGF ) , anti-apoptosis ( Bcl2 ) , and hypoxia ( HIF1 ) responses .
+However , translation of these same mRNAs can also be increased by cap-dependent translation through overexpression of eIF4E , which can promote tumor growth and angiogenesis as well ( [ Gingras et al. , 1999 ] and [ Holcik and Sonenberg , 2005 ] ) .
+Indeed , collectively with our work , we suggest that there may be two pathways by which translational control may be involved in cancer progression .
+We suggest that increased expression of eIF4E and stronger cap-dependent mRNA translation may be one mechanism , but one that also likely requires uncoupling hypoxia inhibition of cap-dependent mRNA translation during transformation .
+The second pathway , suggested here , involves increased expression of 4E-BP1 and eIF4G , which promotes greater levels of IRES-dependent mRNA translation during hypoxia , but functions in the absence of uncoupling of hypoxia inhibition of cap-dependent mRNA translation .
+The maintenance of Bcl2 expression by IRES-dependent mRNA translation under these conditions is likely critical for the development of the larger tumors observed in mice by promoting tumor cell survival .
+Overexpression of 4E-BP1 and eIF4G did not increase tumor cell proliferation rates ( data not shown ) , suggesting that preservation of tumor cell viability underlies at least part of the large increase in tumor size observed in animals .
+Importantly , both models of translational control in cancer ( cap dependent and IRES dependent ) are derived largely from animal and model systems and are at this point only statistically associated with changes observed in translation factor levels in human tumor specimens .
+Nevertheless , several groups have now observed elevated levels of 4E-BP1 in human prostate , head , and neck and some gastrointestinal cancers ( [ Kremer et al. , 2006 ] and [ Martin et al. , 2000 ] ) .
+The effect of 4E-BP1 overexpression in our studies is also not at odds with a report in which engineered overexpressed 4E-BP1 was found to be inhibitory to cell growth and transformation  .
+In those studies , the level of 4E-BP1 overexpression was much higher , which likely explains its inhibitory effect even under normoxic conditions , as 4E-BP1 at more physiological levels typically functions as a growth inhibitor only after stress activation  .
+Our findings support a molecular mechanism in which both cap-dependent translation driven by eIF4E and eIF4G and cap-independent ( IRES-mediated ) translation promoted under hypoxia by 4E-BP1 levels are required for tumor progression. eIF4E would then promote stronger translation and tumor cell proliferation in the absence of hypoxia , as has been observed for a lymphoma ( nonsolid tumor ) model  .
+In solid tumors , high levels of eIF4E would also be expected to promote tumor survival and angiogenesis , particularly if hypoxia inhibition of cap-dependent mRNA translation is uncoupled either by disruption of hypoxia signaling pathways  , tumor cell engagement of specific integrins such as 6B4  , or other means .
+In contrast , elevated 4E-BP1 reduces the level of oxygen depletion required to trigger this inhibition , thereby preserving tumor cell viability and promoting strong IRES-dependent mRNA translation mediated by eIF4G .
+It needs to be mentioned that 4E-BP1 activation by hypoxia in our studies is not equivalent to treatment of cells with rapamycin , an mTOR inhibitor that blocks tumor growth by functioning as an antiangiogenic agent ( [ Del Bufalo et al. , 2006 ] , [ Guba et al. , 2002 ] and [ Thomas et al. , 2006 ] ) .
+Rapamycin inhibition of mTOR has other effects on the cell apart from activation of 4E-BP1 , including inhibition of cell growth  , inhibition of VEGF stimulation of vascular endothelial cells ( [ Vinals et al. , 1999 ] and [ Yu et al. , 2001 ] ) , impaired Akt activity  , and G1 cell-cycle arrest  .
+In fact , it was noted that rapamycin does not strongly downregulate VEGF production but does block expression of HIF1 at the level of transcription ( [ Del Bufalo et al. , 2006 ] and [ Thomas et al. , 2006 ] ) , consistent with our results ( Figure S2B ) .
+In summary , we have shown that overexpression of 4E-BP1 and eIF4G in model systems promotes a switch from cap-dependent to IRES-dependent translation mediated by hypoxia , resulting in selective translation of IRES-containing mRNAs such as VEGF , HIF1 , and Bcl2 that promote tumor angiogenesis and survival .
+Experimental Procedures .
+IHC , immunoblot , and VEGF ELISA analysis , retroviral and lentiviral expression studies , single-step real-time quantitative RT-PCR , subcutaneous xenotransplant tumor model , CAM analysis of tumor growth and angiogenesis , methionine incorporation assay , and cell lines , cell culture , antibodies , plasmids , and transfection are described in the Supplemental Experimental Procedures .
+Tissue Specimens .
+Specimens consisted of 94 primary breast cancer specimens stages I - III , 85 of which included all factors .
+Specimens were obtained from archival paraffin blocks between 1996 and 2006 .
+Breast cancer patients were aged 27 - 79 years and were treated at the NYU School of Medicine ( NYUSM ) .
+Samples were selected as coded specimens under an HIPAA-compliant protocol approved by the NYUSM Institutional Review Board and included all tumor specimens identified as stage I - III invasive ductal carcinoma .
+All tumor specimens were obtained from pretreatment surgical resections ( T1 and smaller T2 tumors ) or pretreatment tumor core biopsies , except for immunoblot studies in Figure 1B , which were obtained from fresh posttreatment surgically resected T3 tumor specimens .
+Fresh normal breast tissue was obtained from mammoplasty reduction surgery .
+Final breast cancer diagnosis was confirmed by pathologic evaluation .
+Pretreatment tumor size was determined at surgical pathology ( T1 and smaller T2 tumors ) or clinically by caliper measurement ( large T2 tumors 4 cm and T3 tumors 5 cm ) .
+Tissue microarrays were developed as described  by using three 1.2 mm 4 mm thick circular punches per tumor specimen , chosen by the pathologist blinded to study design .
+Specimens were stained with hematoxylin and eosin ( HE ) to confirm diagnoses .
+Each series included as controls normal breast tissue , selected common specimens to provide for consistent interpretation , and packed , sectioned cell lines engineered to over- or underexpress specific factors .
+Morphometric Analysis of Tumor Vasculature .
+Tumor vasculature in CAM studies was made visible by staining with fluorescein isothiocyanate ( FITC ) -labeled Lycopersicon lectin ( Vector Labs ) as described  .
+Briefly , 5 M frozen sections were fixed for 30 s in 1:1 methanol:formaldehyde , permeabilized with Triton X-100 , blocked , and incubated with FITC-lectin for 1.5 hr and then slides were mounted and viewed by confocal fluorescent microscopy with a Zeiss 25M Pascal scope .
+The percent vascular area  and mean fluorescent vasculature density of the tumor were derived from the images as described  .
+In vivo vessel labeling was conducted as described  .
+Briefly , Texas red-conjugated dextran ( mol wt 70,000 ; Molecular Probes ) prepared at 6.2 mg / ml in PBS was injected by tail vein ( 21 g / g weight ) , and mice were sacrificed 3 min later .
+Tumors were rapidly excised , fixed in formalin , paraffin embedded , and sectioned .
+Vessels were visualized by immunofluorescence microscopy .
+Statistical Analysis .
+Statistical analysis of laboratory research results comparing differences between control and experimental groups utilized two-sided Student 's t test .
+See the Supplemental Experimental Procedures for IHC statistical analysis shown in the Supplemental Table. .
+Acknowledgments .
+We thank members of the lab for their helpful discussions and critique of this work .
+This work was supported by grants from the US Department of Defense Breast Cancer Research Program , the Breast Cancer Research Foundation and the Avon Foundation ( to S.C.F. and R.J.S. ) , the American Cancer Society ( to S.C.F. ) , and the Susan G. Komen Breast Cancer Research Foundation ( to R.J.S. and K.K. )

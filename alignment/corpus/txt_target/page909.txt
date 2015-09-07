@@ -1,0 +1,134 @@
+In breast cancer , estrogen receptor ( ER ) expression is used as marker of hormone responsiveness and when present indicates the likely success of endocrine manipulation as a form of treatment  .
+Because the most commonly used therapeutic endocrine agents in breast cancer target ER , the significance of the progesterone receptor ( PR ) primarily derives from the fact that PR is synthesized in response to ER , providing evidence for an intact estrogen-response pathway  .
+With regard to the relative prognostic importance of ER and PR expression in breast cancer , numerous studies have been performed to investigate the relationship between these receptors and breast cancer prognosis , but the results were inconsistent for ER and / or PR , as well as their interpretation being complicated by the use of adjuvant endocrine therapy and chemotherapy  .
+However , in one of the studies that did not include patients that received systemic adjuvant therapy and assessed the relationship between ER and PR expression and prognosis , a small but significant difference between disease free-survival ( DFS ) ( 8% ) and survival ( S ) ( 10% ) was found at 5 years with ER-positive tumors compared with ER-negative tumors  .
+In this study , similar results were found for PR-positive tumors having a survival advantage of 8% compared to PR-negative tumors at 5 years .
+Furthermore , this study noted that there was a non-significant trend for a better clinical outcome for higher ( 76% for DFS , 94% for S ) versus lower ( 69% for DFS , 84% for S ) tumor PR levels that was not noted for higher ( 75% for DFS , 91% for S ) versus lower ( 73% for DFS , 93% for S ) tumor ER levels  .
+Thus , given that it is unknown whether ER and PR expression are important markers of breast cancer prognosis , and the fact that sensitive and specific quantitative assays for their measurement are widely used in clinical practice , it is important to investigate this relationship using an outcomes assessment for prognosis that is a strong correlative of survival , such as breast cancer stage at diagnosis  , to remove the confounding introduced through the use of adjuvant endocrine treatment or chemotherapy .
+Furthermore , the stage of breast cancer at diagnosis is the most widely used method for predicting the prognosis of patients with breast cancer , with regional lymph node metastasis and tumor size being the two strongest correlates of survival in patients without obvious distant metastasis  .
+The correlation of ER and PR expression with breast tumor size and the status of regional lymph node metastasis has been examined independently of each other  .
+Two of these studies showed that both ER and PR expression individually were inversely associated with tumor size ; with the association for ER expression not being significant in the smaller of these studies  .
+However , it is important to mention that in one of the other studies , in which neither ER nor PR expression was found to be associated with tumor size , 45% of the patients had distant metastatic disease  .
+Moreover , of the studies that assessed the association of ER expression or the combination of ER and PR expression with regional nodal status for metastasis  , none of these studies found ER expression to correlate with regional lymph node metastasis , but did find ER and PR expression in combination or PR expression alone to negatively correlate with regional lymph node metastasis in 1 of the 3 studies  that assessed these relationships  .
+Thus , although the data is limited , the results of these studies provide some support for an inverse association of ER or PR expression with breast tumor size and PR expression with regional lymph node metastasis .
+As a result , it is possible that there could be a significant inverse association between PR expression and possibly ER expression and the stage of breast cancer at diagnosis , since it includes tumor size and the status of regional lymph node metastasis , as well as the presence or absence of distant metastasis  .
+According to a thorough literature review , several studies investigated the relationship between ER and PR expression and the stage of breast cancer at diagnosis , with these studies indicating that ER and PR expression individually were not associated with the stage of breast cancer at diagnosis  .
+However , only three of these studies assessed the association of ER and PR expression individually with the stage of breast cancer at diagnosis  .
+In one of these studies  , the four stage groupings for invasive breast cancer as defined by the American Joint Committee on Cancer ( AJCC )  were collapsed into two groups ( I / II versus III / IV ) , which reduced the accuracy of stage in representing the anatomic extent of breast cancer .
+In addition , ER and PR expression were reported as either positive or negative , rather than as graded levels of expression , which for statistical reasons could have reduced the chances for finding a significant inverse association between PR expression and perhaps ER expression with the stage of breast cancer at diagnosis .
+Adequate testing of this relationship by these studies was further jeopardized because they did not account for the histology and histological grade or extent of differentiation of the tumor  to assess its lethality , as well as the patient characteristics that influence the time to diagnosis , since breast cancer stage  is related to the tumor growth rate , metastatic potential , and duration of existence  .
+Thus , since PR expression may have a stronger inverse association with the stage of breast cancer than ER expression , we conducted a cross-sectional study that included women with invasive ductal carcinoma of the breast to determine the relationship between ER and PR expression and the stage of breast cancer at diagnosis , a strong correlate of survival not affected by intervening endocrine therapy or chemotherapy .
+The study 's design also accounted for patient and breast tumor characteristics that have been previously noted to influence the stage at which breast cancer is diagnosed .
+2. Materials and methods2.1 .
+Study design .
+The cross-sectional study involved women with invasive ductal carcinoma of the breast .
+The purpose of the study was to determine the association of breast tumor ER and PR expression with the study outcome stage of the breast cancer at diagnosis .
+The study was conducted under a UT Southwestern Medical Center ( UT Southwestern ) institutional review board approved protocol , and informed consent was obtained from the study subjects prior to the collection of their clinical data and breast tumor specimens .
+We selected only ductal carcinoma cases , which represent the majority of breast cancers ( 80 - 90% ) , to eliminate the variable effects that the different breast tumor histologies may have on the stage of breast cancer at diagnosis  .
+The study covariates selected were age , race and ethnicity , menopausal status , body mass index ( BMI ) , breast tumor grade , and human epidermal growth factor receptor 2 ( HER-2 / neu ) expression based on a thorough literature review , indicating their association with the stage of breast cancer at diagnosis or breast cancer prognosis  .
+2.2. Subjects .
+The tissues from 142 invasive ductal breast carcinomas used in this study represent a consecutive series of female patients from the referral population at UT Southwestern .
+These tissue specimens were collected by surgical resection and by open or core biopsies at diagnosis from October 2005 to November 2006 , and stored in the UT Southwestern Tissue Repository as formalin-fixed paraffin embedded tissue sections .
+The UT Southwestern Tissue Repository also provided clinical and tumoral data related to these tissue specimens that were collected at the time of their procurement .
+2.3. Histology and staging .
+We used the Nottingham scheme to determine breast tumor histological grade ( I - III )  , and the AJCC staging system to classify the stage of the breast cancer cases ( I - IV )  .
+The number of cases for stages I , II , III , and IV were 43 , 63 , 31 , and 5 , respectively .
+Due to the small number of stage IV cases , we only included stages I - III ( n = 137 ) in the analyses related to the outcome breast cancer stage at diagnosis .
+2.4. Immunohistochemistry assay and quantitation methods .
+We used quantitative immunohistochemistry to determine breast tumor ER , PR , and HER-2 / neu expression .
+Immunohistochemistry staining was performed at room temperature and carried out using the Dako Autostainer ( DakoCytomation , Carpinteria , CA ) , as described previously  .
+Reagents were used as supplied in the Mach 4 Universal HRP-Polymer Kit ( BioCare Medical , Walnut Creek , CA ) .
+BioCare Diva , pH 6.6 was used .
+As previously described , optimum primary antibody dilutions were predetermined using known positive control tissues , and a known positive control section was included in each run to assure proper staining  .
+Quantitative information for staining was obtained using the automated microscopy method , Automated Cellular Imaging System ( ACIS , Chromavision Medical Systems , Inc. San Juan Capistrano , CA ) .
+ACIS is Federal Drug Administration ( FDA ) approved for the detection of ER and PR  .
+The ACIS system consisted of an automated robotic bright-field microscope module , a computer , and a Windows NT-based software interface  .
+The robotic microscope module scanned the immunohistochemically stained slides , and the computer monitor displayed the digitalized tissue images .
+After viewing the high-magnification images on the ACIS computer , one or more subregions of the digitalized tissue images were selected for analysis by ACIS .
+To assess the level of tissue ER and PR expression , ACIS provided the percentage of positively stained cells for ER and PR in the selected subregions .
+We used the manufacture 's guidelines for ACIS to determine tissue ER , PR , and HER2 / neu expression  .
+The tissue was considered to be positive for ER and PR expression , if the percentage of cells staining positive for ER and PR in 10 selected subregions of the tissue was 5% .
+To assess HER2 / neu overexpression , ACIS provided an average score for 5 selected subregions of the tissue with the highest staining intensity for HER-2 / neu , and tissue with an average score of 2.0 were considered to have HER-2 / neu overexpression .
+Full-size image ( 56K )
+Fig. 1. ACIS immunohistochemistry. ( a ) ER-positive breast tumor. ( b ) PR-positive breast tumor. ( a - b 20 ) .
+View Within Article .
+2.5. Statistical analysis .
+Microsoft Access was used to create the study database .
+Chi-square and Fisher Exact Tests , and the Kruskal - Wallis statistic were used to determine the association of the covariates ( age , race and ethnicity , menopausal status , BMI , and breast tumor grade and HER-2 / neu expression ) with the study 's outcome stage of breast cancer at diagnosis .
+Logistic regression analysis was used to determine the association of the study 's predictor variables , breast tumor ER and PR expression , adjusting for covariates .
+In the logistic regression analysis , a backward elimination procedure was used , and only those covariates with P 0.05 were kept in the final model .
+Statistical Analysis Software version 9.0 was used for all of the analyses .
+3. Results .
+Clinical and tumoral data from patients and the association of these data with the stage of breast cancer at diagnosis are presented in Table 1. Most patients were over 50 years old ( 5713 ) , white ( 66% ) , postmenopausal ( 70% ) , and overweight ( 29 7 kg / m2 )  .
+Nearly half of the breast tumors were positive for ER and PR expression ( 45% ) , and 24% were positive for HER-2 / neu overexpression .
+The results of the univariate analyses , as presented in Table 1 , indicated the following .
+Breast tumor histological grade ( P = 0.03 ) and HER-2 / neu expression ( P = 0.04 ) were both significantly and positively associated with the stage of breast cancer at diagnosis .
+In addition , although ER and PR expression together were inversely and significantly associated with the stage of breast cancer at diagnosis ( P = 0.04 ) , when ER and PR expression were considered separately , PR expression ( P = 0.01 ) and not ER expression ( P = 0.15 ) was inversely and significantly associated with the stage of breast cancer at diagnosis .
+However , although ER and PR expression were both inversely associated with the tumor grade at the same level of statistical significance ( P 0.0001 ) , as illustrated in Fig. 2 , only breast tumor PR expression was significantly and inversely associated with the stage of breast cancer at diagnosis . Fig. 3 demonstrates that PR expression declines more rapidly with an advancing stage of breast cancer at diagnosis than does ER expression .
+Table 1. .
+Selected patient and breast tumor characteristics associated with the stage of breast cancer at diagnosis .
+CharacteristicsPatients ( n = 137 ) P Mean ( SD ) Age ( years ) 57 ( 13 ) 0.66 BMI ( kg / m2 ) 29 ( 7 ) 0.63 ER ( % ) 51 ( 45 ) 0.15 PR ( % ) 30 ( 39 ) 0.01a .
+Number ( % ) Race and ethnicity0.04 White88 ( 66 ) African - American26 ( 19 ) Hispanic14 ( 10 ) Asian6 ( 4 )
+Postmenopausal0.59 Yes74 ( 70 ) No32 ( 30 )
+Grade0.03b I19 ( 14 ) II75 ( 57 ) III38 ( 29 )
+ER / PR0.04a +/+61 ( 45 ) + / 22 ( 16 ) /+0 ( 0 ) /54 ( 39 )
+HER-2 / neu0.04b +29 ( 24 ) 94 ( 76 )
+Full-size table .
+a Inverse association with stage of breast cancer at diagnosis .
+b Positive association with stage of breast cancer at diagnosis .
+View Within Article .
+Full-size image ( 13K )
+Fig. 2. ER breast tumor expression and PR breast tumor expression are both significantly and inversely associated with breast tumor grade at diagnosis with P 0.0001 .
+View Within Article .
+Full-size image ( 12K )
+Fig. 3. PR breast tumor expression ( P 0.01 ) and not ER breast tumor expression ( P = 0.15 ) is significantly and inversely associated with the stage of breast cancer at diagnosis .
+View Within Article .
+As shown in Table 2 , the multivariate logistic regression analyses also indicated that PR expression was significantly and inversely associated with the stage of breast cancer at diagnosis with ( odds ratio ( OR ) , 0.88 , confidence interval ( CI ) , 0.77 - 0.99 ; P = 0.03 ) and without ( OR , 0.86 ; CI , 0.76 - 0.97 , P = 0.01 ) HER-2 / neu expression as a covariate , whereas the association of ER expression with the stage of breast cancer at diagnosis was not only insignificant but weak and unclear on direction with ( OR , 1.04 , CI , 0.94 - 1.16 , P = 0.45 ) and without ( OR , 1.05 ; CI , 0.95 - 1.16 , P = 0.38 ) HER-2 / neu expression as a covariate .
+Of note is that HER-2 / neu expression did not appear in the final logistic regression model , since it was not statistically significant ( OR , 1.65 ; CI , 0.71 - 3.83 ; P = 0.25 ; n = 118 ) .
+The OR was calculated per 10 unit increment .
+Table 2. .
+Association of ER and PR expression with stage of breast cancer at diagnosis ( n = 137 )
+ReceptorStage ORa ( 95% CI ) , PORb ( 95% CI ) , P ER1.05 ( 0.95 - 1.16 ) , 0.381.04 ( 0.94 - 1.16 ) , 0.45 PR0.86 ( 0.76 - 0.97 ) , 0.010.88 ( 0.77 - 0.99 ) , 0.03 .
+Full-size table .
+a Adjusted for race and ethnicity and breast tumor grade .
+b Adjusted for race and ethnicity , breast tumor grade , and HER2 / neu expression .
+HER2 / neu was not statistically significant ( OR , 1.65 ; CI , 0.71 - 3.83 , 0.45 ; P = 0.25 ; n = 118 ) .
+View Within Article .
+4. Discussion .
+The univariate results of the study indicate that although both ER and PR expression were significantly and inversely associated with breast tumor grade , only breast tumor PR expression was significantly and inversely associated with the stage of breast cancer at diagnosis .
+These findings are consistent with the results of past studies , in that , with lengthened follow-up the favorable prognosis associated with breast tumor ER expression is lost ; disappearing after 5 - 8 years  .
+In fact , in a study that focused on this issue , ER-positive expression was found to loose its protectiveness for breast cancer relapse at about 3 years , at which point the prognosis began to decline  .
+Furthermore , the multivariate results of our study indicate that PR expression and not ER expression , regardless of HER-2 / neu expression status , is significantly and inversely associated with the stage of breast cancer at diagnosis , a strong correlative of survival not affected by intervening endocrine therapy or chemotherapy .
+Thus , these findings indicate that although both ER and PR expression have a favorable effect on breast tumor differentiation , as measured by tumor grade  , that only PR expression is a marker for breast cancer prognosis , as measured by the stage of breast cancer at diagnosis .
+As a result , PR expression may be useful as a therapeutic tool to better inform the decision for or against adjuvant chemotherapy in selected patients .
+More specifically , national consensus guidelines currently recommend the consideration of adjuvant chemotherapy for breast tumors that are 1 cm in diameter , ER-positive , and are not associated with regional lymph node metastasis  .
+However , emerging evidence suggests that , regardless of regional lymph node status for metastasis , the benefit of adjuvant chemotherapy in terms of DFS or S for ER-positive breast tumors is small compared to ER-negative breast tumors  , which tend to be PR-negative since PR is synthesized in response to ER  .
+Therefore , adjuvant chemotherapy may be beneficial for patients with breast tumors 1 cm in diameter that are ER-positive and PR-negative , which occur at least 30% of the time  .
+Furthermore , PR may be a potential therapeutic target , since our study indicates that PR is a positive prognostic marker for breast cancer and recent in vitro studies indicate that PR expression may serve a protective role in breast cancer progression via ligand-dependent and ligand-independent mechanisms .
+Several recent studies have shown the potential benefit of PR in the presence of progesterone for reducing breast cancer progression  .
+These studies were conducted using an ER-independent in vitro model system , in which PR cDNA was stably transfected into the ER-negative and PR-negative breast cancer cell line , MDA-MB-231  .
+In one of these studies , PR in the presence of progesterone markedly inhibited the growth of MDA-MB-231 breast cancer cells  , and induced their spreading and adherence properties  .
+The findings in this study indicate that PR in the presence of progesterone may play a significant role by blocking tumor invasion and metastasis .
+In another study , it was found that progesterone substantially inhibited breast tumor growth in Scid mice inoculated with MDA-MB-231 breast cancer cells stably transfected with PR cDNA  .
+In the final study , progesterone was found to induce cellular differentiation of MDA-MB-231 breast cancer cells transfected with PR cDNA  .
+In the most recent study , it was demonstrated that progesterone treatment of MDA-MB-231 breast cancer cells transfected with PR cDNA resulted in a whole genome expression profile that had strong antiproliferative and antineoplastic features  .
+Thus , the findings in these studies , overall , suggest that progesterone acting through PR , may play a role in decreasing breast tumor proliferation and invasiveness by regulating the expression of proliferative- and invasion-related genes .
+Furthermore , because these studies indicate that PR may be a therapeutic target in breast cancer , this lends support to conducting future in vitro studies to determine the threshold level of PR expression that is necessary to induce favorable tumor effects .
+There is also some evidence to suggest that PR may serve a protective role in breast cancer progression via ligand-independent mechanisms .
+In recent studies , it was observed that siRNA-mediated knockdown of PR in T47D breast cancer cells caused activation of NF-B and a 30 fold induction of COX-2 mRNA  .
+This was observed in the absence of exogenous progesterone , suggesting that PR exerts a ligand-independent action to inhibit NF-B activation .
+COX-2 , which is induced by proinflammatory cytokines , growth factors , and tumor promoters is linked to carcinogenesis  , and has been found to be overexpressed in a significant portion of breast cancers , particularly in those that express HER-2 / neu  .
+In addition , transcription factor NF-B , which mediates the actions of proinflammatory cytokines to induce COX-2 expression , appears to play an important role in breast carcinogenesis  .
+Moreover , selective ablation of PR in T47D cells in serum-free conditions also led to increases in the expression of the cytoskeletal protein ezrin  , which is highly correlated with tumor cell invasiveness and metastasis  .
+It was further demonstrated that increasing the expression of PR in the absence of ligand in breast cancer cells diminished COX-2 expression  .
+It has also been noted that glucocorticoid and mineralcorticoid receptor cross-talk with PR mediates focal adhesion of MDA-MB-231 breast cancer cells transfected with PR cDNA  , which would reduce the potential for tumor metastasis .
+Thus , these ligand-independent protective actions of PR may be of great significance in the case of postmenopausal women , where circulating levels of progesterone are absent or negligible .
+A possible limitation of this study is that we did not account for all of the confounders or important variables in the breast cancer cases that may have influenced breast cancer stage at diagnosis , however , we did account for the most important confounders based on a thorough literature review  .
+We are also aware that although the results of this cross-sectional study indicate that PR expression is an important marker of early stage breast cancer , one cannot conclude from these results that PR decreases breast cancer progression .
+However , our finding that PR expression is significantly and inversely associated with the stage of breast cancer at diagnosis , a strong predictor of breast cancer prognosis , also suggests that if PR is activated or reactivated that it may be of therapeutic benefit in light of the potential protective role of PR in breast cancer as indicated in the mechanistic studies mentioned above  .
+In conclusion , the study provides new information indicating that PR and not ER expression is a marker for early stage breast cancer , indicating that PR expression is an important prognostic marker for breast cancer that will likely enhance our ability to effectively treat selected patients .
+In addition , based on current experimental research indicating that PR may play a role in reducing the progression of breast cancer , PR is also a potential target for therapy in breast cancer .
+Thus , our findings emphasize the importance of conducting future studies to further test the importance of PR as a prognostic marker in breast cancer , as well as to determine whether its activation or reactivation decreases breast cancer progression .
+Such knowledge may help to identify new strategies for breast cancer treatment .
+Acknowledgements .
+We thank Jennifer Sayne for providing the data to us from the UT Southwestern Tissue Repository , Aihua Bian for managing the study 's database and carrying out the data analyses for the study , and Dr. John D. Minna for reviewing the manuscript .

@@ -1,0 +1,169 @@
+La radiothérapie adjuvante dans le cancer du sein réduit le risque de rechute locale et augmente le taux de survie spécifique par_rapport_à une tumorectomie seule  .
+Mais ce bénéfice ne se traduit pas par une augmentation de taux de survie globale dans la_plupart des études publiées  .
+Ce fait est expliqué par une augmentation du taux de mortalité d' origine pulmonaire et surtout cardiovasculaire , notamment en cas d' irradiation de la chaîne mammaire interne  .
+L' un des principaux enseignements tiré des séries de la littérature qui rapportent cet excès de morbidité concerne l' importance de la définition des volumes cibles et des organes à risque ( OAR ) .
+En effet , la prise en compte de toutes les incertitudes qui peuvent survenir tout au_long_de la chaîne de traitement , et la détermination rigoureuse de l' amplitude des marges de sécurité conditionnent étroitement la précision du traitement ; la surestimation de ces marges entraînant une exposition accrue des tissus sains avec augmentation du risque de complications .
+« L' International Commission on Radiation Units and Measurements » ( ICRU ) a défini dans le rapport 50 puis dans le rapport 62 les différentes marges de sécurité qui doivent être spécifiées lors d' une radiothérapie externe .
+Le premier volume est le volume tumoral macroscopique ou « Gross Tumor Volume » ( GTV ) selon la terminologie anglo-saxonne , qui comprend les zones tumorales palpables ou visibles en imagerie .
+Autour du volume tumoral macroscopique , le volume cible anatomoclinique ou « Clinical Tumor Volume » ( CTV ) , prend en compte les zones susceptibles d' être envahies .
+Le volume cible prévisionnel ou « Planning Target Volume » ( PTV ) , ajoute au volume cible anatomoclinique les incertitudes liées aux mouvements des organes et du patient .
+Il est scindé en deux volumes distincts selon les causes d' incertitude : le volume cible interne qui prend en compte les mouvements internes , ou « Internal Target Volume » ( ITV ) , et un second volume défini par l' addition d' une marge de mise en place ( set-up margin ) autour du volume cible interne qui prend en compte les incertitudes de positionnement pendant le traitement .
+Contrairement à la_plupart des autres localisations tumorales , la préparation du traitement du sein n' est pas faite selon une approche conformationnelle .
+Habituellement , sont réalisés des clichés en deux dimensions avec un simulateur classique .
+Certaines équipes disposent d' un simulateur-scanneur , qui fournit un nombre limité de coupes tomodensitométriques du sein et de la paroi thoracique .
+Sur ces coupes , le volume tumoral macroscopique n' est habituellement pas défini car la radiothérapie est le_plus_souvent effectuée en situation postopératoire ou pour de petites lésions , infiltrantes ou in_situ , dont les limites sont très difficiles à identifier avec les moyens d' imagerie actuels .
+Le volume cible anatomoclinique est donc le premier volume cible dessiné .
+Il comprend le sein en totalité avec des limites externes définies par l' inspection et la palpation .
+La plupart des récidives locales survenant loin des bordures du volume cible anatomoclinique , aucune recommandation précise de ses marges n' est encore proposée .
+Le volume cible prévisionnel est ensuite défini cliniquement par deux points correspondant aux racines interne et externe .
+Cette simulation , classique , fournissant pour seule information une image en deux dimensions des volumes cibles et des organes à risque ( poumons , coeur ) limite beaucoup la collecte , l' intégration et l' analyse comparative des différentes incertitudes de traitement ainsi_que l' appréciation du risque de complications .
+Le développement de l' imagerie tridimensionnelle ( tomodensitométrie , imagerie par résonance magnétique , TEP , échographie ) offre maintenant le potentiel de mettre en application les recommandations de l' ICRU et d' évaluer leurs pertinences pour la localisation mammaire .
+Le nombre d' études sur les incertitudes de traitement a nettement augmenté ces dernières années parallèlement_à l' avancée technologique des appareils de simulation , de traitement et d' imagerie de faisceaux en temps réel  .
+Le développement de la radiothérapie conformationnelle tridimensionnelle ( RT3D ) ou avec modulation d' intensité ( RCMI ) est certainement pour beaucoup dans ce regain d' intérêt .
+Parmi toutes les causes d' incertitudes , les incertitudes géométriques dues aux mouvements respiratoires et celles dues au repositionnement sont les mieux analysées  .
+À partir des études réalisées , deux stratégies ont été proposées : la réduction des incertitudes géométriques avec des systèmes d' immobilisation ou de synchronisation efficaces d'_une_part , ou la quantification de ces incertitudes et leur prise en compte dans le calcul final des marges de sécurité d' autre_part  .
+Ces deux approches sont en fait complémentaires .
+En effet , les dispositifs techniques ne peuvent à eux seuls faire disparaître toutes les incertitudes  .
+Les erreurs résiduelles doivent être mesurées puis intégrées dans les choix balistique et dosimétrique prévisionnels .
+Dans cet article , nous nous attacherons à décrire pour la localisation mammaire les principales incertitudes géométriques liées au repositionnement et aux mouvements des organes au_cours_de la respiration , ainsi_que les solutions envisagées pour limiter leurs impacts sur la précision finale du traitement .
+2. Erreurs de positionnement
+Les connaissances actuelles sur les incertitudes de positionnement dans la pathologie mammaire sont encore limitées .
+L' importance de ces incertitudes est très variable d' une étude à l' autre , allant de quelques millimètres à plusieurs centimètres en cours de traitement .
+Il est en fait nécessaire que chaque département de radiothérapie effectue ses propres vérifications et quantifie ses erreurs en fonction du matériel qu' il utilise et de ses habitudes de traitement .
+Si certains auteurs pensent  que les incertitudes de positionnement ne sont pas forcément dues à des erreurs de mise en place , mais plutôt inhérentes au manque de contrôle de certains facteurs comme la perte de poids , l' inconfort du patient ou les variations de volumes des organes ( oedème mammaire ) , la majorité des études montrent des écarts de mise en place importants entre chaque séance de traitement .
+Ces erreurs peuvent être définies comme une variation ou une déviation de la position des repères externes du patient ( points de tatouage , repères osseux ) par rapport au référentiel de la pièce de traitement ou du faisceau d' irradiation .
+Elles peuvent survenir à deux reprises dans la procédure de la radiothérapie conformationnelle tridimensionnelle : une première fois pendant l' acquisition scanographique des données anatomiques et une seconde fois pendant le traitement .
+Les causes sont multiples .
+Parmi elles , le rôle joué par les tatouages cutanés n' est pas négligeable  .
+L' épaisseur du trait des marques cutanées peut être à lui seul responsable d' une erreur de 2 à 3 mm .
+La peau du sein n' étant pas une surface rigide , elle peut bouger d' un jour à l' autre par rapport aux structures internes .
+Ces erreurs sont susceptibles de s' additionner lors d' une séance et d' induire ainsi un décalage de plusieurs centimètres .
+Tableau 1.
+Méthodes de repérage utilisées en radiothérapie conformationnelle tridimensionnelle et précision attendue 
+MéthodesPrécision ( mm ) Alignement par des repères cutanés - lasers2 - 2,5 Alignement radiographique - repères anatomiques1 - 2 Alignement radiographique - repères implantés 1 Repositionnement mécanique 0,25 Alignement par système vidéo1
+Full-size table
+View Within Article
+Les erreurs de positionnement sont habituellement colligées dans les trois directions de l' espace pendant toute la durée du traitement .
+La caractérisation et la dénomination des erreurs varient selon les auteurs .
+Il est habituel de distinguer l' erreur « systématique » de l' erreur « aléatoire » .
+La première correspond à l' erreur moyenne de préparation et de mise en place qui se répète sur toute la durée du traitement pour un patient donné , la seconde correspond à l' écart type des erreurs de mise en place de chaque champ pour un patient donné .
+La répartition de toutes les erreurs mesurées sur la durée totale du traitement , présente généralement une distribution normale permettant une description statistique ( moyenne , écart-type , etc. ) exploitable dans des modèles de calcul des marges de sécurité  .
+Si les erreurs systématiques peuvent être réduites par un examen rigoureux des images de contrôle des champs , les erreurs aléatoires peuvent quant_à elles être réduites par l' amélioration de l' immobilisation du patient et par un repositionnement précis et quotidien sur la table de traitement .
+Peu d' études ont été réalisées dans le cadre de la pathologie mammaire .
+Sur l' image portale , la structure la plus appropriée pour vérifier le positionnement semble être la paroi thoracique  .
+Pour évaluer les erreurs de positionnement dans les trois directions de l' espace à partir des images portales ou des gammagraphies des faisceaux tangentiels , une méthodologie originale a été proposée .
+Plusieurs dimensions sont mesurées sur les clichés de contrôle : la CLD , « Central Lung Distance » , correspondant à la distance à l' axe entre le bord postérieur du faisceau d' irradiation et la paroi thoracique ; la CFD , « Central Flash Distance » , correspondant à la distance à l' axe entre le bord antérieur du faisceau et la peau ; et l' ICM , « Inferior Central Margin » , correspondant à la distance entre le bord inférieur du faisceau et la limite inférieure de la glande mammaire .
+Dans la littérature , ces définitions ne sont pas homogènes .
+Par exemple , le sens crâniocaudal peut correspondre à la valeur d' inferior central margin  ou à un déplacement de l' isocentre  .
+Cependant , la central lung distance semble le paramètre le plus significatif , pour apprécier la proportion de volume pulmonaire situé dans le faisceau d' irradiation , lui-même corrélé avec les risques de pneumopathie radique  .
+En cas d' irradiation du sein seul , Lind et al. n' ont pas retrouvé de modification des épreuves fonctionnelles respiratoire ( EFR ) avec une central lung distance moyenne de 15 mm .
+En revanche , en cas d' irradiation des aires ganglionnaires , l' incidence des pneumopathies radiques sévères était de 9 % .
+La central lung distance était alors de 29 mm si la chaîne mammaire interne ( CMI ) était irradiée contre 20 mm si elle n' était pas incluse dans les champs d' irradiation  .
+Borstein et al. ont également retrouvé une corrélation entre la mesure de la central lung distance et le volume pulmonaire irradié : une central lung distance de 15 mm prédisait un volume de poumon homolatéral irradié de 6 contre 26 % si la central lung distance était égale ou supérieure à 35 mm  .
+Full-size image ( 20K )
+Fig. 1. Schéma anatomique des mesures des erreurs de positionnement sur un cliché de contrôle .
+View Within Article
+La valeur de la central lung distance paraît un bon indicateur des incertitudes de positionnement  .
+À partir de ce paramètre , les valeurs moyennes des erreurs de positionnement dans la littérature sont de 3,8 mm pour les erreurs systématiques et 3,2 mm pour les erreurs aléatoires .
+Dans une étude récente , Alia et al. ont retrouvé sur 102 patients des valeurs moyennes de 2,7 mm pour les erreurs systématiques et de 1,9 mm pour les erreurs aléatoires .
+Après correction de la position de la patiente en cas d' écart de la central lung distance supérieure ou égale à 10 mm , la probabilité que les erreurs systématiques et aléatoires soient inférieures à 5 mm pendant tout le traitement était respectivement de 99 et 100 %  .
+En conclusion , ils estimaient qu' une vérification hebdomadaire du positionnement des patients était suffisante .
+Cependant , pour d' autres auteurs , la déviation maximale tolérable de la central lung distance est de 5 mm  .
+Tableau 2.
+Valeurs des erreurs de positionnement rapportées dans la littérature pour l' irradiation classique du sein par des faisceaux tangentiels
+ÉtudesContentionFilms ( F ) ou images portales ( P ) nb de patientsnb d' imagesErreur systématiqueaErreur aléatoireaErreur globaleb Alia_et_al.  Plan incliné + support bras1 F + 4 P10210201,90,91,6 Carter_et_al.  -cradle hémicorpsF201725,2 Creutzberg_et_al.  Plan incliné + support brasP145105,85,88,2 Plan + support bras + fixation mouléeP177,45,89,4 2,72,53,7 Dobbs  Plan incliné + support bras + piedsF10542,92,53,8 P10542,82,23,6 Fein_et_al.  -cradleP1344503,94,45,9 Pradier_et_al.  Plan + support brasP305303,93,75,4 van Tienhoven_et_al.  Support brasP12302,71,73,2 Gagliardi_et_al.  - P202102,9 Lirette_et_al.  Plan + support brasP2020803,11,73,5
+Full-size table
+nb : nombre .
+a Valeur correspondant à l' écart-type de l' erreur en millimètres .
+b Valeur correspondant à ( 2 + 2 ) avec = erreur systématique et = erreur aléatoire ( d'_après Rosenthal_et_al  ) .
+View Within Article
+Les incertitudes de positionnement dépendent , en_partie , du système de contention utilisé .
+Dans la direction antéropostérieure , Carter et al. ont retrouvé des différences de 4 mm sans contention , et de 1,8 à 3 mm avec une immobilisation standard avec un plan incliné et un appui-bras  .
+Des systèmes plus complexes ne paraissent pas indispensables pour améliorer le positionnement de la patiente .
+Creutzberg et al. ont comparé une irradiation avec ou sans immobilisation moulée autour_de la patiente ( alpha cradle ) reposant sur un plan incliné et un simple support bras  .
+Les taux d' erreurs étaient similaires entre les deux types de contention .
+De même , Thilmman et al. n' ont pas mis en évidence d' avantage significatif à un support moulé par « vacuum-bag » placé sous le dos et les épaules de la patiente par_rapport_à une position classique avec un support bras  .
+Dans cette étude , seul le positionnement en tête-pied était légèrement amélioré par l' adjonction du « vacuum-bag » .
+Indépendamment du système d' immobilisation , il faut souligner l' importance de la position du bras : une marque à la peau au niveau du plan axillaire peut bouger de 40 mm en fonction de cette position  .
+Le volume du sein lui-même peut également être la cause d' erreurs de positionnement , notamment en raison de l' oedème induit par l' irradiation .
+Hector et al. ont retrouvé une augmentation significative du volume mammaire entre les 4e et 8e séances  .
+Dans cette étude , l' erreur de positionnement moyenne était de 2,5 mm .
+Ils ont également comparé une irradiation standard à une irradiation avec compensation électronique .
+Bien que cette dernière paraisse plus sensible aux erreurs de positionnement , la compensation électronique augmentait l' uniformité de la dose dans la glande mammaire .
+Certaines équipes ont étudié séparément les erreurs intrafractions et les erreurs interfractions .
+Si les erreurs interfractions sont essentiellement dues aux incertitudes de positionnement tout_au_long du traitement , en_théorie , les erreurs intrafractions peuvent être liées aux mouvements du patient et / ou aux mouvements induits par la respiration ou les battements cardiaques .
+Cependant , les études , encore limitées , qui se sont intéressées à cette question ne retrouvent qu' un impact négligeable des erreurs intrafractions avec des valeurs moyennes de 1,4 , 1,5 et 1,6 mm respectivement pour la central lung distance , la central flash distance et l' inferior central margin par_rapport_à des valeurs moyennes respectives de 3,1 , 3,1 et 3,8 mm pour les erreurs interfractions  ( Tableau 3 and Tableau 4 ) .
+De même , Smith et al. ont mesuré à_partir_de la central lung distance des écarts maximum intrafraction de 2,5 mm , correspondant à des variations minimes des surfaces pulmonaire et cardiaque irradiées .
+En revanche , des variations interfractions de central lung distance de 0,59 à 2,94 cm ont été observées avec des modifications des surfaces pulmonaire et cardiaque irradiées significatives .
+Ces modifications étaient liées aux valeurs Vc30 pour le coeur ( volume cardiaque recevant au moins 30 Gy ) et Vp20 pulmonaire ( volume de poumon recevant au moins 20 Gy ) calculés sur les histogrammes dose - volume ( HDV ) .
+Tableau 3.
+Moyenne des erreurs de positionnement systématiques et aléatoires
+ParamètreErreurs systématiquesaErreurs aléatoiresa Central lung distance3,83,2 VD-AP-central flash distance3,12,8 CC-inferior central margin3,83,2 Moyenne3,63,1
+Full-size table
+a Valeur correspondant à la moyenne des écart-types de l' erreur en millimètres ( d'_après  ) . ( VD : ventro-dorsal , AP : centéro-postérieur CC : crânio-caudal )
+View Within Article
+Tableau 4.
+Valeurs des erreurs intrafractions pour la central lung distance rapportées dans la littérature
+Étudesnb de patientsnb d' imagesErreur globalea ( mm ) Fein_et_al.  1344501,6 Lirette_et_al.  2020801,8 Van Tienhoven_et_al.  12530,8
+Full-size table
+nb : nombre .
+a Valeur correspondant à ( 2 + 2 ) avec = erreur systématique et = erreur aléatoire ( d'_après Rosenthal_et_al  ) .
+View Within Article
+3. Erreurs dues aux mouvements respiratoires
+Les mouvements de la tumeur et des organes intrathoraciques lors_de la respiration sont théoriquement une cause potentielle d' échec de la radiothérapie des cancers mammaires .
+Ils conduisent à une incertitude balistique responsable d' une couverture insuffisante des limites du volume cible anatomoclinique , et en_conséquence de la délivrance d' une dose trop faible pour détruire les cellules tumorales  .
+Pour diminuer ces marges de sécurité et améliorer nos connaissances des mouvements respiratoires , deux possibilités ont été avancées .
+La première consiste à mesurer précisément l' amplitude thoracique et à inclure le résultat obtenu dans le calcul des marges de sécurité .
+La deuxième consiste à proposer une solution technologique pour contrôler les mouvements respiratoires et délivrer l' irradiation à un moment précis , planifié à l' avance .
+C' est ce que l' on nomme la radiothérapie asservie à la respiration ( RAR ) .
+Une première approche pour réduire les incertitudes liées à la respiration consiste à mesurer les mouvements respiratoires chez des patients représentatifs de la population générale .
+L' amplitude de ces déplacements peut en_effet varier d' un patient à l' autre en fonction de différents facteurs liés soit à la tumeur ( morphologie et taille des seins , fixation à la paroi thoracique ) , soit au patient ( capacité respiratoire , oxygénation , anxiété ) , soit enfin au protocole de traitement ( contention personnalisée , position des bras ) .
+L' accumulation d' un grand nombre de données doit permettre de connaître la distribution statistique de chaque mouvement respiratoire afin_de l' intégrer ensuite dans un calcul de marge de sécurité  .
+Le sein est un organe mobile avec la respiration .
+Même si les erreurs de positionnement représentent une part importante dans les incertitudes de traitement , la respiration est responsable de mouvements pouvant atteindre 0,8 à 10 mm dans l' axe antéropostérieur  .
+L' évaluation précise de ces mouvements respiratoires aboutit habituellement à un élargissement des marges de sécurité , donc à une augmentation des volumes irradiés , d' où l' intérêt potentiel des techniques d' asservissement respiratoire  .
+Différentes techniques peuvent être utilisées : soit en blocage de la respiration , de façon volontaire ou avec un système de valves  , soit avec un enregistrement du cycle respiratoire par des capteurs , avec un déclenchement du traitement et du scanner synchronisé à une phase du cycle respiratoire .
+Full-size image ( 101K )
+Fig. 2. Coupe scanographique axiale d' un sein en respiration libre avec report des contours en inspiration profonde bloquée .
+View Within Article
+Plusieurs études récentes ont retrouvé une diminution des volumes irradiés , pulmonaire et cardiaque avec une radiothérapie asservie à la respiration comparativement à une irradiation classique  .
+Au niveau pulmonaire , Pedersen et al. ont montré que le volume relatif de poumon sain irradié était significativement diminué pour les patientes traitées en inspiration bloquée avec un gain médian de 22 % pour le Vp50 ( volume de poumon recevant au moins 50 Gy )  .
+Ces résultats ont été retrouvés quel que soit le sein irradié .
+Dans une étude utilisant le système ABC ( Active Breathing Control ) et la modulation d' intensité , 15 patientes ( neuf cancers du sein gauche et six cancers du sein droit ) ont été irradiées avec une bonne tolérance .
+Le blocage actif effectué en inspiration diminuait les mouvements respiratoires du volume cible mammaire et permettait de réduire la taille du volume cible interne de 15 à 5 mm .
+En conséquence , le volume cardiaque recevant au moins 30 Gy ( Vc30 ) et le volume de poumon recevant au moins 20 Gy ( Vp20 ) ont été diminués significativement .
+Il est intéressant de noter que l' association à la radiothérapie asservie à la respiration d' une modulation de l' intensité améliorait encore ces résultats , par_rapport_à une technique d' irradiation classique .
+Les Vc30 et Vp20 diminuaient de 19 à 3 % et de 24 à 15 % , respectivement  .
+Au niveau cardiaque , l' intérêt d' une irradiation asservie à la respiration , principalement par des techniques de blocage inspiratoire a été mis en évidence par différents auteurs  .
+Le traitement en inspiration profonde permet de réduire le volume cardiaque irradié en dégageant le bord antérieur du coeur de la paroi thoracique.  .
+Cependant , la quantification précise de ce bénéfice s' avère difficile du fait des battements cardiaques et en raison du faible volume de coeur habituellement inclus dans les faisceaux d' irradiation ( 5 à 6 % en moyenne ) .
+Remouchamps et al. ont mis en évidence une réduction absolue de 3,6 % du volume du coeur recevant plus de 30 Gy ( Vc30 )  .
+Sixel et al. ont observé une diminution de 40 cm3 du volume cardiaque recevant plus de 25 Gy ( Vc25 ) pour des patientes traitées en inspiration bloquée  .
+Krauss et al. ont confirmé ce bénéfice grâce_à l' utilisation d' une IRM cardiaque synchronisée à la respiration  .
+La radiothérapie asservie à la respiration serait également intéressante pour protéger les coronaires .
+Pedersen et al. ont montré que le volume médian de l' artère coronaire interventriculaire-antérieure recevant plus de 50 % de la dose prescrite était de 54 % en respiration libre , 73 % en expiration bloquée et inférieur à 5 % en inspiration bloquée  .
+Dans cette étude , le volume cardiaque irradié était également réduit avec la radiothérapie asservie à la respiration : 1 % en inspiration bloquée contre 8 % en respiration libre et 9 % en expiration bloquée .
+L' irradiation de la chaîne mammaire interne entraîne une augmentation de l' irradiation cardiaque et pulmonaire .
+Dans cette situation , la radiothérapie asservie à la respiration avec blocage inspiratoire réduirait la dose cardiaque mais augmenterait la dose reçue par le sein controlatéral  .
+4. Conclusion et perspectives
+Pour le cancer du sein , l' irradiation de la glande mammaire , de la paroi et des ganglions de drainage , notamment ceux de la chaîne mammaire interne , entraîne une irradiation non négligeable des volumes pulmonaire , cardiaque et oesophagienne  .
+L' amélioration de la qualité et de la précision des techniques de radiothérapie impose une meilleure connaissance des facteurs responsables des incertitudes de traitement et une définition rigoureuse des différents volumes cibles  .
+Les incertitudes géométriques liées à la respiration et au positionnement sont très dépendantes des techniques de traitement utilisées .
+Cependant , elles ne constituent qu' un maillon au sein d' un ensemble de procédures dont chaque élément interagit avec les autres .
+Il est nécessaire que chaque centre évalue ces incertitudes en fonction de ses protocoles et de ses habitudes thérapeutiques spécifiques .
+Le développement des systèmes d' imagerie de contrôle , ou imagerie portale , a permis le développement de stratégies de contrôles et de corrections en temps réel des erreurs de positionnement .
+La radiothérapie asservie à la respiration , en diminuant le volume de tissu sain irradié , a le potentiel de limiter les incertitudes liées aux mouvements respiratoires limitant le risque de toxicité pulmonaire , cardiaque et oesophagienne  .
+Cette technique est maintenant disponible dans une vingtaine de centres en France grâce au soutien de fonds privés comme la Ligue contre le cancer , et grâce au programme STIC ( soutien aux techniques innovantes et coteuses ) de 2003 , mis en place par le ministère de la Santé .
+Cependant , si les concepts de volumes cibles ( volume tumoral macroscopique , volume cible anatomoclinique , volume cible interne ) proposés dans les rapports 50 et 62 de l' ICRU sont actuellement bien acceptés et utilisés dans beaucoup de centres de radiothérapie , l' évaluation précise de leur pertinence est plus rare .
+Pour le sein , l' expérience acquise avec les méthodes d' imagerie tridimensionnelle montre que ces recommandations sont difficiles à appliquer stricto_sensu .
+Une nouvelle réflexion doit avoir lieu pour répondre aux exigences de précision des nouvelles techniques de traitement et aux particularités de cette localisation .
+Parallèlement , le développement de la tomoscintigraphie par émission de positons ( TEP ) et des techniques de fusion - recalage mono- ou multimodalités permettront peut-être dans un proche avenir de définir avec précision un volume cible macroscopique ou de rapporter lors_de la simulation le volume tumoral préopératoire .
+L' avenir consistera peut-être à effectuer le suivi en temps réel des déplacements du patient et de la tumeur pendant l' irradiation ( « tracking » selon la terminologie anglo-saxonne ) .
+Plusieurs techniques ont été proposées , toutes dans le cadre d' études de faisabilité sans évaluation précise de la méthode  .
+Parmi elles , l' utilisation d' un robot de type « cyberknife » poursuivant le volume cible grâce_à des détecteurs infrarouges et à des tubes à rayons X semble séduisante mais encore_un_peu utopique  .
+Une autre voie consisterait à intégrer les erreurs de positionnement et le rythme respiratoire dans le mouvement des lames du collimateur .
+Cette technique permettrait d' envisager l' irradiation de volumes plus importants que le système précédent , tout en autorisant une modulation concomitante de l' intensité de faisceau  .
+Cependant , ces méthodes restent très complexes et nécessitent encore des expérimentations supplémentaires .
+Plus réaliste , la tomothérapie qui combine dans le même appareil un système d' irradiation avec modulation d' intensité et un dispositif d' imagerie en temps réel semble très prometteuse notamment pour la pathologie mammaire  .
+Remerciements
+Les auteurs tiennent à remercier la Ligue contre le cancer - Comité de Paris ainsi_que la société Varian pour leur soutien dans la réalisation de ce travail

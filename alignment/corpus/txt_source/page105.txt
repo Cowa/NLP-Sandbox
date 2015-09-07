@@ -1,0 +1,217 @@
+Le traitement curatif des patients atteints de cancers du sein et surtout du cavum est associé à des séquelles fonctionnelles assez importantes tel que le dysfonctionnement thyroïdien postradique .
+Nous présentons dans ce travail les résultats d' une étude prospective de dépistage des hypothyroïdies après irradiation des cancers du cavum et du sein , et une comparaison de nos résultats avec ceux de la littérature .
+2. Patients et méthodes
+Une étude prospective de dépistage des hypothyroïdies postradiques a été réalisée de janvier 1996 à mars 2001 dans le service de radiothérapie carcinologique du Centre hospitalier universitaire Habib-Bourguiba de Sfax ( Tunisie ) en collaboration avec les services de médecine nucléaire et d' endocrinologie .
+L' étude a intéressé des patients atteints de cancer du sein ou du cavum qui ont reçu une irradiation cervicosusclaviculaire .
+Un bilan thyroïdien a été initialement réalisé chez tous les patients .
+Il a compris un interrogatoire , un examen clinique minutieux à la recherche de signes de dysthyroïdie ou d' anomalies morphologiques de la thyroïde et un dosage plasmatique par méthode radio-immunologique de la tétra-iodothyronine libre ( FT4 , VN : 7 à 20 pg / ml ) et la thyréostimuline ( TSH , VN : 0,1 à 5 UI / ml ) .
+Les patients qui avaient des perturbations thyroïdiennes cliniques et / ou biologiques avant le début de la radiothérapie ont été exclus de l' étude .
+Le même bilan biologique thyroïdien a été réalisé tous les trois mois de la première année après l' irradiation puis tous les six mois .
+Si le bilan hormonal est en faveur d' une hypothyroïdie évidente , le patient reçu un traitement substitutif par L-thyroxine .
+Si les perturbations du bilan thyroïdien n' était pas franches ( FT4 normale et TSH légèrement élevée ou FT4 basse et TSH dans les limites de la normale ) , un test de stimulation de la TSH par la TRH ( thyrotropin releasing hormone ) a été réalisé .
+Il consistait à injecter 250 g de TRH synthétique par voie intraveineuse et à effectuer une série de prélèvements sanguins pour le dosage de la TSH à 30 minutes d' intervalle .
+La -TSH au temps 30 minutes , différence entre TSH basale et TSH trente minutes après injection de TRH , doit être normalement inférieure à 25 U / ml .
+À côté du bilan thyroïdien fonctionnel , un dosage des anticorps antithyroglobuline et antithyroperoxydase a été systématiquement pratiqué à la recherche d' une étiologie auto-immune sous-jacente .
+À l' issue de ce bilan , différentes situations sont possibles .
+Tableau 1.
+État thyroïdien en fonction du bilan
+Thyroid function
+FT4TSHTest TRH / TSH Euthroïdienormalenormale - Hypothyroïdie primaire clinique - Hypothyroïdie primaire biologiquenormaleTSH 25 UI / ml Hypothyroïdie centraleTSH 2 UI / ml Hypothyroïdie mixte2 TSH 25 UI / ml
+Full-size table
+View Within Article
+Au total 84 patients ayant eu un bilan thyroïdien initial et un suivi post-thérapeutique minimum de un an ont été inclus dans l' étude .
+La radiothérapie externe a été délivrée pour tous les malades par un appareil de télécobalthérapie .
+Notre série a comporté 37 malades traités pour cancer du sein .
+Une dose de 44 Gy a été délivrée par le faisceau d' irradiation sus-claviculaire unilatéral direct , qui incluait en_partie le lobe thyroïdien homolatéral .
+La dose a été spécifiée à 3 cm de profondeur .
+Le traitement de la chaîne mammaire interne a été fait par les faisceaux tangentiels mammaires .
+Quarante-sept patients atteints d' un carcinome du cavum ont eu une irradiation cervicale bilatérale à une dose supérieure ou égale à 50 Gy ( prescrite à 3 cm de la surface cutanée ) , utilisant un faisceau cervical antérieur avec un cache médullaire médian épargnant l' isthme et les parties internes des deux lobes thyroïdiens .
+La dose moyenne absorbée par le parenchyme thyroïdien a été évaluée à 100,8 % de la dose délivrée au volume cible en_dehors des caches et à 3,7 % sous le cache  .
+Les courbes de probabilité d' hypothyroïdie postradique ont été établies avec la méthode de Kaplan Meier .
+La comparaison des courbes a été faite par le test de Log Rank .
+Nous avons conservé le seuil de 5 % ( p = 0,05 ) pour considérer qu' une différence était statistiquement significative .
+La comparaison des fréquences a été faite par le test de 2.
+3. Résultats
+L' âge moyen des patients au moment du diagnostic était de 45 ans et des extrêmes de 14 et 77 ans .
+Les malades atteints d' un cancer du sein étaient tous des femmes sauf deux .
+La majorité des patients traités pour un cancer du cavum étaient de sexe masculin ( sex ratio : 2,3 ) .
+La radiothérapie était monofractionnée dans 55 cas ( 65,5 % ) et bi fractionnée ( 1,6 Gy par séance , deux séances à six heures d' intervalle au_minimum ) dans 29 ( 34,5 % ) .
+L' irradiation bifractionnée n' a concerné que les patients traités pour un cancer du cavum dans le cadre d' un essai thérapeutique comparant les deux modalités d' irradiation .
+Avant l' irradiation , les concentrations moyennes de FT4 et de TSH étaient respectivement de 11,9 pg / ml et 1,42 UI / ml .
+Les patients ont été suivis , après la fin du traitement , pendant une durée moyenne de deux ans .
+Nous avons recensé 24 cas d' hypothyroïdie postradique ( 29 % ) , cliniques pour 11 ( 13 % ) et seulement biologiques pour 13 ( 15,5 % ) étaient .
+Les signes cliniques retrouvés étaient essentiellement une infiltration cutanéomuqueuse ( 45 % ) , un ralentissement psychomoteur ( 36 % ) et une frilosité ( 27 % ) .
+Ils n' étaient en aucun cas révélateurs de l' hypothyroïdie .
+En étudiant la cinétique des hormones thyroïdiennes , nous avons noté une élévation de la concentration de TSH et une baisse celle de FT4 , qui étaient plus marquées en cas d' hypothyroïdie .
+Full-size image ( 22K )
+Fig. 1. Évolution de la TSH .
+TSH evolution .
+View Within Article
+Un test de stimulation de la TSH par la TRH a été réalisé chez 20 patients .
+Il était normal dans cinq cas , en faveur d' une hypothyroïdie périphérique dans 12 cas et d' une hypothyroïdie mixte ( centrale et périphérique ) dans trois cas traités pour cancer du cavum .
+Le dosage des anticorps antithyroperoxydase ( TPO ) et antithyroglobuline ( TG ) a été négatif .
+Une atteinte antéhypophysaire était associée à l' hypothyroïdie chez cinq patients ( 21 % ) , tous traités pour un cancer du nasopharynx .
+Il s' agissait d' une hyperprolactinémie de déconnexion ( 3 cas ) , une insuffisance gonadotrope ( 3 cas ) , une insuffisance corticotrope ( 1 cas ) et une insuffisance somatotrope ( 1 cas ) .
+Le délai entre la fin de l' irradiation et l' apparition de l' hypothyroïdie était de 3 à 54 mois .
+Il était en moyenne de 21 mois , soit 13,2 mois en cas de cancer du sein et 24,3 mois en cas du cancer du cavum .
+L' hypothyroïdie s' est développée chez 93 % des patients dans les trois premières années suivant le traitement .
+Les probabilités de survenue de l' hypothyroïdie à un , deux et trois ans après la fin de l' irradiation étaient respectivement de 14 , 28 et 51 % .
+Full-size image ( 13K )
+Fig. 2. Risque actuariel de survenue de l' hypothyroïdie .
+Actuarial risk of hypothyroidism development .
+View Within Article
+Au cours du suivi , le bilan thyroïdien s' est spontanément normalisé chez deux patients ( 8 % ) au bout de six mois .
+Ces deux patients n' ont pas eu de test TRH - TSH et n' ont pas reçu de traitement substitutif .
+Sur les 22 hypothyroïdies restantes , 19 ( 79 % ) ont été traitée par une substitution thyroïdienne .
+La dose moyenne de traitement par la L-thyroxine était de 60 g par jour .
+Nous avons étudié l' influence de différents paramètres sur l' apparition de l' hypothyroïdie , à savoir l' âge , le sexe , la localisation cancéreuse , la dose et le volume irradié , le fractionnement et l' association ou non à la chimiothérapie .
+Chez les 24 patients chez qui a été mise en évidence une hypothyroïdie , l' âge au début du traitement était compris entre 14 et 75 ans ( moyenne = 41 ans ) .
+La fréquence est de 64 % dans les tranches d' âge 10 - 30 ans ( p = 0,002 par comparaison à l' ensemble de la population ) et de 50 % pour les patients âgés de 50 - 60 ans ( p = 0,06 ) .
+La fréquence de l' hypothyroïdie est la même dans les deux sexes ( 28,5 % des cas ) avec 10 / 35 chez les hommes et 14 / 49 chez les femmes .
+Si on compare les courbes de probabilité de développer une hypothyroïdie selon le sexe et en fonction du suivi post thérapeutique , on constate qu' au début il y' a un écart , puis les courbes se croisent ( p = 0,57 ) .
+Full-size image ( 17K )
+Fig. 3. Courbe de probabilité de survenue de l' hypothyroïdie en fonction du suivi et du sexe .
+Risk of hypothyroidism development according to gender .
+View Within Article
+La fréquence de l' hypothyroïdie postradique était de 36 % dans le groupe des patients traités pour cancer du cavum et de 19 % dans celui des patients traités pour cancer du sein .
+Cette différence n' était pas statistiquement significative mais proche du seuil de signification ( p = 0,08 ) .
+Le volume thyroïdien irradié et la dose prescrite dépendaient du type du cancer .
+En effet , en cas de cancer du sein , la dose était de 44 Gy et un seul lobe thyroïdien était irradié .
+En cas de cancer du cavum , la dose était de 50 Gy et deux lobes thyroïdiens étaient irradiés .
+Il y' a une différence nette entre ces deux groupes , quoique non significative ( p = 0,09 ) .
+Full-size image ( 15K )
+Fig. 4. Risque actuariel de l' hypothyroïdie en fonction de la dose et du volume thyroïdien irradié .
+Risk of hypothyroidism development according to dose and volume.
+View Within Article
+Dans notre étude , 61 patients ont reçu une chimiothérapie ( 73 % ) dont 18 ( 29,5 % ) ont eu une hypothyroïdie postradique .
+La chimiothérapie utilisée pour les malades atteints de cancer du sein était à base de 5-fluoro-uracile , d' épirubicine et de cyclophosphamide ( FEC ) .
+Pour le cancer du cavum , il s' agissait d' une chimiothérapie de première intention par trois cycles de cisplatine et d' épirubicine .
+Parmi les 23 patients traités par irradiation seule , six ( 26 % ) sont devenus hypothyroïdiens ( p = 0,96 ) .
+4. Discussion
+Il convient d'_emblée d' insister sur le fait que la_plupart des publications concernant les hypothyroïdies après radiothérapie externe portent sur des patients traités pour une maladie de Hodgkin ou lymphome malin  , plus rarement pour un cancer de la tête et du cou ( surtout du larynx )  et exceptionnellement pour un cancer du sein  ou du nasopharynx  .
+Les signes cliniques de l' hypothyroïdie sont fréquemment frustes et non spécifiques .
+Ils peuvent se confondre avec les signes cliniques de la maladie ainsi_qu' avec les conséquences nutritionnelles , physiques et psychologiques , de la maladie et de son traitement .
+Dans notre série , les signes le plus fréquemment rencontrés étaient l' infiltration cutanéomuqueuse ( 45 % ) et le ralentissement psychomoteur ( 36 % ) .
+Dans l' étude de Nelson et al. , la prise de poids , la fatigue , la lenteur et l' intolérance au froid ont été observés aussi_bien chez les patients en hypothyroïdie que les patients en euthyroïdie  .
+L' hypothyroïdie peut être due à un déficit en TSH ou en TRH , secondaire à des lésions hypothalamohypophysaires induites par le traitement de certains cancers ORL , essentiellement du nasopharynx et des sinus de la face  .
+Le déficit en TSH peut être la seule manifestation de l' atteinte hypophysaire ou être accompagné d' une chute des gonadotrophines , de l' ACTH ou , le_plus_souvent , de l' hormone de croissance  .
+Dans notre série , trois patients irradiés pour cancer du cavum ont eu une hypothyroïdie mixte ( 3 / 47 , soit 6 % ) due à l' atteinte associée de la glande thyroïde et de l' hypophyse .
+Le délai moyen de survenue d' une hypothyroïdie postradique est estimé par la majorité des auteurs entre 16 et 22 mois  .
+Dans notre étude , le délai il était de 21 mois .
+Quatre vingt-trois pour cent des hypothyroïdies se sont développées dans les trois premières années après la fin de la radiothérapie .
+Pour Hancock_et_al.  , la majorité des hypothyroïdies sont identifiées durant la deuxième et la troisième année après l' irradiation , puis l' incidence décroît .
+Colevas_et_al.  et Kumpulainen_et_al.  ont découvert respectivement 50 et 64 % des hypothyroïdies la première année après l' irradiation .
+Pour d' autres auteurs , le pic de fréquence de l' hypothyroïdie se situe après trois ans  .
+Le taux d' hypothyroïdie dans la population générale varie de 2 à 10 % chez les femmes et de 0,2 à 2 % chez les hommes  .
+L' hypothyroïdie primaire ou périphérique représente 95 % des cas et elle est due quasiment à un déficit iodé .
+Dans les régions non déficitaires à l' iode telles_que la Tunisie , l' hypothyroïdie est secondaire à une thyroïdite auto-immune chronique ou à un traitement antérieur d' une hyperthyroïdie par l' iode 131  .
+Le premier cas d' hypothyroïdie après radiothérapie externe de cancer a été rapporté en 1961 .
+Il s' agissait d' une hypothyroïdie survenue six ans après la fin du traitement d' un carcinome laryngé  .
+Le taux d' hypothyroïdie varie dans la littérature selon la pathologie étudiée .
+De plus , la définition de l' hypothyroïdie diffère selon les auteurs .
+Certains étudient l' hypothyroïdie biologique , d' autres rapportent les cas d' hypothyroïdie clinique , une différence qui peut intervenir en_partie dans la variabilité des fréquences de l' hypothyroïdie et expliquer la difficulté de comparer les résultats des différentes séries de la littérature  .
+Dans les rapports concernant les cancers de la tête et du cou , l' incidence de l' hypothyroïdie ( clinique et biologique ) varie de 2 à 54 %  .
+Tableau 2.
+Fréquence de l' hypothyroïdie après radiothérapie de cancers de la sphère ORL .
+Les études  étaient prospectives , les autres études étaient rétrospectives 
+Frequency of hypothyroidism after head and neck irradiation .
+Studies  were prospective .
+Etude ( année ) [ réf ] Nombre de patientsDose ( Gy ) Fréquence de l' hypothyroïdie ( % ) ProspectiveColevas_et_al.   11844 - 8245 Posner_et_al.   4350 - 7237,2 Tell_et_al.   26454 - 6628 RétrospectiveJung_et_al.   22445 - 8054 Turner_et_al.   10446 - 5423,8 Grande ( 1992 )  22150 - 7041,7 Samaan_et_al.   1105044,5 De Jong_et_al.   6045 - 602
+Full-size table
+View Within Article
+Dans notre série , la fréquence de l' hypothyroïdie postradique dans le groupe des patients traités pour cancer du cavum était de 36 % ( 30 % pour l' hypothyroïdie primaire et 6 % pour l' hypothyroïdie mixte ) .
+Des résultats variables sont trouvés dans la littérature , ils ne concernent pour la_plupart qu' un nombre limité de cancers du cavum .
+L' étude la plus importante est celle de Bensadoun_et_al.  , qui ont étudié les complications tardives de la radiothérapie externe chez 79 adultes traités pour carcinome du nasopharynx .
+Ils ont rapporté six cas d' hypothyroïdie ( 7,6 % ) , dont cinq étaient des hypothyroïdies périphériques ( 6,3 % ) et un d' origine hypothalamique .
+Dans la série de Colevas_et_al.  , 11 des 21 patients traités pour cancer du nasopharynx ont eu une hypothyroïdie primaire ( 52,4 % ) .
+L' étude de Turner et al. a intéressé 84 patients traités pour cancer de la tête et du cou , dont 15 étaient porteurs d' un cancer du nasopharynx .
+Deux de ces derniers ( 13,3 % ) ont eu une hypothyroïdie  .
+Samaan_et_al.  ont rapporté chez des patients traités pour un carcinome nasopharyngé 20 % d' hypothyroïdies primaires , 33 % d' hypothyroïdies secondaires et 47 % d' hypothyroïdies tertiaires .
+Cependant , De Jong_et_al.  ont rapporté un taux de risque de 2 % après radiothérapie pour cancer de la tête et du cou ( 60 patients ) avec exposition partielle de la glande thyroïde .
+Les publications à_propos de la maladie de Hodgkin suggèrent une fréquence supérieure d' hypothyroïdie , ceci est peut être lié à un suivi plus long dans cette maladie  .
+L' étude de Hancock_et_al.  , qui fait référence dans ce domaine et concernait 1677 patients traités pour une maladie de Hodgkin a révélé un taux de risque actuariel avec un recul de 27 ans de 47 % .
+Pour ce qui est du cancer du sein , les publications sont rares .
+Joensuu et Viikari  ont dosé la TSH et la T4 chez 80 patients irradiés après mastectomie avec un recul moyen de 7,2 ans .
+Une dose de 45 Gy a été délivrée en trois ou quatre semaines dans aires ganglionnaires parasternale , susclaviculaire et axillaire homolatérales .
+L' incidence de l' hypothyroïdie a été de 21 % ( 6 % d' hypothyroïdies cliniques , 15 % d' hypothyroïdies biologiques ) .
+Ce résultat est comparable à celui de notre étude ( 19 % ) avec une technique d' irradiation semblable .
+De même , Bruning_et_al.  ont rapporté un taux d' hypothyroïdie clinique de 2 et 3 % et une élévation isolée de la TSH chez 10 et 25 % de patients traités pour cancer du sein , selon le faisceau d' irradiation utilisé .
+L' hypothyroïdie subclinique ou biologique est un état d' insuffisance thyroïdienne compensée .
+Elle précède parfois , de plus_ou_moins longtemps , le stade d' hypothyroïdie patente  .
+La prévalence de l' hypothyroïdie subclinique dans la population générale est proche_de 5 %  .
+En cas d' hypothyroïdie postradique , la fréquence de la forme biologique varie de 7,7 à 57 % .
+Elle représente selon les auteurs 40 à 83 % du nombre total des hypothyroïdies .
+Dans notre étude , la fréquence de l' hypothyroïdie biologique était de 15,5 % , soit 54 % de l' ensemble des patients ayant eu une hypothyroïdie .
+Nos résultats sont comparables à ceux de la littérature .
+Tableau 3.
+Fréquence de l' hypothyroïdie ( HT ) biologique
+Biological - hypothyroidism ( HT ) frequency .
+ÉtudeNombre totalFréquence HT biologiqueProportion ( % ) Type de cancer Notre série8428,654,2Cavum , sein Grande  22126,264Tête et cou Turner_et_al.  1047,740Tête et cou Nishiyama_et_al.  202541,7Diversa Joensuu et Viikari  801570,6Sein Smith_et_al.  6431,183,3Hodgkin
+Full-size table
+a Poumon , oesophage , sein , thymome malin .
+View Within Article
+Huit pour cent des hypothyroïdies survenues chez nos malades ont spontanément disparu ; 79 % ont été substituées .
+Pour Nishiyama_et_al.  l' hypothyroïdie serait irréversible et les valeurs de la TSH ne reviennent pas à la normale au cours du suivi .
+Pour Hancock_et_al.  , elle peut être transitoire ( 5 % de ses hypothyroïdies : 27 / 573 ) et peut également évoluer d' une forme subclinique à une forme franche .
+L' influence de l' âge a été retrouvée dans notre étude avec un taux plus important d' hypothyroïdie chez les malades âgés de 10 à 30 ans ( 64 % ; p = 0,002 ) .
+Ce taux était de 50 % pour la tranche d' âge entre 50 et 60 ans ( p = 0,06 ) .
+Glastein_et_al.  ont trouvé des taux d' hypothyroïdie ( diagnostic retenu seulement devant une élévation de la TSH ) de 48 et 33 % chez les patients âgés de moins de 20 ans et de plus de 20 ans .
+Pour Hancock_et_al.  , le pourcentage des patients concernés par l' hypothyroïdie passait de 15 % pour ceux traités avant cinq ans à 39 % lorsqu' ils étaient traités entre 15 et 20 ans .
+Seulement 17 % des patients âgés de 70 ans et plus lors_de l' irradiation ont eu une hypothyroïdie .
+Pour d' autres auteurs , le risque d' hypothyroïdie postradique est plus important chez des sujets âgés de plus de 60 ans .
+Colevas_et_al.  et Tell_et_al.  ont rapporté dans leurs études un risque plus élevé dans cette tranche d' âge ( p = 0,004 et 0,001 respectivement ) .
+Rappelons que dans la population générale , la prévalence de l' hypothyroïdie est plus grande chez les sujets de plus de 65 ans et augmente avec le vieillissement alors_que se développent une fibrose et une atrophie thyroïdiennes  .D' autres études ont montré l' absence d' influence de l' âge dans la survenue de l' hypothyroïdie  .
+Le sexe n' influençait pas la survenue d' hypothyroïdie dans notre étude .
+Nos données étaient comparables à ceux de la_plupart des auteurs  .
+Cependant , Hancock_et_al.  ont rapporté un risque 1,6 fois plus grand chez la femme que chez l' homme , tout comme Vrabec et Heffron  , qui ont trouvé 25,4 % d' hypothyroïdies chez les hommes irradiés et 48,6 % chez les femmes .
+La dose reçue par la glande thyroïde après irradiation cervicosusclaviculaire pour cancer du sein et du cavum a été mesurée par dosimétrie in_vivo par Besbes_et_al.  .
+Elle était presque égale à la dose prescrite spécifiée à 3 cm de profondeur ( 100,8 % ) .
+Dans notre étude , nous n' avons pas trouvé une différence significative de survenue de l' hypothyroïdie entre les patients traités par une dose inférieure à 50 Gy et ceux traités par une dose supérieure ou égale à 50 Gy .
+Nos résultats sont comparables à ceux de Mercado_et_al.  , qui n' ont pas noté de différence entre des doses supérieures à 62 Gy et des doses inférieures à 62 Gy .
+Pour Hancock_et_al.  , dans une étude qui a intéressé 1667 patients traités pour une maladie de Hodgkin , le risque d' hypothyroïdie était de 2 % chez les malades non irradiés , de 27 % chez les malades ayant reçu une dose comprise entre 7,5 et 30 Gy , et de 44 % chez ceux ayant reçu une dose supérieure à 30 Gy .
+L' influence de la dose est cependant difficile à démontrer chez les adultes puisqu' ils ont pour la_plupart reçu une dose supérieure ou égale à 44 Gy .
+Kaplan_et_al.  ont rapporté une augmentation significative du risque d' élévation de la TSH avec des doses supérieures ou égales à 30 Gy ( p 0,01 ) .
+Il ressort de toutes ces études que chez l' enfant le seuil de dose qui influence la survenue de l' hypothyroïdie se situe entre 20 et 30 Gy .
+En revanche , chez l' adulte , il est difficile de confirmer l' effet de la dose .
+Dans notre étude , l' importance du volume thyroïdien irradié n' a pas pu être évaluée puisque la proportion de la glande thyroïdienne irradiée ne variait pas d' un patient à l' autre , aussi_bien dans le cas du cancer du nasopharynx que dans celui du cancer du sein .
+Tell_et_al.  ont montré une augmentation de la fréquence de l' hypothyroïdie biologique lorsque la totalité de la thyroïde était incluse dans volume irradié par_rapport_à une partie ( p = 0,04 ) .
+Il n' y avait en_revanche pas de différence significative de la fréquence de l' hypothyroïdie clinique ( p = 0,06 ) .
+L' impact du fractionnement sur la survenue de l' hypothyroïdie postradique n' a été étudié que dans les cancers de la tête et du cou et dans les irradiations d' autres cancers comme le médulloblastome .
+Pour le cancer du sein , le fractionnement utilisé est comparable pour toutes les équipes .
+Pour Colevas_et_al.  , dans une étude de 118 patients traités pour cancer de la tête et du cou , la radiothérapie bifractionnée ( 1,6 Gy , 2 fois par jour ) a entraîné une incidence d' hypothyroïdie statistiquement inférieure ( p = 0,006 ) à celle observée avec une radiothérapie au fractionnement classique .
+Cependant , en corrigeant ce chiffre en tenant compte de la durée de suivi , aucune différence n' apparaissait , comme dans notre étude
+Chin et al. ont en_revanche trouvé des résultats différents  .
+En effet , 14 % des patients traités par irradiation hyperfractionnée et 62 % de ceux traités par irradiation classique ont eu une hypothyroïdie primaire au bout d' une période moyenne similaire après la fin du traitement .
+Cette étude suggère donc , que l' utilisation de la radiothérapie hyperfractionnée dans le traitement des enfants atteints de médulloblastome ou de tumeur neuroectodermique primitive craniospinale est associée à un risque moindre d' hypothyroïdie postradique primaire .
+Ces résultats rejoignent ceux trouvés par Ricardi_et_al.  .
+Peu de travaux ont étudié l' effet de la chimiothérapie sur la glande thyroïde .
+Le 5-fluoro-uracile et l' asparginase peuvent modifier la concentration des hormones thyroïdiennes  .
+Marcado_et_al.  ont étudié l' effet de l' association d' une chimiothérapie et d' une radiothérapie concomitante chez des patients traités pour cancer de la tête et du cou et ils n' ont pas trouvé de risque accru d' hypothyroïdie par_rapport_à la radiothérapie seule .
+Livesey et Brook  ont constaté que l' adjonction d' une chimiothérapie augmentait le risque d' hypothyroïdie .
+Vingt-trois pour cent des enfants traités par irradiation cérébrospinale exclusive étaient hypothyroïdiens , contre 50 % pour l' association radiothérapie cérébrospinale et chimiothérapie .
+Dans notre étude , aucune différence significative ( p = 0,96 ) n' a été trouvée entre les patients traités par irradiation exclusive et ceux traités par l' association de radiothérapie et de chimiothérapie .
+Le traitement hormonal de substitution doit être instauré chez les patients qui ont une FT4 basse  , comme c' était le cas pour nos malades .
+Pour les patients qui ont uniquement une TSH élevée , plusieurs arguments plaident en faveur d' un traitement substitutif .
+D' une part , l' hypothyroïdie subclinique ou compensée évolue vers l' hypothyroïdie clinique dans plusieurs cas  .
+D' autre_part , les patients qui ont une hypothyroïdie biologique peuvent être à risque d' hypercholestérolémie et d' athérosclérose , qui peuvent compliquer et s' ajouter à d' autres facteurs de risque dans ce groupe de patients  .
+Enfin , les patients qui ont une élévation chronique de la TSH peuvent avoir un risque accru de développement de nodules bénins ou malins de la thyroïde par_rapport_à la population générale  .
+Ainsi , le traitement des hypothyroïdies élimine une cause significative de morbidité chez les survivants et diminue par_conséquent le risque de nodule thyroïdien et probablement de cancer dus à une stimulation continue de la TSH  .
+L' argument contre un traitement substitutif systématique serait l' éventuelle normalisation spontanée de la fonction thyroïdienne chez des patients atteints d' une hypothyroïdie postradique primaire  , comme chez deux de nos patients .
+Le faible pourcentage de normalisation et la difficulté d' individualiser le profil de patient chez le bilan allait se normaliser imposent la mise en oeuvre d' un traitement substitutif .
+La surveillance thyroïdienne est conseillée par la_plupart des auteurs après irradiation cervicale .
+Colevas et al. , dans leur institution , ont préconisé un dosage de la TSH 6 et 12 mois après la fin de l' irradiation d' un cancer de la tête et du cou , puis annuellement  .
+Nelson_et_al.  ont conseillé de pratiquer une scintigraphie au technétium avant la lymphographie et la radiothérapie , de doser la TSH une fois par an pendant deux ans , puis tous les cinq ans , mais également à la découverte de la moindre anomalie clinique .
+Pour Barilet al.  , une surveillance semestrielle pendant cinq ans par le dosage de la TSH paraît suffisante .
+En cas d' élévation , un deuxième contrôle doit être effectué trois mois après .
+Si l' élévation de la concentration de TSH est confirmée , un bilan plus complet par le dosage de T3 et T4 libres est indiqué avec une prise en charge dans un service spécialisé d' endocrinologie .
+5. Conclusion
+La surveillance des patients irradiés pour un cancer du cavum et du sein permettant le dépistage des formes subcliniques d' hypothyroïdie semble actuellement être le seul moyen efficace de ne pas voir apparaître des hypothyroïdies franches ou de nodules thyroïdiens .
+Il est recommandé d' effectuer une surveillance clinique et biologique régulière , en dosant la concentration de la FT4 et la TSH .
+Les explorations seront complétées par un test au TRH et la recherche d' anticorps antithyroïdiens en cas d' anomalies du premier bilan .
+Cette surveillance serait conseillée même à très long terme .
+Le rythme de cette surveillance est très discuté par les auteurs .
+Au vu de nos résultats et des données de la littérature , il est recommandé de pratiquer : - un bilan thyroïdien clinique et un dosage de la TSH et de la FT4 avant_tout traitement ;
+- une surveillance clinique et un dosage de la TSH et de la FT4 deux fois par an les trois premières années après la fin de la radiothérapie ;
+- une surveillance clinique et biologique une fois par an et à vie après trois ans .
+Remerciements
+Les auteurs remercient le Pr F. Eschwege pour avoir accepté de lire l' article avant sa soumission

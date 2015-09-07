@@ -1,0 +1,190 @@
+Compared with conventional external beam radiation , brachytherapy offers a different , more localized , therapeutic approach .
+It allows radiotherapy at a short distance with the radioisotope placed on , in , or near the malignant tissue or site of resection , with less adverse effects to adjacent healthy organs  .
+Two types of devices are currently used in breast cancer ; a multi-catheter system in which catheters are surgically inserted into the tumor bed  and the MammoSite system  , which utilizes a balloon ended catheter surgically placed in the tumor bed .
+Despite the advantages it offers , brachytherapy is hampered by the relatively complicated placement and removal procedures  .
+Utilization of biodegradable implants loaded with radioisotope may spare the need for surgical procedures for the removal of the brachytherapy hardware  .
+Such a device would not only provide a more efficient therapy by virtue of its proximity to the site of surgery , but also contribute to improvement in the quality of life of the patients .
+In a previous study , we showed the in vivo feasibility and safety of a brachytherapy platform of 131I-nocholesterol , using rapid and slow degradable crosslinked chitosan hydrogel implants , in a rat model  .
+Due to the low penetrating properties of particles produced by 131I , this product could afford local , moderate radiotherapy in the site of implantation with minimal damage in distant tissues .
+Being highly hydrophobic , 131I-nocholesterol ( commonly used for adrenal scintigraphy ) is a good radioactive component to be used in a biodegradable device , because its release rate is solely dependent on the rate of platform degradation .
+The biocompatibility of the crosslinked chitosan implant was assessed in the rat and was found to be safer than an absorbable surgical suture  .
+A conspicuous use of such biodegradable implant would be in breast cancer patients undergoing breast-conserving surgery , to replace external beam radiation applied over 5 - 6 weeks to the remaining breast tissue to prevent local recurrence .
+The overall objective of the present study was to challenge the hypothesis that locoregional tumor recurrence could either be reduced or prevented by implantation of a biodegradable implant of 131I-norcholesterol ( 131I - NC ) adjacent to the site of tumor resection .
+More specifically , the study goals were to : ( a ) prepare chitosan ( Ct ) implant and to load it with 131I - NC ; ( b ) study the effect of the 131I - NC loaded Ct hydrogel ( 131I - NC - Ct ) as a primary therapy on tumor progression , after its implantation adjacent to the tumor ; ( c ) study the ability of 131I - NC - Ct to prevent tumor recurrence in an adjuvant therapy ( minimal residual disease ) model ; ( d ) characterize the degradation kinetics of 131I - NC - Ct in vivo and ( e ) trace possible adverse effects ( toxicity ) caused by the 131I - NC - Ct implant at the implantation site and distant organs .
+2. Materials and methods2.1 .
+Materials .
+Unless stated otherwise , all materials were purchased from Sigma ( St. Louis , MO , U.S.A. ) .
+Solvents were of analytical grade and water was ultrafiltered by reverse osmosis .
+2.2. Preparation of Ct gels .
+Ct ( 250 mg ) was dissolved in 25 ml of 1 M acetic acid ( Frutarom , Israel ) .
+The Ct solution was heated to 100 C and 3 ml of glutaraldehyde ( GA ) solution ( 25% w / v in water ) was then added to crosslink the Ct .
+The gel which was formed immediately was then rinsed for 24 h in at least three fresh portions of PBS ( 1 mM , pH = 7.4 ) , until no GA residues could be detected .
+Detection was performed spectrophotometrically at 280 nm for monomeric GA and 235 nm for GA dimers  .
+Water content of the gel averaged 98% .
+2.3. Preparation of the 131I - NC - Ct hydrogels .
+Ct ( 250 mg ) was dissolved in 25 ml of 1 M acetic acid ( Frutarom , Israel ) .
+One ml of 131I - NC suspension ( 1 mCi , CIS Bio International , France ) was then dispersed in the Ct solution .
+Crosslinking was then carried out and GA traces were removed as described above .
+This procedure led to about 70% of the initial amount of 131I - NC to adsorb onto the gel surface .
+The rest was removed by rinsing , which was performed until no irradiation was detected in the rinse water .
+The 131I - NC - Ct gels were cut into small cubes , 0.5 g each , containing 14 Ci , as determined by a dose calibrator ( Capintec , CRC 120 , Capintec Instruments , Ramsey NJ , USA ) and implanted immediately in the mice .
+The dose was designed according to a previous reports on the use of 131I ( as sodium salt ) intravenous injection for the treatment of breast cancer  .
+2.4. Cells for the xenograft mouse model .
+4T1 cell line , from metastatic mammary mouse tumor ( ATCC , CRL-2539 ) , were cultured at 37 C in a humidified atmosphere of 5% CO2 / air in Dulbecco 's Modified Eagle 's Medium supplemented with 10% heat-inactivated fetal bovine serum ( Biological Industries , Israel ) , penicillin G ( 60 mg / l ) ( Biological Industries , Israel ) , and streptomycin ( 100 mg / l ) ( Biological Industries , Israel ) .
+Cells were harvested with Trypsin-EDTA , washed with PBS , and concentrated to 2.5 105 and 2.5 103 cells / ml in PBS for tumor progression and micro-residual disease studies , respectively .
+2.5. Animals , regulation , anesthesia and euthanasia .
+The study was conducted in accord with the Principles of Laboratory Animal Care ( NIH Publication #85-23 , 1985 Revision ) .
+The Mutual Committee for Animal Welfare of the Hebrew University of Jerusalem , Faculty of Medicine , and Hadassah University Medical Center reviewed and approved the study protocol .
+Female , 7 - 9 weeks , BALB / c mice were obtained from Harlan Laboratories , Israel .
+During the study , mice were kept under constant environmental conditions ( 22 C , 12 h light / dark cycles ) and fed with standard laboratory chow and tap water .
+Anesthesia was performed by an intraperitoneal injection of 100 mg / kg body weight of ketamine ( Ketaset , 0.1 g / ml Fort Dodge , USA ) .
+Euthanasia of the mice was carried out by cervical dislocation .
+2.6. The effect of 131I - NC - Ct on tumor progression ( primary therapy model )
+A suspension of the 4T1 cells ( 0.2 ml , 5105 cells/ mouse ) was subcutaneously ( SC ) injected in the back of sixty mice ( Scheme 1 ) .
+The tumor became visually apparent one week after cell injection .
+Two weeks after cell injection , the mice were divided into three groups of 20 : Group 1 ; a sham operation was performed , and no hydrogel was implanted ( no treatment group ) , Group 2 ; 0.5 g of unloaded hydrogels were implanted in each mouse to study the possible effect of the vehicle ( naive hydrogels ) , Group 3 ; 0.5 g of 131I - NC - Ct were implanted in each mouse .
+The implantation procedure was performed through a 1 cm incision in the back of the anesthetized mouse , placing the hydrogels on the encapsulated tumor and closing the skin with stainless steel staples .
+At 2 , 3 and 4 weeks after implantation , three mice from each group were sacrificed .
+The tumor was removed and weighed .
+In addition , multiple biopsy specimens from the tumor bed , lungs , heart , liver , spleen and kidneys , were fixed in formalin , embedded in paraffin and subjected to histopathological analysis .
+The remaining 11 mice were followed until cancer-related death occurred for survival analysis conducted by the Kaplan - Meier product limit method  .
+Full-size image ( 22K )
+Scheme 1. Schematic presentation of the experimental set-up of the primary therapy and the surgical adjuvant therapy protocols , employing T41 cells and 131I - NC - Ct implants ( SC : subcutaneous ) .
+View Within Article .
+2.7. The effect of 131I - NC - Ct on preventing tumor recurrence ( adjuvant therapy model )
+The aim of this section of the study was to construct a model of minimal residual disease leading to tumor recurrence following surgical therapy , and to examine the impact of 131I - NC - Ct ( Scheme 1 ) placement on tumor recurrence rate .
+Sixty mice were divided into three study groups of 20 as described above .
+The implantation procedure was performed through a 1 cm incision in the back of the anesthetized mouse , mounting the hydrogels in the surgical cavity , injecting a suspension of the 4T1 cells ( 0.2 ml , 5103 cells / mouse ) and closing the skin with stainless steel staples .
+At 11 weeks mice from each group were sacrificed .
+Multiple biopsy specimens from the tumor bed , lungs , heart , liver , spleen and kidneys , were fixed in formalin , embedded in paraffin and subjected to histopathological analysis .
+The remaining mice were followed until cancer-related death occurred for survival analysis conducted by the Kaplan - Meier product limit method .
+2.8. Histological analysis .
+Specimens from the tumor bed , lungs , heart , liver , spleen and kidneys , previously collected , were rinsed with PBS , fixated with 4% formaldehyde in PBS , dehydrated with ethanol , embedded in paraffin blocks , sectioned ( 4 m ) and stained with hematoxylin - eosin  .
+2.9. Imaging and estimation of biological elimination of the hydrogel .
+To verify localization of the 131I - NC - Ct , hydrogel cubes ( 0.5 g ) of the radioactive hydrogels were implanted subcutaneously in the back of four mice .
+Scintigraphy was performed at 0 , 4 , 14 and 30 days after implantation .
+Each mouse was imaged for 10 min under anesthesia , using a helix dual-head camera ( Elscint , Haifa , Israel ) and a high-energy , high-resolution collimator .
+Data was analyzed on a Xeleris program ( GE Healthcare ) , regions of interest were drawn on each focus , and the total number of counts in each region was obtained  .
+Data obtained from the imaging study was used to calculate the elimination of the hydrogel from the site of implantation .
+2.10. Oxidative degradation of the gel in vitro .
+To verify previous histological observation ( gel color change with time , associated with the degradation process ) suggesting an oxidation process involved in the implant elimination  , hydrogel cubes ( s = 4 mm ) were incubated in elevated concentrations ( 0 , 1 , 5 and 10 mM ) of potassium permanganate in water for 3 min .
+The gels were retrieved , washed twice with water , and incubated separately in 1 ml of aqueous hematoxylin ( 0.05 mg / ml ) or eosin ( 0.5 mg / ml ) solutions for 4 h at room temperature .
+The concentration of the remaining dye in the incubation medium was measured at 560 nm ( hematoxylin ) and 520 nm ( eosin ) and the fraction ( percent of initial amount ) of dye adsorbed onto the gels was calculated .
+3. Results3.1 .
+The effect of 131I - NC - Ct on tumor progression ( primary therapy model )
+Tumor growth rate varied among the different study groups .
+Growth rate in the untreated group and the naive-implant group was 0.11 g / day , and no further tumor progression was observed after 21 days .
+The tumor progression rate in the treatment group ( implanted with 131I - NC - Ct ) was 5 fold slower ( 0.02 g / day ) during the first 14 days , after which time the rate equalized ( 0.12 g / day days 15 through 28 ) with the rate observed in the non-treated and naive-implant groups , and no further tumor progression was observed after 28 days .
+Photographs of the solid tumors and microphotographs of the metastatic spread , taken 14 days after the hydrogel implantation are shown in Fig. 2. While no metastatic spread could be detected in lungs of 131I - NC - Ct treated group at 2 weeks , metastases were detected in lungs of the control groups .
+No metastatic spread was detected at 14 days in the heart , liver , spleen and kidneys of all groups .
+Full-size image ( 21K )
+Fig. 1. Tumor progression , as expressed by tumor weight , in non-treated mice ( open squares ) , naive hydrogels ( open circles ) and treatment group ( implantation of 131I - NC - Ct group , filled circles ) .
+Shown are the mean values of 3 different experiments SEM .
+View Within Article .
+Full-size image ( 48K )
+Fig. 2. Representative images of whole solid tumors taken from the sacrificed mice back ( left ) and photomicrographs taken from the lungs of the same mice ( right ) , 14 days after the injection of the 4T1 cells in the neoadjuvant therapy model study ( magnification : 40 ) .
+Top panel : Naive control implant .
+Lower panel : 131I - NC - Ct implant .
+Note metastatic cells in the lung of the naive control mouse ( M ) .
+View Within Article .
+Survival analysis revealed that mortality initiated 17 days after hydrogel implantation and ended at day 35 , in both naive hydrogel and non-treated groups .
+In the treatment group , implanted with 131I - NC - Ct , mortality initiated at day 26 and was completed 42 days after hydrogel implantation .
+Full-size image ( 22K )
+Fig. 3. Survival analysis of the tumor progression of non-treated ( broken line ) , naive hydrogels ( solid line ) and 131I - NC - Ct ( bold solid line ) implantation groups in neoadjuvant therapy model .
+Time scale relates to days after gels implantation .
+View Within Article .
+3.2. The preventive effect of 131I - NC - Ct on tumor recurrence ( adjuvant therapy model )
+Tumor-related mortality of the non-treated and naive hydrogel groups occurred between 77 and 84 days after cell injection .
+However , in the study group , implanted with 131I - NC - Ct , tumor-related mortality occurred in only 31% of the population , lasting until 77 days after cell injection , while 69% percent of this group were tumor-free as confirmed by a detailed pathological analysis .
+Survival was maintained until the end of the study ( 160 days ) when all mice were sacrificed and subjected to histopathological analysis .
+Full-size image ( 21K )
+Fig. 4. Survival analysis of the tumor progression of non-treated ( broken line ) , naive hydrogels ( solid line ) and 131I - NC - Ct ( bold solid line ) implantation groups in the surgical adjuvant therapy model .
+Time scale relates to days after gels implantation and 4T1 cell injection .
+View Within Article .
+Fig. 5 depicts tumor progression at 11 weeks after cell injection in the two control groups , compared with healthy subcutaneous tissue with no evidence of disease in the treatment groups ( with minor calcification of part of the muscle fibers in the implantation bed ) .
+In addition , metastatic spread was detected in the lungs and liver of the control groups , while no metastatic spread was detected in these organs in the treatment group .
+No metastatic spread was detected in the heart , kidneys and spleen of all groups .
+Full-size image ( 80K )
+Fig. 5. Representative images of whole mouse and specimens taken from tumor bed , liver and lungs of mice sacrificed 77 days after the injection of the 4T1 cells in the surgical adjuvant therapy model study .
+Top panel : Naive control implant .
+Lower panel : 131I - NC - Ct implant .
+Note tumor cells ( T ) and metastatic cells ( M ) in the lungs and liver of the naive hydrogel treated mice .
+Magnifications : Tumor bed : 200 ; Liver : 100 ; Lung : 40 ( upper panel ) , 200 ( lower panel ) .
+View Within Article .
+3.3. Estimation of biological elimination kinetics of the hydrogel .
+The total elimination rate of 131I at the site of implantation was determined from the imaging studies .
+The amount of radioactivity , Q , at any time , t , after implantation , can be calculated according to the following equation  :
+( 1 )
+Q=Q0et .
+Full-size image ( 37K )
+Fig. 6. A : Representative scintigraphy images , showing 131I activity decay and lack of body distribution of 131I - NC .
+B : The decay of 131I activity at the site of implantation , expressed as the negative values of the natural logarithm of radioactive fraction remaining with time .
+Solid line : total elimination ( including biological elimination ) ; Broken line : calculated decay of the radioisotope only .
+View Within Article .
+where Q0 is the initial amount of radioactivity and is the total elimination constant .
+Transformation of the above equation to the negative value of the natural logarithm of the radioactivity fraction , at any time , yields the following equation :
+( 2 )
+ln ( Q / Q0 ) =t .
+was derived from the imaging study ( the change in remaining fraction of radioactivity with time , Fig. 6 , solid line ) .
+Total radioactivity elimination ( ) consists of the typical radioactive decay constant of 131I ( R ) and the biological elimination constant ( B ) .
+B is calculated from the following equation :
+( 3 )
+B=R .
+The biological elimination half-life ( TB1 / 2 ) can then be calculated according to :
+( 4 )
+TB1 / 2=ln ( 2 ) /B .
+The total elimination constant ( ) as derived from imaging studies was found to be 0.136 day 1 and the radioactive decay constant ( R ) of 131I , was calculated from the T1 / 2 of the isotope and found to be 0.0865 day 1 ( plotted in Fig. 6B , broken line ) .
+Subtracting the radioactive decay constant ( R ) from the total decay constant ( ) gives the value of the biological elimination constant ( B ) ( 0.0495 day 1 ) , and the derived biological elimination half-life ( TB1 / 2 ) 14.0 days .
+3.4. Oxidative degradation of the hydrogel in vitro .
+Fig. 7 shows that incubating the gel cubes in solutions of increasing concentrations of permanganate resulted in a concentration dependent decrease in the eosin staining , and a concomitant increase in the hematoxylin staining , indicating a direct correlation with the extent of permanganate driven oxidation process .
+Full-size image ( 23K )
+Fig. 7. Adsorption of hematoxylin ( open circles ) and eosin ( closed circles ) onto cubes of the Ct hydrogel after oxidation with increasing concentrations of KMnO4 .
+Shown are the mean of 5 measurements S.D .
+View Within Article .
+4. Discussion .
+The use of biodegradable platforms of radioisotopes for the delivery of local radiotherapy has been suggested in the past .
+Carriers of a particulate nature injected intravenously for the targeting of hepatic malignancies  , directed magnetically  or injected directly into the solid tumor  were studied .
+In the present study , a different approach is suggested : to implant a radioactive biodegradable hydrogel adjacent to a tumor or in a tumor bed as primary therapy or as adjuvant therapy following surgical resection .
+By virtue of this design , the derived therapy regimen is proposed to replace conventional brachytherapy machinery for the prevention of locoregional recurrence .
+Moreover , in contrast to targeting approaches , attempting to concentrate radionuclei in malignant tissue  , our approach suggests local , post resection irradiation , as a means of preventing minimal residual disease , a common postoperative complication .
+This concept was demonstrated in this study by employing a polysaccharide based hydrogel loaded with 131I - NC and offered a proof of concept in a xenograft mouse model relevant to breast cancer .
+For this purpose , chitosan ( Ct ) was employed as the biodegradable platform .
+Ct is a natural polysaccharide of - ( 1 - 4 ) -linked 2-amino-2-deoxy-d-glucopyranose .
+Because of its biocompatibility and biodegradation properties  , it is used in a variety of medical applications , such as orthopedic cement  , dermal substitutions and scaffolds  and wound healing accelerators with  , or without  embedded fibroblasts .
+To expand the time of Ct biodegradation , it was crosslinked with GA .
+The biocompatibility of this specific composite was tested and was found to be superior to Vicryl absorbable suture  .
+The hydrogel was then loaded with 131I - NC to obtain a biodegradable radioactive matrix , 131I - NC - Ct , which after implantation adjacent to solid tumors , was able to delay their progression by two weeks , as assessed by monitoring the tumor weight in the neoadjuvant therapy model .
+These findings are interesting since the 4T1 mouse model is known to be aggressively metastatic causing rapid and complete mortality , even when treated with external beam radiation  .
+The median survival time of the treatment group ( 42 days ) was 1.2 fold longer than the two control groups ( 35 days ) , while treatment with external beam radiation in this model extended the survival by 1.1 fold compared to control groups  .
+The long-term survival rate of women who undergo breast-conserving surgery followed by adjuvant radiotherapy is the same as that of women who undergo modified-radical mastectomy .
+However , the 5 year local recurrence rate is higher ( 30% ) following breast conservation and can be reduced by external beam radiation therapy to 7% as compared to 2% following mastectomy .
+In this context , the study findings regarding the effect of regional irradiation accomplished by implantation of the131I - NC - Ct in the adjuvant therapy model are profound .
+This model mimics minimal residual disease at the tumor bed associated with locoregional and systemic recurrence .
+In this study , it was found that the long-term survival and disease-free survival of the mice treated with 131I - NC - Ct was 69.2% , as compared to total mortality ( 0% long-term survival ) of mice in the untreated group or that treated with naive control .
+No tumor could be detected macroscopically or microscopically in the tumor bed in the 131I - NC - Ct group after 77 days , compared with the two control groups , where large tumors developed at the site of cell injection .
+In addition , a detailed histopathological analysis of multiple specimens taken from the tumor bed , lungs and liver of the 131I - NC - Ct-treated group showed no evidence of tumor at the surgical site or distant metastasis .
+In contrast , tumors at the surgical site as well as lung and liver metastasis were present in the control groups .
+The efficacy of local radiation therapy in the prevention of distant metastasis formation in a minimal residual disease model is of great importance and warrants further studies in other tumor types .
+The presence of minimal disease following surgical resection of malignant tumors is a major problem and results in local and systemic recurrence months and years following surgery .
+The addition of efficient therapy that will eliminate minimal residual disease at the surgical site may prove to be of great importance in cancer therapy .
+In a previous study , we demonstrated the localization and lack of systemic distribution of radioactivity after implantation of 131I - NC - Ct , despite the increased rate of hydrogel degradation due to incorporation of the radioactive isotope  .
+The use of imaging in the present study enables calculation of the kinetics of the in vivo release of the radioisotope from the hydrogels .
+The release was detected by measuring the amount of radioactivity and its decrease with time in the implantation site .
+The latter is a result of two parallel processes ; radioisotope decay and biological elimination of the isotope .
+Elimination could be a result of one or more of the following processes : ( 1 ) release of 131I - NC from the hydrogel due to degradation of the hydrogel , ( 2 ) diffusional release of 131I - NC from the hydrogel , and ( 3 ) dissociation of 131I from the nor-cholesterol , followed by diffusion out of the hydrogel .
+The last possibility is less likely to occur due to the chemical stability of 131I - NC under physiological conditions  .
+Plain diffusion of 131I - NC is ruled out due to the hydrophobicity of 131I - NC entrapped in the hydrogel , as was already shown in our previous study with both 131I - NC and Sudan-black  .
+Thus , the biological elimination of radioactivity from the site of implantation can only be a result of degradation of the hydrogel , which leads to release of 131I - NC in a first order kinetics characterized by a T1 / 2 of 14 days .
+The use of imaging to calculate elimination rate of compounds entrapped in biomaterials is more convenient and accurate than gravimetric methods , which require animal sacrificing and implant retrieval .
+Moreover , the imaging method , unlike the gravimetric method , can reflect structural changes in the biomaterial that may cause a release but not a mass loss of the biomaterial .
+In a previous study we showed that the hydrogel degradation was accompanied by changes in the nature of its staining : from eosinophilic to basophilic , indicating a redox mechanism  .
+To elucidate this point we oxidized the gels in vitro , followed by HE staining of the degradation products .
+The color change observed verified our hypothesis .
+This finding may indicate that in addition to the biodegradation of the gels , their decomposition could also be attributed to oxidation processes caused by reactive oxygen species , generated by the local irradiation of the radioisotope entrapped in the gel matrix .
+We conclude that the application of 131I - NC - Ct biodegradable hydrogel implants in the treatment of a mammary mouse tumor model was shown to delay tumor progression in the primary therapy model and , more importantly , to prevent tumor recurrence and metastatic spread in the minimal residual disease model .
+Biodegradable implants composed of crosslinked Ct loaded with radioisotope may be used as an alternative to brachytherapy procedures .
+Acknowledgements .
+The results reported here are included in the dissertation project of A. K. Azab in partial fulfillment of his PhD degree requirements of The Hebrew University of Jerusalem .
+The study has been presented in part in the Gordon Conference on Drug Carriers in Medicine and Biology , Montana USA , 2006 .
+The study was supported by a research grant # 1358 / 05 from the Israeli Science Foundation , by a research grant # 2005237 from the United States - Israel Binational Science Foundation , by the Robert Szold Fund and the Julius Oppenheimer Endowment .
+A. Rubinstein is affiliated with the David R. Bloom Center of Pharmacy .

@@ -1,0 +1,229 @@
+Providing care for breast cancer patients requires a variety of medical disciplines , as well as effective coordination and communication between private-practice and hospital healthcare professionals  .
+Over the past several years , specialists treating these patients have had to integrate changes in the organization of medical care , such as the creation of healthcare networks designed to improve the performance and the coordination of the care given , into the way they practice .
+They have also had to adjust to new patient behaviors .
+In oncology , they are often confronted with patients who wish to know as much information as possible  and play an active role by being involved in their treatment and in medical decisions concerning it  .
+In recent years , the imbalance in the amount of information held by doctors in physician - patient relationships has been greatly reduced  and , today , information is available to patients on a more equal basis .
+The 2002 French law on patients rights to access their own medical records has helped to speed up this trend  .
+Patient medical records are one of the most important elements of medical treatment and of the sharing of information between healthcare professionals  .
+A cornerstone of the healthcare information system , they are an indispensable tool for organizing and summarizing medical care and tracking the quality of the care provided .
+Today 's efforts to make medical care more efficient and effective and the desire for continuity in treatment between private-practice and hospitals require the various healthcare professionals to share information .
+In oncology , experiments conducted outside of France have shown that allowing the patient to play an active role in the sharing of these records could increase their own level of satisfaction , as well as that of the healthcare professionals who treat them  .
+Enabling cancer patients to hold their medical records may also allow them to reduce their anxiety due to a lack of information or to the uncertainty of the information provided  .
+Moreover , it may be considered as possibly beneficial to communication and compliance with medical treatment  .
+The various studies conducted in the United Kingdom and the United States have shown contrasting results , which seem to depend on the type of disease the patient suffers from and stage of illness , the motivation of the medical teams involved and the expectations of the various parties .
+This study is the first phase of a research program that aims to assess the impact of medical records held by cancer patients .
+Here , our aim was to assess French breast cancer patients perception and expectations of information exchange during their medical care .
+In particular , we wished to find out what their opinion would be if they were given medical records containing information that was essential to their continuing care .
+Patients and methods Sample .
+This investigation focused on volunteer breast cancer patients who were aware of the diagnosis of their disease , with no limits on age or time since the diagnosis was made , being treated in the Rhône-Alpes region of France ( 5.5 millions inhabitants located in southeast of France ) .
+Methods .
+This investigation used a questionnaire-based survey .
+Patient enrolment lasted from July to October 2003 .
+For patient inclusion , 86 hospital physicians , surgeons , oncologists and radiotherapists , working in healthcare centers and involved in the treatment of breast cancer , were contacted .
+To avoid selection bias in sampling , they all have had a training for the patients inclusion .
+These physicians had participated in a previous study that aimed to determine their expectations regarding information exchange in the treatment of breast cancer  .
+Based on the number of patients that they could see in a year , which they declared in the first survey , the physicians were to distribute a questionnaire to either the first 5 or 10 consecutive breast cancer patients that came to them for a consultation .
+In all , 485 questionnaires were sent out to the physicians .
+Each physician was allocated a batch of numbered questionnaires , enabling the number of questionnaires distributed to be determined when the questionnaires were returned .
+Patients were to send the anonymously completed questionnaire to the study coordination center using a postage-paid envelope .
+The clinical research nurse for the project contacted the physicians by post and by phone in order to remind them to include the patients in the study .
+Questionnaires .
+The items on the questionnaire explored the following : ( 1 ) characteristics of the patient ( age , family status , level of education and size of city of residence ) and their disease ( duration , person who informed the patient of their disease , stage and communication with their entourage ) ; ( 2 ) organization of treatment ( presence of a usual family practitioner or gynecologist and of a physician coordinating the medical care , the frequency of care and motive for the latest consultation , the existence of a summary medical record and any repeat investigations that may have been performed ) ; ( 3 ) patients participation in the treatment ( frequency of documents kept or given to healthcare professionals , any use of a summary sheet or table to note the dates of upcoming consultations , satisfaction and desire for involvement in the treatment ) ; and ( 4 ) patients preferences for and expectations of medical records they would be given to hold containing essential information for the continuing treatment of their disease ( content ( type of document ) , format ( paper or electronic ) and any possible impact ( advantages and drawbacks ) ) , using a Likert scale .
+At the end of each part of the questionnaire , the patients could write any comments they wished to .
+One specific question focused on the patients preference regarding their participation in the choice of treatment .
+We adapted the method used by Degner  , in which breast cancer patients were to rank five different attitudes in their order of preference .
+In our study , patients were to give the same five attitudes a number ranging from 1 ( the statement they agreed with the most ) to 5 ( the statement they agreed with the least ) :
+A. I prefer to make the decision about which treatment I will receive .
+B. I prefer to make the final decision about my treatment after seriously considering my doctor 's opinion .
+C. I prefer that my doctor and I share responsibility for deciding which treatment is best for me .
+D. I prefer that my doctor makes the final decision about which treatment will be used , but seriously considers my opinion .
+E. I prefer to leave all decisions regarding treatment to my doctor .
+Full-size table .
+View Within Article .
+The terms very active ( A ) , relatively active ( B ) , collaborative ( C ) , relatively passive ( D ) and very passive ( E ) will be used to provide more clarity .
+The items were listed in the order BDCAE according to Degner 's recommendations  .
+The entire questionnaire was tested beforehand on a sample of ten patients in the planned study conditions .
+This enabled the questions to be adjusted and corrected .
+Analysis .
+Both univariate and bivariate descriptive analyses of all of the criteria were performed .
+These enabled us to study the relationships between patients perceptions concerning their treatment and the medical records and their characteristics ( age , social status , family status , size of the town they live in , stage of their disease and time elapsed since diagnosis ) .
+Pearson 's Chi2 test or Fisher 's exact test were used for qualitative variables .
+All of the data were processed using SPSS software ( version 10.0 for Windows ( SPSS Inc. , Illinois , USA ) ) .
+Results .
+Numbering the questionnaires enabled us to estimate that 26 physicians had distributed 194 questionnaires .
+With a total of 140 anonymous questionnaires sent in by patients , the patient participation rate was estimated at 72% .
+Patient and treatment characteristics .
+Forty-two percent of the patients were treated in a private healthcare establishment and 58% in a public or non-profit healthcare facility in five territorial divisions ( départements ) of the Rhône-Alpes region in France .
+Patient characteristics are summarized in Table 1. Table 2 shows the organization of the treatment during the course of their disease .
+Most of the time , general practitioners were among the usual primary care physicians .
+When a single physician coordinated medical care ( 68% of the time ) , in half of the cases it was the oncologist .
+Table 1. .
+Characteristics of patients in the sample .
+Variablesn / Na ( % ) Age ( in years ) 5031 / 140 ( 22 ) 50 - 5940 / 140 ( 29 ) 60 - 6939 / 140 ( 28 ) 7030 / 140 ( 21 )
+Family status Married / Living with partner102 / 139 ( 73 ) Widowed/Separated/Single37 / 139 ( 27 )
+Children Yes119 / 140 ( 85 ) Including dependents36 / 116 ( 31 )
+Size of town of residence 200032 / 134 ( 24 ) 2000 - 20,00056 / 134 ( 42 ) 20,000 - 100,00025 / 134 ( 19 ) 100,00021 / 134 ( 16 )
+Education level Primary29 / 137 ( 21 ) Secondary70 / 137 ( 51 ) Higher31 / 137 ( 23 ) Other7 / 137 ( 5 )
+Person who gave the diagnosisb Hospital physician56 / 137 ( 41 ) Private-practice gynecologist38 / 137 ( 28 ) General practitioner25 / 137 ( 18 ) Other physician27 / 137 ( 20 )
+Time since diagnosis 6 months33 / 134 ( 25 ) 7 - 12 months25 / 134 ( 19 ) 13 - 18 months15 / 134 ( 11 ) 18 months61 / 134 ( 45 )
+Stage of disease Initial30 / 125 ( 24 ) Remission50 / 125 ( 40 ) Relapse27 / 125 ( 22 ) Unknown11 / 125 ( 9 ) Other7 / 125 ( 6 )
+Type of treatment received Surgery127 / 138 ( 92 ) Chemotherapy78 / 139 ( 56 ) Radiotherapy114 / 139 ( 82 )
+Entourage informed of disease Spouse/Partner101 / 101 ( 100 ) Children117 / 118 ( 99 ) Other family members122 / 138 ( 88 ) Close friends128 / 138 ( 93 ) Co-workers56 / 138 ( 41 )
+Full-size table .
+a Figures vary depending on number of missing answers .
+b Several possible answers .
+View Within Article .
+Table 2. .
+Organization of care for breast cancer patients .
+Variablesn / Na ( % ) Usual primary care physician General practitioner129 / 139 ( 93 ) Private-practice gynecologist60 / 139 ( 43 ) Oncologist9 / 139 ( 6 ) Homeopath4 / 139 ( 3 ) No primary care physician3 / 139 ( 2 )
+The primary care physician is the same as before the diagnosis Yes94 / 128 ( 73 ) No34 / 128 ( 27 )
+Time since last consultation with one of the primary care physicians Less than 1 month69 / 125 ( 55 ) From 1 to 6 months44 / 125 ( 35 ) From 6 to 12 months6 / 125 ( 5 ) More than 1 year6 / 125 ( 5 )
+Reason for last consultation with one of the primary care physicians Illness unrelated to cancer52 / 128 ( 41 ) Illness related to cancer77 / 128 ( 60 ) Including follow-up53 / 71 ( 75 ) Including treatment11 / 70 ( 16 ) Including diagnosis8 / 71 ( 11 ) Cancer complications13 / 128 ( 10 )
+Number of consultations in the last 6 months 3 Including general practitioner48 / 137 ( 35 ) Including oncologist43 / 135 ( 32 ) 1 Including surgeon72 / 136 ( 53 ) Including radiotherapist61 / 136 ( 45 ) Including private-practice gynecologist48 / 137 ( 39 )
+Number of physicians clearly identified as coordinating the medical care 237 / 137 ( 27 ) 193 / 137 ( 68 ) Including oncologist49 / 93 ( 53 ) Including surgeon28 / 93 ( 30 ) Including radiotherapist7 / 93 ( 8 ) Including general practitioner4 / 93 ( 4 ) Including private-practice gynecologist3 / 93 ( 3 ) Other2 / 93 ( 2 ) 04 / 137 ( 3 ) Unknown3 / 137 ( 2 )
+Summary record used by physicians Yes97 / 121 ( 80 ) Unknown24 / 121 ( 20 )
+Appointment recap sheet used by patients Yes83 / 136 ( 61 ) No53 / 136 ( 39 )
+Unnecessarily repeated investigations ( if applicable ) Yes3 / 137 ( 2 ) No134 / 137 ( 98 )
+No missing documents during consultation at physician 's office General practitioner89 / 107 ( 83 ) Private-practice gynecologist64 / 69 ( 93 ) Oncologist79 / 83 ( 95 ) Radiotherapist71 / 74 ( 96 ) Surgeon84 / 87 ( 97 )
+Full-size table .
+a Figures vary depending on number of missing answers .
+View Within Article .
+Patient involvement in their medical care .
+Table 3 shows the types of documents the patients held and passed on to healthcare professionals .
+Except for X-ray images or reports and laboratory results , patients were almost never in possession of any documents whatsoever .
+As a result , with the exception of X-rays and laboratory results , they passed on few documents to the various physicians .
+Table 3. .
+Types of documents held and passed on to healthcare professionals by breast cancer patients .
+AlwaysOftenSometimesNever n / Na ( % ) n / Na ( % ) n / Na ( % ) n / Na ( % ) Types of documents held Laboratory results100 / 123 ( 81 ) 9 / 123 ( 7 ) 8 / 123 ( 7 ) 6 / 123 ( 5 ) X-ray image reports84 / 125 ( 67 ) 12 / 125 ( 10 ) 18 / 125 ( 14 ) 11 / 125 ( 9 ) Surgery reports32 / 106 ( 30 ) 4 / 106 ( 4 ) 13 / 106 ( 12 ) 57 / 106 ( 54 ) Hospitalization reports27 / 105 ( 26 ) 7 / 105 ( 7 ) 9 / 105 ( 9 ) 62 / 105 ( 59 ) Letters from hospital physician to primary care physician19 / 102 ( 19 ) 2 / 102 ( 2 ) 15 / 102 ( 15 ) 66 / 102 ( 65 ) Letters from primary care physician to hospital physician16 / 102 ( 16 ) 1 / 102 ( 1 ) 13 / 102 ( 13 ) 72 / 102 ( 71 ) Letters between hospital physicians11 / 93 ( 12 ) 4 / 93 ( 4 ) 10 / 93 ( 11 ) 68 / 93 ( 73 )
+Types of documents passed on X-ray image reports51 / 115 ( 44 ) 10 / 115 ( 9 ) 34 / 115 ( 30 ) 20 / 115 ( 17 ) Laboratory results45 / 117 ( 38 ) 70 / 117 ( 6 ) 27 / 117 ( 23 ) 38 / 117 ( 32 ) Letters from hospital physician to primary care physician23 / 117 ( 20 ) 4 / 117 ( 3 ) 19 / 117 ( 16 ) 71 / 117 ( 61 ) Surgery reports19 / 95 ( 20 ) 0 / 95 ( 0 ) 15 / 95 ( 16 ) 61 / 95 ( 64 ) Letters from primary care physician to hospital physician21 / 116 ( 18 ) 5 / 116 ( 4 ) 34 / 116 ( 29 ) 56 / 116 ( 48 ) Hospitalization reports18 / 98 ( 18 ) 0 / 98 ( 0 ) 14 / 98 ( 14 ) 66 / 98 ( 67 ) Letters between hospital physicians10 / 99 ( 10 ) 1 / 99 ( 1 ) 17 / 99 ( 17 ) 71 / 99 ( 72 )
+Full-size table .
+a Figures vary depending on number of missing answers .
+View Within Article .
+Ninety-five percent of the patients were satisfied with their involvement in their treatment ( 48% were very satisfied and 47% quite satisfied ) .
+Only one woman was not at all satisfied .
+Nevertheless , 50% of the patients wanted this level of involvement to remain the same , 39% wanted to be more involved , 1% wanted to be less involved and 10% had no opinion on the matter .
+One-third of the women surveyed did not answer this question .
+These patients seemed rather more satisfied than the others ( 67% were very satisfied and 30% quite satisfied ) .
+Regarding the choice of their treatment , 71% stated that their physician had consulted them in order to make a decision .
+On the whole , the patients had a relatively passive attitude : 43% chose role D , preferring for the physician to decide upon the treatment after taking their opinion into serious consideration .
+Thirty-four percent of the patients chose role C collaboration , 14% chose role E very passive , 6% chose role B relatively active and 3% opted for role A very active .
+When grouped together , 57% of the patients opted for a rather passive role ( D + E ) , 34% preferred a collaborative role ( C ) and 9% a rather active role ( A + B ) .
+Furthermore , the very active role ( statement A ) was widely rejected : 79% of the patients gave this role a ranking of 5 , i.e. the statement they agreed with the least .
+Patient-held medical records containing essential information for their cancer care .
+According to the patients , any hypothetical paper medical records they held would have to contain all of the documents essential to the treatment of their disease .
+Table 4 shows their approval , whatever the type of document .
+The impact that such medical records could have on the current situation is shown in Table 5. The patients would mainly appreciate the usefulness of these records in case of an emergency consultation or to be able to have more information and better communication with their physicians .
+Opinions were divided as to the risk of losing or forgetting the medical records as half of the patients agreed with the proposals whereas the other half disagreed .
+One-third of the patients raised the issue of privacy .
+Table 4. .
+Types of documents breast cancer patients would like included in the medical records .
+Items desired in shared medical recordsEntirely agreeMostly agreeMostly disagreeEntirely disagree n / Na ( % ) n / Na ( % ) n / Na ( % ) n / Na ( % ) Laboratory results114 / 124 ( 92 ) 9 / 124 ( 7 ) 1 / 124 ( 1 ) 0 / 124 ( 0 ) X-ray image reports108 / 122 ( 89 ) 10 / 122 ( 8 ) 4 / 122 ( 3 ) 0 / 122 ( 0 ) Hospitalization reports99 / 118 ( 84 ) 15 / 118 ( 13 ) 2 / 118 ( 2 ) 2 / 118 ( 2 ) Surgery reports99 / 118 ( 84 ) 14 / 118 ( 12 ) 3 / 118 ( 3 ) 2 / 118 ( 2 ) Letters from hospital physician to primary care physician94 / 119 ( 79 ) 17 / 119 ( 14 ) 5 / 119 ( 4 ) 3 / 119 ( 3 ) Letters from primary care physician to hospital physician90 / 118 ( 76 ) 20 / 118 ( 17 ) 5 / 118 ( 4 ) 3 / 118 ( 3 ) Letters between hospital physicians70 / 100 ( 70 ) 22 / 100 ( 22 ) 5 / 100 ( 5 ) 3 / 100 ( 3 )
+Full-size table .
+a Figures vary depending on number of missing answers .
+View Within Article .
+Table 5. .
+Breast cancer patients point of view on patient-held medical records compared to current situation .
+Impact of proposed shared recordsEntirely agreeMostly agreeMostly disagreeEntirely disagree n / Na ( % ) n / Na ( % ) n / Na ( % ) n / Na ( % ) Advantages Being better informed88 / 104 ( 85 ) 14 / 104 ( 13 ) 0 / 104 ( 0 ) 2 / 104 ( 2 ) Having more communication between hospital physicians and private-practice physicians70 / 98 ( 72 ) 21 / 98 ( 21 ) 6 / 98 ( 6 ) 1 / 98 ( 1 ) Having more communication with physicians75 / 106 ( 71 ) 26 / 106 ( 25 ) 4 / 106 ( 4 ) 1 / 106 ( 1 ) Having more dialogue with entourage36 / 88 ( 41 ) 29 / 88 ( 33 ) 16 / 88 ( 18 ) 7 / 88 ( 8 ) Making emergency consultations with physicians easier94 / 109 ( 86 ) 13 / 109 ( 12 ) 2 / 109 ( 2 ) 0 / 109 ( 0 ) Avoiding unnecessary repeat examinations66 / 104 ( 64 ) 25 / 104 ( 24 ) 10 / 104 ( 10 ) 3 / 104 ( 3 ) Being able to request a second medical opinion58 / 102 ( 57 ) 36 / 102 ( 35 ) 6 / 102 ( 6 ) 2 / 102 ( 2 )
+Disadvantages Risk of losing the records25 / 79 ( 32 ) 15 / 79 ( 19 ) 15 / 79 ( 19 ) 24 / 79 ( 30 ) Risk of forgetting the records26 / 83 ( 31 ) 13 / 83 ( 16 ) 16 / 83 ( 19 ) 28 / 83 ( 34 ) Problem of privacy with entourage21 / 90 ( 23 ) 15 / 90 ( 17 ) 22 / 90 ( 24 ) 32 / 90 ( 36 ) Problem of privacy with employer16 / 76 ( 21 ) 10 / 76 ( 13 ) 16 / 76 ( 21 ) 34 / 76 ( 45 ) Problem of privacy with insurance company17 / 84 ( 20 ) 12 / 84 ( 14 ) 19 / 84 ( 23 ) 36 / 84 ( 43 )
+Full-size table .
+a Figures vary depending on number of missing answers .
+View Within Article .
+Seventy-nine percent of the patients agreed to hold such medical records ( 62% chose Entirely agree and 17% chose Mostly agree ) .
+They wished to be able to write in the records ( 26% chose Entirely agree and 24% chose Mostly agree ) .
+Out of 25 patients who had written comments , 10 specified that their writings concerned their personal impressions of the disease of their treatment , and 13 wished to mention side effects or the advantages and drawbacks of the treatment and write down questions about the disease or the treatment .
+The patients who did not wish to hold their medical records ( 21% ) stated that being able to read them plunged them even deeper into this disease that they would just as soon forget .
+Forgetting the disease would enable them to better come to terms with it .
+The patients were unsure that they wanted to read a comment that they were not expecting and stated that there is no point in writing in medical records , because you either have to speak about it face-to-face with the physician or keep a personal diary .
+Support of the principle of paper patient-held records is the same in all categories of decision-making preferences ( p = 0.36 ) .
+Regarding the hypothesis that these medical records could be made available in electronic format , only 40% of the patients owned a computer and only 39% had Internet access .
+Forty-one percent owned a CD-Rom drive and 32% owned a DVD-Rom drive .
+Table 6 shows the patients various opinions on access to such records if they were made available in electronic format .
+Table 6. .
+Breast cancer patients attitudes towards electronic medical records .
+Entirely agreeMostly agreeMostly disagreeEntirely disagree n / Na ( % ) n / Na ( % ) n / Na ( % ) n / Na ( % ) Access to records via CD-Rom on their computer38 / 92 ( 41 ) 15 / 92 ( 16 ) 9 / 92 ( 10 ) 30 / 92 ( 33 ) Access to records via DVD-Rom on their computer or television21 / 78 ( 27 ) 12 / 78 ( 15 ) 11 / 78 ( 14 ) 34 / 78 ( 44 ) Different access rights for each member of the entourage40 / 97 ( 41 ) 20 / 97 ( 21 ) 11 / 97 ( 11 ) 26 / 97 ( 27 )
+Full-size table .
+a Figures vary depending on number of missing answers .
+View Within Article .
+Discussion .
+The main results of this investigation are , firstly , that the breast cancer patients are satisfied with their current level of involvement in their treatment and that most prefer for decisions on treatment to be made by the physician after having taken the patient 's opinion into serious consideration .
+Secondly , the patients are willing to hold paper medical records containing information essential to the continuing treatment of their disease .
+These records are considered as useful to their medical care and seen as a possible means to help improve information and communication .
+However , some patients do express reservations about privacy and losing or forgetting these medical records .
+Results on the patients involvement in their treatment are consistent with other research  , although in other studies , patients were less satisfied with their current level of involvement  and wished to be more actively involved in their medical care  .
+There are significant variations between patients and , for individual patients , variations from one point in time to another  .
+Several factors may influence patient preferences .
+In particular , young patients with a high level of education  , who have relapsed  and live in a large city  , wish to participate in their medical care and play an active or collaborative role .
+Psychological variables and disease severity were also found to influence information needs and decisional preferences  .
+The French law of 13 August 2004 calling for the creation of a personal medical record by 2007 meets the needs and expectations of our population of breast cancer patients on their willingness to hold medical record  .
+Indeed , patients will have full control of this record , which will be in electronic format and contain all of their medical information .
+It will be completed by healthcare professionals each time new diagnostic or therapeutic information is required in order to coordinate care .
+In our study , patients interest in holding medical records was only hypothetical .
+Whatever the format of the medical records ( paper or electronic ) , we must wait until patient-held records become a reality before we can observe how patients will behave .
+We must also take into account the patients who decline shared medical records ( 21% ) .
+In our study , half of the patients considered writing in these medical records .
+In previous studies of cancer patients , the proportion of patients who wrote in their records was 53%  , 62%  and more than 75%  .
+Being able to write in the medical records is often considered useful by patients , who note reminders or questions to ask their physician at a later time  .
+One of the first arguments is that the records would allow patients to receive more information on their disease , a need that was demonstrated in previous research  .
+This is perhaps the reason why the patients wanted the medical records to contain nearly all of the documents offered to them ( i.e. test results , reports and letters ) .
+This confirms the results of an Australian study showing that 90% of patients saw holding their own medical records as a means of obtaining information  .
+Thus , it appears that , for the patients in our study , holding their own medical records could be the means to find information on their disease  , their diagnosis  , their prognosis  , their chance of recovery  and the side effects they may experience  .
+However , we must consider the link that exists between patients desire to obtain information and their desire to participate .
+One American study on cancer patients highlighted a strong correlation between the preferences of patients who wanted as much information as possible and their desire to participate in decision-making  .
+Others have shown that the desire to find out more information and the wish to participate were two very distinct things  .
+Many patients who want more information do not necessarily want to get involved and participate more  .
+Our results showed no significant differences between decision-making preferences and support of the principle of paper patient-held medical records .
+According to our population of patients , medical records could equally be a means of improving communication .
+In one study conducted in London , patients confirmed that , by reading their records , the barrier between physician and patient had been broken down and the level of trust had been heightened  .
+However , contrary to these findings , various randomized studies have proven that patient-held medical records did not significantly improve communication between patients and physicians in cancer care  .
+On the other hand , there may be more opportunities for the patients expectations that records could improve communications among physicians to be met .
+A European study on female cancer patients showed that the greatest cause for dissatisfaction was the communication between the hospital and the private-practice primary care physician ( 34% were extremely satisfied , 26% satisfied and 20% dissatisfied or extremely dissatisfied )  .
+Moreover , allowing patients to hold their records was shown to be potentially beneficial to communication between healthcare professionals  .
+It appears that the records have little impact on communication between a patient and his or her entourage .
+Our results show that the patients already shared a lot of information with the members of their entourage , who had , in most cases , been informed of the disease .
+This has been shown in other studies , namely in France , where the majority of the patients wanted their family to be fully informed  .
+In our study , the spouse / partner and children were the best informed .
+They play a very important role and provide a vital pillar of support for the cancer patients  .
+The other advantage , according to the patients in our study , involved the continuity of their cancer care .
+They saw these records , which contain all of the vital medical information , as useful in cases of emergency and as a means to avoid repeating unnecessary investigations or requesting a second opinion .
+The principle of the usefulness of the records in case of an emergency has been shown several times  .
+In the United Kingdom , 28% of the patients in Lecouturier 's study appreciated having written information as a means to avoid retelling their medical history to each new healthcare professional they met  .
+Meanwhile , the French government has helped address this need by creating the Cancer Plan ( le Plan Cancer ) in 2003  .
+In order to improve the coordination of care , one of the key measures of the Cancer Plan is the creation of a shared oncology record .
+This record , designed as a means to pass on patient-related information , is accessible by both physicians and patients themselves .
+Thus , patients will be able to play an active role in their medical care should they desire .
+As Ross demonstrated , our study shows that patients prefer to emphasize the advantages of such medical records rather than focus on the disadvantages  .
+As well , they appear to unanimously agree on the benefits of such records while having much more divided opinions on the drawbacks .
+In effect , they express certain fears : half of them believe the records could be lost whereas the other half felt there was little or no risk of this .
+The literature on similar experiments has shown that the records were rarely lost : none were lost in a recent study conducted in the United Kingdom  and in only 3% of cases in another British study carried out on breast cancer patients  .
+As well , the lost records were only copies , and all of the original documents were safely kept in the healthcare facility or with the physician providing care to the patient .
+The potential for losing these records raises the issue of privacy .
+However , according to the majority of the patients in our study , holding such records presented no threats to their privacy , whether from their employer , their insurance company or the people in their entourage .
+The patients themselves decide who can , or cannot , have access to their records  .
+Yet 20% of the patients felt that privacy was a vital issue .
+In 2002 , publishing of the French law on patient 's right to access their medical records  sparked a lively debate that has been partly resolved by the law of August 2004  .
+On one side , patient associations argued that direct access to their records would ensure them transparency in their medical care .
+It would also enable them to get a second medical opinion if necessary and would give them pieces of evidence if they ever needed to assert their rights .
+On the other side , physician organizations emphasized the risks of exposing patients to highly technical medical information that is hard to understand and to bear psychologically .
+They also feared that the patients employers or insurance companies would force the patients to pass the records onto them .
+Finally , they also feared a rise in the number of complaints and court claims  .
+In fact , these last two arguments led some physicians to censor the information contained in the records  .
+The development of information technology and its increasing use in the healthcare field have made the use of shared electronic medical records inevitable .
+This use will likely encourage patient participation in the decision-making process , but the benefits remain to be assessed  .
+Nonetheless , the patients in our study did not seem ready to hold their medical records in electronic format , and fewer than half completely agreed to access their medical information via electronic means .
+An American study showed that a little more than half of the patients were interested in accessing their medical records via Internet  .
+Patients must be ensured that privacy ( prevention of access to personally identifiable information by unauthorized persons ) , integrity ( the completeness of the information ) and accessibility ( access to up-to-date information at any time ) will be guaranteed .
+As of today , these issues have yet to be fully resolved  .
+The participation rate suggests that patients were interested in this approach , which concerns them directly .
+The good response rate and the fact that physicians were asked to give out the survey to consecutive patients should provide a fair representativeness of the study sample .
+Many patients were in the remission phase or had been diagnosed more than 18 months prior to the study .
+So , the amount of time that had passed since the active treatment phase may have reduced the intensity of their reactions .
+Finally , we have no data on the patients anxiety .
+Since many studies have shown that the patients psychological state influenced their satisfaction and their attitudes  , quality of life and anxiety should be measured in future experimental studies .
+In conclusion , in this study conducted on a sample of French women suffering from breast cancer , we have observed overall satisfaction with the care they receive for their disease and with their level of involvement .
+As well , we have shown a certain number of needs and desires in terms of patient information and participation .
+The majority of patients thus seem to be in favor of holding medical records containing as much information as possible , subject to certain conditions for access and consultation .
+Experimenting with these records in the field will enable us to better determine their content and the ways of using them in practice .
+Acknowledgments .
+The authors wish to thank the 140 anonymous patients who participated in this investigation , the 26 physicians who handed out the questionnaires to their patients and the scientific council for the project ( Pr M Amiel , Dr JF Brulet , Dr J Caton , Dr X Courtois , Dr P Mere , Dr E Dubost , Pr FN Gilly , Dr JM Guastalla , Dr AM Schott , Pr JM Rodrigues , Dr P Romestaing ) .
+They would also like to thank the following partners : The Rhône Region Telemedicine Association ( ASTRHO ) , The Rhône-Alpes Private-practice Physicians Union ( URML-RA ) , the Soins et Santé home hospital care service , the Rhône-Alpes-area healthcare facilities participating in the CONCORDE and ONCORA cancer-care networks .
+This work was made possible in part by support from the French National League Against Cancer ( LNCC ) in association with the French Hospital Federation ( FHF ) , the French Ministry of Research ( 01B0279 ) , the French Ministry of Health ( Programme Hospitalier de Recherche Clinique ) and the High Authority of Health ( HAS )

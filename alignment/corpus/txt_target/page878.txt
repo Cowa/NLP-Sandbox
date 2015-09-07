@@ -1,0 +1,122 @@
+Therapy-related acute myeloid leukemia ( t-AML ) is a distinctive clinical syndrome occurring after exposure to chemotherapy or radiotherapy  .
+The majority of t-AML result from the use of alkylating agents or DNA topoisomerase II inhibitors  .
+Alkylating agent - related AML often occur after an average interval of 5 - 7 years , are proceded by myelodysplastic syndromes , are frequently described as M1 or M2 , and are associated with abnormalities of chromosomes 5 and 7. Alternatively , t-AML resulting from DNA topoisomerase II inhibitors treatment appear frequently as M4 or M5 after a shorter interval and are associated with translocation of chromosomes 11 ( 11q23 ) and 21 ( 21q22 )  .
+Less often are associated with inv ( 16 ) , t ( 8;16 ) , and t ( 15;17 )  .
+Chromosomal translocations t ( 11;19 ) ( q23;p13 ) that result in MLL gene rearrangements are often associated with the diagnosis of t-AML after treatment with a topoisomerase II inhibitor .
+The survival of these patients is generally poor  .
+The 12p13 region is genetically unstable and fragile , with subsequent translocations and insertions into other chromosomes  .
+It has been reported that multiple chromosome breaks in this region were likely to be induced through chemo / radiotherapy or mutagens , and are associated with a subgroup of patients with an extremely bad prognoses  .
+The ETV6 ( previously TEL ) gene at 12p13 , a transcription factor of the E-26 transforming specific family that is essential for establishing definitive hematopoiesis in the bone marrow , has been found to be rearranged in some of these cases  .
+Several of these rearrangements resulted in a fusion of the ETV6 gene with more than 20 different partners , including ABL , MDS1 , CBFB , MN1 , JAK2 , STL , and PDGFRB  .
+It has also been reported that in cells harboring translocations with the ETV6 gene , the nonrearranged ETV6 allele is often deleted or inactivated .
+The clinical consequence of ETV6 loss of function in AML , however , has not been defined yet  .
+Although the 12p13 region is genetically unstable , with subsequent translocations into other chromosomes , t ( 12;12 ) ( p13;q12q13 ) is a rare cytogenetic abnormality reported in only seven leukemia cases .
+To the best of our knowledge , the t ( 12;12 ) ( p13;q12q13 ) has never been detected in treatment-induced acute leukemias  .
+Thus , the data regarding the clinical course and outcome of these patients are limited .
+We report here on a case of t-AML after breast cancer chemo / radiotherapy with a rare reciprocal t ( 12;12 ) ( p13;q13 ) as a secondary cytogenetic abnormality in addition to the t ( 11;19 ) ( q23;p13.1 ) , in which the translocated ETV6 gene was found to be disrupted .
+2. Case report .
+In June 2001 , a 42-year-old woman was diagnosed with left breast cancer and she underwent wide local excision with sentinel lymph node dissection .
+She received adjuvant chemotherapy consisting of two cycles of epirubicin and taxole and four cycles of 5 fluorouracil , epirubicin , and cyclophosphamide , as well as local radiation therapy ( total dose 47Gy ) .
+Hormonal maintenance treatment with tamoxifene was followed .
+Four years later , on December 27 , 2005 , she was admitted for investigation of pancytopenia .
+A full peripheral blood cell count showed a white blood cell ( WBC ) count of 1.06 109 / L with 16% neutrophils , 70% lymphocytes , and 2% monocytes , platelets 40 109 / L , hemoglobin 8.8gr / dL , hematocrit 27% , mean corpuscular volume 100 fL , and mean corpuscular hemoglobin 33 pg .
+A routine biochemistry screen revealed an elevated lactate dehydrogenase of 551 IU ( normal range 460 IU ) .
+Clinically , the absence of both hepatosplenomegaly and palpable lymph nodes was noted .
+A bone marrow aspirate showed an infiltration of medium- to large-sized blasts that consisted 35% of all nucleated cells and had a morphology suggestive of a myeloid origin , as well as trilineage dysplasia that was present in less than 50% of the cells in all three lines .
+Immunophenotypic analysis by flow cytometry demonstrated positivity of CD13 , CD33 , CD34 , CD117 , MPO , and HLA-DR , consistent with acute myeloid leukaemia M2 ( AML-M2 ) .
+Chromosome analysis of bone marrow cells showed 46,XX,t ( 11;19 ) ( q23;p13.1 )  /46,XX  .
+Induction chemotherapy with cytarabine , idarubicin , and cytarabine was administered , and a complete remission was achieved .
+The patient underwent three courses of consolidation therapy .
+The first course consisted of cytarabine and idarubicin , the second course consisted of cytarabine and etoposide , and the third course consisted of cytarabine .
+Eight months later , in October 2006 , she relapsed with the same morphologic and immunophenotypic findings .
+A new cytogenetic analysis showed 46,XX,t ( 11;19 ) ( q23;p13.1 )  /46,idem,t ( 12;12 ) ( p13;q13 )  .
+Salvage chemotherapy consisting of mitoxandrone , etoposide , and cytarabine was administered .
+Thirty-two days later , peripheral blood cell count showed WBC 2.8 109 / L with 45% neutrophils , 50% lymphocytes , 3% monocytes , and 2% eosinophils .
+A new bone marrow aspirate was consistent with morphologic remission ( blasts 5% ) and marked trilineage dysplasia .
+Due to the fact that it has been impossible to identify a suitable donor in the international donor pool , a haploidentical allogeneic bone marrow transplant from the patient 's sister had been scheduled .
+Unfortunately , bone marrow transplantation was postponed because the patient has been in continuous relapse for the last 4 months .
+3. Materials and methods3.1 .
+Chromosome studies .
+Chromosome studies were performed on unstimulated bone marrow cells that had been cultured for 24 and 48 hours .
+Cytogenetic analyses were performed on trypsin G - banded chromosome preparations , and imaging and karyotyping were performed with microscopy and computer imaging techniques in at least 20 metaphase cells each time .
+Karyotypes were described according to the International System for Human Cytogenetic Nomenclature ( ISCN ) 2005 .
+3.2. Fluorescence in situ hybridization ( FISH )
+FISH studies were performed on bone marrow cytogenetic specimens .
+The following specific DNA probes were used : LSI MLL dual-color break-apart rearrangement probe , LSI TEL / AML1 ES dual-color translocation probe , LSI ETV6 ( TEL ) ( 12p13 ) dual-color break-apart rearrangement probe , LSI CHOP ( 12q13 ) dual-color break-apart rearrangement probe ( Abbott Molecular / Vysis , Des Plains , IL ) , and chromosome 1/5 / 19 -satellite probe ( Cytocell , Cambridge , UK ) .
+Dual-color FISH images were digitally generated using Isis FISH imaging software ( MetaSystems , Altlussheim , Germany ) .
+4. Results4.1 .
+Cytogenetic results .
+Chromosomal analyses of bone marrow cells at diagnosis showed an abnormal clone containing a reciprocal translocation between the long arm of chromosome 11 and the short arm of chromosome 19 with breakpoints at q23 and p13.3 , respectively , in 10 / 23 metaphase cells evaluated .
+The karyotype was thus described as 46,XX,t ( 11;19 ) ( q23;p13.1 )  /46,XX  .
+While the patient was in relapse , new cytogenetic analyses of the bone marrow revealed two abnormal clones .
+The first clone was the one detected at diagnosis in 5 / 20 metaphases evaluated .
+The evolutionary clone carried an additional reciprocal translocation between the short arm of chromosome 12 and the long arm of the other homologue 12 with breakpoints at p13 and q13 , respectively , detected in 15 / 20 metaphase cells evaluated .
+The karyotype was described as 46,XX,t ( 11;19 ) ( q23;p13.1 )  /46,idem,t ( 12;12 ) ( p13;q13 )  .
+Full-size image ( 24K )
+Fig. 1. G-banded bone marrow karyogram showing 46,XX,t ( 11;19 ) ( q23;p13.1 ) ,t ( 12;12 ) ( p13;q13 ) .
+View Within Article .
+4.2. FISH .
+The MLL probe showed a split signal in 83.7% of 200 interphase nuclei analyzed , while metaphase FISH analysis revealed that the 3 primer of one MLL gene was translocated to the der ( 19 ) , confirming the reciprocal exchange between chromosomes 11q and 19p .
+The TEL / AML1 probe for the ETV6 / RUNX1 genes showed a normal pattern of hybridization in 200 interphase nuclei , but metaphase analysis detected both signals corresponding to the two alleles of the ETV6 gene , each normally located at 12p13 , on the short derivative chromosome 12 .
+To investigate whether the ETV6 gene was translocated intact to the other der ( 12 ) , the LSI ETV6 ( TEL ) ( 12p13 ) dual-color break-apart rearrangement probe was used and a split hybridization signal was detected in both interphase and metaphases cells .
+Interphase FISH analyses detected 53% of the 200 nuclei scored with the split signal .
+In metaphase cells , the 5 primer of one ETV6 gene was found on the small der ( 12 ) t ( 12;12 ) while the 3 primer remained on the large der ( 12 ) t ( 12;12 ) .
+The probe specific for the CHOP gene showed a normal hybridization pattern in 200 interphase nuclei analyzed , while both CHOP alleles were found on the large der ( 12 ) by interphase FISH .
+Full-size image ( 18K )
+Fig. 2. FISH on metaphase cells showing t ( 11;19 ) ( q23;p13.1 ) .
+Red probe corresponds to the 3 end of MLL , whereas the green probe corresponds to the 5 end of MLL .
+Intact MLL is associated with an overlapping red / green ( yellow ) fusion signal .
+The telomeric 3 part of MLL ( red ) is translocated to chromosome 19p13.1 , indicated by the long arrow , whereas the 5 end of MLL remained to 11q23 , as indicated by the short arrow .
+Chromosome 1/5 / 19 -satellite probe ( green ) gave signals on the centromere of normal chromosomes 1 , 5 , and 19 , as well as on the centromere of the der ( 19 ) .
+View Within Article .
+Full-size image ( 16K )
+Fig. 3. FISH results with the LSI TEL / AML1 ES dual-color translocation probe , which labels the ETV6 gene ( previously TEL ) in green and the RUNX1 gene ( previously AML1 ) in red .
+The der ( 12 ) t ( 12;12 ) ( arrow ) shows two green signals corresponding to the two ETV6 genes .
+View Within Article .
+Full-size image ( 24K )
+Fig. 4. Break-apart FISH analysis demonstrating rearrangements of the ETV6 gene , as viewed with the inverted DAPI filter .
+Red probe corresponds to the 5 end of ETV6 , whereas the green probe corresponds to the 3 end of ETV6 .
+Intact ETV6 is associated with an overlapping red / green ( yellow ) fusion signal .
+The 5 primer ( red ) of ETV6 of the large der ( 12 ) is translocated to the small der ( 12 ) ( arrow ) .
+View Within Article .
+Full-size image ( 14K )
+Fig. 5. Break-apart FISH analysis with the LSI CHOP ( 12q13 ) dual-color break-apart rearrangement probe .
+The two yellow fusion signals observed at the same der ( 12 ) reflect the two intact copies of the CHOP gene ( arrow ) as a result of the translocation of the CHOP gene to the other homologue chromosome 12 [ large der ( 12 ) ] .
+View Within Article .
+5. Discussion .
+Our case is a treatment-induced AML-M2 that was diagnosed 4 years after intensive chemo / radiotherapy for breast cancer .
+The reciprocal t ( 11;19 ) ( q23;p13.1 ) , detected at diagnosis by cytogenetic analyses and further characterized by FISH analyses , was the primary chromosomal abnormality .
+The t ( 11;19 ) ( q23;p13.1 ) is often associated with the diagnosis of t-AML , mainly with M4 or M5 , and at times with M1 and M2  .
+The present AML-M2 case seems to result from topoisomerase II inhibitor agents , epipodophyllotoxins , or anthracyclines rather than from alkylating agents because it was not preceded by a preleukemic phase ( MDS ) , showed balanced translocations involving chromosome band 11q23 , and presented at a rather short interval after chemotherapy  .
+Moreover , younger age as our patients age and not a specific type of DNA topoisomerase II inhibitor seems to predispose specifically to development of t-AML with translocations to chromosome band 11q23  .
+The evolutionary clone , which was detected upon disease relapse 8 months after consolidation therapy , was characterized additionally by t ( 12;12 ) ( p13;q13 ) .
+Thus , t ( 12;12 ) was a secondary cytogenetic change that caused growth advantage to the evolutionary clone .
+Since secondary abnormalities are closely associated with the progression of leukemia  and t ( 12;12 ) ( p13;q13 ) was detected upon disease relapse , it is likely that t ( 12;12 ) ( p13;q13 ) played an important role in the progression of leukemia .
+A review of the literature revealed that t ( 12;12 ) ( p12-13;q13 ) has been reported in only seven leukemia cases with limited clinical data .
+These cases include two cases of ALL , one case of CML , three cases of AML , and one case of MDS ( RARB-1 ) that progressed rapidly to AML  .
+Although acute leukemia cases with 12p13 rearrangement have been reported in patients with a history of chemotherapy or radiotherapy , such as our patient , and are associated with an unfavorable prognosis  , none of the reported cases with t ( 12;12 ) ( p12p13;q13 ) and available medical history appear to be therapy related .
+Like our patient , however , all the reported patients with AML and t ( 12;12 ) ( p12p13;q13 ) had a bad outcome or an unfavourable prognosis , except one whose outcome was not available .
+Since in most of the reported cases the treatment of the patients was not available and t ( 12;12 ) was not the only cytogenetic aberration , the prognosis of t ( 12;12 ) as the sole aberration is currently unknown .
+Our patient has been in continuous relapse for the last 4 months , and has a very poor prognosis not only because of t ( 12;12 ) ( p13;q13 ) , but also because of the t ( 11;19 ) ( q23;p13.1 ) associated with the diagnosis of t-AML .
+Table 1. .
+Demographic , clinical , and cytogenetic characteristics of the reported cases with t ( 12;12 ) ( p12p13;q13 )
+PtAge ( yr ) SexDiseaseMedical historyToxin exposureKaryotypeTreatmentSurvivalReference no. 14MALLNRNR47,XY,t ( 12;12 ) ( p13;q13 ) ,+16 / 48,idem,+21NR27 mo  21.8MALL-L1 Early BNRNR46,XY,t ( 12;12 ) ( p11p12;q13 ) NRNR  342FPh , BCR+ CMLHysterectomyNR46,XX,t ( 12;12 ) ( p12;q13 ) Dibromomannitol , busulfan , -IFN , -IFN5 yr+  462FAML-M6NoneNone45,XX,2,t ( 2;5 ) ( q21;q33 ) ,der ( 5 ) del ( 5 ) ( q22q31 ) ,7,der ( 7 ) t ( 2;7 ) ( p11;q36 ) ,t ( 12;12 ) ( p13;q13 ) ,add ( 17 ) ( q25 ) ,del ( 20 ) ( q11q13 ) ,+marNR2 mo  51.8FAML-M4NRNR46,XX,t ( 1;11 ) ( q21;q23 ) ,t ( 12;12 ) ( p12;q13 )  /46,XX  NRNR  677MAML-M2UnremarkableNoneDiagnosis : 46,XY,del ( 7 ) ( q35 )  First relapse:46,XY,del ( 7 ) ( q35 )  /46,XY  After treatment : 46,XY,t ( 1;12 ) ( p34;p13 )  /46,XY  6 months later : 46,XY,del ( 7 ) ( q35 ) ,t ( 12;12 ) ( p13;q13 )  Induction chemotherapy , three courses of consolidation therapy , reinduction chemotherapy22 mo  772FMDSAMLUnremarkableNone46,XX,t ( 12;12 ) ( p13;q13 ) NR3 mo  845FAML-M2Ca breast cancerChemo / radiotherapyDiagnosis : 46,XX,t ( 11;19 ) ( q23;p13.1 )  /46,XX  Relapse : 46,XX , t ( 11;19 ) ( q23;p13.1 )  /46,idem,t ( 12;12 ) ( p13;q13 )  Induction chemotherapy , three courses of consolidation therapy , salvage chemotherapy18+Present case .
+Full-size table .
+Abbreviations : Pt , patient ; M , male ; F , female ; NR , not reported ; AML , acute myeloblastic leukaemia ; CML , chronic myeloid leukaemia ; Ph , Philadelphia ; MDS , myelodysplastic syndrome ; ALL , acute lymphoblastic leukemia ; CLL , chronic lymphoblastic leukemia ; IFN , interferon ; + , alive .
+View Within Article .
+In the current case , the t ( 12;12 ) resulted in a split of ETV6 gene demonstrating that the breakpoint on the large der ( 12 ) t ( 12;12 ) is located within the ETV6 gene .
+Thus , the ETV6 gene was disrupted , making the expression of the wild-type product improbable , indicating the possible formation of a new fusion gene .
+As it is known , a fusion gene may lead to the formation of a chimeric protein , activation of the partner gene , or in few cases to the formation of unproductive ETV6 protein .
+Rearrangements of the ETV6 gene has been detected in another AML-M2 case with t ( 12;12 ) ( p13;q13 ) at the relapse of the disease , as in our case  .
+Panagopoulos et al. reported a fusion of ETV6 and BAZ2A at 12q13 generated through a cryptic rearrangement between 12p13 and 12q13 , which was not expected to produce a chimeric protein , but a truncated form of ETV6 , in a pediatric pre-B acute lymphoblastic leukemia  .
+Further characterization of 12p rearrangements is important because not only may it reveal a new fusion gene , increasing our understanding of its functional properties , but may also identify new breakpoints that may disclose previously unrecognized oncogenes .
+The translocation of the CHOP gene ( at 12q13 ) to the large der ( 12 ) , indicated that the breakpoint on the small der ( 12 ) was proximal to CHOP .
+The fact that it was translocated intact revealed that the CHOP gene was not fused with ETV6 .
+However , it was not determined , however , whether the change of the position of the CHOP gene affected its normal expression .
+Balanced translocations of the long arm of chromosome 12 have been described in myelofibrosis with myeloid metaplasia , implicating the 12q13q24 region in the pathogenesis of this malignant myeloproliferative disease  .
+Since approximately 10% of myelofibrosis and other Ph-negative myeloproliferative diseases transform to acute leukemia , genes on the 12q region may play an important role in predisposition to AML .
+Our investigation emphasizes the role of split-signal FISH for detection of submicroscopic chromosome reararrangements in leukemias , especially for target genes with multiple partner genes such as ETV6 and MLL genes .
+The split-signal FISH approach can detect a deletion of one part of the gene , or a translocation , independently of the involved partner gene .
+Moreover , it allows the identification of the partner gene or partner chromosome region if metaphases are present and there are no high levels of false positivity ranging between 5 and 10%  .
+In conclusion , our findings suggest that the ETV6 gene rearrangements in t ( 12;12 ) ( p13;q13 ) may reveal a new fusion gene involving ETV6 and a new partner gene at band 12q12q13 , and that the disruption of this gene may be involved in the progression of the disease .
+To the best of our knowledge , this case also represents the first report of the rare t ( 12;12 ) ( p13;q13 ) associated with t-AML and emphasizes the role of split-signal FISH for detection of submicroscopic chromosome rearearrangements in leukemias .

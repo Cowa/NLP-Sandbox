@@ -1,0 +1,100 @@
+Malgré l' avènement du prélèvement du ganglion sentinelle ( GS ) , le curage axillaire ( CA ) reste un des standards de la prise en charge de certaines patientes ayant un cancer du sein de plus de 2 cm  .
+L' une des complications les plus fréquentes en postopératoire immédiat est l' écoulement sérolymphatique dénommé dans la littérature lymphorrhée , lymphocèle ou le_plus_souvent sérome  .
+Leur définition reste clinique et leur évaluation est très hétérogène selon les séries : volume de drainage , durée de drainage , nombre des aspirations ou bien volume des aspirations .
+La fréquence d' apparition du sérome varie de 0 à 80 % , selon les différentes techniques chirurgicales et l' attitude préventive préconisées , ainsi_que la méthode d' évaluation utilisée  .
+Cette complication , reflet majeur de la morbidité du CA , affecte la qualité de vie des patientes atteintes de cancer du sein .
+Diminuer l' incidence et la sévérité des séromes permettrait de réduire la morbidité globale du CA et en_particulier la durée d' hospitalisation des patientes .
+Nous détaillons dans cette revue de la littérature l' ensemble des techniques actuelles ou passées ayant pour objectif de réduire cette complication liée au CA .
+2. Définition et physiopathologie des séromes
+Il s' agit le plus fréquemment d' une masse palpable , gênante pour la patiente , fluctuante , tendue , contenant du liquide situé dans la loge du curage axillaire ou de mastectomie et qui nécessite au moins une aspiration  .
+Cette collection liquidienne peut être responsable d' une désunion de la cicatrice , peut donner lieu à des complications infectieuses locales , puis générales en cas de surinfection , et peut contribuer de manière plus_ou_moins importante aux complications tardives telles_que l' apparition de brides rétractiles au niveau de l' aponévrose clavi-pectoraux-axillaire ainsi_que l' apparition d' un lymphoedème  .
+Pour certains auteurs , le sérome se définit par le recours à des ponctions évacuatrices itératives  ; pour d' autres il nécessite un volume minimum de liquide aspiré ( variable selon les auteurs : de 20 à 50 ml )  .
+Dans une étude de Jeffrey et al. , cette accumulation liquidienne est présente à l' échographie chez 92 % des patientes opérées ( après traitement conservateur ) , mais seulement 42 % nécessitent une ponction  .
+La Common terminology criteria for adverse events v3.0 classe les séromes en trois grades : le grade 1 correspond à un épanchement asymptomatique clinique ou radiologique , le grade 2 le définit comme symptomatique nécessitant une aspiration , le grade 3 le décrit comme requérant une intervention chirurgicale .
+Ainsi dans la_plupart des études , seul le sérome de grade 2 est étudié , le grade 1 restant sous-évalué  .
+Le sérome est de nature sérolymphatique .
+Cette formation est principalement due à la création d' un espace mort secondaire à la dissection et l' exérèse des tissus cellulograisseux .
+Ainsi , l' absence de confrontation des berges , liée aux particularités anatomiques ( irrégularités de la paroi thoracique , mouvements respiratoires ) empêche les lambeaux tissulaires de se coapter  , ralentit la cicatrisation et permet donc la création d' un espace laissant le liquide s' accumuler .
+La nature de la production liquidienne qui résulte de l' absence d' étanchéité du creux axillaire est encore aujourd'hui discutée : pour Bonnema et al. , il s' agit d' un liquide de drainage semblable à celui de la lymphe avec un contenu cellulaire et protéique spécifiques apparaissant par exsudation hors des canaux lymphatiques qui ne contiennent pas de membranes basales , ne limitant donc pas leur extravasation  .
+L' occlusion des canaux lymphatiques par clip , coagulation etc. ne permet donc pas de réduire l' apparition de ce liquide .
+L' absence de fibrinogène pourrait expliquer la non-coagulabilité de ce liquide  .
+En revanche , Watt-Boolsen et al. décrivent un liquide à la composition proche d' un exsudat inflammatoire  , résultats corroborés par McCaul_et_al.  .
+Plus globalement , on peut dire que le contenu exact du liquide reste obscur , car de composition variable selon le moment où il est analysé  .
+3. Facteurs de risque d' apparition des séromes
+Kuroi et al. ont récemment mis en évidence les facteurs influençant la formation des séromes  : un index de masse corporel ( IMC ) élevé et un volume de drainage important dans les trois premiers jours postopératoires sont associés à une augmentation significative de l' incidence et de la gravité des séromes et dans une moindre mesure l' hypertension artérielle .
+En revanche , bien plus nombreux sont les facteurs qui ne semblent pas avoir d' influence sur l' incidence de survenue d' un sérome : l' anémie , le diabète , le tabagisme , le stade évolutif de la maladie , le grade tumoral , le type histologique , la localisation tumorale ainsi_que la taille de la tumeur et le statut vis-à-vis des récepteurs hormonaux .
+4. Prévention peropératoire de la formation des séromes
+De nombreuses techniques de dissection des tissus ont été comparées en vue d' améliorer l' hémolymphostase des vaisseaux et donc de diminuer la production sérolymphatique des espaces de dissection : l' électrocoagulation classique , la pince Ligasure , les ciseaux à ultrasons ( Ultracision ) , les lasers ( Argon ) , les clips chirurgicaux .
+Aucune ne montre réellement de supériorité par rapport aux autres .
+Dans une étude rétrospective comparant le Ligasure aux clips chirurgicaux chez des patientes ayant bénéficié d' un CA associé à une tumorectomie , Magri et al. retrouvent une diminution significative de la durée de drainage postopératoire avec la technique par Ligasure , mais une augmentation significative du taux de sérome  .
+De plus , cette technique ne retrouve pas de bénéfice en terme de cot total d' hospitalisation .
+Les ciseaux à ultrasons ont été évalués par Galatius_et_al.  , Lumachi_et_al.  et Adwani et Ebbs  .
+Même si le principe de leur fonctionnement paraît séduisant ( diminution de la diffusion thermique dans les tissus sains ) , les résultats de ces études limitées en nombre de patientes ne permettent pas d' affirmer de bénéfice de cette technique en terme , ni de volume et de durée de drainage , ni de fréquence d' apparition d' un sérome , en comparaison aux techniques dites classiques de ligature par fil , clip et électrocoagulation .
+Quatre études ont montré que l' incidence et la gravité des séromes n' étaient pas influencées par le nombre de ganglions prélevés lors_de la réalisation d' un CA  .
+En revanche , les études portant sur le prélèvement du GS montrent actuellement une diminution de l' incidence et de la gravité des séromes .
+Ainsi , dans l' essai randomisé multicentrique de l' almanac , Mansel_et_al.  constatent 17 % de séromes dans le groupe GS contre 79 % dans le groupe CA .
+De même , dans une étude prospective réalisée à l' institut Curie , 18 % des patientes opérées selon la technique du GS présentent un sérome , versus 40 % des patientes après CA  .
+Dans cette étude , une seule ponction était nécessaire dans le GS , contre une à sept ponctions dans le groupe CA .
+Classe_et_al.  rapportent un taux de sérome de 11 % , après prélèvement du GS .
+Purushotham_et_al.  confirment ces mêmes taux ( 21 % versus 14 % ) dans une étude randomisée contrôlée portant sur 298 patientes .
+Plusieurs techniques sont décrites pour clore l' espace mort créé après la dissection des tissus ( loge de mastectomie , loge du CA ) : le capitonnage du creux axillaire , les colles contenant de la fibrine , les éponges hémolymphostatiques .
+Le capitonnage du creux axillaire a été décrit pour la première fois en 1955 par Larsen et Hugan  , puis en 1984 par Aitken_et_al.  .
+Elle a également été reprise par Hamy_et_al.  et Garnier_et_al.  .
+Si la technique varie en fonction des auteurs , le principe consiste à réaliser un capitonnage musculaire , musculo-aponévrotique , cutanéomusculaire , ou simplement aponévrotique à l' aide des muscles grand dentelé , pectoral et grand dorsal , de l' aponévrose clavi-pectoro-axillaire et des tissus sous-cutanés .
+Dans la_plupart des études , cette technique n' a été étudiée que dans le cadre de CA associés à un traitement conservateur .
+Hamy et al. décrivent dans une étude prospective portant sur 53 patientes , une diminution de l' incidence des séromes après capitonnage musculo-aponévrotique ( 21 % de séromes ) versus sans capitonnage et sans drainage ( 80 % de séromes ) , mais également une diminution du volume et du nombre de ponctions  .
+Néanmoins , cette étude ne permet pas de démontrer le bénéfice de cette technique par_rapport_à un groupe témoin bénéficiant d' un traitement de référence par le drainage aspiratif postopératoire .
+Garnier_et_al.  , dans une étude rétrospective sur 100 CA avec capitonnage musculo-aponévrotique , ne retrouvent aucun cas de sérome à ponctionner .
+En revanche , Garbay_et_al.  , dans une étude prospective portant sur 152 patientes , comparent la technique du capitonnage musculaire au drainage aspiratif postopératoire .
+Ils retrouvent dans le groupe des patientes avec capitonnages une augmentation de l' incidence des séromes ( 15 versus 5 % ) ainsi_qu' une nette augmentation de la douleur axillaire lors_de la première semaine , mais avec une réduction de la durée d' hospitalisation .
+Il conclut en préconisant une technique plus simple en suturant uniquement le plan aponévrotique et non l' adossement des deux muscles qui semblent être la cause des douleurs postopératoires .
+Classe et al. , dans une étude prospective portant sur 207 patientes ayant bénéficié d' un capitonnage musculo-aponévrotique , ne retrouvent que 22 % de séromes nécessitant une aspiration  .
+En revanche , dans un autre essai prospectif randomisé récent portant sur 100 patientes , il ne retrouvent pas de différence significative sur l' incidence des séromes entre les techniques par capitonnage et par drain aspiratif ( 17 versus 18 % ) , mais notent un volume total aspiré et ponctionné plus faible grâce au capitonnage et surtout une durée d' hospitalisation plus courte  .
+Cette technique semble donc assez séduisante : elle présente au maximum une incidence et une gravité des séromes qui sont équivalentes à celles du drainage aspiratif , avec l' avantage de permettre une diminution de la durée d' hospitalisation .
+Si Garbay_et_al.  retrouvent deux fois plus de douleurs postopératoires immédiates , Classe_et_al.  ne notent aucune différence .
+Cette technique est pourtant , à ce jour , peu utilisée , probablement en raison d' une augmentation de la durée opératoire ( 10 à 20 minutes  ) et d' une pratique réservée à quelques équipes habituées et entraînées à cette technique .
+Dans leur méta-analyse , Carless et Henry ont récemment étudié la réduction du sérome après CA dont le principe était de tenter de combler l' espace mort du creux axillaire en rapprochant les tissus à l' aide de colles contenant de la fibrine appliquées en fin d' intervention dans le creux axillaire  .
+Ces produits ne réduisent de manière significative ni le taux de sérome postopératoire , ni le volume et la durée de drainage , ni la durée d' hospitalisation des patientes .
+Pourtant les études chez l' animal étaient plutôt encourageantes  .
+Chez l' homme , la_plupart des études , d' une qualité méthodologique souvent médiocre , portait sur de faibles effectifs .
+De plus , les produits utilisés étaient de composition sensiblement différente dans chacune des études , rendant difficile leur comparaison .
+Se calquant sur le concept des colles , certains auteurs ont appliqué des patchs ou des éponges contenant de la fibrine dans le creux axillaire .
+Berger et al. ont évalué dans une étude prospective randomisée l' efficacité et les complications d' un patch de collagène et de fibrine sur un groupe de 29 patientes en le comparant à un groupe de 31 patientes n' ayant bénéficié que d' un drainage aspiratif  .
+Il ne retrouvait pas de différence significative ni sur les volumes drainés , la durée du drainage et la durée d' hospitalisation , ni sur l' incidence des séromes après l' ablation du drain .
+Cependant , dans cette étude , n' était pas mentionné le nombre moyen de ganglions du CA prélevés dans chaque groupe .
+La technique combinée de CA par voie endoscopique après lipo-aspiration du creux axillaire semble avoir une efficacité comparable à celle du curage axillaire classique voire une morbidité parfois inférieure , notamment , pour les séromes  , mais avec un risque de métastases orificielles loin d' être négligeable , ce qui en limite l' utilisation  .
+Notons que le peu d' études sur cette technique porte sur des séries sans groupe témoin  .
+5. Prévention postopératoire de l' apparition des séromes
+Développé dès 1947 par Murphey  , le système aspiratif en oblitérant l' espace mort , a supplanté le système de drainage statique .
+Il permet en_outre d' augmenter la liberté de mouvement et de diminuer l' inconfort des patientes opérées  .
+Il est devenu un standard de la prise en charge postopératoire du CA  , même si aujourd'hui encore , son efficacité sur la diminution de la formation des séromes est discutée  .
+L' intensité de l' aspiration ne paraît pas_non_plus avoir d' incidence sur la formation de séromes .
+Les résultats sont , cependant , discordants selon les séries  .
+Plusieurs séries montrent l' inefficacité de cette méthode dans la prévention de l' apparition d' un sérome  .
+Jeffrey et al. ont étudié prospectivement 81 patientes , en l' absence de groupe comparatif , après un traitement conservateur sans drainage et ont réalisé une ponction dans 42 % des cas  .
+De même Zavotsky et al. , en comparant 43 patientes traitées sans drainage à 72 patientes bénéficiant d' un drainage axillaire , retrouvent une nette augmentation de séromes nécessitant au moins une aspiration après l' absence de drainage ( 50 versus 8,3 % )  .
+Cependant , certaines études infirment ces résultats  .
+En général le drainage est maintenu entre deux et sept jours , jusqu' à_ce_que le redon contienne moins de 30 ml  .
+Cependant , là encore , les études sont contradictoires sur la durée optimale de maintien des drains .
+Gupta et al. observent une incidence de séromes plus importante avec un retrait plus précoce à j5 versus j8  .
+De même , Kopelman_et_al.  et Dalberg_et_al.  dans deux essais contrôlés randomisés retrouvent une augmentation de l' incidence des séromes après ablation du drain à j1 comparé à j3 .
+Certaines équipes préconisent une sortie précoce avec maintien du drain en ambulatoire  .
+Cette technique permettant de diminuer la durée d' hospitalisation n' a pas montré d' augmentation des complications en_particulier vis-à-vis_de l' incidence des séromes , au prix d' un effort de formation des patientes et d' organisation d' un réseau de soins infirmiers ville - hôpital .
+D' autres auteurs n' observent aucune différence lors d' un retrait plus précoce du drain : Parikh et al. , dans une étude randomisée , ne retrouvent pas d' augmentation de l' incidence ni de la gravité des séromes lors_de l' ablation d' un drain à j3 par_rapport_à j6  .
+Inwang_et_al.  , Somers_et_al.  et Ackroyd et Reed  dans trois essais randomisés confirment ces résultats .
+O' Hea et al. , dans un essai randomisé , n' ont pas montré de bénéfice d' un pansement compressif sur la réduction de l' incidence des séromes  .
+Il retrouvent même une augmentation significative du nombre d' aspirations après compression , principalement majorées après mastectomie .
+Chen et Chen confirment l' absence de réduction de la formation de séromes par cette technique dans un essai randomisé  .
+Concernant la mobilisation différée du membre supérieur , plusieurs essais randomisés et une méta-analyse retrouvent des résultats discordants .
+La dernière revue de la littérature récente réalisée par Shamley et al. met en évidence une diminution significative de la formation de séromes après mobilisation différée de l' épaule ( OR = 0,4 % ) , sans pour autant avoir d' incidence sur la complication ultérieure de raideur de l' épaule  .
+Par ailleurs , ils ne notent pas de différence sur le volume de drainage précoce ni sur la durée d' hospitalisation .
+6. Conclusion
+De nombreuses techniques passées et actuelles ont visé à réduire l' incidence et la gravité des séromes après curage axillaire .
+Certains facteurs de risques ont été isolés ( index de masse corporel élevé , volume de drainage important des trois premiers jours , hypertension artérielle ) .
+Certaines techniques ont montré un bénéfice sur la réduction du sérome ( ganglion sentinelle , capitonnage du creux axillaire , drainage ) , d' autres présentent des résultats suffisamment contradictoires ne permettant pas à l' heure actuelle de recommander leur utilisation : colles contenant de la fibrine , éponges hémolymphostatiques , diverses techniques de dissection des tissus , compression externe , mobilisation différée du membre supérieurs , le curage axillaire par lipo-aspiration et prélèvement endoscopique .
+Cette revue de la littérature permet de souligner l' ampleur des controverses dans la prise en charge tant préventive que peropératoire ou postopératoire d' un curage axillaire .
+Elle permet également de montrer les difficultés à adopter aujourd'hui des pratiques consensuelles afin_de diminuer la morbidité de ce geste chirurgical .
+Certes , la discordance des résultats , parfois encourageants , parfois décevants , d' une pratique donnée peut s' expliquer par l' expérience du chirurgien vis-à-vis d' une technique ; mais c' est un point difficile à analyser .
+Aussi certaines techniques encore peu répandues comme le capitonnage semblent elles assez séduisantes et méritent peut-être d' être davantage développées .
+D' autres comme le curage par lipo-aspiration associé au prélèvement endoscopique ont pratiquement disparu en raison d' effets adverses trop importants .
+À l' heure actuelle , seule la technique du ganglion sentinelle semble avoir constitué un tournant dans l' exploration de l' aisselle chez les patientes ayant un cancer du sein de petite taille , ne dépassant pas 2 cm , sans adénopathie palpable cliniquement

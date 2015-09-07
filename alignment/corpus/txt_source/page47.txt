@@ -1,0 +1,203 @@
+On englobe sous le terme de traitement hormonal de la ménopause ( THM ) différents schémas thérapeutiques , associant , chez les femmes non hystérectomisées , estrogènes et progestatifs et destinés à compenser les effets de l' arrêt de la production hormonale ovarienne .
+Les modalités de ces schémas d' hormonothérapie ont varié en fonction de l' évolution de la pharmacologie et des habitudes thérapeutiques propres à chaque pays .
+Ainsi , aux États-Unis , le THM le plus largement , si ce n' est le seul à être utilisé , reste fondé sur l' association des estrogènes conjugués équins ( ECE ) par voie orale et d' un progestatif de synthèse ( PGS ) , l' acétate de médroxyprogestérone ( MPA ) .
+En France , au_contraire , la préférence a toujours été donnée et depuis plusieurs années au 17-estradiol associé à la progestérone ou à des progestatifs de synthèse réputés peu ou pas androgéniques ( type norpregnanes , notamment ) .
+Il apparaît donc clair que l' utilisation du terme générique de THM est criticable car il fait abstraction de toutes les différences existant entre les molécules utilisables et laisse supposer que les résultats seront toujours similaires , quels que soient le type de molécule et le mode d' administration utilisés .
+Les résultats observés dans les grands essais cliniques randomisés prospectifs récents menés aux États-Unis , HERS  , WHI  , avec l' association ECE + MPA , ainsi_que ceux d' une étude épidémiologique d' observation anglaise avec différents schémas thérapeutiques , MWS  , ont été jugés défavorables à l' échelle des populations traitées du fait de l' augmentation des risques d' accidents artériels et thromboemboliques veineux et de cancer du sein .
+Les données de ces études , opposées aux données plus optimistes d' études d' observation antérieures , notamment vis-à-vis du risque cardiovasculaire , ont jeté dans un premier temps un discrédit général sur le traitement hormonal de la ménopause , dont il a été conseillé de limiter l' utilisation à la correction à court terme du syndrome climatérique .
+Cependant , une analyse plus critique de ces études et la publication de données complémentaires ont montré que ce constat négatif méritait d' être nuancé et devait prendre en compte certaines caractéristiques des populations traitées , tels par_exemple , pour le risque coronarien , la prévalence de facteurs de risque ou l' âge d' instauration du traitement  .
+De plus , il apparaît que la nature du schéma thérapeutique ne doit pas être négligée dans l' évaluation de ces risques potentiels .
+Au-delà d' un impact métabolique différent selon la voie d' administration des estrogènes , orale ou parentérale , l' effet de certains progestatifs sur le risque de cancer du sein fait actuellement l' objet d' un débat .
+Ce problème , déjà soulevé par plusieurs études d' observation , se pose avec une acuité toute particulière après les résultats du bras estrogènes seuls de la WHI  et ceux de l' étude française EPIC - E3N  , ajoutant encore à la complexité des relations âge/THM / cancer du sein .
+Ainsi , une des questions posées par l' utilisation du traitement hormonal est de déterminer si certains risques peuvent être diminués , voire abolis , avec l' utilisation d' un traitement hormonal qui pourrait être défini comme véritablement « substitutif » ( THS ) , c' est-à-dire fondé sur l' utilisation des hormones produites à l' état physiologique par l' ovaire , estradiol ( E2 ) et progestérone ( P ) .
+L' absence d' étude clinique comparative entre THS et THM ne permet pas de répondre de façon définitive à cette question .
+Cependant , nous disposons d' un certain nombre de données biologiques et cliniques qui documentent les différences de résultats observés selon les molécules utilisées et leur voie d' administration .
+Le but de cette revue sera d' analyser , en fonction des connaissances sur le métabolisme et l' action des stéroïdes sexuels ( estradiol , progestérone ) , ces données au plan des trois risques majeurs que sont le risque thromboembolique veineux , le risque coronarien et le risque de cancer du sein ainsi_que d' envisager les éventuelles implications thérapeutiques , en_pratique .
+Nous ne discuterons pas ici les autres aspects de cette problématique , en_particulier sur les bénéfices reconnus du traitement hormonal , tels le syndrome climatérique ou la prévention de l' ostéoporose .
+2. Bases et définition du traitement hormonal substitutif ( THS )
+De façon générale , tout traitement hormonal substitutif a pour objectif de pallier l' insuffisance ou la carence d' une production hormonale .
+Depuis de nombreuses années , grâce aux progrès de la pharmacologie , la substitution d' une insuffisance hormonale dans l' espèce humaine ne fait plus appel aux extraits de glande d' origine animale ( extraits thyroïdiens , surrénaux , insuline porcine ou bovine etc. ) ou humaine ( extraits hypophysaires ) .
+Elle utilise exclusivement des hormones structurellement identiques aux hormones humaines ( thyroxine , hydrocortisone , insuline , hormone de croissance etc. ) , dont la synthèse par techniques chimiques ou biologiques constitue une garantie en terme de structure , de pureté et de stabilité d' activité biologique .
+En ce qui concerne la fonction gonadique et plus précisément la fonction ovarienne , il faut remarquer que ce principe général de substitution n' est pas appliqué pour l' administration des stéroïdes sexuels chez la femme ménopausée et différentes molécules à effet estrogénique ou progestatif restent couramment utilisées dans le monde pour le traitement de la ménopause .
+En dehors de cette notion fondamentale d' identité structurelle des hormones utilisées avec les hormones humaines , le concept de « substitution » pourrait même être élargi à la chronologie de leur administration .
+La variation des effets tissulaires en fonction de la chronobiologie de l' exposition hormonale est une donnée classique de l' endocrinologie .
+Par exemple , la production pulsatile de la GnRH stimule la production des gonadotrophines , contrairement à une administration permanente qui l' inhibe .
+De même , la production continue d' hormone parathyroïdienne a un effet catabolique sur l' os alors_que son administration intermittente a un effet anabolique .
+En ce qui concerne les stéroïdes sexuels , il est important de rappeler que contrairement à l' homme où l' exposition à ces hormones est , depuis la puberté , continue et permanente , une telle exposition chez la femme est cyclique et séquentielle au_cours_de sa vie reproductive .
+Une administration concomitante et continue d' estrogènes et de progestérone , chez une femme ménopausée , devrait donc également être prise en compte dans l' analyse des effets observés .
+Enfin , le choix de la voie d' administration n' est pas sans importance du fait de l' impact hépatique de la prise orale .
+Ainsi , le terme de traitement hormonal substitutif ( THS ) ne devrait en_principe s' appliquer qu' aux traitements utilisant des hormones bio-identiques , administrées dans les conditions les plus proches de leur production physiologique , de façon cyclique et de préférence par voie parentérale .
+Certes , une autre approche du terme substitutif pourrait consister à ne réserver cet adjectif qu' au traitement des ménopauses survenant dans un contexte pathologique , en_particulier des ménopauses précoces .
+Dans cette optique , le terme de traitement hormonal de ménopause ( THM ) serait alors automatiquement dédié aux situations de ménopause naturelle .
+Néanmoins , cette approche conserve toujours l' inconvénient de ne pas faire la distinction entre les différents schémas thérapeutiques .
+C' est pourquoi , il nous semble plus logique que le terme de THM fasse plutôt référence aux traitements fondés sur des molécules structurellement différentes des hormones humaines et administrées selon des schémas thérapeutiques variables .
+3. Mécanismes de l' action tissulaire des stéroïdes sexuels
+L' action tissulaire des stéroïdes sexuels dépend de mécanismes complexes qui peuvent être schématiquement envisagés à trois niveaux , cellulaire , métabolique et génétique .
+3.1. Niveau cellulaire
+Le mécanisme de base de la réponse cellulaire aux stéroïdes est constitué par des récepteurs hormonaux en_théorie spécifiques , appartenant à la superfamille des récepteurs nucléaires , qui orchestrent des fonctions d' activation et de répression de la transcription , d' intégration de différentes voies de signalisation cellulaire et de contrôle du cycle cellulaire ( prolifération , apoptose ) .
+Ces récepteurs , une fois activés par leur ligand naturel ( estradiol , progestérone ) subissent une modification de leur structure ( dimérisation ) qui leur permet d' entrer au contact avec des éléments spécifiques de l' ADN situés sur la région promotrice d' un gène hormonodépendant et d' initier la transcription génique  .
+En fait , cette machinerie cellulaire est plus complexe car de nombreux autres éléments interviennent dans la réponse cellulaire et déterminent la spécificité tissulaire de la réponse à ces hormones . - Plusieurs sous-types ( au moins deux ) de récepteurs aux estrogènes ( RE et RE )  , et à la progestérone ( PR-A , PR-B )  , ont été identifiés depuis_peu .
+Ces isoformes exercent des fonctions différentes et leurs proportions relatives sont variables selon les tissus et les phases de la vie reproductive .
+Ainsi , PR-A et PR-B peuvent chacun réprimer l' activité du RE induite par l' estradiol , mais l' amplitude de cette répression dépend de plusieurs facteurs , telle la nature de l' isoforme ( PR-A plus efficace que PR-B ) , le type de ligand et le type cellulaire  .
+La capacité de différents composés progestatifs utilisés dans le THM , à se fixer préférentiellement sur l' un ou l' autre de ces isoformes reste très mal connue et il paraît donc difficile de juger de leur effet agoniste ou antagoniste de la prolifération cellulaire induite par les estrogènes au niveau par_exemple , de la glande mammaire .
+- Le complexe hormone / récepteur agit par_ailleurs en coordination avec différents corégulateurs spécifiques de la transcription ( répresseur ou activateur ) et des facteurs généraux de transcription dont le recrutement est variable selon les tissus , mais également selon le ligand .
+En effet , ce concept de spécificité des récepteurs hormonaux s' est progressivement élargi , notamment en ce qui concerne le récepteur aux estrogènes .
+On sait actuellement que ce récepteur peut être activé , non_seulement par son ligand naturel ( estradiol ) mais_aussi par d' autres signaux émanant de différentes molécules de structure stéroïdienne ou non stéroïdiennne ainsi_que par des facteurs de croissance ou d' autres protéines ( kinases ) issues de voies de signalisation cellulaire à_partir_de récepteurs membranaires .
+Toutes ces molécules peuvent modifier la réponse de type estrogénique selon chaque tissu , en modulant par_exemple dans le cas des SERMs , la structure tridimensionnelle du complexe hormone / récepteur , permettant l' accès à d' autres zones de l' ADN et / ou en assurant le recrutement de corégulateurs différents  .
+Cette faible spécificité du récepteur aux estrogènes explique la possibilité , selon les tissus , d' obtenir une réponse de type estrogénique , voire anti-estrogénique , avec une large gamme de composés , allant des estrogènes d' origine animale ou végétale ( phytoestrogènes ) aux SERMs , et même à certains produits toxiques ( xénoestrogènes ) .
+- Il existe par_ailleurs des interactions entre les récepteurs aux estrogènes ( RE ) et à la progestérone ( PR ) avec schématiquement , un effet agoniste de l' activation du RE sur l' expression du PR et un effet antagoniste du PR sur l' activité du RE .
+Cet effet est bien documenté au niveau de nombreux tissus cibles des estrogènes comme l' endomètre , où les estrogènes augmentent la prolifération cellulaire et l' expression du PR , alors_que ces effets sont inhibés par la progestérone ou les progestatifs de synthèse .
+Au niveau de la glande mammaire , l' effet agoniste ou antagoniste de la progestérone sur la prolifération cellulaire induite par les estrogènes fait en_revanche , toujours l' objet d' une controverse .
+- Enfin , en_dehors de ces voies principales d' activation , E2 et P peuvent stimuler des réponses cellulaires par d' autres mécanismes non génomiques tels des effets membranaires rapides permettant l' ouverture de canaux ioniques .
+Full-size image ( 37K )
+Fig. 1. Déterminants cellulaires de la réponse aux estrogènes .
+View Within Article
+3.2. Niveau métabolique
+En amont du récepteur , différents mécanismes peuvent conditionner l' environnement hormonal et moduler la réponse cellulaire .
+3.2.1. Concentration des protéines de transport des stéroïdes sexuels
+Cette concentration des protéines de transport des stéroïdes sexuels ( SHBG , albumine , transcortine ) qui peut varier sous l' influence de différents facteurs va intervenir dans la quantité d' hormone libre disponible au niveau cellulaire .
+De plus , il est important de rappeler que , même si ces stéroïdes subissent in_fine un métabolisme hépatique , leur diffusion vers les tissus cibles à partir des ovaires se fait dans un premier temps directement par voie sanguine .
+En revanche , en thérapeutique , leur administration orale , notamment pour les estrogènes , induit un effet dit de premier passage hépatique qui peut , par le biais de l' augmentation de synthèses protéiques , entraîner des effets délétères , dont les plus documentés concernent l' hémostase  .
+3.2.2. Systèmes enzymatiques
+Toute une machinerie enzymatique , dont l' activité est influencée par des facteurs génétiques , environnementaux , métaboliques , pharmacologiques va également jouer un rôle capital dans la synthèse et le métabolisme des estrogènes .
+Full-size image ( 19K )
+Fig. 2. Activités enzymatiques de la synthèse des estrogènes. ( 3-HSD = 3 hydroxysteroid deshydrogenase , 17-HSD = 17 hydroxysteroid deshydrogenase , AromP450 = Aromatase ; STS = sulfotranférase ) .
+View Within Article
+Ainsi , une attention particulière a été donnée depuis plusieurs années aux systèmes enzymatiques assurant la conversion des estrogènes à partir des androgènes ( Aromatase ou Cyp 450 ) , l' interconversion estrone - estradiol ( 17 hydroxysteroid deshydrogenase ( 17BHSD ) ou alphacetoreductase ( AKR1C3 ) ) , ainsi_que la production de stéroïdes à_partir_de leurs précurseurs sulfatés inactifs ( sulfatase )  .
+Des dysfonctionnements de ces activités enzymatiques , notamment de l' aromatase , ont été associés au_risque_de pathologies estrogénodépendantes , telle l' ostéoporose  , l' endométriose  ou le cancer du sein  .
+Par ailleurs , les estrogènes subissent globalement deux grandes voies métaboliques . - Une conjugaison permettant d' obtenir des composés inactifs hydrosolubles ( dérivés glucuro- ( UDP-glucuronyltransférase ) ou sulfoconjugués ( sulfotransférase ) ) qui sont éliminés dans la bile et les fèces .
+Ces métabolites peuvent cependant être activés au niveau de différents tissus cibles en composés à action estrogénique plus_ou_moins marquée  .
+- Une oxydation , essentiellement par hydroxylation par des cytochromes P450 ( CYP ) .
+L' activité de ces enzymes , dont on connaît trois types ( CYP1 , CYP2 , CYP3 ) et plusieurs isoformes , est régulée par de nombreux facteurs , au sein de chaque tissu , expliquant la possibilité de variations interindividuelles mais_aussi inter-tissulaires de la réponse aux estrogènes .
+L' importance du métabolisme oxydatif des estrogènes en catechol - estrogènes ( CE ) a été soulignée car certains métabolites des estrogènes pourraient induire au niveau du génome ( effet génotoxique ) des mutations favorisant l' apparition de cancers  .
+L' estradiol ( E2 ) converti en estrone ( E1 ) , peut être métabolisé , via de nombreux complexes à cytochrome P450 spécifiques selon les tissus ( par_exemple CYP1B1 au niveau mammaire ) , en différents métabolites hydroxylés suivant deux voies principales , soit en C2 ou C4 ( 2-OH-E1 , 4-OH-E1 ) soit en C16 ( 16-OH-E1 ) .
+Ces métabolites conservent ( 16-OH-E1 , 4-OH-E1 ) ou non ( 2-OH-E1 ) une activité estrogénique .
+Plusieurs travaux ont ainsi déjà montré que l' orientation préférentielle de ce métabolisme selon l' une ou l' autre de ces voies , sous l' influence de facteurs environnementaux ou génétiques , était susceptible de moduler le risque des pathologies post-ménopausiques .
+Ces catechol - estrogènes , normalement détoxifiés par une catechol-o-methyltransférase ( COMT ) , ont par_ailleurs la capacité de s' auto-oxyder facilement en semi-quinones , puis en quinones qui peuvent , en se fixant sur certains sites de l' ADN , induire des mutations .
+Ces orthoquinones résultant des deux voies d' hydroxylation ont la capacité de se lier sur l' ADN pour former des ajouts plus_ou_moins stables .
+Les composés hydroxylés en 2 forment des composés stables alors_que ceux qui sont hydroxylés en 4 , et qui réagissent avec la guanine ou l' adénine , forment des ajouts instables dont le relargage laisse subsister des sites dépurinés à l' origine des mutations .
+De façon générale , la voie d' hydroxylation en 2 est donc considérée comme métaboliquement neutre , contrairement à la voie en 4 , dont la génotoxicité a été mise en évidence dans différents modèles in_vitro .
+Par ailleurs , l' étape de transformation réversible de semi-quinones en quinones , génère également des radicaux superoxydés pouvant entraîner des lésions supplémentaires sur l' ADN .
+Il est bien admis actuellement que ce stress oxydatif constitue un mécanisme critique dans l' initiation et le développement de la tumeur du sein et sa capacité à métastaser  .
+Full-size image ( 30K )
+Fig. 4. Actions potentielles des estrogènes sur la carcinogenèse mammaire .
+View Within Article
+- Pour ce qui concerne la progestérone , il est nécessaire de rappeler qu' elle circule pour 96 à 99 % sous forme liée à des protéines de transport , en_particulier l' albumine ( 50 - 54 % ) et la transcortine ( 43 - 48 % ) .
+Elle peut être métabolisée par des enzymes de type réductase ( AKR1C1 , AKR1C3 ) en dérivés pregnenes ou pregnanes qui vont avoir une action opposée sur la prolifération cellulaire et l' apoptose  .
+Tous ces métabolites peuvent à leur tour , être conjugués ( glucurono- , sulfo- ) et éliminés par voie urinaire ou digestive .
+Full-size image ( 20K )
+Fig. 3. Voies métaboliques des estrogènes .
+View Within Article
+Les PGS sont des molécules qui partagent en_commun une action progestative plus_ou_moins puissante au niveau de l' endomètre , mais qui ont des propriétés intrinsèques selon leur structure et selon le tissu .
+Ils peuvent ainsi exercer des effets agonistes ou antagonistes des androgènes , des glucocorticoïdes , des minéralocorticoïdes , voire des estrogènes .
+Ces molécules exercent donc des effets disparates au plan métabolique et sur le cycle cellulaire ( prolifération cellulaire / apoptose ) .
+Leur métabolisme reste paradoxalement mal connu , notamment celui du MPA , malgré l' ancienneté de son utilisation .
+Full-size image ( 29K )
+Fig. 5. Risque relatif de cancer du sein en fonction du type de traitement : estrogènes versus estrogènes plus progestatifs .
+View Within Article
+3.3. Niveau génétique
+En dehors de mutations bien caractérisées , comme celle , par_exemple , touchant le récepteur aux estrogènes et responsable d' une ostéoporose chez l' homme , différents polymorphismes de gènes estrogénodépendants ont été associés ces dernières années à plusieurs pathologies estrogénodépendantes , dont l' ostéoporose  .
+On connaît également au niveau du génome , notamment sur les chromosomes 3 et 5 , l' existence de certains sites pouvant moduler la réponse tissulaire aux estrogènes  .
+Au total , l' ensemble de ces données physiologiques permet de mieux appréhender les différences de résultats rapportés dans les études cliniques et biologiques en fonction de la structure des hormones administrés et des voies d' administration .
+4. Comparaison des effets cliniques et biologiques du THS et du THM4.1 .
+THS / THM et risque thromboembolique veineux
+Toutes les molécules à effet estrogénique données par voie orale ( estrogènes , SERMs, ) augmentent le risque thromboembolique veineux ( TEV ) .
+Plusieurs études d' observation avaient permis d' évaluer que ce risque était pratiquement trois fois plus important chez les femmes ménopausées traitées que chez celles non traitées de_même âge  .
+Cette notion a depuis confirmée par les essais cliniques HERS et WHI , avec un risque relatif de thrombose veineuse profonde ou d' embolie pulmonaire respectivement , de 2,7 ( IC 95 % [ 1,4 - 5,0 ] ) et de 2,11 ( IC 95 % [ 1,26 - 3,55 ] ) .
+Elle a été également confirmée pour d' autres substances à effet estrogénique tels les SERMs ( étude MORE ) ou le RR était de_même amplitude  .
+Bien que le nombre absolu d' accidents cliniques soit faible et surtout observé en début de traitement , leur survenue pèse d' un poids non négligeable dans la balance globale bénéfice / risque du THM .
+Les perturbations de l' hémostase liées à l' administration orale des estrogènes , y_compris pour l' estradiol , ont été bien documentées au plan biologique , notamment en France depuis plusieurs années  .
+Elles se caractérisent par une diminution des inhibiteurs de coagulation ( tissue - type plasminogen activator ( tPA ) , plasminogen activator inhibitor [ PAI-1 ] ) , une augmentation des facteurs de coagulation ( facteur VII antigen [ FVIIAG ] , facteur VII activé [ FVIIa ] , fragment 1 + 2 de la prothrombine [ F1 + 2 ] ) et une augmentation de l' activité fibrinolytique ( D-Diméres ) .
+Ces perturbations sont liées à l' effet de premier passage hépatique qui augmente les synthèses protéiques .
+En revanche , l' administration de 17-estradiol par voie cutanée n' entraîne pas d' anomalie significative de l' hémostase .
+La confirmation de cet effet délétère de la voie orale a été récemment apportée au plan clinique par l' étude ESTHER  .
+Cette étude cas-témoin a en_effet montré que le risque d' accident TEV n' était pas augmenté de façon significative chez les femmes ménopausées recevant l' estradiol transdermique ( RR = 0,95 ; IC 95 % [ 0,5 - 1,6 ] ) , alors qu' il était triplé ( RR = 3,5 ; IC 95 % [ 1,8 - 6,8 ] ) chez les femmes ayant reçu l' estradiol par voie orale .
+De plus , cette étude suggère que ce risque pourrait être accru par l' association de l' estradiol transdermique avec certains PGS , tel l' acétate de nomegestrol pourtant considéré comme métaboliquement neutre , mais non avec la progestérone .
+4.2. THS / THM et risque coronarien
+L' effet aggravant du THM sur le risque cardiovasculaire qui a été mis en évidence dans les essais thérapeutiques récents ( HERS , WHI ) menés aux États-Unis , a constitué une déception d' autant plus grande qu' un effet bénéfique était attendu d'_après non_seulement les résultats positifs de nombreuses études d' observation , mais également de multiples données biologiques ou expérimentales .
+Cet effet d' aggravation du risque cardiovasculaire dans ces populations trouve peut-être une explication dans une administration trop tardive du THM , chez des femmes ayant une athérosclérose avérée ( HERS ) ou infraclinique ( WHI ) .
+En effet , l' hypothèse actuellement privilégiée par une meilleure connaissance des effets vasculaires et pro-inflammatoires des estrogènes  , serait que leur administration tardive , plusieurs années après la ménopause , sur un endothélium vasculaire déjà siège d' une athéromatose infraclinique , pourrait favoriser la rupture d' une plaque d' athérome instable entraînant ainsi des accidents vasculaires en début de traitement .
+À cet égard , il est intéressant à remarquer que l' analyse des effets cardiovasculaires observés dans l' étude WHI , ne retrouve pas d' augmentation du risque d' accidents coronariens chez les femmes dont le THM a été initié moins de dix ans après leur ménopause contrairement à celles qui l' ont débuté tardivement  .
+De plus , l' utilisation de la voie orale , qui par ses effets hépatiques amplifie la production de facteurs pro-inflammatoires , ainsi_que l' association de PGS , tel le MPA qui antagonise certains effets protecteurs des estrogènes sur la paroi artérielle et qui a un effet pro-inflammatoire , sont susceptibles d' aggraver la situation cardiovasculaire de femmes déjà à risque .
+Il serait donc important de déterminer si un THS entraînerait moins de risque vasculaire qu' un THM , d' autant_que la détection d' une athéromatose infraclinique chez la femme ménopausée reste en_pratique impossible avec les moyens d' investigation usuels .
+Aucune étude prospective , comparative entre THS et THM , n' a pour l' instant évalué les effets du THS sur le risque de survenue d' accidents coronariens .
+Plusieurs études randomisées ont comparé , dans de petits groupes de femmes ménopausées et sur des périodes courtes , les effets de l' estradiol donné par voie orale ou non orale , associé ou non à un progestatif , sur différents marqueurs intermédiaires du risque cardiovasculaire .
+Toutes ces études rapportent un effet neutre ou plus favorable du THS par_rapport_à tout autre schéma thérapeutique sur ces marqueurs , qu' il s' agisse de paramètres métaboliques ( lipoprotéines , triglycérides , résistance à l' insuline ) , vasculaires ( élasticité de la paroi artérielle ) , inflammatoires ( CRP ) ou de l' hémostase ( cf. risque thromboembolique veineux ) .
+Ces différences apparaissent cependant pour l' essentiel explicables par la voie d' administration des estrogènes et l' absence de premier passage hépatique associée à la voie parentérale .
+L' estradiol oral a un effet favorable et plus marqué que l' estradiol cutané sur le HDL-cholesterol et le LDL-cholestérol et a l' avantage de diminuer les taux de Lp ( a )  .
+Cependant , la voie orale , contrairement à la voie cutanée , aurait l' inconvénient d' augmenter l' oxydation des lipoprotéines et de favoriser la production de LDL de petite taille , plus agressives pour la paroi artérielle  .
+De plus , elle a l' inconvénient d' augmenter les taux des triglycérides et la résistance à l' insuline .
+Au plan des marqueurs inflammatoires  , l' estradiol donné par voie cutanée ou nasale n' entraîne pas de variation significative des taux de la protéine C-Reactive ( CRP ) , de l' homocystéine ou d' autres paramètres associés au risque cardiovasculaire , telles les métalloprotéinases ( MMPs ) ou différentes protéines d' adhésion ( VCAM , ICAM , E-Selectin ) .
+De plus , la voie cutanée entraîne moins ou pas de perturbations de l' hémostase  , contrairement à la voie orale qui a tendance à augmenter la fibrinolyse et la coagulation .
+En ce qui concerne la fonction vasculaire , évaluée par des marqueurs ultrasonographiques chez des femmes saines ( index de pulsatilité ) les rares données comparant voies orale et non orale ne sont pas concluantes  .
+Une autre question posée comme pour le risque thromboembolique veineux est celle de l' effet du type de progestatif associé .
+Dans l' ensemble et contrairement au MPA , la progestérone n' a pas d' effets métaboliques néfastes documentés .
+4.3. THS / THM et risque de cancer du sein
+Actuellement , un ensemble de données convergentes conduit à penser que le risque relatif de cancer du sein serait majoré d' environ 30 % chez les femmes ménopausées recevant un THM .
+Cependant , trois questions intéressantes et nouvelles ont émergé avec plus de netteté des études récentes , soulevant le problème des relations entre le type de traitement hormonal et le risque de cancer du sein .
+Ces questions concernent respectivement l' association estroprogestative , la nature de l' estrogène et le mode d' administration du traitement .
+4.3.1. Effet de l' association estroprogestative
+Le risque de cancer du sein serait plus élevé chez les femmes recevant un traitement estroprogestatif que chez celles recevant des estrogènes seuls .
+C' est actuellement la question soulevée par les résultats des études WHI , MWS et E3N - EPIC et qui recoupent des informations issues de plusieurs études d' observation .
+Rappelons en_effet , que ce concept n' est pas neuf puisqu' il avait été évoqué dès 1989 à la suite des travaux de Bergvist  .
+Le risque de cancer du sein , qui est significativement augmenté dans l' étude WHI par l' association ECE + MPA au terme de 5,2 années de traitement ( RR = 1,26 ; IC 95 % [ 1,00 - 1,59 ] ) , n' est pas modifié , voire légèrement diminué chez les femmes hystérectomisées n' ayant reçu que des ECE ( RR = 0,77 ; IC 95 % [ 0,59 - 1,01 ] ) après 6,8 années de suivi .
+De même , dans la MWS , pour une durée moyenne de traitement de 2,6 ans , ce risque est respectivement de 1,30 ( IC 95 % [ 1,22 - 1,38 ] ) chez les utilisatrices d' estrogènes seuls contre 2,0 ( IC 95 % [ 1,91 - 2,09 ] ) en cas de traitement estroprogestatif .
+Enfin , dans la cohorte E3N - EPIC  , le risque de cancer est de 1,1 ( IC 95 % [ 0,8 - 1,6 ] ) avec les estrogènes seuls contre 1,3 ( IC 95 % [ 1,1 - 1,5 ] ) pour les associations estroprogestatives , pour une durée moyenne de 2,8 ans .
+Dans l' ensemble le surrisque annuel de cancer du sein serait de l' ordre de 1 % pour les estrogènes seuls et de 5,5 % pour les associations estroprogestatives  .
+Il faut certes souligner que les populations traitées par estrogènes seuls n' ont probablement pas le même profil gynécologique que celles qui ont reçu l' association estrogènes - progestatifs , du fait de l' ovariectomie bilatérale souvent associée à l' hystérectomie et donc de l' imprégnation estrogénique résiduelle plus faible .
+Mais , au-delà des problèmes méthodologiques , un certain nombre d' interrogations demeure .
+4.3.1.1. L' effet aggravant du progestatif est il un effet général ou spécifique à certains PGS ?
+Les données épidémiologiques recueillies surtout dans les pays anglo-saxons et aux États-Unis qui utilisent essentiellement le MPA ou les PGS dérivés de la nortestostérone ne permettent pas de répondre à cette question .
+Certaines études cependant suggéraient une différence de niveau de risque selon le type de PGS .
+Ainsi , dans l' étude de Magnuson_et_al.  réalisée en Suède , le risque de cancer du sein , par année d' utilisation , était légèrement plus élevé ( 1,08 ) avec les dérivés de la 19 nortestostérone qu' avec ceux de la 19 norprogestérone ( 0,95 ) .
+L' avantage de l' étude française E3N - EPIC  est d' avoir permis une comparaison , quoique sur de faibles effectifs , entre les différents types de PGS et la progestérone .
+Cette étude a inclus 54548 femmes ménopausées de l' Éducation nationale avec un suivi moyen de six ans .
+Comparé aux femmes non traitées , le risque de cancer du sein était significativement augmenté de 20 % ( RR : 1,2 IC 95 % [ 1,1 - 1,4 ] ) chez les femmes traitées .
+Ce risque était de 1,1 ( IC 95 % [ 0,8 - 1,6 ] ) chez celles n' ayant reçu que les estrogènes et de 1,3 ( IC 95 % [ 1,1 - 1,5 ] ) chez celles ayant reçu une association estroprogestative .
+De plus , aucune augmentation de risque de cancer du sein n' était notée lorsque l' estradiol était associé à la progestérone naturelle ( RR = 0,9 ( IC 95 % [ 0,7 - 1,2 ] ) , contrairement à l' association avec les autres PGS ( RR = 1,4 ( IC 95 % [ 1,2 - 1,7 ] ) .
+4.3.1.2. Par quel ( s ) effet ( s ) , les PGS lorsqu' ils sont associés aux estrogènes augmenteraient , et contrairement à la progestérone , le risque de cancer du sein ?
+Rappelons que les mécanismes sous-tendant l' effet carcinogène des estrogènes restent pour l' instant non élucidés , mais deux théories sont le_plus_souvent avancées : celle de la stimulation de la prolifération cellulaire ou celle d' un effet génotoxique de certains métabolites estrogéniques à l' origine de mutations induites. - Tous les progestatifs ont ils le même effet sur la prolifération cellulaire induite par les estrogènes ?
+La controverse est ancienne et le débat non résolu , entre un effet stimulant ( souvent observé in_vivo ) ou un effet freinateur ( surtout documenté in_vitro ) .
+Pour une large part , le caractère contradictoire des résultats peut être expliqué par la diversité des modèles , des molécules , des protocoles d' évaluation et l' influence de l' environnement paracrine .
+Cependant , pris dans leur ensemble , ces travaux dégagent la notion que certains PGS seraient plus susceptibles que la progestérone de stimuler certains des mécanismes cellulaires pouvant augmenter le risque de cancer du sein .
+Les raisons de telles différences sont certainement multiples .
+Elles pourraient être liées aux propriétés intrinsèques de certains PGS , de type pro-inflammatoire ou androgénique ( baisse de la SHBG avec les PGS androgéniques par_exemple ) .
+Elles pourraient également être secondaires à l' orientation du métabolisme des PGS , vers des composés capables de stimuler ou d' inhiber la prolifération cellulaire .
+Elles pourraient également être liées à une action différente des PGS sur le métabolisme intratissulaire des estrogènes .
+Il a été ainsi très récemment montré  que le MPA stimulait l' activité de la 17-réductase de type I ( et donc la production in_situ d' estradiol à_partir_de l' estrone ) contrairement au lévonorgestrel ( LNG ) ou au NETA , qui augmentent à_la_fois les activités d' oxydation et de réduction de la 17HSD .
+Par ailleurs , et contrairement au MPA , la progestérone n' augmente pas différents marqueurs épithéliaux de risque de cancer du sein  .
+Enfin , certains travaux récents apportent des données très intéressantes , certes dans d' autres modèles cellulaires que les cellules mammaires , qui étayent des différences d' action entre PGS et progestérone .
+Dans ces modèles , le MPA antagonise , contrairement à la progestérone , l' effet protecteur de l' estradiol  .
+Bien que décrits au niveau des cellules neuronales , ces résultats apportent un éclairage nouveau sur la relation entre la structure du progestatif et l' action cellulaire de l' estradiol .
+- Quel est le rôle des PGS et de la progestérone sur le métabolisme systémique et intratissulaire des estrogènes pouvant aboutir à des composés génotoxiques ?
+Cette question reste actuellement ouverte et sans réponse .
+4.3.2. Nature de l' estrogène
+Les estrogènes conjugués équins ont ils le même effet sur le sein que l' estradiol ?
+Le fait que le cancer du sein soit estrogénodépendant paraît peu contestable et ce concept est soutenu par de nombreux arguments .
+La relation entre cancer du sein et le niveau d' imprégnation estrogénique a pu être confirmée par l' usage des dosages ultrasensibles d' estradiol plasmatique .
+Ainsi , dans l' étude MORE  , le risque de cancer du sein dans le groupe placebo est 6,8 fois plus élevé ( IC 95 % [ 2,2 - 21,0 ] ) chez les femmes ayant un taux d' estradiol supérieur à 10 pmol / l que chez celles ayant un taux indétectable .
+Cependant , l' absence d' augmentation du risque de cancer du sein chez des femmes hystérectomisées recevant des ECE seuls rapportée dans la WHI ouvre un nouveau débat , d' autant_que ce type de résultat n' a jamais été rapporté avec l' estradiol .
+Une analyse complémentaire récente  de cette étude montre en_effet , qu' il n' existe aucune augmentation du risque de cancer du sein chez les femmes traitées par ECE seuls ( RR = 0,80 IC 95 % [ 0,62 - 1,04 ] , p 0,09 ) après un suivi moyen de 7,1 ans .
+De plus , ce risque était significativement diminué ( RR = 0,65 IC 95 % [ 0,46 - 0,92 ] ) chez les femmes qui n' avaient jamais reçu de THM avant leur inclusion dans l' étude , même en cas d' antécédents de mastopathie bénigne ou d' antécédents familiaux au premier degré de cancer du sein .
+Bien que les résultats de ces sous-groupes doivent être considérés avec prudence , ils iraient dans le sens d' un effet protecteur ou tout_au_moins neutre des ECE vis-à-vis du risque de cancer du sein .
+Ces résultats cliniques apparemment paradoxaux sont cependant étayés par des données biologiques récentes qui tendraient à mieux documenter les différences d' effet entre les ECE et l' estradiol sur le tissu mammaire .
+Ainsi , certains travaux récents , portant sur le métabolisme des ECE , ont mis en évidence que ces composés subissaient principalement une hydroxylation en 4 , avec pour métabolite majeur le 4-OH-equilenin , qui apparaît plus susceptible de promouvoir la croissance tumorale que le 4-OH-estrone , tout_au_moins in_vitro .
+Ces données sont fragmentaires et ne permettent pas néanmoins de conclure au caractère plus cancérigène d' un composé par_rapport_à un autre .
+De plus , si les ECE paraissent capables , du fait de leur structure chimique ( noyau A et B de type aromatique ) de générer plus de composés génotoxiques que l' estradiol ( E2 )  , il a été en_revanche montré , dans des cultures de cellules mammaires normales , que l' E2 aurait des effets plus marqués sur la prolifération cellulaire .
+Ainsi , dans une des rares études comparant les effets de l' E2 et des ECE sur une lignée humaine de cellules de cancer du sein ( MCF-7 ) , Mueck_et_al.  montrent que l' E2 stimule la prolifération cellulaire de manière plus importante que l' equilin ( Eq ) ou le 17-dihydro-equilin ( Dheq ) , principaux composants des ECE .
+Le métabolisme estrogénique peut par_ailleurs générer , en proportion variable selon les individus ou la molécule administrée , des composés protecteurs à effet antiprolifératif comme les dérivés 2-hydroxylés ( 2-OH-E1 par_exemple ) ou des métabolites de type paraquinols , capables de neutraliser les radicaux superoxydes .
+La tendance à la diminution du risque de cancer du sein observée dans les bras ECE seuls de la WHI tire peut-être son origine de tels mécanismes .
+Cette notion d' une moindre nocivité des ECE que de l' estradiol sur le sein demande néanmoins à être confirmée .
+4.3.3. Type de schéma thérapeutique
+L' administration concomitttante et continue de PGS entraînerait -t elle plus de risque sur le sein qu' une administration , cyclique et séquentielle ?
+Il est intéressant de remarquer que cette question importante n' a pas fait l' objet pour l' instant d' études cliniques spécifiques .
+Au plan biologique , cette hypothèse s' appuie sur de rares travaux mettant en évidence l' effet de la baisse des concentrations de la progestérone sur l' apoptose des cellules mammaires  .
+Au plan clinique , l' analyse rétrospective de sous-groupes d' études cas témoins plaiderait en_faveur_de cette hypothèse .
+On doit cependant remarquer que la définition de schéma continu ou séquentiel n' est pas strictement la même selon les études rendant une telle comparaison difficile .
+En dehors de l' étude de Ross_et_al.  dans laquelle le schéma continu apparaissait moins nocif que le schéma séquentiel , les études de Magnusson  , comme celles de Porch  , de Weiss  et d' Olsson  rapportent en_revanche un risque plus accru avec les traitements continus .
+5. Conclusion
+De nombreuses données démontrent qu' il existe des différences d' effets tissulaires et donc de risque entre le THS et les THM .
+Ces différences sont liées aux propriétés intrinsèques des molécules utilisées ainsi_qu' à leur voie d' administration et peut-être à la chronologie de leur administration .
+Ces différences doivent être bien connues de tout prescripteur pour lui permettre de choisir le type de traitement le plus adapté à la situation clinique individuelle dans l' objectif principal d' optimiser le rapport bénéfice / risque .
+Au plan thérapeutique , l' utilisation d' un THS basé sur des hormones bio-identiques ( estradiol et progestérone ) devrait être privilégiée , surtout lorsque existent des facteurs de risque artériel ou veineux .
+En ce qui concerne le risque de cancer du sein , les données actuelles , notamment de l' étude française E3N - EPIC , bien_que non définitivement établies , plaideraient également en_faveur_de ce choix

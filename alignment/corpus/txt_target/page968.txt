@@ -1,0 +1,151 @@
+Recently , increased body weight has been shown to be associated with increased risk of and mortality from various cancers , such as esophageal , colon , endometrial , renal , and breast cancer  .
+In particular , a strong association between adiposity and increased risk of breast cancer in postmenopausal women has been described for decades  .
+Since most cases of breast cancer are sex hormone-dependent , the positive association between obesity and development of breast cancer may be partly explained by excessive estrogen production from adipose tissue  .
+Recently , however , many studies have shown that adipose tissue is a huge endocrine organ that can produce many bioactive products known as adipocytokines  .
+Leptin , the 16 kDa protein product of the obese gene that was identified by Zhang_et_al.  , is a representative adipokine with multiple biological actions .
+Although the role of leptin was initially thought to be maintenance of homeostasis of body weight by regulating food intake and energy expenditure via hypothalamic-mediated effects  , it has been shown to be implicated in the modulation of many other processes such as reproduction , hematopoiesis , angiogenesis , wound healing , and cell differentiation and proliferation  .
+Leptin exerts its physiological action through the leptin receptor ( Ob-R )  , which has been identified in many tissues , including brain , placenta , pancreas , adrenal gland , hematopoietic cells , liver , lung , and heart  .
+Previous studies have demonstrated that Ob-R is expressed in human normal and malignant breast epithelial cells , and can mediate the proliferation of these cells  .
+In addition , we have shown that leptin and Ob-R protein overexpression is correlated with a high risk of tumor recurrence in human breast cancer  .
+These results , taken together , suggest that the leptin-Ob-R signal might promote the carcinogenesis and progression of breast cancer .
+The HER2 / Neu ( ErbB2 ) receptor is a ligand-less Mr 185,000 receptor encoded by the neu proto-oncogene , and belongs to the epidermal growth factor receptor ( EGFR ) family of receptor tyrosine kinases .
+Each receptor of the EGFR family has in common an extracellular ligand-binding domain , a single membrane spanning region , and a cytoplasmic protein tyrosine kinase domain .
+Despite the abundance of ligands identified for EGFR , ErbB3 , and ErbB4 , no direct ligand for HER2 has been discovered .
+Instead , HER2 functions as a homo- or heterodimer with other members of the EGFR family upon interaction with agonistic ligands  .
+Her2 is overexpressed in 25% to 30% of human breast cancers  and has been associated with enhanced tumor aggressiveness and a high risk of relapse and death  .
+HER2 is currently attracting a great deal of attention because a new adjuvant therapy using an antibody against HER2 , trastuzumab ( Herceptin ) , has proven to be effective in treating certain breast cancers  .
+The leptin receptor , Ob-R , belongs to the cytokine receptor superfamily and consists of several isoforms including a long ( Ob-Rb ) and a short form ( Ob-Ra ) .
+Ob-R lacks intrinsic kinase activity , and the intracellular Janus-activated kinase 2 ( JAK2 ) and mitogen-activated protein kinase ( MAPK ) cascades are crucial for activation of downstream signaling molecules  .
+However , the interaction of these two pathways in the leptin-induced signal in malignant cells remains largely unknown .
+In this study , we therefore examined the signal interaction between Ob-R and HER2 , both of which are considered to be correlated with the malignant potential of breast cancer .
+Materials and Methods .
+Human recombinant leptin was purchased from Sigma Chemical Co. ( St. Louis , MO ) .
+An EGFR tyrosine kinase inhibitor , AG1478 , was purchased from Biomol Inc. ( Plymouth , PA ) , and both a HER2 tyrosine kinase inhibitor , AG825 , and a JAK2 inhibitor , AG490 , were from Calbiochem ( La Jolla , CA ) .
+Mouse antihuman phosphotyrosine polyclonal antibody ( mAb ; PY20 ) , mouse anti-extracellular signal-related kinase ( ERK ) 2 mAb , and mouse anti-Ob-R ( H300 ) were purchased from Santa Cruz Biotechnology , Inc. ( Santa Cruz , CA ) , and mouse antihuman monoclonal HER2 / Neu antibody was from Lab Vision ( Fremont , CA ) .
+Rabbit antiphospho-MAPK monoclonal antibody was purchased from Cell Signaling , Inc. ( Danvers , MA ) .
+Cell Culture .
+Human breast cancer cells , MCF7 , T47D , MDA-MB231 , and SKBR3 were all purchased from the American Type Culture Collection ( Manassas , VA ) .
+These cells were maintained in Dulbecco 's modified Eagle 's medium supplemented with 10% fetal calf serum ( Sigma ) , 100 units / mL penicillin and 100 g / mL streptomycin ( Gibco-BRL , Grand Island , NY ) .
+Proliferation Assay .
+Proliferation assays were performed as previously described  Briefly , breast cancer cells ( 5103 cells in 100 L ) were seeded in a 96 well plate in Dulbecco 's modified Eagle 's medium containing 0.1% fatty acid-free bovine serum albumin , and the cells were stimulated with various concentrations of leptin .
+In some experiments , the cells were pretreated with either dimethyl sulfoxide ( DMSO ) ( control ) or 30 mol / L AG825 for 30 min .
+After incubation at 37C in 5% CO2 for 48 h , MTS solution ( Promega Co. , Madison , WI ) was added into each well , and after an additional 3 h culture , the number of living cells was evaluated by measuring the absorbance at 490 nm .
+Immunoprecipitation and Western Blot Analysis .
+Immunoprecipitation and Western blot analysis were performed as previously described  .
+In brief , cells were grown to 70% to 80% confluence in 10 cm dishes , serum-starved for 24 h and then leptin was added to the culture .
+After stimulation with leptin for various times , cellular protein lysates ( 1 mL/dish / tube ) were obtained and the proteins were incubated with antibodies against HER2 ( 20 L / tube ) .
+Immunoprecipitates were collected with protein A-agarose , and immunoprecipitated proteins were electrophoresed in SDS-7.5% polyacrylamide gel for 35 min at 200 V. Then , the protein was transferred onto an Immobilon transfer membrane ( Millipore Co. , Bedford , MA ) for sequential incubation with 5% reconstituted nonfat milk powder to block nonspecific sites .
+Thereafter , the membrane was incubated with various dilutions of mouse antiphosphotyrosine mAb , then horseradish peroxidase-labeled sheep anti-mouse IgG before development with a standard ECL kit ( Amersham , Inc. , Buckinghamshire , United Kingdom ) .
+Some cells were pretreated with 50 mol / L AG490 , 250 nmol / L AG1478 or 30 mol / L AG825 for 30 min before stimulation .
+All membranes were stripped and immunoblotted with antibodies against Her2 as a control .
+ER Phosphorylation .
+Cell lysates were electrophoresed in SDS-10% polyacrylamide gel for 45 min at 200 V. Then , the protein was transferred onto an Immobilon transfer membrane for sequential incubation with 5% reconstituted nonfat milk powder to block nonspecific sites , dilutions of rabbit monoclonal antiphospho-MAPK antibody , and then horseradish peroxidase-labeled donkey antirabbit IgG , prior to development with a standard ECL kit ( Amersham ) .
+Some cells were pretreated with 30 L AG825 for 30 min before stimulation .
+All membranes were stripped and immunoblotted with antibodies against ERK2 as a control .
+Statistical Analysis .
+The results were statistically analyzed by Student 's t-test , and P-values 0.05 were considered statistically significant .
+Results Leptin Induces Tyrosine Phosphorylation of HER2 in HER2-Expressing Breast Cancer Cell Lines .
+The expression of HER-2 and Ob-R was examined in four breast cancer cell lines .
+As shown in Fig. 1 , SKBR3 expressed HER2 at the highest level .
+Western blotting with polyclonal anti-Ob-R showed that all four cell lines expressed significant levels of Ob-R protein , although the density and localization of the bands varied among the cells .
+However , Ob-Rb was significantly expressed in all cell lines .
+Therefore , to investigate whether exogenously added leptin transactivated HER2 , we used SKBR3 in the following experiments .
+Full-size image ( 20K )
+FIG 1. Western blot of HER2 and leptin receptor ( Ob-R ) in human breast cancer cells .
+Cell lysates of MCF7 , T47D , MDA-MB231 and SKBR3 were immuno blotted with anti-HER2 mAb ( A ) or anti-Ob-R polyclonal antibody ( B ) .
+Bands running at around 120 and 100 kDa correspond to the Ob-Rb and Ob-Ra forms of the Ob-R , respectively .
+View Within Article .
+First , SKBR3 cells were incubated with 500 ng / mL leptin for 2 to 120 min , and phosphorylation of the HER2 molecule was examined by immunoblotting with antiphosphotyrosine mAb .
+As shown in Fig. 2A , leptin induced tyrosine phosphorylation of HER2 , and the phosphorylation level increased as early as 2 min but did not decline immediately .
+The enhanced phosphorylation of HER2 continued at least up to 120 min .
+In reverse experiments , immunoprecipitates with antiphosphotyrosine Ab showed similar reactivity against anti-HER2 mAb .
+Full-size image ( 22K )
+FIG. 2. Leptin induces sustained tyrosine phosphorylation of HER2. ( A ) SKBR3 and T47d cells were serum starved for 24 h and then incubated with 500 ng / mL leptin for 2 to 120 min .
+After cell lysis , HER2 was immunoprecipitated using anti-HER2 mAb , and the immunoprecipitates were immunoblotted with antiphosphotyrosine mAb .
+As a control , the membrane was stripped and immunoblotted with anti-HER2. ( B ) The cell lysates were immunoprecipitated with antiphosphotyrosine antibody and immunoblotted with anti-HER2 antibody .
+View Within Article .
+Next we did the same experiment using T47d cells , which expressed HER2 at the moderate level .
+The result was the same as that of SKBR3 cells .
+Leptin Enhances SKBR3 Proliferation via Phosphorylation of HER2 .
+Next , we examined the effect of exogenous leptin on the proliferation of SKBR3 and T47d cells at a concentration of 5 to 5000 ng / mL .
+As shown in Fig. 3 , leptin increased the proliferation of SKBR3 in a dose-dependent manner , and the effect was significant and maximal at 500 ng / mL ( 121.0 1.2% P 0.001 ) .
+And leptin at 5 to 500 ng / mL showed no significant proliferative effect on T47d cells .
+In contrast , a much higher concentration of leptin ( 5000 ng / mL ) significantly induced proliferation of T47d cells ( 138.0 2.8% P 0.001 ) .
+Full-size image ( 27K )
+FIG. 3. Leptin stimulates proliferation of breast cancer cell line via HER2 activation .
+SKBR3 and T47d cells were preincubated for 30 min with either DMSO ( open bar ) or 30 mol / L AG825 ( shaded bar ) and cultured with the indicated concentrations of leptin for 48 h .
+Then , cell proliferation was measured using MTS assay .
+Data are expressed as the percentage of control in the absence of leptin .
+Data represent mean SEM of six different experiments .
+P 0.05 , P 0.001 .
+View Within Article .
+However , pretreatment of SKBR3 with AG825 , a HER2 tyrosine kinase inhibitor , significantly inhibited the growth-stimulating effect of leptin .
+At a physiological concentration ( 30 mol / L ) , AG825 totally abrogated the effect of 50 to 5000 ng / mL leptin .
+In contrast , AG825 did not significantly inhibit the growth-stimulating effect of leptin in T47d cells .
+These data imply that leptin-induced proliferation in the breast cancer cell line SKBR3 is correlated with HER2 phosphorylation significantly .
+However leptin-induced proliferation is not so correlated with HER2 phosphorylation significantly in T47d .
+Transactivation of HER2 was Partially Dependent on EGFR and JAK2 .
+To elucidate the mechanism of the transactivation , we next performed several experiments using specific inhibitors .
+As shown in Fig. 4A , a HER2 tyrosine kinase inhibitor , AG825 , at the same concentration ( 30 mol / L ) , strongly inhibited leptin-induced tyrosine phosphorylation of HER2 .
+Preincubation with an EGFR tyrosine kinase inhibitor , AG1478 ( 250 nmol / L ) , also reduced the level of HER2 tyrosine phosphorylation , although the inhibition was slightly less than that by AG825 .
+Full-size image ( 22K )
+FIG. 4. Leptin-induced tyrosine phosphorylation of Her2 is dependent on EGFR and JAK2 .
+SKBR3 cells were serum starved for 24 h , pretreated with 250 nmol / L AG1478 , 30 mol / L AG825 ( A ) or 50 mol / L AG490 ( B ) for 30 min , and stimulated for 60 min with 500 ng / mL leptin .
+After cell lysis , HER2 was immunoprecipitated using anti-HER2 mAb , and immunoprecipitates were immunoblotted with antiphosphotyrosine mAb .
+The membrane was stripped and immunoblotted with anti-HER2 as a control .
+View Within Article .
+Phosphorylation of the EGFR family has been reported to be closely related to the JAK-STAT pathway  .
+Then , we performed an experiment using a specific inhibitor of JAK2 .
+As shown in Fig. 4B , AG490 , at a concentration of 50 mol / L , partially inhibited the leptin-induced phosphorylation of HER2 in SKBR3 , suggesting that JAK2 is located upstream of leptin-induced HER2 transactivation .
+Leptin-Induced Transactivation of HER2 Induces ERK / MAPK Activation .
+ERK / MAPK is a key molecule in cellular responses such as cell proliferation and invasion .
+We next investigated the molecular interaction between HER2 and ERK / MAPK in the leptin-induced signaling pathway .
+Leptin ( 500 ng / mL ) induced phosphorylation of ERK / MAPK , which was significantly detected as early as 5 min after stimulation , peaked at 15 min , and gradually declined thereafter .
+However , pretreatment with 30 mol / L AG825 strongly inhibited the phosphorylation of ERK / MAPK in SKBR3 .
+This suggests that HER2 phosphorylation acts upstream of ERK / MAPK in the leptin-induced signaling pathway .
+Full-size image ( 18K )
+FIG. 5. Leptin-induced ERK / MAPK phosphorylation is dependent on HER2. ( A ) SKBR3 cells were serum starved for 24 h and incubated with 100 ng / mL leptin for 2 to 120 min .
+After cell lysis , the lysates were immunoblotted with anti-phospho-MAPK mAb. ( B ) SKBR3 cells were serum starved for 24 h , pretreated with 30 mol / L AG825 or DMSO for 30 min , and stimulated with 500 ng / mL leptin for 15 min .
+The cell lysates were immunoblotted with antiphospho-MAPK mAb .
+View Within Article .
+Discussion .
+Leptin is produced mainly in adipose tissue and plays an essential role in regulating fat metabolism .
+Recent reports have demonstrated that the leptin receptor , Ob-R , is positively expressed in human normal and malignant breast epithelial cells , and that addition of leptin can stimulate the proliferation of both normal and malignant breast epithelial cells  .
+Moreover , clinical studies have shown that serum leptin levels are significantly elevated in breast cancer patients compared with controls  .
+These data collectively support the hypothesis that leptin might be mechanically involved in the development and progression of obesity-related breast cancer .
+However , the molecular mechanisms of leptin signaling in malignant cells are not fully understood .
+Crosstalk between different members of receptor families has become a well-established concept in signal transduction .
+Tyrosine phosphorylation of various receptor tyrosine kinases in response to activation of many G protein-coupled receptors ( GPCRs ) , which was designated transactivation , has been shown to have important physiological consequences and has drawn considerable attention in recent years  .
+In addition to GPCR ligands , stimulation of class I cytokine receptors by interleukin-6  , growth hormone  , or prolactin  has been reported to induce tyrosine phosphorylation of EGFR family members .
+These receptors have structural similarity to Ob-R , suggesting the possible transactivation of the EGFR family by leptin .
+In fact , it has already been shown that leptin can induce phosphorylation of EGFR in esophageal  and gastric  cancer cells .
+The present study provided direct evidence that exogenous leptin can induce phosphorylation of HER2 overexpressed in a human breast cancer cell line , SKBR3 .
+The same phenomenon was previously reported in HEK293T cells transfected with Ob-Ra or Ob-Rb  .
+In the present study , however , we additionally found that exogenous leptin induced phosphorylation of ERK / MAPK , which was significantly inhibited by AG825 , a specific inhibitor of HER2 .
+Moreover , the same treatment with AG825 totally abrogated the growth-stimulatory effect of leptin in SKBR3 .
+These findings strongly suggest that transactivation of HER2 is implicated in the growth-stimulatory effect of leptin .
+Since the expression of HER-2 or Ob-R is clinically associated with a poor outcome in breast cancer  , it is thought that these two receptor systems cooperatively promote the development and progression of breast cancer .
+Exogenous leptin can also induce the phosphorylation of HER2 in T47d .
+T47d is a estrogen receptor ( ER ) -positive cell line and moderately expresses HER2 .
+This result indicates that leptin induces the transactivation of HER2 in ER-positive cells .
+In our experiment , however , the treatment with AG825 did not significantly reduce the growth-stimulatory effect of leptin in T47d .
+Previous reports suggest that leptin increased nuclear expression and activity of ER in the absence of estradiol ( E2 ) , which resulted in growth stimulation in MCF7  .
+The enhancement of growth stimulation in T47d might be attributed more strongly to the effects on ER .
+It has been reported that lysophosphatidic acid ( LPA ) induces rapid and transient expression of HER2 as well as EGFR  .
+However , leptin-induced phosphorylation of HER2 showed some differences from LPA-induced HER2 phosphorylation in those studies .
+Leptin-induced HER2 phosphorylation could be detected in a few minutes and continued for at least 2 h , while LPA-induced HER2 phosphorylation was detected only for several minutes and declined to an undetectable level by 15 min after stimulation .
+Moreover , an EGFR inhibitor , AG1478 , totally abrogated the HER2 phosphorylation by LPA .
+In contrast , AG1478 only partially inhibits HER2 phosphorylation by leptin .
+These results seem reasonable , since HER2 is activated through forming homodimer or heterodimers with EGFR .
+More interestingly , specific inhibition of JAK2 partially inhibited the HER2 phosphorylation by leptin , which did not occur with HER2 phosphorylation by LPA .
+The same inhibition pattern by exogenous prolactin was previously reported in breast cancer cells  .
+These findings collectively suggest that the ligands of Type 1 cytokine receptor cause HER2 transactivation by different mechanisms from GPCR stimulation .
+Recent reports suggests that leptin increases both E-cadherin and VEGF expression and through these pathways also stimulates the proliferation effect in breast cancer cell lines  .
+Leptin-induced nuclear expression estrogen receptor ( ER ) is also reported to be related to the growth stimulation in MCF7  .
+These facts suggest that leptin can stimulate cell growth through various signal cascades .
+However , our results indicate that this adipocytokine utilizes HER2 as a downstream signaling partner and promotes the progression of breast cancer .
+The link between adiposity and breast cancer may be closely related to HER2 overexpression .
+Therefore , reduction of serum leptin level may be clinically beneficial especially in patients with Ob-R- and HER2-positive breast cancer .
+Acknowledgments .
+The authors thank Ms .
+Chieko Uchikawa for her technical assistance .

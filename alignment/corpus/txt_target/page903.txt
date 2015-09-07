@@ -1,0 +1,152 @@
+Complex factors contribute to the challenge of demonstrating a clear role for progesterone in breast cancer .
+First , progesterone is difficult to study in isolation from other hormones ( i.e. growth factors , prolactin ) that also contribute to breast cancer biology .
+Second , progesterone receptor ( PR ) isoforms are expressed in response to estrogen receptor-alpha ( ER ) mediated transcriptional events , but can also occur independently of ER  .
+The subset of mammary epithelial cells ( MECs ) in the breast that express both PR-A and PR-B also express ER , and estrogen is usually required in order to induce the robust expression of PR in these ER+ cells .
+As estrogen is also a potent breast mitogen , this makes it difficult to separate the effects of progesterone alone from those of estrogen .
+Indeed , PR isoforms are grossly understudied relative to ER in both the normal and neoplastic breast .
+Studies in steroid hormone receptor knock-out mice have revealed that the concerted actions of estrogen and progesterone are required for normal mammary gland development  ; estrogen / ER promotes the growth of ducts that invade the mammary fat pad emanating from the nipple , while estrogen / ER and progesterone / PR are required for the development of the terminal end-buds ( TEBs ) or acini located at the ends of ducts that later become the milk producing structures in the lactating mammary gland .
+Additional required hormones , known as epidermal growth factor ( EGF ) and insulin-like growth factor ( IGF-1 ) augment the proliferation of terminal end-buds during normal breast development , and promote ductal outgrowth and side branching induced by estrogen plus progesterone  .
+In fact , PR isoform expression in response to estrogen requires the presence of EGF  , suggesting the existence of important cross talk between EGF receptors ( EGFR ) and / or family members ( erbB2 ) and both steroid hormone receptors .
+Full-size image ( 73K )
+Fig. 1. Mammary gland structure. ( A ) Acini , located at the ends of ducts in the adult mammary gland , are the functional units of the lactating mammary gland .
+Luminal epithelial cells ( apical ) exist as polar cells in contact with myoepithelial cells ( basal ) .
+Epithelial cell populations are separated from the stroma by a basement membrane. ( B ) Steroid hormone receptor positive ( ER+ / PR+ ) cells occur adjacent to proliferating cells in the normal mammary gland .
+Communication ( paracrine signaling ) between the epithelial and stromal compartments mediates proliferation of ER / PR negative cells .
+Early events during breast cancer development may mediate switching from paracrine to autocrine mechanisms of proliferation in ER+ / PR+ cells .
+View Within Article .
+Another limitation to deciphering a role for progesterone / PR action in breast cancer development is that normal proliferating breast epithelial cells are steroid hormone receptor negative  .
+In the normal adult mammary gland , ER+ / PR+ cells represent only about 7 - 10% of the luminal epithelial cell population ; these cells are most often non-dividing , but usually lie adjacent to proliferating cells .
+The most current information suggests that ER+ / PR+ cells are capable of proliferating , but are growth-arrested by the expression of inhibitory molecules , such as TGF-beta or high levels of p21 and p27 , the endogenous inhibitors of cell-cycle-dependent protein kinases ( CDKs ) .
+Communication between the breast epithelial and stromal compartments mediates the proliferation of nearby or adjacent cells by expression and secretion of locally active pro-proliferative molecules such as wnts , IGF-II  , or stroma-derived hepatocyte growth factor ( HGF )  .
+Recent evidence suggests that ER+ / PR+ cells may act as feeder cells by providing growth-promoting substances ( i.e. wnts ) to nearby progenitor or stem cell populations  .
+In contrast to the normal breast , where proliferating cells are most often devoid of steroid hormone receptors , the majority of breast cancers ( 70% ) express ER and PR at the time of diagnosis .
+Although steroid hormone receptor-positive tumors are most often slower growing relative to receptor-negative tumors  , ER+ / PR+ breast epithelial cells may undergo an early switch to autocrine or paracrine signaling mechanisms whereby negative controls on proliferation are somehow lifted .
+Another setting where PR-containing cells clearly divide is in the pregnant mammary gland , where PR-B colocalizes with cyclin D1 in BrdU-stained ( dividing ) cells  .
+Thus , pathways involved in normal mammary gland growth and development may inappropriately re-assert themselves during breast cancer progression .
+Experimental evidence in model organisms ( primates , mice , rats ) and humans suggests a pro-proliferative role for progestins  .
+Herein , we review the status of progesterone / PR action in breast cancer models , and suggest a potential for future development of PR antagonists as part of combined breast cancer therapies .
+2. Integration of PR classical and membrane-associated rapid signaling .
+PR isoforms are classically defined as ligand-activated transcription factors and members of a large family of related steroid hormone receptors ( that includes ER , androgen receptor ( AR ) , glucocorticoid receptor ( GR ) , and mineralocorticoid receptor ) .
+PRs are activated upon binding of the naturally occurring ovarian steroid hormone , progesterone , or via binding to synthetic ligands ( progestins ) and regulate gene expression by binding directly or indirectly to specific sites in DNA .
+Three PR isoforms are the distinct protein products of a single gene located on chromosome 11 at q22-23 .
+Transcription of PR isoforms is governed by the use of distal and proximal promoter regions  .
+The presence of internal translational start sites within common mRNAs results in the creation of three protein isoforms that consist of the full length PR-B ( 116 kDa ) , N-terminally truncated PR-A ( 94 kDa ) , and PR-C-isoforms ( 60 kDa ) .
+PR-positive cells most often co-express PR-A and PR-B isoforms ; these receptors exhibit different transcriptional activities within the same promoter context , but can also recognize entirely different gene promoters  .
+PR-B is essential for normal mammary gland development  , while PR-A is required for uterine development and reproductive function  .
+PR-C is devoid of transcriptional activity , but when expressed , can enhance PR activity in breast cancer cells  or function as a dominant inhibitor of PR-B in the uterus  .
+Full-size image ( 64K )
+Fig. 2. Progesterone receptor-dependent integrated actions. ( A ) Ligand activated PR-B and PR-A transcription factors contain a hormone binding domain ( HBD ) , hinge region ( H ) , DNA-binding domain ( DBD ) , and amino terminus .
+Activation functions ( AFs ) represent the sites of co-regulator interaction required for transcription .
+Serines 294 , 345 , and 400 are regulatory sites that are phosphorlyated in response to progestins and / or mitogenic signaling pathways that modify PR function. ( B ) Phosphorylation ( P ) of specific sites in PR couples multiple receptor functions. ( 1 ) Ligand-binding mediates dissociation of heat-shock proteins ( hsps ) and nuclear accumulation of PR. ( 2 ) Nuclear PRs regulate gene expression via the classical ( PRE-dependent ) pathway ; phosphorylated PR recruit regulatory molecules that are phospho-proteins , and may function in one or more inter-connected processes ( transcription , localization , and turnover ) . ( 3 ) PR and growth factors activate MAPKs via a c-Src kinase-dependent pathway , and this may result in positive regulation of PR transcriptional activity via feed-back regulation ( i.e. direct phosphorylation of liganded PR or co-activators ) , occurring in both the absence and presence of ligands and on PRE-containing or other PR-regulated gene promoters. ( 4 ) Activation of MAPKs by PR provides for regulation of genes whose promoters do not contain PREs and are otherwise independent of PR-transcriptional activities but utilize PR-activated MAPKs. ( 5 ) In response to progestins , c-Src and MAPK-dependent phosphorylation of PR Ser345 mediates tethering to Sp1 and selective regulation of growth promoting genes via Sp1 sites ( p21 , EGFR ) .
+View Within Article .
+Unliganded PRs are complexed with chaperone molecules including heat shock proteins ( hsps ) ; these interactions allow proper protein folding and assembly of stable PR molecules competent to bind hormone  .
+Hsps also mediate important aspects of PR protein trafficking .
+After binding to progesterone , receptor conformational changes induce dimerization and hsp dissociation .
+Activated receptors associate with co-regulators , including steroid receptor coactivators ( SRCs 1 - 3 ) , are withheld in the nucleus , and bind directly to specific progesterone response elements ( PREs ) and PRE-like sequences in the promoter regions of target genes such as c-myc  , fatty acid synthetase  , and MMTV  .
+Treatment with progestin also results in the upregulation of genes without canonical PREs in their proximal promoter regions , such as epidermal growth factor receptor  , c-fos  , p21  , IRS-2  , and cyclin D1  .
+Regulation of genes without PREs , PRE half-sites , or PRE-like sequences can occur through PR tethering to other DNA-binding transcription factors , such as specificity protein 1  , activating protein 1  or signal transducers and activators of transcription ( Stats )  .
+The genomic or classical actions of steroid hormone treatment are delayed by several minutes to hours , dictated by the time required for transcription and translation of target genes .
+Recently , however , rapidly occurring ( within a few minutes ) extranuclear or non-genomic effects of cell membrane-localized steroid hormone receptors have entered the forefront .
+For example , progestin treatment of breast cancer cells causes a rapid and transient ( 2 - 15 min ) activation of cytoplasmic protein kinases , including mitogen-activated protein kinase ( MAPK ) , PI3K , and p60-Src kinase  .
+Similar activities have been reported for membrane-associated ERalpha and AR  .
+These effects are mediated by direct binding of steroid hormone receptors to protein - protein interaction domains of signaling molecules located in or near the plasma membrane , in close proximity to growth factor receptors and their immediate effectors .
+Human PR contains an N-terminal proline-rich ( PXXP ) motif that mediates direct binding to the Src-homology three ( SH3 ) domains of signaling molecules in the p60-Src kinase family in a ligand-dependent manner  .
+In vitro experiments demonstrate that progestin-bound , purified PR-A and PR-B directly activate the c-Src-related protein kinase , Hck ; PR-B but not PR-A activates c-Src and MAPKs in vivo .
+Mutation of the PXXP sequence in PR-B disrupts the c-Src / PR interaction and blocks progestin-induced activation of c-Src ( or Hck ) and p42 / p44 MAPKs .
+Furthermore , mutation of the PR-B DNA-binding domain ( DBD ) abolished PR transcriptional activity without blocking progestin-induced c-Src or MAP kinase activation .
+Thus , non-genomic MAPK activation by progestin/PR-B / c-Src complexes most likely occurs by way of a c-Src-dependent mechanism involving Ras activation of the Raf/MEK / MAPK module .
+ER in association with other signaling and adaptor molecules is suspected to reside in similar cytoplasmic signaling complexes , possibly in association with PR and c-Src  .
+In studies using human breast or prostate cancer cell lines , the rapid signaling actions of membrane-associated AR , PR , and / or ER have been shown to contribute to the regulation of cell proliferation in response to their respective hormone ligands  .
+While potential roles in human physiology ( i.e. whole organisms ) are less clear , steroid hormone receptor-mediated activation of cytoplasmic signaling molecules may primarily serve to potentiate the nuclear functions of these receptors .
+For example , amplification of PR nuclear functions likely occurs through rapid , direct phosphorylation of PR proteins and / or receptor co-regulators in response to activation of PR-induced cytoplasmic pathways that are mechanistically coupled to ligand binding .
+Thus , appropriately phosphorylated and activated receptor complexes are efficiently directed to selected target genes .
+Clearly , such positive feedback explains the dramatic influence of activated signaling pathways on PR nuclear function .
+Indeed , several progestin / PR-dependent events are MAPK or c-Src-dependent , including upregulation of cyclins D1 and E , CDK2 activation , S-phase entry , and anchorage-independent cell growth in soft-agar  .
+C-Src- and MAPK-dependent direct phosphorylation of PR Ser345 is required for PR tethering to Sp1 transcription factors bound to the p21 and EGFR promoters  .
+PR / Sp1 tethering upon c-Src / MAPK pathway activation is predicted to alter PR promoter selectivity , favoring the use of Sp1-driven promoters within PR-target genes .
+Kinases also confer hyperactivity and ligand-independence to phosphorylated PR-B  .
+For example , MAPKs mediate PR hypersensitivity to ligand by phosphorylation of PR Ser294 , an event that derepresses receptor activity by preventing PR sumoylation  .
+Activated CDK2 or loss of p27 induces PR ligand-independent activity via Ser400 phosphorylation  .
+Although more studies are needed , it is becoming clear that activation of cytoplasmic protein kinases is an integral feature of PR nuclear action ( i.e. phosphorylation events are required for gene regulation leading to changes in cell biology ) .
+Thus , rapid phosphorylation events may primarily act to alter PR transcriptional activity , but clearly also mediate promoter selectivity  .
+How might the membrane-associated signaling actions of steroid hormone receptors , including PR , contribute to deregulated breast cancer cell growth and / or increased breast cancer risk ?
+Perhaps by linking steroid hormone action to the expression of MAPK-regulated genes ( i.e. the endpoint of MAPK signaling is the phosphorylation of transcription factors ) .
+In support of this concept , the extranuclear actions of liganded ERs induce a state of adaptive hypersensitivity during endocrine therapy in which growth factor signaling pathways are co-opted by upregulated ERs  .
+In this model of ER-dependent MAPK activation , liganded ERs localized at the cell membrane interact with the adapter protein Shc and induce its phosphorylation , leading to recruitment of adaptor molecules and activation of Ras and the Raf-1/MEK / MAPK module .
+MAPK then regulates genes via direct phosphorylation of Ets factors and / or AP1 components ( i.e. independently of ER transcriptional activity ) .
+ER activation of MAPK explains why many tumors respond well to aromatase inhibitors , yet fail to respond to selective estrogen receptor modulators ( SERMS ) designed to inhibit ER transcriptional activity in the nucleus , but not ER-dependent MAPK activation in the cytoplasm .
+Breast cancers often exhibit heightened c-Src and MAPK activities  and elevated cyclin D1 , an AP1 target gene whose expression is sensitive to multiple kinase inputs  .
+Steroid hormone receptors including PRs may contribute to the constitutive signaling of cytoplasmic mitogenic protein kinases via their membrane-associated activities , thereby circumventing endocrine-based ( i.e. antiestrogen ) therapies .
+3. Probing PR action in animal models .
+Studies in rodents demonstrate that PR-A and PR-B are differentially expressed during mammary gland development , with PR-A predominantly expressed during ductal sidebranching , while PR-B expression coincides with the formation of alveoli  .
+PR-B but not PR-A is expressed in proliferating cells .
+Some but not all proliferating cells in both compartments are PR-B+ , suggesting that progesterone may induce proliferation through either direct or paracrine mechanisms .
+In contrast , cells in adult virgin glands are PR and cyclin D1 positive , but fail to proliferate , possibly due to high levels of the cyclin-dependent protein kinase inhibitors , p21 and p27  .
+During the menstrual cycle , MEC undergo sequential waves of proliferation and apoptosis .
+Notably , in primates ( macaques and humans ) increased terminal duct lobular unit cell proliferation coincides with the peak of serum progesterone that occurs during the luteal phase  , again suggesting a paracrine mechanism for this hormone in adult tissues .
+Upregulation of local IGF-1 may be a cooperating factor in this regard  .
+In animal models of postmenopausal hormone replacement therapy , both parous and nulliparous early and late postmenopausal mice were subjected to estrogen alone ( E ) or estrogen plus progestin ( E + P ) ; E + P produced a greater proliferative response relative to E alone regardless of parity or treatment time .
+E + P was also shown to act directly on the mammary gland , rather than via systemic effects  .
+Similar results occurred in surgically postmenopausal macaques  and in postmenopausal humans  .
+Although breast cancer development was not modeled in the above animal studies , the results ( i.e. increased proliferation ) are consistent with human clinical data  , which revealed increased tumor number and size in women taking E + P , while E alone did not significantly alter breast cancer risk or tumor size .
+Progesterone may act via proto-oncogenes and growth factors to affect breast cell proliferation and breast cancer etiology .
+As the majority of early breast cancer lesions express both ER and PR and these receptors remain high in at least 60% of advanced decease , early events may include a switch in the ability of normally quiescent ER+ / PR+ cells to respond directly to steroid hormones and proliferate .
+Notably , deregulation of the cell cycle is a hallmark of breast cancer .
+Up to 40% of breast cancers overexpress cyclin D1 , while at least 30% have lost p27 or p21 and / or contain activated CDK2  .
+Mutation or loss of p53 is also a frequent occurrence  .
+Numerous in vitro studies have demonstrated linkage of PR action to cell cycle regulation  .
+Namely , PR interacts directly with cyclins A or E and CDK2  .
+PR activity is highest in the DNA synthesis ( S ) phase of the cell cycle , when CDK2 activity peaks  .
+Furthermore , PR transcriptional activity becomes ligand-independent and CDK2-driven upon loss of p27  .
+Progestins , acting through PR-B-dependent transcription , induce cyclin D1 expression and cell cycle re-entry in antiestrogen-arrested breast cancer cells  .
+This suggests that in the breast , progesterone / PR action is tightly coupled to mechanisms of cell cycle control .
+In breast cancer , the mitogenic potential of activated PRs may manifest particularly during loss of checkpoint control and / or elevation of CDK or other mitogenic kinase activities .
+For example , TGF- ( an EGFR ligand ) transgenic mice develop ER+ / PR+ proliferative hyperplasias ( early lesions ) that rapidly progress to ER+ / PR- tumors  .
+Recent in vitro studies demonstrate that BRCA-1 knock-down enhances progestin-induced PR transcriptional activity , while progestin-induced MEC proliferation is increased in genetically engineered mice lacking BRCA-1 in the mammary gland  .
+Related to this finding , in recent studies using mice lacking mammary gland expression of both BRCA-1 and p53 , PR protein levels were dramatically increased , and the development of aggressive ER+ / PR+ tumors in virgin mice was completely blocked by antiprogestins  .
+In future studies , it will be important to define how negative regulation of cell proliferation in ER+ / PR+ normal MECs is somehow lifted to allow progression of early lesions to malignant cancer , and if early events include loss of checkpoint control or alteration of DNA damage and repair pathways in PR+ cells .
+4. PR action in human breast cancer cell models .
+The biochemistry of PR action is well characterized , having been largely defined using PR+ human breast cancer cell lines , or PR-null cells into which wild-type or modified PRs has been re-expressed .
+Numerous studies have focused on PR interactions with regulatory proteins , changes in PR subcellular localization , or post-translational modifications of PRs ( i.e. phosphorylation , ubiquitinylation , or sumoylation ) or other conditions that affect PR transcriptional activities , usually measured on artificial gene promoters ( reporter genes ) containing one or more tandem PRE sites  .
+Growth factors , including EGF or heregulin , promote transcriptional synergy in the presence of progestins on PR-target genes  .
+As discussed above , phosphorylation events primarily serve to augment PR action in a promoter selective manner  .
+Despite this depth of basic understanding , the details of gene regulation and the associated changes in cell biology in response to PR activation remain elusive .
+Only a handful of endogenous progesterone-responsive genes have been described in detail  .
+The majority of genes regulated in response to progesterone lack PR-binding consensus sequences or progesterone responsive elements ( PREs ) , and the presence of one or more PREs or PRE half-sites fails to accurately predict progesterone-responsive regulation  .
+Many genes are regulated upon PR expression , but independently of progesterone  .
+Furthermore , several genes are downregulated in response to progesterone / PR-dependent transcriptional repression , largely by unknown mechanisms  .
+In most cases , the regulation of specific genes in response to progesterone / PR is only loosely tied ( by correlation ) to changes in cell or tumor biology .
+For example , many PR-regulated genes are associated with aspects of tumor progression towards aggressive tumor phenotype .
+In addition , the PR-A to PR-B ratio is frequently altered ( i.e. away from 1:1 ) in breast tumors relative to normal tissue  , a condition predicted to dramatically alter the genetic program  .
+Confounding the role of progesterone in breast cancer is the finding that progesterone has biphasic effects on the proliferation of breast cancer cell lines grown in vitro ( cells grown in plastic culture dishes supplemented with progestin-containing media ) .
+Cultured cell lines undergo an initial burst of proliferation characterized by increased S-phase entry that peaks at 18 h of progesterone treatment  .
+Cell cycle progression is driven by successive upregulation of G1 / S and G2 cyclins , p21 , and elevated CDK2 activity .
+This is followed 24 - 48 h ( one to three cell cycles ) later by cell growth inhibition in which p27 is upregulated and the cells ultimately arrest at the G1 / S boundary .
+Thus , the response of cultured breast cancer cells to progesterone is both proliferative and inhibitory , in contrast to the clear mitogenic effects of estrogens in the same cell line models .
+For this reason , it has been suggested that progesterone acts primarily as a priming agent , with growth promoting activity dependent upon cellular context and / or the presence of secondary agents  .
+For example , progestins upregulate selected components of growth factor-initiated signaling pathways , including IRS-2  , and EGFR family members and their ligands ; progestin-treated breast cancer cells are more responsive to EGF-induced proliferation than are progestin-naïve cells  .
+Thus , progesterone may act in part by sensitizing breast cancer cells to growth factor and cytokine signals  .
+Of note is that progesterone treatment of PR+ breast cancer cells growing in culture has also been implicated in pro-survival ( resistance to chemotherapy-induced apoptosis  ) and tumor cell differentiation ( from luminal to myoepithelial phenotype ) with minimal effects on tumor growth  ; this transition is associated with poor clinical prognosis .
+Similarly , epithelial to mesenchymal transition ( EMT ) is an early event that precedes tumor cell invasion and metastasis , and may occur independently of changes in proliferation .
+During EMT , stationary epithelial cells become fibroblast-like and acquire the ability to migrate and invade locally .
+Interestingly , many progesterone-regulated genes encode molecules involved in signal transduction and cell adhesion to extracellular matrix ( ECM ) or other basement membrane components  .
+IRS-2 , a PR-B-regulated gene , is a mediator of increased cell motility  .
+The effects of progestins have recently been evaluated in soft-agar , a type of 3D culture system that allows breast cancer cells to grow as anchorage-independent colonies more similar to the organization of acini found in vivo .
+In contrast to mono-layer cultures , progestins are clearly mitogenic in this system , wherein PR-B induces transcriptional upregulation of wnt-1 , leading to sustained MAPK activity , upregulation of cyclin D1 , and the formation of abundant large colonies  .
+This suggests that the mitogenic actions of progesterone require the establishment of cell polarity , a property that is not supported in 2D culture systems .
+In addition to gaining further insight into the role of what appears to be excessive cross talk between progesterone / PR and signaling pathway components , a clear definition of the specific actions of progesterone / PR that are relevant to more advanced breast cancer cell biology ( i.e. tumor progression to metastasis , including EMT ) is needed .
+This may require study conditions that mimic or preserve breast epithelial cell architecture in which PR+ luminal epithelial cells are polarized , and in contact with basement membrane components .
+In support of this concept , normal MECs respond differently to estrogen and progesterone when cultured in the presence of variable ECM components ( i.e. collagen type I , fibronectin , laminin )  ; ECM proteins increase the expression of EGF and IGF receptors .
+In this context , estrogen plus progestin inhibit EGF / IGF-induced MEC proliferation in an ECM-dependent manner  .
+Clearly , ER and PR interactions with ECM are complex  .
+Deregulation of ECM protein expression and / or integrin signaling ( i.e. early events in cancer progression ) is likely to dramatically alter hormone responsiveness .
+5. Future perspective .
+Many aspects of PR action originally discovered in animal or cell line models of breast cancer have not been established in humans .
+However , a direct role for PRs in breast cancer is illustrated by the clinical findings of the Women 's Health Initiative ( WHI ) and Million Women Study , demonstrating that women taking a progestin in combination with estrogen as part of hormone replacement therapy ( EPT ) , experienced a greater breast cancer risk relative to estrogen alone ; tumors were larger and of higher grade  .
+The Million Women Study also found that women were more likely to die of breast cancer if they were taking EPT at the time of diagnosis .
+Thus , while substantial preclinical data suggest an important role for PR function in modulating breast cancer biology , validation of these findings are dependent on a clinical strategy to disrupt PR function in human breast cancers .
+It will then be important to decipher the contribution of both nuclear and membrane PR activities , and target them appropriately with selective PR modulators , in addition to targeting the relevant kinases ( c-Src , MAPKs , and CDK2 ) required for steroid hormone receptor action .
+We suggest that PR activities be routinely targeted as part of combination therapies aimed at blocking both ER- and PR-B , along with the associated essential protein kinases .
+Acknowledgements .
+Studies on the role of progesterone and breast cancer were funded by NIH / NCI grants ( to C.A. Lange ) R01 CA123763-10A1 ( formerly R01 DK53825 ) and R21 CA116790-01A1 .
+We thank Andrea Daniel and Douglas Yee for helpful comments .

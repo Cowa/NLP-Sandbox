@@ -1,0 +1,179 @@
+In 2006 , an estimated 212,920 new diagnoses and 40,970 deaths will occur from breast cancer in the United States ( 1 ) .
+Breast cancers are represented by a heterogeneous population of tumors characterized by clinico-pathologic markers , such as age , T stage , nodal status , pathologic grade , ER / PR status , or HER2 status ( 2 ) .
+As these markers help define the need for adjuvant therapy , molecular markers have the potential to refine prognosis and response to therapy ( 3 ) .
+Studies indicate that young women with early stage breast cancer experience a poorer local relapse-free , cause-specific , and distant metastasis-free survival than their older counterparts ( 4 ) , ( 5 ) , ( 6 ) and ( 7 ) .
+It would be of interest to establish biologic factors that can conveniently identify these patterns of failure in young women undergoing breast conservation ( 4 ) , ( 8 ) , ( 9 ) , ( 10 ) and ( 11 ) .
+Perou et al. ( 12 ) used cDNA microarray profiling studies to categorize breast carcinoma into the following five distinct subtypes : Luminal A ( ER+ and / or PR+ , HER2- ) , Luminal B ( ER+ and / or PR+ , HER2+ ) , HER2 overexpressing ( ER- , PR- , HER2+ ) , Basal-like ( ER- , PR- , HER2- , CK 5 / 6+ ) , and normal breast tissue .
+Further studies showed poorer local relapse-free survival in those tumors representing the basal-like cancers ( BLC ) ( 13 ) and ( 14 ) .
+Nielson et al. further characterized the BLC via the triple negative ( TN ) phenotype , which comprises those tumors that do not express ER , PR , or HER2 / neu on immunohistochemistry ( 14 ) .
+Outcome in a heterogeneous cohort of conservatively managed breast cancer as a function of this classification scheme , recently demonstrated by Haffty et al. ( 15 ) , depicted the TN phenotype as a significant independent predictor of distant metastasis and poorer cause-specific survival , with no difference in local relapses .
+The BLC can also be characterized by cytokeratin markers such as CK5 / 6 or CK17 ( 16 ) , ( 17 ) and ( 18 ) .
+In contrast , breast cancers of luminal origin are ER / PR positive and represented by epithelial markers , such as CK19 .
+Basal cytokeratin markers , CK 5 / 6 and CK17 , are associated with the overexpression of epidermal growth factor receptor ( EGFR or HER1 ) and p53 ( 14 ) and ( 19 ) and have been correlated with poor clinical outcomes ( 16 ) and ( 20 ) .
+Gene expression array analysis revealed that BRCA1 mutated genotype displays a similar genetic profile as BLC ( 21 ) , ( 22 ) and ( 23 ) .
+The current study examined , in a cohort of young women who underwent breast-conserving surgery and radiotherapy , local relapse-free , distant metastasis-free , and overall survival as a function of CK19 status .
+As a surrogate marker of BLC , we sought to compare CK19 negativity with standard clinicopathologic variables as an independent risk factor of aggressive disease .
+Methods and Materials Patients .
+Patients selected for the current study had specific inclusion requirements including the following : ( 1 ) patients had conservatively managed stage I / II breast cancer treated by lumpectomy and adjuvant radiotherapy ; ( 2 ) patient age was 49 years or younger at the time of breast cancer diagnosis ; and ( 3 ) paraffin-embedded tissue blocks of primary breast cancer from archives of this hospital or referring hospitals were available for processing .
+A total of 158 patients met all of the inclusion criteria as stated above .
+The protocol for chart review and archived tumor specimen use was reviewed and approved by the Institutional Review Board .
+All patients in this study were treated surgically with breast-conserving surgery with or without axillary lymph node dissection .
+Standard radiation treatment ( RT ) parameters used were the following : RT delivered to the whole intact breast , with regional nodal irradiation delivered as clinically indicated ; 4- to 6-MeV photons were used , at a daily fraction size of 2.0 Gy , to a total median dose of approximately 64.0 Gy .
+Adjuvant systemic chemotherapy and / or adjuvant hormone therapy was administered as clinically indicated in accordance with standard practices during this time interval .
+Immunohistochemical analysis of tissue microarray for expression of ER , PR , HER2neu , p53 , and CK19 .
+A tissue microarray was constructed for this analysis .
+A pathologist examined hematoxylin and eosin - stained slides of the archived paraffin blocks and circled representative tumor sections .
+From these tumor sections , two 0.6 mm cores were extracted using a Tissue Microarrayer ( Beecher Instruments , Silver Spring , MD ) .
+Areas of tumor , distinct from normal epithelium , were identified on the stained slides by a pathologist and marked for subsequent analysis .
+Sections of the microarrays 5 m thick were cut with a tape-based tissue transfer system ( Intrumedics , Hackensack , NJ ) and processed as described previously ( 24 ) .
+The promise of tissue microarray biopsies have been previously validated in a variety of tumors , including head and neck , colorectal , and lung ( 25 ) , ( 26 ) and ( 27 ) .
+Immunohistochemical analysis was performed on 5-m-thick tissue sections prepared from formalin-fixed , paraffin-embedded archival tissue from the resected primary tumor .
+Tissue sections were deparaffinized and then quenched in 2% hydrogen peroxide - methanol solution .
+Slides were incubated overnight at 4C with the following antibodies : ( 1 ) ER : mouse monoclonal antihuman ER ( DAKO ) , ( 2 ) PR : mouse monoclonal antihuman PR ( DAKO ) , ( 3 ) HER-2 / neu : rabbit polyclonal anti-HER-2 / neu oncoprotein ( DAKO ) , ( 4 ) p53 : mouse monoclonal antihuman p53 oncoprotein ( DAKO ) , and ( 5 ) CK19 : mouse monoclonal anti-Cytokeratin 19 ( Ventana , Tucson , AZ ) .
+The next day , slides were incubated with secondary antibody , labeled with avidin-biotin complex streptavidin-peroxidase ( Elite ; Vector Laboratories , Burlingame , CA ) , incubated with the chromogen diaminobenzidine tetrahydrochloride , counterstained with hematoxylin , dehydrated with ethanol , and mounted .
+Assessment of all five biomarkers stained was quantitative and qualitative and done by a single , experienced pathologist who was blinded to patient outcome .
+For each core , the region of predominant staining intensity was scored .
+ER and PR were assessed by the number of positive stained nuclei .
+For HER-2 / neu , only membrane staining was scored positive .
+A numeric score ranging from 0 to 3 that reflected the staining intensity and patterns in 10% or more tumor was used .
+For HER2 status , numeric scores of 2 or 3 were considered positive .
+CK19 staining intensity was scored as 0 ( none ) , 1 ( faint or focal ) , 2 ( moderate ) , 3 ( strong ) , and percent distribution of cytoplasmic staining .
+For cores that were uninterpretable because of tissue loss or lack of tumor cells , a score of not applicable ( N / A ) was given .
+As seen in Figure 1 , CK19 status was considered positive if staining intensity was 1.0 and 10% of epithelial distribution .
+Assessment of p53 staining was similar to CK19 , except that only nuclear reactivity was scored .
+For p53 , less than 20% nuclear reactivity in tumor cells was scored as low p53 expression and 20% or greater nuclear reactivity was scored as high p53 expression .
+Full-size image ( 103K )
+Fig. 1. Staining characteristics of cytokeratin 19 ( CK19 ) antibody on tissue microarray ( TMA ) . ( a ) CK19-negative phenotype ; ( b ) CK19-positive phenotype .
+View Within Article .
+Statistical analysis .
+CK19 status and relevant co-variables were assembled in a database and analyzed using SAS User 's Guide , Version 9.1 ( SAS Institute , Cary , NC ) .
+All tests of statistical significance were two-sided .
+Values of p 0.05 were considered statistically significant .
+The study endpoints were local relapse , distant metastasis-free survival , and overall survival , including all deaths .
+Loco-regional recurrence was defined as clinically and biopsy-proven relapse in the ipsilateral breast .
+Distant metastases were defined as clinical evidence of distant disease based on clinical and / or radiographic evidence .
+Both endpoints were calculated from the date of radiation therapy completion , as this represents the start of continuous risk for relapse .
+Median follow-up was calculated by the reverse Kaplan-Meier method .
+The independent variables for this analysis included race , degree of family history , histology , T stage , nodal status , TN status , p53 status , CK19 expression , and BRCA1 / 2 mutations .
+The molecular profiles of these patients were correlated with clinical-pathologic factors , local , distant relapse-free , and overall survival .
+The association between CK19 , co-variables , and outcome was assessed in a multivariate model .
+Bivariate analyses for the association between co-variables and CK19 status and TN status included the chi-square test and the Fisher 's exact test .
+Bivariate analyses for the associations between predictor variables and local and distant recurrence , and overall survival were conducted using the Kaplan Meier log-rank test and the chi-square test for linear trend .
+Univariate survival analysis was done with the Cox proportional hazards model , which was used to calculate unadjusted relative risks for 10 year local relapse ( LR ) , 10 year distant metastasis-free survival ( DMFS ) , and 10 year poor overall survival ( OS ) .
+In the multivariate analysis , Cox proportional hazards regression determined significant predictors of disease-free survival and overall survival at a level of p = 0.05 in the final model .
+Results Descriptive statistics .
+All patients in this cohort were treated with breast-conserving surgery and adjuvant radiation therapy for early-stage invasive breast cancer .
+Also , all patients were younger than 49 years of age , with a median age of 40.0 years at the time of diagnosis and treatment .
+With a median follow-up of 6.25 years , a total of 20 ( 12.7% ) patients experienced a local relapse as the first site of failure resulting in a 10 year actuarial LR-free rate of 87.3% .
+With a total of 38 distant metastases , the 10 year DMFS was 67.4% .
+The 10 year actuarial overall survival rate for the entire cohort was 79.6% .
+Table 1 summarizes the frequency statistics for the clinico-pathologic characteristics of the patient cohort including demographics , staging , and molecular marker status .
+Positive expression of ER , PR , HER-2 / neu , CK19 , and p53 were 33.1% , 34.5% , 10.0% , 79.5% , and 20.9% , respectively .
+Table 1. .
+Patient characteristics .
+CharacteristicNo. ( % ) Age ( y ) Median SD40.0 4.7 Range25 - 49 Race / Ethnicity White118 ( 74.7 ) Black30 ( 18.9 ) Other10 ( 6.3 ) Family history Unknown / none132 ( 83.5 ) Moderate - strong26 ( 26.5 ) Histology Ductal135 ( 86.0 ) Lobular8 ( 5.1 ) Other14 ( 8.9 ) Tumor size ( cm ) T1 ( 2.0 ) 103 ( 70.0 ) T2 ( 2.0 ) 44 ( 30.0 ) Nodal status Negative97 ( 72.4 ) Positive37 ( 27.6 ) ER status Negative91 ( 66.9 ) Positive45 ( 33.1 ) PR status Negative91 ( 65.5 ) Positive48 ( 34.5 ) HER2 status Negative127 ( 90.0 ) Positive14 ( 10.0 ) Triple-negative status Positive68 ( 50.0 ) Negative68 ( 50.0 ) p53 Status Negative110 ( 79.1 ) Positive29 ( 20.9 ) Cytokeratin 19 status Negative27 ( 20.5 ) Positive105 ( 79.5 ) BRCA1 mutation No64 ( 91.4 ) Yes6 ( 8.6 ) BRCA2 mutation No66 ( 94.2 ) Yes4 ( 5.8 ) Adjuvant treatment Chemotherapy95 / 158 ( 60.1 ) Hormonal therapy39 / 158 ( 24.7 )
+Full-size table .
+View Within Article .
+Of the 158 patients in this cohort , 70 had undergone BRCA1 / 2 genetic testing , and of these , 6 were positive for BRCA1 mutations , and 4 had deleterious BRCA2 mutations .
+Family history was considered moderate-strong if one or more first-degree relatives were diagnosed with breast cancer at time of diagnosis .
+Approximately two thirds of the patients had pathologic stage T1 disease , and more than two thirds of the patients were node negative .
+Triple-negative status was evenly split ( n = 68 each ) in this cohort .
+Adjuvant cytotoxic chemotherapy was used in 95 of the 158 patients ( 60.1% ) , whereas 39 of 158 patients ( 24.7% ) received hormonal therapy .
+The CK19 status was as follows : 27 ( 20.5% ) had no staining , 29 ( 21.9% ) had faint or focal staining , 24 ( 18.1% ) had moderate staining , and 52 ( 39.3% ) had strong staining .
+With accordance to analysis parameters as above , 105 ( 79.5% ) samples were defined as CK19-positive , and the remaining 27 ( 20.5% ) were defined as CK19-negative .
+As seen in Figure 1 , those tumors that were sufficiently immunoreactive with the CK19 antibody showed cytoplasmic granular staining , as the negative controls showed no staining .
+For p53 expression , the p53-positive phenotype was defined as a staining intensity 1.0 with 28 ( 20.9% ) of 139 cores positive .
+Chi-square analysis .
+Using chi-square analysis and Fisher 's exact test , CK19-negative status was significantly associated with TN phenotype ( p 0.001 ) .
+As seen in Table 2 , other prognostic variables such as race / ethnicity , family history , tumor histology , T stage , or nodal status were not significantly associated with the CK19-negative phenotype .
+Also , CK19 status did not correlate with other molecular markers such as p53 expression or BRCA1 / 2 mutations .
+Table 2. .
+Association between cytokeratin 19 ( CK19 ) status , triple-negative ( TN ) status , and prognostic factors .
+CK19 statusTN status Prognostic factorPositiveNegativep ValueTNNon-TNp Value Race / ethnicity0.080.45 White81215053 Black156149 Other9046 Family history0.780.18 Unknown / None84205155 Moderate - Strong518148 Histology0.550.01 Ductal91225362 Lobular5133 Other84122 Tumor size0.910.52 T169184347 T22982017 Nodal status0.860.06 Negative65195038 Positive2671220 TN status0.001N / A Positive4121680 Negative624068 p53 Status0.550.001 Negative81194561 Positive227227 CK19 StatusN / A0.001 Negative027214 Positive10504162 BRCA1 mutation0.430.005 No43132828 Yes3260 BRCA2 mutation0.730.84 No44143226 Yes2122 .
+Full-size table .
+Statistically significant .
+View Within Article .
+As expected , all 6 ( 8.6% ) patients exhibiting BRCA1 mutations were of TN phenotype ( p 0.01 ) .
+Although lobular histology was equally distributed , ductal histology was more prevalent in the non-TN phenotype as compared with TN phenotype ( p = 0.01 ) .
+The TN phenotype did not correlate with any other clinico-pathologic parameters as shown in Table 2. .
+Univariate analysis .
+As depicted in the univariate analysis in Table 3 , T2 stage was a significant predictor for 10 year DMFS ( RR 1.91 ; 95% CI , 1.35 - 2.68 , p 0.01 ) and 10 year OS ( RR 1.71 ; 95% CI , 1.10 - 2.63 , p = 0.02 ) .
+Nodal status was also significantly associated with DMFS ( RR 1.61 ; 95% CI , 1.06 - 2.34 , p = 0.02 ) and OS ( RR 2.07 ; 95% CI , 1.25 - 3.59 , p 0.01 ) .
+The use of adjuvant chemotherapy was not associated with local ( p = 0.38 ) , distant ( p = 0.29 ) , or overall benefit ( p = 0.48 ) for the entire cohort .
+The TN phenotype was not correlated with LR , DMFS , or OS ( p 0.05 ) in this study .
+Table 3. .
+Univariate analysis of prognostic factors for 10 year local relapse , distant metastasis - free survival ( DMFS ) , and overall survival .
+10-Year LR10-Year DMFS10-Year OS Prognostic FactorRR ( 95% CI ) p ValueRR ( 95% CI ) p ValueRR ( 95% CI ) p Value Race / ethnicity0.450.090.08 White1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Black0.79 ( 0.48 - 1.50 ) 0.71 ( 0.49 - 1.06 ) 0.66 ( 0.44 - 1.06 ) Family history0.340.910.11 Unknown / none1.00 ( Ref. ) 1.001.00 Moderate - strong0.77 ( 0.47 - 1.36 ) 0.97 ( 0.65 - 1.59 ) 1.69 ( 0.89 - 4.29 ) Histology0.560.610.29 Ductal1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Lobular1.32 ( 0.58 - 5.67 ) 0.85 ( 0.51 - 1.74 ) 0.70 ( 0.41 - 1.45 ) Adj. chemotherapy0.380.290.48 No1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Yes0.81 ( 0.49 - 1.28 ) 0.83 ( 0.59 - 1.16 ) 0.87 ( 0.56 - 1.29 ) Tumor size0.080.010.02 T11.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) T21.54 ( 0.93 - 2.51 ) 1.91 ( 1.35 - 2.68 ) 1.71 ( 1.10 - 2.63 ) Nodal status0.980.020.005 Negative1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Positive1.00 ( 0.59 - 1.92 ) 1.61 ( 1.06 - 2.34 ) 2.07 ( 1.25 - 3.59 ) TN status0.880.970.78 Positive0.96 ( 0.57 - 1.61 ) 0.99 ( 0.69 - 1.42 ) 0.93 ( 0.57 - 1.49 ) Negative1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) p53 Status0.070.630.79 Negative1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Positive1.31 ( 0.68 - 3.31 ) 1.11 ( 0.73 - 1.83 ) 0.93 ( 0.58 - 1.64 ) CK19 status0.0010.080.02 Negative2.76 ( 1.65 - 4.77 ) 1.41 ( 0.94 - 2.03 ) 1.77 ( 1.10 - 2.79 ) Positive1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) BRCA1 mutation0.090.430.34 No1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Yes0.00 ( 0.00 - 1.20 ) 1.38 ( 0.54 - 2.67 ) 1.87 ( 0.41 - 5.24 ) BRCA2 mutation0.360.340.34 No1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Yes1.75 ( 0.41 - 4.04 ) 0.00 ( 0.00 - 2.13 ) 0.00 ( 0.00 - 4.13 )
+Full-size table .
+Abbreviations : Adj = adjunct ; CI = confidence intervals ; LR = local relapse ; OS = overall survival ; Ref. = reference group ; RR = risk ratio .
+Statistically significant .
+View Within Article .
+The CK19-negative phenotype was a statistically significant predictor for poor LR ( RR 2.76 ; 95% CI , 1.65 - 4.77 ; p 0.001 ) , DMFS ( RR 1.41 ; 95% CI , 0.94 - 2.03 ; p = 0.08 ) , and OS ( RR , 1.77 ; 95% CI , 1.10 - 2.79 ; p = 0.02 ) .
+Kaplan-Meier survival curves for 10 year LR-free survival , DMFS , and OS , with respect to CK19 status are presented in Fig. 2 , Fig. 3 and Fig. 4 , respectively .
+As shown in Figure 2 , the 10 year LR-free survival for CK19-positive tumor .
+Patients who were CK19 negative experienced a 10 year DMFS of 52.2% , versus 68.7% in those who were CK19 positive ( Fig. 3 ; p = 0.04 , Wilcoxon test ) .
+In addition , p53 overexpression showed borderline significance for predicting 10 year LR ( RR , 1.31 ; 95% CI , 0.68 - 3.31 ; p = 0.07 ) .
+However , p53 was not a significant predictor of DMFS ( RR , 1.11 ; 95% CI , 0.73 - 1.83 ; p = 0.63 ) or OS ( RR , 0.93 ; 95% CI , 0.58 - 1.64 ; p = 0.79 ) .
+Full-size image ( 5K )
+Fig. 2. Effect of CK19 status on 10 year local recurrence ( LR ) rates for young women with breast cancer treated with CS + RT .
+The 10 year LR-free survival was 94.6% for CK19-positive tumors and 59.1% for CK10-negative tumors ( p 0.001 , log-rank test ) .
+View Within Article .
+Full-size image ( 5K )
+Fig. 3. Ten-year distant metastasis - free survival ( DMFS ) as a function of CK19 Status for young women with breast cancer treated with CS + RT .
+The 10 year DMFS was 68.7% for CK19-positive tumors and 52.2% for CK19-negative tumors ( p = 0.04 , Wilcoxon test ) .
+View Within Article .
+Full-size image ( 5K )
+Fig. 4. Ten-year overall survival ( OS ) for young women with breast cancer treated with CS + RT .
+The 10 year OS was 84.2% for CK19-positive tumors and 66.4% for CK19-negative tumors ( p 0.01 , log-rank test ) .
+View Within Article .
+Multivariate analysis .
+Multivariate survival estimates were based on the Cox proportional hazards model and assumed no interactions between significant variables in the final model .
+The CK19 status , tumor size , nodal status , and p53 status were entered into this multivariate model to determine their relationship with 10 year LR , DMFS , and OS .
+On analysis , as seen in Table 4 , T2 stage lost prognostic significance with relation to DMFS ( RR , 1.39 ; 95% CI 0.88 - 2.16 ; p = 0.15 ) and overall survival ( RR , 1.55 ; 95% CI , 0.84 - 2.90 ; p = 0.15 ) .
+Nodal status demonstrated a relative risk of 2.04 ( 95% CI , 1.02 - 4.37 ; p = 0.04 ) for poor overall survival .
+In multivariate analysis , CK19 negativity maintained statistical significance as a predictor of tumors that were more likely to recur locally ( RR , 3.54 ; 95% CI , 1.87 - 7.65 ; p 0.01 ) .
+It was noted that the relative risk of poor overall survival with a negative CK19 phenotype increased from the univariate value of 1.77 to the multivariate value of 1.89 ( 95% CI , 1.04 - 3.55 ; p = 0.03 ) and remained significant .
+Thus , patients with CK19-negative status were approximately two times less likely to survive in 10 years when compared with patients with CK19-positive tumors .
+Table 4. .
+Multivariate analysis of prognostic factors for local recurrence , distant metastasis-free survival , and overall survival .
+Local recurrenceDistant metastasis-free survivalOverall survival Prognostic factorRR ( 95% CI ) p ValueRR ( 95% CI ) p ValueRR ( 95% CI ) p Value Tumor size0.610.150.15 T11.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) T21.19 ( 0.57 - 2.33 ) 1.39 ( 0.88 - 2.16 ) 1.55 ( 0.84 - 2.90 ) Nodal status0.770.090.04 Negative1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Positive0.90 ( 0.39 - 1.85 ) 1.51 ( 0.94 - 2.38 ) 2.04 ( 1.02 - 4.37 ) CK19 status0.010.170.03 Negative3.54 ( 1.87 - 7.65 ) 1.44 ( 0.86 - 2.70 ) 1.89 ( 1.04 - 3.55 ) Positive1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) p53 Status0.380.570.54 Negative1.00 ( Ref. ) 1.00 ( Ref. ) 1.00 ( Ref. ) Positive1.53 ( 0.63 - 6.69 ) 1.19 ( 0.66 - 2.51 ) 0.75 ( 0.32 - 2.06 )
+Full-size table .
+Abbreviations : CI = confidence intervals ; Ref. = reference group ; RR = risk ratio .
+Statistically significant .
+View Within Article .
+Discussion .
+In our tissue microarray of 158 young women with stage I / II breast cancer treated with breast-conserving surgery and radiotherapy , we found that CK19 negativity significantly predicted for poor LR , DMFS , and OS in univariate and multivariate models .
+Only T stage and nodal status were additional predictors of distant and overall survival , yet were statistically inferior to CK19 status in the univariate and multivariate analysis .
+Although TN phenotype was not associated with poor prognosis ( LR , DMFS , or OS ) in this cohort , it was correlated with CK19 negativity ( p 0.001 ) , and with p53 overexpression ( p 0.001 ) .
+Within the classification of breast carcinoma to a heterogeneous group of tumors , correlations via the TN phenotype have simplified the identification of genetically unstable breast cancers ( 13 ) , ( 14 ) and ( 28 ) .
+Although Nielson et al. reported the absence of ER and lack of HER2 overexpression in only 15% of cases ( 14 ) , the TN phenotype was observed in 50% of cases in the current study .
+No difference was noted in the TN versus the non-TN phenotype in the current study , perhaps because the cohort consisted of a homogenous group of only young women with early stage disease .
+Disparity in the frequency of the reported BLC may be caused by inherent biologic differences of the young patient cohort in our study and is consistent with our previously reported findings ( 15 ) .
+With considerable genetic overlap between BRCA1 mutation and basal-like cancers ( BLC ) , there was expected to be a correlation between TN status ( as per IHC ) and BRCA1 status ( as per genetic testing ) ( 21 ) , ( 29 ) and ( 30 ) .
+As expected , all six of the patients carrying BRCA1 mutations exhibited the TN phenotype .
+Conversely , no association is observed between TN phenotype and BRCA2 mutations , consistent with the more heterogenous tumors associated with BRCA2 mutations ( 31 ) .
+Turner et al. showed , in a matched-control study , that breast tumors with p53 mutations were generally ER negative and were associated with compromised distant disease-free survival ( 32 ) .
+In the current study , TN phenotype was also associated with p53 overexpression , as Turner et al. described previously .
+Just as other studies have observed ( 33 ) and ( 34 ) , p53 overexpression did not correlate with poor overall or distant metastasis-free survival , but did show borderline significance for local relapse in univariate analysis .
+However , p53 status was not a significant independent prognostic factor as seen in multivariate analysis in this study .
+Although 60% of patients were treated with systemic adjuvant chemotherapy , the 10 year actuarial overall survival rate for the entire cohort was 79.6% .
+Subset analysis of LR , DMFS , and OS in patients of TN phenotype as a function of chemotherapy was not conducted because of the relatively small numbers in the proposed analysis .
+In contrast to previous studies ( 14 ) and ( 15 ) , the prognostic utility of the TN phenotype was limited as it did not select those patients with more aggressive relapse rates , either locally or distantly .
+Thus , the prognosis of this patient cohort may be refined with the addition of cytokeratin expression data ( CK19 negativity ) as a significant predictor of aggressive disease .
+A study of 195 patients by Potemski et al. ( 35 ) , argued that the poor prognosis associated with basal-like phenotype was not influenced by CK 5 / 6 or CK17 expression , but rather by ER absence .
+This study used three basal cytokeratins alone as markers of BLC but it may be that the prognostic value is attained in studies that combine TN status ( 19 ) and ( 20 ) .
+This basal-like phenotype may have worse outcomes that preclude the use of adjuvant hormonal or molecular therapy available for estrogen or HER2-driven tumors .
+Although basal or luminal cytokeratin status may aid in validating the basal-like phenotype , the use of a single basal / luminal marker alone to identify a subset of patients with poor outcomes may fail to identify several basal-like cancers ( 14 ) .
+The current study may be supported by staining obtained tumor specimens with other basal markers such as CK5 / 6 , CK17 , EGFR / HER1 , and c-kit to more accurately identify BLC .
+Although HER1 expression is not specific to BLC , when combined with other markers ( i.e. , CK 5 / 6 , CK17 ) , it has been shown to contribute to the accurate identification of BLC ( 28 ) and ( 36 ) .
+Of course , confirmation of the IHC-determined luminal versus basal-like cancers can be obtained via cDNA microarray analysis using the intrinsic gene set as described by Sorlie et al. ( 13 ) .
+In this group of relatively early stage cancers treated with breast-conserving surgery and radiation , we were able to validate the lack of luminal cytokeratin staining ( CK19 ) as an independent risk factor for poor prognosis with respect to LR , DMFS , and OS .
+If this risk factor is validated in larger studies , across a more heterogeneous cohort , we could consider the addition of greater radiation boost dose after whole breast irradiation and / or additional chemotherapy ( i.e. , anthracycline-based agents ) as aggressive , adjuvant modalities for CK19-negative patients who desire breast conservation .
+Because patients with CK19-negative disease are at a relatively higher risk for local relapse , CK19 status may also serve to stratify those patients who are poor candidates for protocols employing accelerated partial breast irradiation .
+Recent data also suggests that BLC are more responsive to taxane and anthracycline-based neoadjuvant chemotherapy than non-BLC subtypes ( 37 ) .
+Therefore , not only can CK19 negativity be used to represent biologically distinct subtypes of breast cancer , it may also select those tumors that have distinct chemotherapy sensitivities .
+As a therapeutic , anti-EGFR monoclonal antibody treatment is a potential option for patients with Her2 / neu negative and EGFR-overexpressed tumors , which is characteristic of the BLC .
+Drugs such as Iressa ( ZD1839 ) have been shown in vivo and in vitro to be effective against breast tumor cells expressing EGFR and potentiating the effect on HER2-overexpressing cell lines ( 38 ) .
+Although the size of our series is reasonable for a uniformly treated , homogeneous population of young women , the number of events may be relatively small to define the role of this molecular factor in the clinical decision-making process for women with early-onset breast cancer .
+Nevertheless , as a putative marker of BLC , CK19 negativity is an important risk factor in predicting local , distant , and overall prognosis in young women with early-stage disease .
+Further evaluation of outcomes in young women with CK19-negative breast carcinoma treated with breast-conserving surgery and radiation is warranted in larger prospective , clinical trials using more aggressive adjuvant radiotherapy and / or chemotherapy , with or without biologic modifiers .

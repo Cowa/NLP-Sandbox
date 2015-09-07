@@ -1,0 +1,111 @@
+De par son extrême fréquence , le cancer du sein est un véritable problème de santé publique .
+Son dépistage et son diagnostic sont de_plus_en_plus précoces , par_ailleurs , grâce_à l' information et à l' éducation du public , d' autre_part , en raison des progrès de l' imagerie en_particulier pour la détection des tumeurs de petite taille permettant ainsi le diagnostic plus précoce des récidives .
+Malgré une incidence croissante , la mortalité par cancer du sein reste stable témoignant aussi des avancées thérapeutiques .
+Dix pour cent des cancers du sein nouvellement diagnostiqués ont une tumeur localement avancée et / ou une maladie métastatique .
+Vingt à 85 % des patientes ,avec un cancer du sein non métastatique , vont développer en fonction du stade histologique initial de la tumeur , de sa biologie et du traitement une récurrence et / ou une maladie métastatique .
+La biologie avec le dosage des marqueurs tumoraux dont le CA 15-3 et l' ACE contribue à la surveillance de l' évolution métastatique des cancers du sein .
+2. Le cancer du sein métastatique
+Tant que les cellules restent groupées , l' ablation chirurgicale de la tumeur conduit généralement à la « guérison » .
+Cependant , si les cellules tumorales acquièrent la capacité d' infiltrer les tissus voisins et pénètrent dans le réseau lymphatique ou sanguin , elles peuvent se répandre dans l' ensemble de l' organisme , se fixer au niveau d' autres organes et développer de nouveaux foyers cancéreux .
+On parle alors de dissémination métastatique qui est l' événement le plus important au_cours_de la croissance d' un cancer humain .
+La localisation des métastases varie en fonction de la tumeur initiale .
+Dans le cas du cancer du sein , les organes cibles les plus fréquents sont : - le foie , la plèvre , les poumons et le cerveau pour les métastases viscérales ;
+- les os et les ganglions lymphatiques pour les métastases non viscérales  .
+La moyenne de survie à partir du diagnostic de cancer du sein métastatique est difficile à apprécier .
+La survie varie en fonction de la localisation des métastases dans un seul site anatomique ou non , du traitement par une éventuelle résection chirurgicale dans le cas de métastases isolées ou par une chimiothérapie  .
+Tableau 1.
+Médiane de survie dans le cas de métastases isolées dans différents sites anatomiques 
+Localisation des métastases isoléesMédiane de survie ( mois ) Tissus mous50 Os33 - 48 Poumons - plèvre6 - 15 Foie1 - 14 Cerveau4
+Full-size table
+View Within Article
+Une étude française menée par la Fédération nationale des centres de lutte contre le cancer ( FNCLCC ) sur plus de 5000 cancers du sein apparemment localisés a montré la présence de métastases dans 9 % des cas dont les localisations sont répertoriées dans le tableau suivant .
+Full-size image ( 22K )
+Figure 1. Fréquence des métastases de cancer du sein ( % ) en fonction du site anatomique selon une étude de la FNCLCC .
+View Within Article
+La connaissance précise des sites habituels de diffusion métastatique d' un cancer du sein permet de réaliser le bilan nécessaire lorsque les facteurs de risques de métastases sont importants .
+L' os est le site le plus commun des métastases dans le cancer du sein .
+Les résultats d' autopsies révèlent des métastases osseuses dans 50 à 80 % des cancers du sein .
+La scintigraphie osseuse au pyrophosphate de technétium , qui explore le corps entier est l' examen clé pour la détection de métastases osseuses .
+La survie des patientes qui ont uniquement des métastases osseuses est plus longue que celles qui ont des métastases viscérales : la survie à cinq ans est de 20 % même si les métastases osseuses sont étendues .
+Les métastases hépatiques apparaissent chez environ la moitié des patientes avec un cancer du sein métastatique et sont typiquement associées à un pronostic péjoratif .
+Elles peuvent être asymptomatiques , révélées lors d' une recherche systématique ou se présenter sous forme de douleurs abdominales , d' ascite , d' ictère , de perte de poids .
+En routine , l' échographie hépatique est un des meilleurs moyens d' objectiver des métastases hépatiques .
+Sa sensibilité est de l' ordre de 75 à 90 % .
+La biologie hépatique standard peut être également réalisée grâce aux dosages de la -glutamyl transférase ( GT ) et / ou des phosphatases alcalines ( PAL ) , ces deux enzymes sont élevées dans 92 % des cas .
+Une albuminémie faible , une bilirubine élevée , la présence d' ascite semblent être des facteurs de mauvais pronostic .
+Après le diagnostic initial de métastases hépatiques , la médiane de survie varie d' un mois à 20 mois .
+Pour la recherche des métastases pulmonaires , le scanner thoracique est préféré à la radiographie pulmonaire qui est peu sensible lorsqu' il n' y a aucun signe d' appel .
+La ponction pleurale exploratrice s' impose en cas d' épanchement .
+Parmi les femmes atteintes de cancer du sein , les fumeuses ont un risque doublé de développer des métastases pulmonaires , par rapport aux non-fumeuses  .
+On peut d' ores et déjà noter , que les métastases cérébrales ne sont pas recherchées en routine contrairement aux métastases osseuses , ganglionnaires , hépatiques et pulmonaires .
+La prévalence des métastases cérébrales , considérées comme une complication tardive des tumeurs primitives , est en augmentation en raison du meilleur contrôle des métastases systémiques .
+Cinq pour cent des patientes avec un cancer du sein non encore métastatique vont développer des métastases cérébrales  .
+Les métastases cérébrales cliniquement symptomatiques apparaissent chez 10 à 15 % des patientes présentant des cancers du sein métastatiques .
+Des résultats d' autopsies suggèrent qu' entre 20 à 40 % des patientes avec des cancers du sein métastatiques ont développé des métastases cérébrales  .
+En outre , le nombre d' antitumoraux efficaces au niveau cérébral est limité et les obstacles à l' efficacité de la chimiothérapie sont nombreux et complexes .
+Ils peuvent être divisés schématiquement en deux groupes : - d'_une_part , les facteurs liés à la tumeur : cinétique cellulaire , hétérogénéité tumorale , microenvironnement et chimiorésistance intrinsèques des tumeurs limitant la disponibilité des molécules dans le tissu tumoral ;
+- d' autre_part , les facteurs liés à l' hôte avec la notion de barrière hématoencéphalique ( BHE ) facteur majeur limitant la pénétration des substances dans le cerveau .
+Toutefois , dans les métastases cérébrales , la fonctionnalité de la BHE est fréquemment altérée , faisant place à une barrière modifiée , la barrière hématotumorale ( BHT ) .
+Ainsi le rôle de barrière est discuté en neuro oncologie d'_autant_plus_que l' efficacité de la chimiothérapie sur les métastases cérébrales semble controversée .
+En l' absence de traitement , la médiane de survie des patientes avec des métastases cérébrales de cancer du sein ne dépasse pas deux mois alors qu' elle varie de 3 à 16 mois pour les patientes traitées .
+La moyenne de survie à un an est estimée à 20 % .
+Traditionnellement , moins de 2 % des patientes avec un cancer du sein survivent plus de deux ans après des métastases cérébrales ; l' incapacité à contrôler la maladie systémique extracrânienne est le principal facteur limitant  .
+Tableau 2.
+Médiane de survie des patientes avec des métastases cérébrales selon les options thérapeutiques 
+TraitementMédiane de surviea ( mois ) Absence de traitement1 - 2 Corticostéroïdes2 - 3 Irradiation totale de l' encéphale3 - 6 Chirurgie + irradiation totale de l' encéphale10 - 16 Radiochirurgie + irradiation totale de l' encéphale6 - 15 Chimiothérapie8 - 12
+Full-size table
+a La survie dépend significativement de l' étendue de la maladie extracrânienne .
+View Within Article
+3. Quels sont les obstacles à l' efficacité de la chimiothérapie ?
+Le facteur limitant majeur à l' action des anticancéreux sur le système nerveux central est la pénétration à_travers la BHE .
+La BHE protège le système nerveux central de son environnement .
+Elle constitue une interface entre le sang et le parenchyme cérébral et assure l' homéostasie cérébrale .
+En réalité , cette barrière n' est pas totalement étanche car les astrocytes sont également impliqués dans des échanges très sélectifs .
+Plus qu' une simple barrière , la BHE constitue une interface d' échanges dynamiques entre le sang et le système nerveux : passage du glucose , des acides aminés , du fer , de l' insuline , etc. , tout en limitant le passage de certaines molécules en fonction de différents critères .
+La BHE possède toutes les propriétés d' une membrane cellulaire : c' est un milieu lipidique et la pénétration d' une molécule à_travers la BHE peut résulter d' une diffusion passive et / ou d' un transport actif .
+Le transport paracellulaire étant pratiquement inexistant , l' accès d' une substance au cerveau dépendra donc de ses propriétés physico-chimiques ou de son interaction avec un transporteur ou un récepteur au niveau des membranes de la cellule endothéliale  .
+Les obstacles à l' efficacité de la chimiothérapie sont nombreux , complexes et souvent liés entre eux .
+La variabilité de la perméabilité de la BHE et du débit sanguin local entraînent une importante variation des concentrations intratumorales et péritumorales des anticancéreux qui limite , à l' évidence , l' efficacité de la chimiothérapie .
+Aux problèmes de pénétration dans le SNC et de distribution intratumorale des anticancéreux , s' ajoute la chimiorésistance intrinsèque des cellules tumorales .
+La chimiosensibilité de la tumeur est par_ailleurs aussi importante que la capacité de la molécule à pénétrer une BHE normale .
+Il est très intéressant de souligner l' inefficacité apparente du trastuzumab pour le traitement ou la prévention des métastases cérébrales malgré une grande efficacité sur les métastases systémiques chez les patientes avec un cancer du sein métastatique surexprimant HER2 .
+En effet , 70 à 80 % des patientes développant des métastases cérébrales sous trastuzumab répondent en périphérie au traitement , c' est-à-dire que le SNC est le seul site de récidive .
+Le trastuzumab prolonge la survie sans protection cérébrale « site sanctuaire » .
+L' explication la plus probable est l' incapacité de cet anticorps de poids moléculaire élevé , 145 KDa , à traverser la BHE , même altérée .
+Il existe peu de données sur sa pharmacologie dans le liquide céphalorachidien ( LCR ) .
+Une étude a montré que chez une patiente ayant une méningite carcinomateuse , les concentrations du trastuzumab étaient 300 fois plus faibles dans le LCR que dans le sang  .
+Toutefois , la majoration de l' incidence des métastases cérébrales sous trastuzumab reste controversée et certains auteurs mettent également en évidence une corrélation entre le jeune âge ( femmes préménopausées ) , le statut négatif des récepteurs hormonaux , la surexpression de HER2 ou la présence de métastases viscérales et l' apparition de métastases cérébrales dans les cancers du sein métastatiques  .
+Un dépistage précoce des métastases cérébrales asymptomatiques chez les malades répondant au trastuzumab pourrait permettre l' instauration d' un traitement précoce afin_d' éviter l' apparition de symptômes neurologiques .
+4. Explications biologiques possibles de l' incidence élevée de métastases cérébrales chez les patientes sous trastuzumab
+L' hypothèse la plus probable de l' augmentation de la fréquence des métastases cérébrales isolées , chez les patientes avec un cancer du sein métastatique HER2+ traité par trastuzumab , est une conséquence de différents facteurs biologiques et cliniques .
+Premièrement , le trastuzumab modifie l' histoire naturelle des cancers du sein en assurant un meilleur contrôle en périphérie d' où une amélioration de la survie qui en découle .
+Une espérance de vie allongée pourrait induire la formation de métastases à partir des micrométastases cérébrales .
+Les patientes sont ainsi plus vulnérables à une progression tardive au niveau du SNC .
+Le meilleur contrôle de la maladie en périphérie peut contribuer à « démasquer » des métastases cérébrales qui seront isolées , absence de métastases extracrâniennes , et qui ne répondront pas au traitement .
+Deuxièmement , le SNC constitue « un site sanctuaire » où le trastuzumab ne pénètre pas facilement .
+De nombreux arguments sont en_faveur_de cette hypothèse .
+En effet , le trastuzumab est une molécule de haut poids moléculaire , 148 KDa , ce qui constitue un obstacle au passage de la BHE .
+Il y a très peu de données concernant la pharmacologie du trastuzumab dans le liquide céphalorachidien .
+Toutefois , une étude a montré chez une patiente avec une méningite carcinomateuse consécutive à un cancer du sein , des concentrations de trastuzumab dans le LCR 300 fois plus faibles que dans le sérum  .
+Une seule autre publication plus récente a rapporté chez une patiente avec un cancer du sein métastatique et une méningite carcinomateuse , un taux sérique de trastuzumab , 83 minutes après le début d' une perfusion de 30 minutes ( 2 mg / kg ) de 195 g / ml et un taux dans le LCR , 99 minutes après le début de cette même perfusion de 0,18 g / ml  .
+Ces résultats confirment ceux de l' équipe de Pestazolli .
+Après l' administration par voie systémique , la concentration intracérébrale est manifestement très faible .
+L' administration intrathécale du trastuzumab met en évidence une amélioration significative de la survie des rats comparativement aux rats témoins .
+L' efficacité de l' administration intrathécale du trastuzumab confirme l' incapacité du trastuzumab à traverser la BHE d'_une_part , et d' autre_part , confirme la surexpression de HER2 au niveau des métastases cérébrales .
+Bergman et ses collaborateurs ont rapporté le cas d' une méningite carcinomateuse de cancer du sein dans un modèle murin qui a répondu à l' administration intrathécale de l' Ac anti-HER2 , 4D5 , précurseur murin du trastuzumab  .
+5. Conclusion et perspectives
+Si l' influence du trastuzumab sur le développement de métastases cérébrales associées ou non à une progression systémique dans le cancer du sein n' est pas claire , il semble évident que l' incidence de métastases cérébrales isolées dans le cancer du sein métastatique traité par le trastuzumab est importante .
+L' explication la plus probable est la conséquence non_seulement des progrès dans le diagnostic des cancers du sein qui pourront au stade métastatique être traités par le trastuzumab et / ou par une chimiothérapie , du meilleur contrôle en systémique de la maladie , mais_aussi du manque d' efficacité des molécules actuellement utilisées dans le traitement des métastases cérébrales .
+Le SNC semble donc rester un « site sanctuaire » pour la majorité des agents systémiques actuellement disponibles .
+Il serait intéressant de définir une population à haut risque caractérisé par un profil génique particulier de phénotype plus agressif de développer des métastases cérébrales parmi les patientes avec un cancer du sein métastatique sous trastuzumab et / ou chimiothérapie .
+Parmi les facteurs de risque qui semblent fortement corrélés à l' incidence des métastases cérébrales : - l' âge ( femmes préménopausées ) ;
+- le statut négatif des récepteurs hormonaux ;
+- la surexpression de HER2 ;
+- la présence de métastases viscérales .
+Ces facteurs sont également des facteurs péjoratifs en termes de survie et de risque de métastases en systémique .
+Certains facteurs semblent être liés entre eux .
+En effet , les tumeurs HER2+ sont plus fréquemment négatives aux récepteurs hormonaux , et chez des femmes préménopausées .
+Un dépistage systématique des métastases cérébrales pourrait alors être proposé dans les cancers du sein métastatiques surexprimant HER2 .
+Ce diagnostic plus précoce permettrait d' éviter la survenue de symptômes neurologiques , d' améliorer l' intervalle libre , voire la survie globale de ces patientes .
+Dans ce contexte , la biologie a une place importante à tenir .
+La définition d' un profil génique prédictif , la recherche de marqueurs tumoraux ou la détection d' ADN circulant dans le LCR , pourraient contribuer de manière peu invasive à rechercher de manière systématique les métastases cérébrales et permettre ainsi une prise en charge précoce de la maladie évolutive 

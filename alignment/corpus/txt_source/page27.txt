@@ -1,0 +1,72 @@
+Le carcinosarcome ou tumeur mllérienne mixte ( TMM ) est une tumeur maligne de l' utérus rare et agressive .
+Son incidence est estimée entre 5 - 7 % des tumeurs malignes de l' utérus et 1 - 3 % de l' ensemble des cancers gynécologiques  .
+La TMM survient le_plus_souvent chez des femmes ménopausées , avec une moyenne d' âge de 65 ans .
+Cette pathologie développée à_partir_de l' endomètre concerne le_plus_souvent des femmes venant consulter pour des métrorragies postménopausiques  .
+Le pronostic est souvent médiocre , avec un taux de survie à cinq ans estimé entre 15 et 50 % .
+On distingue deux types histologiques de tumeurs TMM  .
+D' une part , celles dont la composante sarcomateuse se développe à_partir_d' éléments naturels de l' utérus , elles sont dites TMM homogènes ; d' autre_part , celles dont la composante sarcomateuse contient des éléments d' autres origines ( cartilage , muscle squelettique ) , celles-ci sont dites TMM hétérogènes et sont de plus mauvais pronostic .
+La prescription de tamoxifène en traitement adjuvant , chez la femme ménopausée après traitement chirurgical d' un cancer du sein , a montré la preuve de son efficacité en augmentant le taux de survie sans récidive et en diminuant le taux de récidive locale et d' atteinte du sein controlatéral .
+Cependant , une exposition prolongée au tamoxifène semble être responsable de la survenue de tumeur mllérienne mixte maligne de l' utérus .
+Le tout premier cas a été décrit en 1988  et depuis , seulement 65 cas sont répertoriés dans la littérature .
+2. Cas clinique
+Mme D.F. , âgée de 86 ans , cinquième geste cinquième pare , ménopausée depuis 33 ans vient consulter pour des métrorragies .
+Les antécédents familiaux sont sans particularité .
+Les antécédents personnels sont marqués par un cancer du sein découvert en 1997 , qui a été traité par mastectomie - curage axillaire , suivi de radiothérapie et hormonothérapie par tamoxifène ( 20 mg / j ) pendant cinq ans ( arrêté depuis quatre ans ) .
+Cliniquement l' état général était bon , l' abdomen était souple , l' utérus était augmenté de volume. Le reste de l' examen était normal .
+L' échographie pelvienne évoquait une masse tissulaire hétérogène centro-utérine de 7 cm de grand axe .
+Le frottis cervicovaginal était normal .
+Une hystéroscopie diagnostique et une biopsie de l' endomètre ont été réalisées confirmant une cavité déformée par une masse intra-utérine avec une minime composante intracavitaire mais sans débordement sur l' isthme .
+L' histologie a conclu à une tumeur mllérienne mixte maligne peu différenciée , de haut grade .
+L' IRM pelvienne évoquait une masse arrondie occupant toute la cavité utérine de 8 cm , envahissant le myomètre sur plus de la moitié ( stade IB ) .
+Il n' y avait pas adénopathie suspecte à l' IRM .
+Le dosage sérique des marqueurs tumoraux était normal et enfin , l' examen tomodensitométrique thoraco-abdominopelvien ne trouvait aucune localisation secondaire .
+Après concertation oncogynécologique , il a été décidé d' adopter le protocole suivant : chirurgie suivie de radiothérapie .
+La chimiothérapie n' a pas été retenue en raison de l' âge de la patiente .
+Une hystérectomie sans conservation des annexes par laparotomie , une lymphadénectomie pelvienne bilatérale , biopsie péritonéale et épiploique , ainsi_qu' une cytologie péritonéale ont été réalisées .
+L' histologie des pièces opératoires a conclu à un carcinosarcome ( tumeur mllérienne mixte homologue ) du corps utérin de forme polypoïde et occupant toute la cavité utérine ( 12 cm de grand axe ) .
+Il y avait une extension de la composante carcinomateuse jusqu' à l' isthme .
+La prolifération tumorale était composée d' un contingent épithélial ainsi_que d' un contingent mésenchymateux .
+Le myomètre était envahi sur plus de la moitié de son épaisseur .
+Les annexes étaient indemnes de malignité , il n' y avait pas de métastases ganglionnaires pelviennes sur les 12 ganglions prélevés .
+L' étude immunohistochimique montrait une forte expression des anticorps anti-AE1 / AE3 dans la composante épithéliale et des anticorps anti-CD10 dans la composante mésenchymateuse , l' antialpha muscle lisse était négatif dans la prolifération tumorale mésenchymateuse et l' anticorps anti-P53 était positif pour la composante épithéliale et mésenchymateuse .
+Les récepteurs hormonaux aux estrogènes et à la progestérone étaient négatifs .
+Une radiothérapie pelvienne externe a été ensuite réalisée après une concertation multidisciplinaire .
+Trois mois après la fin du traitement , l' examen clinique , le contrôle tomodensitométrique thoraco-abdominopelvien , ainsi_que le dosage des différents marqueurs tumoraux étaient normaux .
+3. Discussion
+Le tamoxifène est une molécule mise au point en 1966 au Royaume-Uni par Imperial Chemical Industries  .
+Dans un premier temps , cette molécule a été utilisée dans le cadre de la contraception , pour son effet antiestrogénique  .
+Paradoxalement , on lui a découvert dans un second temps un rôle dans le traitement de l' infertilité par anovulation .
+Enfin , le tamoxifène a acquis , depuis des années déjà , toute son importance dans le traitement adjuvant du cancer du sein  .
+Il est considéré comme le traitement adjuvant standard du cancer du sein à récepteurs hormonaux positifs chez la femme non ménopausée .
+En effet , il a été démontré que le traitement par tamoxifène pendant cinq ans , après traitement du cancer du sein , réduisait le risque de récidive annuelle du cancer et sa mortalité , respectivement de 41 et 34 %  .
+Toutefois , les données de la littérature ont démontré des effets paradoxaux antiestrogéniques et agonistes des estrogènes sur le tractus génital féminin  entraînant l' apparition de polypes de l' endomètre , d' hyperplasie et de cancers de l' endomètre .
+Il n' y a pas d' argument fort pour établir un lien entre le traitement par tamoxifène et l' apparition d' un carcinosarcome utérin , car le mécanisme de l' effet oncogène du tamoxifène n' est pas encore clairement établi  .
+Cependant , il est possible que la lésion débute au niveau du stroma endométrial .
+En raison de probables interactions stromaépithélium dans la modulation hormonale de la croissance des cellules endométriales , les mécanismes impliqués par les facteurs de croissance autocrine et paracrine , à partir des cellules stromales adjacentes , sont probablement associés dans la pathogénie du cancer endométrial  .
+Les composantes épithéliale et mésenchymateuse partagent une origine embryologique commune , ce qui peut expliquer que le tamoxifène puisse entraîner non_seulement une augmentation du risque de cancer de l' endomètre , mais_aussi un risque de transformation maligne des cellules stromales .
+Le premier cas de tumeur mllérienne mixte de l' utérus post-tamoxifène a été décrit par Hardell  en 1988 et depuis , 65 cas ont été rapportés dans la littérature  .
+L' âge des patientes est compris entre 40 et 90 ans avec un pic à 65 ans et un âge moyen de 66 ans .
+Toutes les patientes étaient ménopausées , elles ont reçu 20 mg en moyenne de tamoxifène par jour avec une dose cumulative variant de 7 à 100 g et la durée du traitement a varié de trois à 11 ans , avec une durée moyenne de neuf ans  .
+Dans notre cas , la patiente a développé un carcinosarcome utérin après cinq ans de traitement par tamoxifène , à la dose de 20 mg / j .
+Compte tenu du bénéfice qu' apporte le tamoxifène dans le traitement adjuvant du cancer du sein et de la rare incidence de sarcome utérin , l' implication du tamoxifène dans l' apparition de carcinosarcome utérin n' a pas clairement été établie .
+Les cas sont rares , ce qui est probablement d à la faible incidence des sarcomes utérins , qui représentent 3 - 7 % des cancers de l' utérus .
+MccLuggage_et_al.  ont observé dans leur étude prospective que le tamoxifène exerce un faible effet estrogénique sur le vagin et l' utérus de la femme ménopausée sans pathologie endométriale préexistante au traitement .
+Berlière_et_al.  estimaient , pour leur part , que l' évaluation endométriale préalable au traitement par tamoxifène permettait d' identifier des patientes présentant une pathologie endométriale .
+Actuellement , il existe une alternative au tamoxifène qui est représentée par l' utilisation des antiaromatases .
+En effet , le sein normal ou néoplasique exprime l' aromatase , qui est l' enzyme clé de la biosynthèse de l' estrogène et est retrouvée dans de nombreux tissus et non_seulement dans les organes reproductifs .
+Cette enzyme se retrouve également dans des tissus pathologiques , tels_que l' endométriose , les fibromes utérins ou encore le cancer du sein .
+La disponibilité récente d' antiaromatases de troisième génération a non_seulement renouvelé l' intérêt du traitement hormonal chez les patientes avec cancer du sein , mais de plus , ces derniers se sont montrés efficaces chez la femme ménopausée porteuse de cancer du sein avancé et résistant au tamoxifène .
+En tant qu' antiaromatase , l' exémastane inhibe la production d' estrogènes en empêchant la prolifération de cellules cancéreuses .
+Ce traitement a prouvé son efficacité en ce qui concerne les risques de récidive du cancer du sein , tout en réduisant les effets secondaires .
+Une étude internationale sur l' exémestane ( Intergroup Exemestane Study ) a notamment été menée récemment par l' intermédiaire du centre de recherches sur le cancer de l' hôpital Hammersmith de Londres  .
+Cette étude a porté sur un essai randomisé chez 4724 patientes ménopausées opérées d' un cancer du sein unilatéral , invasif et à récepteurs d' estrogènes positifs ou indéterminés .
+Les auteurs de cet essai ont conclu que le passage à l' exémestane , après deux à trois ans de tamoxifène , améliore le taux de non récidive de cancer du sein , ce qui se traduit par une réduction modeste de la mortalité avec 222 décès pour des patientes traitées par exémestane contre 261 patientes qui ont continué avec le tamoxifène .
+De ce fait , il est tout_à_fait justifié d' inclure une échographie pelvienne dans le bilan préthérapeutique avant prescription de tamoxifène ou d' une antiaromatase .
+En cas d' anomalie échographique utérine , une hystéroscopie avec biopsie d' endomètre est nécessaire et si besoin complétée par une IRM pelvienne .
+Il est de plus indispensable d' informer la patiente du risque de développer un carcinosarcome utérin .
+Il n' existe pas de consensus sur la prise en charge du carcinosarcome  , en ce qui concerne la chirurgie de réduction ( debulking ) , la radiothérapie et le choix des agents de chimiothérapie .
+Ce vide consensuel est d à la présence d' éléments malins carcinomateux et sarcomateux dans la même tumeur et à la rareté de celle-ci .
+Nous proposons une chirurgie complète de résection de la tumeur suivie d' une radiothérapie et d' une chimiothérapie à base de sels de platine .
+La radiothérapie peut réduire les risques de récurrence locale , mais n' a pas un impact majeur sur la survie .
+4. Conclusion
+D' autres études sont nécessaires pour évaluer une stratégie thérapeutique intégrant la chirurgie , la radiothérapie , la chimiothérapie , ainsi_que la thérapie moléculaire  , afin_d' améliorer le pronostic de ces patientes , qui actuellement demeure sombre avec un taux de récurrence élevé

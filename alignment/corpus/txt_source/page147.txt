@@ -1,0 +1,90 @@
+Huit études rétrospectives ont étudié la relation entre récidives locales et délai entre chirurgie et radiothérapie , en choisissant une date limite de huit semaines entre la chirurgie et l' initiation de l' irradiation .
+Les résultats de ces huit études regroupant un total de 6303 patientes ont été récemment présentés de manière globale  .
+La fréquence de récidive locale à cinq ans était de 5,8 % quand l' irradiation commençait dans les huit semaines et de 9,1 % quand l' irradiation débutait au-delà_de huit semaines .
+Cette différence était significative .
+Une étude rétrospective du Joint Center for Radiation Therapy ( JCRT ) sur 653 patientes choisissait quatre semaines comme date limite et ne mettait pas en évidence de différence de fréquence de récidive locale de part et d' autre de cette limite  .
+Enfin , une étude rétrospective de l' université Mc Gill de Montréal sur 486 patientes choisissait un délai limite de 80 jours et démontrait une multiplication du taux de récidive locale par 5 au-delà_de cette limite  .
+2. Délai entre chirurgie et chimiothérapie
+Selon le modèle de Goldie et Coldman , le nombre de cellules tumorales résistantes augmente avec le temps et le délai avant mise en route du traitement [ 13 and 14 ] .
+Des modèles animaux ont de plus montré une augmentation de l' activité mitotique des cellules tumorales résiduelles après exérèse chirurgicale de la tumeur mammaire  .
+Ces données précliniques étaient de solides arguments pour réduire le délai entre chirurgie et chimiothérapie .
+Les premières études cliniques étudiant cette hypothèse ont montré un bénéfice supérieur de la chimiothérapie si l' intervalle entre chirurgie et chimiothérapie était court .
+Brooks et al. ont montré dans une étude randomisée un taux de survie supérieur chez des patientes qui avaient une atteinte ganglionnaire axillaire et avaient débuté leur chimiothérapie adjuvante moins de quatre semaines après la chirurgie  .
+Pronzato et al. ont conclu après avoir étudié rétrospectivement les dossiers de 229 patientes qu' un délai inférieur à 35 jours entre la chirurgie et la première cure de chimiothérapie était un facteur pronostique de survie favorable indépendant chez les patientes avec une atteinte ganglionnaire axillaire  .
+L' International Breast Cancer Study Group ( IBCSG ) a aussi étudié l' importance du délai entre la chirurgie et la première cure de chimiothérapie chez 1788 patientes non ménopausées qui avaient une atteinte ganglionnaire axillaire et ont été incluses dans leurs études adjuvantes I , II et VI  .
+Dans le sous-groupe de patientes atteintes de tumeur n' exprimant pas de récepteurs hormonaux , le taux de survie sans récidive à dix ans était de 60 % quand la chimiothérapie débutait dans les 20 jours suivant la chirurgie ( 84 patientes ) , alors_que ce taux de survie sans récidive n' était que de 34 % pour un délai supérieur ( 142 patientes ) ( p = 0,0003 ) .
+Ce résultat n' a pas été confirmé récemment par l' étude du Royal Marsden Hospital sur 1161 patientes  .
+Dans cette étude anglaise , il n' a pas été mis en évidence de bénéfice pour les patientes commençant leur chimiothérapie moins de 21 jours après la chirurgie .
+Ceci était vrai pour tous les sous-groupes , femmes , ménopausées ou non , avec ou sans atteinte ganglionnaire .
+L' intervalle de temps entre chirurgie et chimiothérapie a été encore réduit en prescrivant la première cure dans les suites immédiates ou lors du geste chirurgical .
+On parle alors de chimiothérapie péri-opératoire .
+Une méta-analyse évaluant l' intérêt de cette stratégie à_partir_de cinq études randomisées et 6093 patientes a été publiée en 1997  .
+Les patientes traitées avec chimiothérapie péri-opératoire avaient un allongement de la survie sans récidive sans amélioration du taux de survie globale par rapport au groupe traité avec une chimiothérapie traditionnelle .
+Deux études portant sur la chimiothérapie péri-opératoire ont été publiées récemment avec un recul supérieur à dix ans .
+L' étude 10856 de l' European Organization for Research and Treatment of Cancer ( EORTC ) sur 2795 patientes a montré un bénéfice de la chimiothérapie péri-opératoire uniquement pour le sous-groupe ne recevant pas de traitement adjuvant additionnel  .
+L' étude V de l' IBCSG s' intéressait à des patientes sans atteinte ganglionnaire et comparait une cure de chimiothérapie péri-opératoire et l' absence de chimiothérapie chez 1275 patientes  .
+Seule les patientes ménopausées atteintes de tumeur sans récepteurs hormonaux ont tiré un avantage de la chimiothérapie péri-opératoire .
+3. Séquence entre chimiothérapie et radiothérapie
+Les résultats de 11 publications étudiant la séquence entre chimiothérapie et irradiation et regroupant 1927 patientes ont été récemment présentés sous forme d' une compilation  .
+Il a été constaté une augmentation significative de la fréquence des récidives locales quand la radiothérapie était reportée après la chimiothérapie .
+La fréquence de récidive locale à cinq ans était de 6 % quand la radiothérapie débutait après la chirurgie , 16 % quand la chimiothérapie suivait la chirurgie .
+Une seule de ces études était randomisée .
+Le JCRT comparait après tumorectomie et curage axillaire chez 244 patientes deux stratégies adjuvantes différentes : quatre cures de chimiothérapie suivies de radiothérapie ou la séquence inverse avec l' irradiation suivie de quatre cures de chimiothérapie  .
+La grande majorité de ces patientes ( 85 % ) avait une atteinte ganglionnaire axillaire .
+Avec un recul de cinq ans , le groupe qui avait reçu initialement la chimiothérapie avait moins d' évolutions métastatiques ( 25 contre 36 % , p = 0,05 ) .
+Ce groupe avait au_contraire plus de rechutes locales ( 14 contre 5 % , p = 0,07 ) .
+En étudiant par sous-groupes , le bénéfice apporté par la chimiothérapie première sur la survie sans métastase ne persistait que pour les patientes qui avaient au moins quatre ganglions axillaires envahis .
+Enfin , débuter l' irradiation après la chimiothérapie augmentait le risque de récidive locale uniquement chez les patientes dont l' exérèse chirurgicale n' était pas satisfaisante .
+L' IBCSG a utilisé les résultats de ses études VI et VII pour répondre à cette question  .
+L' étude VI a comparé chez 1554 patientes non ou périménopausées qui avaient une atteinte ganglionnaire axillaire deux modalités différentes de traitement adjuvant : trois cures de chimiothérapie ( protocole CMF , cyclophosphamide , méthotrexate , 5-fluoro-uracile ) suivies de radiothérapie ou six cures de chimiothérapie suivies de radiothérapie .
+L' étude VII a inclus 1266 patientes ménopausées avec atteinte ganglionnaire axillaire .
+Toutes ces patientes avaient reçu une irradiation et une hormonothérapie adjuvante par tamoxifène .
+Un bras de la randomisation comportait en plus trois cures de chimiothérapie adjuvante avant la radiothérapie .
+Avec un recul de quatre ans , la fréquence des rechutes locales était identique , que la radiothérapie soit programmée après la chirurgie , ou retardée après trois ou six cures de chimiothérapie .
+Le traitement adjuvant associant de manière concomitante la chimiothérapie et la radiothérapie a aussi été étudié .
+Le service de radiothérapie d' Utrecht a étudié de manière prospective la toxicité secondaire à l' irradiation chez 154 patientes recevant leur chimiothérapie adjuvante de manière concomitante ou séquentielle  .
+La toxicité cutanéomuqueuse était significativement accentuée chez les patientes recevant de manière concomitante la chimiothérapie et la radiothérapie .
+Cette tendance était encore_plus marquée quand la chimiothérapie comprenait une anthracycline .
+Une diminution de la posologie de chimiothérapie en_dessous de 85 % de la dose théorique a été nécessaire chez 11 % des patientes recevant l' irradiation concomitante à la chimiothérapie .
+Six cent cinquante patientes qui avaient une atteinte ganglionnaire axillaire ont été incluses dans une étude randomisée menée par le centre René-Huguenin , comparant un schéma concomitant avec une chimiothérapie à base de novantrone à une stratégie séquentielle traditionnelle débutant par une chimiothérapie à base d' épirubicine suivie d' irradiation  .
+Avec un recul médian de cinq ans , il n' existait pas de différence entre les deux bras , que ce soit pour le taux de survie sans récidive ( 83 contre 81 % pour respectivement le schéma concomitant et le schéma séquentiel ) ou celui de survie globale ( 90 contre 87 % pour le schéma concomitant et le schéma séquentiel ) .
+4. Séquence entre hormonothérapie et radiothérapie
+Une interaction entre tamoxifène et irradiation a été mise en évidence in_vitro avec une diminution de la radiosensibilité des lignées tumorales de cancer du sein quand elles étaient incubées avec du tamoxifène  .
+Il serait donc logique de prescrire irradiation et hormonothérapie de manière séquentielle .
+Deux études se sont concentrées sur l' éventuelle accentuation de la fibrose secondaire à l' irradiation par le tamoxifène .
+La première étude a inclus 234 patientes et conclu à un résultat cosmétique moins satisfaisant après traitement conservateur si l' hormonothérapie était concomitante à l' irradiation  .
+Néanmoins , cette différence n' atteignait pas le seuil de signification ( p = 0,06 ) .
+La seconde étude a mis en évidence de manière rétrospective chez 196 patientes une fréquence plus élevée de fibrose pulmonaire quand irradiation et tamoxifène étaient associés de manière concomitante  .
+L' irradiation de la paroi thoracique a été effectuée par électrons et la fibrose pulmonaire a été évaluée par radiographie standard du thorax .
+Il faut remarquer que cette accentuation de la fibrose pulmonaire ne semblait pas entraîner parallèlement une majoration des manifestations symptomatiques .
+Cette accentuation de la fibrose radio-induite serait secondaire à l' augmentation de la sécrétion de TGF- induite par le tamoxifène .
+Deux études présentées au congrès de l' ASCO ( American Society of Clinical Oncology ) de 2003 ont évaluées de manière rétrospective la survie des patientes traitées par l' association concomitante ou séquentielle de radiothérapie et d' hormonothérapie [ 5 and 20 ] .
+Ces études , qui ont inclus 268 et 309 patientes avec un recul respectif de 8,5 et dix ans , n' ont pas mis en évidence de rôle péjoratif sur la survie de l' adjonction concomitante de tamoxifène à l' irradiation .
+5. Séquence entre chimiothérapie et hormonothérapie
+Les études in_vitro ont montré que le tamoxifène diminuait la cytotoxicité de la chimiothérapie en bloquant les cellules tumorales en phase G1 du cycle cellulaire  .
+En situation métastatique , une méta-analyse sur 3606 patientes incluses dans 28 études randomisées a comparé la chimiothérapie exclusive à l' association chimiothérapie hormonothérapie  .
+Une augmentation du taux de réponse a été constatée en_faveur_de l' association chimiothérapie hormonothérapie ( p 0,01 ) , mais sans bénéfice sur la survie globale .
+Les résultats de l' étude randomisée E3186 de l' Eastern Cooperative Oncology Group ( ECOG ) ont récemment été publiés  .
+Deux cent trente et une patientes atteintes de tumeur hormonosensible ont reçu en première ligne métastatique une chimiothérapie selon le protocole FAC ( 5-fluoro-uracile , adriamycine , cyclophosphamide ) ou par la même chimiothérapie associée à du tamoxifène .
+Il n' a pas été constaté de différence de taux de réponse et ni de survie .
+Trois études randomisées ont étudié ce problème en phase adjuvante .
+Le NCI ( National Cancer Institute ) canadien a comparé chez 705 patientes ménopausées atteintes de tumeur hormonosensible ayant colonisé les ganglions axillaires un traitement adjuvant par tamoxifène ou l' association concomitante de tamoxifène et de chimiothérapie par CMF  .
+Lors du traitement adjuvant , il a été constaté une augmentation significative de la fréquence des accidents thrombo-emboliques chez les patientes traitées de manière concomitante par l' association de chimiothérapie et d' hormonothérapie .
+Cette fréquence était de 2,6 % pour le bras hormonothérapie et de 13,6 % pour le bras hormonothérapie et chimiothérapie ( p 0,0001 ) .
+L' étude 8814 du Southwestern Oncology Group ( SWOG 8814 / INT 0100 ) a inclus 1477 patientes ménopausées atteintes de tumeur hormonosensible et de métastases ganglionnaires axillaires  .
+Il y avait trois bras différents : tamoxifène seul pendant cinq ans , chimiothérapie suivie de tamoxifène et association concomitante de chimiothérapie et de tamoxifène .
+Les deux bras comportant une chimiothérapie et une hormonothérapie étaient supérieurs au bras ne comportant que l' hormonothérapie .
+En comparant entre eux les deux bras associant chimiothérapie et hormonothérapie , il existait une amélioration significative du taux de survie sans récidive pour le traitement séquentiel par rapport au traitement concomitant avec un recul de huit ans ( respectivement 67 contre 62 % , p = 0,05 ) .
+Enfin , l' étude 9401 du Spanish Group on Breast Cancer Research ( GEICAM ) , présentée au congrès 2002 de l' ASCO , a inclus 485 patientes ménopausées qui avaient une atteinte ganglionnaire axillaire  .
+Toutes les patientes ont reçu quatre cures de chimiothérapie avec épirubicine et cyclophosphamide , associées au tamoxifène de manière concomitante ou séquentielle .
+Avec un recul de cinq ans , il y avait un bénéfice non significatif en faveur du schéma séquentiel en termes de survie sans récidive .
+6. Conclusion
+Il paraît raisonnable à la vue de ces résultats d' organiser le traitement adjuvant de manière séquentielle avec successivement la chimiothérapie , puis l' irradiation , et enfin l' hormonothérapie , si elle est indiquée .
+Un délai court entre la chirurgie et la première cure de chimiothérapie ( 3 semaines ) est peut-être important pour les patientes atteintes de tumeur agressive ( absence de récepteurs hormonaux , importante atteinte ganglionnaire axillaire ) .
+La radiothérapie repoussée après six cures de chimiothérapie adjuvante débute environ 21 semaines après la chirurgie .
+Ceci n' est probablement pas délétère si les marges d' exérèse chirurgicale sont satisfaisantes .
+En revanche , la chimiothérapie adjuvante , dans les essais récents , tend à s' allonger avec introduction de manière séquentielle de taxanes et de trastuzumab .
+Dans ces essais , le temps écoulé avant le début de la radiothérapie peut être supérieur à six mois et nous manquons d' éléments pour juger de l' effet de ce retard sur le contrôle local .
+L' association concomitante de l' hormonothérapie et de la chimiothérapie diminue probablement l' efficacité du traitement adjuvant par rapport au schéma séquentiel .
+Enfin , l' association concomitante du tamoxifène avec l' irradiation accentue peut-être la fibrose radio-induite mais ne parait pas être délétère pour la survie .
+La même question du schéma optimal d' administration va maintenant se poser avec les anti-aromatases et leur future prescription en situation adjuvante

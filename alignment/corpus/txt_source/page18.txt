@@ -1,0 +1,114 @@
+En avril 2001 , l' équipe du William Beaumont Hospital publiait dans le Journal of Clinical Oncology les résultats d' un essai de phase II avec analyse en série appariée , présentant l' irradiation partielle et accélérée du sein comme une alternative possible à l' irradiation de l' ensemble de la glande mammaire  .
+L' irradiation partielle et accélérée du sein peut être définie comme une irradiation hypofractionnée ( augmentation de la dose par fraction ) et accélérée ( diminution de l' étalement ) d' un volume de glande mammaire circonscrit au lit tumoral , avec une marge de sécurité variable selon les équipes .
+Les avantages de l' irradiation partielle et accélérée du sein par_rapport_à une irradiation totale du sein peuvent être listés comme suit : - la diminution de la durée totale de traitement ;
+- le retour à la vie active ( professionnelle ) plus rapide ;
+- la diminution du nombre de transport ;
+- la diminution du cot du traitement ;
+- la réduction du délai entre chirurgie et traitement adjuvant systémique si celui-ci est indiqué ;
+- la probable amélioration de la qualité de vie  .
+Si le rationnel de l' irradiation partielle et accélérée du sein paraît nourri d' un certain bon sens , il n' en reste pas moins accepté avec une relative réserve de la part d' un bon nombre d' oncologues ( principalement de l' Hexagone ) .
+Ces réticences sont en fait tout_à_fait justifiées si l' on considère qu' à ce jour , personne ne sait réellement si l' irradiation partielle et accélérée du sein assure le même taux de contrôle local qu' une irradiation totale du sein .
+Le rationnel de l' irradiation partielle et accélérée du sein est basé sur le fait qu' environ 80 % des récidives locales surviennent dans ou à proximité du lit tumoral initial avec , de ce fait , une cohérence à intensifier le traitement là où le risque de rechute est le plus élevé en faisant appel à une technique d' irradiation moins contraignante  .
+Or , jusqu' à_présent , la notion selon laquelle la majorité des récidives survenait dans le lit tumoral a été retenue sur les résultats d' études cliniques dans lesquelles le sein était irradié en totalité et la question se pose donc de savoir si , en cas d' irradiation partielle et accélérée du sein , le taux de récidive locale à distance du lit tumoral ne serait pas révisé à la hausse ?
+Cette notion a déjà été mise en_avant par l' équipe du Fox Chase Cancer Center alors_que Freedman et al. publiaient les résultats d' une étude comparative sur les récidives locales dans le sein traité par_rapport_à celles survenues dans le sein controlatéral  .
+Les auteurs ont constaté qu' après 15 ans de suivi , le taux de_nouveau cancer dans le sein controlatéral était de 13 % , soit le double du taux de second cancer ( 6 % ) , survenant à distance du lit tumoral initial dans sein ayant été traité de façon conservatrice ( tumorectomie et irradiation totale du sein ) .
+Finalement , les auteurs ont conclu que l' irradiation totale du sein pouvait « protéger » le reste de la glande de l' apparition d' un second cancer .
+2. Évolutions techniques
+Alors que la curiethérapie interstitielle de bas débit de dose a été historiquement la première technique d' irradiation partielle et accélérée du sein , différents systèmes ont pu se développer  .
+La curiethérapie interstitielle se fait à_présent le_plus_souvent en utilisant un projecteur de source de haut débit de dose , qui peut aussi être utilisé avec un système à ballonnet ( à un seul canal central type Mammosite ou plusieurs canaux périphériques ) .
+L' irradiation intraopératoire peut se faire soit avec un faisceau d' électrons ( Eliot ) , soit de photons X de faible énergie ( targeted intraoperative radiotherapy , Targit ) .
+L' irradiation externe conformationnelle souvent couplée à une modulation de l' intensité occupe une place de_plus_en_plus importante .
+Y-a -t il une meilleure technique d' irradiation partielle et accélérée du sein ?
+La réponse est probablement non , sachant que la meilleure technique est ( comme le_plus_souvent ) celle que l' on maîtrise le mieux .
+Cependant , quelques remarques peuvent être faites selon la technique utilisée .
+L' irradiation intraopératoire par photons X de 50 kV ne traite qu' une faible épaisseur du tissu mammaire du fait d' un fort gradient de dose .
+En effet , la dose résiduelle à 5 mm est diminuée d' environ 50 % par_rapport_à la dose prescrite .
+Le Mammosite a bénéficié d' un fort engouement technique  .
+En effet , sa facilité d' utilisation ( courbe d' apprentissage courte ) a été un puissant moteur contribuant à son large essor .
+Cependant , à l' heure où la radiothérapie externe bénéficie d' avancées technologiques majeures avec la radiothérapie conformationnelle tridimensionnelle associée à la modulation d' intensité , et plus récemment l' utilisation de techniques de haute précision guidées par l' image comme avec le CyberKnife , dont le principe est basé sur la multiplicité des faisceaux incidents dans le but d' obtenir une distribution de dose la plus fine possible , comment peut on aujourd'hui utiliser une technique d' irradiation n' utilisant qu' un seul faisceau ( un seul tube central ) dont on sait que les possibilités d' optimisation seront réduites ?
+Par conséquent , avec le Mammosite , il est difficile d' éviter l' apparition de points chauds cutanés et ses réactions trophiques secondaires  .
+L' évolution du Mammosite s' est faite vers l' apparition de nouveaux produits utilisant cette fois un système à plusieurs cathéters .
+Un autre point critique du Mammosite est représenté par le fait que , selon la topographie de la tumeur initiale , il n' est pas toujours possible de gonfler le ballonnet de façon adéquate tout en respectant un espace de « protection cutanée » de 7 mm .
+C' est souvent le cas des lésions mammaires siégeant dans la partie haute des quadrants supérieurs , dans la partie interne présternale ou encore dans le sillon sous-mammaire ou le prolongement axillaire .
+La curiethérapie interstitielle à haut débit de dose est opérateur-dépendant et nécessite une courbe d' apprentissage parfois longue tant au niveau de la technique d' implantation des tubes plastiques vecteurs que de l' utilisation des logiciels d' optimisation de la distribution de la dose .
+C' est aussi une technique qui est consommatrice de temps avec une organisation parfois complexe à la charge du radiothérapeute , surtout si l' on admet que la meilleure implantation des tubes vecteurs se fait pendant l' opération , en compagnie du chirurgien , pour une meilleure détermination du volume cible .
+Néanmoins , cette technique permet de s' adapter à toutes les gestes chirurgicaux ( remodelage du lit tumoral ou cavité de tumorectomie laissée en place ) , elle permet de plus , du fait de la multiplicité des cathéters mis en place , d' optimiser la distribution de la dose respectant au mieux le tissu cutané .
+La radiothérapie externe prend une place de_plus_en_plus importante .
+Cette technique est très proche d' une irradiation du sein conventionnelle ( tout_au_moins en ce qui concerne son organisation ) .
+Elle se conjugue le_plus_souvent sur un mode conformationnel tridmensionnel parfois associée à la modulation d' intensité .
+Cette approche peut se heurter à un problème de saturation de nos accélérateurs si l' on considère , d'_une_part , un traitement le_plus_souvent bifractionné , et d' autre_part , un nombre potentiellement important de patiente pouvant bénéficier de cette prise en charge .
+L' une des critiques de l' irradiation partielle et accélérée du sein intraopératoire ( électronthérapie Eliot , photons X de faible énergie Targit ) est que l' on irradie la patiente alors_que le résultat histologique définitif de la pièce opératoire n' est pas connu ( statut des marges de résections , l' existence d' emboles vasculaires , la possibilité d' une composant intra canalaire extensive ) .
+La technique Eliot semble néanmoins être l' une des plus intéressantes .
+En effet , le ganglion sentinel est disséqué sous anesthésie locale huit jours avant la tumorectomie , puis au_cours_de la même procédure , le traitement principal ( tumorectomie ) mais également le traitement adjuvant ( irradiation ) sont réalisés sans risque cutané puisque la peau est réclinée en_dehors du volume irradié .
+Le Tableau 1 résume les différentes techniques d' irradiation partielle et accélérée du sein utilisés dans les essais randomisés en cours comparant irradiation partielle et accélérée du sein et irradiation totale du sein , ainsi_que les schémas d' irradiation relatif à la dose totale et au fractionnement .
+Tableau 1.
+Techniques d' irradiation partielle et accélérée du sein utilisées dans les essais randomisés comparant irradiation partielle et accélérée du sein et irradiation totale du sein ainsi_que les schémas d' irradiation relatifs à la dose totale et au fractionnement
+OrigineTechniquesDose / fraction ( Gy ) Dose totale ( Gy ) Eliot  MilanIO électrons2121 Targit  LondresIO photons 502020 Gec-Estro  Union européenneCurie HDD BDD3,434 HDD , 50 BDP NSABP / RTOG  États-UnisRC3D Curie MMSRT 3,85 ; Curie 3,4RT 38,5 , Curie 34 Import  Royaume-UniRC3D MI Rapid  CanadaRC3D3,8538,5
+Full-size table
+IO : peropératoire ; RT : radiothérapie ; RC3D : radiothérapie conformationnelle tridimensionnelle ; MI : modulation d' intensité ; MMS : Mammosite ; Curie : curiethérapie interstitielle ; HDD : haut débit de dose ; BDP : bas débit pulsé ; Targit : targeted intraoperative radiotherapy ; Gec-Estro : groupe européen de curiethérapie - European Group for Therapeutic Radiology and Oncology ; NASABP : National Surgical Adjuvant Breast and Bowel Project ; RTOG : Radiation Therapy Oncology Group ; Rapid : Randomized Trial of Accelerated Partial Breast Irradiation .
+View Within Article
+3. Indications
+Si l' on se réfère aux essais randomisés de phase III actuellement ouverts , on note que les indications de l' irradiation partielle et accélérée du sein diffèrent sur des points importants .
+Alors qu' il y a un relatif consensus en ce qui concerne la taille tumorale ( 25 à 30 mm ) , le grade histologique et les limites de résection de la composante invasive ( négatives ou 2 mm de marge saine ) , l' âge est un critère beaucoup plus variable .
+En effet , l' âge est connu pour être un facteur indépendant de risque de rechute locale lorsqu' il est inférieur à 40 ans  .
+C' est probablement la raison pour laquelle une majorité des équipes ont pris comme limite d' âge minimal « 40 ans » .
+Cependant , si 40 ans est le cut off à partir duquel la différence en termes de taux de rechute locale parait significative , cela veut il dire pour autant qu' une femme de 41 ans sort de ce risque ?
+Le National Surgical Adjuvant Breast and Bowel Project ( NSABP ) est le groupe qui prend « le plus de risque » en acceptant d' inclure des patientes à_partir_de 18 ans .
+Les groupes italien et anglais sont plus prudents en proposant d' inclure des patientes proches de 50 ans , soit globalement juste avant la ménopause , voire après .
+Tableau 2.
+Caractéristiques des patientes et critères d' inclusion des essais randomisés de phase III comparant irradiation partielle et accélérée du sein et irradiation totale du sein
+# ptesDate activationgeT. tum. ( mm ) # N+Grade histo.Lim. résec. ( mm ) Eliot  120011 / 2000 48 250I - III 10 Targit  223203 / 2000 40 300I - IIINégative Gec-Estro  117005 / 2004 40300 ou 1 metI - III 2 inv. , 5 i.s .
+NSABP / RTOG  300003 / 2005 18 30Jusqu' à 3I - IIINégative Import  193509 / 2006 50 200I et II 2 Rapid  212802 / 2006 40 300I - IIINégative
+Full-size table
+# ptes : nombre total de patientes à inclure ; T. tum. : taille tumorale ; # N+ : nombre de patientes présentant un envahissement ganglionnaire ; Grade histo. : grade histologique ; Lim. résec. : limites de résection ; met : micrométastase ; inv. : invasif ; i.s. : in_situ .
+Targit : targeted intraoperative radiotherapy ; Gec-Estro : groupe européen de curiethérapie - European Group for Therapeutic Radiology and Oncology ; NASABP : National Surgical Adjuvant Breast and Bowel Project ; RTOG : Radiation Therapy Oncology Group ; RAPID : Randomized Trial of Accelerated Partial Breast Irradiation .
+View Within Article
+L' autre élément prêtant à discussion est l' inclusion des patientes atteints de tumeur ayant colonisé les ganglions axillaires .
+L' intérêt de l' irradiation partielle et accélérée du sein est de réduire le temps de traitement du fait de l' utilisation d' une technique d' irradiation focalisée au niveau du lit tumoral .
+Cette technique ne peut en aucun cas être appliquée pour l' irradiation des aires ganglionnaires ( mammaire interne et sus-claviculaire ) et il serait hors_de propos de pouvoir considérer , pour des patientes dont l' aisselle est atteinte , une irradiation partielle et accélérée du sein associée à une irradiation externe conventionnelle des aires ganglionnaires .
+Cette question est sous-tendue par l' intérêt de l' irradiation de la chaîne mammaire interne et du creux sus-claviculaire chez les patientes dont les ganglions axillaires sont atteints dont une réponse pourra être fournie par la publication des résultats de l' étude de l' European Organization for Research and Treatment of Cancer ( EORTC ) 22922 / 10925  .
+C' est ainsi_qu' actuellement , une Américaine de 30 ans , atteinte d' un un carcinome canalaire invasif de 22 mm de grade III avec deux ganglions axillaires sur dix envahis , pourrait être incluse dans l' essai du NASB PB-39 / RTOG 0413 ( Radiation Therapy Oncology Group ) et recevoir une irradiation partielle et accélérée du sein sans irradiation des aires ganglionnaires .
+En France , les équipes du centre Oscar-Lambret de Lille , celle du centre Val d' Aurelle à Montpellier et celles qui participent au protocole Gerico-03 ont choisi comme population cible , les patientes ménopausées ( supérieur à 65 ans pour Lille et Montpellier et 70 ans pour le protocole Gerico-03 ) , ainsi_que les patientes n' ayant pas d' envahissement ganglionnaire .
+C' est probablement dans cette population des patientes âgées , voire très âgées , qui de plus représente un groupe de malades pour lequel le pic d' incidence de cancer du sein est maximal , que l' irradiation partielle et accélérée du sein trouve une place de choix  .
+Une indication d' irradiation partielle et accélérée du sein restant encore marginale , est représentée par les seconds traitements conservateurs en cas de petite récidive locale pour des patientes refusant la mastectomie de rattrapage  .
+Dans ce cadre , il semble que le dogme de la mastectomie comme seul traitement possible de la rechute locale puisse être remis en question .
+Accepter cette alternative thérapeutique , doit il nécessairement passer par un essai randomisé comparant mastectomie de principe à second traitement conservateur avec irradiation partielle et accélérée du sein ?
+Cet essai de phase III serait un essai d' équivalence en terme de seconde rechute locale donc nécessiterait environ 1500 patientes par bras pour un événement ( la rechute locale ) qui reste rare .
+Ajoutons à cela que , si un recul minimum de cinq à huit ans est nécessaire pour pouvoir tirer des conclusions raisonnables , les résultats de cette étude pourraient ne pas être disponibles avant 30 ans
+4. Discussion
+L' arrivée de l' irradiation partielle et accélérée du sein dans le paysage thérapeutique du cancer du sein vient bouleverser les habitudes derrière lesquelles nous nous sommes installés , non pas par_hasard mais bien grâce_à de nombreuses , solides et prestigieuses études  .
+En 1977 , Umberto Veronesi a publié dans le Bulletin du Cancer , le rationnel pour essai randomisé comparant mastectomie contre tumorectomie suivie d' irradiation totale du sein  .
+Était il alors possible de bousculer une attitude thérapeutique reconnue pour son efficacité ?
+Oui , s' il était possible de prouver que les mêmes résultats carcinologiques pouvaient être obtenus avec un traitement conservateur tout en diminuant le caractère mutilant de la sanction chirurgicale jusqu' alors considérée comme traitement de référence .
+Cela a été chose faite quatre ans plus_tard lorsque l' équipe italienne a publié les résultats de cet essai randomisé dans le New England Journal of Medecine  .
+Un parcours similaire a été mené par Fischer_et_al.  and  .
+Ainsi , dès le milieu des années 1980 , sur la base de ces résultats , de nombreuses équipes ont fait bénéficier des milliers de patientes de ce progrès thérapeutique , sans attendre un recul plus long pourtant bien nécessaire dans le cancer du sein .
+Finalement , les résultats des essais de Fisher et al. et Veronesi et al. , avec un recul de 25 ans , ont confirmé que l' orientation prise dans les années 1980 était la bonne  .
+Pour autant , les indications de mastectomie ont elles disparu de l' arsenal thérapeutique du cancer du sein ?
+Le traitement conservateur aurait il relégué au rang des antiquités la mastectomie ?
+Non , l' association d' une tumorectomie à une irradiation postopératoire est proposée à un sous-groupe de patiente qui peuvent en tirer bénéfice sans mettre en péril les chances de contrôle local de la maladie .
+De même , la prise en charge de certaines tumeurs du sein ( taille tumorale initiale , carcinome canalaire in_situ extensif , carcinome lobulaire multicentrique ) par mastectomie reste un standard non négociable .
+Au total , le traitement conservateur n' a pas remplacé la mastectomie mais et venu compléter les possibilités de prise en charge thérapeutique des cancers du sein .
+Dès le début des années 2000 , on assiste à une montée en puissance d' une nouvelle approche du traitement du cancer du sein avec l' irradiation partielle et accélérée du sein .
+Actuellement , un certain nombre d' essai de phase II sont publiés avec des résultats en termes de taux de rechute locale à cinq ans de l' ordre de 3 % ( 0 - 6 )  .
+L' équipe de Budapest a récemment publié les résultats du premier essai randomisé comparant irradiation partielle et accélérée du sein et irradiation totale du sein , incluant des patientes traitées par une technique de curiethérapie interstitielle de haut débit de dose ( sept fractions de 5,2 Gy )  .
+Avec un suivi en médiane de 66 mois , 130 patientes ont été traitées par irradiation totale du sein et 128 par irradiation partielle et accélérée du sein .
+Les taux actuariels de rechute locale à cinq ans étaient de 3,4 % ( irradiation totale du sein ) et 4,7 % ( irradiation partielle et accélérée du sein ) ( p = 0,50 ) .
+Aucune différence significative n' a été mise en évidence en termes de survie globale , survie spécifique ou survie sans évènement .
+Ces résultats sont très encourageants mais comparés aux contraintes statistiques des essais randomisés en cours , l' étude hongroise manque probablement de puissance .
+Que peut on faire des résultats obtenus jusqu' à_présent en termes d' irradiation partielle et accélérée du sein ?
+Que doit on attendre des résultats des essais de phase III en cours et surtout quand pourrons nous bénéficier de leurs conclusions ?
+Le nombre total des patientes à inclure varie selon les études de 1200 à 3000 , autant dire que les résultats ne seront disponibles que dans une dizaine d' années .
+Depuis les années 1980 , le contexte est différent et il est peu probable que l' évolution de l' irradiation partielle et accélérée du sein soit comparable à celle qu' a connu le traitement conservateur par_rapport_à la mastectomie .
+En effet , les caractéristiques des analyses statistiques ont changé .
+Pour un même type d' études statistiques ( essai d' équivalence ) , Veronesi et al. ont donné ses lettres de noblesse au traitement conservateur radiochirurgical avec un essai ayant inclus au total 701 patients ( dont 349 ont eu une mastectomie et 352 un traitement conservateur ) , alors_que dans un même but de démonstration d' équivalence en termes de taux de contrôle local entre irradiation partielle et accélérée du sein et irradiation totale du sein , les essais actuels recruteront entre 1500 et 3000 patientes .
+Les modalités de prise en charge thérapeutique se sont également modifiées avec de plus un contexte national stigmatisant la radiothérapie suite aux divers incidents et accidents d' irradiation récemment survenus , ce qui ne facilite pas les choses en matière d' évolution thérapeutique .
+Doit on pour autant attendre patiemment tous ces résultats ?
+Nous avons un savoir-faire , nous savons que l' irradiation partielle et accélérée du sein ne remplacera pas l' irradiation totale du sein pour toutes les patientes , mais pourra probablement s' y substituer avantageusement pour un sous-groupe de patientes atteintes d' un cancer à faible risque de rechute locale .
+Ce sous-groupe doit très certainement inclure des patientes ménopausées , atteintes des petits carcinomes mammaires non lobulaires , en limites saines et sans envahissement ganglionnaire majeur .
+5. Conclusion
+En 2008 , la France doit jouer un rôle important dans l' analyse de la place à donner à l' irradiation partielle et accélérée du sein .
+Nous savons que l' irradiation partielle et accélérée du sein , loin_de remplacer le traitement par irradiation totale du sein , doit se combiner à l' arsenal thérapeutique préexistant .
+Le contexte actuel n' incite pas à rentrer dans un essai national de phase III alors_que six essais internationaux ont déjà débuté , néanmoins , ne pas poursuivre nos investigations sur le thème de l' irradiation partielle et accélérée du sein n' est pas_non_plus très cohérent .
+Les études de phases II françaises arrivent à maturité et devraient faire l' objet des publications dans les tous prochains mois .
+Cependant , il est important de réfléchir dès présent aux possibilités qui s' offrent aux thérapeutes comme aux patientes de poursuivre nos investigations dans cette voie prometteuse

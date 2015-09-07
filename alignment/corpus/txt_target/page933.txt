@@ -1,0 +1,198 @@
+Breast cancer is the most common malignancy among women in Western society , being considerably higher than in Asia , and its incidence rates have increased steadily  .
+The international differences in breast-cancer incidence and mortality rates indicate important differences in the endogenous hormonal milieu , lifestyle and environmental factors , genetic susceptibility , and mammographic screening activities among countries  .
+Estrogen plays a major role in the growth and differentiation of normal breast tissues and the development and progression of breast cancer , which was confirmed with experimental , clinical , and epidemiological evidence  .
+Japanese women , whose diet is rich in isoflavonoids , showed a very low incidence of breast cancer  , which may be explained by the difference in the relative risk or the prevalence of risk factors , including dietary factors .
+Phytoestrogens are natural compounds derived from plants that exhibit estrogen-like activities ( [ Tham et al. , 1998 ] and [ Cassidy et al. , 1994 ] ) .
+Soybeans contain high amounts of isoflavonoids , daidzein , and genistein ( 100 - 300 mg / 100 g ) , which , like lignans , have been found to possess weak estrogenic activity , ranging from 500 to 15,000 times less than that of estradiol ( [ Zava and Duwe , 1997 ] and [ Bingham et al. , 1998 ] ) .
+Epidemiological evidence indicates that soy intake is associated with lower risks for breast cancer among women ( [ Lee et al. , 1991 ] and [ Fournier et al. , 1998 ] ) and prolonged lengths of the menstrual cycle  .
+Hence , identifying natural compounds that act as antagonists of estrogen in the breast tissue and as agonists in the bone and cardiovascular tissues would be beneficial .
+Licorice ( or liquorice ; kanzoh in Japanese and gancao in Chinese ) is the most popular ingredient used in over 70% of Chinese medicines and has been used by human beings for at least 4000 years ( appearing in an earlier Chinese medicinal book Shang Han Lun ) .
+The herb yields the licorice products of commerce that are used as an analgesic or antispasmodic agent , an antidotal agent , and as an expectorant .
+The licorice extracts have generally been recognized as safe and are also used as flavoring and sweetening agents for tobaccos , chewing gums , candies , toothpaste , and beverages  .
+The genus of licorice widely utilized in the western world is Glycyrrhiza glabra ( G. glabra ) , which is indigenous to Spain , Iraq , Turkey , Russia , Japan , and North China. G. glabra contains glycyrrhizin , flavonoids , and isoflavonoids , while a recent research has focused on the active components and the extract of G. glabra in terms of anti-proliferation activity ( [ Tham et al. , 1998 ] , [ Cassidy et al. , 1994 ] and [ Lee et al. , 1991 ] ) .
+Glycyrrhizin is a major triterpenoid saponin in licorice root , constitutes 10 - 25% of the licorice extract , and is considered to be the primary flavor constituent and sweetener of the herb  .
+Glycyrrhizin also exhibits proapoptotic properties on the glycochenodeoxycholic acid-induced cytotoxicity of hepatocytes  , and has long been used for the treatment of chronic hepatitis in Japan  .
+Other components , glabrene and isoliquiritigenin , in the extract of G. glabra can bind to the human estrogen receptor ( ER ) with high affinity ( IC50 , 1 and 0.5 M ) and stimulate the proliferation of MCF-7 cells , showing a similarity to estradiol ( [ Tamir et al. , 2000 ] and [ Maggiolini et al. , 2002 ] ) .
+Glabridin from G. glabra showed an estrogen receptor-dependent , growth-enhancing effect at the concentrations of 10 nM to 10 M  .
+Isoliquiritigenin has also been suggested to be a candidate agent for the treatment of prostate cancer  .
+HPLC profiles indicated that the extract from G. glabra is rich in flavonoids and isoflavonoids , and contains 100 different types of phenols  .
+These studies indicate that G. glabra root contains a wide variety of chemicals having various bioactivities , including cell proliferation activity .
+In order to understand the mechanism of the components of G. glabra root on the growth of breast tumor cells , we investigated its effects with a series of analyses , including SRB , luciferase-reporter , real-time PCR , and neurite outgrowth assays .
+Moreover , expression profiling was performed with a cDNA microarray assay , which has been used for the characterization of phytoestrogens to examine genetic responses ( [ Ise et al. , 2005 ] , [ Terasaka et al. , 2004 ] and [ Terasaka et al. , 2006 ] ) , revealing gene networks and providing significant clues as to their functional mechanisms .
+2. Materials and methods2.1 .
+Chemicals and antibodies .
+Glycyrrhizin was purchased from Wako ( Osaka , Japan ) and 17 estradiol ( E2 ) was from Sigma - Aldrich ( St. Louis , MO ) .
+The powder of G. glabra root was obtained from Alpus Inc. ( Japan ) and the extract was prepared by boiling the powder in water .
+ICI 182,780 and 4 hydroxytamoxifen were purchased from Tocris Cookson Inc. ( Ellisville , MO ) .
+A stock of 10 mM solution for each compound was dissolved in DMSO ( vehicle ) and the final concentration of the solvent in the culture medium did not exceed 0.1% , which did not affect the yield of cells .
+Fetal bovine serum ( FBS ) was purchased from HyClone ( Logan , UT ) .
+Penicillin - streptomycin solution and trypsin / EDTA solution were all purchased from Life Technologies ( Grand Island , NY ) .
+The antibodies against Akt and p42 / 44 MAPK that recognizes total Akt or total ( phosphorylation state-independent ) Erk1 / 2 protein , respectively , and the phosphorylation-specific antibodies that recognize phosphorylated Akt or Erk1 / 2 were purchased from Cell Signaling Technologies ( Beverly , MA ) .
+All other chemicals were of the highest quality available from commercial sources .
+2.2. Cell culture and RNA extraction .
+Human breast cancer MCF-7 cells were obtained from the JCRB Cell Bank ( National Institute of Health Sciences , Tokyo , Japan ) and cultured in RPMI 1640 medium ( Invitrogen , Carsbad , CA ) supplemented with 10% FBS at 37 C in a humidified atmosphere of 95% air and 5% CO2 .
+Cells were cultured in phenol red-free RPMI 1640 medium containing 10% dextran-coated charcoal-treated FBS ( DCC-FBS ) for 3 days and treated with 10 nM of E2 or control ( 0.1% DMSO as a vehicle ) for 3 days .
+After the cells were cultured for 3 days in the presence of chemicals at specific concentrations , mRNA was purified from the cells using the PolyATract System 1000 ( Promega , Madison , WI ) .
+The quality of mRNA was confirmed by spectrophotometry .
+Wild-type PC12 cells ( JCRB Cell Bank ) were maintained in DMEM ( Dulbecco 's modified Eagles medium ) , containing 5% fetal bovine serum ( FBS ) , 10% horse serum ( HS ) , 5 mM glutamine , and antibiotics ( mixture of penicillin , 100 U / ml ; streptomycin , and 100 mg / ml ; fungizone , 0.25 mg / ml ) in a 5% CO2 environment in 100 mm Falcon plastic tissue culture dishes .
+The reagents for tissue culture were from Gibco Life Technologies ( Germantown , MD ) .
+2.3. SRB assay .
+Sulforhodamine B ( SRB ) assay was performed according to Skehan_et_al.  , after MCF 7 cells were treated with 10 nM of E2 , the extract of G. glabra root or glycyrrhizin for 3 days .
+2.4. Transfection and luciferase assay .
+The reporter plasmid construct containing the promoter of the human estrogen receptor ( ER ) gene ( pG-ER-AB ) was used to examine the estrogenic activity with the procedure described previously ( [ Inoue et al. , 2002a ] and [ Inoue et al. , 2002b ] ) .
+Four independent transfections were performed for each treatment and the results were expressed as the mean value SD .
+2.5. Real-time RT-PCR .
+The relative degrees of gene expression in response to E2 and the extract were analyzed by real-time reverse transcriptase-polymerase chain reaction ( RT-PCR ) as described previously  .
+2.6. Western blotting .
+Total protein was extracted with SDS buffer and sonicated on ice for 30 s .
+After incubation at 95 C for 5 min with loading buffer , total protein ( 30 g ) was resolved by SDS - PAGE with 15% gel , then electro transferred onto nitrocellulose membranes ( Millipore ; Billerica , MA ) using a semi-dry transfer cell ( BIO-RAD ; Hercules , CA ) at 1 mA / cm2 for 2 h .
+Phospho-Erk1 / 2 and Phospho-Akt were detected by probing membranes , which were preblocked in Tris-buffered saline containing 0.1% Tween-20 and 5% BSA ( TBST-BSA ) , with phospho-Erk1 / 2 or phospho-Akt-specific antibodies diluted 1:1000 in TBST-BSA overnight at 4 C. The complexes of rabbit antibodies--antigens were detected with horseradish peroxidase-coupled goat antibodies against rabbit IgG ( Cell Signaling Technologies ) after 1:5000-dilution with TBST-BSA and visualized by ECL plus Western Blotting Detection System ( Amersham Pharmacia Biotech , Arlington Heights , IL ) using Cool Saver AE-6955 ( ATTO ; Tokyo , Japan ) .
+The relative levels of total Akt or Erk1 / 2 protein in each sample were determined through stripping the rabbit antibodies against phospho-Akt or phospho-Erk1 / 2 from the membrane followed by reprobing the membrane with antibodies against Erk1 / 2 .
+2.7. Neurite outgrowth assay .
+The full-length cDNA of the human ER gene was cloned into pCMV-Tag 4 expression vector ( Promega ) .
+PC12 cells were transfected with ER expression vector using Lipofectamine 2000 ( Invitrogen ) and selected in the neomycin medium .
+The expression of the vector was confirmed by Western blotting using an antibody against the tag .
+Then , the control ( PCCON ) and PC12 cells transfected with ER ( PCER ) were maintained in phenol red-free DMEM containing 20% charcoal-stripped serum ( FBS and HS , 1:1 ) , and 5 mM antibiotics .
+PCER and PCCON cells were plated at an equal density in 5% steroid-free media and treated with the vehicle ( 0.05% ethanol ) , 10 nM E2 ( in 0.05% ethanol ) , or the extract ( 10 g / ml ) in combination with nerve growth factor ( NGF ; 0.4 ng / ml , Sigma - Aldrich ) .
+Neurite outgrowth was examined 48 h after the treatment and scored under the different conditions for the treatment .
+Approximately 100 cells per well were examined for neurites .
+We operationally defined the cells bearing neurites as cells with process outgrowth longer than one cell body in length .
+The data were expressed as percentages of neurite-bearing cells / total cells counted .
+Each experiment was repeated at least three times and three different regions in the cultures were counted in each case .
+The data were statistically examined by the t-test for individual group differences using SPSS software and the data with P 0.01 were considered to be significant .
+2.8. cDNA microarray analysis .
+EstrArray contains a total of 203 genes consisting of 172 estrogen-responsive genes and 31 calibration / expression markers .
+Here , we used a total of 120 estrogen-responsive genes that showed greater statistical stability  .
+In this study , biologically independent DNA microarray assays were repeated three times for E2 , the extract or glycyrrhizin .
+EstrArray assay and calculation of correlation coefficients between the datasets for E2 and the extract or glycyrrhizin were described previously  .
+3. Results3.1 .
+Effects of the extract of G. glabra on cell proliferation .
+We first examined the effect of the extract of G. glabra root on the growth of MCF-7 cells .
+The cells were treated with 10 nM E2 , the extract or glycyrrhizin at various concentrations ( 0.1 - 100 g / ml for the extract and 0.1 - 100 M for glycyrrhizin ) and the growth was examined with SRB assay .
+The results showed that the extract stimulated cell growth at a range of 0.1 - 10 g / ml , reaching a level ( at 10 g / ml ) equal to that of 10 nM E2 .
+In contrast , glycyrrhizin did not show any significant growth-promoting activity at 0.1 - 10 M , although there was a very weak activity at 100 M. In addition , we used a broad range of concentrations ( 100 pM to 1 mM ) to examine glycyrrhizin by SRB assay , yet no significant activity was detected ( data not shown ) .
+The anti-proliferation activity has been reported for the extract at higher concentrations ( [ Tham et al. , 1998 ] , [ Cassidy et al. , 1994 ] and [ Lee et al. , 1991 ] ) probably due to toxic effects of minor components .
+In this study , we focused on growth-promoting activity of the extract to understand the effect of the extract on proliferation of breast cancer .
+Full-size image ( 15K )
+Fig. 1. Effect of the extract of G. glabra roots on the proliferation of MCF-7 cells .
+Test materials were added to cell cultures at the indicated concentrations .
+After incubation of the cells for three days , cell proliferation was examined by SRB assay .
+The results were normalized by the value for the control experiment using the vehicle .
+The normalized value ( Proliferation Index ) represents the mean SD of the data from six independent experiments for each material. p 0.01. .
+View Within Article .
+3.2. Estrogen-responsive luciferase activity .
+We then examined the effect by reporter gene assay using the promoter containing an estrogen-responsive element .
+The promoter containing the cap sites A and B ( ProAB ) of the human estrogen receptor ( ER ) gene responds to estrogen-like compounds and xenoestrogens ( [ Inoue et al. , 2002a ] and [ Inoue et al. , 2002b ] ) .
+We transfected a reporter plasmid containing ProAB / luciferase gene into MCF 7 cells and examined the estrogen-like activity in the extract and glycyrrhizin at various concentrations .
+The extract exhibited enhanced luciferase activity at a range of 1 - 10 g / ml , reaching a maximal stimulation level at 10 g / ml , which is equal to that of 10 nM E2 .
+In contrast , glycyrrhizin did not show such an effect at a range of 1 - 100 M. Because the extract at 10 g / ml and glycyrrhizin at 100 M exhibited the highest proliferation activities in either of SRB or reporter gene assays , we used these concentrations to perform further analysis .
+Full-size image ( 14K )
+Fig. 2. Estrogen-responsive luciferase gene assay with the extract of G. glabra roots .
+MCF-7 cells were lipofected with pG-ER-AB vector DNA and treated either with the vehicle as a control , 10 nM E2 , the extract or glycyrrhizin at the indicated concentrations .
+The luciferase activity was assayed 12 h after the treatment .
+The value represents the mean SD of the data from four independent experiments. p 0.01. .
+View Within Article .
+3.3. Transcription of estrogen-responsive genes .
+We then examined the effect of the extract on cell proliferation by real-time quantitative RT-PCR analysis for the estrogen-responsive genes .
+The genes examined were the signal transduction-related genes , which were found to respond to estrogen and phytoestrogens ( [ Ise et al. , 2005 ] and [ Zhang et al. , 2005 ] ) .
+The results showed that the extract up-regulated the expressions of TFF1 ( pS2 or trefoil factor 1 ) , CTSD ( cathepsin D or lysosomal aspartyl protease ) , CDKN1A ( an effector of p53 ) , RPS6KA ( RSK ; MAPK-related ) and NRIP1 ( RIP140 , AP-1-related ) , while it down-regulated the expressions of TP53I11 ( p53-related ) , PRKCD ( protein kinase C delta ) and ARHGDIA ( a Ras super-family gene ) .
+This regulation pattern is very similar to that of E2 .
+Statistic analysis further suggested the difference in the degrees of expression for the up-regulated genes between E2 and the extract .
+In contrast , the expression profile of these estrogen-responsive genes induced by glycyrrhizin , is very different from that induced by E2 .
+Full-size image ( 15K )
+Fig. 3. Real-time RT-PCR analysis of the genes stimulated by the extract of G. glabra roots .
+The response of signal-related genes was examined after MCF-7 cells were treated with E2 , the extract , or glycyrrhizin .
+The relative expression index is a log2 value of the ratio of the mRNA levels after and before the treatment .
+The genes examined here are : TFF1 ( NM003225 ; trefoil factor 1 ) , CDKN1A ( NM000389 ; p53-related ) , RPS6KA3 ( NM004586 ; MAPK-related ) , NRIP1 ( NM003489 ; AP-1 family ) , CTSD ( NM001909 ; lysosomal aspartyl protease ) , TP53I11 ( NM006034 ; p53-related ) , PRKCD ( NM006254 ; Akt-related ) and ARHGDIA ( NM004309.3 ; Ras superfamily gene ) .
+The value represents the mean SD of the data from three independent experiments .
+View Within Article .
+3.4. Activation of Erk1 / 2 and Akt in proliferation of MCF-7 cells .
+The activation of the rapid signaling pathways occurs within an hour of stimulation , which promotes cell proliferation synergistically .
+To examine the involvement of Erk1 / 2 and Akt in the signaling mediated by the extract of G. glabra root , the levels of the phosphorylated forms and total proteins were determined after the treatment of MCF-7 cells with 10 g / ml of the extract , and compared with the treatment with 10 nM E2 or 10 M / ml glycyrrhizin .
+Phosphorylation of Erk1 / 2 and Akt was clearly detected in response to all the materials examined .
+However , while phosphorylation of Erk1 / 2 and Akt induced by the extract were inhibited by the pre-treatment of the cells with estrogen antagonists , ICI 182,780 or 4 hydroxytamoxifen , as exactly observed for the treatment with E2 , phosphorylation of Erk1 / 2 and Akt activated by glycyrrhizin was not inhibited by the antagonists .
+This suggests that the schemes and the pathways of signaling were very similar between E2 and the extract , while glycyrrhizin , although activating the same key players in signaling , contributed to distinct and different signaling pathways .
+Full-size image ( 42K )
+Fig. 4. Activation of Erk1 / 2 and Akt by the extracts of G. glabra root. ( a ) the time-course of Erk1 / 2 phosphorylation. ( b ) Inhibition of Erk1 / 2 phosphorylation with ICI 182,780 ( ICI ) or 4 hydroxytamoxifen ( OHT ) . ( c ) The time-course of Akt phosphorylation. ( d ) Inhibition of Akt phosphorylation with ICI 182,780 or 4 hydroxytamoxifen .
+Serum-starved MCF-7 cells were untreated or treated with glycyrrhizin ( 10 M ) , the extract ( 10 g / ml ) or E2 ( 10 nM ) for various lengths of time ( min ) and lysed in SDS sample buffer .
+Protein samples were electrophoresed in 15% SDS - polyacrylamide gels , transferred to nitrocellulose membranes and probed with the antibodies specific to phosphorylated Erk1 / 2 ( P-Erk1 / 2 ) or Akt ( P-Akt ) .
+The level of protein loading was confirmed using the antibodies that recognize total Erk1 / 2 protein ( T-Erk1 / 2 ) or total Akt protein ( T-Akt ) .
+For the inhibition of estrogen signaling , the cells were treated with the chemicals for 15 min ( b and d ) after incubation of the cells with 1 M of ICI 182,780 or 4 hydroxytamoxifen for 15 min .
+View Within Article .
+3.5. ER-dependent enhancement of neurite outgrowth .
+Gollapudi and Oblinger reported that estrogen contributes to NGF-stimulated neurite outgrowth in PC-12 cells , a rat pheochromocytoma cell line , in an ER-dependent manner .
+We examined here if the extract has a similar ability to enhance neurite outgrowth in an ER-dependent manner .
+PC-12 cells were transfected with an ER-expression vector ( PCER ) or an empty vector ( PCCON ) and then treated with the extract in the presence of NGF .
+A larger proportion of ER-transfected cells had newly sprouting neuritis after the treatment with the extract and E2 compared to the treatment with glycyrrhizin .
+In contrast , neither the vector-transfected cells treated with the extract nor ER-transfected cells without the treatment exhibited the enhancement of neurite outgrowth .
+These data suggested that the effect of the extract on neurite outgrowth was similar to that of E2 , whereas glycyrrhizin had no such effect .
+Full-size image ( 42K )
+Fig. 5. Neurite outgrowth stimulated by the extract of G. glabra roots .
+Control PC12 cells ( PCCON ) or PC12 cells transfected with ER expression vector ( PCER ) were cultured for 24 h .
+After adding NGF , the cells were treated with 10 nM E2 , 10 g / ml of the extract or 100 M glycyrrhizin and cultured for 48 h. ( a ) PCER cells treated with the vehicle. ( b ) PCER cells treated with the extract. ( c ) PCER cells treated with E2. ( d ) PCER ells treated with glycyrrhizin. ( e ) PCCON cells treated with the extract. ( f ) Quantitative analysis of neurite outgrowth shown in panels a - e .
+The percentages of the cells having at least one neurite longer than the diameter of the cell body are shown. p 0.01. .
+View Within Article .
+3.6. Gene expression profiling by DNA microarray assay .
+A set of 120 genes with greater statistical stability were selected after repeating biologically independent assays ten times and these were used for the further characterization of chemicals  .
+Here , similar expression profiles were obtained between the cells treated with E2 and the extract using EstrArrays , whereas the expression profile after the treatment with glycyrrhizin was very different from that of E2 .
+A significant correlation was observed between the extract and E2 ( R = 0.47 , P 0.0001 ) for 120 genes , suggesting the presence of estrogenic activity in the extract .
+Interestingly , a weak but significant correlation ( R = 0.27 , P 0.01 ) was detected between the extract and glycyrrhizin , although there was no correlation between E2 and glycyrrhizin .
+These results suggested that glycyrrhizin modulated the expression of these genes and contributed to the correlation between the extract and glycyrrhizin , but different from that of E2 .
+Full-size image ( 61K )
+Fig. 6. Cluster analysis of gene expression profiles for E2 , glycyrrhizin and the extract of G. glabra roots .
+MCF-7 cells were cultured with 100 M glycyrrhizin ( Gly , lane 1 ) , 10 g / ml of the extract of G. glabra ( Ex , lane 2 ) or 10 nM E2 ( lane 3 ) for 72 h and used for DNA microarray analysis .
+The gene expression profiles represent up-regulated genes ( red ) and down-regulated genes ( green ) after the treatment with glycyrrhizin , the extract of G. glabra or E2 .
+The color scale indicates the ratios of the signal for each treatment ( Cy3 signal ) to that for the vehicle ( Cy5 signal ) , showing the relative expression level of each gene .
+The Y-axis of the dendrogram at the top indicates the relative degrees of similarity in MCF-7 cells .
+The names of genes and their group names were shown on the right .
+The number of the genes in each group is shown in parentheses .
+View Within Article .
+The 120 genes were further categorized into six groups with specific functions ( enzymes , signaling , proliferation , transcription , transport and others ) and used for correlation analysis .
+Significant correlations were observed between the extract and E2 for the groups of signaling and proliferation ; whereas , there was no significant correlation between E2 and glycyrrhizin .
+Furthermore , a significant correlation ( P 0.01 ) was observed between the extract and glycyrrhizin for signaling genes , suggesting that glycyrrhizin partly shares the common signaling pathways with the extract .
+The genes , whose responses were same between E2 and the extract , but different from glycyrrhizin , are listed in Table 1. The list consists of a total of 18 genes , including 5 signaling-related , 7 proliferation-related , 3 transport-related and 3 other genes .
+Full-size image ( 40K )
+Fig. 7. Correlation of gene expression profiles for E2 , glycyrrhizin and the extract of G. glabra roots .
+Gene expression profiles were compared between the samples after the treatment with E2 and the extract ( a ) , E2 and glycyrrhizin ( b ) , or the extract and glycyrrhizin ( c ) .
+The bars indicate the correlation coefficients for a total of 120 genes or for the genes categorized into six groups ( enzymes , signaling , proliferation , transcription , transport , etc. ) shown in Fig. 6. p 0.01 and p 0.05. .
+View Within Article .
+Table 1. .
+Genes showing significant different responses for the treatment with glycyrrhizin from those with E2 and the extract of G. glabra .
+Relative expression index UniGene NameAcc. numberGroup nameE2ExGly TFF1NM003225Signaling0.920.010.77 ARNT2NM014862Signaling1.030.330.97 CTNND2NM001332Signaling1.320.60.35 ARHGDIANM004309Signaling1.580.190.56 IGFBP5NM000599Signaling2.271.380.12 AREGNM001657Proliferation3.431.40.11 PDZK1NM002614Proliferation2.972.260.2 IGFBP4NM001552Proliferation1.651.790.67 CAPNS1NM001749Proliferation1.450.070.57 PMP22NM000304Proliferation2.350.470.17 GTF2INM032999Transcription0.760.170.44 ENO1NM001428Transcription1.930.20.25 SLC7A5NM003486Transport2.020.630.14 CDH18NM004934Transport1.20.350.55 SLC12A2NM001046Transport2.991.170.58 PMAIP1NM021127Others1.121.040.34 AIM1NM001624Others0.880.590.1 SELENBP1NM003944Others1.460.031.18 .
+Full-size table .
+The genes ( UniGene names , Accession Numbers and the group names shown in Fig. 6 ) , whose response to the treatment with glycyrrhizin ( Gly ) was significantly different ( p 0.05 ) from that of both of the treatments with estrogen and the extract ( Ex ) , are listed .
+An ANOVA test was performed before the t-test for the 120 genes ( see Section 2 ) .
+The values ( the relative expression indexes , see Fig. 3 ) represent the mean of three independent experiments for the treatment of MCF-7 cells .
+View Within Article .
+4. Discussion .
+Here , we demonstrated that the E2 and the extract of G. glabra root share similarity in cellular activity ( proliferation and morphology ; Fig. 1 and Fig. 5 ) , which is most likely mediated by similar gene responses at the transcriptional and signaling levels .
+Signals mediated by E2 in MCF-7 cells start from binding with ER in the presence of various co-regulators and binding proteins and firstly activate rapid signaling pathways , or the non-genomic pathways for estrogen signaling , including phosphorylation of Erk1 / 2 and Akt , as shown here .
+Erk1 / 2 is members of mitogen-activated protein kinases , which are activated by growth factors , peptide hormones and neurotransmitters , and mediate signals from various membrane receptors  .
+Akt , or protein kinase B , is located downstream of the phosphoinositide 3 kinase ( PI3 K ) pathway and the activation of Akt inhibits apoptosis and stimulates cellular proliferation  .
+Several chemicals have been reported to activate Erk1 / 2 and/or Akt in cellular activity .
+In MCF-7 cells , activation of PI3K / Akt and Erk1 / 2 pathways by estrogen stimulates insulin-like growth factor 1 receptor ( IGF-1R ) signaling and promotes cell proliferation synergistically ( Dupont and LeRoith , 2001 ) .
+Activation of G-protein-coupled receptors by bradykinin , a hypotensive agent , stimulates the proliferation of MCF-7 cells through the pathways involving protein kinase C- / - , Akt and Erk1 / 2  .
+In this case , activation of the PI3K / Akt pathway results in the activation of Erk1 / 2 .
+Meanwhile , the activation of RSK ( see RPS6KA3 in Fig. 3 ) by Erk1 / 2 through phosphorylation may further activate ER function by phosphorylation at Ser-167  .
+Activation of the rapid signaling pathways , which occurs within an hour of stimulation , further activates a variety of downstream pathways and cellular activity , including transcriptional activation / suppression of estrogen-responsive genes , through estrogen-responsive elements , for example .
+The components in the extract of G. glabra root are involved in cellular activity .
+Glycyrrhizin , a triterpene glycoside , is a major component ( 2 - 24% of the dry weight ) in the extract of G. glabra root and shows a wide range of pharmacological properties ( for example , anti-inflammatory , anti-tumor and anti-viral )  .
+Our results indicated that glycyrrhizin did not induce the expression of estrogen-responsive genes or the proliferation of MF-7 cells , suggesting that the estrogenic activity of the extract was due to other components .
+It has been reported that glycyrrhizin can bind directly to mineralocorticoid receptors as an agonist when its plasma concentration is high enough to compete with aldosterone and cortisol for mineralocorticoid receptors ( [ Armanini et al. , 1983 ] and [ Armanini et al. , 1989 ] ) .
+Glycyrrhizin is also an inhibitor of 17 hydroxysteroid dehydrogenase ( 17HSD ) , which is involved in the conversion of androstenedione into testosterone  .
+At a concentration of 0.3 mM in the incubation medium in vitro , glycyrrhizin stimulates the aromatization of testosterone to estradiol , and blocks the activity of 3 hydroxysteroid dehydrogenase ( 3HSD ) and 17 - 20 lyase ( [ Takeuchi et al. , 1991 ] and [ Armanini et al. , 2004 ] ) .
+While these enzymes are involved in the synthesis or metabolism of androgens and estrogens , glycyrrhizin does not bind to estrogen or androgen receptors  .
+Glycyrrhizin acts as an anti-proliferative agent against MCF-7 cells and other tumor cells and induces apoptosis  .
+Based on these facts , we conclude that the activation of rapid signaling pathways by glycyrrhizin occurred independently of the estrogen receptor ; therefore , the estrogenic activity of the extract was not due to glycyrrhizin .
+Glabridin is present in the extract at 11% ( w / w ) or more and exhibits an estrogen receptor-dependent , growth-enhancing effect at the concentrations of 10 nM to 10 M  .
+Glabridin shows a very unique range of concentrations for its activity : there is little activation of cell growth at 1 M , while the maximum level of stimulation is observed at 10 M ; and , importantly , anti-proliferation or apoptotic activity is detected at concentrations 15 M ( Tamir et al. , 2000 ; Dong et al. , data not shown ) .
+The SRB assay shown here indicated that the extract stimulated cell growth at a range of 0.1 - 100 g / ml , reaching a maximum level at 10 g / ml , which roughly corresponds to 3.5 M glabridin by its estimated content .
+There was no anti-proliferation activity or activation of apoptosis , even at the concentration of 100 g / ml , in which at least 35 M glabridin was present .
+Under this condition , glabridin induces apoptosis ( Tamir et al. , 2000 ; Dong et al. , data not shown ) .
+On the other hand , the extract significantly enhanced the cell growth at 1 g / ml .
+Although 0.35 M glabridin is equivalent to this condition , glabridin does not enhance the cell growth at 0.35 M. These facts suggest that , although glabridin may contribute to estrogenic activity of the extract , its anti-proliferation activity is modulated by other components .
+Chalcone isoliquiritigenin , another component of the extract and a candidate for the treatment of prostate cancer , exhibits antitumorigenic activity at high concentrations on breast cancer cells , while it shows ER-dependent growth promoting effects at low concentrations ( [ Maggiolini et al. , 2002 ] and [ Kanazawa et al. , 2003 ] ) .
+However , the growth promoting effect of isoliquiritigenin ( 10 nM to 10 M ) was lower than that of E2  , suggesting that isoliquiritigenin partly contributes to estrogenic activity .
+Other components of the root with estrogenic activity , such as glabrene and genistein , are found in the extract at very low concentrations ( 0.2 - 2% )  , and , as they can bind to the estrogen receptor with the same affinity as glabridin ( [ Tamir et al. , 2000 ] and [ Somjen et al. , 2004 ] ) , they may also influence the estrogenic activity in the extract .
+Therefore , our findings strongly support the hypothesis that the estrogenic activity of the extract was due to the cooperation of components in the extract , such as glycyrrhizin , glabridin , isoliquiritigenin , glabrene , and genistein , whose anti-proliferation ( at high concentrations ) or growth-promoting ( at low concentrations ) activities can be modulated by each other .
+The weak cytotoxicity of the extract might be more beneficial for the clinical application than a single usage of glabridin or isoliquiritigenin .

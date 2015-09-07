@@ -1,0 +1,49 @@
+Les modalités de surveillance des cancers du sein ne font plus actuellement l' objet d' un débat .
+Il est admis de manière consensuelle que la surveillance dite minimale par mammographie bilatérale annuelle est suffisante .
+Une surveillance dite intensive à la recherche d' une métastase est considérée comme inutile et coteuse .
+Ce consensus est inscrit dans les standards : recommandations ( guidelines ) de l' American Society of Clinical Oncology ( ASCO ) aux États-Unis , Standards Options et Recommandations ( SOR ) en France .
+2. Quelques données chiffrées préliminaires
+- Environ 30 % des cancers du sein stades I et II sont amenés à récidiver ;
+- 80 % des récidives surviennent dans les cinq premières années ;
+- des récidives tardives , même vingt ans après peuvent survenir ;
+- 80 % des récidives métastatiques sont symptomatiques et découvertes simplement par l' interrogatoire et l' examen clinique .
+3. Les essais
+Les deux essais italiens publiés dans le même numéro du JAMA en 1994 sont convergents et n' ont pas été contredits depuis leur parution : - l' étude du GIVIO  porte sur 1320 patientes , suivies pendant six ans ( suivi médian : 71 mois ) randomisées entre deux types de surveillances : groupe témoin ou groupe intensif .
+Toutes ont eu une surveillance clinique tous les trois mois pendant deux ans , puis tous les six mois pendant les trois années suivantes ; surveillance clinique associée à une mammographie annuelle .
+Les patientes randomisées dans le groupe témoin n' avaient rien d' autre .
+Celles du groupe intensif bénéficiaient d' un bilan biologique tous les trois mois , un cliché thoracique , une échographie abdominale , une scintigraphie osseuse tous les six mois , examens poursuivis pendant cinq ans .
+Une évaluation qualité de vie était faite à six mois , un , deux et cinq ans .
+Les deux groupes étant identiques en terme de facteurs pronostiques , la survie globale a été identique dans les deux groupes , la surveillance intensive n' a permis d' anticiper que d' un mois le diagnostic des rechutes .
+La qualité de vie était la même dans les deux groupes ;
+- l' étude publiée par Del Turco  a porté sur 1243 cas , les modalités de surveillance étaient les mêmes que dans l' essai du GIVIO .
+De la même manière la survie s' est avérée identique dans les deux groupes , quelles que soient les modalités de surveillance .
+4. Réunions d' experts et recommandations
+Ces données ont été officialisées par deux réunions d' experts : la réunion organisée à Lyon par la Société française de sénologie et de pathologie mammaire en 1991 , et une conférence de consensus italienne ( ANON 1995 ) qui concluent de la même manière : seuls les examens recherchant une récidive homo- ou controlatérale mammaire sont légitimes , permettant aux patientes de vivre mieux et plus longtemps .
+Le pronostic de la rechute métastatique n' est pas amélioré lorsque le diagnostic de celle-ci est anticipé de quelques semaines , ne permettant que de mettre en route un traitement un_peu plus_tôt .
+L' American Society of Clinical Oncology ( ASCO )  a publié ses recommandations ( 1999 ) en insistant sur l' intérêt de l' interrogatoire et de l' examen clinique .
+Elle recommande un examen clinique tous les trois à six mois pendant trois ans , puis tous les six à douze mois pendant deux ans , puis une fois par an .
+Une mammographie annuelle est recommandée , le premier semestre après la fin de la radiothérapie .
+Tous les autres examens ne doivent pas être faits de manière systématique : bilan sanguin y_compris les marqueurs tumoraux , radiographie de thorax , échographie hépatique , scintigraphie osseuse etc.
+En France , les Standards Options et Recommandations ( SOR )  de la Fédération nationale des centres de lutte contre le cancer ( FNCLCC ) rappellent et confirment intégralement ces données .
+Ces données générales qui sont admises par toutes les équipes spécialisées doivent être complétées par un certain nombre de commentaires : - différentes publications plus parcellaires , portant sur tel ou tel examen complémentaire ( CA 15.3 , par_exemple ) intégrant des effectifs moins importants que les deux essais italiens confirment toutes ces deux essais .
+Il n' existe à notre connaissance aucune étude qui vienne les contredire ;
+- l' argument du confort psychologique des patientes surveillées de manière intensive a longtemps été un argument avancé pour défendre ce type de surveillance .
+Cela n' a jamais été prouvé dans le cadre d' une étude prospective , la qualité de vie était identique dans les deux groupes du GIVIO  .
+5. Les données économiques
+Une évaluation économique de la stratégie de surveillance ( intensive ou non ) vient apporter un argument supplémentaire pour ne pas multiplier les examens inutiles : effectuée par l' équipe du CAC Léon-Bérard de Lyon  qui a comparé les cots des deux modalités de surveillance dans deux groupes de patientes de 100 malades chacun .
+Les résultats sont parlants puisque l' économie réalisée a été de 35 % la première année de surveillance , 46 % la deuxième et 75 % la troisième année .
+Si l' on rappelle que chaque année plus de 40000 femmes sont touchées en France par le cancer du sein , dont 80 % seront passibles d' une surveillance simple , les enjeux économiques apparaissent immédiatement comme significatifs et devant être pris en compte par tous les médecins intervenant dans cette surveillance .
+6. En cas de risque génétique
+Mentionnons le cas particulier des femmes présentant une mutation génétique BRCA 1 ou BRCA 2 qui sont exposées à un risque plus élevé de récidive notamment controlatérale et chez qui l' intérêt de l' IRM mammaire a été affirmé par des études récentes  .
+Celle-ci doit être faite annuellement en alternance semestrielle avec l' échomammographie , également préconisée annuellement .
+On parle actuellement « des femmes présentant un risque génétique démontré ou une prédisposition familiale » , pour élargir le cadre des femmes chez qui a été mise en évidence une mutation au cadre plus large des femmes à risque familial chez qui les probables progrès prochains de l' oncogénétique prouveront l' existence d' une mutation ( BRCA 3 , BRCA 4 ) .
+Même si une patiente présentant manifestement un risque familial ne présente pas de mutation BRCA 1 ou BRCA 2 avérée , elle doit être soumise à la même surveillance par IRM annuelle .
+7. L' examen gynécologique
+En marge de cet article , on peut rappeler les principales données concernant l' examen gynécologique chez les femmes ayant eu un cancer du sein : - les patientes ayant présenté un cancer du sein doivent au plan gynécologique être surveillées au même titre que les autres patientes ( celles qui n' en ont pas eu ) ;
+- les cancers de l' endomètre sous tamoxifène restent exceptionnels : estimés à quatre cas sur mille femmes traitées par tamoxifène .
+Il n' y a donc aucune recommandation pour faire des échographies pelviennes systématiques , ni bien sr une hystéroscopie pour vérifier un épaississement endométrial ( qui est une constatation banale sous tamoxifène ) ;
+- les femmes sous tamoxifène doivent être simplement prévenues de ce risque rare et s' alerter devant toute métrorragie qui , en_revanche , suscitera une consultation gynécologique et des investigations plus approfondies .
+8. Conclusion
+En matière de surveillance des cancers du sein , les données accumulées depuis dix ans apparaissent solides , bien validées par de nombreuses études et doivent être adoptées par tous .
+Cette surveillance se résume à un examen clinique et une mammographie ( avec ou sans échographie ) annuelle .
+À une époque où les enjeux économiques sont indissociables de la qualité des soins , ces données doivent être connues et appliquées par tous les praticiens , responsables du bien-être de leur malade et de la bonne gestion du système de santé

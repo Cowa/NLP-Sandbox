@@ -1,0 +1,167 @@
+Depuis les publications princeps de Krag  et Giuliano  , de multiples études ont montré la faisabilité du ganglion sentinelle ( GS ) dans le cancer du sein même si de nombreux points ( limites des indications , techniques de repérage , méthodologie pathologique etc. ) restent controversés .
+Alors qu' une grande partie de la communauté chirurgicale voire oncologique s' enthousiasme pour une technique permettant enfin d' éviter le curage et sa morbidité , aucune recommandation officielle n' existe en France pour promouvoir cette pratique et ses modalités  .
+Le but de ce travail est de présenter les résultats immédiats et à moyen terme de notre expérience pour montrer la faisabilité en routine de cette technique .
+2. Patientes et méthode
+Après une évaluation de notre courbe d' apprentissage qui a inclus 116 patientes ( non reprises dans cette étude ) , nous avons décidé à_partir_de février 2001 de pratiquer la technique du ganglion sentinelle en routine , le curage n' étant réalisé que si le GS était positif .
+Entre février 2001 et juin 2004 , 1000 interventions de GS ont été ainsi réalisées .
+Les caractéristiques tumorales , les modalités opératoires , les résultats de l' étude du GS , la stratégie thérapeutique et le suivi ont été enregistrés prospectivement .
+Dix-sept procédures étaient bilatérales synchrones ou métachrones ; un patient était de sexe masculin .
+Les indications retenues pour proposer cette technique étaient : - les cancers invasifs ou micro-invasifs ( taille du foyer invasif 1 mm ) , T1 ( taille échographique ) N 0M0 , unifocaux , sans traitement préalable , avec preuve histologique par biopsie percutanée préalable ;
+- les cancers intracanalaires relevant d' une mastectomie totale .
+L' âge moyen des patientes était de 57 ans ( extrêmes : 22 - 81 ) , 628 ( 63 % ) tumeurs étaient infracliniques , 558 ( 56 % ) de localisation externe , 231 ( 23 % ) internes , 211 ( 21 % ) médianes .
+Cinquante-cinq cancers étaient intracanalaires purs ( 5,5 % ) , 32 ( 3 % ) micro-invasifs , 913 invasifs .
+La taille pathologique ( pT ) retenue dans l' étude était celle du foyer invasif à l' examen histologique définitif ( les cancers in_situ sont classés pT = 0 ) , la taille médiane pour le groupe des cancers invasifs était de 14 mm ( extrêmes : 2 - 50 ) .
+Les 96 tumeurs invasives ayant une taille supérieure à 20 mm correspondaient soit à des indications majeures pour des patientes ayant déjà eu un cancer controlatéral avec curage compliqué de séquelles , soit à des discordances a_posteriori entre la taille échographique et la taille morphologique ( en_particulier cancer lobulaire ou évaluation microscopique de la taille pour des lésions non palpables sur la pièce ) .
+2.1. Technique de repérage2.1.1 .
+Technique isotopique
+Une injection de 30 MBq de sulfure de rhénium marqué au technétium ( Nanocis ) était effectuée quatre à 24 heures avant l' intervention en subdermique en regard de la tumeur pour les lésions palpables , en subaréolaire ( SA ) pour les lésions infracliniques ou palpables supéro-externes .
+Une lymphoscintigraphie était effectuée trois ou 16 heures après l' injection avec marquage à la peau des ganglions repérés .
+2.1.2. Technique colorimétrique
+Une injection de 2cc de bleu patenté ( Guerbet ) était faite après l' induction anesthésique , en péritumoral ( PT ) pour les lésions palpables , ou en subaréolaire pour les lésions infracliniques .
+Pendant les dix minutes d' attente , on effectuait la recherche de radioactivité axillaire .
+L' incision était pratiquée en regard du point chaud et le geste ganglionnaire réalisé avant le geste mammaire .
+Un double marquage a été effectué pour 602 ( 60 % ) procédures : 274 par voie SA dans les deux cas , 146 par double voie PT .
+Cent quatre-vingt-six ont eu des sites d' injection dissociés ( 46 bleu PA et isotope PT , 136 bleu PT et isotope SA ) .
+Trois cent soixante-seize GS ont été faits après injection isotopique seule ( 341 SA , 35 PT ) , 22 ont eu une injection exclusive de bleu ( 10 SA , 12 PT ) .
+2.2. Étude histologique
+Nous avons mené une étude peropératoire de tous les GS prélevés selon la technique des empreintes cytologiques afin_de ne pas perdre de matériel .
+Chaque GS était sectionné tous les 2 - 3 mm perpendiculairement à son plus grand axe .
+Après fixation formolée à 10 % pendant 12 heures , les tranches de ganglion étaient incluses en cassettes ( une cassette par ganglion ) .
+Trois niveaux de coupes sériées de cinq m d' épaisseur étaient effectués , à 300 m d' intervalle avec conservation des rubans .
+Une coloration standard par hématoxyline - éosine - safran ( HES ) était faite .
+En cas de négativité , une étude immunohistochimique par les cytokératines de haut poids moléculaire ( KL1 immunotech , 1 / 200 ) était effectuée sur les mêmes niveaux de coupe dont les rubans avaient été gardés .
+Le terme de micrométastase utilisé ici regroupe les amas cellulaires tumoraux de 200 à 2000 ainsi_que les cellules tumorales isolées , inférieures à 200 sans stroma réaction ni franchissement des parois vasculaires .
+2.3. Analyse statistique
+Le test du 2 a été utilisé pour comparer les pourcentages , avec correction de Yates quand cela était nécessaire .
+Les comparaisons de moyennes ont utilisé l' analyse de variance avec comparaison des groupes par le test t de Student .
+La valeur seuil considérée comme significative était p 0,05 .
+Une analyse multivariée ( régression logistique ) a été réalisée en reprenant les paramètres pour lesquels la valeur de p était statistiquement significative en analyse univariée .
+3. Résultats3.1 .
+Taux de détection
+Vingt-deux procédures se sont avérées un échec de détection ( taux de détection = 97,8 % ) .
+Toutes ont eu un curage immédiat et sept de ces curages étaient positifs .
+Le taux de positivité des curages d'_emblée était de 32 % , alors qu' il était de 29 % ( 283 / 978 , p = 0,95 ) dans le groupe des GS trouvés , de 21 % ( 205 / 978 , p = 0,33 ) si l' on exclut les GS micrométastatiques .
+Nous avons étudié en analyse univariée les facteurs susceptibles de modifier ce taux de détection : l' âge , la localisation de la tumeur , son caractère palpable ou non , la taille histologique , la technique de repérage ( un marqueur ou combiné ) , le site d' injection ( subaréolaire , péritumoral ou dissocié ) .
+Seuls sont statistiquement significatifs l' âge , plus élevé chez les non-détectés ( 63,4 vs 57,1 , p = 0,006 ) , la taille tumorale ( p = 0,04 ) avec un seuil à 20 mm ( p = 0,02 ) , la technique utilisée ( p = 0,01 ) au détriment de l' utilisation de la technique combinée .
+En analyse multivariée , seuls l' âge ( p = 0,01 ) et la technique ( p = 0,02 ) étaient des facteurs indépendants .
+Dans 939 cas , la recherche du GS a été effectuée dans le même temps opératoire que le geste mammaire , immédiatement avant ce dernier , le diagnostic histologique de la tumeur ayant été établi sur biopsie percutanée préalable .
+Soixante et un GS ( 6 % ) ont été faits dans un deuxième temps opératoire après exérèse de la tumeur .
+Le Tableau 1 ne montre pas de différence du taux de détection entre les deux situations .
+Tableau 1.
+Résultats de la procédure du GS en fonction de la présence ou non de la tumeur
+nGS non détectésGS macroGS microCA+ / GS micro avec CA Tumeur enlevée612 ( 3 % ) 570 / 5 Tumeur en place93920 ( 2 % ) 16210915 / 88
+Full-size table
+View Within Article
+3.2. Mode d' évaluation ganglionnaire
+Cent cinquante-six procédures ( 16 % ) ont été complétées par un curage dans le même temps opératoire : 22 pour GS non trouvés , deux à_tort pour GS de grande taille macroscopique mais qui se révéla négatif à l' examen définitif , 132 après GS reconnu positif à l' examen extemporané ( 125 GS macrométastatiques , 7 GS micrométastatiques ) .
+Cent seize curages ( 12 % ) ont été effectués dans un deuxième temps opératoire après résultat de l' examen histologique définitif ( 30 pour GS macrométastatique mais ne dépassant pas six mm , 86 pour GS micrométastatique ) .
+Trente-cinq patientes n' ont pas eu de curage après GS métastatique ( 12 macro , 23 micrométastases ) , soit parce_que le risque d' une réintervention a été jugé supérieur au bénéfice que pouvait apporter la connaissance du curage pour la stratégie thérapeutique , soit par refus de la patiente ( le_plus_souvent pour antécédent de séquelles de curage antérieur ) .
+Au total , 728 procédures n' ont pas été suivies de curage , soit 73 % .
+Ce pourcentage aurait d être de 69 % ( 695 / 100 ) si tous les GS positifs avaient été repris .
+3.3. Résultats de l' évaluation ganglionnaire
+Ils concernent ici le groupe des 913 cancers invasifs .
+Deux cent quatre-vingt-huit de ces 913 cancers ( 31,5 % ) étaient N+ : sept sur le curage immédiat après échec de détection du GS , 166 avec un GS macrométastatique ( 59 % des GS positifs ) , et 115 avec un GS micrométastatique .
+Dans le groupe des 891 cancers invasifs avec GS détecté , 281 GS étaient positifs ( 31,5 % ) dont 246 ( 88 % ) ont eu un curage complémentaire .
+Quatre-vingt-quatre de ces curages complémentaires contenaient au moins une métastase ( 34 % de curages positifs après GS+ ) .
+Parmi les facteurs susceptibles de prédire la positivité du curage après GS+ , seuls étaient statistiquement significatifs l' âge ( p = 0,02 ) et surtout le type d' atteinte histologique du GS , micro- ou macrométastase ( p 0,00001 ) .
+La taille tumorale , le grade histopronostique ( GHP ) et le degré d' expression des récepteurs hormonaux n' étaient pas significativement prédictifs .
+3.4. Récidives axillaires
+Avec un recul médian de 20,7 mois , quatre récidives axillaires ( 0,4 % ) ont été constatées , survenues à 14,16 , 23 et 30 mois après l' intervention .
+Toutes ont eu un curage complémentaire , une de ces patientes a présenté une deuxième récidive après le curage .
+Une récidive est survenue après GS négatif sans curage ( 1 / 693 , 0,1 % ) , une après GS micrométastatique sans curage ( 1 / 23 , 4,3 % ) , une après GS macrométastatique sans curage ( 1 / 12 , 8,3 % ) , une après GS macrométastatique et curage lui-même positif ( 1 / 69 , 0,1 % ) ( p 0,0001 ) .
+3.5. Micrométastases du GS
+Dans le sous-groupe des cancers invasifs où le GS a été détecté et qui ont eu un curage en cas de positivité de celui-ci ( n = 856 ) , 154 GS avaient une macrométastase , 92 une micrométastase .
+La recherche de micrométastase a donc fait passer le taux de N+ de cette série de 18 % ( 154 / 856 ) à 29 % ( 246 / 856 ) .
+Quinze des 92 GS micrométastatiques ( 16 % ) ont eu un curage positif : la recherche d' une micrométastase a donc permis de « rattraper » ces 15 faux-négatifs de l' examen histologique standard et fait augmenter le taux de N+ macrométastatique de 2 % ( 154 / 856 à 169 / 856 ) .
+Aucun des facteurs étudiés , âge , taille histologique , GHP , récepteurs hormonaux , taille de la micrométastase n' apparaît comme facteur significativement prédictif de la positivité du curage après GS micrométastatique .
+3.6. GS dans les cancers intracanalaires ( CCIS ) et micro-invasifs
+Le risque de trouver un GS N+ dans ces indications est de 2,3 % ( 2 / 87 avec curage négatif dans les deux cas ) et ne justifie pas a_posteriori ( c' est-à-dire lorsque que l' on connaît l' examen histologique définitif de la lésion mammaire ) la réalisation de cette évaluation ganglionnaire dans ce type d' indication .
+Le problème est différent lorsque l' on raisonne a_priori sur le résultat de micro- ou macrobiopsies percutanées .
+Nous avons ainsi réalisé une procédure de GS pour 112 patientes ayant un CCIS diagnostiqué sur biopsie percutanée , dont la taille radiologique justifiait une mastectomie et / ou s' associait une suspicion de micro-infiltration .
+L' examen histologique définitif concluait dans 55 cas à un CCIS pur ( un seul GS N+ avec curage négatif ) , 32 CCIS avec micro-invasion ( un seul GS micrométastatique avec curage négatif ) , 25 cancers invasifs ( 22 % de sous-estimation par la biopsie percutanée ) .
+Sur ces 25 patientes , huit avaient un GS N+ ( et trois curages positifs ) et quatre un GS micrométastatique ( un curage positif ) .
+Dans cette série , la pratique d'_emblée du GS a permis de réaliser l' évaluation ganglionnaire en un seul temps dans 103 cas ( 92 % ) .
+Si le curage n' avait été effectué qu' en cas de foyer invasif sur la pièce opératoire , une reprise chirurgicale aurait été nécessaire dans 25 cas ( 22 % ) , dans 57 cas ( 51 % ) si la reprise était faite pour les invasifs et micro-invasifs .
+Tableau 2.
+Résultats de la procédure du GS selon l' histologie du carcinome
+nge moyen ( ans ) Taux de détectionNombre de GS N+ MacroMicro CCIS555555 / 5510 CCIS+micro-invasion545432/3201 Cancers invasifs91357891 / 913166115
+Full-size table
+View Within Article
+4. Discussion4.1 .
+Modalités de repérage
+Aucune étude randomisée n' a actuellement été publiée comparant les performances respectives de la méthode isotopique , de la méthode colorimétrique et de l' association des deux .
+Cody  a colligé 20 séries de GS avec curage systématique et n' a pas retrouvé de différence significative selon la méthode utilisée isotope ( n = 1823 ) , bleu ( n = 484 ) , combinée ( n = 196 ) avec des taux de détection ( TD ) respectifs de 92 , 77 et 93 % et des taux de faux-négatifs ( TFN ) de 6 , 8 et 4 % .
+McMasters  , comparant la technique isolée versus la technique combinée ( n = 806 ) , ne montrait pas de différence dans le TD ( 86 vs 90 % ) mais une différence du TFN à la limite de la significativité ( 11,8 vs 5,8 % , p = 0,05 ) .
+Cette différence s' expliquait peut-être en_partie par un nombre moyen de GS enlevés variable selon la technique utilisée ( 1,5 vs 2,1 ) .
+Dans notre série , nous avons trouvé un bénéfice en terme de TD en_faveur_de la technique isolée , isotopique essentiellement ( 374 isotopes seuls , 22 bleus seuls ) par_rapport_à la technique combinée .
+Un biais possible pour expliquer cette différence serait notre utilisation préférentielle de l' isotope seul dans les plus petites tumeurs ( pT moyen = 11,7 ) alors_que la technique combinée était utilisée pour de plus grosses tumeurs ( pT moyen = 13,3 , p = 0,001 ) .
+Notre préférence actuelle va à l' utilisation de la méthode isotopique , associée ou non au bleu , pour sa précision de repérage sans nécessité de dissection importante du creux axillaire .
+La lymphoscintigraphie permet de délimiter la ( ou les ) zone ( s ) de recherche .
+Le repérage initial pendant l' intervention permet de réaliser une incision courte et bien ciblée .
+Le contrôle de l' activité résiduelle après ablation de tous les ganglions chauds permet de s' assurer de l' exérèse correcte de tous les ganglions sentinelles sans ouverture complète du creux .
+L' absence d' activité résiduelle ne nous dispense cependant pas d' une exploration au doigt du creux pour s' assurer de l' absence de ganglion macroscopiquement suspect mais froid , ce qui semble un geste important pour limiter le risque de faux-négatifs  .
+Il n' existe pas_non_plus d' essai randomisé ayant comparé les différents sites d' injection utilisés ( les résultats de l' essai FRANSENOD comparant injection péritumorale versus périaréolaire et dont les inclusions se sont terminées en septembre 2003 ne sont pas publiés ) .
+Trois sites d' injection sont habituellement utilisés : l' injection péritumorale , intraparenchymateuse autour_de la tumeur , l' injection sous-dermique en regard de la tumeur et l' injection sous-aréolaire .
+Différentes études comparatives non randomisées ont comparé l' injection péritumorale versus sous-dermique  , l' injection péritumorale versus sous-aréolaire  , l' injection sous-dermique versus sous-aréolaire  , l' injection péritumorale versus sous- ou intradermique  .
+Les résultats en TFN ne permettent pas de privilégier l' un ou l' autre de ces sites , il apparaît simplement une « tendance » pour un TD plus élevé avec la voie sous-aréolaire et un plus grand nombre de marquage extra-axillaire avec la voie péritumorale .
+Dans notre série , la comparaison des différents sites d' injection ne retentissait pas de façon significative sur le TD .
+Actuellement et tant qu' il n' y a pas d' étude montrant un bénéfice thérapeutique à l' exploration des voies extra-axillaires , l' un ou l' autre des sites d' injection peuvent être utilisés .
+4.2. Avantages et inconvénients du GS
+Le but actuel de la technique du GS est d' éviter aux patientes N- un curage et la morbidité associée .
+Dans notre série , 73 % des patientes n' ont pas eu de curage .
+Ce pourcentage était bien sr fonction des critères de sélection retenus , en_particulier de la taille tumorale .
+Plusieurs études se sont attachées à évaluer le bénéfice fonctionnel de l' absence de curage .
+On estime qu' après GS versus curage , le taux de lymphocèle est réduit par trois , les douleurs par deux à trois , le risque de Web syndrome ( corde axillaire s' étendant parfois à tout le bras ) par trois , le risque de réduction de la mobilité du membre supérieur par trois , le risque de lymphoedème par quatre à cinq  .
+Il s' agit là d' études d' observation avec un recul faible .
+Enfin il faut noter que cette réduction de la morbidité n' est pas ressentie comme retentissant sur la qualité de vie  .
+Il faut également souligner qu' aucune étude n' a actuellement évalué la morbidité spécifique , physique et psychologique , que pouvaient représenter les curages faits dans un deuxième temps .
+L' inconvénient essentiel du GS est le risque de faux-négatifs ( 5 à 10 % ) , laissant en place des ganglions axillaires métastatiques .
+L' évaluation directe du taux de faux-négatifs est évidemment impossible lorsqu' on abandonne le curage systématique .
+Une approche indirecte du risque de faux-négatifs est la comparaison du taux de N+ retrouvés dans la série avec un modèle prédictif de risque de N+ en fonction de la taille tumorale .
+Le modèle choisi est celui d' une étude de Cutuli  portant sur 893 cancers invasifs ayant un curage axillaire classique , le risque de N+ étant donné en fonction de la taille tumorale pathologique ( pT ) .
+Tableau 3.
+Comparaison du taux de N+ entre notre série et un modèle prédictif , selon la taille tumorale
+pT ( mm ) n a% N+ attendus ( n ) a% N+ trouvés ( n ) a% N+ trouvés , microméta exlues ) b ( n ) a 1 - 9,924511.1 ( 27 ) 13.5 ( 33 ) 4 ( 10 ) 10 - 14,930517.7 ( 54 ) 22 ( 72 ) 14.4 ( 44 ) 15 - 19,920526.5 ( 54 ) 36.6 ( 75 ) 24.8 ( 51 ) 20 - 24,912230.1 ( 37 ) 54.1 ( 66 ) 39.3 ( 48 ) 25 - 29,94036 ( 14 ) 60 ( 24 ) 55 ( 22 ) 29,928np c67.8 ( 19 ) 46.4 ( 13 ) Total94530.6 ( 289 ) 19.9 ( 188 )
+Full-size table
+a n = nombre .
+b ne sont retenus comme N+ que les GS macrométastatiques et les GS micrométastatiques avec curage positif .
+c non précisé .
+View Within Article
+L' autre approche du taux de faux-négatifs est bien entendu l' évaluation des récidives axillaires .
+Les données sur le risque de récidive axillaire liée au GS et son impact éventuel sur la survie ne pourront venir que des résultats des essais randomisés comparant GS et curage .
+Plusieurs études ont évalué de façon rétrospective ou prospective mais non comparative le risque de récidive ganglionnaire .
+Le Tableau 4  montre un taux faible de récidive axillaire avec un recul moyen qui est cependant très court .
+Le risque de récidive axillaire est inférieur à 2 % pour l' ensemble des études à_l'_exception_de celle d' Imoto  .
+Dans cette dernière étude , la négativité du ganglion sentinelle n' est retenue que sur l' étude extemporanée .
+Dans l' évaluation de l' expérience du MSKCC ( Memorial Sloan Kettering Cancer Center ) portant sur 4008 prises en charge axillaires , Naik  montrait un taux de récidive plus important dans le groupe GS positif sans curage ( 1,4 % ) que dans les trois autres groupes de prise en charge : GS négatif avec curage , GS négatif sans curage et GS positif avec curage ( 0,18 % ) .
+Dans notre expérience , le taux de récidives axillaires variait de 0,1 % pour les GS négatifs sans curage ou positifs avec curage à 4,3 % pour les GS micrométastatiques sans curage et 8,3 % pour les GS macrométastatiques sans curage .
+Cependant , Fant  évaluait 31 patientes avec GS positif ( dont 27 micrométastases ) et ne constatait aucune récidive axillaire avec un recul moyen de 30 mois .
+Nos résultats et ceux de Naik  nous incitent néanmoins à proposer aux patientes une reprise en curage pour tout GS positif même s' il ne contient qu' une micrométastase .
+Cette attitude systématique entraîne cependant un grand nombre de réinterventions inutiles puisque pour les GS micrométastatiques , 85 à 90 % des curages secondaires seront négatifs  .
+Malgré la recherche de facteurs prédictifs de négativité de ces curages secondaires , il n' est actuellement pas possible d' isoler un sous-groupe de patientes sans risque de CA positif et ce quelle que soit la taille de la métastase dans le GS y_compris pour les lésions inférieures à 0,2 mm ou cellules isolées  .
+Tableau 4.
+Risque de récidive axillaire après GS négatif sans curage
+AuteursGS négatif ( n ) Récidive axillaire ( n ) Recul moyen ( mois ) Roumen  100124 Schrenk  82022 Hansen  238039 Chung  206326 Reitsamer  200036 Veronesi  167046 Ponzone  150015 Badgwell  159132 Van der Vegt  106135 Imoto  112552 Torrenga  104157 Notre série693120
+Full-size table
+View Within Article
+4.3. GS et cancer canalaire in_situ ( CCIS ) et / ou micro-invasif ( CMI )
+Le risque d' atteinte ganglionnaire dans les CCIS est faible , considéré comme inférieur à 2 % lorsqu' il était évalué par curage et avait fait abandonné la pratique du curage dans cette indication  .
+La technique du GS avec sa faible morbidité fait reposer l' indication de l' évaluation ganglionnaire dans ces indications .
+Les études de GS dans les CCIS montrent des taux de positivité ganglionnaire supérieurs à ceux constatés avec curage : 6 % ( 5 / 87 ) pour Pendas  , 13 % ( 26 / 195 ) pour Cox  , 2 % dans notre série .
+Cette différence peut s' expliquer par deux mécanismes : les CCIS qui ont bénéficié du GS étaient considérés comme à risque , c' est-à-dire de grande taille .
+En outre , la pratique des coupes sériées et de l' IHC sur le GS majorait le risque de trouver une atteinte ganglionnaire .
+Ainsi , une étude rétrospective recherchant une micrométastase sur des curages considérés comme négatifs , trouvait un taux de 13 % de micrométastases sur une série de 102 CCIS purs  .
+Dans les CMI , les taux de positivité ganglionnaires sont un_peu plus élevés : inférieurs à 10 % quand l' évaluation est faite par curage  , autour_de 10 % lorsque est pratiqué un GS  .
+Les techniques de recherche de micrométastases expliquent là encore cette différence .
+Le problème essentiel ne réside pas dans la recherche d' une atteinte ganglionnaire dans ces formes histologiques mais dans la difficulté du diagnostic précis avant l' intervention lorsque ces formes sont étendues et relèvent d' une mastectomie totale .
+Le risque de sous-estimation avec une lésion invasive varie dans ce cas de 11 à 23 % lorsque le diagnostic repose sur une biopsie limitée  , 22 % dans notre série sur biopsies percutanées .
+Le choix est alors soit d' attendre l' histologie définitive de la pièce de mastectomie et de proposer une reprise des lésions se révélant invasives , soit de pratiquer un GS pour tout CCIS ou CMI relevant d' une mastectomie totale ( MT ) .
+Dans le premier cas , la reprise est obligatoirement un curage puisque la technique du GS n' est plus réalisable une fois la MT effectuée .
+Dans le deuxième cas , le risque est de se retrouver avec un GS uniquement micrométastatique et dont la signification pathologique reste très controversée en_particulier dans les CCIS .
+L' étude de Lara  avec un recul de 19 ans ne montre aucune signification pronostique de la présence de micrométastases dans les ganglions des CCIS purs .
+Cette constatation associée au caractère exceptionnellement positif du curage après GS micrométastatique fait actuellement proposer la surveillance simple ( pas de curage , pas de traitement systémique ) en cas de découverte d' un GS micrométastatique associé à un CCIS pur à l' examen histologique définitif  .
+5. Conclusion
+Le débat reste actuellement ouvert entre les partisans du GS qui jugent que la faisabilité de la technique a été suffisamment établie dans les grandes séries publiées avec des taux de récidive axillaire faibles , et les partisans du curage qui croient à la valeur thérapeutique de ce dernier .
+Nous nous inscrivons dans la première mouvance et pratiquons donc en routine la technique du GS en nous abstenant de curage lorsque le GS est négatif .
+Ce , bien sr , sous réserve de pratiquer la procédure dans les indications reconnues ( tumeur de petite taille , N0 , unifocale , sans traitement préalable ) et d' effectuer systématiquement un curage lorsque le GS est positif même s' il ne s' agit que d' une micrométastase ou de cellules isolées .
+Nous participons en_outre aux essais qui évaluent soit de nouvelles indications potentielles du GS ( essai GANEA : GS après chimiothérapie ) , soit de nouvelles stratégies de prise en charge après GS positif ( essai AMAROS : curage vs irradiation axillaire après GS positif )

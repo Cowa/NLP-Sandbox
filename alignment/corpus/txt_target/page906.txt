@@ -1,0 +1,184 @@
+Fatty acid synthase ( FAS , EC 2.3.1.85 ) , which catalyzes the reductive synthesis of palmitate from acetyl-CoA and malonyl-CoA , plays a central role in the anabolic conversion of dietary calories into storage form of energy in mammals  .
+Numerous clinical and basic studies indicate that high levels of FAS are present in varieties of human cancers and are associated with poor prognosis  .
+It has been demonstrated that inhibition of FAS with synthetic inhibitors or siRNA is selectively cytotoxic to human cancer cell and leads to a significant anti-tumor effect in various cancer xenografts  .
+Furthermore , high levels of FAS have been found in various cancer precursor lesions , such as colon , stomach , esophagus , oral cavity , prostate and breast  , suggesting that activation of fatty acid synthesis is required for carcinogenesis .
+Collectively , overxpression of FAS occurs in a wide variety of human precancerous and cancerous lesions , suggesting that FAS is a potential drug target for chemoprevention or chemotherapy .
+HER2 has been shown to regulate FAS expression through PI3K / Akt signal transduction pathways , revealing a molecular connection between FAS and HER2 in human breast cancer cells  .
+HER2 ( alternatively known as neu or erbB2 ) , a member of the EGFR family of transmembrane receptor tyrosine kinases , is overexpressed in about 30% of breast cancers  .
+HER2 overexpression has been shown to be correlated with poor prognosis , enhanced metastatic potential , and increased chemoresistance of human cancers  .
+Notably , inhibition of FAS preferentially induced apoptosis of HER2-overexpressing cancer cells  and delayed tumor progression in neu-N transgenic mice  , suggesting that upregulation of FAS expression might play a role in HER2-mediated cell survival and tumorigenesis .
+Taken together , targeting FAS might be a novel approach to treat or prevent HER2-overexpressing breast cancer .
+In recent years , there has been a global trend toward the use of natural substances present in fruits , vegetables , and herbs as antioxidants and anti-cancer agents .
+Chemically , plant steroids of the spirosolane series such as solasodine and tomatidine occur in most plant tissues , where they are thought to play a protective role as detergents of certain insects .
+Previous studies have shown that solasodine is effective in the treatment of skin cancer  , and tomatidine may benefit cancer chemotherapy by inhibiting multi-drug resistance in human cancer cells  .
+In addition , diosgenin , a member of steroidal sapogenin found in several plants including Solanum and Dioscorea species , has gained in importance recently .
+Diosgenin has been shown to have not only favorable effects on lipid metabolism  but also anti-tumor effects on cancer cells  .
+Although these data suggest that diosgenin possesses strong anti-neoplastic activities , its effect against HER2-overexpressing cancer cells is seldom mentioned .
+Based on the facts that FAS expression plays an important role in the survival and tumorigenesis in HER2-overexpressing breast cancer , and that plant steroids have favorable effects on both lipid metabolism and anti-cancer , it promotes us to investigate whether the plant steroids could diminish FAS expression in HER2-overexpressing breast cancer .
+Examining the structurally related plant steroids revealed that diosgenin was most effective suppression of FAS expression in HER2-overexpressing breast cancer cells .
+Diosgenin preferentially inhibited proliferation and induced apoptosis in HER2-overexpressing cancer cells .
+Furthermore , we showed that the modulating Akt , mTOR and JNK phosphorylation was potentially required for diosgenin-induced FAS suppression .
+Finally , diosgenin could specifically sensitize paclitaxel-induced cytotoxicity in HER2-overexpressing cancer cells .
+These results indicate that diosgenin could down-regulate FAS expression and induce apoptosis in HER2-overexpressing cancer cells through modulating Akt , mTOR and JNK phosphorylation , and further suggest that diosgenin has therapeutic implications in HER2-overexpressing cancer cells .
+2. Materials and methods2.1 .
+Chemicals .
+Diosgenin , solasodine , and tomatidine , LY294002 , PD98059 , rapamycin , G418 , C75 , palmitic acid , fatty acid-free bovine serum albumin ( BSA ) , and MTT were purchased from Sigma Chemical Co. ( St. Louis , MO , USA ) .
+SP600125 and SB203580 were purchased from Calbiochem ( San Diego , CA , USA ) .
+Antibodies for FAS were purchased from BD Biosciences ( Los Angeles , CA ) .
+Antibodies for Akt , mTOR , p44 / 42 MAPK , p38 MAPK , JNK1 , phospho-mTOR ( Ser2448 ) , phospho-Akt ( Ser-473 ) , phospho-p44 / p42 MAPK ( Thr202 / Tyr204 ) , phosphor-p38 MAPK ( Thr180 / Tyr182 ) and phosphor-JNK ( Thr183 / Tyr185 ) were purchased from Cell Signaling Technology ( Beverly , MA ) . -Actin antibody was from Abcam Inc. ( Cambridge , MA ) .
+Anti-mouse and anti-rabbit antibodies conjugated to horseradish peroxidase were obtained from Santa Cruz Biotechnology Inc. ( Santa Cruz , CA ) .
+All other reagents and chemicals were purchased from Sigma and were of an analytical grade .
+Full-size image ( 63K )
+High-quality image ( 536K ) Full-size image ( 18K )
+High-quality image ( 142K )
+Fig. 1. Effects of diosgenin , solasodine , and tomatidine on the FAS expression and proliferation in breast cancer cells. ( A ) Chemical structures of diosgenin , solasodine , and tomatidine. ( B ) AU565 cells were incubated with DMSO ( Con ) or Td , tomatidine ; Dg , diosgenin ; Sd , solasodine ( 10 M ) at 37 C for 24 h .
+Immunoblotting was used to measure protein levels of FAS and -actin. ( C ) Cell viability was determined by MTT assays after continuous exposure to different concentrations of diosgenin , solasodine , and tomatidine at 37 C for 24 h .
+The number of viable cells after treatment is expressed as a percentage of the vehicle-only control .
+Data are means of three independent experiments .
+Bars represent the S.E. ( D ) Left column : Immunoblotting was used to measures HER2 , FAS and -actin in 435.neo and 435.eb cells .
+FAS expression is upregulated in 435.eb cells .
+Right column : 435.neo and 435.eb cells were treated with various concentrations of diosgenin at 37 C for 48 h , and cell viability was determined by MTT assays .
+The number of viable cells after treatment is expressed as a percentage of the vehicle-only control .
+Data are means of three independent experiments .
+Bars represent the S.E. P 0.05. .
+View Within Article .
+2.2. Cell culture .
+HER2-overexpressing human cancer cell lines , AU565 ( breast adenocarcinoma ) and cell lines with low HER2 expression , including MCF-7 ( breast adenocarcinoma ) , and HBL-100 , which is derived from a normal human breast tissue transformed by SV40 large T antigen , were obtained from American Type Culture Collection ( Manassas , VA ) .
+All of the cells were grown in DMEM / F12 supplemented with fetal calf serum ( Hyclone Laboratories , Logan , UT ) and 1% penicillin - streptomycin .
+The 435.neo and 435.eB transfectants , which were kindly provided by Dr. Mien-Chie Hung ( The University of Texas , M.D. Anderson Cancer Center , Houston , TX ) , were cultured as described before  .
+These cells were grown at 37 C in a humidified atmosphere of 5% CO2 .
+For culturing cells in the presence of palmitate-bovine serum albumin complex , palmitate ( Sigma ) was first complexed to fatty acid-free bovine serum albumin as described  .
+Briefly , four volumes of a 4% bovine serum albumin solution in 0.9% NaCl were added to 1 volume of 5 mM palmitate in ethanol and incubated at 37 C for 1 h to obtain a 1 mM stock solution of bovine serum albumin-complexed palmitate .
+2.3. Western blot analysis .
+Cells ( 1.5 106 ) were seeded onto a 100 mm tissue culture dish containing 10% FCS DMEM / F12 and cultured for 24 h .
+Then cells were incubated in 1% FCS DMEM / F12 treating with various agents as indicated in figure legends .
+After treatment , cells were placed on ice , washed with cold PBS , and lysed in lysis buffer .
+Western Blot was done as described previously  .
+The intensity of the bands was scanned and quantified with NIH image software .
+2.4. Cell proliferation assays and flow cytometry .
+As described previously  , the effects of diosgenin solasodine , tomatidine and taxol on cell proliferation were examined by MTT method , and the cell cycle analysis of the sub-G1 peak detection of the apoptotic effect was determined by flow cytometry using propidium-iodide staining .
+2.5. Statistical analysis .
+All values were expressed as means S.D. Each value is the mean of at least three separate experiments in each group .
+Student 's t-test was used for statistical comparison .
+Indicates the values are significantly different from the control. ( P 0.05 ) .
+3. Results3.1 .
+Effects of diosgenin , solasodine , and tomatidine on the expression of FAS in HER2-overexpressing breast cancer cells .
+Diosgenin , solasodine , and tomatidine are naturally occurring plant steroids and have been shown to have anti-neoplastic activities .
+To investigate the possible relationship between the chemical structure and the biological activities , we determined their inhibitory activities on the protein level of FAS in HER2-overexpressing breast cancer cell lines .
+We treated separately the HER2-overexpressing human breast cancer AU565 cells with 10 M of these compounds at 37 C for 24 h , and the levels of FAS protein was analyzed .
+As shown in Fig. 1B , among the tested compounds , diosgenin was the most effective compound in suppressing FAS expression .
+3.2. Diosgenin preferentially inhibits the proliferation of HER2-overexpressing breast cancer cells .
+To assess the biological activity of diosgenin , solasodine , and tomatidine in terms of cell proliferation , HBL-100 , MCF-7 , and AU565 cells were treated with these plant steroids at different concentrations for 24 h .
+The growth inhibition of the tested cell lines was in a dose-dependent manner but to various extents .
+AU565 cells that overexpress HER2 showed higher susceptibility to diosgenin than did HBL-100 or MCF-7 cells , resulting in lower cell viability .
+Both HBL-100 and AU565 cells were sensitive to solasodine .
+Tomatidine , in contrast , showed higher cytotoxicity against HBL-100 cells .
+To avoid the genetic complexities associated with established cancer cell lines , we compared the sensitivity of 435.neo cells , which were established by transfecting the neomycin resistance gene alone into MDA-MB-435 cells , with that of isogenic HER2-transfected MDA-MB-435 ( 435.eb ) .
+Consistent with our expectations , 435.eb cells were more sensitive to diosgenin than were 435.neo cells .
+Overall , these results suggest that diosgenin preferentially suppresses the growth of HER2-overexpressing cancer cell lines .
+3.3. Diosgenin preferentially promotes apoptotic cell death in HER2-overexpressing breast cancer cells .
+We next examined whether the loss of cell viability was due to an increase in apoptotic cell death .
+The percentage of apoptotic cells in the sub-G1 peak of diosgenin-treated cells were measured by flow cytometry .
+As shown in Fig. 2 , compared with vehicle-treated control , diosgenin dramatically increased the amount of apoptotic cells ( sub-G1 cells ) in the HER2-overexpressing cancer cell lines .
+In contrast , in HER2 low-expressing cell lines , the level of apoptotic cells was similar after either vehicle or diosgenin treatment .
+In addition , we also found that diosgenin preferentially induced apoptosis in 435.eb cells when compared with 435.neo cells ( P 0.05 ) .
+Therefore , diosgenin can preferentially induce apoptosis in HER2-overexpressing cancer cell lines .
+Full-size image ( 11K )
+High-quality image ( 75K )
+Fig. 2. Diosgenin induces apoptosis in HER2-overexpressing cancer cell lines but not in HER2 low-expressing cancer cell lines .
+Cells were treated with vehicle or diosgenin for 24 h ( HBL-100 , MCF-7 and AU565 ) or 48 h ( 435.neo and 435.eb ) then harvested and subjected to sub-G1 DNA content analysis .
+The level of apoptosis induced by vehicle was set at 1 and the level of apoptosis induced by diosgenin was expressed relative to this value .
+Columns , average of three independent experiments ; Bars represent the S.E. P 0.05. .
+View Within Article .
+3.4. Palmitate suppresses diosgenin-induced cytotoxicity in HER2-overexpressing cancer cells .
+To confirm that the cell cytotoxicity induced by diosgenin was related to FAS inhibition , AU565 cells were exposed for 24 h to diosgenin in the presence of 75 M palmitate .
+Palmitate markedly reduced the cytotoxic effect of diosgenin , as the percentage of viable cells was significantly decreased after the addition of exogenous palmitate .
+Poly ADP-ribose polymerase ( PARP ) , cleaved by caspases during apoptosis to produce Mr 86000 fragments , was measured as a marker of apoptosis by immunoblotting .
+Diosgenin induced corresponding increases in the PARP cleavage , and addition of exogenous palmitate reduced the cleavage .
+To test whether that the suppression of FAS really critical for diosgenin 's ability to inhibit proliferation in HER2-overexpressing cancer cell lines , 435.eb cells were treated with C75 , a synthetic FAS inhibitors , at different concentrations for 24 h .
+The growth inhibition of the 435.eb cells was in a dose-dependent manner .
+In contrast , the suppression of FAS mimicked the diosgenin 's effect .
+Full-size image ( 28K )
+High-quality image ( 224K )
+Fig. 3. Exogenous palmitate suppresses diosgenin-induced cancer cell cytotoxicity. ( A ) AU565 cells were exposed to vehicle ( control ) or to diosgenin ( 12.5 M ) , in the presence or absence of 75 M palmitate .
+After 24 h , cell viability was determined by MTT assays .
+Bars represent the S.E. P 0.05. ( B ) AU565 cells were exposed to vehicle ( control ) or to diosgenin ( 20 M ) , in the presence or absence of 75 M palmitate .
+After 24 h , PARP cleavage was assessed by Western blot analysis. ( C ) 435.eb cells viability was determined by MTT assays after continuous exposure to different concentrations of C75 , a synthetic FAS inhibitor , at 37 C for 24 h .
+The number of viable cells after treatment is expressed as a percentage of the vehicle-only control .
+Data are means of three independent experiments .
+Bars represent the S.E .
+View Within Article .
+3.5. Diosgenin downregulates phospho-Akt and phospho-mTOR , and upregulates phospho-JNK levels in HER2-overexpressing breast cancer cells .
+Akt , ERK , and JNK have been shown to be involved in FAS regulation in various cell types  .
+To examine whether the activities of Akt and MAPKs are affected by diosgenin , we analyzed the phosphorylation of Akt and MAPKs in AU565 cells after treatment with diosgenin ( 5 - 20 M ) for 24 h .
+Immunoblot analysis with anti-phospho-specific antibody was then performed .
+As shown in Fig. 4A , diosgenin inhibited the phosphorylation of Akt and its downstream mTOR .
+In contrast , diosgenin enhanced JNK phosphorylation .
+Diosgenin did not affect p38 and ERK phosphorylation .
+Full-size image ( 54K )
+High-quality image ( 456K )
+Fig. 4. ( A ) Effects of diosgenin on the Akt , mTOR and MAP kinases phosphorylation in HER2-overexpressing breast cancer cells .
+AU565 cells were treated with the PI3K inhibitors LY294002 ( LY ; 25 M ) or MEK1 inhibitor PD98059 ( PD ; 50 M ) or diosgenin ( 5 , 10 and 20 M ) at 37 C for 24 h .
+Levels of phosphorylated Akt , mTOR , ERK1 / 2 , p38 MAPK and JNK1 / 2 was analyzed by immunoblotting with phopho-Akt ( Ser-473 ) , phopho- mTOR ( Ser-2448 ) , phopho-p44 / 42 MAPK ( Thr202 / Tyr204 ) , phopho-p38 MAPK ( Thr180 / Tyr182 ) and phopho-JNK ( Thr183 / Tyr185 ) antibodies .
+Immunoblotting with -Actin antibody demonstrated equivalent protein in each lane. ( B ) AU565 cells were incubated with PI3K inhibitor LY294002 ( 25 M ) , JNK inhibitor SP600125 ( 25 M ) , and mTOR inhibitor rapamycin ( 100 nM ) in the presence or absence of diosgenin ( 20 M ) at 37 C for 24 h .
+Cells were harvested and immunoblotting was used to measure levels of FAS protein and -actin. ( C ) AU565 cells were incubated with JNK inhibitor SP600125 ( 25 M ) in the presence or absence of diosgenin ( 20 M ) at 37 C for 24 h .
+Cells were harvested and PARP cleavage was assessed by western blot analysis .
+View Within Article .
+3.6. Effects of kinase inhibitors on the FAS expression in HER2-overexpressing breast cancer cells .
+In further studies , we examined whether inhibition of FAS expression in AU565 by diosgenin is mediated through modulation of Akt , mTOR , and JNK phosphorylation .
+As shown in Fig. 4B , treating the cells with the inhibitors of PI3K ( LY294002 ) and mTOR ( Rapamycin ) significantly reduced FAS protein expression .
+Treatment with JNK inhibitor SP600125 rendered diosgenin unable to suppress FAS expression and also inhibited diosgenin 's ability to induce apoptosis .
+Taken together , it suggests that diosgenin inhibits FAS expression by repressing the phosphorylation of Akt and mTOR , and activating JNK phosphorylation in AU565 cells .
+3.7. Diosgenin can enhance the chemosensitivity of HER2-overexpressing breast cancer cells .
+Previous studies have shown that HER2 overexpression can confer resistance to chemotherapeutic agents in breast cancer cells  and that inhibition of FAS can sensitize HER2-overexpressing cancer cells to paclitaxel  .
+Because diosgenin can inhibit FAS expression in HER2-overexpressing cancer cells , we thus evaluated whether diosgenin could sensitize HER2-overexpressing cancer cells to the chemotherapeutic agent paclitaxel .
+To determine the effect of diosgenin on paclitaxel-induced cytotoxicity , we treated 435.eb and 435.neo cells with increasing concentrations of paclitaxel ( 5 - 20 nM ) in the absence or presence of 20 M diosgenin .
+After treatment for 48 h , cell viability was measured using a MTT assay .
+As shown in Fig. 5A , diosgenin could enhance paclitaxel-induced cytotoxicity in 435.eb cells , but not in 435.neo cells .
+Taken together , the above data showed that diosgenin can specifically enhance the cytotoxicity induced by paclitaxel in HER2-overexpressing cancer cells but not in HER2 low expressing cancer cells .
+Full-size image ( 32K )
+High-quality image ( 248K )
+Fig. 5. Diosgenin enhances paclitaxel-induced growth inhibition in HER2-overexpressing cancer cells .
+435.eb ( A ) and 435.neo ( B ) cells were treated for 48 h with either vehicle or 20 M diosgenin in combination with the indicated concentrations of paclitaxel .
+Loss of cell viability was measured using the MTT assay .
+View Within Article .
+4. Discussion .
+The practice of dietary agents for treating the diseases is well known from ancient times .
+Recently , some light has been focused on steroid like compounds present in numbers of dietary agents .
+In this study , we demonstrated that among the tested naturally occurring steroids , diosgenin showed the most effective inhibition of FAS expression in HER2-overexpressing cancer cells .
+Further analysis indicated that diosgenin preferentially inhibited the proliferation of HER2-overexpressing cancer cells .
+In addition , diosgenin could specifically sensitize HER2-overexpressing cancer cells to paclitaxel-induced cytotoxicity .
+Interestingly , both diosgenin and solasodine were effective inhibition of proliferation in AU565 cells , while tomatidine was not , suggesting the presence or absence of the unsaturation at 5 may lead to major modifications in biological activity in HER2-overexpressing cells .
+These results will provide new information for the study of these functional groups in the future .
+It has been hypothesized that increased exposure to exogenous estrogens from dietary phytoestrogens may reduce breast cancer risk  .
+The main classes are isoflavones , coumestans , lignans , and sterols .
+Genistein , for example , has been shown to inhibit the growth of a wide range of both hormone-dependent and hormone-independent cancer cells  .
+Diosgenin , an important compound in the pharmaceutical industry as a natural source of steroidal hormones , has gained attention recently .
+Studies suggest that it can be absorbed through gut  and has anti-tumor activities .
+The anti-tumor effects of diosgenin have been demonstrated to be mediated through disruption of Ca2t homeostasis  , inhibition of NF-B  , activation of p53 , and modulation of caspase-3 activity  .
+We demonstrated here for the first time that fatty acid synthesis is required for diosgenin-induced cytotoxicity in HER2-overexpressing cancer cells .
+It has been well-documented that HER2-overexpressing cancer cells overexpress FAS and thus are sensitive to treatments that target FAS  .
+The concept of oncogene addiction suggests that cancer cells are often physiologically dependent on the continued activity of specific activated or overexpressed oncogenes for maintenance of their malignant phenotype , which provides an Achilles heel for tumors that can be exploited in cancer therapy  .
+Because FAS is overexpressed in HER2-overexpressing cancer cells , it is reasonable to assume that diosgenin can suppress the survival of HER2-overexpressing cancer cells .
+Activation of Akt signalings have been demonstrated to upregulate the expression of FAS in various cell types , including breast  , prostate  , and ovarian cancer cells  .
+In this study , the phosphorylation of Akt was suppressed diosgenin in AU565 cells that overexpress HER2 .
+Furthermore , the expression of FAS was also inhibited by the PI3K inhibitor LY294002 .
+HER2 has been shown to regulate FAS expression through Akt-dependent mechanism  .
+Given that Akt can be either activated by PI3K or negatively regulated by PTEN  , investigations into the possible involvement of PI3K or PTEN in diosgenin-induced down-regulation of Akt are currently in progress .
+It is noteworthy that our results illustrate that mTOR signaling plays an important role in the upregulation of FAS in HER2-overexpressing cancer cells , which is consistent with the a recent report by Yoon_et_al.  .
+There is a clear association between mTOR activation and HER2 overexpression in breast cancer  and activation of this signaling pathway has been associated with poorer prognosis .
+Many reports have suggested that the mTOR pathway plays an important role in the susceptibilities of chemopreventive or chemotherapeutic agents to kill cancer cells  .
+In accordance with this concept , diosgenin could sensitize paclitaxel-induced cytotoxicity in HER2-overexpressing cancer cells .
+The c-Jun N-terminal kinase ( JNK ) pathway represents one sub-group of MAP kinases that is activated by cytokines and exposure to environmental stress  .
+JNK has been reported to have a role in the induction of apoptosis , but have also been implicated in enhancing cell survival and proliferation  .
+Interestingly , tamoxifen-induced apoptosis was found to be related to the activation of the JNK phosphorylation and increased caspase 3 activity  , supporting a role for JNK in facilitating tamoxifen-induced apoptosis .
+Our results here suggest that JNK may play a role in diosgenin-induced FAS suppression and apoptosis ( Fig. 4B and data not shown ) .
+In contrast , suppressing FAS expression by inhibiting JNK signaling has also been demonstrated by our and other laboratories  .
+Taken together , alterations of JNK activity may lead to changes of FAS levels and cell survival .
+The role of JNK in the regulation of FAS expression and apoptosis is still controversial and merits further investigation .
+In conclusion , elevated FAS expression is associated with HER2 overexpression , which is regarded as a poor prognostic marker in breast cancer cells .
+We provide experimental evidence here for the first time to demonstrate that diosgenin could suppress FAS expression and modulate Akt , mTOR and JNK phosphorylation in HER2-overexpressing cancer cells .
+These results highlight the potential of use diosgenin as a unique chemotherapeutic modulator in the prevention or treatment of HER2-overexpressing cancer .
+Acknowledgements .
+The authors would like to thank Prof. Mien-Chie Hung for generous providing cancer cell lines 435.neo and 435.eB .
+This study was supported by the National Science Council NSC 95-2320-B-002-111 and NSC95-2321-B-002-016 .

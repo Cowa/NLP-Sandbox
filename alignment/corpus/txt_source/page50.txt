@@ -1,0 +1,106 @@
+Le cancer du sein est le cancer le plus fréquent de tous les cancers féminins , c' est la première cause de mortalité chez la femme .
+En effet , 20 % des décès féminins par cancer ont pour origine un cancer du sein .
+Le traitement du cancer du sein utilise en_premier_lieu la chirurgie , souvent complétée par une chimiothérapie .
+Le traitement chimiothérapeutique , malgré son efficacité , a des effets secondaires sur de nombreuses fonctions et fragilise , en_particulier , le système immunitaire .
+De plus , les médicaments anticancéreux utilisés lors_de la chimiothérapie réduisent l' efficacité des défenses naturelles antioxydantes de l' organisme et induisent un stress oxydatif qui augmente avec la progression de la maladie .
+Les antioxydants tels_que la vitamine C , la vitamine E , le -carotène et le sélénium semblent améliorer l' efficacité du traitement par chimiothérapie et radiothérapie  .
+De ce fait , dans les protocoles de chimiothérapie de la clinique d' oncologie de Macei au Brésil , un supplément contenant du -carotène ( 15 mg ) , de la vitamine E ( 400 mg ) , de la vitamine C ( 2 g ) et du sélénium ( 50 g ) est administré avant toute chimiothérapie aux patientes ayant subi une mastectomie .
+Dans cette optique , ce travail a été conduit pour évaluer si la supplémentation par le -carotène , la vitamine E , la vitamine C et le sélénium a des effets protecteurs sur l' immunité humorale , en dosant les IgM , les IgG et les IgA chez des patientes atteintes d' un cancer du sein , récemment mastectomisées et soumises à un protocole de chimiothérapie .
+2. Patients et méthodes
+Il s' agit d' une étude longitudinale en double insu , incluant 20 femmes brésiliennes âgées de 30 à 60 ans , atteintes d' un cancer du sein et ayant récemment subi une mastectomie , avec indication de chimiothérapie .
+Les patientes ont été sélectionnées lors_de leur visite de consultation dans le service d' oncologie clinique ambulatoire de l' hôpital universitaire de Macéio-Alagoas / UFAL , Brésil .
+Les critères d' inclusions étaient : diagnostic de carcinome ductal infiltrant , absence de radiothérapie , patientes devant suivre les protocoles CMF ( Cyclosphosphamide , Méthotrexate , 5-Fluorouracil ) et FAC ( 5-Fluorouracil , Adriamycine , Cyclosphosphamide ) adoptés par l' hôpital , ne devant pas prendre d' autres médicaments que ceux des protocoles CMF et FAC , et ne modifiant pas leur alimentation pendant toute la durée de l' étude .
+Lors de l' inclusion , les patientes ayant accepté de participer à l' étude ont été informées des objectifs et de la méthodologie du protocole d' étude , comme l' exige le conseil national de santé .
+Cette étude a été validée par le conseil d' éthique médical de l' université fédérale d' Alagoas .
+Les femmes ont été randomisées en deux groupes : un groupe « G7 » incluant dix patientes recevant une supplémentation en nutriments antioxydants ( vitamines C , E , -carotène , et sélénium ) pendant sept jours avant la chimiothérapie ; et un groupe de dix patientes « G 30 » recevant la même supplémentation en nutriments antioxydants durant une période de 30 jours avant la chimiothérapie .
+Chaque femme a été médicalement suivie durant les 126 jours du traitement anticancéreux .
+Au début de l' étude , et avant la phase de supplémentation , les patientes ont été soumises à un examen clinique complet , un échantillon de sang étant prélevé pour le dosage des immunoglobulines IgG , IgM et IgA .
+Après la phase de supplémentation , de 7 ou 30 jours , et avant le traitement chimiothérapeutique , une deuxième prise de sang a été pratiquée pour le dosage des immunoglobulines .
+À la fin du traitement anticancéreux , un troisième prélèvement sanguin a été effectué .
+Les doses d' antioxydants utilisées pour la supplémentation orale sont proches de celles des essais d' intervention randomisés  : vitamine C ( 1000 mg d' acide ascorbique , deux fois par jour ) , vitamine E + sélénium ( 400 mg d' alphatocophérol + 50 g de sélénium , une fois par jour ) , et -carotène ( 15 mg , une fois par jour ) .
+Les produits utilisés en supplémentation ont été fournis par les laboratoires VITAGOLD ( Washington DC , 2007 , États-Unis ) .
+L' évaluation des taux sanguins en immunoglobulines a été réalisée par la technique de Mancini ( 1965 ) , basée sur la méthode d' immunodiffusion radiale .
+Les valeurs biologiques en immunoglobulines pour un adulte sont les suivantes : - IgG : 600 à 1050 mg / dl ;
+- IgM : 75 à 300 mg / dl ;
+- IgA : 90 à 400 mg / dl  ;
+L' analyse statistique des données a été réalisée à l' aide du logiciel « Software SPSS / PC ( Statistical Package for the Social Science for Windows ) » version 12.0. Un test non paramétrique , le test de Wilcoxon , a été utilisé pour comparer les valeurs moyennes des immunoglobulines en fonction des différentes phases de l' étude et pour chacun des deux groupes ( G7 et G30 ) , chaque malade étant son propre témoin .
+Le seuil de signification a été fixé à p = 0,05 .
+3. Résultats
+Les teneurs moyennes des immunoglobulines des patientes à leur entrée dans l' étude étaient comprises dans les valeurs normales dans le cas des IgA et des IgM .
+En revanche , les teneurs moyennes des IgG étaient supérieures aux valeurs normales .
+Aucune différence significative n' a été observée entre les valeurs moyennes en immunoglobulines IgG , IgM et IgA avant supplémentation , après supplémentation en antioxydants , et après le traitement chimiothérapeutique dans les deux groupes .
+Il apparaît donc que la production d' immunoglobulines n' a pas été affectée par les effets délétères de la chimiothérapie .
+Tableau 1.
+Moyennes et erreurs standards des valeurs en immunoglobulines IgG , IgM et IgA ( mg / dl ) , dans les groupes « G7 » et « G30 » , avant et après la supplémentation de 7 ou 30 jours en antioxydants , et après la chimiothérapie
+Groupe G7Groupe G30 Moyenne [ Ig ] ( mg / dl ) ESpMoyenne [ Ig ] ( mg / dl ) ESp [ IgG ] Avant supplémentation1325,74260,850,484a 0,515b1246,35219,390,139a 0,674b Après supplementation1243,15260,831362,82137,51 Après chimiothérapie1295,79306,891405,90266,42 [ IgM ] Avant supplémentation178,9354,300,069a 0,333b173,3835,550,674a 0,484b Après supplementation173,0553,03185,7031,92 Après chimiothérapie155,4450,48162,2041,00 [ IgA ] Avant supplémentation246,86117,090,169a 0,386b311,9696,470,594a 0,213b Après supplementation263,64117,42300,9573,78 Après chimiothérapie256,03139,23291,0575,60
+Full-size table
+Après la supplémentation = avant la chimiothérapie ; ES : erreur standard .
+a Niveau de signification entre les phases « Avant supplémentation » et « Après supplémentation » .
+b Niveau de signification entre les phases « Après supplémentation » et « Après chimiothérapie » .
+View Within Article
+4. Discussion
+L' objectif de ce travail était d' évaluer si une supplémentation par un mélange d' antioxydants protège le système immunitaire vis-à-vis des effets délétères de la chimiothérapie chez des femmes récemment mastectomisées .
+Les teneurs sériques en IgG , IgM et IgA , chez les femmes mastectomisées appartenant aux groupes « G7 » et « G30 » , ne sont pas significativement modifiées au cours des différentes phases de l' étude , que ce soit avant ou après la supplémentation en vitamines et oligoéléments antioxydants , ou après la chimiothérapie .
+Ces résultats indiquent que les valeurs initiales des concentrations en immunoglobulines sont maintenues même après la chimiothérapie .
+Le profil immunitaire permet l' exploration de l' immunité humorale dont les trois immunoglobulines IgG , IgA et IgM sont les principaux médiateurs .
+Les IgM , d' une demi-vie de cinq jours , sont synthétisées lors_de la réponse primaire spécifique de toutes les agressions antigéniques .
+Les IgM sont la seule classe d' anticorps circulants dans le sang périphérique à une concentration plus élevée que celle des tissus .
+Les immunoglobulines IgG interviennent dans la réponse secondaire aux infections et dans les maladies auto-immunes et agissent en détruisant les micro-organismes extracellulaires et les toxines  .
+Les IgG restent dans la circulation sanguine générale comme immunoglobuline de mémoire  .
+Elles représentent environ 75 % des immunoglobulines totales du sérum .
+Les IgA sont , quant_à elles , responsables de la protection des muqueuses contre les éléments bactériens , viraux et allergéniques .
+Leur capacité de reconnaissance des antigènes et des allergènes assure une première défense immunitaire locale .
+Dans notre étude , les teneurs en immunoglobulines chez les patientes atteintes d' un cancer du sein ont mis en évidence des valeurs en IgG supérieures à la normale .
+Cela soulève donc le problème de l' existence d' un dysfonctionnement du système immunitaire lors du cancer .
+En effet , plusieurs auteurs rapportent qu' au cours du processus de cancérisation , l' immunité humorale est fortement affectée .
+Chez des patientes atteintes d' un cancer du sein , les taux d' IgA étaient maintenus constants alors_que les IgG étaient significativement réduites  .
+De même , Wang_et_al.  observent une diminution des taux d' IgG 10 à 14 jours après mastectomie , et un retour à la normale de ces taux trois ou six mois après l' opération .
+Selon Alsabti  , il existe une corrélation positive entre la progression des métastases du cancer du sein et les taux d' IgA et une corrélation négative entre la progression tumorale et les taux d' IgM .
+Les discordances entre ces résultats et les nôtres peuvent résulter de nombreux facteurs ; des études ont en_effet montré que la réponse immunitaire était différente selon la localisation de la tumeur et le stade de progression du cancer  .
+Un statut équilibré en nutriments est nécessaire pour maintenir une réponse immunitaire normale  .
+Une déficience en un nutriment essentiel , incluant notamment les vitamines , pourrait conduire à diminuer la réponse immunitaire  .
+Les nutriments antioxydants , utilisés sous forme individuelle ou associés entre eux , sont efficaces dans la protection de l' organisme dans divers processus pathologiques .
+Dans notre étude , l' usage de nutriments antioxydants , pendant une période de 7 et 30 jours , a contribué à l' augmentation de la résistance des patientes face aux infections et à la stimulation de leurs défenses immunitaires , et a permis de maintenir les fonctions antioxydantes de l' organisme , lesquelles , selon Ladas_et_al.  et Lee_et_al.  , diminuent au cours du traitement du cancer .
+Prinz  , dans son étude , avait quant_à lui obtenu de meilleurs résultats ; en_effet , les concentrations sériques en IgG et IgA avaient été significativement augmentées , après une supplémentation par 1 g d' acide ascorbique par jour , pendant 75 jours .
+Cependant , il est à noter qu' il existe une différence majeure entre l' étude de Prinz et la présente étude .
+L' étude de Prinz a été menée chez des sujets en bonne santé alors_que la présente étude a été menée chez des femmes atteintes d' un cancer du sein .
+Cependant , les résultats obtenus sont intéressants par le fait que la supplémentation en antioxydants a permis de maintenir des taux sériques constants en immunoglobulines tout au_long_de l' étude , alors_que les patientes étaient exposées aux effets cytotoxiques des agents anticancéreux , qui pourraient contribuer à la réduction des défenses immunitaires , et par_conséquent altérer la production des immunoglobulines  .
+Au vu de ces résultats , les mécanismes d' action des antioxydants ( vitamines et oligoéléments ) , mis en jeu dans le maintien des concentrations en immunoglobulines tout_au_long du traitement anticancéreux des femmes atteintes d' un cancer du sein , restent à déterminer .
+Dans le cas de la vitamine C , certains auteurs rapportent que cette vitamine protège l' organisme durant les processus infectieux ou agit au niveau de l' intégrité des muqueuses au_cours_de la cicatrisation des blessures , fractures , contusions et hémorragies et augmente la résistance aux infections en stimulant le système immunitaire  .
+Les études , réalisées chez les animaux , suggèrent que l' utilisation de vitamine C en supplément peut stimuler ou retarder le développement d' une tumeur cancéreuse selon la dose de supplément utilisée , le protocole de traitement et le type de chimiothérapie  .
+Selon Conklin  , les relations entre vitamine C et chimiothérapie ne sont pas clairement établies chez l' homme .
+Certes , il a été démontré que , chez les animaux , la consommation de vitamine C à forte dose pouvait augmenter la toxicité de certains médicaments utilisés en chimiothérapie , et par_conséquent induire une peroxydation des lipides , ainsi_que des dommages au niveau de l' ADN .
+Par ailleurs , Heuser et Vojdane  ont démontré que la vitamine C améliorait les fonctions immunitaires en stimulant la production des lymphocytes T et B et augmentait ainsi le nombre de cellules tumorales détruites chez les patients exposés à des produits toxiques .
+Tanaka_et_al.  ont recherché les effets de l' acide ascorbique sur la production d' anticorps par les lymphocytes du sang périphérique humain après stimulation par un mitogène .
+L' ascorbate fonctionne comme un immunostimulateur pour la production d' anticorps , et notamment en augmentant le nombre d' IgM et d' IgG .
+Le maintien d' une bonne réponse immunitaire des lymphocytes sanguins dépend des taux intracellulaires d' acide ascorbique .
+Concernant la vitamine E , utilisée également lors du traitement du cancer , les résultats sont controversés .
+Prasad_et_al.  ont conclu que l' alphasuccinate de tocophérol est plus efficace que l' alphatocophérol dans le traitement chimiothérapeutique du cancer , notamment en induisant l' inhibition de la prolifération et l' apoptose des cellules cancéreuses , en augmentant la sensibilité des cellules tumorales au traitement anticancéreux .
+L' alphatocophéryl succinate améliore l' effet des agents chimiothérapeutiques sur les cellules cancéreuses sans affecter la prolifération de la_plupart des cellules normales  .
+Au contraire , Norman_et_al.  suggèrent que c' est l' alphatocophérol , la forme utilisée dans la présente étude et la plus utilisée dans les suppléments en_général , qui est la molécule la plus efficace .
+Ils rappellent également que la vitamine E , à forte dose , associée à une alimentation riche en acides gras 6 , peut agir comme oxydant chez les fumeurs .
+Malgré cela , l' activité antioxydante de la vitamine E joue un rôle important dans l' activité antinéoplasique et notamment dans la prévention de la peroxydation lipidique des cellules normales .
+Il a été démontré que la vitamine E et C diminuent les effets secondaires associés aux dommages radicalaires des cellules normales au_cours_de la thérapie anticancéreuse , et réduisent la récurrence du cancer du sein  .
+Des études expérimentales ont montré que les vitamines antioxydantes induisaient l' apoptose dans les cellules cancéreuses mais pas dans les cellules normales et prévenaient l' angiogenèse , suggérant un rôle potentiel des antioxydants comme adjuvants dans la thérapie anticancéreuse  .
+Des études menées chez des animaux ont démontré le potentiel anticarcinogène des caroténoïdes , et en_particulier du -carotène , et leur capacité à neutraliser les radicaux libres qui peuvent conduire au stress oxydatif .
+Il a été effectivement démontré que les métabolites réactifs de l' oxygène ( ROS ) sont d' importants médiateurs des dommages causés aux différents tissus et organes  .
+Cependant , des études récentes montrent des résultats discordants quant_à l' effet protecteur du -carotène .
+Il pourrait être un facteur de risque dans l' étiologie du cancer du poumon et de la mortalité liée à ce cancer  .
+À ce jour , les études d' intervention chez les humains , dans lesquelles le -carotène est utilisé en association avec d' autres antioxydants , sont peu nombreuses , et si elles ne permettent pas de conclure quant_à son efficacité , ni d' émettre des recommandations fondées quant_à sa consommation , ces études tendent à limiter les doses de -carotène devant être utilisées .
+Certains auteurs suggèrent cependant_que le -carotène pourrait augmenter l' efficacité du traitement chimiothérapeutique dans l' attaque des cellules cancéreuses , chez les animaux et chez l' homme  .
+Chew et Park  et Bendich  rapportent que plusieurs études ont démontré la capacité des caroténoïdes à prévenir les infections et à augmenter la réponse immunitaire chez les animaux et les humains .
+Le sélénium , quant_à lui , est un minéral antioxydant qui est incorporé dans les cellules au niveau des sélénoprotéines , telle_que la glutathion peroxydase qui détruit les peroxydes .
+Des études récentes , menées chez des animaux , indiquent qu' une supplémentation en sélénium peut améliorer l' efficacité de plusieurs agents chimiothérapeutiques  , en éliminant les produits dérivés des réactions d' oxydation induits par le traitement et en évitant le développement de la résistance des cellules cancéreuses aux médicaments utilisés  .
+En revanche , peu d' études ont été menées chez les patients atteints de cancer sur l' étendue de la protection par le sélénium au_cours_de la chimiothérapie et au niveau des fonctions immunitaires  .
+Il est à noter qu' une supplémentation trop élevée en sélénium est contre-indiquée du fait de sa toxicité à forte dose .
+5. Conclusion
+Cette étude de supplémentation en antioxydants , réalisée chez des femmes atteintes d' un cancer du sein et sous chimiothérapie , a permis de mettre en évidence l' effet protecteur de la supplémentation en vitamine E , C , en -carotène et en sélénium sur le système immunitaire et notamment sur la production des immunoglobulines .
+Cependant , une telle conclusion n' est pas définitivement établie .
+En effet , dans cette étude , un groupe témoin , composé de femmes ayant un cancer du sein , récemment mastectomisées , avec indication de chimiothérapie et ne recevant aucune supplémentation , aurait été nécessaire pour conclure quant_à une action bénéfique des antioxydants sur l' immunité au cours du traitement chimiothérapeutique .
+Pour des raisons éthiques , le Conseil d' éthique médical de l' université fédéral d' Alagoas n' a pas accepté la mise en place du groupe témoin .
+De ce fait , et à cause des nombreuses interactions synergiques ou antagonistes existantes entre les vitamines et minéraux antioxydants , d' autres études sont nécessaires pour conclure quant aux effets de différentes combinaisons de suppléments antioxydants utilisées chez des patients atteints de cancer au_cours_de leur traitement .
+Navo_et_al.  ont rapporté que 48 % des sujets ayant un cancer du sein utilisaient des suppléments vitaminiques et minéraux .
+Cela peut être généralisé à l' ensemble des patients ayant un cancer , car l' usage de suppléments antioxydants réduirait la toxicité du traitement anticancéreux et améliorerait la qualité de vie des malades .
+Cependant , très peu d' études sont disponibles quant_à l' efficacité et la non-toxicité de cette pratique .
+Se basant sur le manque d' informations et de résultats probants , l' American Institute for Cancer Research ( AICR ) et le Cancer Research Advisory Council émettent une réserve quant_à l' usage de suppléments pendant le traitement du cancer utilisant des drogues chimiothérapeutiques et , par_conséquent , conseillent aux patients atteints de cancer de ne prendre que des quantités modérées de suppléments  .
+Les mesures de précaution émises par les différents centres de recherche sur le cancer sont très importantes , si l' on considère le fait que les données de la littérature montrent des résultats controversés sur les effets positifs des suppléments vitaminiques et minéraux , et notamment sur l' utilisation de mégadoses de suppléments

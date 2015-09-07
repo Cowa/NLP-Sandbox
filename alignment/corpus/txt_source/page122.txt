@@ -1,0 +1,125 @@
+Le cancer du sein constitue l' affection tumorale maligne la plus fréquemment rencontrée chez la femme .
+En effet , une femme sur dix est atteinte par ce cancer dans les pays industrialisés .
+En France , le cancer du sein représente la première cause de mortalité chez les femmes de 40 à 55 ans , avec environ 34000 nouveaux cas par an , soit 32 % des cancers .
+Son incidence a fortement augmenté ces deux dernières décennies posant des problèmes majeurs de santé publique d'_autant_plus_que de fréquentes résistances se développent suite aux traitements par chimiothérapie .
+Ces résistances cellulaires à la chimiothérapie constituent la principale cause d' échec des traitements .
+Le cancer du sein est caractérisé par une instabilité génétique importante générant des amplifications et des mutations au niveau de gènes divers ainsi_que de fréquentes pertes d' allèles ( LOH : loss of heterozygosity ) mais beaucoup plus rarement des instabilités microsatellitaires ( MIN : microsatellites instability ) .
+Les LOH résultent de cassures double brin mal ou non réparées  alors_que les MIN sont dues à des erreurs de réplications non corrigées par des gènes de réparation des mésappariements devenus défectueux  .
+Cette instabilité conduit à l' accumulation d' altérations somatiques au niveau de deux familles de gènes : les proto oncogènes , comme c-erb2 ou c-myc  ) fréquemment amplifiés dans les cancers du sein et les gènes suppresseurs de tumeur parmi lesquels P53 qui est altéré dans 30 à 50 % des cancers du sein  ou les gènes BRCA1 et 2 ( BRreast CAncer 1 et 2 ) qui sont souvent responsables des 5 à 10 % des cancers du sein dit « familiaux » .
+L' étude des marqueurs moléculaires est réalisée afin_de mettre en évidence des altérations génétiques qui pourraient être corrélées au comportement tumoral et ainsi permettre de progresser dans la compréhension des mécanismes de l' oncogenèse mammaire  .
+Cette analyse pourrait également permettre de prévoir l' impact de traitement chimiothérapeutique en fonction du profil génétique par_exemple ceux à base d' adriamycine qui sont considérés comme les plus actifs dans le cancer du sein .
+En effet , malgré une grande utilisation de ce mode de traitement dans le cancer du sein , peu de marqueurs sont disponibles pour prédire son efficacité  , et les biomarqueurs déjà utilisés comme facteurs prédictifs de la réponse aux traitements sont très restreints .
+Jusqu' à_présent , seuls le taux d' expression du gène c-erb2 / HER2 est déterminé dans le cas de traitement ciblé par l' herceptin  et celui des récepteurs aux estrogènes est utilisé lors d' hormonothérapies  .
+Il est donc nécessaire de disposer de marqueurs prédictifs supplémentaires et précis .
+Le but de notre étude est d' évaluer le rôle de l' instabilité génétique dans la réponse à la chimiothérapie .
+En effet , de récentes études ont montré que l' instabilité génétique est un facteur déterminant dans la réponse à la chimiothérapie .
+Cela a été montré dans le cas du cancer du côlon  , dans des mélanomes  ou encore dans des cancers de la tête et du cou  où la présence d' altérations génétiques à des loci spécifiques a pu être associée à une mauvaise réponse aux traitements .
+2. Matériels et méthodes2.1 .
+Population étudiée
+Quatre-vingt-quatre patientes du centre G.-F .
+Leclerc , atteintes de cancer du sein localement avancé traité par chimiothérapie première à base d' adriamycine , sont analysées .
+Pour chacune on dispose d' un prélèvement d' ADN normal servant de témoin ( il s' agit d' ADN lymphocytaire ou extrait de tissu sain adjacent à la tumeur ) ainsi_que d' un prélèvement d' ADN tumoral avant et après traitement .
+2.2. Marqueurs de microsatellites analysés
+L' instabilité génétique est déterminée par analyse de fragments sur un système d' analyse génétique par électrophorèse capillaire l' Abi Prism 310 - Applied Biosystems - , au_moyen_de 12 différents marqueurs de microsatellites .
+Ces marqueurs couvrent les régions chromosomiques 3p , 6q , 8q , 10p , 11 ( p-q ) , 17 ( p-q ) et Xq , localisées dans ou à proximité de différents gènes clés dans la carcinogenèse mammaire .
+Ces gènes ont des fonctions diverses telles_que la réparation des lésions de l' ADN ( ATM et BRCA1 ) ou la régulation du cycle cellulaire et de l' apoptose ( P53 ) .
+D' autres codent pour des récepteurs ( récepteurs aux androgènes ) ou pour des enzymes ( TH01 : tyrosine hydroxylase ) .
+Tableau 1.
+Caractéristiques des microsatellites analysés dans cette étude
+LocusTypeGèneLocalisationInformativitéTaille D3S1514GAA ( MLH1 ) 3p21.1-14.20,83200 - 280 D3S1612CA/3p24-22 / 204 - 216 D3S1244CATT / 3p240,61160 - 173 D6S264CA ( Récepteurs aux estrogènes : q25.1 ) 6q27-25.20,70108 - 122 D8S256CA ( c-myc : q24.12-13 ) 8q24.130,83210 - 232 D10S197CA ( GAD2 ) 10p11.20,75161 - 173 TH01TCATTyrosine hydroxylase11p15.50,77179 - 203 D11S2179CAATM |E-2|11q23 / 130 - 144 TP53 PENTAAAAATP53 |I-1|17p13.10,65140 - 175 TP53CA ( P53 ) 17p13.1 / 103 - 135 D17S855CABRCA1 |I-20|17q210,82143 - 155 ARCAGRécepteurs aux androgens |E-1|Xq13 / 202 - 250
+Full-size table
+( ) : gène voisin ; |I| : intron ; |E| : exon ; / : inconnu ; Type : motif de la répétition du microsatellite .
+View Within Article
+2.3. Préparation des échantillons
+L' étude est effectuée sur des prélèvements obtenus à_partir_de biopsies congelées dans l' azote liquide , de prélèvements inclus en paraffine ou de microdissections réalisées sur des coupes de tissus .
+Les ADN normaux et tumoraux sont tout au_long_de l' étude traités et analysés en parallèle dans les mêmes conditions pour_que les résultats d' analyse puissent par_la_suite être comparés .
+L' ADN normal et tumoral de chaque échantillon est extrait , par un protocole standard phénol - chloroforme - protéinase K dans le cas de biopsies .
+Les prélèvements inclus en paraffine nécessitent une étape préalable de déparaffinage à base de toluène et d' éthanol , suivie d' une étape de digestion dans du tampon de lyse ( Tris - HCL : 50 mM , EDTA : 1 mM , tween 20 : 0,5 % , protéinase K : 200 g / ml , pH 8,5 ) , puis inactivation de la protéinase K après une nuit d' incubation à 37 C. L' extraction des microdissections sur lame se fait avec le même tampon de lyse que pour les coupes en paraffine .
+Après extraction , les ADN sont quantifiés grâce_à un réactif fluorescent très sensible le Picogreen ( molecular Probes ) qui a la capacité de s' intercaler de façon spécifique dans l' ADN double brin , il émet alors un signal fluorescent proportionnel à la quantité d' ADN présent .
+Une réaction de PCR est ensuite réalisée pour chacun des marqueurs en utilisant 10 , 15 ou 5 ng d' ADN respectivement pour les prélèvements frais , ceux inclus en paraffine ou pour les microdissections .
+2.4. Protocole d' analyse
+Pour chaque région de microsatellite étudiée , des conditions de PCR optimales ont été mises au point pour un volume final de 25 l .
+L' amplification est réalisée en présence de tampon , I pour le TP53 PENTA ( Tris - HCL : 10 mM ; KCL : 50 mM ; MgCl2 : 1,5 mM ; Gélatine : 0,001 % ; pH 8,3 ) et II pour les 11 autres microsatellites ( Tris - HCL : 10 mM ; KCL : 50 mM ; pH 8,3 ) , 0,2 mM de dNTP , 1U d' ampli Taq gold .
+La quantité de MgCl2 est variable allant de 2,3 mM pour le D3S1244 , 2 mM pour les microsatellites D6S264 , D3S1612 et TH01 à 1,5 mM pour tous les autres microsatellites .
+Finalement , un couple d' amorces spécifiques est utilisé .
+Deux de ces amorces sont issues de kits prêts à l' emploi développés par Applied Biosystems et sont utilisés à 320 nM pour le D10S197 et 240 nM pour le D6S264 .
+Les autres amorces sont faites à façon et sont utilisées à 240 nM pour le D17S855 et le D11S2179 , 320 nM pour le TP53 , AR , D3S1612 , D3S1244 et 400 nM pour le TP53 PENTA , le D8S256 , D3S1514 et TH01 .
+Tableau 2.
+Caractéristiques des amorces utilisées pour l' amplification des différents microsatellittes étudiés
+MarqueurMarquage fluorescentSéquences des amorces D3S1514 ( FAM ) GGC AAC AGA GCA AGA TGC CCA GCC AGC AGA ATT ATG A D3S1612 ( HEX ) TCT TTT AGT CAG CAG TTA TGT T CCC ATT AAG AAA TGT TAC TCT AC D3S1244 ( HEX ) GTG CCC TTC CAG GAG TT AGT GAG GCA TCC ACT ACC D6SS264 ( FAM ) Amorces issues du kit « Linkage Mapping set Version 2 » de Perkin Elmer D8S256 ( HEX ) GTT CAA GGG CTC AGG GTT CT CTT CCA CCT TTA GCC AAG GA D10S197 ( FAM ) Amorces issues du kit « Linkage Mapping set Version 2 » de Perkin Elmer TH01 ( HEX ) GTG GGC TGA AAA GCT CCC GAT TAT ATT CAA AGG GTA TCT GGG CTC TGG D11S2179 ( FAM ) TAG GCA ATA CAG CAA GAC CCT G GCA CTG GAA TAC GAT TCT AGC AC PENTA ( TET ) ACT CCA GCC TGG GCA ATA AGA GCT ACA AAA CAT CCC CTA CCA AAC AGC TP53 ( TET ) ACT GCC ACT CCT TGC CCC ATT C AGG GAT ACT ATT CAG CCC GAG GTG D17S855 ( TET ) GGA TGG CCT TTT AGA AAG TGG ACA CAG ACT TGT CCT ACT GCC AR ( TET ) TGG GGA GAA CCA TCC TCA CC TCC AGA ATC TGT TCC AGA GC
+Full-size table
+View Within Article
+Les programmes d' amplification sont également spécifiques de chaque microsatellite .
+Tous , à_l'_exception_de celui du microsatellite TP53 PENTA comportent cinq étapes : une étape d' activation de dix minutes à 95 C , une étape de dénaturation de 50 secondes à 95 C pour le microsatellite D17S855 , une minute à 94 C pour AR et 50 secondes pour les neuf autres microsatellites .
+Puis une étape d' hybridation , 50 secondes à 60 C pour le D3S1244 , le TP53 , le D11S2179 et le D10S197 , 50 secondes à 55 C pour le D17S855 , le D6S264 et le D3S1612 , 50 secondes à 65 C pour le TH01 , une minute à 55 C pour AR et 50 secondes à 58 C pour les microsatellites D3S1514 et D8S256 .
+L' étape de synthèse se déroule à 70 C pendant 50 secondes pour le D3S1244 , le D8S256 , le D3S1514 , D6S264 et TP53 , pendant 65 secondes pour AR et trois minutes pour le D17S855 .
+Ces quatre étapes répétées sur 45 cycles pour chaque microsatellite sont suivies d' une synthèse finale à 72 C pendant 30 minutes pour le TP53 , dix minutes pour AR , D6S264 , D3S1514 , D8S256 , D3S1244 et de cinq minutes pour les autres microsatellites .
+Le programme d' amplification du microsatellite TP53 PENTA ne comprend pas de synthèse finale et se déroule en seulement 35 cycles avec cinq minutes d' activation à 93 C , une minute de dénaturation à 93 C , une minute d' hybridation à 64 C et une minute de synthèse à 72 C.
+Les produits PCR obtenus sont marqués par des fluorophores spécifiques apportés par l' amorce sens lors_de la réaction de PCR .
+L' amplification est vérifiée sur gel d' agarose 2 % en présence d' un témoin négatif ( contenant tous les réactifs sauf l' ADN ) et d' un témoin positif de réaction ( lignée mammaire MCF-7 ) .
+Les échantillons sont ensuite dénaturés dans un mélange de formamide et de marqueur de poids moléculaire et analysés par électrophorèse capillaire sur un séquenceur Abi Prism 310 ( Applied Biosystems ) avec les logiciels « Genescan 3.2.1 » pour la collecte des données et « Genotyper » pour leur analyse .
+Chaque allèle obtenu est représenté par un pic où figure sa taille et sa quantité relative .
+La détection de LOH et de MIN se fait par comparaison des profiles normaux et tumoraux .
+Il y a LOH lorsque le ratio des allèles ( grand allèle / petit allèle ) dans l' échantillon tumoral hétérozygote , comparé au même ratio dans l' échantillon normal , est égal ou inférieur à 0,5 pour une LOH portant sur le petit allèle et supérieur à 2 pour une LOH portant sur le grand allèle .
+Entre ces deux valeurs l' échantillon est considéré comme normal .
+Les MIN sont identifiées par l' apparition d' un allèle supplémentaire dans l' échantillon tumoral .
+Chaque altération détectée est confirmée au moins par deux analyses différentes .
+Full-size image ( 25K )
+Fig. 1. Présence d' une LOH au niveau du grand allèle ( 223 pb ) observée dans l' ADN tumoral , par_rapport_à l' ADN lymphocytaire , sur le microsatellite AR .
+Chaque allèle obtenu est représenté par un pic où figure sa taille en paire de base et sa quantité relative en unité propre au séquenceur .
+View Within Article
+Full-size image ( 36K )
+Fig. 2. Présence d' une MIN au niveau du microsatellite D3S1514 se traduisant par l' apparition d' un allèle supplémentaire de 234 paires de bases dans l' ADN tumoral par_rapport_à l' ADN normal .
+View Within Article
+2.5. Analyse statistique
+Les comparaisons statistiques entre les données cliniques de chaque patiente et la présence ou non de LOH au niveau des différents loci analysés sont effectuées à l' aide de test de 2.
+3. Résultats
+Les résultats obtenus sur les prélèvements avant traitement montrent un pourcentage de LOH toute région confondue de 15 % .
+Les loci les plus altérés sont situés au niveau des régions chromosomiques 17p13.1 avec 30,43 % de LOH au niveau du microsatellite TP53 PENTA et 26,67 % au niveau de TP53 , 3p24 où le microsatellite D3S1244 présente 25 % de LOH , Xq13 avec 16,18 % au niveau du AR ou encore 17q21 où le microsatellite D17S855 présente 13,24 % de LOH .
+Par ailleurs , bien_que la présence de LOH au niveau des microsatellite TH01 et D3S1514 ne soit détectée qu' à une fréquence plus faible ( 8,62 et 10,53 % , respectivement ) elle est statistiquement associée aux facteurs cliniques de mauvais pronostic .
+En effet , une relation est trouvée avec une mauvaise réponse à la chimiothérapie ( p = 0,0087 ) et le décès ( p = 0,041 ) pour le TH01 , la récidive ( p = 0,04 ) et le décès ( p = 0,012 ) pour le D3S1514 .
+Après traitement , le pourcentage de LOH global est de 5,39 % , celles-ci sont localisées essentiellement au niveau des régions 3p24 ( 12,5 % ) , 17p13.1 ( 1,87 % au niveau du PENTA et 9,33 % au niveau de TP53 ) , 6q21.5 ( 7,35 % ) et 11p15.5 ( 6,9 % ) .
+Ainsi , ces résultats mettent en évidence une différence de répartition des LOH avant et après traitement .
+Une diminution du nombre de LOH après traitement est observée au niveau de chaque région de microsatellite étudiée , les plus grandes diminutions sont au niveau du microsatellite AR qui présente 11,16 fois moins de LOH qu' avant traitement , au niveau du microsatellite D11S2179 ( 8,28 fois moins de LOH ) , du D3S1612 ( 7,14 ) et du D17S855 ( 4,5 ) .
+La majorité des LOH détectées dans les prélèvements avant traitement ne sont pas retrouvées après traitement .
+Un total de 40 LOH a été mis en évidence , tout microsatellite confondu , au niveau des prélèvements après traitement .
+Parmi elles , 29 ( 72,5 % ) étaient déjà présentes dans les prélèvements avant traitement et 11 ( 27,5 % ) n' apparaissent que dans les prélèvements après traitement .
+Full-size image ( 20K )
+Fig. 3. Histogramme présentant les pourcentages de LOH avant et après traitement à base d' adriamycine pour chacun des 12 microsatellites étudiés .
+Les microsatellites apparaissent en ordonné , classés par ordre décroissant de pourcentage de LOH dans les prélèvements avant traitement .
+View Within Article
+4. Discussion
+Jusqu' à_présent , aucun lien n' a été établi entre la présence de LOH à des loci spécifiques et la réponse à un traitement de chimiothérapie dans le cancer du sein .
+Seules sont disponibles des données pronostiques d' ordre global en absence de traitement .
+Ainsi , l' altération du gène P53 a été statistiquement liée à une meilleure survie globale et les altérations en D17S785 au stade tumoral  .
+La présence de LOH en 3p25.1 , 8p22 , 13q12 , 17p13.3 et 22q13 a été corrélée à un risque de récidive postopératoire  et la LOH en 3p24 à la progression tumorale  .
+Aucune étude n' a analysé l' impact des LOH sur la réponse aux traitements dans le cancer du sein comme cela a déjà été fait pour d' autres types de cancers .
+Ainsi , dans le cancer de la tête et du cou , la présence de LOH en 9p et 17p est significativement associée à une mauvaise réponse à la chimiothérapie et les LOH en 18q sont corrélé à des stades tumoraux élevés  .
+Une étude similaire a été réalisée dans le cancer du colon par Barratt et al. en 2002 où la présence de LOH en 17p et 18q est décrite comme un facteur de mauvaise réponse aux traitements à base de fluorouracile .
+La présence de LOH au niveau de l' ADN circulant est significativement associée à la progression des mélanomes ainsi_qu' à la mauvaise réponse aux traitements  .
+En revanche , dans des cancers gastriques , la présence de LOH au niveau du gène P53 a été associée à une bonne réponse tumorale à la chimiothérapie à base de cisplatine  .
+Notre étude recherche pour la première fois l' impact que peuvent avoir de telles altérations dans le cancer du sein sur la réponse à la chimiothérapie à base d' adriamycine .
+Parmi les 12 régions de microsatellite étudiées dans notre population , deux ont un rôle important dans la réponse au traitement .
+L' altération de la région 11p15.5 est associée à une mauvaise réponse à la chimiothérapie ainsi_qu' au décès et la région 3p21.1-14.2 , est associée à la récidive et au décès .
+Le gène de la tyrosine hydroxylase localisé en 11p15.5 semble donc impliqué dans la réponse au traitement à base d' adriamycine .
+Cette enzyme joue un rôle dans la conversion de la phénylalanine en dopamine .
+Ce neuromédiateur intervient sur les voies métaboliques et sur l' excitabilité des neurones mais peut également agir sur la différenciation , la survie et la mobilité cellulaire comme le font certains facteurs de croissances ou proto oncogènes  .
+La région 3p21.1-14.2 n' a pas encore été associée à un gène .
+Elle est cependant proche des gènes FHIT et hMLH1 et pourrait se situer au niveau du gène APPL ( Adaptor protein containing PH domain , PTB domain and Leucin zipper motif ) , gène codant pour une molécule adaptatrice interagissant avec AKT2 connu pour être impliqué dans les cancers mammaires , ovariens et pancréatiques ( ;  ) .
+L' implication de cette région 3p dans la réponse au traitement sera précisée prochainement par l' étude de trois nouveaux microsatellites .
+La présence de LOH est le reflet d' une forte activité de réparation par recombinaison homologue ou non-homologue  .
+Récemment , il à été mis en évidence que l' activation de systèmes de réparation par recombinaison est à l' origine de l' apparition de résistance à la chimiothérapie  .
+Cela a par_exemple été rapporté dans le traitement par des agents alkylants tels_que le melphalan qui , comme les anthracyclines , a comme cible thérapeutique l' ADN  .
+Le mécanisme de résistance établi pour les agents alkylants pourrait donc également être à l' origine des résistances observées dans notre population traitée par chimiothérapie à base d' adriamycine .
+Une forte diminution du nombre de LOH après traitement est observée dans notre étude au niveau de certaines régions chromosomiques .
+Il semblerait donc que le traitement ait également un impact important au niveau de ces régions comme ici au niveau des gènes des récepteurs aux androgènes , de ATM ou encore de BRCA1 .
+Il est intéressant de noter que bien_que le microsatellite PENTA soit l' un des moins informatif ( 65 % ) , il présente le taux le plus élevé de LOH .
+Sa localisation au sein du gène P53 , permet de supposer que dans 30 % des cas , la fonction de gène P53 est perdue ou du moins altérée de_moitié si l' on considère que les LOH sont causées par des délétions .
+De plus , parmi les tumeurs ayant au moins une LOH sur les autres loci , 64 % d' entres elles sont également porteuses d' une LOH sur le microsatellite PENTA .
+Parmi les patientes présentant trois LOH ou plus , 77 % sont porteuses de LOH sur le locus du PENTA .
+L' impact d' une LOH au niveau de ce locus semble donc important dans le maintien de l' instabilité génétique .
+Ces résultats préliminaires seront complétés , en utilisant une analyse statistique appropriée , par l' étude de 30 nouvelles patientes et également de trois nouveaux loci situés dans la région 3p : le D3S1300 situé au niveau du gène FHIT , le D3S1029 et le D3S1478 qui sont fréquemment altérés dans le cancer du sein  .
+Ces trois microsatellites devront permettre de préciser l' impact de la région 3p dans la réponse au traitement de chimiothérapie dans le cancer du sein .
+On pourrait par_ailleurs envisager , si de telles données se confirment à_plus_grande_échelle , un dépistage préthérapeutique des loci à risque pouvant ensuite aider dans le choix du traitement le plus approprié à chaque patiente .
+Remerciements
+Nous remercions le comité départemental de Saône et Loire ainsi_que la Ligue Bourguignonne Contre le cancer qui ont supporté cette étude

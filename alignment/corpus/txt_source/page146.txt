@@ -1,0 +1,95 @@
+Il a été observé dans plusieurs essais non randomisés , utilisant des chimiothérapies à base d' anthracyclines , un taux de réponse clinique de 40 à 100 % et un taux de réponse complète histologique de l' ordre de 10 - 15 %  .
+Seuls des essais randomisés comparant chimiothérapie première et chimiothérapie adjuvante permettent de répondre à cette question .
+Huit essais ont été publiés , dont deux sous forme d' abstract uniquement , que nous ne développerons pas [ 7 , 13 , 15 , 26 , 27 , 32 , 36 , 41 and 45 ] .
+Les Tableau 1 and Tableau 2 résument ces essais .
+Aucun bénéfice significatif en termes de survie n' a été mis en évidence .
+Le bénéfice observé dans l' essai de l' Institut Curie dans les premières années  avec un court suivi a disparu avec le temps  .
+Tableau 1. Chimiothérapie première contre chimiothérapie adjuvante : essais randomisés ; présentation
+Full-size table (
+RCC , réponses cliniques complètes ; RCH , réponses complètes histologiques ; AC , adriamycine - cyclophosphamide ; TMF , thiotepa , méthotrexate , 5-fluoro-uracile ; Tam. , tamoxifène ; EVM , épirubicine , vincristine , méthotrexate ; MTV , mitomycine , thiotepa , vindesine ; M3 , mitoxantrone , mitomycine-C , méthotrexate
+View Within Article
+Tableau 2. Chimiothérapie première contre chimiothérapie adjuvante ; essais randomisés : résultats
+Full-size table ( 10K )
+View Within Article
+2. Évaluer la chimiosensibilité tumorale
+L' évaluation de la chimiosensibilité permettrait d' adapter la chimiothérapie postopératoire , en continuant le même protocole en cas de bonne réponse ou en le modifiant avec des cytotoxiques sans résistance croisée , en cas de réponse insuffisante .
+Ceci présuppose qu' il existe une deuxième ligne de chimiothérapie adjuvante efficace après échec d' une première ligne .
+Ceci implique également que cette seconde ligne ne soit pas prescrite systématiquement quelle que soit la réponse à la première ligne .
+Or , la tendance actuelle semble être d' associer systématiquement les taxanes à l' association anthracyclines - alkylants (  , essai B27 du National surgical adjuvant breast and bowel project , NSABP ;  ) .
+En tout état de cause , l' intérêt d' une adaptation de la chimiothérapie postopératoire à la réponse tumorale reste à démontrer .
+Une corrélation a été clairement mise en évidence entre la réponse clinique et surtout la réponse histologique complète et le risque de rechute ultérieure [ 6 and 15 ] .
+Ce paramètre pourrait donc être utilisé pour adapter la chimiothérapie adjuvante .
+Il semble que ce soit surtout la stérilisation de l' atteinte ganglionnaire axillaire qui soit le paramètre d' efficacité le plus puissant [ 12 , 31 and 33 ] .
+Dans une approche plus fondamentaliste , la chimiothérapie première permet de rechercher des paramètres biologiques de prédiction de chimiosensibilité .
+En particulier , l' expression de proto oncogénes tels_que c-erbB2 ( her2 / neu ) , bcl-2 et p53 a été évaluée , avec des résultats discordants [ 4 and 9 ] .
+L' identification de critères biologiques permettra peut-être ultérieurement d' individualiser au mieux les protocoles cytotoxiques au profil biologique de chaque tumeur  .
+3. Augmenter le taux de conservation mammaire3.1 .
+La chimiothérapie première permet d' accroître le nombre de traitements conservateurs
+Plusieurs essais de phase II qui ont inclus des patientes atteintes de cancer justiciable d' une mastectomie , ont montré que la régression clinique était suffisante pour proposer un traitement conservateur chez 30 à 80 % des patientes [ 3 , 5 , 8 and 38 ] .
+Cette augmentation du taux de conservation varie selon les études , et en_particulier les critères d' inclusion .
+Ceci a été confirmé par les essais randomisés .
+Cependant , la_plupart des essais randomisés avaient comme critère de jugement principal la survie , et inclus des patientes justiciables d'_emblée d' un traitement conservateur .
+Ainsi , dans l' essai anglais , 53,7 % des patientes avaient une tumeur de moins de 3 cm  .
+L' essai bordelais posait directement la question de la faisabilité d' un traitement conservateur chez des patientes dont la tumeur justifiait une mastectomie ( T2 > 3 cm ou T3 , N0-1 à l' exclusion des cancers du sein localement évolués )  .
+Les patientes étaient randomisées entre mastectomie première suivie de chimiothérapie adjuvante et chimiothérapie première suivie de radiothérapie en cas de réponse complète , tumorectomie et radiothérapie en cas de tumeur résiduelle 2 cm , ou mastectomie si celle-ci était supérieure à 2 cm .
+Un traitement conservateur a pu être réalisé chez 63 % des patientes après chimiothérapie première , 33 % par irradiation exclusive et 30 % par tumorectomie et irradiation .
+Dans les essais de l' EORTC ( European Organization for research and treatment of cancer ) , NSABP-B18 , et britannique , il faut noter que 23 , 18 et 54 % , respectivement , des patientes chez qui était programmée une mastectomie ont pu bénéficier d' un traitement conservateur [ 41 and 45 ] .
+Il est régulièrement mentionné que , chez les patientes relevant d'_emblée d' un traitement conservateur , la réduction de la taille tumorale permet de réaliser une tumorectomie plus limitée , et permettrait donc d' obtenir un meilleur résultat esthétique .
+Il est difficile de confirmer cette hypothèse avec les données disponibles dans la littérature .
+En conclusion , à court terme , il est bien démontré que la chimiothérapie première augmente le nombre de traitements conservateurs .
+3.2. Contrôle local à long terme
+Le taux de contrôle local des patientes ayant bénéficié d' un traitement conservateur au lieu d' une mastectomie n' est pas encore définitivement connu .
+Certaines rechutes locales surviennent tardivement ; seules les études avec au moins dix ans de recul peuvent être prises en compte .
+Beaucoup des essais de phase II publiés ont moins de cinq ans de suivi .
+Dans l' analyse des essais prospectifs de Milan , le taux de rechute locale à huit ans était de 6,8 % , soit légèrement supérieur à ce qui est habituellement observé dans cette équipe .
+Il s' agissait uniquement de tumeurs de plus de 2,5 cm et 85 % des 536 patientes incluses ont pu avoir un traitement conservateur  .
+Dans l' essai de l' Institut Curie  , le taux de contrôle locorégional était de 73 % dans le bras chimiothérapie première et de 81 % dans le bras chimiothérapie adjuvante .
+À cinq ans , les taux de conservation mammaire étaient identiques , 61 et 63 % , et le bénéfice initialement observé grâce_à la chimiothérapie première a disparu .
+Dans l' essai de Bordeaux , le taux de rechute locale après traitement conservateur atteignait 23,1 %  .
+Dans l' essai NSABP B18 , à neuf ans , les taux de récidives locales n' étaient pas significativement différents entre les deux bras .
+Mais , il y avait significativement plus de récidives locales chez les patientes dont le sein a été préservé grâce_à la chimiothérapie ( 15,9 % à 9 ans ) que chez les patientes dont la tumeur justifiait d'_emblée d' un traitement conservateur et qui a fait l' objet d' une chimiothérapie première ( 9,9 % ) ou d' une chirurgie première ( 7,6 % ; p = 0,04 )  .
+Au total , le risque de rechute locale en cas de traitement conservateur rendu possible grâce_à la chimiothérapie semble plus élevé que pour les autres patientes .
+3.3. Les taxanes ont ils modifié ces données ?
+L' emploi des taxanes dans les protocoles de chimiothérapie première a -t il modifié ces données , obtenues essentiellement avec des protocoles fondés sur les anthracyclines ?
+Les taux de réponse clinique semblent plus élevés qu' avec les anthracyclines seules , et les taux de réponse complète histologique varient avec l' association docétaxel - doxorubicine de 5 à 24 % [ 1 , 29 and 43 ] .
+Dans l' essai d' Aberdeen , les patientes étaient traitées par quatre cycles de CVAP ( cyclophosphamide , doxorubicine , vincristine et prednisone ) , et en cas de bonne réponse , randomisées entre poursuite du CVAP ou docétaxel ; les patients dont la tumeur n' a pas répondu ont systématiquement reçu du docétaxel .
+Les taux de rémission complète histologique ont été significativement plus élevés dans le bras docétaxel ( 34 vs 18 % )  .
+Dans l' essai du NSABP B27 , 2411 patientes atteintes d' une tumeur du sein palpable ont été randomisées entre trois bras : bras A : quatre cycles d' AC ( adriamycine , cyclophosphamide ) puis chirurgie , bras B : quatre cycles d' AC suivis de quatre cycles de docétaxel puis chirurgie , et enfin bras C : quatre cycles d' AC , chirurgie et quatre cycles de docétaxel après la chirurgie ; les taux de réponse complète histologique ont été de 15 % après AC et de 31 % après AC et docétaxel  .
+Il est encore difficile de savoir si les taux de conservation mammaire seront encore accrus avec les taxanes .
+Dans l' essai B27 du NSBABP , le taux de conservation mammaire était de 61 % dans les bras A et C regroupés , contre 63 % dans le bras B  .
+Le docétaxel n' améliore donc pas le taux de conservation mammaire .
+Le paclitaxel seul permet d' obtenir le même taux de conservation que la combinaison FAC ( 5-fluoro-uracile , adriamycine , cyclophosphamide )  .
+Dans l' essai d' Aberdeen , le nombre de traitements conservateurs par bras n' a pas été signalé  .
+Dans l' essai européen ECTO  , incluant des malades opérables atteintes d' une tumeur de plus de 2 cm , un des bras de randomisation comportait une chimiothérapie première par quatre cycles de l' association adriamycine - paclitaxel suivis de quatre cycles de CMF ( cyclophosphamide , méthotrexate , 5-fluoro-uracile ) : le taux de conservation mammaire a été de 71 % dans le bras chimiothérapie néo-adjuvante contre 35 % dans les bras de chimiothérapie postopératoire ( p 0,0001 ) .
+Plusieurs autres essais randomisés ont été publiés uniquement sous forme de résumés et semblent montrer un accroissement du nombre de traitements conservateurs grâce aux taxanes  , mais cela reste à confirmer .
+3.4. Quel traitement locorégional ?
+Bien que d' excellents résultats aient été rapportés par l' équipe de la Pitié-Salpêtrière  , la tendance actuelle est de proposer systématiquement une chirurgie après chimiothérapie première , même en cas de réponse clinique complète .
+Certains ont incriminé l' utilisation de la radiothérapie exclusive pour expliquer les taux de récidive locale élevés observés après chimiothérapie première .
+Il faut signaler que seulement 38 - 50 % des patientes en situation de réponse clinique complète ont une réponse histologique complète [ 17 and 25 ] .
+Ainsi , dans l' essai de Bordeaux  , on notait 15 / 44 ( 34 % ) de récidives mammaires et 10 / 44 ( 22,7 % ) de récidives axillaires chez les patientes traitées par irradiation exclusive , contre respectivement 9 / 40 ( 22,5 % ) et 0 / 40 ( 0 % ) chez celles qui sont traitées par chirurgie et irradiation .
+Au Royal Marsden Hospital , les patientes en situation de réponse clinique complète et traitées par irradiation exclusive ont eu plus de rechutes locales que celles traitées par tumorectomie et irradiation  .
+Compte tenu de la possibilité de réponse clinique majeure ou complète , un repérage précis de la lésion doit être réalisé avant chimiothérapie : il devrait comprendre au_minimum un schéma avec mesure précise de la situation de la tumeur par rapport au mamelon , des photographies et une mammographie  .
+L' utilisation de clips ou de tatouages a aussi été proposée  .
+De même , l' intérêt de l' imagerie par résonance magnétique nucléaire ou de la tomographie par émission de positons est en cours d' évaluation .
+3.5. Qu' en est il de la chimioradiothérapie préopératoire ?
+Un petit essai avait comparé radiothérapie et chimioradiothérapie , montrant un bénéfice à l' association en termes de survie pour l' association  ; toutes les patientes , dans cet essai étaient mastectomisées .
+Depuis , la radiothérapie pré-opératoire seule est tombée en désuétude .
+Très peu d' essais utilisant la chimioradiothérapie pré-opératoire ont été publiés : cela est d au fait que la_plupart des protocoles de chimiothérapie comportent des anthracyclines .
+Des essais utilisant le 5-fluoro-uracile  ou les taxanes  , ou bien des modalités séquentielles [ 11 and 40 ] , ont cependant été réalisés .
+Une augmentation du taux de préservation mammaire , avec des résultats esthétiques satisfaisants a été rapportée .
+Dans la série de Tenon , des taux de récidive locale de l' ordre de 20 % à dix ans ont été rapportés .
+À noter que certains chirurgiens ont mentionné une morbidité non négligeable de la chirurgie mammaire après irradiation  .
+L' évaluation de paramètres biologiques de radiosensibilité est également un but important de ces essais  .
+4. Conclusion
+La chimiothérapie première permet d' augmenter , à court terme , le taux de conservation mammaire .
+Mais il est possible que le taux de contrôle local à long terme soit moins bon que celui observé lors d' une chirurgie première .
+En particulier , il n' existe pas de données convaincantes pour les tumeurs localement évoluées ( T3-T4 ) .
+La récidive locale exposant à un risque de dissémination métastatique , il convient de l' éviter  .
+À qui proposer une chimiothérapie première pour préserver le sein ?
+Une chimiothérapie première ne doit pas être proposée chez une patiente opérable , pour qui une tumorectomie est aisément réalisable : c' est essentiellement le rapport taille tumorale / taille du sein qui est le principal paramètre à prendre en compte .
+Les patientes doivent ensuite être désireuses de cette approche conservatrice .
+Une information large sur les avantages et inconvénients de cette technique doit leur être délivrée , en spécifiant le risque d' échec plus élevé que dans les indications habituelles de traitement conservateur .
+Les meilleures candidates sont , à notre avis , celles qui sont atteintes d' une tumeur dont la taille n' est pas trop importante , mais n' autorisant pas une tumorectomie ( T2 de 3 à 5 cm et / ou petits seins ) .
+Une réponse clinique de plus de 75 % doit être obtenue .
+Un traitement radio-chirurgical doit être préféré à une irradiation exclusive .
+Enfin , si la chimiothérapie première n' allonge pas la survie , elle permet d' évaluer la chimiosensibilité tumorale et reste une excellent méthode pour étudier les facteurs prédictifs biologiques tumoraux et pour tester de nouvelles approches thérapeutiques 

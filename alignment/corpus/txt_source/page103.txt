@@ -1,0 +1,82 @@
+La mélatonine ( N-acétyl-5-méthoxy-tryptamine ) est une hormone sécrétée principalement par la glande pinéale ou épiphyse ( mais_aussi par la rétine , l' intestin , les plaquettes et les cellules mononuclées ) .
+Elle a été isolée en 1958 par Lerner et ses collaborateurs .
+Sa synthèse est réalisée à partir du tryptophane capté par les cellules épiphysaires , puis converti en 5-hydroxytryptophane , décarboxylé en 5-hydroxytryptamine ou sérotonine , laquelle sera acétylée pour former la N-acétylsérotonine qui , après méthylation , donnera la mélatonine .
+Les deux enzymes clés de cette synthèse sont la N-acétyl-transférase ( NAT ) et la 5-hydroxy-indole-O-méthyltransférase ( 5-HIOMT ) .
+Ces deux activités enzymatiques ( surtout celle de la NAT ) sont élevées à l' obscurité .
+Ceci explique la très remarquable caractéristique de la mélatonine qui est son importante sécrétion nocturne avec un pic vers les 2 - 3 heures .
+La lumière est un régulateur fondamental de la sécrétion de mélatonine .
+Cette régulation se fait via la voie suivante : rétine - noyau suprachiasmatique ( NSC ) de l' hypothalamus ( horloge biologique ) - noyaux dorsomédians et paraventriculaires de l' hypothalamus - noyaux intermédiolatéraux de la moelle épinière- ganglions cervicaux supérieurs - glande pinéale .
+De ce fait , la mélatonine est considérée comme un transducteur du signal lumineux donnant l' indication à l' organisme des jours courts et des jours longs .
+La sécrétion de mélatonine est donc à_la_fois un message circadien et saisonnier qui permet à l' organisme de s' adapter temporellement .
+Ce rythme de sécrétion représente donc un signal hormonal efférent de l' horloge dont l' un des rôles est d' imposer la rythmicité circadienne aux organes cibles de la mélatonine .
+Cette fonction est d' autant plus assurée que comme la mélatonine n' est pas stockée ( la demi-vie de la mélatonine est de 40 minutes environ )  , le taux en circulation dans le milieu intérieur correspond au taux sécrété .
+Elle est dégradée dans le foie au_cours_d' une 6-hydroxylation et il y a formation principalement de 6-hydroxymélatonine et de 6-sulfatoxymélatonine qui sont retrouvées dans les urines .
+Le rythme circadien de la mélatonine est similaire chez l' homme et chez toutes les espèces expérimentales étudiées à ce jour ( chez les rongeurs notamment ) , avec des taux nocturnes ( 30 à 200 pg / ml ) de trois à dix fois plus importants que le jour .
+Le rythme circadien de sécrétion et de libération de la mélatonine dépendent d' un grand nombre de facteurs , comme les conditions de luminosité ( la durée de sécrétion augmente en hiver ) , l' âge ( le taux de mélatonine chute avec l' âge ) , la prise de médicaments tels_que les benzodiazépines et les bêtabloquants ( inhibent la sécrétion de mélatonine en se fixant sur les récepteurs noradrénergiques ) .
+Il faut également citer l' influence du travail de nuit , du décalage horaire et de la dépression ( diminution de la sécrétion de sérotonine et donc de mélatonine ) .
+Enfin , ce rythme peut être perturbé chez les personnes aveugles ( noyau suprachiasmatique non synchronisé ) et chez les patients atteints de cancers .
+2. Localisation ( récepteurs )
+La mélatonine est une petite molécule lipophile .
+Elle agit sur les cellules soit par des récepteurs membranaires , soit par des récepteurs nucléaires .
+Chez l' homme , il existe trois types de récepteurs membranaires ( mt1 , MT2 et MT3 ) et deux types de récepteurs nucléaires ( ROR et RZR ) .
+La diversité de la localisation de ces récepteurs donne une idée des nombreuses fonctions que peut exercer la mélatonine dans l' organisme .
+Les récepteurs mt1 sont localisés principalement dans le NSC , la pars tuberalis de l' hypophyse , dans le cortex , l' hippocampe , dans les vaisseaux sanguins et dans certaines cellules immunitaires .
+Les récepteurs MT2 se retrouvent dans la rétine , dans le NSC , le système nerveux central et les cellules cancéreuses .
+Les récepteurs MT3 sont présents dans l' hippocampe , le cortex et l' hypothalamus .
+Enfin , les récepteurs nucléaires sont situés principalement dans la pars tuberalis de l' hypophyse et dans les cellules cancéreuses  .
+3. Différentes fonctions recensées , dont les effets chronothérapeutiques et l' innocuité ( expérimentation chez l' animal et chez l' homme )
+La plus forte concentration de récepteurs à la mélatonine se trouve dans la pars tuberalis de l' adénohypophyse .
+Cette localisation explique l' intervention de la mélatonine dans la reproduction .
+Elle freine la synthèse de LH qui , par rétrocontrôle , inactive la synthèse de la neurohormone hypothalamique GnRH .
+Cette dernière exerce à son tour un frein sur la fabrication des hormones sexuelles et donc sur l' activité sexuelle ( ceci est démontré chez de nombreuses espèces dont l' activité sexuelle est saisonnière ) .
+De plus et toujours via la pars tuberalis , la mélatonine engendre la production de prolactine .
+Cette hormone permet le contrôle d' un très grand nombre de fonctions saisonnières dont la reproduction , le changement de couleur du pelage , la mue , la migration
+Des récepteurs à la mélatonine ont également été trouvés en grand nombre dans le NSC .
+Comme indiqué précédemment , le rythme de synthèse de la mélatonine dépend du NSC .
+Le fait que des récepteurs de la mélatonine aient été trouvés à ce niveau suggère que la mélatonine pourrait avoir un effet de rétrocontrôle sur l' horloge .
+Par cette voie , elle pourrait agir sur l' activité circadienne du NSC et donc sur l' organisation de nos fonctions circadiennes .
+C' est par ce biais là que la mélatonine permet la resynchronisation des rythmes dans certaines situations où des troubles des rythmes circadiens sont notés ( personnes aveugles , travailleurs postés , jet lag )  .
+La mélatonine joue également un rôle dans l' induction du sommeil , dans la vasorégulation , la croissance cellulaire et dans l' immunomodulation  .
+De nombreuses expériences ont été réalisées dans ce domaine et ont permis de découvrir différentes interactions entre la mélatonine et le système immunitaire .
+Celles-ci ont été mises en relation avec la lutte anticancéreuse de l' organisme , aussi_bien chez les animaux que chez l' homme .
+Administrée en soirée ou la nuit , la mélatonine stimule la fonction immunitaire .
+Elle agit sur les lymphocytes T et les monocytes en augmentant notamment leur production d' IFN , IL1 , IL2 et IL6 .
+L' IFN active les macrophages et augmente la formation et l' activité des natural killer ( NK ) .
+Les IL1 , 2 et 6 participent à la prolifération et à la maturation des lymphocytes B et T. L' IL2 stimule les natural killer et l' IL6 stimule la formation des plaquettes .
+De plus , la mélatonine antagonise les effets immunosuppresseurs du cortisol et rend ainsi l' organisme capable de lutter contre les virus , les bactéries et même contre le cancer  .
+En se fixant sur les macrophages , elle induit la synthèse de GM-CSF et augmente leur fonction de présentation de l' antigène  .
+De plus , la mélatonine semble protéger les cellules saines et notamment les leucocytes et les thrombocytes des agents cytotoxiques et des radiations ionisantes  .
+Cette radioprotection de l' ADN des cellules est possible parce_que la mélatonine est un « éboueur » de radicaux libres générés par les radiations ionisantes ou par l' exposition à des produits chimiques carcinogènes .
+Elle agit comme facteur de croissance , particulièrement pour les granulocytes dans la moelle osseuse  .
+Administrée chez l' homme avec de faibles doses d' IL2 , la mélatonine amplifie son activité antitumorale et semble nécessaire pour traiter des néoplasies généralement résistantes à l' IL2 seule .
+Il semblerait que l' IL2 exogène favorise l' action de la mélatonine en augmentant le nombre de récepteurs à cette hormone sur les lymphocytes T  .
+Elle peut également induire l' apoptose des cellules tumorales en augmentant l' expression du gène suppresseur de la tumeur p53  , tandis_qu' elle l' empêche pour des cellules saines  .
+Enfin , à ce jour , elle n' a pas d' effets secondaires connus  .
+4. Intérêt possible de la mélatonine quant au cancer : action sur le système immunitaire
+Dans certaines pathologies cancéreuses , plusieurs voies utilisant les propriétés anticancéreuses du système immunitaire ont été utilisées : - l' immunothérapie ( IFN , IL1 , IL2 et IL6 ) était supposée constituer un moyen nouveau et prometteur pour lutter contre les tumeurs réfractaires aux autres traitements conventionnels .
+La plupart des résultats ont été plutôt décevants mais des recherches dans ce domaine sont toujours en cours ;
+- la greffe allogénique de cellules de moelle osseuse ou de cellules souches périphériques : depuis Horowitz  on utilise avec succès l' implantation d' un nouveau système immunitaire comme arme non conventionnelle contre les tumeurs hématologiques mais_aussi solides .
+C' est l' action du nouveau système immunitaire qui agit dans ce cas , amenant souvent des réponses objectives durables alors_que les patients progressaient sous chimiothérapie .
+Ces développements indiquent que la restauration de l' immunité constitue un objectif très intéressant dans la lutte contre le cancer .
+La mélatonine intervenant dans la régulation du système immunitaire , son utilisation ( par voie orale entre autre ) peut amener indirectement une réponse au niveau de la pathologie .
+5. Perspectives ( présentation du protocole )
+De nombreuses expériences , réalisées sur les rongeurs , ont donné lieu à des manipulations in_vitro tandis_que quelques essais de phase II ont déjà eu lieu chez l' homme  .
+Ces derniers essais montrent que des patients , traités par mélatonine pour une thrombocytopénie , ont un taux de plaquettes qui revient à la normale dans 60 à 70 % des cas , que les thrombocytopénies soient provoquées par une chimiothérapie ou par la tumeur .
+Les patients concernés étaient atteints de tumeurs solides métastatiques , principalement des cancers du sein , du foie , du pancréas , de l' estomac et de la prostate .
+D' autres études recensées dans la littérature , concernent également l' emploi de mélatonine associée à des interleukines ( MLT + IL2 dans le poumon ; MLT + IFN- dans le rein ,  .
+Ces essais s' intéressent plus particulièrement à la réponse tumorale et rapportent respectivement 20 % de réponses partielles et 50 % de stabilité ; et 19 % de réponses partielles et 43 % de stabilité .
+D' autres effets de la mélatonine sur l' hématopoïèse ont été rapportés , principalement par les équipes italiennes  : Néri et al. obtiennent , à_partir_d' une population de 31 tumeurs solides métastatiques réfractaires aux traitements conventionnels , des variations très significatives d' IL-1 ( +38 % ) , IL-2 ( +41 % ) , IL-6 ( - 36 % ) , TNF- ( +22 % ) et INF- ( +34 % ) après administration orale de 10 mg de mélatonine pendant 30 jours .
+De surcroît , après trois mois de traitement , les auteurs notent une stabilisation de la maladie dans 40 % des cas alors qu' aucun autre traitement concomitant n' était administré .
+De plus , nous pouvons rapporter les résultats obtenus par l' équipe de Lissoni  sur des patientes atteintes de tumeurs mammaires métastatiques .
+Lissoni constate une normalisation du taux de plaquette dans 75 % des cas et une réponse objective dans 40 % des cas .
+Enfin , quelques essais randomisés chimiothérapie vs chimiothérapie plus mélatonine concernant des tumeurs avancées aussi_bien mammaires  , colorectales  que pulmonaires  rapportent respectivement des taux de réponses objectives de 15 versus 34 % ; 12,5 vs 35,5 % ; 16,5 vs 32,5 % .
+Comme la_plupart des essais de phase II recensés dans la littérature ne sont pas randomisés , l' efficacité rapportée dans ces essais peut parfaitement être objectivée sans qu' elle provienne du traitement lui-même ( effet placebo ) .
+C' est pourquoi , nous proposons la réalisation d' une étude de phase II randomisée , qui apportera une preuve plus fondée de l' influence de la mélatonine sur le métabolisme .
+Nous prévoyons donc de débuter un essai de phase II randomisé mélatonine versus placebo chez des patientes atteintes de tumeurs mammaires métastatiques .
+L' objectif principal concerne l' évaluation de l' augmentation de la réponse objective par la mélatonine chez des patientes recevant une chimiothérapie ou une hormonothérapie concomitante .
+Nous prévoyons d' inclure 65 patientes par bras .
+Elles recevront donc soit 2 mg de mélatonine , soit un placebo chaque soir vers 20 heures , pendant une durée de 28 jours .
+Des prélèvements sanguins à l' inclusion et en fin de traitement nous permettront le suivi de l' hématopoïèse en_général et non plus seulement des thrombocytopénies .
+Nous étudierons également d' autres paramètres tels_que des variations de cytokines ( TNF- , INF- , IL-1 , 2 , 6 , 15 ) , la survie globale , l' évaluation de la qualité de vie , du sommeil et du stress .
+Des études ont montré que le taux de mélatonine chute avec l' âge  et que la prise de somnifères tels_que les benzodiazépines inhibe la synthèse de mélatonine  .
+Une stratification sur l' âge sera donc nécessaire , de_même que sur la prise de somnifères

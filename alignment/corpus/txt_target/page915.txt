@@ -1,0 +1,121 @@
+Metastasis is the major cause of death in breast cancer patients .
+A better understanding of the underlying molecular and cellular mechanisms is crucial for the development of effective treatment for metastatic breast cancer .
+Metastasis is a multi-step process which mediates the migration of cancer cells from the primary sites to the distant sites  .
+Adhesion of circulating cancer cells to endothelium and the subsequent trans-endothelial migration are critical steps in this process .
+Therefore , identifying the molecules which mediate cancer cell / endothelial cell interactions is necessary for us to design specific treatment to prevent breast cancer metastasis .
+LOX-1 , a receptor for oxidized low-density lipoprotein ( oxLDL ) , was first identified as a scavenger receptor for binding and uptake of oxLDL in endothelial cells .
+Recently , LOX-1 has been shown to play important roles in pro-inflammatory signaling and atherogenesis  .
+It is now well accepted that there is a strong link between chronic inflammation and cancer progression and metastasis  .
+Interestingly , the expression of LOX-1 can be regulated by pro-inflammatory mediators  .
+TNF- , one of the main mediators of inflammation , has been linked to many aspects of tumorigenesis including metastasis  .
+Given the emerging role of LOX-1 in inflammation , we would like to test the hypothesis that up-regulation of LOX-1 expression by TNF- in endothelial cells promotes breast cancer metastasis .
+In the present study , we examined the role of LOX-1 in breast cancer cell / endothelial cell interactions .
+2. Materials and methods2.1 .
+Antibodies and reagents .
+TNF- , goat and mouse anti-human LOX-1 antibodies , normal goat IgG , recombinant human P-selectin and recombinant human LOX-1 were obtained from RD Systems ( Minneapolis , MN ) .
+Goat LOX-1 antibody were raised using recombinant human Lectin-like Oxidized low density lipoprotein receptor 1 extracellular domain .
+This antibody was selected for its ability to block receptor - ligand interaction by the manufacturer .
+Mouse monoclonal antibody was selected for its ability to recognize human LOX-1 in direct ELISAs and Western blots .
+Calcein AM was ordered from Invitrogen ( Carlsbad , CA ) .
+EGM-2 was from Cambrex ( East Rutherford , NJ ) .
+RPMI 1640 was from Invitrogen .
+2.2. Cell culture .
+Human lung microvascular endothelial cells ( HLMVECs ) were obtained from Cambrex and grown in EGM-2 supplemented with 10% fetal bovine serum ( FBS ) .
+HLMVECs from passage 4 or 5 were used in the experiments .
+MDA-MB-231 cells were obtained from ATCC and maintained in culture medium ( RPMI 1640 containing 10% fetal bovine serum , 2 mM l-glutamine ) .
+Cells were maintained in an incubator at 37 C in 5% CO2 and 95% air .
+2.3. Immunoblotting .
+Immunoblotting was performed as described by us previously  .
+LOX-1 antibody was used at 1:1000 dilution .
+Densitometry analysis was carried out using the Quantity One program ( Biorad , Hercules , CA ) .
+2.4. Cell surface ELISA .
+The expression of LOX-1 on cell surface was measured by the cell surface enzyme-linked immunosorbent assay ( ELISA ) as described by us previously  .
+Cells were incubated with mouse monoclonal antibody against LOX-1 , followed by HRP-conjugated goat anti-mouse IgG .
+Peroxidase activity was detected using a 3,3,5,5 tetramethylbenzidine substrate solution ( TMB ; Pierce , Rockford , IL ) and quantified by reading the plates on a spectrophotometric microplate reader at 450 nm .
+Monolayers stained only with a secondary antibody were used as the blank .
+All assays were done with triplicate samples and repeated three times .
+2.5. Adhesion assay .
+Adhesion assays were performed as described by us previously  .
+Briefly , HLMVECs were seeded and grown in gelatin-coated 24 well plates until confluent .
+MDA-MB-231 cells were dispersed in trypsin solution , washed in serum free RPMI 1640 , then incubated with 5 M Calcein AM ( Molecular Probes ) for 30 min at 37 C. Calcein AM-labeled MDA-MB-231 cells were then added to the confluent endothelial monolayers at 100,000 cells / well and incubated at 37 C for 2 h .
+Cells were then washed extensively with PBS to remove floating cancer cells .
+Attached cancer cells were observed under a fluorescent microscope and counted from 4 random fields of 100 magnification for each triplicate sample .
+2.6. Trans-endothelial migration assay .
+The trans-migration assays were performed as described by Lee et al. previously  .
+HLMVECs were seeded and grown in 24 well Transwell inserts with pore sizes of 8 m ( Corning , NY ) until confluent .
+50,000 Calcein AM-labeled MDA-MB-231 cells were added to the apical chamber .
+After incubation for 6 h , non-migrating cells on the upper face of the membrane were scraped gently with cotton swab .
+Migrating cells on the lower face of the membrane were counted under a fluorescent microscope from 4 random fields of 100 magnification for each triplicate sample .
+2.7. Statistics .
+All values were expressed as means SEM .
+Data were analyzed by one-way analysis of variance ( ANOVA ) followed by Bonferroni test .
+A P value 0.05 was considered significant .
+3. Results3.1 .
+TNF- induces LOX-1 expression in human lung microvascular endothelial cells .
+TNF- is a potent pro-metastatic mediator  .
+To explore the role of LOX-1 in breast cancer cell / endothelial cell interactions , we first examined the regulation of LOX-1 expression by TNF- in human lung microvascular endothelial cells .
+In our studies , TNF- stimulated LOX-1 expression in a dose and time-dependent manner .
+Full-size image ( 39K )
+Fig. 1. TNF--induced LOX-1 expression in human lung microvascular endothelial cells .
+Dose - response ( a ) and time course ( b ) of TNF--induced LOX-1 expression in HLMVECs were assessed by immunoblotting .
+The same membrane was stripped and blotted with anti-actin antibody .
+Representative blots and bar graphs show the changes of LOX-1 expression after TNF- treatment .
+Results shown are representative of three independent experiments .
+Data are presented as means SEM .
+Asterisk indicates a value significantly different from that of control cells ( no treatment ) ; P 0.05. .
+View Within Article .
+3.2. TNF- stimulates LOX-1 surface expression in human lung microvascular endothelial cells .
+LOX-1 is a lectin-like type II membrane protein  .
+Cell surface exposure of LOX-1 is required for its function .
+To confirm that TNF- treatment also leads to an increase of surface expression of LOX-1 on the plasma membrane , we performed the cell-based ELISA to specifically examine LOX-1 on the cell surface .
+Indeed , TNF--stimulated cell surface expression of LOX-1 correlated with TNF--induced LOX-1 expression in HLMVECs .
+Full-size image ( 15K )
+Fig. 2. TNF- stimulates LOX-1 surface expression in HLMVECs .
+HLMVECs were treated with TNF- as indicated .
+Dose- ( a ) and time- ( b ) dependent LOX-1 surface expression was quantified by a cell surface ELISA following TNF- treatment as described in Section 2. Data are presented as means SEM .
+Asterisk indicates a value significantly different from that of control cells ( no treatment ) ; P 0.05. .
+View Within Article .
+3.3. LOX-1-dependent adhesion and trans-endothelial migration ( TEM ) of MDA-MB-231 breast cancer cells .
+TNF- is known to promote tumor cell adhesion to endothelial cells  .
+We next examined the potential involvement of LOX-1 in TNF--induced breast cancer cell / endothelial cell interactions .
+TNF--induced adhesion of MDA-MB-231 breast cancer cells to HLMVECs and the subsequent TEM were markedly decreased in the presence of either a LOX-1 blocking antibody or a LOX-1 recombinant protein , whereas the control IgG or a recombinant P-selectin protein had no significant effect on TNF-induced cancer cell adhesion and TEM .
+Full-size image ( 68K )
+Fig. 3. Inhibition of MDA-MB-231 breast cancer cell adhesion and trans-endothelial migration by a LOX-1 blocking antibody .
+HLMVECs were stimulated with TNF- ( 10 ng / ml , 16 h ) .
+Calcein AM-labeled MDA-MB-231 cells were then added to HLMVECs ( Con , without any treatment ; TNF , TNF--treated HLMVECs ; NIgG / TNF , TNF--treated HLMVECs in the presence of 10 g / ml normal IgG ; LOX-1AB / TNF , TNF--treated HLMVECs in the presence of 10 g / ml LOX-1 antibody ) and incubated for 2 h for the adhesion assay or 6 h for the TEM assay .
+Representative images ( a ) show cancer cell adhesion to endothelial cells .
+Bar graphs show bound ( b ) or migrated ( c ) MDA-MB-231 cells assessed as described in Section 2. Data are presented as means SEM .
+Asterisk indicates a value significantly different from that of cells treated with TNF- alone ; P 0.05. .
+View Within Article .
+Full-size image ( 62K )
+Fig. 4. Inhibition of MDA-MB-231 breast cancer cell adhesion and trans-endothelial migration by a recombinant LOX-1 protein .
+HLMVECs were stimulated with TNF- ( 10 ng / ml , 16 h ) .
+Calcein AM-labeled MDA-MB-231 cells were then added to HLMVECs ( Con , without any treatment ; TNF , TNF--treated HLMVECs ; rPS / TNF , TNF--treated HLMVECs in the presence of 10 g / ml recombinant human P-selectin ; rLOX-1 / TNF , TNF--treated HLMVECs in the presence of 10 g / ml recombinant human LOX-1 ) and incubated for 2 h for the adhesion assay or 6 h for the TEM assay .
+Representative images ( a ) show cancer cell adhesion to endothelial cells .
+Bar graphs show bound ( b ) or migrated ( c ) MDA-MB-231 cells assessed as described in Section 2. Data are presented as means SEM .
+Asterisk indicates a value significantly different from that of cells treated with TNF- alone ; P 0.05. .
+View Within Article .
+4. Discussion .
+In an in vitro adhesion assay , leukocytes were able to bind to surface-coated LOX-1 under physiological shear stress  , and the binding was specifically blocked by a LOX-1 antibody , indicating that LOX-1 itself can support leukocyte adhesion .
+We demonstrated that breast cancer cell adhesion to endothelial cells and the subsequent trans-endothelial migration could be inhibited by both the LOX-1 blocking antibody and the recombinant LOX-1 protein , suggesting that LOX-1 may act as an adhesion molecule to mediate cancer cell / endothelial cell interactions .
+Therefore , breast cancer cells may express specific surface molecules that bind to endothelial LOX-1 .
+Further studies are warranted to identify the LOX-1 ligands expressed in breast cancer cells .
+Circulating cancer cells and leukocytes have been suggested to share the same families of adhesion molecules for their initial interactions with the vasculature : selectins for rolling and early attachment , and VCAM-1 or ICAM-1 for firm adhesion  .
+Interestingly , in our studies , TNF--induced adhesion of MDA-MB-231 cells to endothelial cells was not completely inhibited by the LOX-1 blocking antibody or the recombinant LOX-1 protein , suggesting the involvement of other adhesion molecules .
+The link between chronic inflammation and cancer is well established  .
+However , the underlying molecular mechanisms are not fully understood .
+Atherosclerosis is considered a type of chronic inflammation  .
+The early recruitment of monocytes into atherosclerotic lesion requires activation of endothelial cells and increased endothelial adhesiveness .
+LOX-1 is an oxLDL scavenger receptor primarily expressed in endothelial cells  .
+There is accumulating evidence suggesting that up-regulation of LOX-1 expression is associated with pro-atherogenic conditions such as hypertension , hyperlipidemia and diabetes  .
+Pro-inflammatory mediators and oxLDL have also been shown to up-regulate LOX-1 expression in vitro  .
+Thus , our finding that LOX-1 regulates breast cancer cell / endothelial cell interactions provides another molecular link between inflammation and metastasis .
+The potential functions of LOX-1 in metastasis could be more profound than the adhesive property .
+Indeed , LOX-1 has been reported to play diverse roles in pro-inflammatory signaling and endothelial dysfunction  .
+Binding of oxLDL to LOX-1 was able to reduce intracellular nitric oxide concentration and increase superoxide production in endothelial cells  .
+LOX-1 activation was associated with increased production of pro-metastatic mediators TNF- and IL-1  .
+Activation of LOX-1 and the resultant oxidant and cytokine production have been linked to pro-apoptotic signaling in endothelial cells  .
+Furthermore , LOX-1-dependent activation of PKC has been shown to stimulate the expression of matrix metalloproteinases ( MMPs )  .
+MMPs are recognized as critical players in metastasis  .
+Since extravasation and intravasation of cancer cells are critical steps in metastasis , blocking cancer cell / endothelial cell interactions could be an effective approach to prevent and treat metastatic cancer .
+Our studies suggest that LOX-1 pathway may be used as a novel drug target against breast cancer metastasis .

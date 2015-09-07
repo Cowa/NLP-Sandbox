@@ -1,0 +1,113 @@
+L' IRM est la technique la plus sensible pour la détection d' un cancer du sein et ce , quelle que soit la densité mammaire .
+Les études multicentriques récentes ayant analysé l' IRM chez plus de 800 femmes retrouvent une sensibilité ( cancers in_situ et infiltrants ) et une valeur prédictive négative ( VPN ) de l' IRM de 88 %  .
+Si l' on ne considère que les cancers infiltrants , la sensibilité de l' IRM est de 91 % et la VPN de 94 % .
+Une étude multicentrique récente , centrée sur les calcifications , a retrouvé une sensibilité de détection des cancers canalaires in_situ de 79 %  .
+Cependant , la spécificité et la valeur prédictive positive ( VPP ) de cet examen ne diffèrent pas significativement de celles de l' imagerie conventionnelle ; en d' autres termes , l' IRM génère un taux non négligeable de faux-positifs .
+Après un rappel sur la technique et les critères d' interprétation de cet examen , nous aborderons la place de l' IRM dans le bilan d' extension locale du cancer du sein .
+2. Techniques et critères d' interprétation IRM
+Le but de l' IRM dynamique avec injection de produit de contraste est la mise en évidence d' une néoangiogenèse anormale ( hyperdensité vasculaire focale , néovaisseaux hyperperméables , espace interstitiel accru dans les lésions malignes expliquant le rehaussement rapide et intense après injection de sels de gadolinium ) .
+Les progrès technologiques de l' IRM ( technique d' écho de gradient , acquisition 3D ) font qu' il est désormais possible d' obtenir dans un temps d' acquisition raisonnable ( deux minutes après injection ) des images de résolution spatiale élevée ( résolution inférieure à 1 mm dans le sens du codage de phase et de fréquence , épaisseur de coupes jointives inférieure ou égale à 2 mm ) .
+Ce protocole d' acquisition améliore significativement la performance diagnostique de l' examen ( analyse du contour d' une masse , distribution spatiale des prises de contraste micronodulaires ) tout en conservant l' information sur la cinétique du rehaussement dans le temps  .
+Comme pour la mammographie et l' échographie , un lexique BI-RADS - IRM a été élaboré ( 1re édition française en 2004 ) développant une terminologie permettant de : décrire les rehaussements anormaux , d' avoir un compte rendu structuré , et de classer l' anomalie en catégories de VPP croissantes de malignité associées à une conduite à tenir  .
+Les signes IRM de VPP élevée de cancer sont pour les masses : le contour irrégulier ou spiculé , un rehaussement hétérogène en cocarde ( la prise de contraste est plus intense à la périphérie de la masse ) , une cinétique de lavage ( après un pic de rehaussement , on observe une diminution de l' intensité du rehaussement sur les temps plus tardifs après injection ) et pour les rehaussements sans masses : la distribution spatiale canalaire ou segmentaire , un rehaussement micronodulaire et confluent dans le temps , et l' intensité du rehaussement  .
+Il est donc important d' insister sur la nécessité d' un protocole d' acquisition optimal et de l' utilisation du BI-RADS dans l' interprétation de l' examen .
+Full-size image ( 21K ) Full-size image ( 35K )
+Fig. 1. Signes de malignité en IRM ( série dynamique , plan axial , trois minutes après injection de produit de contraste ) .
+a .
+Masse ( sein droit ) : forme irrégulière , contour spiculé , rehaussement précoce hétérogène en cocarde ( histologie : cancer canalaire infiltrant ) . b .
+Non masse ( sein droit ) : rehaussement précoce de distribution segmentaire , de type micronodulaire confluent ( histologie : cancer canalaire in_situ de haut grade avec nécrose ) .
+Notez l' absence de rehaussement du côté gauche .
+View Within Article
+3. Bilan d' extension locale d' un cancer du sein
+Dans un contexte de cancer du sein , l' imagerie doit déterminer le nombre de lésions suspectes de malignité , leur topographie , leur taille , leur accessibilité ou non à des prélèvements percutanés , et le statut ganglionnaire ( échographie de l' aisselle ) .
+Il est important de rappeler que la multifocalité ( lésions siégeant dans un même quadrant ) et la multicentricité ( lésions siégeant dans des quadrants différents et inaccessibles à une exérèse chirurgicale monobloc ) ne dépendent pas de la taille du cancer index .
+L' étude de Holland et al. , publiée il y a une vingtaine d' années , retrouve 14 % de lésions infiltrantes siégeant à plus de 2 cm du cancer diagnostiqué , que la taille de ce dernier soit inférieure à 2 ou à 4 cm  .
+L' IRM est l' examen le plus sensible pour détecter des lésions additionnelles en comparaison avec la mammographie et l' échographie  .
+Cependant , nous verrons que la valeur ajoutée de cet examen varie selon les patientes .
+Il est donc important que l' indication de cet examen soit discutée lors d' une réunion pluridisciplinaire qui formulera les questions et le bénéfice attendus de cette exploration .
+La réalisation d' examens par IRM dans ce contexte particulier sous-tend des prérequis en terme de personnel et d' équipement .
+Ainsi , le National Comprehensive Cancer Network ( NCCN ) a émis cette année des recommandations concernant le bilan d' extension locale des cancers du sein : prise en charge par une équipe de radiologues experts en imagerie du sein et travaillant de concert avec une équipe thérapeutique multidisciplinaire , protocole optimal des examens IRM , centre d' imagerie capable de réaliser des gestes interventionnels ( repérages préopératoires , biopsies ) sous guidage IRM .
+En terme d' indications : recherche d' un primitif mammaire ( adénopathies axillaires métastatiques , examens clinique et radiologique normaux ) , indication à considérer en cas de seins denses et dans les cancers avancés .
+Il est également souligné qu' une mastectomie ne peut être proposée sur les seules données de l' IRM ( nécessité de prélèvements sous guidage IRM )  .
+4. Situations cliniques et radiologiques où l' IRM est utile
+La valeur ajoutée de l' IRM est évidente chez cinq groupes de patientes : le cancer n' est pas détecté en imagerie standard ; la taille tumorale est difficilement évaluable , une atteinte plurifocale ou une attente pariétale est suspectée ; il existe une contre-indication à un traitement local complet , et enfin un traitement néoadjuvant est indiqué .
+Un cancer n' est pas toujours visible en imagerie standard alors_que la patiente présente soit des adénopathies axillaires métastatiques , soit un cancer palpable évident à l' examen clinique .
+Dans ces situations particulières , l' IRM permet de détecter un primitif mammaire chez environ 75 % des patientes N+ et d' effectuer le bilan d' extension locale des cancers palpables occultes en imagerie standard  .
+De même , dans la maladie de Paget du mamelon , l' IRM est utile pour détecter une composante in_situ intramammaire non décelée en mammographie  .
+Du fait de la présentation radiologique ( sein dense , distorsion architecturale ou asymétrie de densité ) , l' évaluation de la taille tumorale peut être difficile en imagerie standard ou source de résultats discordants entre l' examen clinique et l' imagerie , ou entre la mammographie et l' échographie .
+Dans les cas où ces difficultés peuvent remettre en question une chirurgie conservatrice ou faire appel à des techniques d' oncoplastie , l' IRM sera utile pour apprécier au mieux la taille lésionnelle .
+De même , la suspicion clinique ou radiologique d' une atteinte profonde , soit des muscles pectoraux , soit de la paroi thoracique peut être confirmée de manière fiable par l' IRM en montrant une prise de contraste intramusculaire anormale  .
+Full-size image ( 17K ) Full-size image ( 39K ) Full-size image ( 30K )
+Fig. 2. Bilan IRM devant une suspicion de multifocalité .
+a .
+Mammographie ( face , sein droit ) : distorsion architecturale siégeant dans les quadrants externes avec des spicules très étendus avec asymétrie focale de densité postérieure. b et c .
+IRM ( série dynamique , plan sagittal , quatre minutes après injection de produit de contraste ) : lésion correspondant à l' anomalie mammographique. c .
+L' IRM détecte des nodules satellites mais également une prise de contraste de contour irrégulier dans les quadrants inférieurs ( suspicion de multicentricité ) . d .
+Échographie ciblée : masse ACR5 .
+Biopsie : cancer canalaire infiltrant grade I.
+View Within Article
+La détection par l' échographie seule de lésions additionnelles suspectes à type de distorsion architecturale ou d' atténuation focale isolée , pose le problème pratique de leur ciblage lors_de la réalisation de prélèvements percutanés .
+L' IRM est alors utile pour confirmer leur caractère suspect et la nécessité d' en effectuer un repérage préopératoire .
+Dans les cas où le traitement local ne peut être complet , telle qu' une contre-indication ou l' absence d' une radiothérapie complète du sein , l' IRM s' impose dans l' exploration des seins denses afin_de confirmer l' unicité du cancer avant d' envisager un traitement conservateur .
+Enfin , lorsqu' un traitement néoadjuvant est indiqué ; l' IRM est utile pour préciser l' extension locale avant la mise en route du traitement et est la technique d' imagerie qui évalue le mieux la taille du résidu tumoral avant chirurgie  .
+5. Valeur ajoutée de l' IRM dans les seins clairs
+Il n' y a pas de différence significative de sensibilité entre l' IRM et la mammographie en cas de seins clairs ( densité types 1 et 2 du BI-RADS )  .
+De ce fait , l' IRM n' est pas indiquée en routine .
+Il est donc important d' insister sur l' importance d' un bilan standard complet : clichés orthogonaux face et profil strict , agrandissements géométriques pour l' analyse des foyers de calcifications , clichés avec compression localisée si nécessaire , et échographie du sein et des aires ganglionnaires .
+Sachant que la multifocalité n' est pas liée à la taille tumorale , quand un cancer est détecté , il faudra systématiquement en chercher un second sans oublier le sein controlatéral !
+Full-size image ( 17K ) Full-size image ( 15K ) Full-size image ( 31K )
+Fig. 3. Bilan standard d' un cancer survenant dans un sein clair .
+a .
+Mammographie de face : masse de contour spiculé typiquement maligne .
+Attention , une seconde masse est détectée de siège plus externe. b .
+Cliché agrandi avec compression localisée : la masse existe bien et présente un contour mal limité. c .
+Échographie : aspect typique de nodule malin .
+Cancer bifocal .
+View Within Article
+6. Valeur ajoutée de l' IRM dans les seins denses
+En cas de seins denses , la sensibilité de la mammographie diminue significativement et l' échographie est un outil incontournable pour la détection de foyers additionnels retrouvés chez 15 à 20 % des patientes  .
+Dans ce type de sein , la sensibilité de l' IRM devient significativement supérieure à celle de l' imagerie standard pour la détection de lésions additionnelles malignes .
+En moyenne , 15 % de lésions malignes surnuméraires sont détectées par l' IRM seule ( également réparties dans le même quadrant que la lésion index ou dans un autre quadrant ) avec un impact thérapeutique ( chirurgie conservatrice versus mastectomie ) allant de 8 à 30 % des patientes  .
+Les valeurs rapportées de la VPP des prises de contraste IRM surnuméraires sont variables selon les séries publiées , cette variabilité s' expliquant par l' utilisation de critères d' interprétation différents ( toute prise de contraste est suspecte ou application des critères BI-RADS en_faveur_de la malignité ) .
+Au mieux , cette VPP est de l' ordre de 60 %  .
+Il est intéressant de noter que sa valeur augmente quand le rehaussement surnuméraire correspond à une masse , lorsque la masse détectée augmente de taille ( VPP 50 % si taille 10 mm ) , et lorsque l' échographie ciblée retrouve une lésion dans la même topographie ( 63 versus 30 % lorsque l' échographie est normale )  .
+Dans l' étude de Sardanelli et al. où toutes les patientes ont subi une mastectomie permettant une corrélation radiohistologique de la totalité du sein atteint , la VPP de l' IRM ne différait pas significativement de celle de la mammographie , soulignant l' importance d' obtenir une preuve histologique des rehaussements suspects avant d' envisager un traitement chirurgical radical  .
+Un autre intérêt de l' IRM réside dans la détection d' un cancer controlatéral , occulte en imagerie standard , survenant chez 4 et 6 % des patientes  .
+Les VPP rapportées de ces prises de contraste controlatérales varient entre 20 et 50 % .
+Full-size image ( 26K ) Full-size image ( 26K )
+Fig. 4. Bilan IRM avant chimiothérapie néoadjuvante ( cancer canalaire infiltrant grade III du sein gauche ) .
+a .
+IRM ( série dynamique , plan axial , trois minutes après injection de produit de contraste ) : masse des quadrants internes du sein gauche typiquement maligne. b .
+Sein droit : rehaussement précoce hétérogène , de contour irrégulier ( quadrants externes , tiers moyen du sein ) .
+L' échographie ciblée retrouve un nodule hypoéchogène de contour irrégulier de 8 mm .
+Cytologie : adénocarcinome .
+View Within Article
+Quelle place pour l' IRM dans le bilan d' extension des carcinomes canalaires in_situ ( CCIS ) ?
+Si l' IRM est plus sensible que la mammographie en terme de détection et d' évaluation de l' extension locale , le problème des faux- négatifs IRM , concernant aussi_bien des CCIS de bas grade que de haut grade , et de surestimation de l' extension lésionnelle IRM de l' ordre de 50 % en cas de CCIS pur et de 30 % en cas de lésions mixtes invasives et in_situ , rendent son indication difficile à envisager de manière systématique  .
+L' indication de l' IRM qui paraît justifiée est celle de la découverte histologique fortuite d' un CCIS de haut grade non calcifié lors_de prélèvements percutanés .
+Une étude prospective multicentrique , ayant analysé plus de 400 patientes avec un cancer du sein ( mammographie et IRM ) , s' est intéressée aux lésions suspectes détectées à plus de 2 cm de la lésion index  .
+Cette distance de 2 cm a été retenue du fait qu' elle se situe habituellement au-delà_de la marge d' exérèse chirurgicale du cancer diagnostiqué .
+Chez 24 % des patientes , ce type de lésions additionnelles a été détecté par l' IRM seule , et s' est avéré malin pour 10 % des patientes avec un cancer index mesurant 24 mm ( taille médiane ) .
+Ces lésions malignes étaient invasives dans 78 % , de haut grade dans 84 % , et 50 % mesuraient plus de 10 mm .
+En prenant l' hypothèse que la radiothérapie adjuvante serait capable d' éradiquer des foyers infiltrants résiduels de 10 mm au maximum , ces auteurs concluaient que l' ajout de l' IRM permettrait de diminuer le nombre de reprises chirurgicales et le taux de récidive locale de 5 % .
+Cette conclusion soulève des questions importantes d' un point_de_vue oncologique , soit l' impact de l' IRM dans le bilan initial d' un cancer du sein en terme de récidive locale et de survie globale .
+7. Impact de l' IRM sur la récidive locale et la survie
+Concernant l' impact de l' IRM sur la survenue d' une récidive locale après traitement conservateur , nous ne disposons que des données d' une seule étude rétrospective montrant un taux significativement plus élevé de récidives locales chez les femmes n' ayant pas bénéficié d' une IRM dans le bilan initial de leur cancer ( 6,8 versus 1,2 % avec IRM )  .
+Cette étude a concerné 121 patientes avec un bilan par IRM et 225 patientes sans ; il faut de plus noter un plus grand nombre de stades avancés , de haut grade histologique , et d' envahissement ganglionnaire dans le groupe sans IRM , pouvant en_partie expliquer le pourcentage important de récidives locales après un suivi moyen de 3,3 ans .
+Concernant l' impact de l' IRM sur la survie sans maladie et la survie globale , il n' existe aucune donnée disponible actuellement .
+Or , la méta-analyse récente de Jatoi et al. , reprenant les résultats de six essais ayant comparé traitement conservateur versus mastectomie avec un recul de 15 ans , a montré l' équivalence des deux traitements en terme de survie globale avec cependant un taux significativement plus important de récidive locale dans le bras traitement conservateur  .
+Les résultats publiés concernant l' impact thérapeutique de l' IRM dans le bilan des cancers lobulaires invasifs , dont on connaît le risque histologique accru de multifocalité , rapportent des chiffres de l' ordre de 50 %  .
+Ces études sont toutes rétrospectives avec probablement un biais de sélection des patientes dans l' indication de l' IRM ( seins denses , lésion difficilement évaluable en imagerie standard ) .
+Elles contrastent avec les données de suivi à long terme ne retrouvant aucune différence significative en terme de récidive locale et de survie entre des patientes traitées de manière conservatrice ou par mastectomie , et après traitement conservateur entre des cancers de type canalaire et lobulaire  .
+8. Valeur ajoutée de l' IRM dans les seins denses : pour qui ?
+En attendant le suivi à long terme des essais prospectifs ayant évalué l' IRM , il paraît logique de proposer cet examen chez des femmes avec non_seulement des seins denses , mais également des facteurs de risque de récidive locale .
+Quels sont ils ?
+En dehors d' un traitement local incomplet , soit des marges envahies et l' absence de radiothérapie sur le sein , on retiendra principalement : le jeune âge au diagnostic ( 40 ans ) , un grade histopronostique élevé , la taille tumorale et un contexte familial de cancers du sein  .
+La survenue d' une récidive locale dans le sein traité est significativement associée à la survenue de la maladie métastatique sans_que l' on puisse affirmer si elle en est la cause ou un simple indicateur ; les patientes avec un envahissement ganglionnaire , des critères histologiques péjoratifs ( haut grade , emboles lymphatiques ) et un intervalle court entre le traitement initial et la récidive locale sont à haut risque d' évolution métastatique  .
+Il paraît donc logique de proposer l' IRM , en cas de seins denses aux patientes , candidates à un traitement conservateur sur les données de l' examen clinique et de l' imagerie standard , soit sur des critères cliniques tels_que l' âge ou le haut risque familial , soit sur des critères histologiques : grade III et taille supérieure à 2 cm .
+Chez les femmes à très haut risque , soit porteuse d' une mutation génétique type BRCA1 et 2 ou p53 , soit avec une forte probabilité d' en être porteuse ( modèle de Claus avec probabilité 40 % , risque absolu cumulé 30 % ) , l' utilité de l' IRM dans le dépistage du cancer du sein est démontré dans plusieurs études prospectives ayant comparé l' imagerie standard et l' IRM à un rythme annuel  .
+Dans ces études , l' IRM a permis d' évaluer précisément l' extension locale des cancers dépistés ( contexte de femmes jeunes , seins denses , haut grade en cas de mutations BRCA1 )  .
+9. Conclusion
+En dehors d' indications ciblées , imagerie standard prise en défaut , extension pariétale suspectée , mise en route d' un traitement néoadjuvant , l' IRM doit être proposée chez des femmes candidates à un traitement conservateur , avec non_seulement une forte densité mammaire mais_aussi sur des données cliniques et histologiques .
+Pour une prise en charge optimale de la patiente , doit être impliquée une équipe de radiologues experte en imagerie du sein et capable de faire la synthèse des différents examens d' imagerie , travaillant de concert avec l' équipe thérapeutique .
+De plus , la VPP des lésions additionnelles détectées par l' IRM seule étant au mieux de 60 % , l' équipe radiologique doit être capable de réaliser des gestes interventionnels guidés par imagerie avec produit de contraste ( IRM ou scanner )

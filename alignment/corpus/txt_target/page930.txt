@@ -1,0 +1,102 @@
+Since the introduction of skin-sparing mastectomy ( SSM ) by Toth and Lappert in 19911 concerns on local control and recurrence rates have been discussed in the literature .
+The operation removes the nipple - areola complex , skin overlying superficial tumors and any previous surgical biopsy site together with the entire breast parenchyma , and is followed by immediate breast reconstruction ( IBR ) .
+SSM preserves a native skin envelope , including the inframammary fold , facilitating an optimal breast reconstruction .
+The superiority of SSM followed by IBR compared with other reconstruction methods has been established by several studies in terms of cosmetic and functional outcome. 
+Due to the relatively recent introduction of SSM and the less extensive resection of skin compared with conventional mastectomy , concerns persist that SSM might increase the risk of local or regional recurrence .
+A limited number of studies have not shown an increase in local recurrences associated with SSM.  However , many of these series included either small sample sizes or short follow-up times , in addition to heterogeneous patient material with varying stages of breast cancer , both invasive and noninvasive .
+The aim of this study is to examine incidence of local recurrence in a 15 year consecutive series of breast cancer patients with either stage 1 or 2 disease11 having undergone SSM and IBR at a single population-based institution .
+In addition , this study aims to examine the occurrence of systemic relapse in association with local recurrences .
+Patients and methods Patients .
+Most of the skin-sparing mastectomies during the study period were performed on patients with stage 0 disease and these were excluded from our study .
+A retrospective review of 146 consecutive patients with either stage 1 or 2 breast cancer who underwent SSM followed by IBR from 1992 to 2006 was carried out .
+The operations were performed at the 4th Department of Surgery of Helsinki University Central Hospital until the end of 1999 and at the Department of Plastic Surgery and the Breast Surgery Unit of Helsinki University Central Hospital from the beginning of 2000 .
+Patient records were analyzed for patient , tumor and treatment characteristics .
+Details on tumor characteristics were obtained from the pathology reports , whereas surgical records and radiology reports were analyzed for follow-up data on patterns and timing of recurrence .
+The American Joint Committee on Cancer ( AJCC ) staging system from 2002 was used for grouping patients according to their stage of the disease.11 .
+The research plan was approved by Helsinki University Central Hospital 's Head of Surgery and permission was granted for examination of patient records .
+Surgery .
+The SSM was performed by experienced breast surgeons in an established manner .
+The nipple - areola complex together with the entire breast parenchyma was removed as well as any existing biopsy scar and skin overlying superficial tumors .
+Periareolar and tennis racquet type incisions were most commonly used .
+In case of a superficial tumor or a previous biopsy scar an elliptical incision was used including the nipple - areola complex , the surgical biopsy scar and skin overlying the superficial tumor .
+The SSM was frequently combined with axillary lymph node dissection or sentinel lymph node biopsy .
+Generally a dissection of the level I - II axillary lymph nodes was performed when the pre-operative diagnosis was invasive carcinoma .
+When only DCIS was pre-operatively suspected a dissection of level I axillary lymph nodes was performed .
+Sentinel lymph node biopsies were performed from 2004 onwards .
+Altogether dissection of level I - II axillary lymph nodes was performed on 91 patients , level I axillary clearance on 32 patients and sentinel lymph node biopsy on 21 patients .
+The SSM was followed by IBR performed by a team of reconstructive plastic surgeons .
+The reconstruction method was determined by patient anatomy and preferences , and a variety of methods were used : four sub-muscular prostheses , 24 Latissimus Dorsi ( LD ) flaps , 21 LD flaps with prostheses , 80 Transverse Rectus Abdominis Musculocutaeous ( TRAM ) microvascular flaps , 14 Deep Inferior Epigastric Perforator ( DIEP ) microvascular flaps and two Superficial Inferior Epigastric Artery ( SIEA ) microvascular flaps were used .
+Adjuvant systemic and radiotherapy .
+Adjuvant chemotherapy and radiotherapy were administered according to Finnish national evidence-based guidelines .
+Generally radiotherapy was administered to lymph node positive patients and to patients with primary tumor of more than 5 cm in diameter .
+Altogether 32 patients in our series received radiotherapy .
+Chemotherapy was generally administered to patients with a high risk of recurrence .
+Thus , lymph node positive patients and patients with a primary tumor of more than 5 cm in diameter usually received chemotherapy .
+Chemotherapy was also administered to patients with smaller primary tumors with histological grade 2 or 3 or with negative hormone receptors .
+In addition , patients younger than 35 years of age received chemotherapy .
+Fifty-five patients in our series received chemotherapy .
+Furthermore , a five-year antiestrogen medication was administered to patients with hormone receptor positive tumors and in addition either positive lymph nodes or tumor with histological grade 2 or 3. .
+Follow-up and classification of recurrences .
+All of the patients were scheduled for a follow-up program with first clinical checkup at 4 - 6 weeks after the operation and subsequent clinical examinations by a surgeon and / or oncologist , as well as mammography and ultrasound of the breasts and regional lymph node areas at 1 , 3 and 5 years .
+Recurrences were classified into local , regional and systemic according to the first site of recurrence .
+Local recurrences included only isolated skin and / or subcutaneous recurrences since no chest wall recurrences were accounted for .
+Regional recurrences included only isolated regional lymph node metastasis .
+Results Patient and tumor characteristics .
+Patient and tumor characteristics are described in Table 1. Seventeen patients with stage 1 disease had microinvasive DCIS .
+Furthermore , three patients with DCIS were axillary node positive with nodal histology of ductal carcinoma metastasis but no apparent invasion in the breast specimen .
+Table 1. .
+Patient and tumor characteristics .
+Stage 1Stage 2aStage 2bTotal Age range ( years ) 29 - 6530 - 6830 - 6429 - 68 Mean age ( years ) 48474648 DCIS173 - 20 Ductal carcinoma63308101 Lobular carcinoma77519 Other4116 Total no. of patients914114146 .
+Full-size table .
+View Within Article .
+Recurrence rates and follow-up times .
+Recurrences are described in Table 2. The mean follow-up time of our series was 51 months ( range 2 - 159 months ) .
+The overall recurrence rate was 7.5% including the systemic recurrences .
+Isolated local recurrences occurred at a rate of 2.7% and the incidence of isolated regional lymph node recurrences was 2.1% for a combined locoregional recurrence rate of 4.8% .
+None of the 14 patients with stage 2b disease had a recurrence during the follow-up time .
+Table 2. .
+Recurrences by stage .
+Stage 1Stage 2aStage 2bTotal Total no. of patients914114146 Mean follow-up time ( months ) 53494551 Local skin / subcutaneous recurrences4 DCIS - - - - Ductal carcinoma21 - 3 Lobular carcinoma - 1 - 1 Regional lymph node recurrences3 DCIS - - - - Ductal carcinoma3 - - 3 Lobular carcinoma - - - - Systemic recurrences4 DCIS - - - - Ductal carcinoma11 - 2 Lobular carcinoma11 - 2
+Full-size table .
+View Within Article .
+All of the locoregional recurrences were isolated without signs of synchronous systemic disease .
+The mean interval to locoregional recurrence was 44.3 months ( range 19 - 67 months ) and the mean follow-up time after detection of locoregional recurrence was 34.7 months ( range 3 - 65 months ) .
+All of the patients who developed a locoregional recurrence were node negative at the time of primary surgery , the two stage 2a patients having a T2N0 disease .
+Consequently none of these patients received radio- or chemotherapy after the primary surgery .
+Localization , sizes and detection of local recurrences .
+All four of the local recurrences were located in the area of spared skin envelope .
+Two of these were detected by clinical examination , one was detected by mammography and one was detected by ultrasound .
+The sizes of three of these local recurrences were 10 mm and one was 22 mm in diameter .
+Treatment of locoregional recurrences .
+All of the locoregional recurrences were treated by salvage surgery of the recurrence followed by radio- and chemotherapy .
+Healthy margins were obtained in all cases of salvage surgery and none of the breast reconstructions were endangered .
+During follow-up none of these patients developed new local , regional or systemic recurrences .
+Discussion Local recurrence rates .
+As breast cancer surgeons have gradually adopted less extensive and more conserving techniques , concerns on the oncological safety of newer surgical approaches have been raised .
+Especially SSM has been discussed for potentially increasing local recurrences by leaving most of the breast skin intact .
+Nevertheless , despite varying surgical approaches over the years there has not been much change in the local recurrence rates.12 .
+The local recurrence rate of 2.7% and locoregional recurrence rate of 4.8% in our series is well comparable with the results of other studies .
+Nevertheless , comparing these studies is not straightforward as many of them include patients with stage 0 disease and some also include stage 3 and 4 patients .
+In addition , the guidelines for administering chemo- and radiotherapy differ somewhat between countries .
+Different indications for radiotherapy after mastectomy may affect the local recurrence rates of these different studies as radiotherapy has been shown to substantially reduce local recurrences independent of tumor characteristics.13 .
+Table 3. .
+Local recurrence ( LR ) rates after SSM and IBR in previously published papers with more than 100 patients included .
+AuthorYearYears coveredNumber of patientsStagesFollow-up ( months ) LR rate ( % ) Carlson et al.1220031989 - 19985650 - 4655.5 Newman et al.519981986 - 19933721 - 2506.2 Greenway et al.1020051989 - 20042250 - 2491.7 Spiegel and Butler920031985 - 19942210 - 3?1184.5 Medina-Franco et al.1820021986 - 19971731 - 3734.5 Kroll et al.619991986 - 19901141 - 2727.0 Meretoja et al.This report1992 - 20061461 - 2512.7 .
+Full-size table .
+View Within Article .
+Follow-up and management of local recurrences .
+Key to successful local recurrence management is early detection followed by salvage surgery with healthy margins and subsequent adjuvant therapies.  Nevertheless , there is no common agreement on how the follow-up of SSM and IBR patients should be organized .
+Regular clinical examinations are the basis of all follow-up schemes , while substantial variation takes place in the frequency and span of the follow-up checkups , as well as in the routine use of mammography and ultrasound.  Our routine follow-up system for all patients comprises mammography and ultrasound , as well as clinical examination by a surgeon and / or oncologist at 1 , 3 and 5 years from surgery .
+The routine use of imaging in the follow-up is supported by our findings , as only two of the four local recurrences were detected by clinical examination alone , whereas one was detected by mammography and one by ultrasound .
+Prognosis after local recurrence .
+Local recurrence after mastectomy has generally been regarded as an indicator of poor prognosis , although this has been challenged by some studies .
+In a study by Medina-Franco et al.18 75% of patients who developed a local recurrence after SSM later developed distant metastases and died of disease within a mean of 21 months after the local recurrence .
+In another study by Langstein et al.19 67% of patients with local recurrence after IBR developed distant metastases .
+On the other hand , Carlson et al.12 showed that 80% of stage 1 patients who were treated for local recurrence after SSM and IBR had no evidence of disease at the end of follow-up , whereas the same was true only for 11.8% of stage 2 patients .
+In our present series all of the patients who were treated for a local or regional recurrence were disease free at the end of an average follow-up of 34.7 months after the detection and treatment of the recurrence .
+The excellent outcome of local recurrence treatment in our series might in part be due to the fact that five of the seven patients with locoregional recurrence had an early stage disease ( stage 1 ) and also the two stage 2a patients were node negative at the time of primary surgery .
+Furthermore , the local recurrences were detected at an early stage facilitating radical salvage surgery with healthy margins .
+Additionally , radio- and chemotherapy was administered to all of our patients following surgical treatment of the recurrence .
+Conclusions .
+Our present study concludes that SSM followed by IBR seems oncologically sound procedure for stage 1 and 2 breast cancer patients .
+In addition , our study confirms the finding that local recurrences are not always associated with systemic relapse .

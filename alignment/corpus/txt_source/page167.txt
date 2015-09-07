@@ -1,0 +1,87 @@
+L' usage des marqueurs tumoraux a fait l' objet de recommandations publiées par l' Agence nationale d' accréditation et d' évaluation en santé en 1997  .
+Cette agence indépendante élabore à_partir_de méta-analyses de l' ensemble des publications scientifiques , des recommandations consensuelles .
+Parmi celles-ci , les modalités d' utilisation du CA 15.3 , en l' état actuel des connaissances , sont précisées .
+Une élévation en taux du CA 15.3 peut être observée chez 2 à 7 % de sujets sains selon les études .
+Par ailleurs , des états pathologiques autres que le cancer du sein , peuvent également s' accompagner d' une hausse du taux de CA 15.3. Ce manque de sensibilité et de spécificité justifie que ce dosage ne soit pas recommandé dans le cadre du dépistage du cancer du sein .
+Au stade du diagnostic initial , la sensibilité du CA 15.3 n' est pas meilleure .
+Les études rapportent un taux d' augmentation de ce marqueur pour 7,1 à 34 % de cancers non métastatiques .
+La prescription de ce marqueur n' est pas pertinente à ce stade .
+Dans le cadre du bilan d' extension , des études montrent une corrélation entre l' élévation du taux de CA 15.3 et le stade de la maladie .
+De même , les taux sériques sont liés positivement à la taille de la tumeur primitive et à l' extension ganglionnaire .
+Cependant , l' intérêt des marqueurs tumoraux n' est pas établi dans la détection des stades métastatiques d'_emblée et aucune étude à ce jour n' a défini d' indication thérapeutique liée au taux de CA 15.3.
+En ce qui concerne le diagnostic des rechutes , qu' elles soient locales ou métastatiques , et bien qu' il existe une efficacité des marqueurs sériques dans cette situation , aucune étude n' a pu déterminer que leur traitement plus précoce aient amélioré la survie ou la qualité de la survie .
+Le dosage du CA 15.3 n' est donc pas recommandé à ce stade .
+Enfin , les variations de taux sériques de CA 15.3 lors du suivi thérapeutique de rechute sont corrélées positivement dans près_de 80 % des cas à l' efficacité thérapeutique .
+Ce dosage constitue donc un élément d' évaluation de l' efficacité mais ne peut en aucun cas être l' indicateur unique .
+La Fédération nationale des centres de lutte contre le cancer ( FNCLCC ) a publié des séries de standards , options et recommandations ( SOR ) sur les marqueurs tumoraux dans le cancer du sein en 2000  et plus récemment sur les cancers du sein infiltrants non métastatiques  .
+Ces recommandations se superposent à celles de l' Anaes .
+En effet , au stade diagnostique , le CA 15.3 ne doit pas être utilisé en raison de sa faible sensibilité .
+À un stade plus avancé , son taux est souvent élevé , cependant , le CA 15.3 n' est d' aucune aide diagnostique .
+Aucune étude ne démontre par_ailleurs un rôle pronostique indépendant de la positivité des marqueurs tumoraux .
+Enfin , si l' on veut utiliser le CA 15.3 comme marqueur du suivi , il est indispensable de disposer d' une valeur basale spécifique du patient plutôt que de se référer aux valeurs usuelles .
+Ceci implique de disposer d' un dosage avant_tout traitement , particulièrement en présence de facteurs pronostiques péjoratifs .
+L' existence de référentiels limitant les indications des dosages du CA 15.3 contraste étonnamment avec les dépenses de biologie qui situent le CA 15.3 au soixante-seizième rang en dénombrement de toutes les prescriptions de biologie remboursées par le régime général de l' assurance maladie , soit près_de 0,2 % des volumes totaux  .
+Le service médical près la caisse primaire d' assurance maladie de Roubaix a souhaité étudier les modalités de prescription du CA 15.3 et valider l' adéquation de ces prescriptions par rapport aux référentiels médicaux que constituent les recommandations de l' Anaes et les SOR de la FNCLCC .
+2. Matériel et méthode
+Une première recherche sur les bases de données de l' assurance maladie a chiffré à 1215 le nombre de CA 15.3 remboursés aux assurés de cette CPAM en 1999 .
+La répartition au_cours_de l' année de ces dosages paraît régulière , hormis durant la période estivale .
+Pour notre étude , nous avons choisi de rechercher l' exhaustivité des dosages remboursés et réalisés sur une période de 3 mois consécutifs , soit du 1er février au 30 avril 2000 .
+Le nombre de dosages attendu est d' environ 300 .
+Un questionnaire pour chaque dosage est ensuite adressé au prescripteur .
+Les items recherchés s' attacheront à connaître l' existence ou non d' un cancer du sein , la date du diagnostic de celui-ci , les traitements reçus et en cours , la situation clinique au moment de la réalisation du contrôle biologique .
+Au retour du questionnaire , les informations sont saisies sous logiciel Epi Info de façon strictement anonyme .
+L' analyse a également utilisé les logiciels Excel et SPSS .
+3. Résultats
+Deux cent quarante-six dosages sont recensés sur la période d' étude .
+Deux cent neuf questionnaires nous sont revenus ( 85 % ) dont 205 sont exploitables ( 83 % ) .
+Nous notons l' excellente participation des médecins prescripteurs à ce projet .
+3.1. Patients3.1.1 .
+Sexe
+L' étude retrouve 201 femmes et 4 hommes .
+Sur les 4 hommes , nous notons 2 cancers du sein et 2 patients suivis pour une autre pathologie , tandis_que 189 femmes présentent un cancer du sein .
+3.1.2. ge
+L' âge des patients se répartit entre 32 et 91 ans , avec une moyenne de 61 ans et une médiane de 63 ans .
+3.1.3. Intervalle
+Nous avons mesuré le délai entre la date du diagnostic initial de cancer du sein ( déclarée par le prescripteur ) et la date du dosage de CA 15.3. Nous observons que l' utilisation du dosage de ce marqueur est constante dans le temps pendant les 10 premières années puis décroît jusqu' à des délais extrêmes de plus de 30 ans .
+3.2. Prescripteurs3.2.1 .
+Généralistes
+Les généralistes sont au nombre de 74 contre 29 spécialistes .
+Ils ont prescrit 117 dosages soit 57 % avec une moyenne de 1,5 dosage / généraliste .
+Full-size image ( 3K )
+Fig. 1. Nombre de prescriptions par généraliste .
+View Within Article
+3.2.2. Spécialistes
+Nous retrouvons dans notre étude : - 7 chirurgiens pour 9 prescriptions ; - 8 gynécologues obstétriciens pour 10 prescriptions ; - 13 oncologues et / ou radiothérapeutes pour 68 prescriptions ; - 2 spécialistes d' autres disciplines ( médecine interne , rhumatologie ) pour 2 prescriptions .
+Les oncologues prescrivent plus que les autres spécialistes ( moyenne = 5 vs 1,2 ) , ce qui se conçoit aisément eu égard aux recommandations .
+3.3. Dosages
+Par l' analyse des questionnaires , nous avons situé les dosages du CA 15.3 par_rapport_à l' histoire clinique et thérapeutique de chaque sujet .
+Tableau 1. Modalités de prescription
+Full-size table ( 8K )
+View Within Article
+Nous avons individualisé 4 classes de modalités de prescriptions correspondant aux principales situations décrites dans les référentiels .
+La première correspond aux dosages des CA 15.3 effectués lors_de la phase de diagnostic de la tumeur , du bilan d' extension et du traitement chirurgical et / ou radiothérapique et / ou chimiothérapique .
+Elle regroupe 16 patients ( 7,8 % ) .
+La deuxième modalité se situe postérieurement à la fin des traitements en l' absence d' évolution clinique décelée .
+À noter que les patientes sous hormonothérapie au long cours sans manifestation clinique évolutive sont incluses dans cette catégorie qui compte 117 patients ( 57,1 % ) .
+La troisième classe regroupe les dosages demandés pour des patients en cours de traitement pour rechute et exceptionnellement à distance de ces traitements ( 2 cas ) .
+Ce suivi thérapeutique concerne 58 patients soit 28,3 % .
+Enfin , la catégorie « autres situations » reprend les CA 15.3 réalisés en l' absence de cancer du sein connu ou suspecté , soit pour un dépistage systématique ( 12 fois / 14 ) , soit pour le suivi d' une autre pathologie ( un cancer du côlon et un cancer ovarien ) .
+4. Discussion
+Le régime général de l' assurance maladie de Roubaix couvre 96 % de la population de cette circonscription .
+Nous estimons que les données recueillies représentent la réalité de l' ensemble de la population .
+L' analyse des modalités de prescription a été faite à partir des renseignements déclarés par les médecins sur les questionnaires .
+Le référentiel médical retient pour seule indication actuellement validée , le suivi thérapeutique de récidive locale ou métastases .
+Cette circonstance n' est retrouvée que pour 28,3 % des prescriptions , ce qui représente une non-qualité globale importante .
+Si l' on regarde séparément les modalités selon les deux groupes de prescripteurs ( généralistes et spécialistes ) , nous nous apercevons que ces derniers respectent dans près_de la moitié des cas les recommandations alors_que seulement 12,8 % des prescriptions émanant des généralistes sont conformes au référentiel ( p = 310 - 8 ) .
+Par ailleurs , les prescriptions de CA 15.3 dans un but de dépistage de cancer du sein sont l' exclusivité des généralistes .
+Enfin , le suivi par CA 15.3 au cours du traitement des métastases ou récidive est , logiquement , l' apanage des spécialistes dans notre étude .
+En termes de cot , le dosage du CA 15.3 est inscrit à la nomenclature des actes de biologie médicale avec une cotation B 70 ou B 105 s' il y a comparaison avec un sérum précédent .
+La répartition étant globalement équivalente , le cot moyen d' un dosage est de 22,75 euros .
+Par approximations successives , sachant que la population protégée par le régime général de la CPAM de Roubaix est d' environ 300000 personnes , que le nombre de dosages de CA 15.3 est d' environ 1200 par an , que le taux d' inadéquation est de 71,7 % , nous estimons que le nombre de dosages inadéquats est de l' ordre de 172000 , France entière .
+La dépense annuelle inutile s' élève à près_de 4 millions d' euros .
+À cette dépense s' ajoutent les cots des examens effectués à la suite des faux-positifs .
+En effet , les faux-positifs et faux-négatifs dont le taux important est reconnu dans toutes les études , risquent d' entraîner des bilans itératifs , coteux , inutiles et souvent très angoissants ou , à l' opposé , sont susceptibles d' induire un relâchement de la surveillance pour des patients faussement rassurés .
+Pour aider les professionnels de santé à s' approprier les recommandations et réduire ainsi le nombre de prescriptions de dosages de CA 15.3 inadéquats , le service médical et la CPAM de Roubaix ont décidé d' une action de communication .
+Chaque généraliste et spécialiste impliqué dans la prise en charge des cancers du sein dans la circonscription , ainsi_que tous les médecins ayant répondu à notre questionnaire ont reçu un compte rendu des résultats associé à un rappel des recommandations .
+Remerciements
+À Monsieur le Pr Denis Querleu et à Monsieur le Dr Michel Finck pour leur aide et soutien constants au_cours_de cette étude

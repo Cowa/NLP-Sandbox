@@ -1,0 +1,311 @@
+Les cancers du sein bilatéraux synchrones ( CSBS ) ne sont pas exceptionnels et leur incidence peut être estimée entre 1,5 et 3,2 % selon l' intervalle diagnostique choisi par les auteurs  .
+Pour la majorité d' entre eux , la deuxième tumeur doit être diagnostiquée dans les six mois .
+Dans la littérature , les facteurs de risque des CSBS sont mal définis et les données contradictoires .
+L' augmentation de la prévalence des lésions infracliniques a modifié la conduite diagnostique à tenir devant une tumeur du sein et de nouvelles techniques d' imagerie comme l' imagerie par résonance magnétique ( IRM ) ont fait leur apparition .
+Leurs indications et leur contribution dans le diagnostic des CSBS n' ont pas été évaluées .
+La prise en charge thérapeutique des CSBS est discutée et variable selon les équipes et les périodes .
+Le geste chirurgical local proposé aux patientes est souvent radical ( mastectomie ) , au détriment du traitement conservateur .
+De plus , les techniques d' évaluation de l' envahissement ganglionnaire axillaire sont en pleine évolution et l' intérêt de la technique du ganglion sentinelle dans cette indication n' a pas été évalué .
+La physiopathologie de cette entité est discutée .
+S' agit il de deux événements successifs d' une même tumeur primitive d' origine monoclonale ou bien faut il considérer la deuxième tumeur comme une tumeur primitive indépendante Les caractéristiques histologiques et immunohistochimiques de chacune des deux tumeurs pourraient nous permettre de comprendre la physiopathologie du CSBS .
+L' objectif de cette étude a été de définir les facteurs de risque de CSBS par l' étude des caractéristiques de notre population , de détailler les principaux tableaux diagnostiques et l' apport des nouvelles techniques d' imagerie , de déterminer la prise en charge thérapeutique chirurgicale ainsi_que la place du ganglion sentinelle , de mieux comprendre la physiopathologie de cette entité particulière par l' étude comparative des caractéristiques histologiques des deux tumeurs et d' étudier l' évolution dans le temps de l' épidémiologie , de la clinique , du traitement et de l' histologie des CSBS en comparant deux périodes successives .
+2. Patientes et méthodes
+Nous avons étudié de manière rétrospective les patientes ayant eu un CSBS prises en charge dans le service de gynécologie - obstétrique de l' hôpital Tenon ( Paris , France ) , entre juillet 1992 et mai 2006 .
+Au total , 62 patientes ont été incluses avec les critères d' inclusion suivants : tumeurs malignes du sein diagnostiquées simultanément ou dans un délai maximal de six mois après le diagnostic de la première tumeur .
+Tous les cancers invasifs ainsi_que les carcinomes intracanalaires ont été considérés comme des tumeurs malignes .
+Les patientes dont la survenue du cancer controlatéral était contemporaine d' une récidive homolatérale d' un cancer plus ancien ont été exclues .
+Cette situation concernait six patientes durant cette période .
+Conformément aux principales données de la littérature , le diagnostic de cancer du sein n' était pas retenu chez les patientes dont l' examen histologique révélait un carcinome lobulaire in_situ isolé .
+Enfin , nous avons exclu 30 patientes présentant un cancer du sein bilatéral métachrone défini par un intervalle diagnostique entre les deux tumeurs supérieur à six mois .
+Nous avons collecté les données épidémiologiques des patientes , les circonstances de découverte et les modalités diagnostiques clinique et radiologique de ces tumeurs .
+Une IRM était réalisée chez les patientes présentant un risque élevé de cancer controlatéral : patiente âgée de moins de 45 ans , histoire familiale de cancer du sein , taille tumorale supérieure à 3 cm avant décision de chimiothérapie néoadjuvante , tumeur multifocale ou présence d' un carcinome lobulaire invasif .
+Nous avons également étudié la prise en charge thérapeutique des patientes incluses : administration d' une chimiothérapie néoadjuvante , geste chirurgical réalisé ( tumorectomie ou mastectomie , geste axillaire ) et traitements adjuvants ( chimiothérapie , radiothérapie , hormonothérapie ) .
+Nous avons analysé les caractéristiques histologiques des tumeurs : taille , caractère uni ou multifocal , type histologique , grade , présence éventuelle d' emboles vasculaires et / ou lymphatiques , expression des récepteurs hormonaux , association à une composante in_situ , statut ganglionnaire et nombre de ganglions envahis .
+Les données concernant l' expression de cerb-2 et du marqueur de prolifération tumorale Ki-67 ont également été collectées pour les patientes incluses durant la deuxième partie de l' étude .
+Pour les tumeurs multifocales , la taille tumorale retenue était la somme des diamètres des différents foyers tumoraux .
+Histologiquement , les tumeurs ont été classées selon les critères de l' Organisation mondiale de la santé ( OMS ) .
+Le grade tumoral était évalué en suivant les recommandations d' Elston et Ellis .
+L' expression des récepteurs aux oestrogènes et à la progestérone , de cerb-2 et du marqueur de prolifération cellulaire Ki-67 a été étudiée par immunohistochimie .
+Enfin , le taux de récidive locorégionale ou à distance et la survie des patientes ont été analysés .
+Dans un premier temps , l' analyse a consisté à décrire les caractéristiques générales des femmes atteintes d' un CSBS , les modalités diagnostiques , les traitements mis en oeuvre , ainsi_que les données histologiques de ces tumeurs .
+Dans un second temps , l' évolution de la population prise en charge à l' hôpital Tenon a été étudiée en comparant les femmes prises en charge de 1992 à 1999 aux femmes suivies entre 2000 et 2006 .
+La comparaison a porté sur les critères épidémiologiques , diagnostiques , thérapeutiques et histologiques définis ci-dessus pour évaluer notamment l' apport de l' IRM et de la technique du ganglion sentinelle dans la prise en charge diagnostique et thérapeutique des CSBS .
+Elle a reposé sur le test du Khi2 .
+Lorsque les conditions d' application de ce dernier n' étaient pas remplies , le test de Fisher a été utilisé .
+Le résultat du test était considéré comme significatif pour p 0,05 .
+3. Résultats3.1 .
+Epidémiologie
+Soixante-deux patientes présentant un CSBS ont été prises en charge .
+Durant la même période , 2383 patientes ont été traitées pour un cancer du sein .
+La fréquence des CSBS était donc de 2,6 % .
+Entre 1992 et 1999 , 858 patientes ont été opérées d' un cancer du sein .
+Durant cette même période , 20 patientes ont été traitées pour un CSBS soit 2,3 % pendant la première période .
+Entre 2000 et 2006 , 1525 patientes ont été opérées d' un cancer du sein , 42 patientes avaient un CSBS soit 2,7 % .
+L' âge moyen des 62 patientes ayant un CSBS était de 60,6 ans ( écart-type : 12,4 ) .
+Un antécédent familial de cancer du sein au premier ou au deuxième degré a été retrouvé chez 23,7 % des patientes ( n = 14 ) .
+Pour 16,9 % des patientes ( n = 10 ) , il s' agissait d' un antécédent familial au premier degré .
+Tableau 1.
+Caractéristiques épidémiologiques des patientes présentant un CSBS
+CaractéristiquesPopulation globale ( % ) Groupe 1 ( % ) Groupe 2 ( % ) p gea60,6 ( 12,4 ) 67,0 ( 11,3 ) 57,5 ( 11,7 ) 0,004 Indice de masse corporellea26,3 ( 5,3 ) 25,9 ( 4,0 ) 26,4 ( 5,8 ) ns Antécédent familial de cancer du sein ( % ) ( n ) 23,7 ( 59 ) 5,3 ( 19 ) 32,5 ( 40 ) 0,024 Patientes ménopausées ( % ) ( n ) 80,6 ( 62 ) 95,0 ( 20 ) 73,8 ( 42 ) 0,083 THS ( % ) ( n ) b31,9 ( 47 ) 23,5 ( 17 ) 36,7 ( 30 ) ns Paritéa1,3 ( 1,4 ) 1,5 ( 2,0 ) 1,2 ( 1,1 ) ns
+Full-size table
+a Moyenne ( écart-type ) .
+b Pourcentage de femmes traitées chez les femmes menopausées .
+View Within Article
+Les caractéristiques des deux sous-groupes , patientes prises en charge entre 1992 - 1999 ( groupe 1 ) et patientes prises en charge entre 2000 - 2006 ( groupe 2 ) , étaient différentes .
+Par rapport à la première période , les patientes prises en charge entre 2000 et 2006 étaient plus jeunes ( 57,5 ans versus 67 ans , p = 0,004 ) , et donc , logiquement , moins souvent ménopausées ( 73,8 % versus 95 % , p = 0,08 ) .
+Les antécédents familiaux de cancer du sein étaient plus fréquents dans le groupe 2 que dans le groupe 1 ( 32,5 % versus 5,3 % , p = 0,024 ) .
+Au total , sept patientes seulement ont été testées pour la recherche de mutation des gènes de prédisposition au cancer du sein BRCA1 et BRCA2 .
+Parmi ces sept patientes , une seule avait une mutation du gène BRCA1 .
+3.2. Diagnostic
+L' étude des circonstances diagnostiques de ces CSBS a montré que 74,2 % des patientes présentaient au moins un signe d' appel clinique : tumeur palpable , écoulement , mastite carcinomateuse , métastases osseuses .
+Le tableau diagnostique le plus fréquent ( 43,5 % ) était l' association d' une lésion clinique d' un sein ( nodule palpable , écoulement ) et d' une anomalie mammographique ou échographique controlatérale .
+La présence de signes cliniques bilatéraux ( nodules palpables , mastite ) a été notée pour 19,3 % des patientes .
+Cette dernière situation était moins fréquente que l' association de lésions infracliniques bilatérales ( 25,8 % ) .
+Enfin , 42,6 % des patientes ont bénéficié d' une IRM mammaire .
+Cet examen a permis de diagnostiquer une lésion controlatérale occulte , non visible en mammographie pour sept patientes soit 11,3 % de l' ensemble de la population étudiée et 26,9 % des patientes qui ont bénéficié de cet examen .
+Toutes les IRM qui ont permis le diagnostic d' une lésion sans traduction clinique et mammographique ont été réalisées chez des patientes prises en charge entre 2000 et 2006 .
+Les circonstances diagnostiques entre les deux périodes d' étude étaient différentes , à la limite de la significativité ( p = 0,06 ) .
+Ces différences consistaient en une diminution des lésions cliniques bilatérales , plus fréquentes dans le groupe 1 ( 35 % ) que dans le groupe 2 ( 19 % ) , au profit des lésions infracliniques bilatérales , plus fréquentes dans le groupe 2 ( 28,6 % ) que dans le groupe 1 ( 20 % ) .
+Le diagnostic de CSBS a été simultané dans la grande majorité des cas puisque 57 patientes sur 62 , soit 91,9 % , ont été d'_emblée opérées des deux côtés .
+Cette situation était identique dans les deux groupes étudiés avec 85 % des patientes opérées simultanément du sein droit et du sein gauche dans le groupe 1 versus 95,2 % dans le groupe 2. Dans 25,6 % des cas , les tumeurs étaient situées en miroir , c' est-à-dire dans le même quadrant dans chacun des deux seins .
+3.3. Traitement chirurgical
+La proportion de tumeurs traitées par mastectomie était de 53 % et celle des tumeurs traitées par tumorectomie de 47 % .
+Sur l' ensemble de la population , 38,7 % des patientes ont eu une mastectomie bilatérale et 32,3 % un traitement conservateur bilatéral .
+Dans le groupe 1 , 50 % des patientes ont eu une mastectomie bilatérale contre 33,3 % dans le groupe 2. Les différences observées entre les deux groupes ne sont pas significatives ( p = 0,430 ) .
+La technique du ganglion sentinelle a été réalisée exclusivement chez des patientes du groupe 2 ( 2000 - 2006 ) .
+Sur l' ensemble de la population , une seule patiente n' a pas eu de geste axillaire ( il s' agissait d' une patiente ayant des métastases osseuses synchrones ) .
+La proportion de patientes dont au moins un des deux creux axillaires n' a pas été exploré était de 32,2 % .
+Les types histologiques des tumeurs mammaires concernées par ces creux axillaires inexplorés étaient des carcinomes intracanalaires dans 55 % des cas et des carcinomes invasifs dans 45 % des cas .
+La proportion de patientes dont au moins un des deux creux axillaires n' a pas été exploré est passée de 40 à 28,6 % entre les deux périodes d' étude .
+La technique du ganglion sentinelle n' a jamais été effectuée dans le groupe 1 , en_revanche , 50 % des patientes du groupe 2 en ont bénéficiée ( p 0,001 ) .
+Au total , 14,5 % des patientes ont eu une chimiothérapie néoadjuvante .
+Tableau 2.
+Traitement chirurgical mammaire et axillaire , résultats exprimés en pourcentage
+Traitement chirurgicalPopulation globale ( n = 62 ) ( % ) Groupe 1 ( n = 20 ) ( % ) Groupe 2 ( n = 42 ) ( % ) Chirurgie mammaire Mastectomie bilatérale38,750,033,3 Tumorectomie bilatérale32,330,033,3 Tumorectomie / Mastectomie29,020,033,3
+Chirurgie axillaire Aucune1,602,4 gg-Sentinelle bilatéral11,3016,7 Curage bilatéral29,040,023,8 gg-Sentinelle / Aucun geste1,602,4 Curage / Aucun geste29,040,023,8 Curage / gg-Sentinelle21,0030,9 Picking6,420,00
+Full-size table
+View Within Article
+3.4. Histologie
+La taille moyenne des tumeurs était de 2,6 cm ( écart-type : 2,5 ) du côté gauche et 2,3 cm ( écart-type : 1,7 ) du côté droit ( ns ) .
+La proportion de tumeurs multifocales rapportée au nombre total de tumeurs était de 17,7 % ( 12,5 % dans le groupe 1 et 20,2 % dans le groupe 2 ) ( Tableau 3 , Tableau 4 and Tableau 5 ) .
+Tableau 3.
+Comparaison des types histologiques des CSBS
+Types histologiquesPopulation globale ( n = 62 ) ( % ) Groupe 1 ( n = 20 ) ( % ) Groupe 2 ( n = 42 ) ( % ) Intracanalaire bilatéral000 Canalaire invasif bilatéral45,255,040,5 Lobulaire invasif bilatéral11,35,014,3 Intracanalaire strict / Canalaire invasif21,025,019,0 Lobulaire invasif / Canalaire invasif9,710,09,5 Intracanalaire strict / Lobulaire invasif1,602,4 Autresa / Canalaire invasive4,807,1 Autres / Intracanalaire strict3,204,8 Autres / Lobulaire1,602,4 Autres1,65,00
+Full-size table
+a Autres : tumeurs mixtes et autres types histologiques ( mucineux , apocrines ) .
+View Within Article
+Tableau 4.
+Comparaison des grades histologiques des tumeurs invasives bilatérales d'_après la classification de Scarf-Bloom-Richardson ( SBR ) , résultats exprimés en pourcentages
+Grade SBRPopulation globale ( n = 41 ) ( % ) Groupe 1 ( n = 13 ) ( % ) Groupe 2 ( n = 28 ) ( % ) 1 bilatéral19,530,814,3 2 bilatéral26,838,521,4 3 bilatéral7,3010,7 1 / 221,915,425,0 1/37,3010,7 2 / 317,115,417,9
+Full-size table
+View Within Article
+Tableau 5.
+Comparaison des caractéristiques histologiques des CSBS
+Caractéristiques histologiquesPopulation globale ( % ) Groupe 1 ( % ) Groupe 2 ( % ) p Caractère uni ou multifocal ( n ) 622042ns Unifocale bilatérale71,080,066,7 Multifocale bilatérale6,45,07,1 Unifocale / Multifocale22,615,026,2 Emboles ( n ) 441529ns Absence bilatérale72,773,372,4 Présence bilatérale6,8010,3 Absence / Présence20,426,717,2 Récepteurs aux oestrogènes ( n ) 35926ns Négatifs des deux côtés8,611,17,7 Positifs des deux côtés82,977,884,6 Négatifs / Positifs8,611,17,7 Récepteurs à la progestérone ( n ) 34925ns Négatifs des deux côtés23,533,320,0 Positifs des deux côtés55,955,556,0 Négatifs / Positifs20,611,124,0 Composante in_situ ( n ) 612041ns Absence bilatérale11,520,07,3 Présence bilatérale63,950,070,7 Absence / Présence24,630,021,9 Envahissement ganglionnaire ( n ) 3711260,02 Aucun56,890,942,3 Bilatéral21,6030,8 Unilatéral21,69,126,9
+Full-size table
+p : donne le résultat de la comparaison des deux périodes .
+View Within Article
+Les carcinomes canalaires invasifs étaient les plus fréquents ( 80,7 % des patients ; 62,9 % des tumeurs ) devant les carcinomes lobulaires infiltrants ( 24,2 % des patientes ; 17,7 % des tumeurs ) et les carcinomes intracanalaires stricts ( 25,8 % des patientes ; 12,9 % des tumeurs ) .
+Les carcinomes lobulaires invasifs étaient multifocaux dans 16,7 % des cas .
+La présence d' une composante in_situ a été observée dans 76,2 % des tumeurs .
+Au total , 74,2 % des patientes avaient un carcinome invasif bilatéral et 24,2 % un carcinome invasif d' un côté et un carcinome intracanalaire strict de l' autre côté .
+Si l' on considère que les types histologiques canalaire et intracanalaire strict sont identiques , 79,1 % des patientes avaient des tumeurs de_même type histologique et 20,9 % des tumeurs de types histologiques différents .
+Lorsqu' on considère uniquement les carcinomes invasifs bilatéraux , 78,3 % avaient des tumeurs de_même type histologique et 21,7 % des tumeurs de type histologiques différents .
+Il n' y avait pas différence significative entre les deux périodes d' étude concernant la concordance des types histologiques des deux tumeurs ( p = 0,58 ) .
+Au total , 53,6 % des patientes avaient des tumeurs invasives de_même grade , tout type histologique confondu .
+Nous avons comparé le grade histologique des tumeurs invasives bilatérales de_même type histologique : 51,5 % avaient le même grade histologique et 48,5 % avaient des grades histologiques différents .
+Il n' existait pas de différence significative entre les deux périodes d' étude concernant la concordance des grades histologiques des deux tumeurs ( p = 0,200 ) .
+Sur l' ensemble de la population , seulement 38,2 % des patientes pour lesquelles l' information était présente , avaient des tumeurs invasives bilatérales de_même type et de_même grade .
+La proportion de tumeurs ayant des emboles était de 17 % ( 13,3 % dans le groupe 1 et 20,2 % dans le groupe 2 ) .
+Concernant la présence ou l' absence d' emboles , le taux de concordance entre les deux tumeurs était de 79,5 % .
+La proportion de tumeurs invasives exprimant les récepteurs aux oestrogènes était de 87,1 % .
+Le taux de concordance de l' expression des récepteurs aux oestrogènes entre les deux tumeurs était de 91,5 % .
+La proportion de tumeurs invasives exprimant les récepteurs à la progestérone était de 66,2 % .
+Le taux de concordance de l' expression des récepteurs à la progestérone entre les deux tumeurs était de 79,4 % .
+La proportion de tumeurs exprimant fortement cerb-2 sur l' ensemble de la population était de 9,1 % .
+Parmi les 33 patientes avec une tumeur invasive bilatérale pour lesquelles ce facteur a été étudié , 93,9 % n' avait pas de surexpression de cerb-2 des deux côtés , une patiente avait une surexpression forte des deux côtés et une patiente une surexpression forte d' un côté et nulle de l' autre .
+Le taux de concordance concernant l' expression de cerb-2 entre les deux côtés était de 97 % .
+L' étude du marqueur de prolifération cellulaire Ki-67 n' a été effectuée que dans le groupe 2. Dans ce groupe , la proportion de tumeurs ayant une expression forte du Ki-67 était de 50 % .
+Au total , 24 patientes avec des lésions invasives bilatérales ont bénéficié de cette étude de marqueur de prolifération .
+Parmi ces 24 patientes , 66,7 % exprimaient faiblement Ki-67 des deux côtés et 16,7 % avaient une expression forte des deux côtés .
+Le taux de concordance entre les deux côtés était de 83,3 % .
+Parmi les patientes ayant eu un geste axillaire bilatéral , 32,4 % des creux axillaires avaient un envahissement métastatique .
+L' envahissement ganglionnaire était bilatéral chez 21,6 % des patientes et unilatéral chez 21,6 % des patientes .
+Le taux de concordance entre les deux côtés concernant l' envahissement ganglionnaire était de 78,4 % .
+Pour sept patientes sur 17 cet envahissement était une micrométastase diagnostiquée en immunohistochimie dans le cadre de la procédure du ganglion sentinelle introduite en 2000 .
+3.5. Traitements adjuvants
+Parmi les patientes , 50,8 % ont bénéficié d' une chimiothérapie adjuvante .
+Elles étaient 28 % dans le groupe 1 ( 1992 - 1999 ) contre 61 % dans le groupe 2 ( 2000 - 2006 ) ( p = 0,03 ) .
+Une radiothérapie externe postopératoire a été administrée à 93,5 % .
+L' incidence de ce traitement était similaire dans les deux groupes : 90 % dans le groupe 1 ; 95,2 % dans le groupe 2 ( p = 0,59 ) .
+Une hormonothérapie adjuvante a été prescrite à 89,5 % de l' ensemble des patientes - du tamoxifène pour 45,6 % d' entre elles ( 81,3 % dans le groupe 1 contre 26,7 % dans le groupe 2 ) .
+Parmi les patientes , 30,4 % ont eu un antiaromatase seul ( aucune dans le groupe 1 contre 46,7 % des patientes du groupe 2 ) .
+3.6. Survie
+Le suivi moyen était de 33,9 mois ( extrêmes : 2 - 110 mois ) .
+Sur l' ensemble de la population , trois patientes sont décédées durant la période d' étude .
+Un seul de ces décès , survenu sept mois après la première intervention , était d à la pathologie initiale .
+Il s' agissait d' une patiente présentant d'_emblée des métastases osseuses et pulmonaires .
+Des récidives locales au niveau du lit tumoral ou de la paroi après mastectomie ont été observées chez trois patientes dans un délai moyen de 27,7 mois après le traitement chirurgical .
+Ces récidives sont survenues après traitement conservateur pour deux patientes et après une mastectomie pour la troisième .
+Une de ces trois patientes a , par_ailleurs , été opérée d' un adénocarcinome de l' utérus neuf ans après le diagnostic initial de cancer du sein .
+Pour les 18 patientes dont le suivi était supérieur à cinq ans , 15 d' entre elles , soit 83,3 % , étaient toujours vivantes cinq ans après le premier traitement chirurgical .
+Parmi ces 15 patientes , trois ont eu une récidive locale et une a été traitée pour des métastases pulmonaires .
+La survenue de métastases à distance a été notée chez cinq patientes .
+Il s' agissait de métastases osseuses ( trois patientes ) , pulmonaires ( deux patientes ) , cérébrales ( une patiente ) , hépatiques ( une patiente ) et ovariennes ( une patiente ) .
+Pour deux d' entre elles , ces métastases étaient synchrones des tumeurs mammaires .
+Enfin , une patiente a eu une hystérectomie totale élargie pour un carcinosarcome utérin diagnostiqué cinq ans après le CSBS .
+4. Discussion
+Dans la littérature , le délai distinguant les cancers du sein bilatéraux synchrones ( CSBS ) des cancers du sein bilatéraux métachrones ( CSBM ) varie de trois mois à un an selon les auteurs .
+Les taux d' incidence rapportés sont donc , eux aussi , différents .
+Nous avons retenu l' intervalle de temps définit par Haagensen  , c' est-à-dire six mois à partir du premier diagnostic .
+Si on considère les études récentes pour lesquelles les auteurs ont choisi un intervalle diagnostique proche ( trois mois à un an ) , le taux d' incidence des CSBS oscille entre 1,5 et 3,2 %  .
+Dans notre série , nous rapportons une proportion de CSBS de 2,6 % .
+Par ailleurs , la proportion des CSBS était stable entre les deux périodes d' étude ( 2,3 % versus 2,7 % ) .
+Le nombre de CSBS a augmenté dans les mêmes proportions que celui des cancers du sein unilatéraux .
+Plusieurs auteurs ont étudié les caractéristiques épidémiologiques des patientes présentant un CSBS .
+Le but de ces études était de définir une population à risque susceptible de bénéficier d' une surveillance ciblée , voire d' un traitement prophylactique  .
+Leurs résultats sont contradictoires .
+L' âge jeune de patientes ainsi_que le statut préménopausique sont des facteurs de risque parfois cités dans la littérature  .
+Dans notre étude , l' âge moyen des patientes ayant un CSBS était de 60,6 ans .
+Cependant , il existait une évolution dans le temps avec un rajeunissement de notre population .
+Dans la majorité des études récentes et notamment celles comparant les CSBS aux cancers du sein unilatéraux  , le jeune âge et le statut préménopausique ne sont pas considérés comme des facteurs de risque de cancer du sein bilatéral .
+Les antécédents familiaux de cancer du sein sont fréquents chez les patientes présentant un cancer du sein bilatéral synchrone .
+Dans notre série , 23,7 % des patientes avaient au moins un antécédent au premier ou au deuxième degré de cancer du sein et 16,9 % d' entre elles avaient un antécédent de cancer du sein au premier degré .
+Ces chiffres sont comparables à ceux de la série de De La Rochefordière_et_al.  qui relevaient 23 % de patientes avec au moins un antécédent familial de cancer du sein dans sa série de 149 CSBS .
+De plus , 32,5 % des patientes du groupe 2 avaient un antécédent familial de cancer du sein contre seulement 5,3 % des patientes du groupe 1 ( p = 0,024 ) .
+Cette évolution , significative , pourrait témoigner d' une augmentation de la fréquence des formes familiales de CSBS .
+De nombreux auteurs considèrent la présence d' antécédents familiaux comme un facteur de risque de CSBS  .
+Cependant , l' importance de ce facteur est discutée et dans les travaux de Newman_et_al.  et Jobsen_et_al.  , travaux qui ne distinguent pas cancers synchrones et métachrones , les antécédents familiaux ne sont pas plus fréquents chez les femmes ayant un cancer du sein bilatéral que chez celles ayant un cancer du sein unilatéral .
+Nous pouvons relever une étude prospective randomisée , the Cancer and Steroid Hormone Study  , qui a montré que le risque de cancer du sein controlatéral était plus élevé chez les femmes ayant un antécédent familial au premier degré et que ce risque était encore_plus élevé ( multiplié par 2,98 ) si cet antécédent concernait une soeur .
+Dans notre étude , sept patientes ont été testées pour la recherche de mutation des gènes de prédisposition au cancer du sein BRCA1 et BRCA2 .
+Cette recherche était proposée essentiellement aux patientes jeunes .
+Une seule d' entre elles avait une mutation du gène BRCA1 .
+Dans la littérature , il n' existe pas de travaux traitant spécifiquement de l' incidence de ces mutations chez les patientes présentant un CSBS .
+Cependant , chez les patientes ayant une mutation BRCA1 avec un premier cancer du sein , le risque de cancer controlatéral est évalué à 48 % à l' âge de 50 ans et à 64 % à l' âge de 70 ans  .
+Le seul facteur de risque épidémiologique certain de CSBS est donc l' antécédent personnel de cancer du sein avec un taux d' incidence annuel de cancer controlatéral évalué à 0,5 - 0,8 %  .
+Dans notre étude , l' analyse des circonstances diagnostiques des cancers nous a montré le taux élevé de tumeurs non palpables diagnostiquées exclusivement par l' imagerie et en_particulier par la mammographie .
+Dans la série de Polednak en 2003  , 104 patientes parmi 300 soit 34,7 % avaient un CSBS sans traduction clinique diagnostiqué à_partir_d' anomalies bilatérales à la mammographie .
+Dans celle de De La Rochefordière et al. en 1994  , le taux de CSBS sans traduction clinique était seulement de 7 % .
+Ces différences pourraient s' expliquer par la généralisation du dépistage par mammographie permettant un diagnostic plus précoce de lésions non palpables .
+Le tableau diagnostique le_plus_souvent rencontré associait une lésion clinique d' un côté à une anomalie radiologique controlatérale dans 43,5 % des cas .
+Cette dernière situation était également fréquente dans les deux séries détaillant les modalités diagnostiques avec des taux rapportés de 34 % pour Polednak  et 45 % pour De La Rochefordière_et_al.  .
+Les circonstances diagnostiques des CSBS ont évolué dans le temps .
+En effet , nous avons observé une diminution de la fréquence des lésions cliniques bilatérales ( 35 % versus 11,9 % ) au profit des lésions infracliniques bilatérales ( 20 % versus 28,6 % ) entre les groupes 1 et 2. Ici encore , ce résultat peut être attribué au dépistage systématique par la mammographie .
+La capacité diagnostique de la mammographie , accrue par les techniques de numérisation , pourrait également expliquer le faible taux de cancer du sein bilatéraux métachrones ( 1,3 % dans notre série ) , cancers qui seraient diagnostiqués plus précocement .
+Cette hypothèse avait été suggérée par Senofsky_et_al.  dans une étude évaluant l' impact des effets de la mammographie sur la détection synchrone des tumeurs et donc sur l' incidence des cancers du sein bilatéraux synchrones et métachrones .
+L' apport de l' IRM dans la prise en charge diagnostique des cancers du sein est largement débattu .
+Cette technique était jusqu' à_présent réservée à des cas très particuliers : l' évaluation précise de l' extension locale de la maladie chez des patientes souhaitant un traitement conservateur , l' appréciation du cancer invasif résiduel lorsque les marges de la pièce de tumorectomie sont positives en anatomopathologie , différencier le tissu cicatriciel d' une récidive tumorale sur un site de tumorectomie , la recherche d' une tumeur primitive mammaire chez une patiente présentant des adénopathies axillaires ou des métastases d' origine indéterminée , l' évaluation de la réponse à une chimiothérapie néoadjuvante , la présence de prothèse ( s ) mammaire ( s ) rendant l' étude mammographique et échographique du parenchyme mammaire difficile .
+Dans notre série , où 26 patientes ont bénéficié d' une IRM , celle-ci a permis de diagnostiquer un cancer du sein controlatéral sans traduction clinique ni mammographique chez sept patientes soit 26,9 % .
+Récemment , Lehman_et_al.  ont démontré l' intérêt de l' IRM dans la détection d' un cancer controlatéral cliniquement occulte et non visible à la mammographie , confirmant ainsi les données de plusieurs auteurs  .
+Cependant , les indications de cet examen doivent être étudiées de manière plus précise afin_d' en définir les champs d' application .
+De plus , les appareils d' IRM dédiés à l' imagerie mammaire et permettant la réalisation de prélèvements stéréotaxiques à visée diagnostique sont peu répandus .
+Une des interrogations principales concernant les CSBS est la prise en charge chirurgicale .
+En d' autres termes , les patientes présentant un CSBS peuvent elles être traitées de la même manière que les patientes présentant un cancer unilatéral Dans la littérature , des études comparant la prise en charge chirurgicale des cancers unilatéraux à celle des cancers bilatéraux de_même stade montrent la proportion plus élevée de mastectomie dans la population des CSBS .
+Dans l' article de Newman_et_al.  , le taux de mastectomie est de 85 % dans le groupe des CSBS contre 66 % dans le groupe des cancers unilatéraux ( p = 0,04 ) ; Intra_et_al.  en 2004 retrouvent eux aussi une différence significative ( p 0,001 ) dans la proportion de mastectomies avec un taux plus élevé dans le groupe CSBS par_rapport_à une population témoin de cancers unilatéraux .
+De la même manière , Polednak  rapportent un taux de mastectomie de 45,7 % dans le groupe des CSBS contre 30,2 % dans celui des cancers unilatéraux ( p 0,001 ) .
+Dans notre étude , les pourcentages de tumorectomie et de mastectomie sont proches .
+Ainsi , 53 % des tumeurs ont été traitées par mastectomie contre un taux de tumorectomie , rapporté au nombre de tumeurs , de 47 % , et 38,7 % des patientes ont eu une mastectomie bilatérale .
+La comparaison des deux périodes d' étude montre une tendance , non significative , à une diminution du taux de mastectomie bilatérale ( 50 à 33,3 % ) bien_que celui-ci reste élevé .
+Le choix du geste chirurgical axillaire est lui aussi primordial .
+En effet , la seule alternative au curage classique était jusqu' à_présent l' abstention .
+La technique du ganglion sentinelle pourrait apporter une solution aux problèmes de morbidité posés par un curage axillaire bilatéral .
+Dans notre étude , 32,2 % des patientes ont eu au moins un creux axillaire inexploré .
+Dans la littérature , lorsque celui-ci est précisé , il est intéressant de constater le taux relativement élevé de patientes qui n' ont pas eu d' exploration axillaire .
+Ainsi , dans l' article de Heron_et_al.  publié en 2000 , parmi 47 patientes traitées pour un CSBS , 12 patientes , soit 25,5 % , n' ont pas eu de geste axillaire du côté de la première tumeur et 16 patientes , soit 34 % , du côté de la deuxième tumeur .
+Dans l' étude de Intra_et_al.  menée de 1997 à 2003 , sur 143 CSBS , seulement 98 patientes , soit 68,5 % , ont eu un curage axillaire gauche et 68,5 % un curage axillaire droit .
+Lorsque nous avons comparé les deux périodes d' étude , nous avons observé une évolution dans la prise en charge du creux axillaire .
+Cette évolution s' est faite vers une diminution des curages axillaires bilatéraux , dont la proportion est passée de 40 à 23,8 % , et une diminution de la proportion de patientes dont au moins un des deux creux axillaires était resté inexploré , de 40 à 28,6 % .
+Nous pouvons raisonnablement penser que cette évolution est due à l' introduction de la technique du ganglion sentinelle .
+Dans la littérature , il n' existe aucun article étudiant l' application de la technique du ganglion sentinelle à une population de CSBS .
+Cette technique est une alternative de choix à proposer aux patientes ayant un CSBS .
+L' étude des différents traitements adjuvants suivis par les patientes a montré que 50,8 % d' entre elles ont eu une chimiothérapie , 93,5 % une radiothérapie externe et 89,5 % une hormonothérapie .
+La prescription d' une hormonothérapie adjuvante et l' irradiation externe étaient en proportions similaires dans les deux groupes .
+En revanche , il existait une différence significative pour la chimiothérapie adjuvante .
+En effet , seulement 27,8 % des patientes ont eu une chimiothérapie dans le groupe 1 contre 61 % dans le groupe 2 ( p = 0,03 ) .
+Aucune patiente n' a présenté de toxicité radique sévère ( myélite , pneumopathie ) .
+Dans la littérature , peu de données dans la littérature concernant les traitements adjuvants dans le cadre d' un CSBS .
+De La Rochefordière_et_al.  rapportent un taux de chimiothérapie adjuvante de seulement 6 % et la prescription d' une hormonothérapie par Nolvadex pour 40 % des patientes .
+Dans la série de Jobsen_et_al.  , 50 % des patientes ont bénéficié d' une chimiothérapie postopératoire ( contre 28,5 % des patientes présentant un cancer du sein unilatéral ) et 76,9 % d' une radiothérapie externe .
+L' utilisation de tous les moyens permettant de diminuer la morbidité des traitements entrepris dans le cadre particulier des CSBS est souhaitable .
+La technique du ganglion sentinelle joue ici un rôle majeur dans la prévention du lymphoedème .
+L' irradiation adjuvante doit être particulièrement prudente afin_d' éviter la survenue de complications rares , mais redoutables ( myélite radique ) , surtout en cas d' irradiation bilatérale .
+L' étude histologique des tumeurs dans le cadre des CSBS est un élément important .
+Le type histologique le_plus_souvent observé dans notre population était le type canalaire invasif .
+Son incidence a diminué entre les deux périodes d' étude .
+Le second type histologique le plus fréquent était le type lobulaire infiltrant .
+Contrairement au type canalaire infiltrant , la proportion de tumeurs de type lobulaire infiltrant a augmenté entre les deux périodes d' étude ( 10 à 21,4 % des tumeurs ) .
+Ces données sont en accord avec celles de la littérature si l' on reprend les résultats des principales études dans lesquelles les types histologiques des deux tumeurs sont détaillés et après exclusion des lésions lobulaires in_situ  .
+La proportion élevée de carcinomes lobulaires en cas de CSBS par rapport aux tumeurs unilatérales est une notion classique et un résultat souvent rapporté par les différents auteurs .
+Pour Polednak  et d' autres auteurs  , la présence d' une composante lobulaire au sein d' une tumeur constitue un facteur de risque de cancer controlatéral .
+Cependant , d' autres auteurs comme Newman_et_al.  et Jobsen_et_al.  ne montrent pas de proportion plus élevée de composante lobulaire invasive ou in_situ dans les tumeurs bilatérales que dans les tumeurs unilatérales .
+Il faut souligner que dans les séries de ces deux derniers auteurs , les cancers synchrones et métachrones ne sont pas distingués .
+L' étude des grades histologiques des tumeurs invasives bilatérales selon la classification de Scarf Bloom et Richardson a montré que 34,1 % des tumeurs étaient de grade 1 , 46,3 % de grade 2 et 19,5 % de grade 3. Dans leur série , Intra_et_al.  rapportent 34 % de tumeurs grade 1 , 46 % de grade 2 et 19 % de grade 3. Il n' existe pas de données dans la littérature permettant de considérer le grade élevé d' une tumeur du sein comme un facteur de risque de cancer controlatéral .
+Au contraire , dans les séries de Polednak  et de Intra_et_al.  la proportion de tumeurs de grade 3 est plus élevée dans les tumeurs unilatérales que dans les tumeurs bilatérales .
+L' étude du caractère uni ou multifocal des tumeurs de notre série a montré que 17,7 % d' entre elles étaient multifocales , c' est-à-dire , constituées d' au moins deux foyers tumoraux distincts à l' examen anatomopathologique .
+Ce facteur est peu étudié dans la littérature .
+Intra_et_al.  observent 17,5 % de tumeurs multifocales dans leur série de CSBS contre 15 % dans leur groupe témoin de cancers unilatéraux .
+Pour Newman_et_al.  , la multifocalité d' un cancer du sein est un facteur de risque majeur de cancer controlatéral , synchrone ou métachrone , puisqu' il ne retrouve que 1 % de tumeurs multifocales dans son groupe témoin de cancers unilatéraux .
+Dans notre série , la présence d' emboles tumoraux vasculaires et / ou lymphatiques a été notée dans 17 % des tumeurs invasives bilatérales .
+La présence d' emboles était aussi fréquente durant la première période d' étude que durant la deuxième .
+Intra_et_al.  rapportent un taux d' invasion vasculaire dans sa population de CSBS de 21 % .
+Ces auteurs ont comparé ce chiffre à celui d' une population de cancers unilatéraux et n' ont pas retrouvé de différence significative .
+Sur l' ensemble de notre population , 87,1 % des tumeurs invasives exprimaient des récepteurs aux oestrogènes et 66,2 % exprimaient des récepteurs à la progestérone .
+L' expression des récepteurs hormonaux était similaire dans les deux groupes .
+Pour Newman_et_al.  , qui ne distinguent pas cancers synchrones et métachrones , il n' existe pas de différence significative dans l' expression des récepteurs hormonaux entre les CSB et les cancers unilatéraux .
+En revanche , Intra_et_al.  , tout comme Matsuo_et_al.  , ont montré une différence significative avec un taux d' expression des récepteurs hormonaux plus élevé dans la population des CSBS .
+Cette différence concerne essentiellement les récepteurs à la progestérone .
+Pour d' autres auteurs  , les CSBS auraient une expression plus forte des récepteurs aux oestrogènes .
+Cette hormonosensibilité globalement augmentée pourrait suggérer un potentiel d' agressivité biologique moindre .
+Le taux d' envahissement ganglionnaire rapporté à l' ensemble des tumeurs chez les patientes ayant eu un geste ganglionnaire était de 32,4 % .
+Dans la littérature , les taux d' envahissement ganglionnaire chez les patientes ayant eu des curages axillaires sont comparables .
+De La Rochefordière et al. , Hungness et al. , Heron et al. et Intra_et_al.  ,  rapportent des taux respectifs de 26 , 32 , 37,2 et 47,4 % .
+La comparaison de ces résultats à une population témoin de cancers unilatéraux dans les séries de Heron et Intra n' ont pas montré de différence significative entre les CSBS et les cancers unilatéraux .
+Dans notre série , 9,1 % des tumeurs invasives bilatérales exprimaient fortement cerb-2 et 50 % des patientes du groupe 2 avaient une expression forte de Ki-67 .
+Dans la série de Intra_et_al.  , 13,3 % des tumeurs exprimaient fortement cerb-2 et 21,4 % Ki-67 .
+De plus , dans cette série , il n' existait pas de différence avec le groupe témoin de cancers unilatéraux pour l' expression de cerb-2 et la proportion de tumeurs exprimant fortement Ki-67 était plus faible dans le groupe des CSBS .
+D' après l' ensemble de ces résultats concernant les caractéristiques histologiques des CSBS et au regard des données de la littérature comparant les CSBS aux cancers du sein unilatéraux , seuls la présence d' un carcinome lobulaire invasif et le caractère multifocal d' une tumeur doivent être considérés comme des facteurs de risque de cancer controlatéral .
+Une des interrogations essentielle à_propos des cancers du sein bilatéraux synchrones concerne leur origine monoclonale ou multiclonale .
+Une origine monoclonale impliquerait une dissémination métastatique secondaire au sein controlatéral à_partir_de la tumeur primitive .
+Cette notion est importante en_particulier pour la stratégie thérapeutique à adopter qui est différente si l' on estime qu' il s' agit d' un cancer présentant une localisation secondaire métastatique au niveau du sein controlatéral ou de deux tumeurs primitives distinctes .
+Parmi les arguments en_faveur_de l' hypothèse monoclonale , la similitude histologique entre les deux tumeurs est souvent avancée .
+Dans notre étude , les tumeurs droite et gauche présentaient des caractéristiques similaires .
+Les types histologiques des deux tumeurs étaient souvent identiques avec un taux de concordance de 78 % pour les cancers invasifs bilatéraux .
+La concordance des grades histologiques de tumeurs invasives de_même type histologique était plus faible ( 51,5 % ) .
+Au total , seulement 38,2 % des patientes , avaient des tumeurs invasives de_même type et de_même grade .
+Parmi les patientes ayant une tumeur invasive bilatérale , le taux de concordance sur la présence ou l' absence d' emboles était de 79,5 % .
+L' expression des récepteurs hormonaux était la même dans 91,5 % des cas pour les récepteurs aux oestrogènes et dans 79,4 % pour les récepteurs à la progestérone .
+Il existait également une similitude entre les deux côtés concernant l' envahissement ganglionnaire .
+Ainsi , 78,4 % des patientes ayant eu un geste axillaire bilatéral avaient le même statut ganglionnaire .
+Enfin , l' expression de cerb-2 et du marqueur de prolifération Ki-67 était également similaire dans les deux seins avec des taux de concordance respectifs de 97 et 83,3 % .
+Ces résultats concernant les similitudes histologiques exprimées en taux de concordance entre les tumeurs droites et gauches sont comparables à ceux de la littérature  .
+Intra_et_al.  ont également comparé l' expression de cerb-2 et de Ki-67 dans les tumeurs droite et gauche mettant en évidence des taux de concordance respectifs de 84,5 et 64,5 % .
+Les tumeurs des CSBS ont donc des similitudes histologiques qui pourraient évoquer une origine monoclonale et la dissémination métastatique au deuxième sein à_partir_d' une tumeur primitive .
+L' instabilité génétique des cellules cancéreuses menant à une grande hétérogénéité cellulaire et moléculaire , il est difficile d' attribuer à des cancers bilatéraux une origine mono- ou multiclonale .
+Cependant , les études menées par Agelopoulos_et_al.  dans lesquelles les auteurs ont comparé les caractéristiques moléculaires cytogénétiques des CSBS semblent indiquer que ces tumeurs bilatérales sont pour la_plupart des tumeurs indépendantes .
+De plus , cette ressemblance histologique est relative lorsque l' on regarde la proportion de tumeurs invasives de_même type et de_même grade .
+Les facteurs environnementaux et notamment hormonaux sont donc probablement responsables de cette ressemblance histologique .
+L' élément qui conforte l' hypothèse multiclonale , c' est-à-dire celle de l' existence de deux tumeurs primitives distinctes est la présence de carcinome in_situ dans les deux seins .
+Cette composante in_situ , seule ou associée à un carcinome invasif , était fréquente .
+Ainsi , 76,2 % des tumeurs de notre étude avaient au moins une composante in_situ , isolée ou associée à un carcinome invasif , dans un des deux seins et 63,9 % dans les deux seins .
+Il convient en_revanche de distinguer les patientes ayant un CSBS et des métastases à distance au moment du diagnostic .
+Dans ce cas précis , le cancer controlatéral est sans_doute lui aussi une métastase du premier cancer .
+Si le suivi de notre population est limité pour en apprécier la survie , celle-ci a été étudiée par de nombreux auteurs .
+Le taux de survie global à cinq ans varie selon les études de 65 à 86 %  , mais la majorité des articles récents rapporte des taux supérieurs à 80 % .
+Les données de la littérature concernant le pronostic des patientes atteintes d' un CSBS sont contradictoires .
+S' il était classiquement admis que les CSBS ont un moins bon pronostic que les cancers unilatéraux , plusieurs études récentes  semblent contredire cette notion .
+Le pronostic serait en fait principalement lié au stade de la tumeur la plus évoluée .
+Plusieurs explications peuvent être avancées pour expliquer ce pronostic plus favorable : le diagnostic à un stade précoce de la tumeur controlatérale , l' hormonosensibilité de la majorité des tumeurs .
+Par ailleurs , le pronostic plutôt favorable des CSBS est un argument de plus en_faveur_de la théorie multiclonale et de l' indépendance des deux tumeurs .
+Les CSBS pourraient alors être considérés comme une forme particulière de tumeur multifocale .
+5. Conclusion
+Les CSBS ne sont pas exceptionnels , ils représentent 2,6 % des cancers du sein .
+Si l' antécédent personnel de cancer du sein est le principal facteur de risque de survenue d' un cancer controlatéral , la notion d' une histoire familiale de cancer du sein , relevée chez 23,7 % de notre population , la présence d' une tumeur multifocale ou d' un carcinome lobulaire infiltrant , doivent mener à une exploration précise du sein controlatéral .
+L' IRM , examen qui a permis de diagnostiquer un cancer controlatéral infraclinique sans traduction en imagerie conventionnelle chez 27 % des patientes qui en ont bénéficié , pourrait être l' examen de choix dans ce cas .
+Les CSBS sont probablement des tumeurs primitives indépendantes dont les similitudes sont dues à des facteurs environnementaux .
+Cette théorie est supportée par la présence de carcinome in_situ dans les deux tumeurs dans 64 % des cas et par le pronostic comparable des CSBS avec celui des cancers unilatéraux .
+Chaque tumeur doit donc être traitée comme un cancer unique , en proposant , lorsqu' il est indiqué , un traitement conservateur .
+La technique du ganglion sentinelle , est un atout majeur dans la prise en charge thérapeutique des CSBS .
+Grâce au ganglion sentinelle , la proportion de curages axillaires bilatéraux pourrait être nettement réduite tout en conservant une évaluation peu morbide du creux axillaire .
+Il est donc probable que la morbidité liée à ce geste soit , elle aussi , plus faible .
+Enfin , le second intérêt de l' introduction de cette nouvelle technique dans le traitement des CSBS est la diminution de la proportion de patientes pour lesquelles au moins un creux axillaire n' a pas été exploré .
+Cette proportion est ainsi passée de 40 à 28,6 % dans notre étude

@@ -1,0 +1,282 @@
+Actuellement en France , les tumeurs du sein , classées T1 et T2 et de diamètre n' excédant pas 3 cm sont généralement traitées de façon conservatrice .
+Le traitement comporte une « tumorectomie » , un évidement axillaire des deux premiers étages de Berg , une radiothérapie du sein et éventuellement des aires ganglionnaires ( selon la topographie de la tumeur et l' état ganglionnaire ) .
+Un traitement médical adjuvant ( chimiothérapie et / ou hormonothérapie ) est administré en fonction de l' âge , du statut ganglionnaire et des caractéristiques histologiques de la tumeur [ 3 , 11 , 13 , 14 , 22 , 23 , 31 and 32 ] .
+Avec ce type de traitement , la probabilité de récidive locale à 5 ans varie entre 5 et 10 % [ 3 , 5 , 8 , 12 , 14 and 23 ] .
+Le traitement local de référence de la récidive est alors la mastectomie [ 2 , 3 , 4 , 13 , 14 , 22 and 27 ] .
+Après un traitement de rattrapage par mastectomie , le taux de seconde récidive locale varie de 4 à 29 % et la probabilité de survenue de métastases est d' environ 35 % .
+Le taux de survie globale à 5 ans varie alors de 50 à 84 % [ 3 , 5 , 13 , 14 , 22 , 23 and 24 ] .
+Ainsi , l' apparition d' une récidive mammaire témoigne d' une agressivité de la maladie .
+Cela conduit souvent à administrer une chimiothérapie et / ou une hormonothérapie après le traitement local .
+Le rôle de la ré-irradiation après la mastectomie de rattrapage reste controversé .
+Notre étude a été réalisée afin_de juger l' intérêt de cette ré-irradiation adjuvante après mastectomie de rattrapage chez des patientes atteintes d' une récidive d' un cancer du sein , traité initialement de façon conservatrice .
+Toutes ces patientes ont été ré-irradiées parce_qu' elles avaient un risque élevé de seconde récidive , qui était défini sur des critères cliniques et / ou anatomopathologiques .
+Ces récidives pouvaient être inflammatoires , multifocales , avec des nodules de perméation , avec atteinte rétromammelonnaire ou avec limites d' exérèse situées à_moins_de 5 mm de la tumeur avec ou sans envahissement musculaire ou atteinte cutanée .
+2. Patientes et méthodes
+De janvier 1988 à septembre 2001 , 20 patientes ont été prises en charge au centre Alexis-Vautrin de Nancy pour ré-irradiation après mastectomie de rattrapage .
+2.1. Caractéristiques tumorales et traitements initiaux
+L' âge médian au moment du diagnostic initial de la maladie était de 47 ans ( 29 - 65 ) .
+Il s' agissait en majorité de tumeurs classées T1 ( 16 patientes ) .
+Aucune tumeur n' était initialement métastatique .
+Tableau 1. Caractéristiques tumorales après tumorectomieHistological characteristics
+Full-size table (
+View Within Article
+Après tumorectomie et curage , 75 % des tumeurs étaient des carcinomes canalaires infiltrants de grade de Scarff-Bloom-Richardson II ou III .
+Neuf tumeurs avaient des récepteurs hormonaux positifs ( progestérone et / ou estrogène ) .
+Dans 7 cas , le curage ganglionnaire avait intéressé des ganglions métastatiques .
+Le sein et les aires ganglionnaires ( chaînes mammaire interne et sus-claviculaire ) ont été irradiés de façon classique , détaillée dans le Tableau 2.
+Tableau 2. Traitements initiauxInitial treatments after local tumour excision
+Full-size table (
+Une patiente traitée pour une tumeur de 4,5 cm a reçu 5 cycles de chimiothérapie néo-adjuvante de type FEC 50 ( 5-fluoro-uracile , Epiadriamycine , Cyclophosphamide ) , alors_que les 5 autres ont reçu une chimiothérapie adjuvante .
+View Within Article
+Lorsque les limites d' exérèse étaient situées à_moins_de 5 mm de la tumeur , un complément d' irradiation du lit opératoire a été effectué par une curiethérapie chez 2 patientes ( respectivement 15 et 20 Gy ) et par radiothérapie externe chez 6 patientes .
+Pour 3 patientes , ce complément d' irradiation externe a été effectué selon une technique du « champ dans le champ » par du cobalt 60 avec 2 faisceaux tangentiels ou des électrons ( 7 et 10 MeV ) à la dose de 5 Gy en 10 fractions et 5 semaines , à_raison de 2 fractions par semaine .
+Pour 3 patientes , le complément d' irradiation a été effectué après l' irradiation du sein .
+Cette irradiation a délivré 5 Gy en 2 fractions et 4 jours avec des électrons de 7 MeV ( 2 cas ) ou 12 Gy en 6 fractions et 8 jours ( 1 cas ) .
+Hormonothérapie et chimiothérapie sont détaillées dans le Tableau 2.
+2.2. Caractéristiques de la récidive et traitement
+Le délai médian de la récidive locale par_rapport_à la tumorectomie initiale était de 54 mois ( 9 - 120 ) .
+La chirurgie de rattrapage a consisté en une mastectomie totale dans 12 cas ( dont une avec reconstruction ) , une intervention de Patey dans 5 cas et une intervention de Halsted dans 3 cas ( dont 1 cas sans curage ) .
+Au total , 7 curages ont été effectués .
+Le Tableau 3 résume les caractéristiques de la récidive en distinguant les récidives précoces ( 2 ans ) , entre 2 et 5 ans et tardives ( > 5 ans ) , le site de la récidive , la présentation clinique et les caractéristiques histologiques .
+Tableau 3. Caractéristiques cliniques et histologiques de la récidiveClinical and histological characteristics of local relapse
+Full-size table (
+dans 10 cas il existait des emboles lymphatiques et dans 7 cas des exérèses de résection dans le plan profond situées à_moins_de 5 mm
+View Within Article
+Au moment de la ré-irradiation , 19 patientes n' avaient pas de métastase à distance et , une des métastases osseuses et leur âge médian étaient de 53 ans ( 31 - 71 ) .
+Les indications de ré-irradiation retenues étaient cliniques et anatomopathologiques .
+Des emboles lymphatiques néoplasiques ont été retrouvés dans une pièce de mastectomie sur deux .
+Dans 7 cas , on retrouvait des limites d' exérèse dans le plan profond qui étaient situées à_moins_de 5 mm de la tumeur .
+Pour 17 patientes , il y avait un haut risque de récidive pariétale du fait de la présentation clinique : récidive inflammatoire ( 4 cas ) , récidive multifocale ( 5 cas ) , nodules de perméation ( 5 cas ) , atteinte rétromammelonnaire ( 3 cas ) .
+L' étude histologique a montré un envahissement musculaire dans 3 cas , une atteinte cutanée dans 5 cas , une tumeur multifocale dans 4 cas , une taille tumorale supérieure à 6 cm dans 3 cas , une atteinte ganglionnaire massive ( 4 ganglions sur 7 atteints avec effraction capsulaire ) dans 1 cas et des emboles lymphatiques comme seul critère de gravité dans 1 cas .
+Pour 3 patientes , l' indication de ré-irradiation était fondée uniquement sur les caractéristiques histologiques de la pièce de mastectomie ( envahissement musculaire dans 2 cas , dont un avec plusieurs nodules tumoraux , envahissement cutané avec emboles lymphatiques néoplasiques ) .
+La ré-irradiation de la paroi a été réalisée chez 17 patientes avec un faisceau d' électrons à une dose médiane de 45 Gy ( 33 - 65 ) délivrée en 15 fractions ( 11 - 25 ) de 3 Gy ( 1,8 - 3 ) et 33 jours ( 21 - 40 ) ( Fig. 1 and Fig. 2 ) .
+L' énergie des électrons variait de 6 à 15 MeV et la surface médiane des champs était de 241 cm2 ( 91 - 400 ) .
+La surface de ré-irradiation devait inclure toute la cicatrice de mastectomie .
+Pour les patientes incluses pour nodules de perméation , on a tenu compte de l' étendue initiale des nodules .
+L' énergie dépendait de l' épaisseur de la paroi et était déterminée par échographie .
+Pour 13 patientes , un bolus de 1 cm d' épaisseur a été utilisé .
+Le bolus était réalisé avec de la cire pour les premières patientes traitées et puis par du silicone .
+Chez 3 patientes , la paroi a été ré-irradiée par deux faisceaux tangentiels de cobalt 60 ou de photons de 6 MV à la dose de 45 Gy délivrée en 15 fractions et 5 semaines .
+La dose biologique équivalente de ré-irradiation a été calculée selon le modèle linéaire quadratique avec une valeur de 3 de / .
+La dose biologique équivalente médiane était de 54 Gy ( 39,5 - 73 ) .
+Six des huit patientes non irradiées initialement dans les aires ganglionnaires ( chaînes mammaire interne et sus-claviculaire ) l' ont été systématiquement par une technique classique .
+La dose biologique équivalente d' irradiation cumulée ( première irradiation et ré-irradiation ) médiane a été de 104 Gy ( 90 - 123 ) .
+Le cumul de dose a été obtenu par simple addition des doses biologiques d' irradiation et de ré-irradiation sans aucune intégration du délai entre ces dernières .
+Full-size image ( 45K )
+Fig. 1. Ré-irradiation pariétale avec un faisceau d' électrons avec bolus .
+Re-irradiation with electron beams .
+View Within Article
+Full-size image ( 16K )
+Fig. 2. Ré-irradiation pariétale avec un faisceau d' électrons .
+Re-irradiation with electron beams .
+View Within Article
+Un traitement adjuvant à la ré-irradiation a été administré chez 18 patientes .
+Tableau 4. Traitements adjuvants à la ré-irradiationTreatments after re-irradiation
+Full-size table ( 15K )
+COOPER ( Cyclophosphamide , Vincristine , Méthotrexate , Cortancyl ) ; FEC ( 5-FU , Epiadriamycine , Cyclophosphamide )
+Quatre patientes ont eu une irradiation ovarienne à visée castratrice en plus du traitement hormonal per os .
+View Within Article
+2.3. Suivi des patientes : toxicité aiguë et effets tardifs
+La surveillance a été effectuée régulièrement à la recherche d' une évolution locorégionale ou à distance et par le recueil prospectif des complications aiguës et tardives .
+Des atteintes pariétales , pulmonaires , nerveuses ont ainsi été recherchées .
+Les atteintes cutanées ( télangiectasies , oedème , état de la cicatrice , fibrose sous-cutanée ) , les complications costales ( douleurs , fractures , chondrite sternocostale ) , les atteintes musculaires ( fibrose pectorale ou du trapèze ) ont été répertoriées .
+Sur le plan pulmonaire , ce sont des signes cliniques et / ou radiologiques de pneumopathie radique qui ont été analysés .
+Des signes de plexite ( dysesthésie , impotence fonctionnelle ) ont également été recherchés .
+Des fiches ont été remplies de façon prospective à l' occasion des consultations de surveillance régulières de ces patientes .
+L' analyse a ensuite été effectuée sur dossiers .
+2.4. Analyse statistique
+L' analyse statistique a été réalisée à l' aide du logiciel StatView .
+Un test non paramétrique ( Mann and Whitney ) a été utilisé pour comparer les variables aléatoires qualitatives binaires et quantitatives de deux groupes non appariés .
+Un test du 2 corrigé de Yates ( à 1 degré de liberté ) a permis de comparer les variables aléatoires qualitatives binaires .
+Le seuil de signification était fixé à p = 0,05 .
+3. Résultats
+La durée médiane de surveillance après ré-irradiation était de 48 mois ( 5 - 97 ) .
+3.1. Contrôle de la maladie
+Huit patientes sont décédées , 4 de métastases associées à une récidive pariétale et 4 de métastases sans récidive pariétale .
+Cinq patientes ( 25 % ) ont eu une récidive pariétale 2 , 12 , 16 , 27 et 38 mois après la ré-irradiation .
+Parmi elles , 3 patientes ont eu des métastases synchrones à cette récidive pariétale , soit 2 , 16 et 27 mois après la ré-irradiation .
+Deux patientes ont eu des métastases 17 et 24 mois après la récidive pariétale , soit respectivement 55 et 36 mois après la ré-irradiation .
+Sur le plan clinique , la récidive locale après traitement conservateur se présentait sous une forme multifocale ( 1 cas ) , avec des nodules de perméation ( 2 cas ) , sous forme inflammatoire ( 1 cas ) , ou sous la forme d' un nodule unique ( 1 cas ) .
+Sur le plan histologique après mastectomie , il existait une atteinte des tranches de section avec infiltration musculaire dans 2 cas , une résection limite dans 1 cas et des emboles lymphatiques dans 2 cas .
+Deux patientes sur cinq , incluses dans l' étude pour une récidive sous forme de nodules de perméation , ont eu une récidive pariétale sous forme de nodules de perméation .
+Quinze tumeurs ( 75 % ) ont été localement contrôlées .
+Dix patientes ( 50 % ) étaient vivantes sans maladie métastatique avec une durée médiane de surveillance de 52 mois ( 11 - 97 ) .
+Une patiente a eu des métastases osseuses , diagnostiquées au moment de la ré-irradiation .
+Quatre patientes ont eu des métastases 8 , 15 , 25 et 39 mois après la ré-irradiation .
+La Fig. 3 représente le contrôle local des patientes après ré-irradiation de rattrapage .
+Les Fig. 4 and Fig. 5 représentent respectivement la survie globale et la survie sans récidive pariétale ( ou poursuite évolutive locale ) des patientes traitées pour une récidive locale après traitement conservateur selon Kaplan-Meier .
+Full-size image ( 4K )
+Fig. 3. Contrôle local des patientes après ré-irradiation de rattrapage .
+Local control after re-irradiation .
+View Within Article
+Full-size image ( 4K )
+Fig. 4. Survie globale des patientes traitées pour une récidive pariétale selon Kaplan-Meier .
+Overall survival after second relapse .
+View Within Article
+Full-size image ( 4K )
+Fig. 5. Survie sans récidive ou poursuite évolutive locale des patientes traitées pour une récidive pariétale selon Kaplan-Meier .
+Relapse-free survival .
+View Within Article
+Récidive pariétale ou contrôle local en fonction des caractéristiques cliniques histologiques de la récidive locale , et de la technique et de la dose de ré-irradiation sont détaillés dans le Tableau 5. Il n' y avait pas de lien significatif entre le taux de contrôle local et la dose biologique équivalente de ré-irradiation ou entre le taux de contrôle local et la surface ré-irradiée , avec respectivement des p de 0,877 et 0,424 .
+Aucun lien statistiquement significatif n' a été retrouvé quant_à la présentation clinique ou les caractéristiques histologiques de la récidive locale .
+Tableau 5. Récidive ou contrôle local en fonction des caractéristiques cliniques , histologiques de la récidive locale , de la technique et de la dose de ré-irradiationPrognostic factors and freedom free rate
+Full-size table ( 22K )
+Dose biologique équivalente calculée selon le modèle linéaire quadratique , avec une valeur de 3 de /. p significatif si 0,05 .
+NS = non significatif , c' est-à-dire 2 calculé 2 seuil ( = 3,841 ) avec = 0,05
+View Within Article
+Au total , en l' absence de récidive pariétale , 4 patientes sur 14 ( une patiente avait des métastases au moment de la ré-irradiation ) ont eu des métastases à distance avec un délai médian de 20 mois ( 8 - 39 ) après la ré-irradiation .
+En cas de récidive pariétale ou de poursuite évolutive , 5 patientes sur 5 ont eu une évolution métastatique avec un délai médian de 27 mois ( 2 - 55 ) après la ré-irradiation et un délai moyen de 8 mois ( 0 - 24 ) après la récidive pariétale .
+3.2. Réactions aiguës et complications tardives
+Toutes les patientes qui ont eu des réactions aiguës ( 3 mois après la ré-irradiation ) ont ensuite souffert de complications tardives ( > 3 mois après ré-irradiation ) .
+Des réactions cutanées aiguës ( érythème intense , ulcérations ) ont été observées pendant la ré-irradiation chez 8 patientes , mais n' ont pas imposé l' arrêt du traitement .
+Ces patientes ont été ré-irradiées soit par cobalt 60 , soit par électrons ( avec un bolus ) .
+Six ont reçu une dose de 45 Gy délivrée en 15 fractions et en médiane sur 34 jours ( 21 - 40 ) , une de 33 Gy en 11 fractions et 24 jours et la dernière de 65 Gy en 25 fractions et 38 jours .
+Au total , 14 patientes ont souffert de complications tardives qui sont détaillées dans le Tableau 6. Les plus fréquentes étaient à type de pigmentations marquées , de télangiectasies , de fibroses pariétales ou pectorales et de douleurs invalidantes .
+La répartition des patientes en fonction des complications tardives ( douleurs chroniques , pneumopathies radiques et fractures costales ) et en fonction de la technique , de la dose de ré-irradiation et du délai entre les 2 irradiations est résumée dans le Tableau 7. Les délais ont été classés en 3 catégories ( 3 ans , entre 3 et 7 ans et > 7 ans ) afin_d' avoir une répartition homogène des patientes .
+Le délai médian entre la première irradiation et la ré-irradiation était de 54 mois ( 10 - 126 ) .
+Les patientes avec un délai entre l' irradiation et la ré-irradiation 7 ans ont eu plus de pneumopathies radiques , de fractures costales et de douleurs invalidantes .
+Il semble qu' un délai entre les irradiations > 7 ans puisse diminuer la survenue des complications tardives et séquelles .
+Un long délai entre les 2 irradiations pourrait être un critère à retenir concernant cette indication de ré-irradiation .
+Tableau 6. Complications tardives ( > 3 mois après ré-irradiation ) Late complications
+Full-size table ( 7K )
+Douleurs invalidantes en relation avec soit de la fibrose soit des fractures costales .
+Le nombre de complications est supérieur au nombre total de patientes ( 14 ) car une patiente pouvait avoir plusieurs complications .
+View Within Article
+Tableau 7. Complications tardives en fonction de la technique , de la dose de ré-irradiation et du délai entre les 2 irradiationsLate complications and characteristics of re-irradiation
+Full-size table ( 15K )
+É + bolus = Électrons avec bolus ; É seul = Électrons sans bolus ; D = délai .
+Dose équivalente de ré-irradiation calculée selon le modèle linéaire quadratique avec un alpha / bêta = 3 / p significatif si 0,05 .
+View Within Article
+Onze patientes ont eu des douleurs chroniques en rapport essentiellement avec de la fibrose pectorale ou pariétale ou des fractures costales .
+Ces douleurs ont nécessité à un moment donné des antalgiques de palier 2 de l' OMS .
+L' augmentation de la dose biologique équivalente était liée de façon statistiquement très significative à l' augmentation du risque d' apparition de douleurs invalidantes avec un p = 0,0123 .
+Le fractionnement , l' étalement et le volume de ré-irradiation ne semblent pas liés à une augmentation de la survenue de douleurs chroniques avec respectivement des p à 0,450 , 0,212 et 0,999 .
+Les 2 patientes qui ont eu une chondrite ont été ré-irradiées par des faisceaux d' électrons de 9 MeV sur une surface de 240 et 323 cm2 et à la dose de 45 Gy délivrée en 15 fractions et 34 jours .
+Cinq pneumopathies radiques sont apparues trois à six mois après la ré-irradiation .
+Pour 2 patientes sur 5 , il existait des symptômes cliniques ( fièvre , toux , dyspnée sans insuffisance respiratoire ) et à des signes radiologiques ( syndrome interstitiel avec des stries de Kerley de type A ou B c' est-à-dire des opacités linéaires horizontales ou incurvées ) .
+Pour les 3 autres patientes , il n' existait que des signes radiologiques .
+Un traitement par corticoïdes per os a permis de traiter avec succès les patientes .
+Pour 4 de ces 5 patientes , la ré-irradiation a été effectuée par des électrons de 6 à 15 MeV sur une surface médiane de 240 cm2 ( 115 - 400 ) à la dose de 45 Gy délivrée en 15 fractions et 5 semaines .
+La cinquième a été ré-irradiée avec des électrons de 6 MeV sur une surface de 224 cm2 à la dose de 65 Gy délivrée en 25 fractions et 38 jours .
+Le volume de parenchyme pulmonaire ré-irradié n' a pas été évalué .
+Cependant , pour les patientes qui n' ont pas eu de pneumopathie radique , la surface moyenne ré-irradiée par des électrons ( 260 cm2 ) n' était pas statistiquement différente de la surface moyenne de celles ayant eu une pneumopathie radique ( 275 cm2 ) ( p = 0,842 ) .
+En revanche , l' augmentation de la dose biologique équivalente était liée de façon statistiquement significative à l' augmentation du risque de pneumopathie radique , avec un p = 0,037 .
+Les doses par fraction et l' étalement n' étaient pas significativement liés à l' augmentation du risque de pneumopathie radique , avec respectivement p = 0,6583 et p = 0,115 .
+Concernant les fractures costales , elles sont apparues chez 2 patientes sur 17 traitées par électrons ( 45 Gy en 15 fractions et 33 jours dans 1 cas et 65 Gy en 25 fractions et 38 jours dans 1 cas ) et chez 2 patientes sur 3 traitées par photons ( 45 Gy en 15 fractions et 5 semaines dans les 2 cas ) .
+Le délai médian de première fracture ( une patiente a eu 3 fractures , 4 , 17 et 27 mois après la ré-irradiation ) par_rapport_à la ré-irradiation était de 28 mois ( 4 - 38 ) .
+Pour les patientes ayant eu une fracture costale , la dose biologique équivalente délivrée était en moyenne de 59 Gy ( 54 - 73 ) et était à la limite de la signification quand on la comparait à la dose biologique équivalente des patientes n' ayant pas eu de fracture costale qui était en moyenne de 49 Gy ( p = 0,051 ) .
+Le fractionnement n' était pas statistiquement différent ( p = 0,857 ) .
+Pour les patientes ayant eu une fracture costale , la surface moyenne ré-irradiée par électrons était de 169 cm2 ( 115 - 224 ) et non statistiquement différente de celle concernant les patientes sans fractures ( 277 cm2 ) avec un p = 0,090 .
+Trois patientes ont eu un lymphoedème .
+Parmi elles , une a reçu une irradiation axillaire de 45 Gy délivrée en 18 fractions et 32 jours .
+Aucun lien statistiquement significatif n' a été retrouvé entre lymphoedème et irradiation axillaire et lymphoedème et reprise du curage ganglionnaire avec respectivement p = 0,850 et p = 0,550 .
+Aucun cas de nécrose cutanée n' a été observé .
+Parmi les 5 patientes dont la tumeur a récidivé , une a souffert d' une fracture costale et d' une pneumopathie radique et deux autres de douleurs invalidantes .
+4. Discussion
+Nous rapportons dans ce travail les résultats des ré-irradiations pariétales après mastectomie de rattrapage pour récidive d' un cancer du sein après traitement conservateur chez 20 patientes .
+Ce travail est original puisque nous n' avons retrouvé aucun cas publié dans la littérature de 1993 à 2002 .
+Seuls les résultats préliminaires d' une étude rétrospective française incluant 50 patientes ont été présentés sous forme de communication orale  .
+Treize des 20 patientes de notre étude font partie des 50 patientes de cette étude multicentrique .
+Les patientes atteintes d' un carcinome mammaire non métastatique ont été ré-irradiées après mastectomie pour une récidive locale après un traitement conservateur .
+La durée médiane de surveillance après ré-irradiation était de 45 mois ( 2 - 163 ) .
+Trente-six tumeurs sur 50 ( 72 % ) ont été localement contrôlées .
+Parmi ces patientes , 19 ( 38 % ) étaient vivantes sans maladie métastatique avec une durée médiane de surveillance de 54 mois ( 6 - 111 ) .
+Dans notre étude , 50 % des patientes ré-irradiées étaient vivantes et sans évolution locale ou à distance avec une durée médiane de surveillance de 52 mois ( 11 - 97 ) .
+Notre pourcentage est plus élevé que dans l' étude multicentrique , même si une comparaison est difficile compte tenu que 13 patientes de notre étude ont été incluses dans cette étude multicentrique .
+Avec une durée médiane de surveillance de 48 mois , le pourcentage de seconde récidive locale de notre étude est de 25 % .
+Or , après mastectomie seule de rattrapage , plusieurs auteurs ont rapporté un taux de seconde récidive locale à 5 ans de 4 à 29 % [ 3 , 5 , 13 , 14 , 22 , 23 and 24 ] .
+Certains auteurs  ont décrit un taux de seconde récidive locale de 20 % après une mastectomie .
+Mais aucune précision concernant la récidive ( pronostic favorable ou non ) n' est détaillée .
+Salvadori_et_al.  ont publié un taux de récidive à 5 ans de 4 % après mastectomie de rattrapage .
+La durée médiane de surveillance des 2544 patientes était de 73 mois ( 1 - 92 ) .
+Cent trente-quatre patientes ont eu une mastectomie pour une récidive locale .
+Celle-ci était unifocale dans la majorité des cas ( 63 % ) , multifocale dans 17 % des cas et indéterminée dans 20 % des cas .
+Une atteinte cutanée a été retrouvée dans seulement 15 % des cas .
+La taille tumorale de la récidive était 1 cm dans 34 % des cas , entre 1 et 3 cm dans 45 % des cas , > 3 cm dans 8 % des cas et sans traduction clinique dans 13 % des cas .
+Au total , les récidives locales avaient des caractéristiques favorables , ce qui peut expliquer le faible taux de seconde récidive après mastectomie .
+Rambert_et_al.  ont étudié les récidives mammaires après traitement conservateur chez 618 patientes .
+Cinquante-quatre tumeurs ont récidivé localement et sans métastase .
+Parmi ces patientes 11 avaient une récidive locale avec atteinte cutanée ou aréolomammelonnaire , dont une maladie de Paget dans 1 cas , un sein pris en masse avec nodules cutanés dans 1 cas , des perméations cutanées dans 2 cas , une récidive inflammatoire dans 2 cas .
+Ces 54 patientes ont été traitées par une mastectomie .
+Dix patientes sur 54 ( soit 18 % ) ont eu une récidive pariétale .
+Cette récidive pariétale est survenue chez 6 des 11 patientes qui avaient une première récidive avec une atteinte cutanée ou aréolomammelonnaire ( soit 54 % des patientes ) .
+Les auteurs n' ont pas précisé le traitement local de cette seconde récidive .
+Chaudary_et_al.  ont publié un taux de seconde récidive locale après mastectomie de rattrapage de 29 % .
+Ainsi , 448 patientes ont été traitées pour une tumeur du sein de façon conservatrice , 45 ont eu une récidive locale et 37 une mastectomie de rattrapage .
+La récidive a été détectée cliniquement dans 54 % des cas et une atteinte cutanée a été retrouvée dans 11 % des cas .
+Peu de récidives locales avaient des critères de pronostic défavorable .
+Au total , dans notre étude , la ré-irradiation pariétale après mastectomie de rattrapage permet de contrôler localement 75 % des cas .
+Or , ces 20 patientes ont été ré-irradiées du fait d' un pronostic local très défavorable .
+L' objectif de la radiothérapie adjuvante était d' éviter la seconde rechute locale quand la récidive était de pronostic défavorable .
+Le traitement des récidives locales après un traitement radical ( mastectomie et radiothérapie ) d' un cancer du sein est souvent difficile : exérèse chirurgicale , curiethérapie , hyperthermie [ 20 , 29 and 30 ] .
+La survie dépend du délai entre le diagnostic initial et la récidive , du siège de la récidive et de l' envahissement ganglionnaire initial .
+Les récidives graves semblent survenir précocement avec une atteinte ganglionnaire et suivre un cancer initialement N+ [ 7 , 15 , 21 and 26 ] .
+Dans notre étude , les récidives locales sont survenues pour un quart des patientes très précocement c' est-à-dire dans les 2 ans après le diagnostic initial .
+D' après Rambert_et_al.  , le risque de développer des métastases après une première récidive pour un traitement conservateur pour un carcinome mammaire est de 36 % .
+La survie globale est meilleure quand le contrôle local est obtenu .
+Dunst et al. ont montré sur une étude de 959 patientes , traitées par mastectomie que le taux de survie globale à 10 ans variait respectivement de 35 à 62 % en fonction du non contrôle ou du contrôle local de la maladie  .
+Dans notre étude , il semble exister une influence du contrôle local sur l' évolution métastatique .
+Les 5 tumeurs qui ont récidivé localement après ré-irradiation ont disséminé à distance dans un délai médian après la ré-irradiation de 27 mois ( 2 - 55 ) .
+Seules 4 des 14 patientes ( 28 % ) sans rechute locale ont eu des métastases dans un délai médian de 20 mois ( 8 - 39 ) après la ré-irradiation .
+Les réactions cutanées aiguës ( érythème intense , ulcérations ) ont été observées chez la majorité des patientes et peuvent être considérées comme modérées compte tenu des doses utilisées pour cette ré-irradiation .
+Les séquelles à type de télangiectasies et de fibrose pariétale étaient également attendues .
+Les complications tardives ( pneumopathies radiques , fractures costales ) ont été traitées avec succès , sans laisser de séquelle .
+Aucun cas de nécrose cutanée n' a été retrouvé .
+Seules les douleurs chroniques et les lymphoedèmes constituent des séquelles .
+Concernant le risque de pneumopathies radiques , certains auteurs comme Hehr_et_al.  ont montré qu' une irradiation pariétale avec des électrons par_rapport_à une irradiation par photons n' augmentait pas le risque de complications pulmonaires .
+Ainsi , Hehr et al. ont irradié 130 patientes qui avaient un haut risque de récidive après mammectomie .
+La technique utilisait une rotation des électrons d' énergie variant de 4 à 12 MeV à la dose de 50 Gy délivrée en 20 fractions de 2,5 Gy .
+Le taux de pneumopathie radique a été de seulement 4 % .
+Les auteurs pensent qu' une technique d' irradiation pariétale en électrons peut être utilisée s' il n' existe pas de variation d' épaisseur de la paroi thoracique .
+Nous avons opté pour une ré-irradiation hypofractionnée ( avec 2,5 à 3 Gy par fraction ) parce_que nous pensons que les clones de cellules tumorales ayant récidivé étaient peut-être résistants à un fractionnement classique .
+En effet , ces patientes ont eu une récidive alors qu' elles avaient reçu une radiothérapie postopératoire avec un fractionnement classique .
+Ballo_et_al.  ont comparé deux types d' irradiation pour une récidive locorégionale après mastectomie chez 148 patientes .
+Il s' agissait soit d' un fractionnement classique ( soit 2 Gy par fraction quotidien ) , soit d' un bifractionnement quotidien ( 1,5 Gy par fraction deux fois par jour ) .
+Les résultats n' ont pas été concluants puisque aucune différence significative n' a été observée en termes de taux actuariel de contrôle locorégionale , de survie globale ou de survie sans récidive .
+Néanmoins dans notre étude et étant donné les complications tardives , un fractionnement de 2 à 2,5 Gy pourrait être envisagé , puisque l' hypofractionnement favorise la survenue et la gravité des complications tardives .
+De plus , afin_de limiter les complications à type de pneumopathies radiques ou de fractures costales , une irradiation mixte photons / électrons pourrait également être réalisée .
+Au total , les résultats de notre étude montre que la ré-irradiation est un traitement que l' on peut effectuer chez des patientes sélectionnées .
+Maulard_et_al.  ont montré qu' une curiethérapie de rattrapage était réalisable pour une récidive après un traitement conservateur ( tumorectomie , puis radiothérapie ) chez des patientes inopérables ou refusant la mastectomie de rattrapage .
+Cette étude a porté sur 38 patientes .
+Quinze patientes ont ainsi bénéficié d' une tumorectomie , puis d' une curiethérapie à la dose de 30 Gy , et 23 patientes ont eu en exclusivité une curiethérapie de 70 Gy .
+Trois patientes ont néanmoins eu des complications sévères nécessitant une mastectomie de rattrapage : nécroses cutanées chez 2 patientes ( l' une traitée à 30 Gy , et l' autre à 70 Gy et dans un grand volume ) et un sein très douloureux chez 1 patiente , traitée à 70 Gy .
+Les autres types de complications n' étaient pas clairement détaillées et étaient classées en : absence de séquelle , séquelles mineures ou majeures .
+Harms_et_al.  ont publié les résultats d' une ré-irradiation pariétale par curiethérapie pour une récidive locale après un traitement initial par mastectomie , puis irradiation chez 58 patientes .
+La ré-irradiation a été réalisée en raison soit d' une atteinte cutanée macroscopique soit d' une résection chirurgicale incomplète .
+La dose délivrée a été de deux séries de 20 Gy séparées par une période de repos de 31 jours .
+Il s' agissait d' une curiethérapie de débit pulsé avec 0,5 à 1 Gy par pulse et par heure .
+La surface médiane de ré-irradiation était de 423 cm2 ( 100 - 919 ) .
+Les auteurs ont rapporté 4 ulcérations chroniques , 6 fibroses pariétales et 29 atteintes cutanées à type de télangiectasies .
+Ces complications semblaient acceptables compte tenu des doses et du volume de ré-irradiation .
+D' après Karasek_et_al.  et Cutuli_et_al.  , une ré-irradiation du sein ou de la paroi plusieurs années après l' irradiation en mantelet ( pour un lymphome hodgkinien ou non hodgkinien ) pouvaient être effectuée dans le cadre du traitement postopératoire d' un cancer du sein .
+Aucune complication immédiate ou tardive n' avait été observée dans ces études qui comptaient respectivement 6 et 20 patientes .
+Cependant , la recoupe des faisceaux était relativement limitée , la dose initiale était plus faible ( 36 à 40 Gy ) et le délai entre la première et la seconde irradiation était important ( en moyenne 15 ans ) .
+Dès 1988 , Van der Zee_et_al.  ont montré qu' une ré-irradiation pariétale après un traitement initial non conservateur pour un carcinome mammaire ( 8 séances de 4 Gy , avec 2 séances par semaines ) associée à des séances d' hyperthermie pouvait être réalisée .
+L' étude avait porté sur 97 patientes et les seules séquelles observées ont été cutanées , avec une hyperpigmentation marquée chez la moitié des patientes .
+Depuis 1999 , cette ré-irradiation , associée à une hyperthermie , est devenue un standard aux Pays-Bas  .
+Un cas de ré-irradiation de la chaîne mammaire interne , dix ans après un traitement conservateur pour une tumeur du quadrant inféro-interne ( classée pT2N0M0 ) , a été décrit devant une récidive ganglionnaire mammaire interne .
+La ré-irradiation a utilisé des photons de 6 MV et la dose de ré-irradiation a été de 60 Gy en 30 fractions sur une surface de 9 par 9 cm .
+Aucune complication majeure n' a été observée un an après la fin de la radiothérapie  .
+Certains auteurs ont montré qu' une ré-irradiation très localisée du sein après un second traitement conservateur pour une récidive est possible .
+Ainsi , dans l' étude de Mullen_et_al.  , 16 patientes traitées initialement de façon conservatrice ont eu une récidive locale .
+Refusant la mastectomie , les patientes ont bénéficié d' une tumorectomie de rattrapage puis d' une ré-irradiation .
+Ces patientes ont été ré-irradiées avec des faisceaux d' électrons ( de 6 à 14 MeV ) à la dose de 50 Gy en 25 fractions sur une surface variant de 49 à 100 cm2 .
+Les complications aiguës retrouvées ont été similaires à celles de notre étude .
+En ce qui concerne les complications tardives , les auteurs décrivent une hyperpigmentation et une fibrose sous-cutanée de la zone ré-irradiée .
+Mullen n' a observé ni nécrose cutanée , ni fracture costale , ni complications cardiopulmonaires .
+Schuck_et_al.  ont également montré chez 13 patientes qu' une ré-irradiation localisée pour une récidive locorégionale après traitement conservateur initial était possible après ré-excision .
+Tydesley et al. ont effectué une ré-irradiation axillaire ou sus-claviculaire  .
+Ainsi , de 1984 à 2000 , 20 patientes ont été traitées pour un carcinome mammaire de façon conservatrice avec une irradiation moyenne de 48 Gy en fractionnement et étalement classique .
+Après la récidive locale , les patientes ont été ré-irradiées soit de façon hypofractionnée ( 30 Gy en 10 fractions une fois par jour ) , soit de façon hyperfractionnée biquotidienne ( 60 Gy en 46 fractions de 1,3 Gy matin et soir ) .
+La durée médiane de surveillance a été de 6 ans et le contrôle locorégional de 47 % .
+En termes d' effets secondaires , 30 % ont souffert d' un oedème du membre supérieur et 29 % des douleurs .
+Une patiente a d être amputée .
+Les auteurs ont conclu qu' une ré-irradiation hyperfractionnée pouvait être réalisée en cas d' échec d' un traitement systémique .
+5. Conclusion
+La ré-irradiation pariétale après mastectomie de rattrapage pour récidive très péjorative ou de pronostic local très défavorable a probablement un intérêt en termes de contrôle local avec 10 patientes sur 20 qui étaient en situation de rémission clinique complète avec une durée médiane de surveillance de 52 mois ( 11 - 97 ) .
+L' effectif de cette étude est trop faible pour apprécier la relation entre la dose totale et , la surface ré-irradiée et le contrôle local .
+De plus , il existe probablement une influence du contrôle local sur l' évolution métastatique .
+L' analyse des résultats de notre étude a montré que la ré-irradiation pouvait être réalisée avec des complications aiguës acceptables , mais néanmoins des séquelles invalidantes , essentiellement douloureuses .
+L' analyse des résultats de cette étude suggère une relation entre la survenue de complications sévères ( douleurs chroniques , pneumopathie radique ) et la dose de ré-irradiation .
+Le délai entre la première et la seconde irradiation pourrait également influencer l' apparition de complications sévères .
+Les indications de la ré-irradiation sont donc limitées aux rechutes locales après un traitement conservateur de pronostic défavorable

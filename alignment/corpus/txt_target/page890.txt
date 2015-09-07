@@ -1,0 +1,249 @@
+Breast cancer is the most frequent malignancy and the most common cause of cancer-related death in women worldwide with approximately 500,000 deaths each year  .
+Approximately , 30% of all patients diagnosed with breast cancer are at risk of developing tumor recurrence at some time within the course of their disease .
+Therefore , early diagnosis and accurate restaging of recurrent breast cancer is important to define appropriate therapeutic strategies or to identify patients with limited disease who potentially could benefit from curative treatment .
+Primary staging and follow-up of breast cancer usually is performed with multi-modality imaging approaches using conventional radiographs , ultrasound , computed tomography ( CT ) or magnetic resonance imaging ( MRI ) , based on changes in density , size or contrast enhancement .
+However , a sequential imaging approach can be time-intensive and potential false-negative findings may delay appropriate therapy .
+It has been reported that whole-body fluorodeoxyglucose ( FDG ) - positron emission tomography ( PET ) is of clinical value in the search for breast cancer metastases , especially when suggested by the presence of clinical symptoms or by a progressive increase in biochemical markers  .
+The combination of metabolic data from PET with the detailed anatomical information of multi-slice computed tomography as dual-modality scanners has markedly increased lesion localization and diagnostic accuracy compared to both modalities as standalone applications  .
+Recently , combined PET - CT has been introduced as a whole-body imaging modality for screening of patients with suspicion of recurrent breast cancer , indicating an improved restaging accuracy and possible impact on therapy  .
+MRI , with its lack of ionizing radiation , high soft tissue contrast and spatial resolution is a useful application for tumor detection and staging of malignant disease .
+A high sensitivity has been reported for the detection of organ metastases , especially for tumors frequently metastasizing to the liver , bone or the brain , like breast cancer  .
+However , different requirements in coil setup , sequence design and slice positioning as well as time-consuming patient repositioning procedures in the past have delayed the realization of WB-MRI as a clinical application .
+With the introduction of multi-channel whole-body scanners , covering the patient 's anatomy from head to toe , MRI has become a promising candidate for whole-body body tumor imaging .
+Now , dedicated assessment of individual organs with various soft tissue contrast , image orientation , spatial resolution and contrast media dynamics can be combined with whole-body anatomic coverage  .
+Recently , approved clinical multi-channel whole-body MR systems with a field strength of 3 T became available .
+The potential two-fold gain in SNR at 3 T can be used for either acquisition acceleration or increased spatial resolution , or for a compromise of both , resulting in even shorter total examinations times , increased patient comfort and acceptance .
+Various study groups have reported an improved diagnostic accuracy and image quality at 3 T for different dedicated organ systems , like functional or morphologic imaging of the brain , vessels and defined musculoskeletal structures  .
+Yet , only few scientific studies have described the use of high-field systems in other parts of the body , including the chest , abdomen or even as whole-body application  .
+The purpose of this study was to compare the diagnostic potential of FDG - PET - CT and WB-MRI in patients with breast cancer and suspicion of tumor recurrence .
+Additionally , WB-MRI at high field conditions is introduced as a new feasible application within a clinical setting .
+2. Materials and methods .
+The study included 33 female patients ( mean age 55 years , range 24 - 79 years ) with a history of breast cancer , all treated with a primarily curative approach .
+The patients were referred to our hospital within a time period of 22 months for follow-up with either clinical suspicion of tumor recurrence ( n = 9 ) , a conspicuous finding in another imaging modality ( n = 14 ) or newly elevated tumor marker levels ( n = 10 ) .
+All patients were examined consecutively with a dual-modality PET - CT-scanner ( Gemini , Philips Medical Systems , Cleveland , Ohio ) within the diagnostic algorithms of clinical routine .
+The patients also underwent WB-MRI at 1.5 or 3 T within a maximum of 16 days ( average 12 days ) .
+MRI was performed in agreement with the patients as well as the clinicians in charge .
+Approval of the institutional review board and written patient consent was obtained beforehand .
+Both PET - CT and WB-MRI ( irrespective of the applied field strength ) were well tolerated by all patients .
+To avoid bias in diagnostic accuracy of PET - CT due to suppressed metabolic activity , patients receiving chemotherapy / radiotherapy immediately prior or in between our examinations were excluded from statistical analysis .
+Table 1. .
+Overview on selection criteria for 33 patients included for a whole-body imaging aftercare algorithm .
+Patient selection criteria for whole-body imaging algorithm ( WB-MRI and PET - CT ) Clinical symptomsn = 9New bone pain ( n = 5 ) Abdominal pain and / or pathologic liver enzymes ( n = 2 ) Pathologic fracture ( n = 2 ) Elevated tumor marker levelsn = 10CEA ( n = 2 ) CA 15 - 3 ( n = 3 ) CEA + CA 15 - 3 ( n = 5 ) Suspicious imaging findingn = 14chest radiographs ( n = 4 ) Abdominal ultrasound ( n = 7 ) CT-staging after ultrasound ( n = 3 )
+Full-size table .
+View Within Article .
+2.1. Whole-body MRI at 1.5 T
+In 23 patients , WB-MRI was performed on a 1.5 T ( 40 mT / min , max. slew rate 20 T/m / s ) whole-body scanner ( Magnetom Avanto , Siemens Medical Solutions , Erlangen , Germany ) using integrated parallel acquisition techniques ( iPAT )  .
+The scanner allows the connection of up to 76 receiver coil elements from multiple phased-array surface coils , covering the patient from head to toe , with simultaneous signal reception from 32 independent receiver channels .
+Using automated table motion , parallel imaging in three spatial directions at a total scan range of 205 cm can be performed without patient repositioning .
+The patients were examined from head to the proximal calves with STIR-sequences on four body levels in coronal orientation : head / neck , pelvis , thighs / calves ( TR 5620 / TE 92 ) , as well as the thorax / abdomen ( TR 3380 / TE 101 ) in breath-hold technique with prospective 2D-navigator correction ( PACE , prospective acquisition correction )  .
+Subsequently , the body was scanned with coronal T1-weighted TSE-imaging ( TR 79 / TE 12 ; thorax / abdomen TR 400 / TE 8.2 , breath-hold technique ) .
+The lung was examined in axial orientation with STIR- ( TR 3800 / TE 100 ) and HASTE-sequences ( TR 1100 / TE 27 ) , followed by a respiratory-triggered T2w-fat saturated-TSE scan of the liver ( TR 2010 / TE 101 ) and coronal HASTE of the abdomen ( TR 900,TE 73 ) .
+Then , sagittal imaging of the upper and lower spine with T1-weighted-TSE- ( TR 849 / TE11 ) and STIR-sequences ( TR 5700 / TE 59 ) was performed .
+After application of gadolinium-DTPA ( Magnevist , Bayer Schering Pharma AG , Berlin , Germany , 3 mL / s ; 0.2 mmol / kg , 20 mL saline flushing ) a dynamic ( arterial- , portal venous- , late venous phase ) axial 3D-VIBE ( volume interpolated breath-hold exam ) liver scan was accomplished ( TR 4.38 / TE 1.61 ) including a late venous scan of the breast / lung level ( TR 9.1 / TE 4.76 ) .
+Then axial T1w- and T2w-TSE-imaging ( TR 635 / TE 17 and TR 1420 / TE 109 ) of the brain was performed .
+Finally , a fat saturated T1w-GRE-sequence of the whole abdomen in axial orientation ( TR 179 / TE 3.33 ) was performed .
+Table 2 gives an overview of the applied scan protocol .
+Table 2. .
+Whole-body MRI sequence protocols on 1.5 and 3 T
+SequenceImage plane1.5 T3 T Matrix / resolution ( mm3 ) Acquisition time ( min ) Matrix / resolution ( mm3 ) Acquisition time ( min ) STIR-WBCoronal384 / 1.8 1.3 5.09:43384 / 1.8 1.3 5.06:40 HASTE-abdomenCoronal384 / 1.4 1.3 5.00:38384 / 1.4 1.3 5.00:33 HASTE-lungAxial320 / 1.3 1.2 6.00:44320 / 1.3 1.2 6.00:42 STIR-lungAxial320 / 1.8 1.2 6.01:01 - - T2w-fs-SE-liver ( Free breathing ) Axial320 / 1.6 1.2 5.03:41320 / 1.6 1.2 5.03:41 T1w TSE-WBaCoronal384 / 1.7 1.3 5.010:30384 / 1.7 1.3 5.07:53 T1w TSE-spineSagittal384 / 1.0 1.0 3.07:46384 / 1.0 1.0 3.06:15 STIR-spineSagittal384 / 1.0 1.0 3.07:22384 / 1.0 1.0 3.07:00 Dyn .
+VIBE-liverAxial384 / 1.9 1.5 3.02:20384 / 1.9 1.5 3.02:20 Stat .
+VIBE-lung/breastbAxial380 / 1.6 1.6 1.50:25380 / 1.6 1.6 0.50:25 T1w fs GRE-pelvisAxial320 / 1.5 1.2 6.01:17320 / 1.5 1.2 6.01:10 T1w SE-brainAxial320 / 0.7 0.7 5.03:11 - - T1w GRE-braincAxial - - 320 / 0.7 0.7 5.03:17 T2w SE-brainAxial512 / 0.5 0.5 5.03:11512 / 0.5 0.5 5.02:52 .
+Total51:4942:48 .
+Full-size table .
+a At 3 T , alternatively a SE-sequence was applied for coronal imaging of the head / neck region .
+b At 3 T , the 3D-VIBE of the breast in late venous phase was performed with extended anatomic coverage of the entire lung to replace axial STIR-imaging of the lung .
+c At 3 T , T1-weighted axial imaging of the brain was performed with a Flash-2D gradient echo sequence .
+View Within Article .
+For coronal whole-body imaging a PAT-factor of 3 was used except for the calf station ( PAT-factor 2 ) , for sagittal imaging of the spine PAT 2 was applied .
+For axial imaging of the thorax and abdomen a PAT-factor of 2 was also chosen .
+2.2. Whole-body MRI at 3 T
+In 10 patients , WB-MRI was performed on a 3 T ( 40 mT / min , max. slew rate 20 T/m / s ) whole-body scanner ( Magnetom Tim Trio , Siemens Medical Solutions , Erlangen , Germany ) using iPAT .
+Within migration of the described established protocol at 1.5 T to high-field conditions , adaptations of scan parameters to the different field strength were performed .
+No further adjustments or optimizations ( such as spatial resolution ) were made to preserve comparability of the two protocols ( see Table 2 ) .
+Coronal STIR-imaging was performed on the same four body levels ( TR 5900 / TE 100/TI 200 ; thorax / abdomen TR 3830 / TE 117 ) , followed by HASTE of the lung ( TR 531 / TE 33 ) and abdomen ( TR 1100 / TE 111 ) , including the T2-weighted TSE scan of the liver ( TR 3500/ TE 81 ) .
+Due to changed relaxation times for STIR-imaging , TI was increased to 200 ms compared to 1.5 T ( TI = 170 ) to achieve an adequate fat suppressed bone marrow signal .
+WB-MRI with T1-weighted contrast comprised coronal TSE-imaging of the same body levels ( TR 750 / TE 9.6 and TR 700 / TE 9.1 ) .
+Only for the head / neck region SE-imaging ( TR 800 / TE 9 ) was used to achieve adequate image contrast and detail for brain parenchyma and the complex soft tissue structures of the neck / shoulder .
+Then sagittal STIR- ( TR 4000 / TE 52/TI 200 ) and T1-weighted TSE sequences ( TR 850 / TE 12 ) of the spine were performed .
+Due to increased SAR at 3 T , a pulse technique with variable rate selective excitation ( VERSE ) was selected for T1-weighted-TSE- and STIR-imaging .
+The use of VERSE allows substantial SAR reduction without significant increase of TR and at negligible changes of image contrast  .
+In contrast to the 1.5 T protocol , a T1-weighted Flash-2D GRE sequence ( TR 471 / TE 4.9 ) replaced the axial T1w-SE-sequence as an already established T1-w brain imaging of choice with high CNR and robust image quality at higher field strength  .
+Contrast enhanced imaging was performed using a dynamic 3D-VIBE of the liver ( TR 2.96 / TE 1.17 ) and a late venous scan of the lung / breast ( TR 2.85 / TE 1.07 ) .
+The same fat saturated GRE-sequence was performed on the abdomen / pelvis ( TR 189 / TE 3.69 ) .
+The same PAT-factors were used at 3 T. Additionally , a dielectric pad was placed on patients with low body fat to avoid dielectric artifacts  .
+Axial STIR-imaging of the lung was not performed at 3 T due to severe impairment of image quality from pulsation artifacts .
+2.3. FDG - PET - CT imaging .
+Examinations were performed on a two-detector row PET - CT-scanner ( Gemini , Philips Medical Systems , Cleveland , Ohio ) after injection of 202 - 378 MBq [ 18F ] -fluoro-2-deoxy-d-glucose .
+Patients were asked to fast for at least 6 h before examination to assure blood glucose levels below 150 mg / dL .
+Buscopan was applied intravenously to avoid a first-pass uptake of FDG into smooth muscle .
+Additionally , 20 mg of Furosemide was given to increase renal excretion of the tracer and avoid accumulation in non-malignant cells .
+1 h after FDG-administration a low-dose CT scan in shallow breathing was performed for PET-attenuation correction covering neck , thorax , abdomen and pelvis ( 40 mAs , 120 kV , collimation 2 mm 5 mm , pitch 1,5 ) .
+Then the emission scan followed using a 3D-RAMLA ( Row Action Maximum Likelihood algorithm ) for reconstruction ( 10 bed positions , FOV 10 cm , 144144 matrix ) .
+Finally , a diagnostic contrast-enhanced CT was conducted ( 120 mAs , 160 kV , collimation 2 mm 5 mm , pitch 1 ) with application of 120 mL of i.v.-contrast agent ( Ultravist 300 , Bayer Schering Pharma AG , Berlin , Germany ) in venous phase ( 80 s delay ) .
+The PET- and diagnostic CT-data were fused with the use of special software ( Syntegra , Philips Medical Systems , Cleveland / Ohio , USA ) .
+For the whole examination an average dose of ionizing radiation of 25 mSV has been calculated  .
+Table 3 gives an overview of the applied scan protocol .
+Table 3. .
+Whole-body protocol for FDG - PET - CT imaging on a two-detector row scanner using a low-dose CT pre-scan for attenuation correction .
+Whole-body FDG - PET - CT protocol Patient preparationLow-dose CTEmission scanDiagnostic CT - Fasting 6 h before - 60 mA / 120 kV - RAMLA-3D - 130 mA / 130 kV - 200 Mbq FDG - Collimation 2 mm 5 mm - Matrix 144144 - Collimation 2 mm 5 mm - 20 mg Furosemide i.v. - 12-Bed positions - Pitch 1.5 - 20 mg butylscopolamine i.v. - 10 cm FOV - 120 mL Lopromide 80 s delay .
+60 minScan time = 43 min .
+Full-size table .
+View Within Article .
+2.4. Data analysis .
+Two board-certified radiologists , each with more than 6 years of experience , read the MRI scans and another radiologist and one nuclear medicine physician with 3 and 6 years of experience read the PET - CT images , each in consensus .
+Both reader groups were fully blinded to the other modality and had no information on previous or current diagnostic imaging results .
+Location , extension and number of suspected malignant lesions were recorded .
+Established region-specific size criteria were applied to determine tumor involvement when assessing lymph  .
+Hard criteria for malignancy in both modalities were signs of aggressive expansion of a lesion , like ill-defined borders , erosion or infiltration of neighboring anatomical structures , hemorrhage or signs of necrosis .
+In MRI , malignancy was determined based on established sequence-specific signal changes , e.g. a hypointense bone marrow signal in T1-weighted imaging in combination with a hyperintense signal in STIR in case of bone lesions  .
+Furthermore , classic findings of abnormal static ( CT ) or dynamic ( MRI ) contrast uptake characteristics were consulted , like an early ring enhancement in case of a malignant liver lesion  .
+In addition , malignancy in PET - CT was defined by a focally increased glucose uptake using a standard uptake value ( SUVmax ) of 2.5 as a reference indicating malignancy  .
+A progressive change in size and number of a lesion within the given time period or an increase of pathological tracer uptake were considered as hard criteria for malignancy .
+Focal masses were counted lesion-by-lesion and in case of present diffuse infiltration patterns , especially in metastatic disease to the bone , an evaluation system of anatomical regions was applied .
+Lesions were counted by the bone region affected ( e.g. diffuse infiltration of one femur = 1 , diffuse infiltration of both clavicles = 2 ) .
+In case of disseminated metastatic disease to the liver or lungs , defined as more than five countable metastases , the degree of metastatic spread was described by the affected lung lobes and liver segments , respectively ( e.g. disseminated metastatic disease in all lung lobes = 5 / in all liver segments = 8 ) .
+All detected lesions , including all questionable or discordant findings between both modalities , were cross-checked by radiological or nuclear medicine follow-up studies within at least 6 months ( average 14 months , 6 - 37 months ) as a standard of reference .
+The following studies were performed for follow-up on a patient-basis : mammography ( n = 3 ) , breast ultrasound ( n = 3 ) , MRI ( n = 14 ) , PET - CT ( n = 12 ) , CT ( n = 12 ) , bone scintigraphy ( n = 10 ) , radiographs ( n = 9 ) , WB-MRI ( n = 6 ) , abdominal ultrasound ( n = 5 ) .
+In case of a supposed local recurrent tumor finding , histological clarification was achieved .
+2.5. Statistical analysis .
+To assess the diagnostic accuracy of both modalities , sensitivity , specificity , as well as positive- and negative predictive values were calculated for the described lesions .
+Concordance for the assessment between MRI and PET - CT-imaging was calculated .
+Statistical analyses were performed with SPSS for Windows ( Version 11.0 , SPSS Inc. , Chicago , Illinois ) .
+3. Results .
+Tumor recurrence was found in 20 of 33 patients ( 61% ) .
+Altogether PET - CT and WB-MRI detected 186 lesions classified as malignant and 77 lesions considered benign .
+Thirteen patients had no visible malignant pathologies and also were negative on follow-up examinations .
+The correlation between both modalities was 87% ( 228 / 263 ) for all detected lesions .
+The described lesions were observed within the common FOV of both modalities from the skull base to the proximal femoral bone .
+All 36 discordant findings were unequivocally classified by follow-up examinations .
+FDG - PET - CT showed an overall diagnostic accuracy of 91% ( 239 / 263 ) with a sensitivity of 91% ( 170 / 186 ) and a specificity of 90% ( 69 / 77 ) .
+WB-MRI altogether achieved an equal overall diagnostic accuracy of 91% ( 238 / 263 ) with a sensitivity of 93% ( 172 / 186 ) and specificity of 86% ( 66 / 77 ) .
+In two patients , tumor recurrence of the breast was detected by both WB-MRI and PET - CT , one local recurrence and one recurrence in the contra-lateral breast .
+One patient was rated as a false-positive for local recurrence by WB-MRI ( 1.5 T ) .
+No signs of tumor recurrence were found on PET - CT and 6 month follow-up in this patient .
+Full-size image ( 102K )
+Fig. 1. Forty-five-year-old woman with breast cancer and suspicion of tumor recurrence in breast radiographs / ultrasound during routine screening. ( A ) Coronal WB-STIR-imaging on four body levels at 1.5 T shows a large hyperintense bone marrow lesion indicating a metastasis of the right proximal femur ( arrow ) . ( B ) 3D-VIBE in late venous phase at the anatomic level of the breast shows an enhancing mass in the right breast suspicious of contralateral tumor recurrence .
+Additionally , a large sternal bone metastasis is depicted ( arrowheads ) . ( C ) PET - CT of the thorax reveals pathologic FDG-uptake in the right breast lesion ( SUV 3.2 ) as well as the sternal mass , indicating malignancy .
+Bilateral uptake in the facet joints is of degenerative nature. ( D ) Breast ultrasound correlation confirms an ill-defined hypoechogenic lesion ( 18 mm ) , diagnosed as tumor recurrence of invasive-ductal carcinoma .
+View Within Article .
+PET - CT detected 21 lymph node metastases with a sensitivity of 96% ( 21 / 22 ) and equal specificity of 96% ( 25 / 26 ) at a diagnostic accuracy of 96% ( 46 / 48 ) .
+WB-MRI revealed 16 malignant lymph nodes with a sensitivity of 73% ( 16 / 22 ) , yielding a specificity of 77% ( 20 / 26 ) and a diagnostic accuracy of 75% ( 36 / 48 ) .
+PET - CT detected more lymph node metastases than WB-MRI , especially in the axilla and mediastinal region ( both PET - CT n = 7 versus WB-MRI n = 5 , Table 4 , Fig. 2 ) .
+Table 4. .
+Summary of detected malignant lesions detected by MRI and PET - CT and anatomical distribution .
+Detected malignanciesPET - CTWB-MRI Local recurrence22 .
+Malignant lymph node2116 Axillary75 Mediastinal75 Thoracic43 Other33 .
+Distant metastases147154 Bone6369 Liver6770 Lung1515 Skin10 Other10 .
+Overall170172 .
+Full-size table .
+Overall 186 malignant foci were detected by both modalities with a correlation of 87% .
+View Within Article .
+Full-size image ( 103K )
+Fig. 2. Twenty-four-year-old woman with breast cancer and elevated tumor markers. ( A ) T1-weighted WB-MRI at 1.5 T. ( B ) Axial STIR-imaging of the lung shows a round hyperintense structure in the upper ventral mediastinum , which is indicative of a lymph node , but difficult to distinguish from a vessel or pulsation artifact .
+Another hyperintense structure in the pre-tracheal region is hardly interpretable ( arrows ) . ( C ) Contrast-enhanced CT shows two lymph nodes at the described sites with borderline size ( 1.2 cm arrows ) . ( D ) PET - CT reveals a pathologic tracer uptake only in the ventral lymph node ( SUV 3.0 ) , the pretracheal node shows no significant uptake .
+Progressive multifocal metastatic disease with secondary lymphedema of the trunk and arm as well as additional brain metastases was diagnosed in this patient in follow-up .
+View Within Article .
+For the detection of distant metastatic disease PET - CT demonstrated a sensitivity of 91% ( 147 / 162 ) and specificity of 86% ( 43 / 50 ) with a diagnostic accuracy of 90% ( 190 / 212 ) .
+WB-MRI showed a sensitivity of 95% ( 154 / 162 ) and specificity of 92% ( 46 / 50 ) at a diagnostic accuracy of 94% ( 200 / 212 ) .
+WB-MRI revealed more metastases of the bone ( WB-MRI n = 69 versus PET - CT n = 63 ) , liver ( n = 70 versus n = 67 , Figs. 3 and 5 ) and showed an even performance for the detection of lung metastases ( both n = 15 , Table 4 ) .
+On a patient-basis , WB-MRI ( 1.5 T ) was false-positive in one patient indicating a focal bone metastasis not confirmed by follow-up .
+Full-size image ( 86K )
+Fig. 3. Forty-year-old woman with increased liver enzymes and suspicious mass in abdominal ultrasound. ( A ) Whole-body PET - CT shows a focal liver metastasis with increased FDG-uptake. ( B ) 3D-VIBE-MRI ( 1.5 T ) of the liver in portal venous phase confirms a large liver metastasis and shows additional multiple small satellite lesions. ( C ) Another focal liver metastasis ( 8 mm ) is found in a different liver segment ( arrow ) . ( D ) Only the large metastasis shows FDG-uptake in PET - CT , the small satellite lesions are masked by physiological background uptake of the liver. ( E ) The lesion described in a different liver segment by MRI is not visualized by contrast-enhanced CT. ( F ) Follow-up CT-imaging after 6 months reveals morphological increase of the lesion despite chemotherapy .
+View Within Article .
+Considering the full field of view of a WB-MRI examination , covering the body from head to the calves , a total of 11 additional focal malignant foci were found in five patients .
+Nine previously unknown brain metastases were described in four patients and two bone metastases in the distal femurs in one patient .
+In another patient , pathologic meningeal contrast uptake was described and confirmed as meningeosis carcinomatosa .
+Full-size image ( 106K )
+Fig. 4. Fifty-six-year-old woman with breast cancer and newly occurred neurological symptoms. ( A ) WB-MRI with T1-weighted TSE-sequence at 3 T with high contrast display of bone- , soft tissue and abdominal structures .
+No substantial artifacts , especially in the thorax or abdomen , are observed .
+Axial T1-weighted GRE-imaging of the brain post contrast shows well-defined multifocal small brain metastases in the medulla , right cerebellum ( B , arrows ) and pons ( C , arrow ) .
+In another , 56-year-old patient pre- and post contrast MRI of the brain shows pathologic meningeal contrast uptake indicating meningeosis carcinomatosa ( D and E arrows ) .
+View Within Article .
+Full-size image ( 114K )
+Fig. 5. WB-MRI at 3 T of a 69-year-old woman with breast cancer and newly occurred bone pain as well as elevated liver enzymes. ( A ) T1-weighted TSE-imaging of the spine shows small bone metastases down to 3 mm size ( arrow ) in multiple lumbar vertebral bodies. ( B and C ) High contrast STIR-sequence and contrast-enhanced fat saturated GRE-imaging depicts a large metastasis of the fourth dorsal lumbar body with infiltration into the right arch , facet joint and paravertebral soft tissue. ( D ) Corresponding PET - CT shows a pathologic FDG-uptake. ( E ) More small bone metastases are found at the right iliosacral joint and left iliac bone ( arrow ) . ( F ) Only the larger metastasis shows a visible osteolytic defect in MS-CT ( arrow ) . ( G and H ) T2-weighted respiratory-triggered imaging of the liver and thin-slice 3D-VIBE additionally reveal a liver metastasis in the right liver lobe at high resolution with a typical late venous-phase ring enhancement .
+View Within Article .
+Examination time for PET - CT was 103 min ( 60 min patient preparation , scan time 43 min ) .
+Total acquisition time for WB-MRI at 1.5 T was 51:49 min , mean room time was 60 min .
+At 3 T , total acquisition time for WB-MRI was reduced to 42:48 min at identical image resolution .
+Adding the time for axial STIR-imaging of the lung additionally performed at 1.5 T ( 1:01 min ) overall scan time at 3 T is reduced by 8:00 min .
+Mean room time was 51 min .
+4. Discussion .
+The basic imaging approach in the follow-up of breast cancer supported by the German Cancer Society to date consists of regular mammography and clinical examinations as well as symptom-orientated multi-modal imaging strategies  .
+This procedure by large is based on the assumptions from studies performed in the early 1990s , that an intensified after-care does not necessarily correlate with an increased survival benefit  .
+Unfortunately , this approach mainly comprises modalities with known poor sensitivity ( e.g. chest radiographs ) , examinations with strong examiner-dependent variation of sensitivity ( e.g. abdominal ultrasound ) or procedures with limited specificity , like bone scintigraphy  .
+Especially , in the last 10 years , numerous promising concepts have been developed for the therapy of metastasized breast cancer , including hormonal drugs and immune therapy , which indicate an improvement in patients progression-free survival .
+New surgical and interventional techniques for the management of unifocal metastases have demonstrated effectiveness of local therapeutic approaches and reported promising survival rates .
+Against this background , whole-body imaging modalities such as PET - CT or whole-body MRI appear as new promising tools to detect tumor recurrence with high accuracy in its initial stage and provide more effective therapeutic strategies to the patient  .
+In this study , we found a high prevalence of recurrent disease ( 61% ) and both FDG - PET - CT and WB-MRI showed a persuasive overall diagnostic accuracy ( each 91% ) for lesion-by-lesion detection of tumor recurrence .
+Previous studies have described the efficacy of both PET - CT and WB-MRI for cancer restaging , yet in most cases heterogeneous tumor cohorts were analyzed and recent studies on breast cancer restaging strategies only exist for PET - CT  .
+Radan et al. examined 46 women with a history of breast cancer and elevated tumor markers with FDG - PET - CT for follow-up .
+They reported a similarly high tumor recurrence in 65% of patients and an accuracy of 81% was observed for PET - CT  .
+A different group has described an even better performance for PET - CT with a diagnostic accuracy of 97%  .
+However , the patient history in this study was rather heterogeneous , consisting of women referred for primary staging , restaging as well as evaluation of treatment response , which limits result interpretation .
+In contrast , in our study a more homogeneous group of patients with an increased likelihood for tumor recurrence was analyzed , composed either of increased breast cancer marker levels ( CEA , CA 15 - 3 ) newly occurred clinical symptoms indicating recurrence or a suspicious finding within multi-modal aftercare .
+This may also explain the high tumor prevalence found in our cohort .
+So far , only few studies exist which directly compare PET - CT with WB-MRI concepts for tumor restaging and none have focused on breast cancer patients alone  .
+Still , the equally high diagnostic accuracy observed for both modalities in this subgroup of breast cancer patients correlates well with results from our previous study performed on a 1.5 T whole-body scanner for staging of different primary tumors with a comparable imaging concept and protocol  .
+In this initial report on 37 patients , we analyzed a total of 395 lesions resulting in an overall lesion-by-lesion accuracy of 88% for WB-MRI and 85% for PET - CT when calculated in retrospective with the given data .
+Our current findings for WB-MRI and PET - CT with regards to overall diagnostic accuracy ( 91% each ) were balanced and similar to the observations made in the pilot study mentioned above , yet with a tendency for slightly better performance of both modalities  .
+Probably , the heterogeneous tumor cohort of the initial analysis , with variations in biological nature of tumors , as well as contrast- and tracer uptake characteristics , may have been an influencing factor .
+On a patient-by-patient basis , one false-positive finding of local breast tumor recurrence was described by WB-MRI at 1.5 T in an otherwise healthy patient .
+A round enhancing mass adjacent to scar tissue was described in WB-MRI , but showed no tracer uptake in PET - CT and was inconspicuous on follow-up .
+Certainly , a time-effective and clinically feasible WB-MRI approach , as presented with our protocol and setup with supine position of the patient , makes it impossible to imply state-of the-art dedicated MRI of the breast and the lack of multi-phase contrast imaging and adequate breast compression in a WB-MRI concept impairs diagnostic accuracy for local tumor recurrence .
+Furthermore , the anatomic - metabolic information provided by a FDG - PET - CT scan is of advantage when interpreting a focal breast mass and it further enhances diagnostic accuracy of CT data alone otherwise suffering from low soft tissue contrast in the breast  .
+The use of additional metabolic information in PET - CT becomes more apparent when analyzing results for lymph node detection of our study .
+PET - CT ( n = 21 ) detected more lymph node metastases than WB-MRI ( n = 16 ) at a higher diagnostic accuracy ( 96% versus 75% ) .
+Especially , in typical anatomical regions of lymphogenic metastatic dissemination of breast cancer , like the mediastinum or along the internal mammarian artery , image quality may be affected by pulsation- or susceptibility artifacts in MRI , which potentially may be worsened at high-field conditions  .
+Additionally , smaller lymph nodes harboring micrometastases may impair diagnostic sensitivity of imaging based on morphological criteria alone .
+In a recently published study , introducing WB-MRI and MS-CT for the staging of lymphoma , the lack of sensitivity for the detection of small lymph node metastases ( 12 mm ) became evident with a reported decline of sensitivity for WB-MRI from 92% down to 67%  .
+Antoch_et_al.  compared WB-MRI and PET - CT in a pilot study for TNM-staging of 98 patients with various primary tumors and observed a superior diagnostic accuracy of 93% with FDG - PET - CT compared to 79% with WB-MRI for the assessment of correct N-stage , comparable to the observations made in our study .
+Several concepts are presently developed to enhance diagnostic accuracy for malignant lymph node detection .
+STIR-EPI-diffusion-sequences with adequate fat suppression ( DWIBS ) have proved to be promising for an enhanced display of pathologic lymph nodes at high resolution  .
+Muertz_et_al.  recently have showed feasibility of this technique as a whole-body application under high-field conditions with diagnostic image quality .
+They described a good correlation for lymph node metastases as depicted by DWIBS and those visualized by FDG - PET .
+Other authors have used the calculation of signal intensity ratios from TSE-STIR-images compared to a saline phantom and have reported excellent results for the detection of lymph node metastases in lung cancer  .
+Due to its excellent contrast in soft tissue and parenchymal structures , the main performance of WB-MRI certainly lies within the detection of distant metastatic disease , especially in abdominal organs , the brain and bone , which represent frequent routes of metastasis in breast cancer .
+Although both modalities performed very reliable for the detection of organ metastases , WB-MRI showed a higher diagnostic accuracy of 94% versus 90% for PET - CT .
+A similar trend has been reported in the previously described initial study for tumor staging performed by our group on a 1.5 T whole-body scanner , yielding an even lower performance for PET - CT with an accuracy of only 82% compared to 92% for WB-MRI  .
+In the current study , advantages especially for the detection of bone- ( n = 70 versus n = 67 ) and liver metastases ( n = 70 versus n = 67 ) were found , similar to observations made by Antoch_et_al.  for these sites .
+The combination of non-contrasted T1-weighted-TSE- and fat suppressed STIR-imaging , as used in our presented protocol , has proved to be most accurate for the detection of malignant bone marrow disorders and an excellent negative- and positive-predictive value , especially for STIR-sequences has been described in literature  .
+Recently , a study was performed with WB-MRI for bone marrow screening at 1.5 T compared to FDG - PET - CT , using the same total body matrix coil concept and resolution parameters .
+Within this study a significantly higher diagnostic accuracy ( 91% versus 78% ) was confirmed for WB-MRI , mainly due to a significantly higher sensitivity of WB-MRI  .
+Sensitivity of PET - CT can be impaired for smaller bone lesions showing no visible morphologic changes in CT or significant tracer uptake , especially for lesions below double the size of the spatial resolution of the PET-scanner ( which usually is 6 mm ) .
+In the mentioned study , indeed more small lesions ( 5 mm ) were detected by WB-MRI .
+However , it has to be stated that first generation dual-slice PET - CT scanners ( as used in this study and in the current analysis ) today have largely been upgraded with 16-slice-CT-components or more , which has significantly increased imaging performance and diagnostic potential due to enhanced resolution and high-quality multi-planar reconstructions .
+As a result , diagnostic accuracy for small sized lesions in organs with low soft tissue contrast or high density , like the liver and bone , is expected to increase .
+An excellent depiction of liver pathologies has been reported for multi-phase contrast enhanced 3D-GRE-sequences of the abdomen ( VIBE ) and a better performance , especially for small-sized lesions , compared to FDG - PET - CT  .
+WB-MRI and FDG - PET - CT showed an even performance for the detection of lung metastases ( both n = 15 ) .
+This may be an effect of the implementation of fast HASTE-imaging with PAT , which has proved to be highly efficient for the detection of small lung pathologies  .
+An important benefit of PAT is the significant reduction of blurring and increased sharpness of the image when single shot pulse sequences are used .
+At the same time , the length of echo train is reduced in tissue with high T2-decay , thus avoiding a loss of signal-to-noise ratio  .
+Fink et al have reported the technical feasibility of high-resolution lung MRI at 3 T and observed neither substantially different image characteristics nor significantly increased artifacts at high field conditions  .
+The highest CNR for nodules was found for VIBE and CNR for infiltrates for HASTE of the lung .
+Both sequences were implemented into our protocol and indeed images in all 10 patients examined at 3 T were fully diagnostic without noticeable impairment through artifacts .
+WB-MRI with its larger anatomical coverage compared to PET - CT ( skull base to proximal femurs ) revealed additional findings of prognostic importance .
+Previously unknown brain metastases were described in four patients and meningeosis was detected in another patient .
+Due to the high FDG-uptake of the CNS in the PET scan , cerebral pathologies can easily be missed in an FDG - PET - CT exam when the whole-body protocol is used .
+The fact that cerebral metastases are imaged with high resolution in WB-MRI is a clear advantage , especially in tumors that frequently spread to the CNS , like breast cancer .
+Schlemmer et al. have reported similar findings with a comparable protocol on the same multi-channel MR scanner at 1.5 T. A considerable number of additional diagnoses , including previously unknown cerebral tumor spread and soft tissue metastases , were made compared to MS-CT as the standard staging method .
+This lead to a change of therapy in 6 of 63 patients ( 10% )  .
+Our proposed protocol shows that PAT enables flexible state-of-the-art imaging protocols with various soft tissue contrast , image orientation , spatial resolution and contrast media dynamics within a clinically feasible examination time .
+Total scan time for WB-MRI at 1.5 T was 51:45 min and exams were tolerated well by all patients .
+Making use of the increased SNR and keeping identical resolution parameters , total scan time could even be further reduced at 3 T down to 43:49 min and no SAR-related patient discomfort was reported , thus introducing WB-MRI as an effective application for high field conditions .
+Several modifications on image parameters described in the methods section had to be performed to adapt the WB-MRI concept to high field conditions .
+In a preclinical step of platform migration our study group analyzed image quality criteria and artifacts between 1.5 and 3 T for the proposed protocol on 15 healthy volunteers using the same sequence- and resolution parameters  .
+Results showed a comparably good performance on both scanners with only slightly increased artifacts at 3 T , without significantly restraining influence on image quality .
+The fact , that on a patient-by-patient basis no differences for detection of tumor recurrence were found between WB-MRI at 3 T and PET - CT , is an indicator of successful introduction of platform migration into a clinical setting .
+A limiting aspect of this study was that unchanged resolution parameters for WB-MRI ( in order to trade SNR for further scan time reduction ) did not allow to analyze effects of an enhanced spatial resolution at 3 T on diagnostic accuracy .
+Especially , comparison of lesion-based diagnostic performance between both scanners was not possible due to unbalanced sample numbers and differing patient subgroups , which were not matched for lesion type and -occurrence .
+Furthermore , the lack of a histological proof as a true gold standard for the detected lesions and verification based on radiological follow-up alone represent another limiting aspect .
+With a reference standard based on imaging alone false-negatives may arise in small or slowly growing lesions in absence of significant morphological changes .
+On the other hand , comparable to numerous studies of similar design , obtaining multiple biopsies for tissue verification would have been impracticable and ethically unacceptable  .
+Altogether it is important to take in account that diagnostic accuracy of both imaging modalities can be considerably influenced by several conditions .
+On one hand , FDG-uptake is susceptible to chemotherapy , on the other hand , avital lesions after successful chemotherapy can remain virtually unchanged in morphology or signal on MRI .
+To minimize bias , we excluded all patients which had prior systemic chemotherapy or in between both examinations .
+In summary , the robust performance of WB-MRI and PET - CT may significantly improve diagnostic accuracy in breast cancer patients with suspicion of tumor recurrence and represent a promising alternative to multi-modality algorithms .
+As a consequence , patients might benefit from earlier and more accurate tumor detection and improved therapeutic options .
+Although PET - CT has advantages in the assessment of local tumor recurrence and lymph node detection , high-resolution WB-MRI scanners with the use of PAT show an excellent performance for the detection of distant metastatic disease .
+Finally , WB-MRI under high field conditions is clinically feasible with reduced examination time .
+Whether trading of SNR for further resolution enhancement at 3 T will have an impact on diagnostic accuracy has yet to be determined .

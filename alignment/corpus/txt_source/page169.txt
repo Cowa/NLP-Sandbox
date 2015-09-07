@@ -1,0 +1,326 @@
+The standard approach for small tumours combines breast conserving surgery and radiotherapy ( RT ) with long-term survival rates similar to those obtained with mastectomy .
+Randomised trials [ 2 , 40 and 45 ] have recently confirmed older data in that there is indeed a dose response relationship for local control [ 5 , 39 and 48 ] .
+A dose increase of 15 Gy reduces the local recurrence rates with RR = 0.5 , as well as after breast conserving surgery  or after breast conserving treatment with RT alone [ 1 and 51 ] .
+On the other hand , cosmetic outcome is inversely related to radiation dose [ 49 and 55 ] and boost volume [ 3 , 31 and 32 ] .
+Also , the appearance of skin teleangiectases is clearly dose related  .
+Brachytherapy is able to deliver high doses to small volumes confined to the tumour bed , while surrounding tissues , including the overlying skin , can maximally be spared .
+However , the technical performance of brachytherapy is critical .
+Poor quality brachytherapy will lead to unacceptable outcome for local control and cosmesis as well .
+This paper provides an overview of the indications for brachytherapy in breast cancer .
+We will critically evaluate the localisation procedures and technical details that have to be followed to obtain the desired results .
+2. Indications for brachytherapy in breast cancer2.1 .
+Boost irradiation of the primary tumour site
+The main indication for brachytherapy in breast cancer is for boost irradiation of the primary tumour site after breast conserving surgery and external beam irradiation of the entire breast .
+This breast conserving surgery is nowadays offered as a standard treatment in T1 - T2 cancers when breast volume and tumour site allow adequate surgical removal of the tumour without causing unacceptable mutilation .
+In practice , this approach is feasible in most tumours that are less than 30 mm in diameter and up to 50-mm tumours in the upper outer quadrant of a large breast .
+Boosting the tumour bed after complete or incomplete resection and 50 Gy whole breast irradiation has been demonstrated to significantly decrease the local failure rate .
+Retrospective studies [ 5 , 39 and 48 ] as well as prospective randomised trials [ 2 , 39 and 45 ] , have shown a reduction in local recurrence by a factor 2 when a boost dose of 15 Gy is delivered .
+However , increasing boost doses decreases the final cosmetic outcome [ 49 and 55 ] .
+Fibrosis and resulting cosmetic damage is also boost volume dependent [ 3 , 31 and 32 ] .
+Borger et al. calculated that a doubling of the boost volume could lead to a decrease of 11% in tolerance dose for severe fibrosis .
+Skin teleangiectasia is another problem that may spoil the cosmetic outcome .
+The tolerance of skin vessels to develop late teleangiectasia is rather low , since 50 Gy delivered to those vessels causes visible teleangiectasia in up to 30% of patients  .
+Therefore , it seems important to reduce the irradiated volume by adapting it closely to the clinical boost target volume and to spare the breast skin as much as possible .
+To reach this goal , interstitial boosts can be preferred to external beam boosts with electrons or photons in the case of deeply seated tumour sites .
+Theoretical calculations comparing skin doses of different geometrically configured implants with 4.5 - 15 MeV electron beams were carried out by our group  and confirmed in a retrospective clinical analysis  .
+We concluded that when the CTV extends deeper than 28 mm under the epidermal surface , implants have a higher ballistic selectivity in terms of the volume of the irradiated breast tissue and dose to the skin blood vessels than electron beam boosts .
+Full-size image ( 4K )
+Fig. 1. Different boost modalities in breast conserving treatment .
+For deeply located tumours , brachytherapy offers the possibility to treat less non-target breast tissue and to spare the skin .
+View Within Article
+In case of a high risk of local recurrence ( e.g. in case of positive section margins ) and if a higher boost dose is planned , the ballistic advantage of an interstitial implant over electron beams is even more important .
+2.2. Boost irradiation of the primary tumour site after neo adjuvant systemic chemotherapy and / or external radiotherapy
+Another indication for interstitial brachytherapy is as a boost irradiation of the primary tumour site after neo adjuvant systemic chemotherapy and / or external RT in tumour non-amenable to primary conservative surgery .
+This approach is feasible in case of a clinical complete or partial remission of a tumour 30 - 70 mm in diameter , non-metastatic or with limited nodal extension , which are usually treated by mastectomy .
+Interstitial brachytherapy boost after whole breast irradiation has been shown to provide significantly higher local control rate than electron or cobalt beam boost in retrospective  and randomised studies  .
+In case of partial remission , conservative resection of residual tumour can be carried out before implantation  .
+It has also been recommended as a boost method in the treatment of locally advanced breast cancer after primary chemo- or hormonotherapy and external beam irradiation  .
+2.3. Postoperative interstitial irradiation alone
+A recently advocated procedure is postoperative interstitial irradiation alone of the primary tumour site after breast conserving surgery in selected low risk T1 and small T2N0-1 breast cancer [ 26 , 36 and 54 ] .
+Since the follow-up of this new approach is rather short , this treatment should still be reserved for randomised trials only .
+2.4. Thoracic wall irradiation
+Thoracic wall irradiation with a moulded cast is used to heat breast cancer recurrences after mastectomy and previous irradiation to the thoracic wall .
+Limited recurrences can also be treated by interstitial implantation , definitively or after surgical resection  .
+3. Contraindications for brachytherapy in breast cancer
+The following clinical situations are contraindications for interstitial breast implant :
+- multicentric breast cancer ;
+- Paget' s disease alone or in association with a breast lump ;
+- poor cosmetic outcome after the previous breast conserving surgery , since there is no rationale to use complex techniques to obtain optimal cosmetic outcome ;
+- locally advanced breast cancer with extensive skin involvement , invasion of the thoracic wall or mastitis carcinomatosa ;
+- metastatic disease making long-term local control not an obligate goal ;
+- for thoracic wall recurrences , target areas larger than 40 cm2 or lesions thicker than 5 mm for the thoracic wall mould technique .
+4. Technical aspects of brachytherapy for breast cancer4.1 .
+Clinical work up
+Clinical examination , with measurement and documentation of the localisation of the tumour mass with pictures in supine position , mammography , ultrasonography and if indicated , MRI are mandatory to document local tumour extension .
+Diagnosis of malignancy should be documented by fine needle aspiration cytology , core biopsy or microscopic examination of the resection specimen .
+Nodal and distant spread has to be investigated and the tumour stage assessed according to the UICC TNM classification .
+The breast surgeon , radiation oncologist and if indicated , a medical oncologist jointly make the decision for the modalities of breast cancer treatment .
+In case of breast conserving surgery , it is advocated to ask the surgeon to mark the tumour bed with four to six clips indicating the craniocaudal , mediolateral and anteroposterior limits of the resected volume. In case of doubt of residual microcalcifications , a postoperative mammography has to be carried out .
+In case of initial treatment with systemic neo adjuvant hormono- or chemotherapy , and / or external beam RT , regression and localisation of possible residual disease also has to be documented by mammography , ultrasonography , or MRI .
+4.2. Definition of the clinical target volume
+The PTV for the primary site boost irradiation in breast conserving treatment is defined by a rim of 20 - 30 mm breast tissue surrounding the primary tumour , since this area contains 80% of the microscopic tumour extensions around the primary tumour  .
+This means that a safety margin of breast tissue of 15 mm may be adequate after complete tumour excision .
+In case of incomplete resection , a safety margin up to 30 mm may be more appropriate .
+In most cases , these margins include a large amount of ducts in the clinical boost target volume in the direction of the nipple .
+Breast skin or tissues beyond the fascia , such as thoracic wall muscle or ribs , are never CTV for boost irradiation in T1 or T2 breast cancer since there is no significant amount of tumour cells supposed to be left there in deeply seated tumours .
+In superficially located tumours , the overlying skin is usually surgically removed with the tumour , and the residual skin does not have to be boosted .
+On the contrary , irradiation of the skin should be carefully avoided to prevent the occurrence of late skin teleangiectases .
+When a dose of 50 Gy is delivered to the skin vessels , late teleangiectases may occur in 30% of cases  .
+Vessels may have already received 20 - 40 Gy from the breast irradiation , depending on the photon energy and the beam angle .
+Therefore , there is usually only a small dose amount left in skin vessel tolerance for teleangiectases .
+4.3. Localisation of the PTV
+Although some experienced brachytherapists , based on their clinical experience and stereotactic intuition , might be able to do freehand implantations , it is advised to use one of the following techniques to precisely localise the PTV and the breast skin , the latter being a critical organ for cosmesis :
+- implants can be carried out during surgery .
+This allows direct sight to the CTV and appropriate covering of it by the implant .
+On the other hand , the positioning of the sources in relation to the overlying skin may be less precise , since the skin is closed over the implant when the source carriers are already fixed in the breast tissue ;
+- when implants are carried out postoperatively , haemoclips can help the radiation oncologist to localise the target area and estimate the depth of the PTV under the overlying skin [ 21 , 33 , 42 and 43 ] .
+This helps to define the dimensions of the boost volume as well as the choice between electron beam boost and interstitial implant  .
+Usually , five clips are placed : cranial , caudal , left and right to the excision cavity as well as at the deepest point of the posterior resection margin .
+With the help of these clips , the target centre , as well as the inclination of the needles , can be defined with a conventional or with a CT-simulator , and entrance , and exit points can be marked on the skin ( Fig. 2A,B ) ;
+- when clips are lacking , it is still possible to localise the target volume isocentre with a clinical 3D reconstruction , starting from the frontal and lateral views of the pretreatment mammogram and the preoperative pictures taken in supine position .
+Although the surgical intervention may displace the target area according to the preoperative situation , especially when large resections or remodelling have been performed , clinical experience and control ( see point 2 ) have proved that this method is quite reliable in localising the PTV in the breast .
+- First , the position of the tumour centre ( TC ) relative to the nipple is measured on the frontal and lateral views of the affected breast .
+On the frontal , the depth from the tumour centre to the nipple DF and the distance from the breast midline in medial or lateral sense ( ML ) has to be measured .
+On the lateral view , the depth DP and the cranial - caudal distance from the nipple position CC has to be measured .
+- These distances are then transferred to the patient , while the breast is compressed in the same way as for mammography ( no correction for magnification needed ) .
+With frontal compression , the distance ML is marked medially or laterally from the nipple and the depth DF both at the upper and underside of the breast .
+Then , with lateral compression , the craniocaudal distance from the nipple CC is marked and the depth DP at both sides of the breast is marked .
+The position of the TC is reconstructed by drawing the equator plane through the four depth points ( two DF and two DP ) and orthogonal lines through ML and CC .
+- Ultrasonography , CT and MRI may also be used for locating the tumour area more precisely and possibly reducing side effects and breast recurrences by eliminating geographic misses [ 33 , 42 and 43 ] .
+By means of CT and marker clips , it has been possible to further reduce the volume of the boost and further improve local control rates  .
+Full-size image ( 13K ) Full-size image ( 8K )
+Fig. 2. Use of marker clips to localise the boost target volume and simulate entrance points of guide needles at the skin of the breast ( with the courtesy of H. Jacobs ) .
+View Within Article
+Full-size image ( 11K ) Full-size image ( 13K )
+Fig. 3. Use of mammography in defining the boost target localisation in breast conserving treatment .
+View Within Article
+Full-size image ( 15K ) Full-size image ( 16K ) Full-size image ( 14K ) Full-size image ( 14K )
+Fig. 4. Defining the implantation isocentre and definitive needle entrance and exit points at the skin for a breast implant .
+Reconstruction boost target isocentre from mammography , by simulator , or CT .
+The indicated entrance points are too close to the target volume ( A ) .
+Inclination of the implantation equator plane away from the target to avoid an overlap of the boost PTV and needle exit points at the skin ( B ) .
+Indication of new entrance and exit points , further away from the boost CTV , to avoid skin teleangiectases ( C ) .
+Occurrence of severe teleangiectasic stars' at skin entrance or exit points if rules for implementation are not followed ( see text ) ( D ) .
+View Within Article
+Full-size image ( 16K )
+Fig. 5. Use of CT and clip localisation for localising the boost PTV ( with the courtesy of J. Hammer ) .
+View Within Article
+In some cases , after localisation of the PTV and planning of the needle positions , the presumed entrance or exit points may be too close to the target area .
+Then , it may be advised to change the inclination of the equator , so that the target area and the skin points get sufficiently separated ( Fig. 4B,C ) and the occurrence of star-like radiation teleangiectasia at exit and entrance points ( Fig. 4D ) is avoided .
+For the same reasons , the direction of the needles can be turned in a frontal plane , for example , in axillary tail lesions to get more separation between the PTV and exit points of the needles .
+4.4. Anaesthesia
+Breast implants can easily be carried out under local anaesthesia and premedication with 2.5 - 5 mg midazolam ( Dormicum ) given 15 - 30 min before the implantation .
+General anaesthesia is , in our experience , seldom required ( 0.5% of patients ) , but can be preferred in patients with bilateral breast cancer or in very anxious patients .
+The patient is placed in supine position with the homolateral arm in 90 abduction .
+After the design of implant geometry and localisation of entrance and exit points of the needles , the skin is infiltrated at each point with 0.5 - 1 ml 1% lidocaine .
+The breast tissue itself needs no anaesthesia , except when a needle is passing through the retroareolar region .
+In such cases , an extra 1 - 5 ml can in case of pain be infiltrated in that area of breast tissue .
+4.5. Design of the implant geometry
+Once the tumour centre is localised , and the three dimensions of the clinical target volume and the PTV ( length , width , and thickness ) are defined and delineated on the patient' s skin , the implant geometry is designed according to the rules of the Paris System  .
+Needles are implanted parallel and equally distant from each other .
+In most cases , they are inserted in a mediolateral direction .
+However , in very medially or laterally located tumour sites it might be advisable to implant in a craniocaudal direction to enable adequate PTV covering without having source positions in the breast skin .
+In some rare cases , the upper outer quadrant has to be implanted with needles orientated in a 45 angle to avoid overlap of source positions and skin ( see above ) .
+Two planes of needles are usually needed to cover the PTV .
+A single plane may be sufficient in case of a flat breast ( target thickness of less than 12 mm ) .
+Three planes are rarely required except in a large breast ( target thickness of more than 30 mm ) , when the targeted breast tissue between pectoral fascia and skin is thicker than 30 mm .
+If two or more planes have to be implanted , needles are disposed either in a triangle or a square pattern .
+When the PTV extends close to the skin , a triangular configuration is better than a square configuration adapted to follow the breast skin contour .
+This is the case in very cranial or caudal located PTV in regular implants , or in very medially or laterally located PTV when craniocaudal orientated implants are carried out .
+Number and spacing between needles is chosen to adequately cover the width and the thickness of the PTV .
+Five to nine needles spaced 15 - 20 mm are usually required .
+4.6. Implantation techniques4.6.1 .
+Guide needle technique
+After decontamination of the skin and local anaesthesia , a reference needle is first implanted at the posterior ( deepest ) side into the centre of the PTV .
+By performing implants either by freehand or helped by the methods described in Section 4.3 , it is always possible to control the position of the first implanted needle relative to the inner scar .
+This is possible by moving the tip of the needle up and down in the scar .
+This causes a visible retraction of the scar at the skin while moving with the needle .
+For definitive positioning , the needle should pass about 5 mm behind the internal scar .
+The other needles of the posterior plane are then implanted parallel to the first one .
+Spacing templates are disposed around the posterior plane of needles .
+Then , the superficial plane of the needles is implanted through the corresponding holes in the templates .
+It is important to maintain a sufficient distance between the superficial needles and the overlying skin .
+To avoid overlap of the high dose region around the needles ( , MSM : maximal security margin  ) and the skin vessels located in the first 5-mm under the skin surface , a minimum skin-source distance , has to be respected .
+This distance depends on source configuration and spacing between needles , and corresponds to 0.4 spacing + 1 mm for single plane implants , 0.4 spacing for squares , and 0.4 spacing - 1 mm for triangles ( Fig. 7 ) .
+To verify this distance , the use of a skin-source measuring bridge is recommended [ 50 and 53 ] .
+Full-size image ( 5K )
+Fig. 6. Positioning of the MSM around an interstitial implant at 5 mm under the epidermis ( from Van Limbergen et al. , 1990  ) .
+View Within Article
+Full-size image ( 8K )
+Fig. 7. Linear relation of the MSM to source spacing distance ( S ) for single plane and double plane in squares or triangular geometry .
+MSM = 0.4 ( S + 1 ) for single plane , 0.4 S for double plane squares , and 0.4 ( S - 1 ) for triangles ( from Van Limbergen et al. , 1990  ) .
+View Within Article
+Full-size image ( 9K )
+Fig. 8. The source skin measuring bridge ( Van Limbergen et al. , 1950  ) .
+View Within Article
+If the superficial needles are too close to the skin , the templates are moved towards each other so that the overlying skin moves up and away from the needles .
+If this is not sufficient , templates with a smaller spacing between the needles are used , resulting in compression of the breast tissue and upward movement of the skin .
+If this is still not sufficient , needles have to be replaced or irradiation of the overlying skin has to be accepted , depending on the clinical situation .
+Once the implant is approved , and the needles immobilised to the templates by fixation buttons , the position of the target centre ( TC ) related to the implant ( distance to the needlepoint or entrance ) has to be measured and recorded .
+The minimum distance from the skin above the implant is recorded as well , and the critical positions of the skin at the exit and entrance points of the needles ( the medial and lateral epidermal points ) are also measured relative to the needle ends .
+In case of open tip needles that will be manually after loaded by iridium wires , it is advised to crush the needle at the tip to occlude the lumen for facilitating and securing the loading by preventing dummy wires and active sources to sort .
+Finally , some gauze is disposed between the templates and the skin of the thoracic wall at both sides of the implant to avoid skin necrosis secondary to continuous pressure of these templates .
+4.6.2. Plastic tube technique
+Guide needles may be replaced by plastic tubes immobilised by buttons at both sides of the breast .
+The main advantage is that it is probably better tolerated by the patient , but it is more difficult to contain the optimal geometry with parallelism , constant inter needle spacing and verifiable distance to the overlying skin .
+4.7. Dosimetry and optimisation of dose distribution
+Source lengths and spacing have to be adequate to cover the PTV .
+Spacing and number of needles were calculated prior to the implantation , according to the Paris System rules  .
+The length of the sources has to be adapted to the length of the PTV , which has to take the position of the skin vessels also into account .
+These vessels are , as mentioned above , no target volume at all for boost irradiation .
+For sources with equal linear activity , sources should be 1.43 times longer than the PTV .
+With stepping source PDR or HDR afterloaders and using geometrical optimisation , this source / target length ratio can be reduced to 1.18 , which reduces the active source length of 15% which is required .
+This allows adequate covering of the target , without loading source positions that are very close or even inside the skin .
+For this , the following data have to be entered into the planning system , using projection images ( radiographs ) or sectional images ( CT images ) and dummy sources :
+- the central dose points in the implant at the level of the target centre ( TC ) , measured from the hollow or pointed end of the implantation needles ;
+- the medial and lateral edges of the PTV : for example , if we want to treat 15 mm from a primary tumour of 20 mm , the edges of the PTV will be 25 mm at both sides of the central dose points .
+These lateral and medial target limits can either be drawn on the simulator films or defined mathematically in the planning system by shifting the coordinates of the central dose points medially and laterally along the needle direction ;
+- the critical dermal dose points : these points are situated 5 mm deeper than the epidermal entrance and exit points , measured at the time of implantation .
+Also , these points can be entered by digitising simulator films or directly into the planning system ;
+- overlying skin points , using either a metal wire fixed to the skin in the central plane or a metal marker at those points where the skin surface seems to be closest to the active sources  .
+Again , reference dermal points are situated 5 mm deeper .
+Full-size image ( 15K )
+Fig. 9. X-ray film of a interstitial breast implant .
+The boost target centre ( TC ) , lateral ( LDP ) and medial ( MDP ) dermal points are indicated for dose planning .
+View Within Article
+The dose is prescribed at an isodose usually representing 85% of the mean central dose .
+The dose to the dermal points should not exceed the prescribed dose to the PTV .
+If so , it is a clinical decision either to accept the source positions and having a higher risk of creating late teleangiectasic stars at the entrance or exit points of the needles or at the overlying skin or to spare the skin while accepting a smaller safety margin .
+This can be achieved as follows :
+- with classical low dose rate , by reducing source length to decrease the dose at entry points or with a partial withdrawal of the sources to reduce the dose to the overlying skin ;
+- with stepping source afterloader implants , using the geometrical optimisation facility ; with geometrical optimisation , skin doses are lowered at the needle exit points , while the target length is retained unchanged in most cases ;
+- another solution could be not to load source positions into the skin but two to three positions outside the skin , still allowing a better coverage of the lateral limit of the target , while avoiding hot spots in the skin itself .
+5. Prescription of dose , dose rate , fractionation
+LDR , PDR , as well as HDR brachytherapy is feasible in interstitial brachytherapy for breast cancer .
+Using LDR or PDR as a boost , a typical dose of 15 Gy is given after complete resection and 45 - 50 Gy whole breast irradiation .
+After incomplete resection , a dose of 20 - 25 Gy could be recommended .
+In definitive non-surgical treatment , this boost dose may escalate to 25 - 30 Gy .
+The recommended dose rate is 60 - 80 cGy h - 1 for LDR [ 8 and 30 ] and 0.6 - 0.8 Gy pulses every hour for PDR .
+Typical HDR boosts after resection of the tumour and 45 - 50 Gy whole breast irradiation use 10 Gy in one fraction or doses up to 20 Gy in four to six Gy fractions  .
+Assuming an /-ratio of 10 Gy for acute reactions , this corresponds to 18.6 Gy in two Gy fractions per day .
+Assuming an /-ratio of 3 Gy for late effects , this corresponds to 27.6 Gy in two Gy fractions .
+In brachytherapy alone , performed in selected cases after complete surgery , the recommended dose is 45 - 50 Gy LDR / PDR delivered in 96 h or 32 Gy in eight HDR fractions in 4 d [ 26 and 54 ] .
+6. Results of brachytherapy and comparison to other boost modalities
+Recently , three randomised trials [ 2 , 40 and 45 ] have confirmed the hypothesis based on retrospective studies  that an increase in dose may lead to a decrease in local recurrence rates by a factor 2. The absolute impact , however , seems to be higher in women under 40 years old ( LR 10.2% with boost vs. 19.5% for no boost ) than in postmenopausal women ( LR 2.8% with boost vs. 4.6% without boost )  .
+On the other hand , poor cosmetic outcome has also been correlated with radiation dose to the breast skin ( radiation teleangiectases ) and breast tissue ( retraction due to fibrosis ) ; the latter depending not onlyon RT doses but also on the treated boost volume.
+Analysis of the Leuven data showed an upward nipple retraction of 1 mm on the average for every Gy above 50 Gy  .
+Several groups have also indicated the influence of boost volume on cosmetic outcome [ 3 , 31 and 32 ] .
+Data reported by the Amsterdam group relate the incidence of severe fibrosis to the boost volume : every doubling of the boost volume ( starting from 50 ml ) shifted the tolerance dose for severe fibrosis with 11%  .
+For developing skin teleangiectases , the tolerance dose is rather low : a dose of 50 Gy delivered in 2 Gy fractions to these vessels results in teleangiectases in 30% of the cases  .
+These vessels are located in the first 5 mm of the breast skin beneath the epidermis  .
+Depending on the energy and the beam angle of the photon beam , these vessels already receive 20 - 40 Gy from whole breast irradiation .
+Therefore , the contribution of the boost to skin dose should be kept minimal .
+Different methods for boosting the tumour bed are available for the radiation oncologist .
+External beam irradiation with reduced field photon beams , electron beam , intraoperative electron beam radiation , interstitial implants either peroperatively or postoperatively performed and recently also IMRT .
+The choice is often based on the personal preference and training of the radiation oncologist involved or on the available infrastructure in the hospital .
+In many cases , patients in the same hospital receive a boost with the same treatment technique .
+However , the choice should rather depend on objective individual patient characteristics such as the size of the breast and the size and localisation of the target volume. In case of deeply seated tumours , it can be theorised that techniques such as interstitial implants or IMRT might offer a potential advantage because of better adaptation of the treated volume to the target .
+In those cases , smaller volumes can be treated and lower skin doses delivered compared to standard external electron beam boost .
+Analysis of irradiated boost volumes in the EORTC boost vs. no boost trial ( unpublished data , 1995 ) and from the Graz-Linz study [ 18 and 19 ] indeed shows a threefold volume decrease in patients treated by interstitial implants as compared to external beam techniques and implants .
+Despite the lower boost volumes treated with BT , no decrease in local control rate was observed in the studies concerned [ 18 and 19 ] , data presented at the ECCO meeting in Istanbul 2000  , and Bartelink personal communication at the GEC-ESTRO Breast Consensus Meeting in Stresa , 2001 .
+So if appropriately applied , interstitial boosts can treat the boost PTV more conformably and reduce the amount of non-target breast tissue in the boost irradiation without jeopardising local control .
+On the other hand , the skin sparing effect of an interstitial boost depends on the depth of the boost PTV : depth determines the choice of the electron beam energy , and the fall-off dose to the skin vessels of the implant .
+The poor cosmetic outcome related to high-energy electron beam boosts was already recognised in 1983 by Ray and Fish  .
+They found irradiation with a 12 MeV or higher energy electron beams to be the most significant parameter related to poor cosmetic outcome .
+Also , at Guys Hospital , the incidence of late skin teleangiectasia was only seen in patients who received skin doses above 50 Gy  .
+These data confirm the experimental work of Turesson and Notter  that appearance and degree of skin teleangiectasia is dose dependent ( Table 1 ) .
+Table 1. Incidence of grade 1 - 3 teleangiectasia in the skin at 5 years , as a function of dosea
+Full-size table ( 2K )
+a Adapted from Turesson and Notter  .
+View Within Article
+Depending on the energy of the photon beam and the beam angle , the skin vessels in the build up zone of the tangential fields will receive 40 - 80% of the target dose , i.e. 20 - 40 Gy which is already at the limit of tolerance dose of grade 1 teleangiectasia .
+Any additional irradiation by the boost may be enough to pass the tolerance limit .
+We calculated that for target depths deeper than 28 mm beneath the epidermis , electron beam with energy higher than 9 MeV deliver more than 90% of the target close to the skin vessels .
+This offers the possibility to reduce the incidence of teleangiectasia when the sources are implanted at a sufficient distance from the epidermal surface .
+By doing so , the Leuven group was able to reduce the incidence of skin teles on patients with a 15 Gy implant from 51% to 4.6%  .
+Despite the theoretical advantage of delivering a highly conform boost to the tumour bed , with reduction of unnecessary treatment of non-target breast tissue and skin , the data from the literature , particularly the cosmetic outcome data are not always supporting this concept ; the main reason being probably a non-precise positioning of the boost to the target and to the breast skin at least in the oldest reported series .
+6.1. Local control rates
+Table 2 shows the local control rates reported after external beam boosts and interstitial implants .
+Table 2. Local control rates after brachytherapy boost , compared to external beam boost in breast conserving treatment
+Full-size table ( 17K )
+aGroups not strictly comparable : implanted patients were younger ( 91% below 50 years old vs. 70% below 50 years old for electrons ) and less frequently treated with quadrantectomy .
+bAll points had close margins 2 mm , but implanted patients had , were younger 51 vs. 62 years old ( P 0.0001 ) .
+cRandomised trial .
+View Within Article
+Most studies such as the retrospective analysis by Mansfield_et_al.  and Hammer_et_al.  , and a randomised trial published by Fourquet_et_al.  , show better local control for implanted patients .
+Also , in the EORTC boost vs. no boost trial subgroup , analysis showed a non-significant but probably better local control rate in implanted patients ( 2.5% vs. 4.5% , P = 0.09 ) , but patients were not randomised for boost modality in this large study ( data presented at the ECCO meeting in Istanbul 2000  ) .
+Touboul_et_al.  found a non-significant difference in local failure rate .
+These were 8.1% for 10 years for interstitial and 13.5% for electron boosts ( P = 0.32 ) .
+However , both groups were not strictly comparable : implanted patients were younger ( 91% below 50 years old vs. 70% below 50 years old for electrons ) and less frequently treated with quadrantectomy , both factors being known as crucial for local control .
+Only the data from Wazer_et_al.  suggest a worse outcome of implanted cases , although not significant .
+In this small series , with a very unbalanced risk profile , implanted patients were also markedly younger ( 51 years old ) than non-implanted patients ( 62 years old , P = 0.00001 ) .
+These apparent better local control rates , and this despite the smaller boost volumes treated , could be explained by several hypotheses .
+It could be attributed to the higher nominal and biological effective doses that are delivered by an implant , or may be better boost localisation methods ( see above ) used in brachytherapy in contrast to positioning of electron beam boosts .
+Anyway , the nominal dose to an electron boost is the maximum dose , the target being encompassed by the 85% peripheral dose .
+In interstitial brachytherapy , the nominal dose is at the minimal peripheral dose ( usually 85% of the mean central dose ) and is steadily increasing towards the implanted sources .
+The prescribed dose is also delivered in a very short total treatment time instead of 10 d or more .
+The time factor is indeed important in obtaining local control in breast cancer .
+Mazeron_et_al.  reported a significant effect of dose rate on local control .
+Five-year local control was 84% with dose rates higher than 50 cGy h - 1 and 74% for lower dose rates .
+These authors recommended a dose rate of 60 cGy h - 1 to maximise local control .
+Deore_et_al.  reported 289 cases and found a significant increase in local failure rate when LDR dose rates were below 30 cGy h - 1 , they noted 24% local failures vs. 5 - 9% for higher dose rates up to 160 cGy h - 1 ( P 0.05 ) .
+There were also significantly more complications and poor cosmesis observed if dose rate exceeded 100 cGy h - 1 ( P 0.05 ) .
+A dose rate of 60 - 80 cGy h - 1 is , therefore , currently advocated as probably being the optimal dose rate for LDR and PDR  brachytherapy .
+6.2. Cosmetic outcome
+For cosmetic outcome , the data are less consistent than those for local control rates .
+Table 3. Cosmetic results after brachytherapy boost , compared to electron beam boost : retrospective studies
+Full-size table ( 25K )
+E , excellent ; G , good .
+a EL pts received whole breast RT with cobalt 60 , IS pts with 6 MV Linac .
+View Within Article
+The earlier reports on cosmetic outcome after interstitial implants came from the early experience in the USA .
+They have put the use of iridium implants in breast conserving treatment somewhat in disgrace .
+Ray and Fish  reported their first experiences with 23 patients in 1983 and compared cosmetic outcome to those in 107 patients treated with electron beams .
+It might be assumed that technical performance in their early experience was not optimal and correct skin-source distances , might not have been maintained according to what has been proposed later on as a logical strategy to improve cosmetic outcome  .
+In 1986 , Fowble_et_al.  reported in an abstract on worse cosmetic outcome in interstitial boost patients , but there was a major difference in follow-up time which was only 29 months in the electron beam group vs. 54 months in the iridium group .
+It is clear that at least a follow-up time of 36 months is needed to evaluate late effects of radiation on breast retraction  and skin damage  and that imbalance is in favour of the electron beam patients with the very short follow-up .
+Olivotto_et_al.  , reporting on the early Harvard experience , noted a significant worse cosmetic outcome with interstitial boosts ( 58% excellent results ) than with external beam boosts or if no boost was given ( 85% excellent results , P 0.03 ) .
+This might have been related to the volume implanted and dose delivered , which were both significantly higher in the implanted group .
+de la Rochefordière_et_al.  , and Taylor_et_al.  found no differences between both boost types , but the cosmetic result in their series was influenced primarily by the surgical technique ( resected breast volume , scar orientation and skin resection ) and by the use of concomitant chemotherapy .
+Fourquet  and Perez_et_al.  also did not find significant differences , while Touboul_et_al.  had worse outcome with implants .
+However , in this study , implanted patients received whole breast beam RT with 60Co , while electron beam boost patients had whole breast RT delivered by a 4 - 6 MV linear accelerator which leads to better dose homogeneity and lower skin doses  .
+Sarin_et_al.  and recent publications by Wazer_et_al.  and Hammer_et_al.  found the cosmetic results after interstitial brachytherapy to be superior to external boosts with less fibrosis and skin teleangiectases .
+In the Graz-Linz series , it is interesting to note that the significant decrease in fibrosis ( from 29% for electron beam boost to 17% for implants ) was consistent with a threefold reduction of the treated boost volume ( from 70 - 130 ml in electrons to 21 - 64 ml for brachytherapy ) .
+Furthermore , there was also a significant reduction in radiation teleangiectasia ( from 28% for electrons to 9% for implants ) , leading to good and excellent results in 88% of brachytherapy boost patients and 70% in electron beam boosts ( P 0.001 ) .
+6.3. Impact of boost localisation techniques
+Breast irradiation is usually performed in a postoperative setting .
+To be able to localise the boost target area , the radiation oncologist should have knowledge of exact size and location , by a careful clinical description , preoperative mammogram , ultrasound , or detailed pathological report on tumor size and free margin' s width etc.
+The surgeon should make his incision directly over the tumour bed and placement of surgical clips might help to localise the target volume  .
+The use of postoperative ultrasound or CT may improve the localisation precision , and reduce side effects and possibly breast recurrences by eliminating geographic misses localisation boost [ 20 , 33 and 43 ] .
+By means of CT and marker clips , it has been possible to reduce the volume of the boost and to apply the boost with increasing accuracy and further improving local control rates .
+Hammer  reported a reduction of the 5-year local failure rate in T1 and T2 stages , from 5.1% ( without clips ) to only 3.4% ( with clips ) .
+At the same time , they were able to further reduce boost volumes from 39 ml ( range 21 - 64 ml without clips ) to 29 ml ( range 21 - 40 ml with clips ) .
+However , the increase in local control may also have been due to an improvement in the surgical methods and in pathological evaluations .
+In addition , the indications for pre- and postmenopausal systemic therapy have been extended in the last few years and this could also have contributed to improve treatment results .
+Intraoperative boosts have been advocated to improve the localisation of interstitial implants [ 22 and 29 ] , but has not resulted in better local control rates ( 5.1 - 7% 5 year failure rates ) and certainly no better cosmetic outcome .
+Hennequin at the GEC-ESTRO teaching course in Paris ( 2001 ) reported 79.5% excellent cosmetic results after postoperative HDR implants vs. only 54% after preoperative implants .
+Based on the same concepts of ballistic selectivity , treated boost volumes and skin doses delivered by external beam , RT can also be improved by intraoperative EBRT or IMRT .
+However , until now , for breast cancer , there are no mature data available that have demonstrated any advantage over local control or cosmesis .
+6.4. Brachytherapy only after breast conserving surgery
+Recently , brachytherapy alone after breast conserving surgery has been put forward as a potentially very attractive technique because of being time and money sparing .
+However , the use of this wide field interstitial brachytherapy as the sole radiation treatment after breast conserving surgery , without whole breast irradiation is still very controversial .
+The rationale for the irradiation of only a limited volume is based on the observation that selected low risk patients may have a very low risk of multifocal disease in the breast .
+These patients might not need a whole breast RT .
+In the well known study by Holland_et_al.  , it was demonstrated that after removal of the primary mass , residual tumour was still present in 42% when a margin of 2 cm was taken , 17% beyond a margin of 3 cm , and 10% beyond 4 cm .
+However , in a later study , the same group  concluded that in patients where no extensive intraductal component was present , only 2% had residual disease beyond a 2 cm margin .
+In a similar study by Gump  , residual tumour was found in only 12% beyond a 2-cm margin in selected patients with tumours less than 2 cm and excluding invasive lobular and EIC positive cancers .
+The early results in unselected patients , however , were not encouraging .
+Local recurrence rates of 15 - 37% with a follow-up from 1.5 to 8 years have been noted  .
+However , there is some indication that this approach might possibly be of value in strictly selected low risk patients over 50 years old , with low or moderate grade T1 - T2 with negative section margins and no presence of an extensive component of intraductal carcinoma ( Table 4 ) .
+Table 4. Local failure rates after brachytherapy alone as sole treatment modality after breast conserving surgery in selected patients : review of the literature
+Full-size table ( 12K )
+View Within Article
+Initial findings of these trials are promising with local recurrence rates of 0.45% per year of follow-up in the first years , which is comparable to local recurrence rates after BCS and whole breast irradiation in low and moderate risk patients .
+However , longer follow-up and careful assessment in phase III trials is needed before this could be considered as a routine treatment in patients with a low or moderate risk for local recurrence .
+7. Conclusions
+Boost irradiation of 15 Gy after breast conserving surgery and whole breast irradiation relatively reduces the risk for recurrence by a factor 2. The need for implementation of the boost depends on the absolute risk .
+The need for a boost is less compelling in low risk , postmenopausal patients than in younger premenopausal women  .
+Brachytherapy offers the theoretical advantage of treating smaller volumes to higher doses to the tumour bed and lower doses to the skin .
+Despite the smaller volumes treated , no worse local control rates are obtained .
+On the contrary , in the majority of retrospective studies and in the only randomised study , local control rates are superior for brachytherapy .
+This could be attributed to the higher doses delivered with brachytherapy , the short treatment times or the use of better localisation techniques .
+The ballistic advantage of breast brachytherapy can only be exploited when technical performance is meeting high quality standards .
+Special attention has to be paid to boost target localisation and positioning of active sources at a sufficient distance from the skin as well above the implant as at the entrance and exit points of the source carriers .
+The high dose plateau of an implant ( extent calculated by MSM margin ) should not overlap the dermal vessels located in the first 5 mm beneath the skin surface .
+The treatment of breast cancer with wide implant brachytherapy after breast conservative surgery shows promising early results in strongly selected low risk patients .
+However , long-term phase III data have to be awaited before this can be advocated as a routine technique in selected patients

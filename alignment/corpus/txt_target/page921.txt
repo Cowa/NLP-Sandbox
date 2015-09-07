@@ -1,0 +1,131 @@
+Self-reported retrospective data are the basis for much epidemiologic research .
+In studies on breast cancer , data are collected on a number of factors for which it is often difficult to obtain objective measures , such as self-reported reproductive history and lifestyle practices .
+Self-reported data are potentially prone to a number of biases , including recall , interviewer , and instrument bias , which can subsequently lead to misclassification of data and threaten the validity of study results .
+An important aspect of survey research is measuring the extent of such biases and assessing the quality of these self-reported data .
+In the absence of objective measures , validity of data cannot be assessed .
+However , reliability can be measured , thus indicating how well a study tool elicits the same response at repeat measurements in a different setting or at a different point in time .
+In epidemiologic studies , the reliability of a survey instrument is most commonly assessed using the test - retest method , in which responses given in a baseline survey are compared with responses given in a follow-up survey using the same questionnaire .
+Many studies in recent years have implicated postmenopausal hormone therapy ( HT ) in breast cancer risk , based on self-reported HT use ( 1 ) , ( 2 ) and ( 3 ) .
+Whereas findings have been reported on the validity , or accuracy , of this self-reporting ( 4 ) and ( 5 ) , assessment of reliability , or consistency , has been lacking in the literature .
+As part of the quality control protocol for a large population-based case - control study of the association between HT and breast cancer in Germany , we used test - retest to evaluate the reliability of women 's self-reporting of a number of putative breast cancer risk factors , including use of HT , reproductive history , family history , and lifestyle .
+Methods Study Population .
+Study subjects were participants in the Mammakarzinom-Risikofaktoren-Erhebung ( MARIE ) study , a large population-based case - control study on breast cancer and HT conducted in two regions in Germany : the city of Hamburg and the Rhein-Neckar-Karlsruhe region .
+Between August 1 , 2002 and September 30 , 2005 , women with a diagnosis of incident in situ or invasive breast cancer living in one of the study regions were either prospectively identified and recruited through hospitals and clinics serving the study regions or retrospectively recruited from the Hamburg Cancer Registry with diagnoses dating back to January 1 , 2001 .
+Women were eligible as cases if they were diagnosed between the ages of 50 and 74 years , were residents in one of the study regions , and spoke German .
+Controls were frequency-matched to cases for age and place of residence .
+Interviews were conducted in person by trained interviewers using a structured study questionnaire .
+The study is in compliance with the Declaration of Helsinki and was reviewed and approved by the ethics committees of both the University of Heidelberg and the University of Hamburg-Eppendorf .
+The current reliability study included a sample of women drawn from the first year of recruitment for the MARIE study who , in the context of a validation study , did not specifically decline to be recontacted and had offered contact information on their medical practitioners .
+Of the approximately 3000 women recruited in the first year of the study , a stratified random sample of 480 women was drawn for participation in the validation study .
+The sample was stratified by case - control status ( 1:1 ) , age ( 50 - 59 and 60 years [ 1:1 ] ) , and HT ever-use ( yes or no [ 3:1 ] ) .
+With the intention of re-interviewing approximately 1% of the targeted MARIE study sample , we drew a random sample of 138 women from this pool , whom we then recontacted by mail requesting their participation .
+A total of 123 women ( 62 cases , 61 controls ) responded positively , resulting in a participation proportion of 89% .
+Between September 2003 and March 2004 , cases and controls were re-interviewed in person by the original interviewer , using a shortened version of the original study questionnaire .
+The reliability study questionnaire was designed to be conducted in less than 20 minutes and consisted of those questions from the original questionnaire deemed most relevant to the main study question , including questions on use of HT , reproductive history , family history , and lifestyle .
+In both the original questionnaire and the short interview , a photographic depiction of all known German HT product packaging was used as a memory aid .
+Questions were taken verbatim from the original questionnaire , except in those cases in which questions were restructured to allow for a smooth transition to a subsequent question .
+To remain within the time limits , it was necessary to limit the amount of data collected on HT use .
+To this end , the second questionnaire asked only about the first and last phases , rather than all phases , of HT use .
+Statistical Analysis .
+The MARIE survey questionnaire generated data that ranged from binary to continuous .
+To assess whether or not disagreement between responses in the first and second interviews led to misclassification , all data , including continuous data , were categorized as binary or ordinal , except for age at first live birth , which remained continuous .
+Category groupings were based on either well-established categories from the literature or levels of variation we deemed acceptable for a given variable : age at menarche ( 12 , 12 - 14 , 15 - 17 , 18 years ) , age at menopause ( 45 , 45 - 49 , 50 - 54 , 55 years ) , number of pregnancies ( 0 - 7 ) , weeks of breast-feeding first child ( 4 , 4 - 23 , 24 ) , family history of any cancer ( yes or no ) , wine consumption ( converted to ethanol consumption of 5 or 5 grams / day ) , bicycle riding on weekends ( 1 hour or 1 hour ) , ever-smoked cigarettes ( yes or no ) , ever-use of HT ( yes or no ) , application form of HT ( pill , patch , gel / cream , vaginal suppository , injection , drops ) , type of HT ( monotherapy [ estrogen or progestin ] or combined estrogen - progestin therapy ) , and duration of HT use ( 5 or 5 years ) .
+We measured test - retest reliability overall and stratified by disease status , using both proportion of overall agreement ( Po ) and Cohen 's .
+Po refers to the percent of participants who remained in the same category in both the first and second interviews .
+Positive response is the number of participants corresponding to the Po .
+To test for differential agreement by case - control status , we fitted logistic regression models for each variable using agreement ( agree vs. disagree ) as the outcome variable and disease status ( case or control ) as the independent variable. p for the differences in agreement by disease status were calculated using logistic regression models ( PROC PHREG ) .
+All statistical analyses were done using SAS version 9.1 ( SAS Institute , Cary , NC ) .
+Po agreement , , and weighted were calculated using the agree option in the PROC FREQ procedure .
+Results .
+Based on the first interview , cases and controls were similar with regards to age , parity , and breast-feeding of first birth .
+Controls were slightly but nonsignificantly more likely than cases to have higher education .
+No significant differences were seen for smoking or wine consumption .
+The mean interval between first and second interview was similar for both cases and controls ( 40 weeks [ range , 21 - 71 ] and 41 weeks [ range , 20 - 62 ] , respectively [ p = 0.61 ] ) .
+Table 1. .
+Characteristics of reliability study participants by case - control status .
+Cases ( n = 61 ) Controls ( n = 62 ) Interval between interviews , mean weeks ( range ) 40 ( 21 - 71 ) 41 ( 20 - 62 ) Highest education level obtained Low64.5%52.5% Intermediate24.2%29.5% High6.5%14.8% Parity , mean1.72.0 History of breast-feeding69.4%71.4% History of smoking38.7%42.6% History of alcohol consumption73.8%67.2% .
+Full-size table .
+Based on first interview .
+Distribution of age , region , and hormone therapy not reported because sample was stratified by these variables .
+First birth only .
+Ever-smoked cigarettes .
+Ever-drank wine between 30 and 49 years .
+View Within Article .
+Table 2 shows the test - retest agreement for putative breast cancer risk factors , including HT , both overall and by disease status .
+Agreement on HT use was very high for reported ever-use ( Po = 96% ; = 0.90 ) and did not differ by disease status ( p = 0.66 ) .
+Selected aspects of the last phase of HT use varied in their levels of reliability : type of HT ( monotherapy vs. combined therapy ) showed the strongest agreement ( Po = 93% ; = 0.83 ) , followed by form of application ( Po = 95% ; = 0.73 ) and duration of therapy ( Po = 80% ; = 0.60 ) .
+Controls showed slightly higher agreement than did cases for duration of HT use ( case Po = 75% , = 0.50 and control Po = 86% , = 0.73 ) , but the difference did not reach statistical significance ( p = 0.28 ) .
+Agreement for a four-category duration of use variable ( 5 years , 5 to 10 years , 10 to 15 years , and 15 years ) , while somewhat lower than that of the binary variable , nonetheless remained high ( Po = 63% ; = 0.56 ) ( data not shown ) .
+Table 2. .
+Test - retest reliability of putative breast cancer risk factors , lifestyle factors , and HT .
+AllCasesControls No. of positive responsesPo , %No. of positive responsesPo , %No. of positive responsesPo , %Case / control p Ever-use of HT118950.9059950.8659970.920.66 Application form of HT73950.7342980.7931910.670.24 Type of HT52930.8332910.8020950.890.60 Duration of HT use56800.6031750.5025860.730.28 Age at menarche101820.6651820.6550820.670.97 Age at last menstrual period90830.8247850.8443810.790.55 No. of pregnancies111910.9257920.9354900.910.71 Age at first live birth1001001.001001001.001001001.001.00 Duration of breast-feeding87900.8646960.9441840.780.07 Family history of any cancer Mother111960.8755980.9456930.810.23 Sister62950.8433940.8229970.870.65 Wine consumption ( g of ethanol / day ) 108890.6857930.8151840.560.10 Regular cigarette smoking#119970.9360970.9359970.930.99 Bicycle riding ( hours / weekend ) 85730.4342720.4343730.420.96 .
+Full-size table .
+HT = postmenopausal hormone therapy ; Po = proportion of overall agreement .
+In cases in which more than two categories were compared , weighted is reported .
+Determined using a logistic regression model , in which the dependent variable was agreement ( yes / no ) and the independent variable was disease status ( case / control ) .
+HT use refers to the latest phase of use .
+Excludes women with missing values or women reporting never having used HT .
+Data censured at date of first interview .
+First birth only .
+Between the ages of 30 and 49 years .
+# Participants were asked , Have you ever smoked regularly 1 cigarette per day for at least 3 months ? .
+Between the ages of 30 and 49 years , nonsport , average number of hours per weekend .
+View Within Article .
+Women 's recall of age at menarche and age at menopause were both highly consistent ( Po = 82% , = 0.66 and Po = 83% , = 0.82 , respectively ) .
+Agreement between interviews was nearly perfect for both number of pregnancies and age at first live birth ( Po = 91% , = 0.92 and Po = 100% , = 1.00 , respectively ) .
+Although agreement for duration of breast-feeding of first child was slightly higher for cases than for controls ( Po = 96% , = 0.94 and Po = 84% , = 0.78 , respectively ) , the difference was not statistically significant ( p = 0.07 ) .
+Agreement on ever having breast-fed the first child was very high , with no difference by disease status ( case Po = 96% , = 0.95 and control Po = 94% , = 0.85 ; p = 0.34 ) ( data not shown ) .
+A family history of any type of cancer showed equally strong agreement for both mothers ( Po = 96% ; = 0.87 ) and sisters ( Po = 95% ; = 0.84 ) , and this agreement was independent of a participant 's disease status .
+The reliability of variables representing lifestyle factors was strong , both for wine consumption ( Po = 89% ; = 0.68 ) and for cigarette smoking ( Po = 97% ; = 0.93 ) .
+Physical activity , as measured by nonsport bicycle riding on the weekends , had a somewhat lower overall agreement ( Po = 73% ; = 0.43 ) ; however , agreement was essentially identical for cases and controls ( p = 0.96 ) .
+Discussion .
+Overall , this study demonstrated that , in the context of a German case - control study , data obtained via two personal interviews were highly reliable regarding variables considered to be possible risk factors for breast cancer , including data on use of HT .
+That agreement was nondifferential by disease status .
+Our study is one of only two to examine the test - retest reliability of self-reported HT use .
+To date , only Newcomb and colleagues ( 6 ) have reported findings on the reliability of self-reported HT use .
+In a substudy that was part of a larger study on breast cancer and HT use , they found high agreement for both ever-use and never-use ( case = 0.92 ; control = 0.89 ) and duration of use ( case intraclass correlation coefficient [ ICC ] = 0.83 ; control ICC = 0.86 ) .
+Our findings were similarly high for ever-use and never-use ( case = 0.86 ; control = 0.92 ) but lower for categorized duration of use ( case = 0.50 ; control = 0.73 ) .
+One reason for the differential findings might be methodologic : it appears that Newcomb and colleagues conducted the full interview twice , whereas we used a shortened version of our original questionnaire and did not ask about every phase of HT use .
+In the validity study of MARIE , agreement was assessed between women 's self-reported use of HT and physicians reports .
+Overall agreement for duration of HT use was ICC = 0.82 , with no differential agreement by disease status ( 7 ) .
+Although our abbreviated reliability questionnaire precluded direct comparison with the validity study results on duration of use , the combined findings of the two studies reinforce the high quality of the MARIE study data .
+Published findings on the reliability of the reproductive health factors we examined are uniformly high , ranging from /ICC = 0.78 to 0.98 ( 8 ) , ( 9 ) , ( 10 ) , ( 11 ) and ( 12 ) .
+Our findings on age at menarche , parity , age at first birth , and age at last menstrual period corroborate this trend .
+Studies examining the reliability of self-reported breast-feeding tend to consider total duration of all births .
+In our study , only breast-feeding of firstborn was considered .
+Overall agreement between first and second interview was high in our study ( = 0.86 ) , in line with findings from previous studies on total duration of breast-feeding that range between /ICC = 0.86 and 0.92 ( 11 ) , ( 12 ) and ( 13 ) .
+Although our overall sample size was large , when we stratified by family history of cancer and cancer type , we were left with insufficient statistical power to make stable estimates on the reliability of self-reported family history of specifically breast cancer .
+Nonetheless , our study findings on family history of any cancer are in agreement with two previous studies : Zhu and colleagues ( 14 ) showed strong reliability for reported family history of any cancer , both in regards to parents ( = 0.83 ) and siblings ( = 0.86 ) , whereas Horowitz and colleagues ( 13 ) found a high level of agreement for family history of breast cancer ( first degree relative = 0.89 ) .
+A third study on the reliability of men reporting family history of prostate cancer found lower agreement : only 52% answered the question consistently from one interview to the next .
+The authors suggested that this may have been due to the type of cancer studied , with prostate cancer historically being less openly discussed in families compared with other types of cancers ( 15 ) .
+The fact that the study looked exclusively at men may also explain why the findings were lower than those of Zhu and associates ( 14 ) , Horowitz and colleagues ( 13 ) , or the current study .
+The majority of published studies assessing the reliability of lifestyle data compare responses for current or recent levels of frequency and / or quantity .
+Fewer studies have published findings on recall of lifestyle data from the distant past .
+On the question of whether or not they had ever regularly smoked , participants in our study gave highly consistent responses ( = 0.93 ) , in line with findings from previous reliability studies on smoking status , in which agreement ranged from /ICC = 0.76 to 0.92 ( 16 ) and ( 17 ) .
+Our relatively strong findings on the recall of alcohol consumption ( = 0.68 ) , specifically wine consumed between the ages of 30 and 49 years , were confirmed by two studies that also examined the reliability of reported alcohol consumption in the distant past .
+Friesema and colleagues ( 18 ) found that recall was high ( ICC = 0.83 ) for a cohort of women 45 to 70 years who were asked about the quantity and frequency of alcohol consumption as adults ( 28 - 45 years ) .
+A study by Russell and associates ( 19 ) found that reliability for lifetime ounces of alcohol consumed , recalled in decades , ranged between 0.74 and 0.85 ( Spearman 's r ) , however these findings were not stratified by sex or age groups .
+In the current study , we identified weekend bicycle riding as the variable for which agreement was lowest ( overall = 0.43 ) , although agreement was nondifferential by disease status .
+As with smoking and alcohol consumption , the reliability of data on physical activity reported in the literature generally refers to current or recent activity .
+However , the reliability questionnaire of the MARIE study collected data only on weekend bicycle riding .
+A study by Friedenreich and colleagues ( 20 ) , in which a sample of women 50 to 75 years was asked to recall their hours per week history of physical activity in the distant past , showed that the reliability of women 's recall of light to moderate exercise , including bicycle riding , for the time period 35 to 50 years of age was relatively low ( Pearson correlation coefficient for light exercise = 0.38 , for moderate exercise = 0.52 ) , compared with their recall of other types of physical activities .
+According to the study , agreement for physical activity increases as intensity and regularity increase ( 20 ) .
+This could explain the relatively low agreement seen in our study because weekend bicycle riding tends to be recreational and practiced less regularly than weekday transportation bicycle riding .
+In recent studies , test - retest reliability has most commonly been measured using either Cohen 's for categoric variables or ICC for continuous variables .
+Both of these methods of hypothesis testing have been criticized : because its use is inappropriate when the prevalence of a value is low and ICC because its value is dependent on the variance of a factor in a population ( 21 ) , ( 22 ) , ( 23 ) and ( 24 ) .
+We used to compare our findings with other studies , but comparisons using this measure should be interpreted with caution .
+An additional problem in comparing studies using the above measures is that dimensions of a variable of interest often vary from one survey instrument to the next .
+For example , collecting data on alcohol consumption can include questions on current alcohol use , ever or never alcohol use , or amount of alcohol consumed in the present , recent past , or distant past .
+Furthermore , whereas our study results were nondifferential by disease status , it should be noted that good test - retest reliability alone does not preclude the possibility of recall bias .
+Our study had several strengths .
+To minimize the higher variability associated with the use of two different interviewers ( 11 ) , we made certain that the same interviewer was used for both the first and second interviews .
+In addition , the interview setting remained the same , further reducing potential variability of results .
+Finally , we allowed sufficient time to pass between interviews , minimizing the possibility that women were simply recalling the responses they had given in the first interview , rather than truly responding to the question a second time .
+The limitations of this study should also be considered .
+Because our study protocol required that the second interview remain under 20 minutes , we were forced to be selective in choosing questions from the original 1.5 hour questionnaire .
+This resulted in our including only first and last phases of HT use , rather than to replicate total lifetime use .
+This made it difficult to compare results between the two interviews and may have been responsible for the comparatively low agreement for duration of HT use .
+Researchers should try to include all phases in the second interviews in future reliability studies that examine different life phases of a factor .
+In summary , test - retest reliability of the MARIE study survey questionnaire was in agreement with studies examining similar breast cancer risk factors .
+Our findings indicate that the MARIE survey instrument was of good quality and had a low likelihood of misclassification .
+The authors would like to thank Ursula Eilber , Kati Smit , and Wibke Busch for their data management support .

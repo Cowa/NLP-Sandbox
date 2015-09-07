@@ -1,0 +1,189 @@
+L' importance de la radiothérapie dans la prise en charge des cancers du sein après chirurgie conservatrice a été depuis_longtemps démontrée  .
+La dosimétrie obtenue lors_de l' irradiation classique du sein par deux faisceaux tangentiels , a été analysée à_partir_de données scanographiques , dans plusieurs études  .
+Ces études mettent en évidence des hétérogénéités de dose relativement importantes ( plus de 10 % du volume du sein recevant plus de 110 % de la dose prescrite ) liées au volume et à la forme de la glande mammaire .
+D' autres études ont montré la corrélation entre les volumes pulmonaires et cardiaques irradiés et le risque de survenue de complications tardives  .
+La simulation virtuelle tridimensionnelle a ainsi comme objectif d' améliorer la distribution de dose dans le volume cible tout en réduisant le volume de tissus sains irradiés .
+Dans cette étude prospective chez 14 patientes , nous avons comparé sur le plan balistique et dosimétrique , simulation classique et simulation virtuelle réalisées avec une position de traitement identique .
+2. Patientes et méthodes
+Cette étude s' est déroulée d' octobre 2003 à novembre 2004 .
+Elle concernait 14 patientes atteintes d' un cancer du sein .
+La radiothérapie adjuvante délivrait 50 Gy en 25 fractions sur l' ensemble de la glande mammaire seule , sans irradiation ganglionnaire .
+Un complément d' irradiation de 16 Gy du lit tumoral était indiqué pour certaines patientes , mais nous n' en avons pas tenu compte dans cette étude .
+Les patientes ont d'_abord bénéficié d' une scanographie en position de traitement ( scanographe Somatom de Siemens , FOV = 45 cm , diamètre de l' anneau = 60 cm ) .
+Chaque patiente était installée en décubitus dorsal sur un plan incliné à 10 ou 15 MED-TEC , le bras positionné au-dessus_de la tête et l' épaule reposant dans un appui-bras .
+Le radiothérapeute délimitait par palpation les racines du sein .
+Ces racines , la ligne médiane , les cicatrices opératoires et le mamelon étaient ensuite repérés par un fil téléphonique .
+Des coupes scanographiques de 5 mm étaient effectuées tous les 5 mm sur toute la hauteur du sein , en incluant le volume pulmonaire en totalité .
+Juste après la scanographie , un centrage au simulateur - scanneur Mecaserto type Phebus a été effectué pour chaque patiente , installée dans la même position .
+Des fils de plomb étaient positionnés à 1 cm des racines interne et externe de la glande préalablement repérées .
+Les centres des faisceaux étaient placés à une DSP ( distance source - peau ) de 100 cm .
+Pour le faisceau tangentiel interne , l' angle d' inclinaison du bras de l' appareil était choisi de_manière_à obtenir une superposition radiologique des fils plombés .
+Le faisceau tangentiel externe était ensuite positionné à l' opposé .
+Une modification de quelques degrés ( 2 à 5 ) de l' angle du statif pour le faisceau tangentiel externe , permettait en corrigeant la divergence , d' obtenir des faisceaux irradiant le même volume pulmonaire .
+Une fuite de 1 cm dans l' air était assurée .
+Toutes les données de la simulation étaient transférées sur la console de dosimétrie utilisant les logiciels Imago et Dosigray .
+Full-size image ( 48K )
+Fig. 1. Matérialisation des racines du sein par un fil de plomb .
+Fig. 1. Root of the breast visualised with a led wire .
+View Within Article
+Les coupes scanographiques étaient envoyées sur la console de dosimétrie .
+Le volume cible anatomoclinique ( clinical target volume ) correspondait à celui de l' ensemble du sein .
+La délinéation du volume cible anatomoclinique était effectuée sur chaque coupe transverse avec les constantes suivantes : 0 HU pour le niveau et 500 HU pour la fenêtre , en_avant du muscle grand pectoral , en incluant au_minimum l' ensemble du volume situé entre les fils de plomb délimitant la glande mammaire palpée .
+Le tissu mammaire visible radiologiquement au-delà_de la limite des fils de plomb , a été inclus dans le volume cible anatomoclinique .
+Un espace de 5 mm entre la peau et le volume cible anatomoclinique a été maintenu pour des raisons dosimétriques .
+Le volume cible prévisionnel ( planning target volume ) correspondait au volume cible anatomoclinique plus une marge tridimensionnelle de 1 cm , en conservant un espace de 5 mm entre le volume cible prévisionnel et la surface cutanée .
+Les organes à risque ( coeur , poumon droit , poumon gauche ) ont été délinéés en totalité .
+Les caractéristiques des faisceaux tangentiels ( angle du bras , rotation du collimateur , taille de champ , point d' entrée ) déterminées lors_de la simulation classique , ont été transférées au sein du logiciel de dosimétrie Dosigray .
+La dosimétrie bidimensionnelle a été effectuée à_partir_de ces paramètres .
+La dose a été délivrée au point de concours des faisceaux tangentiels , par des photons de 5 mV d' un accélérateur SL75 / 5 d' Elekta sans collimateur multilame avec un filtre en coin intégré dans le plan transverse .
+Des histogrammes dose - volume ( HDV ) ont été calculés pour le volume cible anatomoclinique , le volume cible prévisionnel , les poumons et le coeur .
+En parallèle , sur les mêmes coupes scanographiques , des faisceaux ont été créés à partir des DRR ( digitally-reconstructed radiographs ) et de la visualisation tridimensionnelle du volume cible prévisionnel .
+Une marge supplémentaire de 8 mm , correspondant à la pénombre , était créée autour du volume cible prévisionnel .
+Le choix des caractéristiques balistiques reposait sur plusieurs nécessités : les faisceaux devaient englober l' ensemble du volume cible prévisionnel entouré de la marge physique , le volume des organes à risque irradiés devait être réduit au maximum , une fuite de 1 cm dans l' air était assurée , les faisceaux devaient être applicables cliniquement en évitant notamment d' irradier le sein controlatéral .
+Les données balistiques étaient enregistrées et comparées aux données de la simulation bidimensionnelle .
+Des histogrammes dose - volume ont été calculés pour le volume cible anatomoclinique , le volume cible prévisionnel , les poumons droit et gauche , le coeur .
+Full-size image ( 112K )
+Fig. 2. Simulation virtuelle .
+Fig. 2. Virtual simulation .
+View Within Article
+3. Résultats
+Quatorze patientes d' un âge moyen de 51,4 ans ( 26 à 65 ans ) atteintes d' un cancer du sein , ont été incluses dans cette étude .
+La tumeur siégeait à_gauche pour six patientes , à_droite pour les huit autres .
+Sur le plan balistique , peu de différences ont été notées au niveau de l' angulation des faisceaux .
+Le faisceau tangentiel interne déterminé en simulation virtuelle était plus interne de 8 mm en moyenne ( 0 à 15 mm ) .
+Le faisceau externe tridimensionnel était plus externe de 8 mm en moyenne ( 0 à 25 mm ) .
+L' analyse de la dosimétrie bidimensionnelle montrait que dans tous les cas , plus de 95 % du volume cible anatomoclinique recevait au moins 95 % de la dose prescrite .
+Cependant , pour huit patientes sur 14 ( 57 % ) , moins de 85 % du volume cible prévisionnel recevait 95 % de la dose prescrite .
+Les critères de qualité de l' irradiation définis par le rapport 50 de l' ICRU , où 95 % du volume cible prévisionnel doit recevoir 95 % de la dose prescrite ( volume cible prévisionnel 95 ) n' étaient jamais respectés en simulation classique .
+En simulation virtuelle , les caractéristiques balistiques ont été définies de telle sorte que 95 % du volume cible prévisionnel reçoive au moins 95 % de la dose prescrite .
+Ainsi , le volume cible prévisionnel 95 était augmenté en moyenne de 17,6 9,7 % en simulation tridimensionnelle par_rapport_à la simulation classique .
+Le pourcentage de volume cible anatomoclinique recevant une dose supérieure à 107 % de la dose prescrite était en moyenne de 21,3 % 12 en simulation classique et de 24 % 11 en simulation virtuelle .
+3.1. Volume pulmonaire irradié
+La central lung distance ( CLD ) correspond , sur la projection du faisceau tangentiel au niveau de l' axe , à la distance séparant la paroi thoracique de la limite postérieure du champ .
+L' analyse des résultats de notre série montre une corrélation entre la CLD et le volume pulmonaire homolatéral recevant plus de 20 Gy .
+Ce dernier dépassait 10 % pour une CLD de 2 cm , et 21 % pour une CLD de 3 cm .
+Il existait de_même une étroite relation entre le volume pulmonaire homolatéral recevant plus de 30 Gy et la CLD .
+La CLD est donc un indicateur simple et fiable de l' importance du volume pulmonaire irradié .
+En simulation tridimensionnelle , le volume pulmonaire homolatéral recevant plus de 20 Gy était en moyenne de 16,4 5,1 contre 92,9 % en simulation classique .
+Le volume pulmonaire homolatéral recevant plus de 30 Gy atteignait en moyenne 14,2 4,9 % en simulation tridimensionnelle contre 7,1 2,7 % en simulation classique .
+Full-size image ( 80K )
+Fig. 3. Définition de la central lung distance et de la maximum heart distance .
+Fig. 3. Definition of central lung distance and maximum heart distance .
+View Within Article
+Full-size image ( 21K )
+Fig. 4. Corrélation entre la central lung distance et volume pulmonaire homolatéral ( VPH ) recevant une dose supérieure à 20 Gy .
+Fig. 4. Correlation between central lung distance and volume of homolateral lung receiving more than 20 Gy .
+View Within Article
+3.2. Volume cardiaque irradié
+Pour prédire la morbidité cardiaque de l' irradiation mammaire , certains auteurs  proposent l' utilisation d' indicateurs simples tels_que la maximum heart distance ( MHD ) .
+La MHD correspond , sur la projection du faisceau tangentiel , à la distance maximale entre le bord antérieur du coeur et la limite postérieure du faisceau .
+Dans notre série , six patientes ont été prises en charge dans le cadre d' une néoplasie mammaire gauche .
+En simulation classique , la balistique des faisceaux était déterminée de telle sorte que la MHD ne dépasse pas 1 cm .
+La prise en compte du volume cible prévisionnel en planification tridimensionnelle conduisait à l' irradiation d' un volume cardiaque plus important .
+Le volume cardiaque recevant plus de 10 Gy était en moyenne de 4,9 % 2,6 en simulation tridimensionnelle contre 1,1 0,7 % en simulation classique .
+3.3. Simulation classique
+L' ensemble des valeurs présentées dans la suite de ce travail résulte d' une planification dosimétrique optimisée sur trois coupes permettant d' ajuster l' angle du filtre en coin , en respectant les critères suivants : au moins 95 % du volume cible anatomoclinique reçoit 95 % de la dose prescrite , réduction du volume pulmonaire homolatéral irradié , respect si possible de l' homogénéité de dose ( 95 à 107 % de la dose prescrite ) .
+Nous avons relevé la dose maximale dans le volume cible anatomoclinique , calculée en considérant successivement : trois coupes ( z = 0 , z = +25 et z = - 25 % de la taille du champ ) , cinq coupes ( z = 0 ; z = +25 , z = - 25 , z = +40 et z = - 40 % de la taille du champ ) , l' ensemble des coupes scanographiques réalisées .
+En prenant en compte trois coupes , malgré l' optimisation , une dose maximale de plus de 107 % a été retrouvée chez 12 patientes ( 86 % ) .
+Pour quatre patientes ( 29 % ) , la dose maximale dépassait 110 % de la dose prescrite .
+La même analyse sur cinq coupes montrait que chez 13 patientes ( 93 % ) la dose maximale était de plus de 107 % et chez 12 ( 86 % ) elle dépassait 110 % .
+L' étude sur l' ensemble des coupes scanographiques montrait une dose maximale de plus de 107 % chez toutes les patientes et de plus de 110 % chez 93 % ( 13 patientes ) .
+En conclusion , la planification dosimétrique sur trois coupes scanographiques au_cours_d' une simulation classique ne permet pas d' apprécier de manière suffisamment précise les zones de surdosage .
+L' analyse fiable de l' homogénéité de dose nécessite la réalisation de cinq coupes avec deux coupes extrêmes passant par_exemple à plus et moins 40 % de la taille du champ .
+La prise en compte de l' ensemble des coupes scanographiques n' améliore pas l' analyse par_rapport_à une simulation bidimensionnelle à_partir_de cinq coupes .
+Full-size image ( 48K )
+Fig. 5. Valeur de la dose maximale déterminée en prenant en compte trois coupes , cinq coupes et l' ensemble des coupes scanographiques .
+Fig. 5. maximal dose using three CT-scan cuts , five cuts ou all the cuts .
+View Within Article
+Full-size image ( 94K )
+Fig. 6. Niveaux des coupes scanographiques et surdosage ( dose prescrite 50 Gy ) .
+Fig. 6. CT-scan cuts and overdosage for a prescribed dose of 50 Gy .
+View Within Article
+L' analyse de la distribution de dose en fonction de la taille du volume cible anatomoclinique donnait plusieurs indications .
+En moyenne , 21,3 % ( min. : 3.3 % , max. : 48 % ) du volume cible anatomoclinique recevait une dose 107 % de la dose prescrite et 5,1 % ( min. : 0 % , max. : 14,2 % ) une dose 110 % de la dose prescrite .
+Le pourcentage de volume cible anatomoclinique recevant une dose supérieure à 110 % de la dose prescrite était fortement lié au volume du sein ( coefficient de corrélation r = 0,814 ( test de Spearman ) ) ainsi_qu' à l' épaisseur du sein à l' axe ( coefficient de corrélation r = 0,675 ( test de Spearman ) ) .
+La valeur de la dose maximale est de_même liée au volume de sein ( r = 0,800 ( test de Spearman ) ) et à l' épaisseur du sein à l' axe ( r = 0,618 , ( test de Spearman ) ) .
+L' épaisseur du sein à l' axe est donc une donnée facilement mesurable permettant d' évaluer le pourcentage de volume cible anatomoclinique qui recevra plus de 110 % de la dose prescrite .
+4. Discussion
+Cette étude prospective chez 14 patientes atteintes d' une néoplasie mammaire tente de comparer les avantages et inconvénients de la simulation conventionnelle et de la simulation virtuelle pour une irradiation du sein en technique DSP ( Distance.Source-Pean ) .
+En considérant le volume cible anatomoclinique , l' étude des histogrammes dose - volume n' a pas montré de différences fondamentales en termes d' homogénéité de dose entre les deux techniques de simulation .
+Comme dans les travaux de Krasin et Zackrisson  and  , la simulation virtuelle permet une amélioration manifeste de la distribution de dose dans le volume cible prévisionnel , puisque le volume cible prévisionnel 95 était augmenté en moyenne de 17,6 9,7 % en simulation tridimensionnelle par_rapport_à la simulation classique .
+Cependant , le bénéfice clinique de la technique tridimensionnelle reste à préciser , compte tenu de l' excellente qualité du contrôle local déjà obtenu avec la technique classique  .
+De plus , il n' est pas possible de préciser sur les données actuelles , si les récidives locales surviennent de manière préférentielle au niveau des zones de « sous-dosage » .
+La planification tridimensionnelle permet elle de diminuer le volume pulmonaire irradié ?
+Le rôle important du volume pulmonaire irradié dans la survenue de complications a été souligné  .
+Pour Kong_et_al.  , ce volume peut être apprécié par des critères simples tels_que la CLD .
+La dose moyenne en Gy , délivrée au poumon homolatéral correspond à environ quatre fois la valeur de la CLD ( en cm ) .
+Le pourcentage du volume pulmonaire homolatéral recevant 20 Gy est de l' ordre de dix fois la valeur de la CLD .
+Das_et_al.  ont de_même montré que la CLD était un indicateur significatif pour l' irradiation du volume pulmonaire homolatéral .
+Les résultats de notre série vont tout_à_fait dans le sens de ces publications .
+En simulation classique , la prévention de la morbidité pulmonaire nécessite de limiter la CLD à 2 voire 2,5 cm .
+Dans notre série , en simulation virtuelle , l' irradiation homogène du volume cible prévisionnel défini par le volume cible anatomoclinique plus une marge de 1 cm , nécessite toujours de majorer le volume pulmonaire irradié par_rapport_à la simulation classique .
+L' importance de ce volume résulte de la taille de la marge considérée autour du volume cible anatomoclinique .
+L' un des moyens de réduire l' irradiation pulmonaire serait d' utiliser une technique conformationnelle avec mise en place de caches adaptés à la forme du volume cible prévisionnel .
+Dans une série de 11 patientes , Hurkmans_et_al.  ont comparé trois techniques d' irradiations : la technique classique avec des faisceaux tangentiels sans caches , la technique conformationnelle et la technique avec modulation d' intensité des faisceaux .
+L' auteur constate que les NTCP ( normal tissue complication probability ) pour les pneumopathies radiques restent faibles avec la technique classique ( 0,5 % ) .
+Cette valeur n' était pas réduite de manière significative par les techniques conformationnelles ( 0,4 % ) ou avec modulation d' intensité ( 0,3 % ) .
+La planification tridimensionnelle permet elle de réduire le volume cardiaque irradié ?
+Parmi les multiples complications de l' irradiation cardiaque , la péricardite chronique constrictive et l' ischémie myocardique sont les plus fréquentes  .
+Les deux principaux facteurs responsables de la survenue de ces complications , sont le volume de coeur irradié et la dose totale délivrée .
+L' analyse des résultats de l' essai mené par Rutqvist_et_al.  a montré la relation entre la mortalité cardiaque et la distribution de dose dans le coeur .
+Plusieurs auteurs  ont montré une corrélation entre le risque de morbidité ou de mortalité cardiaque et le volume de coeur inclus dans les faisceaux tangentiels .
+Ce volume peut être estimé par un paramètre simple : la MHD .
+Pour Murren_et_al.  , la morbidité et la mortalité cardiaques étaient significativement réduites si la MHD était inférieure à 1 cm .
+Dans l' étude de Hurkmans_et_al.  , la probabilité de complication cardiaque augmentait significativement pour une MHD de 2 cm ou plus .
+La valeur des NTCP pour la mortalité cardiaque était inférieure à 1 % si la MHD ne dépassait pas 1 cm .
+Limiter la MHD à_moins_de 1 cm en simulation classique permettait donc de prévenir la toxicité cardiaque de l' irradiation .
+Dans notre série , en simulation virtuelle , l' irradiation homogène du volume cible prévisionnel tel qu' il est défini , n' a pu être obtenue qu' en majorant le volume cardiaque irradié .
+4.1. Limites de la simulation virtuelle
+La planification tridimensionnelle d' une irradiation passe d'_abord par la définition des volumes cibles .
+Le volume cible anatomoclinique correspond à l' ensemble du volume mammaire  .
+La délimitation de ce volume est complexe .
+L' utilisation de repères anatomiques de référence ( sillon sous-mammaire , 1er espace intercostal , ligne axillaire moyenne ) n' est pas suffisante  .
+La définition de volume cible anatomoclinique par palpation n' est pas optimale mais n' expose qu' à un faible risque d' erreur de localisation .
+La visibilité du tissu mammaire en tomodensitométrie est inconstante et dépend en grande partie de l' âge de la patiente  .
+Plusieurs auteurs  reconnaissent les difficultés à délimiter le volume cible anatomoclinique et les erreurs inter- et intraobservateurs qui en découlent .
+La détermination du volume cible prévisionnel nécessite la définition de marges de sécurité autour du volume cible anatomoclinique  .
+Grâce au développement de l' imagerie portale , de nombreux auteurs se sont intéressés à la reproductibilité de la mise en place des faisceaux tangentiels .
+Les erreurs de repositionnement sont en grande partie liées au matériel de contention utilisé .
+Plusieurs études avec un système de contention en -craddle montrent le caractère négligeable des erreurs intrafractions  .
+Les variations interfractions restent de l' ordre de 5 mm  .
+En l' absence de moyens de contention particulier , l' utilisation quotidienne de l' imagerie portale permet de limiter à_moins_de 5 mm les incertitudes de positionnement interfractions  .
+La prise en compte des mouvements respiratoires est nécessaire lors_de la détermination de marges autour du volume cible anatomoclinique .
+Pour certains auteurs , l' utilisation de l' imagerie portale pour un contrôle on line du traitement permet de limiter les incertitudes liées aux mouvements respiratoires  .
+L' utilisation d' une technique de blocage respiratoire en inspiration permet également de réduire les variations respiratoires intrafractions ( 1,4 1,6 mm )  .
+Dans notre étude , l' utilisation de la planification tridimensionnelle permet d' obtenir une distribution de dose de meilleure qualité dans le volume cible prévisionnel , au détriment d' une irradiation d' un volume cardiaque et pulmonaire plus important .
+L' emploi de techniques conformationnelles avec caches optimisés  , ou l' utilisation de la modulation d' intensité  serait susceptible d' améliorer encore d' avantage la dosimétrie .
+Ces techniques complexes nécessitent , outre des équipes entraînées , l' utilisation de moyens de contention adaptés et un contrôle de qualité extrêmement rigoureux .
+Leur application en routine n' est donc pas envisageable à l' heure actuelle .
+Il faut rappeler que dans notre série , le volume cible anatomoclinique est irradié de manière satisfaisante quelle que soit la technique de simulation utilisée .
+À l' inverse , avec la balistique déterminée en simulation bidimensionnelle , le volume cible prévisionnel ne reçoit jamais 95 % de la dose prescrite .
+La définition de ce volume est elle donc adaptée ?
+4.2. Optimisation de la simulation conventionnelle
+Si l' excellence des résultats cliniques de l' irradiation mammaire conventionnelle n' est pas contestable  , des améliorations techniques pour l' obtention d' une meilleure distribution de dose peuvent être envisagées  .
+Dans notre série , l' hétérogénéité de dose et la valeur de la dose maximale sont corrélées au volume de sein et à l' épaisseur du sein à l' axe .
+Cette corrélation a été retrouvée dans d' autres séries de la littérature  .
+Il faut souligner l' importance de prendre en compte dans l' analyse dosimétrique , la position du point de prescription , variable suivant les équipes  .
+Full-size image ( 35K )
+Fig. 7. Schéma des différents points de prescription de la dose lors d' une irradiation mammaire par deux faisceaux tangentiels , d'_après Das_et_al.  .
+Fig. 7. Different prescription points for an irradiation using two tangential fields according to Das_et_al.  .
+View Within Article
+Comment apprécier au mieux cette hétérogénéité de dose ?
+Pour Cheng_et_al.  , l' analyse dosimétrique sur trois coupes scanographiques est fiable pour les seins de petite taille .
+L' augmentation du volume mammaire nécessite la réalisation de coupes supplémentaires  .
+Dans notre étude , l' analyse dosimétrique sur trois coupes scanographiques sous-estimait l' importance des zones de surdosage .
+Leur localisation et leur étendue dépendent de plusieurs paramètres : le volume du sein , la forme du sein et de la paroi thoracique , l' angle du filtre en coin utilisé .
+La réalisation de cinq coupes dont deux passant à plus et moins 40 % de la taille du champ nous a permis d' estimer le surdosage comme avec une scanographie complète .
+La planification de traitement effectuée à_partir_de cinq coupes permet donc d' obtenir une distribution de dose optimale .
+La réalisation d' une scanographie complète en position de traitement n' est donc pas indispensable d' autant qu' elle impose des contraintes de positionnement liées à la taille du sein et au diamètre de l' anneau du scanneur .
+5. Conclusion
+La grande fréquence du cancer du sein , le rôle primordial de la radiothérapie dans sa prise en charge et la toxicité potentielle de ce traitement , expliquent le nombre de travaux consacrés aux améliorations techniques potentielles de ce traitement .
+La conception virtuelle de la planification de traitement se heurte à plusieurs difficultés .
+La détermination du volume cible anatomoclinique est complexe et nécessite d' associer clinique et imagerie .
+Le choix de marges autour du volume cible anatomoclinique n' est pas standardisé , dépendant essentiellement du matériel de contention utilisé et des moyens mis en oeuvre pour le contrôle de qualité du traitement .
+Compte tenu de ces incertitudes sur les volumes , le respect des normes ICRU devient difficilement compatible avec la préservation des organes à risque .
+Pourtant l' excellence des résultats cliniques obtenus avec les techniques classiques témoigne de la qualité des traitements effectués .
+Il faut donc probablement reconsidérer la notion de volume cible prévisionnel au cours des irradiations mammaires .
+Les simulations bidimensionnelles peuvent être optimisées sans avoir recours à une scanographie complète en position de traitement .
+Le respect de paramètres géométriques simples ( CLD 2 cm et MHD 1 cm ) permet de limiter la toxicité cardiaque et pulmonaire de l' irradiation .
+La prise en compte de cinq coupes scanographiques ( z = 0 , z = +25 , z = - 25 , z = +40 et z = - 40 % de la taille du champ ) permet de déterminer l' angle du filtre en coin à utiliser pour améliorer l' homogénéité de dose , et d' estimer de manière fiable la dose maximale et l' étendue du surdosage

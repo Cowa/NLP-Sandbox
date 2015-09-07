@@ -1,0 +1,95 @@
+Excipients are essential for the formulation of drugs to facilitate their preparation and patient acceptability .
+Recently , it has been reported that several common excipients can modulate the activity of the efflux transporter P-glycoprotein ( P-gp / MDR1 ) .
+Cremophor EL , Tween 80 and vitamin E TPGS increased the absorptive transport of the P-gp substrates by inhibiting secretion-directed transport in Caco-2 cells and enhanced the intestinal absorption in the rat model  .
+These studies demonstrated that some excipients can change the disposition of several drugs after administration by inhibiting efflux transporters .
+However , the extent of inhibition and specificity of excipients with respect to breast cancer resistance protein ( BCRP / ABCG2 ) , which is the more recently discovered an ATP binding cassette ( ABC ) harf-transporter , remains unclear .
+BCRP is a drug efflux transporter of the ABC family , expressed in several normal human tissues  , and can actively extrude a wide variety of substrates from cells  .
+BCRP is localized in the apical membrane of the intestinal epithelium and there are higher mRNA levels for this protein than for other efflux transporters such as P-gp in the human jejunum  .
+Moreover , the oral availabilities of several BCRP substrates were reduced markedly by BCRP  .
+Therefore , BCRP might play a similar role to P-gp in regulating drug absorption in the small intestine and the absorption of drugs secreted by a BCRP-mediated efflux system might be improved by inhibiting BCRP action in the intestinal membrane .
+The aim of this study was to examine the effect of excipients on BCRP function .
+Fifteen excipients currently used in pharmaceutical formulations were employed as test compounds , listed in Table 1. To estimate the BCRP inhibitory effect of various excipients , in vitro uptake studies were performed using Mardin - Darby canine kidney ( MDCK ) -II cells transfected with the gene for BCRP .
+In addition , to compare the inhibitory effects of excipients between BCRP and P-gp functions , an in vitro uptake study was also performed in MDCK-II cells expressing P-gp .
+Mitoxantrone , which is transported by both BCRP and P-gp  , was used as a substrate of both transporters .
+Table 1. .
+Description of tested excipients , their structural characteristics and the CMC .
+ExcipientStructural characteristicsDetermined CMC ( M ) a Cremophor ELPolyoxyethylene 35 castor oil50 Cremophor RH40Polyoxyethylene 40 hydrogenated castor oil100 Tween 20Polyoxyethylene 20 sorbitan monolaurate250 Tween 80Polyoxyethylene 20 sorbitan monooleate100 Span 20Sorbitan monolaurate100 Span 40Sorbitan monopalmitate200 Span 80Sorbitan monooleate100 Pluronic P85Polyoxyethylene 54 polyoxypropylene 39 glycol20 Vitamin E TPGSd--tocopheryl polyethylene glycol 1000 succinate100 Brij 30Polyoxyethylene 4 lauryl ether100 Myrj 52Polyoxyethylene 40 stearate200 Gelucire 44 / 14Polyoxyethylene 32 lauric glycerides15 Propylene glycol - - Glyceryl triacetate - - Ethyl oleate - -
+Full-size table .
+a Please refer to the methodology section for details .
+View Within Article .
+2. Materials and methods .
+[ 3H ] mitoxantrone was purchased from Moravek Biochemicals , Inc. ( Brea , CA , USA ) .
+GF120918 and PSC833 were donated from GlaxoSmithKline ( Uxbridge , Middlesex , UK ) and Novartis Pharma AG ( Basel , Switzerland ) , respectively .
+Cremophor EL , Tween 20 , Brij 30 and Myrj 52 were obtained from Sigma-Aldrich Co. ( St. Louis , MO , USA ) .
+Tween 80 , Span 20 , Span 40 , Span 80 , propylene glycol , glyceryl triacetate and ethyl oleate were obtained from Wako Pure Chemicals Industries , Ltd. ( Osaka , Japan ) .
+Pluronic P85 and vitamin E TPGS were donated from BASF Co. ( Parsippany , NJ , USA ) and Eastman Co. ( Wales , UK ) , respectively .
+Gelucire 44 / 14 and Cremophor RH40 were obtained from Gattefosse ( Gennevilliers , France ) and Nikko Chemicals Co .
+Ltd. ( Tokyo , Japan ) , respectively .
+All the other chemicals were available commercially and of reagent grade .
+The critical micelle concentration ( CMC ) of each surfactant in transport buffer ( 118 mM NaCl , 23.8 mM NaHCO3 , 4.83 mM KCl , 0.96 mM KH2PO4 , 1.20 mM MgSO4 , 12.5 mM HEPES , 5 mM glucose and 1.53 mM CaCl2 , pH 7.4 ) was measured using an Automatic Tensionmeter ( CBVP-A1 , Kyowa Interface Science Co. Ltd. , Saitama , Japan ) by the Wilhelmy Method at 37 C as described  .
+The CMC values were obtained from plots of surface tension versus the concentration of each excipient .
+Parent MDCK-II cells and stably P-gp-expressing MDCK-II cells ( P-gp / MDCK-II ) were seeded in 24 well plates at a density of 0.5 105 cells / well and grown for two days in Dulbecco 's modified Eagle 's medium ( Invitrogen Corp. , Carlsbad , CA , USA ) with 10% fetal bovine serum ( Sigma-Aldrich ) and 1% antibiotic - antimycotic solution ( Sigma-Aldrich ) .
+The parent MDCK-II cells were infected with the recombinant adenovirus harboring the gene for green fluorescent protein ( GFP ) or the BCRP expression vector at 150 multiplicity of infection .
+Details of the construction of these recombinant adenoviruses were described previously  .
+In P-gp / MDCK-II cells , medium was changed on the second day .
+After two days in culture , P-gp / MDCK-II , BCRP- and GFP-expressing cells ( BCRP / MDCK-II and GFP / MDCK-II , respectively ) were used for uptake studies and intracellular ATP assays .
+The uptake study was carried out as described  with minor modifications .
+The cells were incubated in the transport buffer containing 30 nM [ 3H ] mitoxantrone .
+For inhibition studies , 20 M GF120918 ( an inhibitor of both BCRP and P-gp ) , 5 M PSC833 ( a P-gp inhibitor ) or appropriate concentrations of excipients were added to the incubation buffer .
+At the designated times , the uptake was terminated .
+Cells were washed and lysed , and then , the radioactivity of the lysate was measured in a liquid scintillation counter ( LS6000SE ; Beckman Coulter Inc. , Fullerton , CA , USA ) .
+The remaining cell lysate was used to determine the protein concentration by the method of Lowry .
+In an uptake study of BCRP , to inhibit the effect of endogenous P-gp in MDCK-II cells 5 M PSC833 was added during incubation , except for those cells treated with 20 M GF120918 .
+ATP assay was carried out as described  with minor modifications .
+The cells were incubated in the transport buffer containing 100 mM sodium azide or excipients .
+Cells were exposed for 2 h then washed and lysed .
+ATP in the lysate was determined by luciferin / luciferase assay using ATP fluorescence kit ( Toyo Ink Mfg. Co. Ltd. , Tokyo , Japan ) .
+Data were evaluated using analysis of variance ( ANOVA ) and Dunnett 's multiple comparison test .
+P 0.05 was considered statistically significant .
+3. Results and discussion .
+In the present study , we have provided evidence for the first time that some excipients may have a considerable impact on the function of BCRP .
+The CMC of the 15 kinds of excipients are shown in Table 1. This study was performed at less or equal CMC of excipients such as surfactants to abolish micelle formation by the excipients .
+With regard to nonsurfactant excipients , such as propylene glycol , glyceryl triacetate and ethyl oleate , the effect was investigated up to 500 M. .
+The time profiles for the uptake of mitoxantrone ( 30 nM ) were investigated using BCRP / MDCK-II , P-gp / MDCK-II and GFP / MDCK-II cells ( controls ) and are shown in Fig. 1. BCRP / MDCK-II and P-gp / MDCK-II cells demonstrated markedly reduced uptake of mitoxantrone ; at 2 h , they were 0.4 and 0.4 times lower than into the GFP / MDCK-II cells , respectively .
+Full-size image ( 16K )
+Fig. 1. Time-dependent uptake of [ 3H ] mitoxantrone in BCRP- ( A ) and P-gp-expressing MDCK-II cells ( B ) .
+Uptake of [ 3H ] mitoxantrone ( 30 nM ) was measured for 10 , 30 , 60 and 120 min using BCRP- ( - ) or GFP-expressing cells ( controls ; ) ( A ) , and P-gp- ( ) or GFP-expressing cells ( controls; ) ( B ) .
+In measuring uptake via BCRP , 5 M PSC833 was added during the incubation to inhibit endogenous P-gp in MDCK-II cells .
+Each point and bar represents the mean S.E. ( n = 3 ) .
+Where vertical bars are not shown , the S.E. was within the size limit of the symbol. p 0.05 ; p 0.01 , significant difference .
+View Within Article .
+The uptake of mitoxantrone for 2 h in the presence of 15 kinds of excipients was determined using BCRP / MDCK-II and GFP / MDCK-II , and are shown in Fig. 2 ( A ) .
+GF120918 increased the uptake of mitoxantrone 1.7 times into BCRP / MDCK-II , whereas it had only negligible effect in the GFP / MDCK-II .
+Of 15 excipients , we found that five ( Cremophor EL , Tween 20 , Span 20 , Pluronic P85 and Brij 30 ) markedly increased the uptake of mitoxantrone in BCRP / MDCK-II cells , while they were less effective in GFP / MDCK-II , suggesting that these could be potent BCRP inhibitors .
+Full-size image ( 109K )
+Fig. 2. Inhibitory effects of various excipients on the uptake of [ 3H ] mitoxantrone in BCRP- ( A ) and P-gp-expressing MDCK-II cells ( B ) .
+Uptake of [ 3H ] mitoxantrone ( 30 nM ) was measured for 2 h in the presence or absence of excipients and positive control .
+As positive controls , cells were treated with GF120918 ( 20 M ) or PSC833 ( 5 M ) .
+In measuring uptake via BCRP , 5 M PSC833 was added during the incubation to inhibit endogenous P-gp in MDCK-II cells , except for the cells treated with GF120918 .
+The values are expressed as a percentage of the uptake in the absence of any excipients or in positive controls .
+Each column represents the mean S.E. ( n = 3 - 6 ) . p 0.05 ; p 0.01 , significant difference from control .
+View Within Article .
+Moreover , the uptake of mitoxantrone for 2 h in the presence of 15 kinds of excipients was also determined using P-gp / MDCK-II and GFP / MDCK-II , and are shown in Fig. 2 ( B ) .
+PSC833 increased the uptake of mitoxantrone 3.7 times into P-gp / MDCK-II , whereas it was less effective , but statistically , in GFP / MDCK-II .
+Ten excipients ( Cremophor EL , Cremophor RH40 , Tween 20 , Tween 80 , Span 20 , Pluronic P85 , vitamin E TPGS , Brij 30 , Myrj 52 and Gelucire 44 / 14 ) increased the uptake of mitoxantrone in P-gp / MDCK-II cells significantly , suggesting that these could inhibit P-gp .
+Additionally , these 10 excipients also increased the uptake of mitoxantrone in GFP / MDCK-II cells .
+This was presumably because of the inhibition of endogenous P-gp in the MDCK-II cell lines .
+Notably , there were differences in the inhibitory effect of excipients on BCRP and P-gp function although details are unclear .
+The exact mechanism by which excipients inhibit efflux transporters remains unknown .
+It has been reported that Pluronic P85 significantly reduces intracellular ATP levels , and this correlates well with the inhibition of efflux transporters  .
+However , we found no significant changes in the intracellular ATP levels in the BCRP / MDCK-II , P-gp / MDCK-II and GFP / MDCK-II cells by the five excipients that inhibited BCRP , whereas sodium azide markedly reduced the intracellular ATP level in all cell lines , indicating that a reduction in the intracellular ATP levels may only play a minor role in this and further studies are needed to clarify the mechanism .
+Pluronic P85 did not reduce the intracellular ATP levels in P-gp / MDCK-II cells , which differs from previous findings  .
+This might be because of a difference in the cell lines used .
+Table 2. .
+Intracellular ATP levels after treatment with excipientsa .
+Full-size table .
+aResults are expressed as means S.D. ( n = 3 ) .
+bConcentration of excipient is shown in the parentheses .
+p 0.01 , significant difference .
+View Within Article .
+In conclusion , this study demonstrated that some excipients , such as Cremophor EL , Tween 20 , Span 20 , Pluronic P85 and Brij 30 , can inhibit BCRP as well as P-gp .
+In fact , our recent study proved that some of these excipients act as bioavailability enhancers of BCRP substrate drug by inhibiting the intestinal BCRP  .
+For clinical application , the combined use of BCRP as well as P-gp substrates with these excipients may provide potential strategies for improving their bioavailability or tissue distribution .
+Acknowledgments .
+We thank Dr. Piet Borst ( The Netherlands Cancer Institutes , The Netherlands ) for providing the parent MDCK-II and P-gp expressing-MDCK-II cells , GlaxoSmithKline for supplying GF120918 and Novartis Pharma AG for supplying PSC833 .
+This work was supported in part by The Ministry of Education , Culture , Sports , Science and Technology , Japan .

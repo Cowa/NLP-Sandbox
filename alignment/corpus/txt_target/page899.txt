@@ -1,0 +1,281 @@
+The term life cycle has been used within the biomedical disciplines to describe the more rigid phases through which a biological organism travels throughout its life  .
+Within nursing research it has long been recognised that patients needs differ dependent on the life stage and that nursing itself has developed specifically to target interventions aimed at promoting or maintaining health in childhood , school years , adolescence , adulthood and old age .
+Life course research represents a group of methodologies and conceptual issues that are relevant to research questions which involve the interconnectedness of the various eras of the life course .
+It has been used very little within nursing and health services research .
+However , its application in this study suggested that it was a technique which may benefit healthcare research when attempting to understand complex health behaviours .
+There are many approaches to examining historical experiences , such as event histories , culmination of experiences and evaluation or interpretation of events .
+Both prospective and retrospective designs have their strengths and weaknesses .
+Prospective designs facilitate the selection of representative samples and the ability to collect current data .
+However they are often associated with problems of attrition , conditioning and expense .
+The methodological strengths of less-expensive retrospective designs lie in allowing the researcher to cover a lengthy time period and instant access to longitudinal data .
+Unfortunately these may be at the cost of recall , memory and possible survivor biases , the risk of past events being filtered through present experience and the need for participants to secure social acceptance .
+The concept of the life course was introduced in the 1960s with contributions from anthropology , history , psychology , sociology and medicine .
+Evidence from empirical research using methods such as historical demography , sociology of aging , life history and longitudinal surveys have all influenced the current perspective of life course research .
+Much research has centred on large prospective panel surveys , such as the 1958 British birth cohort study , whose follow up of individuals to the age of 33 years indicates that inequalities in self-related health are related to social differences in material circumstances and of differences in individual skills and resources acquired in early life  .
+Up to the 1990s the perspective of the life course remained controversial as it emphasised human plasticity and the historical context of age-related patterns of behaviour and called into question the regularity of universal stages of development proposed by developmental psychologists ( the life cycle ) .
+The life course perspective and its associated methods of data collection have gained favour in the last few years due to a change in biographical methods in general .
+For the last 30 years the use of biographical methods have moved away from focusing on the present situation of an individual to the perspective of whole lives  or across whole families and several generations  .
+Today the life course framework spans both the traditional humanistic interests in the quality and course of human lives and the alternate approach of precision of observation and analysis .
+O'Rand states that the key building block elements of the new life course paradigm are events combined in event histories or trajectories that are then compared across persons or groups by noting differences in timing , duration , and rates of change  .
+Colby argued for this new perspective with a constructivist approach to life course study , recognising that the individual and social change are interconnected through mutual influence  .
+Methodological guidance specifically related to life course studies has been published by Geile and Elder and more recent information is contained in the handbook of the life course by Mortimer and Shanahan .
+1.1. The life course paradigm .
+The paradigm , states that any point in the life span must be viewed dynamically as the consequence of past experiences and future expectation .
+It includes : location in time and place ( history , social structure , culture ) , linked lives ( influence of institutions / groups ) , human agency ( individual goals , sense of self ) and timing ( chronological events )  .
+Full-size image ( 29K )
+Fig. 1. The four key elements of the Life Course Paradigm .
+This diagram shows the four key elements of the Life Course Paradigm , showing the interconnections between the four elements of location in time and place , linked lives , human agency and timing .
+These four elements determine the possible different trajectories taken over the life course .
+Diagram is the author 's ( CB ) own design after Giele and Elder,1998 , p. 11 and p. 40. .
+View Within Article .
+The first domain relates to location in time and place , and describes an individual 's cultural background and period in time .
+Individual and social behaviour involves different levels of social and physical context and results in both general and individual experiences .
+This phenomenon is termed social patterning in the sociology literature , and is a practice that continues through time .
+The second , linked lives , relates to social integration .
+All levels of social interaction , cultural , institutional , psychological interact and mutually influence individual behaviour .
+These social expectations or norms differ between individuals but may also be similar where shared family background or experiences exist , such as seen in cohort studies .
+The third , human agency , concerns an individual 's goal orientation .
+Age , as it is a marker of individual development , is therefore linked to human agency .
+However , the relationship between age and human behaviour over the life course is complex .
+A number of psychological control theories exist for explaining human behaviour , most of which rely on the tenant that humans wish to produce behaviour that is linked to an event and elicit control over their environment  .
+When this control fails , then there is a related negative affect when faced with anticipated or actual loss of control .
+The Life-Span Theory of Development suggests that the emergence or transformation of behaviour over the life course is influenced by both primary and secondary controls  .
+It states that primary controls relate to behaviours directed at the external environment and involves attempts to change the world to fit the needs and desires of the individual .
+Secondary control attempts to minimize losses due to failures and boost primary control functions .
+It is suggested that over the life course the controls will differ due to the opportunities and barriers encountered .
+From a constructivist perspective , the connection between age and human agency is not rigid and although influenced by age norms , it is also affected by many other factors and can show great variation , as demonstrated by studies of developmental regulation across adulthood  .
+Individuals or groups meet their own needs as a result of active decision making and organising their life around personal or group goals , for example being economically secure or avoiding pain .
+The life course perspective includes a final dimension , timing of lives , or strategic adaptation , to accomplish goals .
+Individuals or groups respond to the timing of external events and undertake behaviour to use the resources available .
+The timing of life events could therefore be seen as both a passive and active adaptation for reaching individual or group goals and brings together the other three elements , integrating historical , social and individual activities .
+Giele and Elder suggest using this model to look at an individual 's adaptation to certain events or situations .
+When seeking a methodology to describe and explore the circumstances of referral due to a family history of breast cancer , the life course paradigm provided a useful theoretical framework in which to explore the referral event .
+The majority of studies of health behaviour in the context of genetic risk for developing cancer have tended to focus on the psychological harms and benefits of this new information  .
+These studies have indicated that it is likely that other factors are also influencing behaviour ; our interest was to try to understand the more complex interrelationship between the psychological interpretation of the information and the social and political context of the person and their family .
+To understand health behaviour in the context of genetic risk , it would therefore be important to select a methodology capable of taking into account the wider context and a holistic view of the individual and their family .
+1.2. Systematic review of the life course paradigm in healthcare literature .
+During the preparatory stages of the study we became aware that although the life course paradigm appeared to be particularly relevant to the study , there was little published health research which had utilised this approach .
+A systematic search of the following 8 electronic databases was performed ; CINHAL , PsychINFO , MEDLINE , Web of Science , CancerLit , EMBASE , SSCI and AHCI , to identify if the life course paradigm had been used within the nursing literature .
+On reviewing the indexing terms for each database , it was clear that none used the term life course as a major heading , therefore free-text searches were performed for the terms life course and nursing and then combined .
+This produced 111 results .
+We then examined the abstracts of all results for evidence of the life course paradigm .
+This uncovered eight results from within the health literature that had used elements of the life course paradigm .
+Five of the papers report empirical research using a life course perspective , whilst four papers are either commentary or review papers .
+Three papers have used the life course framework to review the existing healthcare literature within a specific field : oral healthcare  , mental health  and childhood onset disability  .
+Evidence of the life course paradigm used by a prospective study of patients diagnosed with coronary artery disease showed that this approach can be used alongside quantitative methods to give a rich insight into living with a chronic disease ( [ Lukkarinen , 1999 ] and [ Lukkarinen , 2005 ] ) .
+Two papers looking into the aspect of caring for family members throughout the life course demonstrate the retrospective approach ( Zhan , 2002 ; Malone Beach et al. , 2004 ) .
+2. Application of the life course paradigm .
+The increase of genetic research in the last decade has resulted in discoveries that affect the ability of health professionals to give individualised risk information based on family history or DNA testing  .
+Following the identification in 1994 of the genes responsible in most inherited breast cancer , there was a sudden demand for referral that threatened to overload the oncology services in the UK  the US  , Australia  and Europe  .
+The techniques of creating life course charts are described in the context of a study aimed at exploring why women at low risk ( less than 16% lifetime risk of developing breast cancer due to their family history ) , represented at least a quarter of referrals to specialist centres .
+2.1. Exploring referral for a family history of breast cancer .
+As part of this study women were interviewed to explore their experiences of the referral event and also their prior interactions with health professionals .
+The research was reviewed by the local ethical review committee .
+All women in this study had been referred to a family history breast-screening clinic for an assessment of their personal risk of developing breast cancer .
+This nurse-led clinic is located within an acute surgical outpatient department of a cancer centre .
+The sampling strategy followed a purposeful approach , aimed at maximum variation and allowing for further expansion of themes emerging from the data-analysis .
+A total of 136 referral letters were received by the hospital clinic and were reviewed chronologically .
+All of these were written referrals from a general practitioner .
+Batch one consisted of the first 26 letters , these were reviewed and a sample of 16 were chosen which met the following criteria ; women without a personal history of breast cancer and whose families represented a range of genetic risk .
+Batch two consisted of 96 referrals , 13 were chosen as they met the above criteria plus purposely sampling for those who were likely to be at low genetic risk , as this was emerging as an interesting area of investigation .
+Batch three consisted of 14 referrals and these were sampled for the above criteria and also selected for older women over the age of 55 years and unusual cases that had not occurred in the previous samples .
+This sampling procedure ensured that as interesting phenomena emerged from the initial interviews similar and also dissimilar cases were selected to increase the evidence for , or to dispute the emerging ideas .
+Of all 38 women , 24 of the approached agreed to participate .
+Two interviews were not able to be completed in the 6 weeks timescale from referral to interview required by the study to allow recent reminiscence of the referral event .
+Women were sent a letter and a patient information sheet from their clinician with a reply slip to the researcher , who made certain that the information had been fully understood , prior to arranging an interview .
+At the time of interview none of the women had been seen in clinic .
+2.2. Techniques and procedures of life course charting .
+This research used a cross-sectional retrospective design .
+The semi-structured interviews were transcribed and analysed using constant comparison techniques  but also within the separate but complementary life course paradigm  .
+In this study the interview transcripts were analysed by using a grounded theory approach , grounded theory was chosen as it had the ability over other qualitative methodologies to produce explanatory linkages between concepts and to allow sensitivity to emerging areas of interest , rather than purely a rich description .
+As this research was based from within a constructivist paradigm the analysis followed a grounded theory approach the analysis strategy used by this study is fully described by Eaves ( 2001 ) and consists of purposeful sampling , open coding , memoing , constant comparison with new data , axial coding , selective coding and theoretical saturation  .
+Complimentary to the grounded theory analysis was the construction of life charts .
+The life charts , are the authors ( CB ) interpretations based on the constructed stories and events described by the women during the interview .
+Participants were asked towards the end of the interviews to describe their own life and their experiences with breast cancer from childhood to the present day , encouraging them to mention specific events and feelings .
+The data were standardised by a coding framework that organised the text chronologically for time of incidence ( e.g. for breast cancer diagnosis , clinic referral , etc. ) and also chronological age .
+Also important was the collection of both subjective information , relating to the feelings of women at that time and objective information such as , was an onward referral made .
+Initially , rough diagrams were made on paper indicating all the events that were mentioned .
+The life course paradigm brings theoretical sensitivity ( in terms of the life course of the participants ) to the analysis and adds a complementary perspective to the grounded theory analysis .
+In this study , women were asked to discuss their prior experience with breast cancer in the family .
+Therefore the women in this study are talking about a reconstruction of their past , which situates the past within the immediate historical and social circumstances of the present .
+This has been termed the presently understood past and other forms of research such as life reviews have revealed how an individual repeatedly reconsiders and reinterprets past events in light of a vantage point of the present  .
+By situating the discussion regarding the family history of breast cancer and the ensuing referral event in context , and by evoking the presence of the author in the study  , the research takes a narrative approach to biography  , as opposed to the realist and neo-positivist approaches as described by Miller ( 2000 ) .
+In this study it was not the true historical situation of the past we wished to study but the current day perceptions of past experiences in relation to breast cancer , thus taking a constructivist perspective and a recognition that individuals relay their interpretations of the presently understood past .
+One in which the researcher recognises that storytellers select the components of the stories they tell ( reconstruct ) in order to convey the meaning they intend the listener to take from the story and that the historical truth of an individual 's account of an event is not the primary issue  .
+The novel methodology of drawing life course charts has not to our knowledge been used within health services research .
+During data collection , life charts were created alongside coding of interviews and helped inform the sampling strategy .
+2.3. Construction of life charts .
+The charts are constructed using the iGrafix Microsoft drawing package with the woman 's chronological age as the y-axis and the historical context along the x-axis .
+Of note are social historical events such as , the start of the NHS in 1950 providing free healthcare , the start of the Human Genome Project in 1980 , the isolation of the first hereditary breast / ovarian cancer gene , BRCA1 in 1994 and the availability of specialist family history breast screening clinics on an ad hoc basis from 1997 .
+The charts indicate affective ( periods of concern , subjective turning points , as identified by the women themselves , such as marriage , motherhood , bereavements , significant periods of change ) and objective data ( periods of knowledge of breast cancer in the family , interactions with health professionals ) .
+White circles represent a diagnosis event ( usually breast cancer ) in a friend or family member and the black circles are deaths .
+The arrows represent an interaction with a healthcare provider to discuss family history , or where it was raised .
+Periods of knowledge about the breast cancer history were shown as a green line ( light grey ) and periods of concern shown as a red line ( dark grey ) .
+An example of the baseline chart is provided in Fig. 2. This chart allows the researcher to visualise the timing of significant events across the life course and identify their context in terms of historical significance ( e.g. before breast cancer genes were identified ) , period of the individuals life ( infancy or adolescence ) , and how the event of interest ( referral in this study ) is placed against other significant events such as motherhood or personal illness .
+What events are charted depend on the perspective of the researcher and the main research questions posed by each study .
+The charts are a powerful technique to help develop an interpretation of the possible interplay of events .
+Full-size image ( 78K )
+Fig. 2. Example Life Chart .
+This shows the structure of the chart with the y axis=the woman 's age , the x axis= the historical time period of the events , the trajectory line=the women 's remembered experiences in relation to familial breast cancer , turning points or specific events , the time of diagnoses in family members , when explicit knowledge was made available about the family members diagnosis , the level of concern and any interactions with health professionals .
+View Within Article .
+The iGrafix software also facilitates superimposing multiple individual charts , to create multi-charts .
+Using this technique it was possible to overlay one woman 's chart with another , which enabled the similarities and variations in experiences and referral pathways to be contrasted and compared .
+One example of this was to compare the charts of those women who had only known about the breast cancer more recently compared to those who had had the knowledge for a number of years .
+This enhanced our understanding and a pattern emerged .
+Although showing variation in the time taken between gaining the knowledge that the breast cancer was in the family , to being referred , there emerged a group of women who were motivated to seek interaction with a health professional quickly after gaining the knowledge , whilst others , the sub-set shown in Fig. 3 , waited a number of years .
+Full-size image ( 86K )
+Fig. 3. Multiple Life Course ChartsParticipants who had known about the breast cancer in the family for a number of years before referral .
+A multiple life course chart showing 9 women who had a long period of knowledge about the breast cancer in the family , showing the variation in number of interactions with health professionals ( single and double arrows ) , time known about risk ( green / light grey line ) , time period of concern ( red / dark grey line ) , age at time of diagnosis in relative ( white circle ) and age at relatives death ( black circle ) .
+View Within Article .
+3. Findings3.1 .
+The contribution of the life course charts to the identification of the psychosocial process of realisation of risk .
+Twenty four out of the 38 women approached agreed to be interviewed ( 63% response rate ) .
+In total 22 women were interviewed , 21 were referred from primary care and one from the hospital breast clinic .
+Nineteen women ( 86% ) had only one or two affected family members with 14 ( 64% ) having only either a mother or a sister affected .
+The lifetime risk of developing breast cancer for the individual was calculated  .
+Thirteen ( 59% ) women were at low ( less than 16% risk ) , 6 ( 27% ) at medium ( between 16 and 25% risk ) and 3 ( 14% ) at high ( over 25% risk ) .
+All women described themselves as white , ages ranged from 25 to 62 years .
+The women were aged between 1 and 62 years when their first relative was diagnosed with breast cancer and 11 ( 50% ) of the women were below 17 when their relative was diagnosed .
+In 13 families ( 59% ) the closest affected family member was the woman 's mother , in six cases ( 27% ) a sister and the remaining three cases ( 14% ) involved more distant family members .
+Unlike other studies exploring why women attend family history clinics , the majority of women in this study were from the lower social class range ( 15 / 22 , 68% ) and half of the women had no formal education after the age of 16. .
+This study , which had the referral event at its core , seems to have benefited greatly from the inclusion of life course charts to contributing to the identification of the psychosocial process of realisation of risk .
+The psychosocial process was developed from grounded theory analysis in conjunction with review of the life charts in an iterative process .
+Examples are given as illustrations of the data and are not intended to show the full analysis .
+Six initial categories were identified ; personal meaningeven knowing my mother 's history it never really bothered me ID13 ; initiation of concernIt 's too close to home ID3 ; social and family influenceYou start looking after yourself because you want to be there when they are older you know ID136 ; action / InteractionI have made the first step now ID24 ; healthcare responseI thought they'd think me paranoid ID3 ; hopes and expectations of referralAll I want is a mammogram ID 125 .
+The process of realisation of risk was found to be the main motivator behind the woman 's or the health professional 's reason for initiating referral .
+Full-size image ( 114K )
+Fig. 4. The Psychosocial process-realisation of risk .
+View Within Article .
+By using one woman 's story , it can be seen that the ability to observe and chart multiple domains can be powerful for identifying conceptual processes , e.g. ID 24 .
+This 22 year old woman had moved house in 1997 and registered with her local doctor .
+During her routine new patient interview the doctor asked if there were any cancers or heart disease in the family.she has a list of them , and she asked me about heart disease , and a good few things , so it kind of covered a lot of things but they kind of really stuck on the cancer when I mentioned my mother .
+Full-size image ( 58K )
+Fig. 5. Example of life chart ID 24 confirming the realisation of risk process .
+View Within Article .
+The woman explained that her mother had died a year ago of breast cancer The GP asked the age of onset ( 44 ) saying that it would be wise to check herself as it could be inherited .
+This is an instance of present ( focused ) realisation of risk held by the health professional , which was not previously present in the woman .
+In order to make a referral the GP asked for more information relating to other family members and asked the woman to return to the surgery in a few weeks.She did say like , she told me to go away and think about it , and she told me first , when I had all the information sorted out that they wanted to know , how many people had breast cancer and the ages , and when I had that information to drop it down to her .
+This raised a present ( focused ) realisation of risk in the woman but did not initiate referral .
+The woman then went away concerned but felt that she was not able to face the issue so soon after her mother 's death and did not wish to raise the issue with the family .
+She evoked coping mechanisms that allowed her to lower her levels of concern resulting in a more unfocused realisation of risk.I think I was more shocked first of all when Dr B ( her GP ) started explaining to me , and I did , I wanted to get it done there and then , but I just couldn't you know , it was so soon after my mother had died , and you know I was sick of cancer and I just didn't want to hear about it I know sometimes , which I shouldn't say , sometimes I think like letting sleeping dogs lie , and if it happens it happens , because you just want to push it to the back of your mind .
+Four years later a number of instances triggered feelings of personal vulnerabilitya friend back home had recently had to undergo aggressive therapy for a bone cancer and her father 's sister had been diagnosed with breast cancer age 60 years , which was detected late as she did not go for screening.What if she did go in earlier , she might not even have had to have her breast removed , she waited 6 months before she went in .
+I know she must have got a shock then , it 's in the family and she might have wanted to put it to the back of her mind , but you can't put that to the back of your mind .
+Do you know , that 's going to be always there .
+She felt that now was the time to act so went back to the surgery.But I think more like as time has gone on and I have got older , and I know that you can't run away from everything like , and I definitely want to do it now But it 's only now , recently , because a few friends of mine have got cancer at home that I think about checking it out now and something can be done about itand to hear information about myself , not my mother , not my aunts , just about me now , just I know all about their health now , this is more about me , myself now .
+She specifically made the appointment to see the same GP , who was unavailable , and saw another doctor instead .
+He was not as keen to take her issues as seriously , but said he did not know much about what was available .
+He held an unfocused realisation of risk .
+However a referral letter was written .
+The woman felt pleased that something was being done and that she was now facing up to the problem .
+She felt relieved after she had been , as she was now being cared for and was expecting to get surveillance .
+In reality this woman was at low genetic risk ( below 15% lifetime risk ) and would not be offered any extra surveillance when she did attend the clinic .
+3.2. The contribution of the life charts to identifying two elements of the realisation of risk process .
+The life charts facilitated the identification of two important concepts , which drive the referral process , those of anticipated onset and generational transference , shown by the highlighted box in the process diagram .
+3.2.1. Anticipated onset .
+The term anticipated onset has been applied to describe the concept of how women feel when they acknowledge that they perceive a threat to their own health from breast cancer at a specific life stage , as demonstrated below.No , you see when I was in my 20 's it didn't bother me , you know , I didn't think about it or worry about it or nothing like that , but then when I started turning 30 , that 's when it started to prey more on my mind , and I would sit and think and worry , and then I let it go , but once I started reaching 39 now , this is when it is starting to worry more now I had other things on my mind , and like I was more active like you are then , but now as I am getting older , I understand more and I am more wise , more alert and remembering my mum at 42. You see , that 's what 's going through my mind .
+I am 40 next year , and I have got this thing in my mind that I will get cancer .
+I am convinced that I will get it , and that 's what 's frightening me .
+ID 2 ( 39 year old at medium risk whose mother developed cancer at 42 ) .
+Feelings of anticipated onset relied upon the woman having knowledge of what ages the breast cancer had occurred in their relatives , but describes more than a specific chronological age .
+Examples included , I'm close to that age now , I'm in my 40s , it 's in that age group , my mother was 39 it will happen then .
+Approaching the age of onset in an affected family member was often the motivation for seeking referral .
+This has been seen in another study , relating to the decision to pursue genetic testing for inherited bowel cancer susceptibility and was termed risky age by McAllister ( 2001 ) .
+A correlation between age at referral and the age at which a close family member was diagnosed has been recently demonstrated  .
+However in the current study there were negative examples of this ; women who described not being concerned , even when they were a similar age to the affected relative .
+If other conditions were present , which prevented the woman thinking about possible vulnerability then no anticipated onset was described .
+The reason why these women did not have associated feelings of vulnerability is likely due to other contextual factors .
+The life maps helped highlight this concept by highlighting particular events such as caring for a sick relative or having financial difficulties and therefore not feeling able to address personal health concerns .
+Also the ability to chart the age of the affected relative onto the woman 's own personal chart was a powerful indicator that this was a life period where feelings of vulnerability often arose .
+This ability to link lives helped formulate the development of the theory of realisation of risk .
+3.2.2. Generational transference .
+The women in this study , when creating meaning out of current events , seemed to draw upon past experiences of similar events or experiences in their history .
+They sometimes articulated remembering their relative and begin to put themselves in their place , often when social roles become similar , such as motherhood .
+We have used the term generational transference to describe the concept of personally relating to an affected family member 's social role , appearance or personal situation that results in a raised concern about your own circumstances in relation to vulnerability to illness and death .
+Women who described this phenomenon were often approaching a similar stage in the life course , such as the age of onset of cancer in a relative ( anticipated onset'as described above ) a similar social role , had children at a similar age to the children of the affected relative at the time of illness , had family responsibilities , or even just a similar personal appearance .
+Examples of this are given below .
+The importance of personal family experiences has been highlighted in many studies , a similar concept , likeness , has been recently described by Walter and Emery as part of their proposed model of familial risk perception.My biggest worry is , you see what it is with my mum dying so young , you see my mum was only 39 when she passed away , and I feel is that what is going to happen to me .
+I am going to be taken by this illness and my children are going to be left young , like I have got a younger brother as well who was only like 8 when my mum passed away , and I am so terrified of that happening while I have got my little ones .
+ID 15 ( 25 year old woman who had a 7 year old son ) .
+Where examples of generational transference occurred in the stories of the women the occurrence often led to feelings of increased personal vulnerability .
+The health behaviour associated with the feelings was often facilitated or constrained by contextual factors such as the availability of a clinical service .
+The x-axis on the life charts shows the rapid pace of development in scientific understanding of inherited breast cancer ( 1994 ) and also the lag between scientific discovery and the availability of specialist clinical services ( 1997 ) .
+3.3. Initiation of referral .
+Fifty eight interactions with health professionals were described by the women in this study ( 22 interactions had led to the current referral event and 36 historical interactions ) .
+These interactions were coded as belonging to one of three groups .
+Women who self-initiated the appointment directly to discuss their family history ( self-direct ) 38% ( 22 / 58 ) , women who initiated the discussion opportunistically when attending for another reason ( self-indirect ) 45% ( 26 / 58 ) and those women whose interaction was initiated by the actions of a health professional ( HP initiated ) 17% ( 10 / 58 ) .
+Both a focused risk realisation and the co-existing presence of personal vulnerability seemed to drive the referral process towards a more active pathway to onward referral .
+The level of personal vulnerability expressed by the women seemed to be correlated with their pathway .
+Women who travelled an active pathway to referral ( those who initiated interaction directly ) seemed more likely to have perceived a personal vulnerability .
+Women without feelings of personal vulnerability tended to travel an inactive path and those who had been referred on the advice of health professional travelled a more passive pathway .
+The amount of vulnerability felt by the woman seemed to drive the referral process forward .
+Those women travelling an active pathway were likely to gain an onward referral ( 86% gained referral ) as opposed to those women travelling an inactive ( opportunistic ) pathway ( 27% gained referral ) .
+There were some cases where women did express feelings of high vulnerability but who did not seek referral .
+These cases are important as they highlight that in circumstances , where women had high levels of concern about vulnerability but also held an unfocused view of their risks they seemed less likely to gain onward referral .
+In some cases a referral was made , but this was nearly always due to the women perceiving that the health professional realised a risk and feeling obliged to refer onwards .
+In other cases the women perceived that the health professional did not feel there was a risk ( absent realisation of risk ) and discussed the issues with the women , who did not hold focused ideas about what she expected to gain from referral with the result that no onward referral was made .
+A model suggesting the likelihood of referral initiation is shown by Fig. 6. As this study only interviewed the women following the referral event and not the health professional , the state of risk realisation shown by the health professional is a subjective measure .
+Full-size image ( 48K )
+Fig. 6. Proposed model to predict the likelihood of a referral event taking place from primary care to specialist services .
+View Within Article .
+4. Discussion .
+The use of the life course paradigm as a theoretical framework and the novel development of life charts helped define the core psychosocial process occurring to initiate referral in the context of a perceived familial risk .
+The life charts allowed visualisation of a number of factors including historical context , current age , life stage and timing of other relevant events such as death of a relative or diagnosis of chronic disease .
+The choice of what items are relevant to plot depends upon the research question and the events the individual or researcher wishes to mark as relevant .
+This analytical approach is complementary to grounded theory , from gathering the information to questioning the representations of the life charts .
+This methodology could be used to address many nursing and healthcare related research questions which have a complex interplay of health , social , psychological and historical factors .
+As the life course paradigm has already been used theoretically to chart chronic illness it could be that life course charts could be developed to help understand health behaviours in many chronic diseases , the life charts could be used in conjunction with the participant and drawn together .
+Life course charts therefore have strong utility in the understanding and management of health-related risk .
+Their use in the field of health promotion could be beneficial .
+It is proposed that the construction of life course charts could be beneficial in exploring the life experiences of patients in other areas of nursing practice .
+Diagrams of family dynamics and genograms are currently used as part of family therapy , and it is possible that the historical context provided by the life chart approach could be helpful in discussing changes or event histories within a family , especially using the ability to layer each individuals chart to create a multiple chart for the family .
+Nursing practice often requires exploration of the circumstances leading up to an illness and also the trajectory of the illness and healing process .
+The ability to discuss this with patients and ask them to tell you their story has already proved an important part of nursing .
+It is possible that a life chart allows a pictorial representation of this story , that can be contrasted with others and used to explore the patients own journey .
+In this study , the life charts helped demonstrate that referrals , rather than being motivated by valid genetic risk , were greatly influenced by the psychological , social or health concerns of the woman .
+The model of the likelihood of initiation of referral could be tested further to see if the combination of risk realisation by the women and their health professional does predict the likelihood of referral .
+This study provides some evidence to suggest that when health professionals are knowledgeable about the genetic risk and have the time to elicit personal concerns , concern can be often resolved within primary care or the women can make an informed decision to agree to onward referral .
+A recent review of qualitative research relating to familial risk highlighted a number of the concepts identified in this research study and confirms the importance of qualitative methodology in identifying issues important to the individual in this context  .
+Both qualitative and quantitative methods can be utilised within the life course paradigm .
+How the tools of the method are used depends upon the basic philosophical beliefs about enquiry as held by the researcher .
+The exemplar study described here used both grounded theory methodology and life course charting from within a constructivist framework , allowing the women themselves to construct their life stories of experiences related to their referral from primary care .
+This dual approach allowed the use of some of the techniques for enhancing theoretical sensitivity from the grounded theory analytical tool-kit to be applied to the life charts , such as questioning , comparing and looking for exceptional cases .
+The actions of women in this study suggest that they are appraising their situation in terms of a threat or concern and often approached health professionals directly .
+The outcome of such an approach seemed dependant upon the availability of National Health Service resources , in terms of knowledgeable health professionals or specialist clinics .
+By plotting each of the 58 interactions with health professionals onto the charts we found in this study ( in contrast to the two questionnaire studies below ) that these women could not easily articulate why or to what service they had been referred , especially those who had been referred following advice from a health professional .
+A range of motivations for seeking referral were found by van Asperen_et_al.  who asked 322 women by a postal questionnaire to select from a pre-defined list of 11 motives , why they were attending a cancer genetics clinic .
+They concluded that women have their own unique combination of motives for attending , often influenced by sociodemographic factors such as age and whether they have young children  .
+More detailed insight is gained by Fraser et al. 's ( 2003 ) study of 162 individuals referred ( 72% instigated by a hospital doctor or GP , 16% at own instigation and 12% by others ) to UK cancer genetics services .
+This study again asked participants to select on a scale of 1 - 5 the importance of a set of 11 motivational factors .
+They reported that screening is rated as more important by those with children , along with those who perceive their risk of developing cancer as much higher than average , and those who were categorised as having high levels of cancer worry .
+Similar to Brain_et_al.  , they found that older people are more interested in attending in order to find out about the risk to other family members .
+In the above studies it is difficult to assess if participants had pre-formed motivations or were prompted by selecting from a pre-defined list .
+This is one of only a few studies to primarily involve women at low genetic risk who have been referred from primary care .
+In effect , this group represents by far the largest population affected by having a family history of breast cancer .
+In total , 7% of adult women in the UK have had a close relative develop breast cancer .
+Although this group would not necessarily be expected to benefit from intensive surveillance , this research provides evidence that many women at low genetic risk are worried and seek information from health professionals .
+This is in agreement with Phelps_et_al.  where women at low risk were less satisfied with receiving information regarding their risk assessment by letter , and wanted more information , than those at moderate risk  .
+This highlights the important concern that health professionals can sometimes raise concern unnecessarily due to the provision of inappropriate advice ( Hetteberg et al. , 1999 ; [ Kirk , 1999 ] and [ Kirk , 2004 ] ; Kirk et al. , 2003 ; Metcalfe and Burton , 2003 ) .
+The study identified 58 interactions with health professionals , 35 / 58 ( 60% ) did not result in onward referral .
+Currently new technology is being developed , such as computer programmes , that should allow health professionals in primary care access to information on which to base an accurate risk assessment  are being piloted .
+As nurses , doctors and others working in healthcare settings are more frequently becoming faced with questions concerning familial risk , it is important that they be able to ellicit the potential motivation behind a referral for specialist risk assessment , before making a judgment based solely on statistical risk .
+The results from this life course study raise more questions in the complex area of the illness-health divide .
+Many of the existing theories of health behaviour rely on a starting point of either illness or health .
+Health behaviour is too often represented by theoretical approaches which stress cognitive processes as determinants of behaviour .
+A meta analysis of studies using the well-known models of Theory of Reasoned Action and Theory of Planned Behaviour , showed that only 40 - 50% of the variance of intention and 20 - 40% of the variance of behaviour were explained by the models  .
+Evidence from this study shows that women feel that they are at risk from different threatsfrom illness , from carrying a faulty gene and from loss of ability to maintain social role .
+It is perhaps important to consider this when designing instruments to measure health behaviour in the context of having a family history of illness .
+The Model of Familial Risk Perception was developed in 2005 by Walter and Emery from interviews with 30 individuals at risk from chronic disease due to their family history  .
+Our study concurs with many of the findings from this model .
+The concepts of anticipated onset and generational transference are also similar to the themes of likeness and perceived closeness mentioned in Walter and Emery 's study ( 2005 ) .
+Both the Psychosocial Process of Realisation of Risk and the Model of Familial Risk Perception have elements in common with Leventhal 's theoretical work , the Common Sense Model of Self Regulation , which arose from the observations that both cognitive and emotional representations of the threat were appraised before an attempt was made to control the threat  .
+Walter et al. have recently mapped the results of their study onto elements of this model and have theorised that this could be a helpful way of understanding familial risk  .
+5. Conclusion .
+Two questions lie at the hub of most traditional social science life course research : how have individuals been affected by social change and how have the life course situations of some groups actually influenced social change ?
+The purpose of this article has been to highlight the value that life course research methodology could bring to nursing research .
+Possible questions to consider are : how have patients been affected by our healthcare system and how has the life course situations of certain patients influenced healthcare change ?
+This article has shown that the life course paradigm allows a broader understanding of health behaviour by placing behaviour in its social and political context and also widening the focus from purely psychological determinants to include a temporal element as well as environmental , economic , social and behavioural determinants of chronic disease .
+The life charts used in this study were drawn by a computer package , however it is possible to discuss and draw an individual 's life chart with pen and paper .
+It would be interesting to develop the technique further with the option of more dynamic life charting at the time of interview .
+We conclude that the novel method of life course charts help to highlight similarities and differences relating to a common event , making this a valuable method for examining nursing practice and patient experience .
+Acknowledgements .
+We wish to thank the women who participated in this study and Dr. Alison Metcalfe for her advice and helpful comments on the manuscript .

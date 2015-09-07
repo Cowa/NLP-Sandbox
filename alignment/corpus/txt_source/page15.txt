@@ -1,0 +1,258 @@
+Le cancer du sein , première pathologie maligne chez la femme , reste une maladie rare chez l' homme .
+Il représente environ 1 % des cancers du sein et moins de 1 % de l' ensemble des néoplasies masculines  .
+Son incidence augmente faiblement , mais de façon constante depuis les années 1970  .
+Puisqu' il s' agit d' une maladie rare , et bien_que de nombreuses études fassent référence à cette pathologie , il s' agit le_plus_souvent d' études rétrospectives ayant un nombre limité de patients .
+Le cancer du sein chez l' homme est une pathologie méconnue du grand public et la découverte d' un nodule mammaire chez un homme ne suscite pas la même inquiétude que chez une femme .
+Lorsque ce nodule survient chez un homme âgé et en surcharge pondérale , son diagnostic sera encore_plus difficile .
+Au total , le cancer du sein chez l' homme est une pathologie diagnostiquée le_plus_souvent à un stade avancé rendant son pronostic plus sombre .
+La prise en charge thérapeutique a été extrapolée depuis des connaissances acquises chez la femme .
+Le traitement chirurgical conservateur n' a pas sa place dans le traitement du cancer du sein chez l' homme , d'_une_part , du fait du faible volume mammaire et , d' autre_part , de l' acceptation aisée de la mastectomie .
+En revanche , tous les autres traitements , chirurgicaux ( curage axillaire ou ganglion sentinelle ) , radiothérapie , chimiothérapie , hormonothérapie ( tamoxifène ou anti-aromatases ) et biothérapie ( transtuzumab ) peuvent faire partie de l' arsenal thérapeutique à notre disposition pour combattre cette forme rare de cancer .
+Les objectifs de cette étude reposent à_la_fois sur la description d' une série de patients traités dans un même établissement , ainsi_que la recherche de facteurs prédictifs de mauvais pronostic afin_d' améliorer la prise en charge de ces patients .
+2. Patients et méthodes2.1 .
+Patients
+Les critères d' inclusion sont les suivants : - patients de sexe masculin ;
+- pris en charge à l' institut Bergonié pour cancer primitif du sein ;
+- entre janvier 1980 et décembre 2004 ;
+- carcinome infiltrant ( CI ) quel que soit le type ou carcinomes canalaire in_situ ( CCIS ) ;
+- tous stades confondus .
+Les critères d' exclusion sont les suivants : - patients adressés pour second avis ;
+- patients adressés pour prise en charge secondaire ( seconde ligne ) ;
+- types histologiques rares ou localisation secondaires : sarcomes ou lymphomes .
+2.2. Méthodes
+Il s' agit d' une étude rétrospective réalisée à_partir_de la base de données informatisée de l' institut Bergonié ( Medlog ) .
+Le recueil des informations a été effectué sur la lecture des dossiers médicaux des patients .
+Cette étude s' intègre dans le cadre d' un travail multicentrique national de recueil de données sur le cancer du sein chez l' homme .
+2.2.1. Données cliniques2.2.1.1 .
+Données biométriques des patients
+Ce sont l' âge , l' indice de masse corporelle ( IMC ) , les antécédents personnels et familiaux .
+2.2.1.2. Description clinique de la maladie
+Il s' agit du mode de révélation , des délais de prise en charge , de la classification cTNM .
+2.2.1.3. Bilan d' extension
+Celui-ci était réalisé dans tous les cas de carcinome infiltrant , il comprenait une radiographie pulmonaire et une échographie hépatique et d' une scintigraphie osseuse .
+2.2.2. Données histologiques
+Les résultats anatomopathologiques ont été systématiquement relus et classés selon le grading histopronostique de Scarff Bloom et Richardson .
+Le compte rendu anatomopathologique notait aussi le pTNM , le statut des récepteurs hormonaux , la présence d' emboles et l' envahissement du derme .
+L' amplification de l' oncogène her2-neu n' a pas été recherchée dans notre série .
+2.2.3. Traitement2.2.3.1 .
+Chirurgie
+La chirurgie radicale à type de mastectomie plus curage axillaire ( prélèvement ganglionnaire des deux premiers niveaux de Berg ) a été pratiquée pour les CI alors qu' une mastectomie simple était réalisée en cas de CCIS .
+2.2.3.2. Radiothérapie
+La radiothérapie postopératoire consistait en une irradiation de 45 à 50 Gy par fraction de 2 Gy .
+L' irradiation intéressait la paroi thoracique , la chaîne mammaire interne et susclaviculaire .
+2.2.3.3. Hormonothérapie
+L' hormonothérapie adjuvante et néoadjuvante était effectuée par des antiestrogènes ( tamoxifène ) à_partir_de 1988 pour les patients avec des récepteurs hormonaux positifs .
+2.2.3.4. Chimiothérapie
+Les protocoles de chimiothérapie donnés aux hommes étaient extrapolés de ceux qui sont utilisés chez la femme durant la même période ( type FEC100 , FEC50 ou CMF ) .
+2.2.4. Statistiques
+Compte tenu du petit échantillon de notre série , ce travail reste essentiellement descriptif .
+Lorsque la taille de notre échantillon ( population globale ou sous-groupe ) le permettait , une analyse univariée était réalisée .
+L' analyse statistique a été réalisée avec le logiciel SPSS version 14.0.
+Les courbes de survie globale et de sans récidives sont calculées par la méthode de Kaplan-Meier .
+Le test du Log Rank est utilisé pour la comparaison des groupes sur les critères choisi en terme de survie ou de rechute métastatique .
+Un p 0,05 est considéré comme significatif .
+Le calcul pour le recul de la série a été fait par la méthode du Kaplan-Meier inversé où les décès sont censurés  .
+3. Résultats3.1 .
+Descriptif de la population
+De 1980 à 2004 , 83 patients ont été pris en charges à l' institut Bergonié .
+Nous avons exclu , deux patients traités pour un sarcome et pour un lymphome mammaire .
+Vingt-huit patients adressés pour avis ou prise en charge secondaire ont aussi été exclus de l' analyse .
+Finalement , nous avons retenu 52 cas chez 51 patients , l' un d' entre eux présentant d'_emblée une atteinte bilatérale .
+Les caractéristiques cliniques et histologiques des patients sont résumées dans le Tableau 1. Parmi les antécédents personnels divers , un patient présentait un cancer de la prostate , un avait présenté dans l' enfance une ectopie testiculaire bilatérale , trois souffraient de gynécomastie et un autre avait subi une orchidectomie pour liposarcome testiculaire .
+Tableau 1.
+Caractéristiques cliniques et histologiques des patients
+N = 52 ge moyen ( ans ) 64,1 ( 39 - 92 ) IMC ( 35 / 51 ) ( kg / m2 ) 27 ( 19 - 34 ) 251525 - 3014306 AF cancer du sein5 / 20 AP génitomammaire6 / 52 Mode de découverte Tumeur rétroaréolaire38 ( 73 % ) Anomalie mamelon8 ( 15 % ) Écoulement5 ( 10 % ) Métastases d' emblée1 ( 2 % ) Taille tumorale moyenne30,31 mm ( 10 - 80 ) cTNM T117 ( 33 % ) T219 ( 36 % ) T32 ( 4 % ) T414 ( 27 % ) N032 ( 61 % ) N115 ( 29 % ) Nx5 ( 10 % ) M050 ( 96,2 % ) M+2 ( 3,8 % ) Type histologique CCI44 ( 84,6 % ) Grade 17 Grade 223 Grade 314 CCIS / Paget5 ( 12,6 % ) Colloïde muqueux1 ( 1,9 % ) NP1 ( 1,9 % ) Statut ganglionnaire pN016 ( 31 % ) pN114 ( 27 % ) pN29 ( 17,5 % ) pN34 ( 7 % ) Nx9 ( 17,5 % ) Récepteurs hormonaux RE+38 / 39 ( 97,4% ) RP+33 / 39 ( 84 , 6% )
+Full-size table
+AF : antécédents familiaux ; AP : antécédent personnel ; CCI : carcinome canalaire infiltrant ; CCIS : carcinome canalaire in_situ ; NP : non précisé ; pN1 : 1 à 3 N+ ; pN2 : 4 à 9 N+ ; pN3 : 10N+ .
+View Within Article
+L' IMC a pu être calculé chez 35 patients .
+Vingt patients sont en surcharge pondérale modérée ou majeure soit 39 % de la population étudiée et 57 % des patients pour qui on dispose de l' IMC .
+Le délai moyen entre l' apparition des premiers signes cliniques et la consultation était de 6,56 mois ( 1 - 36 mois ) .
+La maladie s' était révélée , dans 73,1 % des cas , sous forme d' une tumeur rétromamelonnaire non douloureuse .
+Six découvertes ont été faites sur une rétraction du mamelon ( 11,5 % ) et cinq autres sur un écoulement .
+Un aspect évocateur de maladie de Paget était le mode de découverte de deux patients dont un seul a été confirmé histologiquement .
+La taille clinique moyenne des nodules était de 30,31 mm ( 10 - 80 mm ) , leur localisation était centrale dans 86,5 % des cas .
+La maladie était métastatique au moment du diagnostique chez deux ( 3,8 % ) malades ( métastases osseuses découvertes à la scintigraphie dans le cadre du bilan d' extension ) .
+3.1.1. Histologie
+Le type histologique le plus fréquent était le carcinome canalaire infiltrant ( CCI ) ( 84,6 % ) .
+À l' examen anatomopathologique , une invasion du derme était retrouvée dans 28 cas ( 53,8 % ) .
+Parmi les 44 curages ganglionnaires réalisés , 27 révélait un envahissement métastatique ( 61 % ) avec en moyenne 5,48 ganglions positifs .
+Lorsque le récepteur à la progestérone s' est avéré positif , le récepteur aux estrogènes l' était aussi , soit 84 % de RE + RP+ .
+Une maladie de Paget était prouvée histologiquement .
+Un seul résultat anatomopathologique était manquant : pour un patient de 92 ans en mauvais état général .
+3.2. Traitement
+Un traitement néoadjuvant a été initié chez cinq patients , deux par chimiothérapie et trois par hormonothérapie .
+En ce qui concerne l' hormonothérapie néoadjuvante , la durée était de six mois chez les patients opérables non métastatiques , elle était maintenue jusqu' à arrêt de la régression chez les patients très âgés , l' indication d' une chirurgie sous anesthésie locale ou d' une radiothérapie étant discutée lors_de la stagnation clinique de la rémission .
+Parmi les 52 cas de l' étude , 47 ( 90,4 % ) ont bénéficié d' une chirurgie .
+Pour 40 , il s' agissait d' une mastectomie avec curage axillaire .
+Six mastectomies simples ont été réalisées dans les cas de CCIS .
+Nous n' avons retrouvé qu' une seule tumorectomie plus curage axillaire .
+Cinq patients n' ont pas été opérés .
+Quatre ( 9,6 % ) ont été récusés pour la chirurgie comme suit : - deux patients métastatiques d'_emblée traités par chimiothérapie ;
+- un patient ayant un antécédent récent d' accident vasculaire cérébral massif et traité par hormonothérapie ;
+- un patient âgé de 92 ans dont le cancer inflammatoire a été pris en charge par radiothérapie exclusive .
+Enfin , un patient de 76 ans cT1N1 a refusé toute prise en charge chirurgicale et a été traité par hormonothérapie exclusive .
+Un traitement adjuvant a été réalisé chez 38 patients ( 73 % ) .
+Vingt-sept patients ( 51,9 % ) ont reçu une radiothérapie externe postopératoire dont six radiothérapies exclusives , cinq associations radiothérapie et chimiothérapie et 16 associations radiothérapie et hormonothérapie .
+Neuf patients ( 17,3 % ) ont reçu une chimiothérapie adjuvante dont quatre associations à une radiothérapie et une hormonothérapie .
+Une hormonothérapie postopératoire a été entreprise dans 26 cas ( 50 % ) .
+Quant aux patients métastatiques , l' hormonothérapie a été maintenue jusqu' à progression .
+3.3. Suivi
+Au moment de la mise à jour des données , 22 patients étaient vivants ( 38,5 % ) , dont 21 en rémission clinique , et un seul patient était perdu de vue .
+Vingt-neuf patients ( 55,8 % ) étaient décédés , parmi lesquels 17 des causes du cancer .
+Il y avait huit patients décédés de pathologies intercurrentes et trois d' un second cancer ( bronchique , urothélial ou colique ) .
+Vingt ( 38,5 % ) rechutes sous forme métastatique ont été prises en charge , ces métastases étaient essentiellement osseuses et pulmonaires .
+Chez trois patients , une rechute locale ( un cas ) et / ou locorégionale ( trois cas ) accompagnaient la rechute métastatique , deux des trois patients présentaient un envahissement ganglionnaire lors_de la chirurgie initiale ( 1N+ / 30 et 8N+ / 8 ) , le troisième patient n' avait pas bénéficié de traitement chirurgical .
+Ces trois patients ont tous les trois bénéficiés d' une irradiation adjuvante d' une chimiothérapie ( 2 / 3 ) et d' une hormonothérapie adjuvante ( 3 / 3 ) .
+La survie globale moyenne était de 80,76 mois ( 71 - 90 ) , avec une médiane de 81,02 mois .
+Plus de la moitié des décès ( 60 % ) a lieu durant les huit premières années suivant le diagnostic .
+La survie est de 69 % à cinq ans et 32 % à dix ans .
+Full-size image ( 13K )
+Fig. 1. Estimation de Kaplan-Meier de la survie globale de 52 patients traités pour un cancer du sein .
+View Within Article
+Le recul médian de la série est de 136,27 mois ( 125 - 146 ) .
+Nous avons évalué la survie et le risque de survenue de métastases en fonction de l' âge , du stade cTNM , du délai de la consultation , de l' IMC , de l' envahissement ganglionnaire et de l' envahissement du derme .
+Nous avons choisi arbitrairement un âge de 63 ans correspondant à quelques années près à l' âge du pic de fréquence du cancer du sein chez l' homme .
+Le choix de 63 ans nous permet aussi une analyse statistique correcte avec deux groupes équilibrés de 26 cas .
+Qu' il s' agisse de la survie ou du risque de survenue de métastases , nous n' observons pas de différence significative avec p = 0,24 et p = 0,52 , respectivement .
+Nous n' avons pas étudié la survie en fonction des récepteurs hormonaux et des antécédents familiaux de cancer du sein , car les effectifs de ces sous-groupes étaient trop réduits ( respectivement 35RH+ versus 1RH et quatre cas avec antécédents familiaux sur 16 ) .
+Les facteurs de risque étudiés ne montrent pas de différence statistiquement significative sur la survie globale des patients .
+En revanche , l' analyse univariée des facteurs suivants : l' envahissement ganglionnaire ( p = 0,01 ) , l' invasion du derme ( p = 0,018 ) , le stade cTNM ( p = 0,005 ) montrent une différence significative sur la survenue de métastases ( Fig. 2 , Fig. 3 and Fig. 4 ) .
+Full-size image ( 14K )
+Fig. 2. Estimation de Kaplan-Meier de la rechute de patients présentant un cancer du sein en fonction du statut ganglionnaire .
+View Within Article
+Full-size image ( 32K )
+Fig. 3. Estimation de Kaplan-Meier de la survie sans récidive des patients présentant un cancer du sein en fonction de l' invasion du derme .
+View Within Article
+Full-size image ( 18K )
+Fig. 4. Estimation de Kaplan-Meier de la survie sans récidive des patients présentant un cancer du sein en fonction du stade cT ( NM ) .
+View Within Article
+4. Discussion4.1 .
+Le cancer du sein chez l' homme
+Le cancer du sein chez l' homme ( male breast cancer [ MBC ] ) est une maladie rare .
+Sa prévalence est d' un pour 100000 individus et il représente moins de 1 % des cancers du sein  .
+L' incidence de cette pathologie semble relativement stable en Europe  , mais Giordano et al. montrent une augmentation de 26 % entre 1973 et 1998 aux États-Unis  .
+Dans la littérature , l' âge moyen lors du diagnostic varie de 63 à 71 ans  et sa distribution est unimodale .
+Dans notre série , l' âge moyen au diagnostic était de 64,1 ans .
+L' étiopathogénie du cancer du sein chez l' homme n' est pas clairement établie et le petit nombre de cas ne permet pas la réalisation d' étude prospective .
+Cependant , certains facteurs de risques tels_que les facteurs hormonaux jouent un rôle important dans le développement de ces cancers .
+En effet , des déséquilibres hormonaux entre estrogènes et androgènes sont reconnus comme facteurs favorisant la survenue de cancer du sein chez l' homme .
+Les anomalies testiculaires comme l' ectopie testiculaire , l' orchite , l' orchidectomie , les hernies inguinales congénitales et la stérilité sont retrouvées comme des facteurs associés à des risques élevés de cancer du sein  .
+Dans notre série , six patients présentaient ce type d' antécédent .
+L' hypogonadisme , présent dans le syndrome de Klinefelter , fait de ce syndrome un facteur de risque classiquement admis .
+Un patient ayant un syndrome de Klinefelter a un risque relatif 20 à 50 fois plus important de développer un cancer du sein par_rapport_à un homme sans anomalie génétique  .
+L' hyperestrogénie , qu' elle soit endogène ( obésité ou l' insuffisance hépatocellulaire ) ou exogène ( traitement du cancer de la prostate ou de la trans-sexualité ) est impliquée dans le développement des MBC  .
+Chez le patient en surcharge pondérale , l' hyperestrogénie est induite par aromatisation périphérique des androgènes  .
+Dans notre série , lorsque l' IMC est connu ( 35 / 52 ) , on note une surcharge pondérale dans 57 % des cas .
+L' impact de l' IMC sur le MBC n' a pu être étudié de_par le faible nombre de l' effectif .
+L' insuffisance hépatocellulaire induite par les maladies infectieuses hépatiques pourrait être à l' origine d' une plus forte prévalence des MBC en Afrique  .
+Selon la même physiopathologie , une consommation excessive d' alcool pourrait expliquer l' augmentation du risque de développer un cancer du sein  .
+En revanche , la gynécomastie idiopathique ou d' origine médicamenteuse ( antidépresseur tricycliques , Vérapamil , cimétidine , Ranitidine , digoxine ) , n' est pas considérée dans la littérature comme un facteur de risque de cancer du sein chez l' homme .
+Goss_et_al.  retrouvent , dans leur série de MBC , une prévalence plus faible de gynécomasties que dans la population générale  .
+D' autres facteurs de risques de type professionnel ont été décrits : exposition à des températures élevées , à des fumées toxiques , des hydrocarbures ou des champs magnétiques  .
+Enfin , des facteurs génétiques participent également à l' étiopathogénie .
+Une histoire familiale de cancer du sein multiplie le risque de MBC par 2,5 .
+Dans la population générale masculine , 7 % des hommes atteints ont un antécédent de cancer du sein au premier degré  .
+Des mutations constitutionnelles des gènes BCRA1 et BCRA2 sont impliquées dans 4 à 40 % des MBC  .
+Les cas de MBC sont plus fréquents en cas de mutation BRCA2  .
+Nous n' avons pas pour_le_moment réalisé de recherche de mutation chez nos patients , d'_une_part , parce_qu' en 1980 , date du début de la série l' oncogénétique n' était pas suffisamment développée dans notre institut et , d' autre_part , de nombreux patients sont très âgés ou décédés .
+Nous avons actuellement une démarche différente et nous proposons systématiquement à nos patients une consultation d' oncogénétique pour évaluer leur risque .
+La présentation clinique la plus fréquente est une tuméfaction dure , rétroaréolaire , non douloureuse .
+C' est le mode de découverte de 68 à 85 % dans la littérature  , et 73 % de nos patients .
+Le diagnostic différentiel est la gynécomastie .
+La méconnaissance de cette maladie entraîne un retard de diagnostic chez l' homme .
+Le délai moyen de consultation , dans notre série , était de 6,6 mois .
+Les travaux effectués rapportent des durées allant de 29 mois en 1941  , à 21 mois en 1995  et évalués de six à dix mois dans les derniers travaux  .
+Dans notre étude , le délai entre la découverte de la maladie et la prise en charge thérapeutique n' influence ni la survie , ni la survie sans rechute .
+On peut considérer comme rapide , une prise en charge dans les six mois .
+Il est cependant souhaitable de réduire ce délai d' autant_que les lésions chez l' homme sont souvent localement avancées .
+Plus de 40 % des malades consultent pour des stades T3 ou T4 d'_après Ribeiro sur une série de 420 cas  .
+Si le diagnostic est clinique , la mammographie n' a dans cette pathologie qu' une valeur de confirmation diagnostique en cas de masse palpable surtout chez les patients obèses et / ou porteur de gynécomastie .
+En revanche , la mammographie n' a pas sa place dans le cadre du dépistage du cancer du sein chez l' homme du fait de la rareté de cette pathologie .
+Son indication pourrait se discuter en cas de mutation BRCA1 ou BRCA2 connue .
+La microbiopsie lorsqu' elle est techniquement possible a toute sa place dans le diagnostic et est couramment utilisée .
+Nous l' utilisons de façon presque systématique pour proposer un diagnostic préthérapeutique aux patients afin_d' adapter le geste chirurgical .
+Le type histologique le plus fréquent est le carcinome canalaire infiltrant comme chez la femme .
+Il représente environ 90 % ( 84,5 % dans notre série ) des cancers dans l' ensemble des études épidémiologiques  .
+Les 10 % restants sont essentiellement constitués de carcinomes canalaires in_situ  .
+Hill et al. rapportent une fréquence de 1,3 % de maladies de Paget sur une population de 2923 MBC  , dans notre série , on note deux maladies de Paget du mamelon .
+Une autre caractéristique histologique est la forte hormonodépendance de ces tumeurs .
+Comme dans notre série , Giordano et al. et Hill_et_al.  and  ont montré que 90,6 % des MBC étaient RE+ et 81,2 % RP+ , ce taux de positivité des récepteurs hormonaux augmente avec l' âge .
+Dans une revue de la littérature de 1942 à 2000 , Giordano et al. rapportent une surexpression de l' oncogène her2-neu de 37 %  .
+En 2004 , Rudlowski et al. rapportent un taux plus faible de 15,1 % dans une population de 99 MBC  .
+D' après les précédents travaux , le traitement du MBC repose sur la mastectomie associée à un curage ganglionnaire axillaire homolatéral en cas de CI  .
+La tumorectomie semble donner un moins bon contrôle local de la maladie .
+Dans une série de 31 CCIS , Cutuli et al. montrent trois rechutes après six tumorectomies ( 50 % ) alors qu' ils ne retrouvent qu' un seul cas de rechute pour 25 mastectomies ( 4 % )  .
+La petite taille de la glande mammaire rend difficile le passage en marges saines , la tumorectomie n' est donc pas recommandée  .
+Dans les deux cas de tumorectomies de notre série , l' une d' entre elles a été complétée par une mastectomie pour marges d' exérèses non saines .
+L' atteinte ganglionnaire axillaire est importante chez l' homme 56 - 50 % dans les séries publiées  ( 63,6 % dans notre série ) .
+Bien que radicale , la chirurgie est complétée par des traitements adjuvants .
+La radiothérapie adjuvante diminue le risque de rechute locale , mais aucune étude n' a montré un bénéfice en termes de survie globale  .
+L' indication d' irradiation était retenue chez 53,8 % de nos patients .
+L' hormonothérapie est utilisée largement chez l' homme étant donné la grande fréquence de positivité des récepteurs hormonaux ( 84,6 % dans notre série ) .
+La molécule de référence est le Tamoxifène , utilisé en traitement adjuvant .
+Plusieurs études rétrospectives ont montré une augmentation du taux de survie à cinq ans avec des prescriptions ne dépassant pourtant pas deux ans  .
+Ribeiro et al. et Giordano et al. rapportent dans une série de 38 patients recevant une hormonothérapie une diminution du risque de récidive et de décès  .
+L' utilisation de la chimiothérapie a été peu évaluée .
+Elle concerne les patients les plus jeunes avec un envahissement ganglionnaire ou d' autres facteurs de mauvais pronostics .
+Quelques travaux montrent un bénéfice en terme de survie  .
+La prise en charge des formes métastatiques du MBC reposait historiquement sur la castration chirurgicale l' orchidectomie , la surrénalectomie et l' hypophysectomie  .
+Ces traitements sont devenus obsolètes depuis les progrès des traitements hormonaux .
+En cas de récepteurs hormonaux positifs , c' est le tamoxifène qui semble donner la meilleure réponse avec le moins d' effets secondaires avec des taux de réponse variant de 25 à 80 % selon les séries  .
+La chimiothérapie trouve sa place chez les patients RH ou bien en cas de résistance à une hormonothérapie de première ligne .
+À propos des anti-aromatases , peu de données sont disponibles .
+Quelques cas de rémission ont été décrits , en_particulier , chez des patients orchidectomisés avec des inhibiteurs de l' aromatase de première génération  .
+En ce qui concerne l' anastozole , Giordano et al. rapportent trois stabilisations de plus de trois mois chez cinq hommes non orchidectomisés  .
+Une sécrétion testiculaire d' estrogène indépendante de l' aromatase explique probablement cette faible efficacité chez l' homme .
+Deux observations récentes rapportent une efficacité du létrozole chez deux patients métastatique  .
+Les facteurs pronostiques retrouvés par la majorité des équipes sont la taille de la tumeur  , l' atteinte ganglionnaire axillaire  , le stade  et le grade  .
+L' envahissement ganglionnaire semble être le facteur le plus péjoratif dans l' ensemble des équipes .
+Dans une série de 335 cas publiée en 1993  , les auteurs retrouvent un taux de survie de 90 % à cinq ans en l' absence d' envahissement ganglionnaire qui chute à 65 % en cas d' envahissement ganglionnaire .
+La taille tumorale a été étudiée par plusieurs équipes Cutuli et al. montrent une baisse significative de la survie proportionnellement à l' augmentation de taille de la tumeur  .
+Dans notre série , aucun des facteurs pronostiques étudiés ne s' est révélé statistiquement significatif en termes de survie .
+En revanche , l' envahissement ganglionnaire , le stade et l' invasion du derme sont statistiquement significatifs en terme de survenue de métastases .
+Du fait de la petite taille de notre échantillon et du caractère âgé de notre population , le taux de survie globale est modifié par les décès liés à un autre cancer ou intercurrent .
+Un travail récent semble montrer une augmentation du risque de développer un second cancer chez les patients présentant un MBC  .
+L' équipe de Auvinen a montré que le risque de développer un second cancer du sein est 30 fois supérieur à celui de la population du même âge en_particulier si le premier cancer a eu lieu avant 50 ans ou s' il existe un facteur génétique  .
+4.2. Comparaison du cancer du sein entre homme et femme
+Le cancer du sein chez l' homme et chez la femme a des similitudes et des différences .
+Le diagnostic et le traitement du cancer du sein chez l' homme se sont inspirés de l' évolution de cette pathologie chez la femme .
+En termes d' incidence , le cancer du sein chez l' homme est une maladie rare , en_revanche le cancer du sein chez la femme est la première cause de cancer et de mortalité .
+Le MBC est plutôt une pathologie de l' homme âgé , apparaissant cinq à dix ans plus_tard que le second pic de fréquence chez la femme ( 60 - 63 ans ) , chez qui la distribution est bimodale  .
+Le diagnostic est en_général fait à des stades plus avancés que chez la femme .
+Cela s' explique par l' absence de dépistage de masse chez l' homme et par le faible volume mammaire .
+Une tumeur chez l' homme est très fréquemment accompagnée d' une atteinte cutanée .
+Les tumeurs sont découvertes à des tailles plus importantes pour l' homme ( seulement 9,8 % des tumeurs sont diagnostiquées à_moins_de 1 cm chez l' homme contre 20 % chez la femme )  .
+La mammographie et l' échographie sont des aides au diagnostic avec les mêmes signes de malignité que chez la femme  .
+Le MBC se distingue du cancer du sein chez la femme par des distributions différentes des types histologiques .
+Le type histologique lobulaire n' est théoriquement pas représenté compte tenu de l' absence de lobules dans le tissu mammaire vestigial de l' homme .
+Il représente en réalité 1,5 % des MBC contre 11,8 % des cancers féminins  .
+L' envahissement ganglionnaire est logiquement plus fréquent que chez la femme ( 31,4 % contre 22,7 % )  .
+Giordano et al. et Hill_et_al.  and  ont comparé le statut hormonal des tumeurs de 2500 hommes à 380000 femmes inscrits dans le registre américain Surveillance Epidemiology and End Results ( SEER ) .
+Ils ont montré que 90,6 % des tumeurs masculines étaient RE+ et 81,2 % RP+ contre respectivement 76 et 66,7 % des tumeurs féminines  .
+En revanche , comme pour le cancer du sein chez la femme , le taux de RE+ augmente avec l' âge des patients .
+Cette caractéristique rapproche le MBC à celui de la femme ménopausée .
+À la différence du cancer féminin , le traitement chirurgical conservateur n' a pas sa place dans la prise en charge du MBC .
+La mastectomie est le traitement chirurgical de référence  .
+Par ailleurs , la chirurgie axillaire est adaptée en fonction du type clinique et histologique par analogie au cancer du sein chez la femme .
+En cas de CCIS et / ou de maladie de Paget du mamelon , aucun geste axillaire ne sera proposé  , en cas de lésion infiltrante supérieure à 2 cm et / ou d' envahissement ganglionnaire clinique on proposera un curage axillaire .
+La technique du ganglion sentinelle a -t elle sa place en cas de lésion de type T1N0 ?
+La technique du ganglion sentinelle validée chez la femme , commence à être utilisé chez l' homme .
+Les résultats sont comparables à ceux qui sont obtenus chez la femme  .
+On peut cependant émettre quelques réserves sur l' intérêt de cette technique chez l' homme .
+En effet , l' objectif est d' éviter des curages pour des patients sans atteinte ganglionnaire or nous avons vu_que l' atteinte ganglionnaire axillaire était plus importante chez l' homme .
+Boughey et al. montrent la faisabilité de la technique ( 100 % de détection chez l' homme versus 98 % chez la femme )  , mais le taux de positivité est supérieur chez l' homme sans différence significative ( 37 versus 22,3 % , p = 0,1 ) en_revanche le taux de ganglion non sentinelle positif dans le curage est supérieur chez l' homme ( 62,5 versus 20,7 % , p = 0,01 ) .
+La radiothérapie adjuvante est utilisée proportionnellement plus souvent chez l' homme que chez la femme  du fait d' une atteinte plus fréquente du mamelon et du derme  .
+Le taux de réponse à la chimiothérapie est de l' ordre de 35 % comme chez la femme  .
+Chez l' homme , la mortalité intercurrente est plus élevée que chez la femme .
+Ce phénomène s' explique par une prise en charge plus tardive de la maladie avec un âge plus élevé au diagnostique , car il n' existe pas de dépistage .
+Cependant , le pronostic chez l' homme semble comparable à celui de la femme si l' on apparie les populations en fonction de l' âge et du stade  .
+5. Conclusions
+Le cancer du sein chez l' homme est une maladie rare au pronostic sombre ( 32 % de survie à dix ans ) .
+Il s' apparente par ses caractéristiques cliniques , histologiques et pronostiques au cancer du sein de la femme âgée .
+Il existe comme chez la femme un climat hormonal favorisant et des familles à risque .
+Les facteurs influençant le pronostic sont dans notre série , l' atteinte ganglionnaire , le stade clinique et l' invasion du derme .
+Un diagnostic plus précoce , par une meilleure connaissance de cette maladie , permettrait certainement une amélioration du pronostic .
+L' information des patients , mais_aussi et surtout des médecins doit nous permettre de faire des diagnostics plus précoces en cas d' écoulement ou de tumeurs mammaires chez un homme .
+Par ailleurs , les techniques diagnostiques et thérapeutiques utilisées en routine chez les femmes : biopsie préopératoire et ganglion sentinelle pour les lésions précoces , traitements néoadjuvants pour les lésions localement avancées doivent être appliquées chez l' homme .
+Le MBC bénéficie des avancées thérapeutiques de cette pathologie chez les femmes , ces nouveaux traitements ( taxanes , trastuzumab et anti-aromatases ) auront certainement un rôle à jouer dans le pronostic du cancer du sein chez l' homme

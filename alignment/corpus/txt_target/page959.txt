@@ -1,0 +1,229 @@
+Systemic chemotherapy for the treatment of breast cancer improves overall survival , whether given preoperatively or as postoperative adjuvant treatment.1 Newer chemotherapy regimens containing taxanes further improve survival compared with standard regimens,2 but taxanes are expensive , toxic , and might benefit only a small number of patients .
+Therefore , identification of regimen-specific predictive factors is a research priority .
+Several single-arm neoadjuvant chemotherapy trials have reported gene-expression signatures obtained from tumour biopsies taken at diagnosis.  Most of these studies described signatures that predict clinical or pathological response , although one failed to identify any genes that predicted response.9 These studies have two weaknesses that restrict their use in routine practice .
+First , none attempted to predict the response of patients randomised to different regimens , so the specificity of the signatures for particular regimens remains unproven .
+Second , many studies included mixed populations of patients with oestrogen-receptor-positive tumours and patients with oestrogen-receptor-negative tumours , but oestrogen-receptor-positive tumours have a lower rate of clinical and pathological response to neoadjuvant chemotherapy.  Since oestrogen-receptor status is the dominant factor in gene-expression data from breast tumours , studying a mixed population can lead to confounding of treatment-response genes with genes linked to oestrogen-receptor status .
+We have previously reported gene-expression signatures that predict the response of cell lines and tumours to a range of chemotherapeutic drugs.15 The aim of the present study was to confirm the ability of these signatures to predict the response of oestrogen-receptor-negative breast tumours to chemotherapy in a large series of patients enrolled in a phase III neoadjuvant trial .
+Methods Patient selection and sample processing .
+This substudy was restricted to patients with oestrogen-receptor-negative tumours because studies that contain both patients with oestrogen-receptor-positive tumours and patients with oestrogen-receptor-negative tumours are easily confounded by genes linked to oestrogen-receptor status ; additionally , pathological complete response is so rare after treatment with either regimen in patients with oestrogen-receptor-positive tumours that better selection of patients will have the greatest effect in oestrogen-receptor-negative disease .
+Pathological complete response was used as a surrogate measure of chemosensitivity because this measure consistently predicts better survival after neoadjuvant chemotherapy. 
+We undertook this study in the context of a prospective phase III intergroup trial of neoadjuvant chemotherapy ( European Organisation for Research and Treatment of Cancer [ EORTC ] 10994 / Breast International Group [ BIG ] 00-01 ) , the design of which is shown in figure 1. The trial compared treatment with a traditional anthracycline-based regimen with that of a taxane-containing regimen in patients with large operable tumours .
+Eligible patients had no evidence of distant metastatic disease ( ie , M0 , as defined by the Tumour , Nodes , and Metastasis [ TNM ] staging system ) , and had a histologically confirmed large , operable , invasive tumour ( tumour size T2 or T3 , node status N0 or N1 ) 18 or locally advanced breast cancer ( any T , N2 ; or T4 ) .
+The planned primary endpoint was a difference in progression-free survival in the two groups depending on TP53 status and will be reported later .
+Predicting response with gene signatures was a planned secondary endpoint of the trial and is reported here .
+This substudy was restricted to all patients who were assessed at the EORTC data centre on April 1 , 2005 , who met the following criteria : oestrogen-receptor-negative tumours by immunohistochemistry of the pretreatment formalin-fixed biopsy ; completion of the planned chemotherapy regimen with no major protocol violation ; non-T4 tumours ; and good-quality and more than 200 ng yield of RNA available from a pretreatment frozen biopsy .
+Ethical approval for the clinical trial and associated translational projects was obtained in all participating institutions .
+Patients gave written informed consent for clinical and translational studies .
+Full-size image ( 36K )
+High-quality image ( 288K )
+Figure 1. Study design of EORTC 10994 / BIG 00-01 trial .
+FEC=fluorouracil , epirubicin , and cyclophosphamide .
+T=docetaxel .
+ET=epirubicin plus docetaxel .
+Surgery was followed by radiotherapy or hormonal therapy ( or both ) according to each centre 's policy .
+View Within Article .
+In this substudy , patients were randomly assigned to a European non-taxane regimen of six cycles of 500 mg / m2 fluorouracil , 100 mg / m2 epirubicin , and 500 mg / m2 cyclophosphamide ( FEC ) treatment , or to three cycles of 100 mg / m2 docetaxel followed by three cycles of 90 mg / m2 epirubicin plus 70 mg / m2 docetaxel ( TET ) .
+At completion of chemotherapy all patients underwent breast-conserving surgery or mastectomy , depending on the locoregional clinical response .
+Pathological complete response was used as the outcome measure , and was defined as disappearance of the invasive component of the primary tumour after treatment , with at most a few scattered tumour cells detected by the pathologist in the resection specimen .
+Analysis of pathological complete response was done locally by the pathologist in each centre ( these data were not reviewed centrally ) .
+All patients had one incisional or two core biopsies frozen before starting chemotherapy .
+Frozen sections of these biopsies were assessed centrally by VB and excluded from the study if the tumour cell content was below 20% .
+RNA was extracted from frozen sections as previously described19 and hybridised to Affymetrix X3P chips .
+Statistical analyses .
+Microarray data were deposited in the Gene Expression Omnibus database under accession number GSE6861 on Jan 25 , 2007 .
+The Affymetrix CEL files were normalised with the Robust Multi-array Average ( RMA ) algorithm .
+To infer the presence of ERBB2 amplicons , 40 genes from TRIP3 to RAPGEFL in the ERBB2 region on chromosome 17q were clustered by use of Euclidian distance and Ward 's linkage method .
+Conversion of gene-expression data to probabilities of pathological complete response was done at Duke University , Durham , NC , USA .
+The anthracycline used in the EORTC clinical study was epirubicin .
+Since data on epirubicin sensitivity were not available , we used the cell-line signature for doxorubicin , an anthracycline very similar to epirubicin .
+Weights generated by binary-regression analysis were applied to the expression values and summed to create metagene scores that were converted to probabilities by applying a probit function ( webappendix , webpanel , and webtable 1 ) .
+The single-drug probabilities were combined to yield the predicted probabilities of pathological complete response to FEC and TET regimens as previously described.15 .
+Receiver operating characteristic ( ROC ) curves were used to test the quality of the predictions .
+Bootstrapping with 100000 resampled datasets was used to find 95% CI of the area under the curve ( AUC ) of the ROC curves .
+The statistical significance of the discrimination between pathological complete response and non-pathological complete response was assessed by Wilcoxon test .
+All statistical tests were two-sided .
+The Youden index20 ( sensitivity+specificity1 ) was used to select a threshold for estimation of sensitivity , specificity , positive predictive value ( PPV ) , negative predictive value ( NPV ) , and overall accuracy .
+Sensitivity , specificity , and Youden index are expressed as fractions in the ROC analysis , but have been converted to percentages in the summary tables .
+The association of clinical variables with pathological complete response was tested with univariate and multivariate logistic regression and Fisher 's exact test .
+When a category of an ordinal variable had too few observations , these were pooled with an adjacent ( consecutive ) category ( grade 1 and 2 , tumour size T1 and T2 , node status N1 and N2 ) .
+Binary estimates of age and the signatures , cut at the median of the tested population , were used for Fisher 's exact test ; age was dichotomised as a surrogate indicator of menopausal status ( median age was 495 years ) .
+Continuous variables for age and signature were used in the logistic regression .
+Missing values for grade were assigned to a separate category to avoid a decrease in the sample size in the logistic regression analysis .
+To model the potential benefit from selecting the treatment regimen according to the predicted probabilities of pathological complete response to the individual regimens , a regimen preference score was calculated by subtracting the predicted probability of pathological complete response to TET from the predicted probability of pathological complete response to FEC .
+In the simplest scenario , patients with a negative regimen preference score should receive TET , and patients with a positive score should receive FEC .
+Use of zero as the threshold for allocation to one or other regimen assumes that the predicted probabilities of pathological complete response to the two regimens are perfectly matched , but this is unlikely because they were independently derived from cell-line data .
+Hypothetical pathological complete response rates for the entire group of 125 patients were calculated at different regimen allocation thresholds by taking into account the observed pathological complete response rate and the number of patients in each group at that threshold .
+This study is registered on the clinical trials site of the US National Cancer Institute website .
+Role of the funding source .
+The sponsor of the trial ( EORTC ) designed and coordinated the trial .
+The funding sources of the study had no role in the design of the study ; collection , analysis , or interpretation of the data ; or in the writing of this report .
+MD , PF , AP , CA , SM , JRN , and RDI had full access to the raw data .
+The corresponding author had full access to all of the data and had the final responsibility to submit for publication .
+Results .
+Of 212 patients with oestrogen-receptor-negative tumours assessed at the data centre on April 1 , 2005 , 87 patients were excluded because of major protocol violation ( two patients ) , T4 tumours ( 30 patients ) , below 20% tumour-cell content in pretreatment incisional or core biopsy ( 25 patients ) , or poor quality RNA or less than 200 ng yield of RNA , or both ( 30 patients ) .
+Biopsies from 66 tumours in the FEC group and 59 tumours in the TET group of the EORTC 10994 / BIG 00-01 study were tested on Affymetrix X3P microarrays .
+Clinical and pathological data for these tumours are shown in table 1 and webtable 2. Response predictors were constructed by taking genes that predict the response of cell lines to fluorouracil , cyclophosphamide , docetaxel , and epirubicin given as single drugs , then combining these single-drug signatures to form regimen-specific genomic signatures , as previously described.15 Figure 2 shows the predicted probability of pathological complete response to FEC and TET calculated with the regimen-specific genomic signatures in the two treatment groups .
+The signatures significantly predict response in patients that received the appropriate drugs ( p00001 ) .
+To assess the ability of the signatures to identify responders , we did a ROC analysis ; the Youden index was used to identify the threshold for calculation of the performance .
+The accuracy of prediction for the regimen-specific signatures is 79% ( 52 of 66 patients [ 95% CI 67 - 87 ] ) for patients in the FEC group and 80% ( 47 of 59 patients [ 68 - 88 ] ) for patients in the TET group ( table 2 ) .
+Furthermore , the signatures are specific to the two regimens ; table 3 and figure 3 show that the signatures predict response in the correct group ( ie , the FEC signature predicts response to FEC treatment , and the TET signature predicts response to TET treatment ) , but not in the wrong group ( ie , FEC to TET , or TET to FEC ) .
+Both treatment regimens in the EORTC study contain epirubicin , albeit in differing schedules and total doses , therefore a small amount of crossover between the predictors in the opposing groups might be anticipated .
+We noted a weak prediction by the TET signature in the FEC group ( albeit the lower boundary of the CI of the AUC [ 051 ] barely exceeds the 050 value for a random classifier ) but none with the FEC signature in the TET group ( the CI of the AUC overlaps 050 ) .
+The design of the study called for exposure of tumours to three cycles of full-dose docetaxel ( T ) before giving combined anthracycline plus taxane ( ET ) .
+Domination of the pattern of response to TET by the initial taxane exposure could explain why the FEC predictor is not significant in the TET group .
+To further study the role of individual drugs in the two groups , ROC analysis was used to assess the performance of the single-drug predictors ( table 3 and webfigure ) .
+In each patient , the signature was only significantly associated with response if the patient received the relevant drug .
+Consistent with the absence of cross-regimen prediction by the FEC signature , docetaxel was a much stronger predictor than doxorubicin in the TET group .
+We conclude that the regimen-specific signatures predict pathological complete response because they are built from individual drug signatures that predict pathological complete response .
+Table 1. .
+Clinical and demographic characteristics of patients .
+FEC group ( n=66 ) TET group ( n=59 ) Age , years Median4950 Range26 - 7034 - 70 Histology Invasive ductal5657 Invasive lobular42 Other60 TNM stage T121 T23838 T32620 N02722 N13432 N255 Grade 12022116 33238 NA115 Hormone receptor status PR negative6359 ERBB2 status Amplified1320 Response pCR2827 no pCR3832 .
+Full-size table .
+NA=not available. pCR pathological complete response .
+PR=progesterone receptor .
+Not ductal or lobular cancer .
+These three patients were N2 .
+PR and oestrogen receptor ( ER ) were assessed locally in each centre ; cases where less than 10% of tumour cells stained positive for PR by immunohistochemistry were deemed negative .
+All cases were negative for ER .
+ERBB2 status was assessed centrally based on microarray data .
+View Within Article .
+Full-size image ( 73K )
+High-quality image ( 475K )
+Figure 2. Prediction of pathological complete response with genomic signatures stratified by trial group .
+pCR=pathological complete response .
+Each point is an individual patient .
+Triangles=pathological complete response .
+Circles=no pathological complete response .
+Green=patient received FEC .
+Blue=patient received TET .
+Green dashed lines show the mean values in each group .
+Black dashed lines show maximum empirical Youden index ; those in the upper-left and lower-right panels were used to calculate the performance metrics in table 2. .
+View Within Article .
+Table 2. .
+Performance metrics of genomic regimen-specific signatures .
+FEC groupTET group Patients , n% ( 95% CI ) Patients , n% ( 95% CI ) Accuracy52 / 6679 ( 67 - 87 ) 47 / 5980 ( 68 - 88 ) Sensitivity27 / 2896 ( 82 - 99 ) 25 / 2793 ( 77 - 98 ) Specificity25 / 3866 ( 50 - 79 ) 22 / 3269 ( 51 - 82 ) PPV27 / 4068 ( 52 - 80 ) 25 / 3571 ( 55 - 84 ) NPV25 / 2696 ( 81 - 99 ) 22 / 2492 ( 74 - 98 )
+Full-size table .
+PPV predicts a pathological complete response .
+Classification statistics at the optimum threshold ( maximum empirical Youden index ) with 95% CI are shown .
+View Within Article .
+Table 3. .
+Area under ROC curves of genomic signatures ( single agents and regimen-specific signatures ) by group .
+FEC groupTET group AUC ( 95% CI ) pAUC ( 95% CI ) p Doxorubicin066 ( 053 - 079 ) 0023076 ( 063 - 088 ) 00004 Fluorouracil073 ( 059 - 085 ) 0002040 ( 025 - 056 ) 0211 Cyclophosphamide094 ( 088 - 099 ) 00001056 ( 041 - 071 ) 0401 Docetaxel037 ( 024 - 051 ) 0068090 ( 081 - 097 ) 00001 FEC signature086 ( 076 - 094 ) 00001058 ( 042 - 073 ) 0302 TET signature065 ( 051 - 077 ) 0044085 ( 074 - 094 ) 00001 .
+Full-size table .
+AUC by group , approximate 95% CI ( 100000 bootstrap samples ) , and p value ( two-sided Wilcoxon rank sum test ) for the null hypothesis of no difference .
+View Within Article .
+Full-size image ( 72K )
+High-quality image ( 447K )
+Figure 3. ROC analysis of the ability of genomic signatures to discriminate patients with a pathological complete response from patients with residual disease .
+AUC , number of cases ( N ) , and location of the maximum empirical Youden index ( green point ) are shown .
+View Within Article .
+The clinical variables age at diagnosis , node status , and tumour size , and the pathological variables histological grade and ERBB2 status were tested for their ability to predict pathological complete response by use of Fisher 's exact test ( table 4 ) and by univariate logistic regression ( webtable 3 ) .
+Other than tumour size , none of the clinical or pathological variables showed a significant association with response .
+Tumour size in patients in the TET group showed a borderline significant association with response ( p=003 ; this would not be significant after Bonferroni correction for the 14 comparisons in table 4 or the 18 comparisons in webtable 2 ) .
+Larger tumours should be more difficult to treat , and tumour size is a classic prognostic factor in breast cancer .
+The FEC and TET signatures were tested in the same way and found to be significantly associated with response ( p=00001 , odds ratio [ OR ] 865 [ 95% CI 255 - 3484 for FEC , and p00001 , OR 1476 [ 378 - 7024 ] for TET ; both comparisons would remain significant after Bonferroni correction ) .
+As would be expected given the absence of effect of the clinical or pathological variables in univariate analysis , the genomic signatures remain significant in formal multivariate testing ( webtable 4 ) .
+Table 4. .
+Two-sided Fisher 's exact tests for association of clinical variables and genomic signatures with pathological complete response by group .
+FEC groupTET group OR ( 95% CI ) pOR ( 95% CI ) p Size T3 vs T1 and T2077 ( 025 - 233 ) 062026 ( 006 - 096 ) 003 Grade 1 and 2 vs 3039 ( 011 - 135 ) 011067 ( 016 - 254 ) 056 Nodal status 1 and 2 vs 0087 ( 029 - 264 ) 081057 ( 017 - 187 ) 042 ERBB2 status A vs N176 ( 044 - 733 ) 037095 ( 028 - 321 ) 100 Age older vs younger163 ( 055 - 495 ) 046141 ( 045 - 449 ) 060 FEC signature865 ( 255 - 3384 ) 00001210 ( 067 - 687 ) 020 TET signature272 ( 090 - 861 ) 0081476 ( 378 - 7024 ) 00001 .
+Full-size table .
+OR=odds ratio .
+A=amplified .
+N=not amplified .
+ERBB2 status was established as in table 1. .
+Age was analysed as a binary variable cut at 495 years as a surrogate for menopausal status .
+Signatures were used as binary variables cut at the median .
+Univariate and multivariate linear regression models including age and the genomic signatures as continuous variables are shown in webtables 3 and 4. .
+View Within Article .
+A plot of the predicted probabilities of pathological complete response to the two regimens can be divided into four quadrants ( figure 4 ) .
+The upper-right quadrant contains many patients who responded well to treatment ( triangles ) ; the undesirable side-effects of taxanes mean these patients are candidates for conventional FEC treatment .
+Conversely , the lower-left quadrant has many patients who failed to respond to treatment ( circles ) ; these patients are candidates for treatment with new drugs .
+The remaining quadrants contain patients with a higher predicted probability of pathological complete response to one regimen than to the other .
+The lower-right quadrant contains many patients who failed to respond to FEC ( green circles ) , but have a high predicted probability of pathological complete response to TET ; the upper-left quadrant contains some patients who failed to respond to TET ( blue circles ) , but have a high predicted probability of pathological complete response to FEC .
+Inspection of the plot shows that dividing it with a diagonal line might form the basis of a rule to allocate patients to different regimens : patients below the diagonal line should receive TET , and patients above the line should receive FEC .
+The diagonal line acts as a regimen allocation threshold for selecting the treatment .
+At least two reasons exist for asking what might happen if this threshold were altered ( ie , the diagonal line were displaced vertically ) : first , it might be desirable to decrease the number of patients receiving taxanes because of their side-effects ; second , the predicted probabilities of pathological complete response to the two regimens are independently derived and unlikely to be matched precisely .
+Full-size image ( 52K )
+High-quality image ( 326K )
+Figure 4. Predicted probabilities of pathological complete response to FEC and TET treatments .
+pCR=pathological complete response .
+Each point corresponds to an individual patient .
+Plot shows predicted probabilities of pCR calculated from microarray data ( the recorded values , as shown in figure 2 ) .
+The vertical and horizontal dotted lines are drawn at the thresholds used to calculate the performance metrics in table 2. The treatment allocation model assigns patients to FEC when points are above the diagonal line and to TET when below it .
+The point marked by an arrow is discussed in the text .
+View Within Article .
+We developed a treatment allocation model ( figure 5 ) to study the effect of altering the threshold .
+To do this , we first calculated a regimen preference score ; this was simply the predicted probability of pathological complete response to FEC treatment minus the predicted probability of pathological complete response to TET treatment .
+For the point marked by the arrow in figure 4 , the regimen preference score is therefore : 04 - 06=02 .
+In the treatment allocation model , patients were assigned to FEC treatment when the regimen preference score was above the threshold ( above the diagonal line ) and to TET when the regimen preference score was below the threshold ( below the diagonal line ) .
+The diagonal line in figure 4 corresponds to a threshold of zero in figure 5 ; the patient marked by the arrow would be allocated to treatment with TET because their regimen preference score ( 02 ) was below zero .
+The ratio of green triangles to green circles above the diagonal line gives the pathological complete response rate for FEC treatment ; this number multiplied by the total number of points above the line gives the number of responders in the group allocated to FEC treatment ; likewise , the ratio of blue triangles to blue circles below the line gives the pathological complete response rate for TET treatment ; this number multiplied by the total number of points below the line gives the number of responders in the group allocated to TET treatment ; these are combined to calculate the hypothetical pathological complete response rate for both groups together .
+Full-size image ( 28K )
+High-quality image ( 167K )
+Figure 5. Treatment allocation model .
+pCR=pathological complete response .
+The red line shows how the hypothetical pathological complete response rate changes as the proportion of patients allocated to each treatment changes .
+View Within Article .
+Moving the line downwards in figure 4 is equivalent to decreasing the regimen allocation threshold in figure 5. When the threshold is lowered ( ie , the diagonal line in figure 4 is moved vertically down ) , more patients are assigned to FEC treatment ( green dashed line in figure 5 ) , whereas when it is raised more patients are assigned to TET treatment ( blue dashed line ) .
+For example , for the point marked by an arrow ( regimen preference score of 02 ) , decreasing the regimen allocation threshold to 03 would mean that the score was now above the threshold and the patient would receive FEC treatment .
+Generally , the lower the score the more likely a patient is to receive TET treatment ; conversely , the lower the threshold the more likely a patient is to receive FEC treatment .
+The red line in figure 5 shows how the hypothetical pathological complete response rate changes as the regimen allocation threshold varies .
+For a wide range of thresholds in the central region , the hypothetical pathological complete response rate ( red line ) is 65 - 70% , well above the 42% and 46% pathological complete response rates noted in the FEC and TET groups in the clinical trial .
+The exact choice of threshold over a broad range seems unimportant , suggesting that the procedure will be robust .
+The peak of the red curve is displaced to the left of zero , suggesting that FEC treatment could be safely used more frequently if treatment were selected by use of the signatures described here .
+We conclude that clinical application of these regimen-specific genomic signatures could have a useful effect on overall treatment success and decrease the number of patients exposed to the side-effects of taxanes .
+Discussion .
+This study confirms that gene-expression signatures based on cell lines can be used to predict pathological complete response of breast tumours to chemotherapy .
+To our knowledge , this is the first study in which genomic predictors for two different treatments have been studied in a large cohort of patients enrolled in a multicentre randomised phase III clinical trial .
+Long-term follow-up will be required to establish whether regimen-specific genomic signatures also predict long-term survival , but this is likely since most previous studies have noted that patients achieving a pathological complete response indeed have longer survival , and this remains true after multivariate analysis. 
+The findings reported here used a doxorubicin signature instead of an epirubicin signature .
+Both drugs are anthracyclines with similar activity , so we would not expect this change to have had a major effect on outcome .
+A second caveat is that the gene weights were calculated with cell-line data obtained on a different Affymetrix platform from that used in this study .
+Changing platforms inevitably results in a loss of performance , since weights implicitly convey information about the dynamic range of individual probes .
+In particular , changing platforms might affect the thresholds at which performance is measured .
+The AUC of a ROC curve is a useful measure of performance after a change in platform because it does not require the use of a predetermined threshold .
+Reassuringly , the AUCs obtained in our study all support the conclusion that the signatures correctly predict response to the individual drugs and the combinations .
+Nonetheless , repeating the study on U133A chips and developing an epirubicin signature might improve the quality of the predictions .
+One obstacle to the widespread application of genomic signatures is the technical challenge of preserving frozen biopsies in routine clinical practice .
+The Affymetrix X3P chip we used was developed for analysis of paraffin-embedded material , so only small modifications to the protocol might be needed to test paraffin-embedded material .
+Alternatively , PCR techniques developed by Gianni and colleagues4 could be used to measure the expression of the genes in our genomic signatures .
+There is no universally accepted definition of pathological complete response .
+The most stringent definition specifies the complete absence of invasive disease in the breast and axilla .
+This definition is difficult to apply in the context of multicentre , multigroup trials because it necessitates standardisation of local pathological assessment or centralised pathological review of all resected tissue .
+The aim of this study was to test whether chemosensitivity signatures derived in cell lines predict chemosensitivity in patients .
+Pathological complete response defined as disappearance of the invasive component of the primary tumour after treatment , with at most a few scattered tumour cells detected by the pathologist in the resection specimen , is proof that a large mass of tumour cells has disappeared .
+Given the relatively advanced nature of the tumours studied here , this could only plausibly occur if the tumour cells were sensitive to the drugs .
+Therefore , this occurrence is an appropriate outcome measure given our aims .
+Killing large numbers of tumour cells is desirable , but does not guarantee long-term survival of patients , possibly because rare tumour stem cells are the crucial determinants of relapse.21 Hence , validation of the clinical relevance of the signatures reported here will best be done by showing regimen-specific prediction of improved survival of patients in a large adjuvant study , where the definition of pathological complete response is not relevant .
+At present , the signatures have only been shown to predict sensitivity of tumours that are oestrogen-receptor negative .
+Further work will be needed to show whether these signatures , or different ones , would be relevant for tumours which express steroid hormone receptors .
+That again would best be done in the context of an adjuvant study because of the low pathological complete response rate to neoadjuvant treatment of oestrogen-receptor-positive tumours .
+Indeed , the pathological complete response rate is so low in this group in the neoadjuvant setting that a study ten times larger than the one we have undertaken would be needed to identify confidently a signature with similar predictive power in the oestrogen-receptor-positive group .
+The treatment allocation model explored in Figure 4 and Figure 5 suggests that selection of the treatment regimen with our genomic signatures has the potential to increase the pathological complete response rate from 44% to around 70% .
+If this can be confirmed prospectively in a phase III trial , it will herald a major change in the current paradigm of breast cancer treatment .
+An important caveat is that this will apply only to patients with oestrogen-receptor-negative tumours .
+Within the oestrogen-receptor-negative group there are two major classes of tumours with radically different gene-expression profiles ( called the ERBB2 and basal-like classes in the Stanford classification22 ) .
+The genomic signatures predict response in both oestrogen-receptor-negative classes , but the small size of the ERBB2 group means we cannot exclude the possibility that the performance of the signatures differs in the two groups .
+Many new drugs are being studied in combination with neoadjuvant or adjuvant chemotherapy .
+Selective enrolment of patients unlikely to benefit from the established drugs in the combination would decrease the size and increase the power of these trials .
+The NPV for each regimen-specific genomic signature is over 90% .
+This makes it feasible to identify at an early stage patients who are unlikely to respond to FEC or TET treatment and hence have the most to benefit from new drugs .
+Organising clinical trials on this basis would have important implications for the subsequent use of new drugs being tested , because the information obtained would apply only to a narrowly defined group , albeit one with a poor outcome with conventional treatment .
+Whether it is right to proceed in this way is a matter of legitimate debate , but clearly we think it is .
+Contributors .
+LM , MC , MTH , TP , PR , JJ , EB , JB , DC , and HB participated in the recruitment of patients .
+SA and RDI participated in the tissue banking , sectioning , RNA extraction , and microarray hybridisation .
+VB was responsible for the pathological examination of the biopsies .
+HB managed the clinical trial and selected the patients for inclusion in this substudy .
+PF , MD , AP , CA , SM , and JRN participated in the statistical analysis .
+HB , MD , DC , AP , JRN , and RDI participated in the design of the study .
+HB , MD , DC , JB , AP , and RDI participated in the drafting of the report .
+All of the authors saw and approved the final version of the report .
+Conflicts of interest .
+The authors declared no conflicts of interest .
+Acknowledgments .
+We thank the patients , doctors , and nurses involved in the EORTC 10994 / BIG-001 study for their generous participation .
+We thank Monika de Vos , Stephane Lejeune , Inge Delmotte , and Anne-Laure Nicoulaz for expert assistance with data management and sample processing .
+We thank Viviane Praz and Thierry Sengstag for help with bioinformatics , and Bernadette Mermillod for critical comments on the report .
+We thank the University of Lausanne DNA array facility and Swiss Institute for Bioinformatics Vital-IT project for infrastructure support .
+We thank the European Commission Sixth Framework programme Active p53 grant , Fondation Widmer , Fondation Medic , Oncosuisse , Swiss National Science Foundation NCCR Molecular Oncology , EORTC Translational Research Fund , Swedish Cancer Society , King Gustav the Fifth Jubilee Fund , Swedish Research Council , US National Institute for Health , the American Association for Cancer Research ( AACR ) , and the V Foundation for Cancer Research for financial support .

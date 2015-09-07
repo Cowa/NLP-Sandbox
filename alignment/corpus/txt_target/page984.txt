@@ -1,0 +1,182 @@
+Viral vectors are one of the major vehicles used in gene therapy to get their sequences expressed in the proper host cells  .
+Adenovirus ( ADV ) , a double-stranded linear DNA virus , has widely been used for clinical applications because of the advantages being produced at high titer and high transduction efficiencies in both proliferating and quiescent cells  .
+ADV infection to cells is mediated by high-affinity binding of its fiber protein to a cell membrane protein known as the coxsackie - adenovirus receptor ( CAR , the primary receptor ) a member of the immunoglobulin receptor superfamily .
+Recently the role of v integrin ( the secondary receptor ) and heparin sulfate ( the third receptor ) as receptors for adenovirus binding has been reported , but CAR receptor is still a major route of adenoviral infection  .
+Although ADV has many advantages , it is yet to be used for clinical applications because of the following restrictions .
+One major limitation associated with gene therapy via viral vector requires repeated treatments due to the development of a humoral immune response to the vector by the host .
+ADV in general lacks of replication abilities , requiring repetitive administrations .
+Consequently , they can provoke serious innate and adaptive immune responses and liver toxicity  .
+Another hurdle confronting ADV mediated gene therapy is their non-specific distribution in tissue after in vivo gene transfer because of the relatively broad tissue expression of CAR  .
+This issue imposes an increased risk of toxicity due to vector dissemination of non-targeted cells and increases unwanted side effects such as vector-associated immunogenic toxicity .
+Moreover , they should be administered locally and repeatedly to maintain a long-term sustainable effect .
+Today , it is well known that immune response is caused by a dose dependent rise in neutralizing antibodies after primary administration  .
+Avoiding the neutralization of ADV by antibodies , the most efficient strategy is to mask surface of ADV by covalent attachment of the poly ( ethylene glycol ) ( PEG ) .
+PEG modification is a well-established technique to diminish protein - protein interactions between therapeutics , proteins , and cells in vivo .
+Moreover , PEGylation provides with prolonged circulation time in the bloodstream .
+It shields ADV from immune responses , and it is employed as spacer to link targeting moiety  .
+However , PEGylated ADV ( PEG - ADV ) still relies on the transduction on a non-specific site via a CAR-mediated viral infection mechanism .
+Hence , PEGylation has resulted in limited binding and internalization of ADV with consequently inefficient gene delivery to objective cells .
+Moreover , PEG - ADV showed significantly lower expression level than ADV  .
+To resolve this problem , the surface of PEG - ADV was modified with the cell-specific targeting moieties such as RGD peptide , protein and folate ligand to grant cell-specific retargeting  .
+It is well known that , human epidermal growth factor receptor 2 ( HER2 / neu ) is over-expressed in 25 - 30% of invasive breast cancers , and its expression is similar in primary tumors and corresponding metastasis .
+On the contrary , its expression in normal tissues is at a low level .
+Thus , anti-HER2 / neu monoclonal antibody ( MAb ) is of interest as a potential targeting moiety of viral vector to breast cancer cell .
+Herceptin ( Trastuzumab , HER ) , a humanized recombinant anti-HER2 / neu MAb , can specifically bind to the membrane region of HER2 / neu with a high affinity , inhibiting signal transduction and cell proliferation  .
+Moreover , HER have been approved as a therapeutic agent of breast cancer by FDA , and it showed significant biostatic activity both as a single agent and the combination with traditional cytotoxic chemotherapy in the treatment of HER2 / neu over-expressing metastatic breast cancer patients .
+In this report , we aimed to demonstrate the effectiveness of a formulation of HER-conjugated ADV with a spacer of PEG ( HER - PEG - ADV ) .
+HER was conjugated to the one terminal group of hetero-bifunctional PEG molecule conjugated on the surface of ADV containing GFP genes .
+Enhancement in specificity and efficacy was comparatively evaluated as the extent of cell-specific GFP transduction using HER2 / neu positive MDA-MB-435 cells , MDA-MB-468 cells and HER2 / neu deficient U251N cells for retargeting strategies .
+The HER2 / neu-mediated intracellular delivery system is schematically depicted in Fig. 1. Morphology , size and conjugation efficiency of prepared HER - PEG - ADV were characterized by Transmission Electron Microscopy ( TEM ) , Dynamic Light Scattering ( DLS ) , Zeta Potential and Fast Performance Liquid Chromatography ( FPLC ) , respectively .
+Moreover , the site-specific targeting characteristics of prepared HER - PEG - ADV were confirmed by flow cytometry .
+The extent of immune response elicited by the surface modified ADV was also analyzed by determining the amount of interleukin 6 released from macrophage cells .
+Full-size image ( 67K )
+Fig. 1. Schematic representation of HER - PEG - ADV conjugates and retargeting of adenoviral vector to HER2 / neu over-expressing cell : HER - PEG - ADV transduces cells via the incorporated antibody-dependent , CAR- , v integrin- , and heparin sulfate-independent pathway .
+View Within Article .
+2. Materials and methods2.1 .
+Materials .
+ADV carrying the GFP gene and Herceptin ( HER , 185 kDa ) were obtained from Yonsei Cancer Center .
+Hetero-bifunctional poly ( ethylene glycol ) derivative ( NH2 - PEG - COOH , MW 3400 ) was purchased from Nektar ( Huntsville , AL ) .
+Dithiobis ( sulfosuccinimidyl-propionate ) ( DTSSP ) were purchased from Pierce ( Rockford , IL ) .
+1-Ethyl-3- ( 3-dimethyl-aminopropyl ) -carbodiimide ( EDC ) , N-hydroxysuccinimide ( NHS ) , l-lysine were purchased from Sigma ( St. Louis , MO ) .
+Cell culture media and materials were the products of Gibco-BRL ( Grand Island , NY ) .
+MDA-MB-435 , MDA-MB-468 and U251N cells were purchased from ATCC ( Manassas , VA ) .
+All other chemicals were of analytical grade .
+2.2. Generation of adenovirus expressing GFP .
+ADV used was E1-deleted Ad type 5 expressing GFP under the control of cytomegalovirus ( CMV ) promoters at E1 region of adenovirus .
+ADV expressing GFP was propagated in 293 cells , purified by CsCl density purification .
+Purified virion preparation was dialyzed against 10 mM phosphate-buffered saline ( PBS ) -4% sucrose and finally stored at 80 C. The number of viral particles was calculated from the measurements of optical density at 260 nm ( OD260 ) , where 1 absorbency unit is equivalent to 1012 viral particles per milliliter  .
+2.3. Preparation of PEG - ADV .
+3.14 1012 particles / mL of ADV containing the GFP gene was stored in phosphate-buffered saline ( PBS ) -4% ( w / v ) sucrose .
+ADV was pre-activated with Dithiobis ( sulfosuccinimidyl-propionate ) ( DTSSP ) at a 1:106 molar ratio ( ADV:DTSSP ) in 0.1 M sodium phosphate buffer ( pH 7.4 ) containing 0.15 M NaCl , respectively .
+The reaction was carried out for 30 min at room temperature .
+Hetero-bifunctional poly ( ethylene glycol ) derivative ( NH2 - PEG - COOH , MW 3400 ) was added to the solution at a molar ratio of 1:105 ( ADV:PEG ) .
+After reaction for 2 h at room temperature , the reaction of PEG - ADV was terminated with addition of excess free l-lysine .
+Then the product was purified by ultrafiltration with Centricon 50 membrane tubes ( Amicon , MW cutoff : 50,000 ) to remove free PEG residues .
+The purified PEG - ADV was stored at 20 C until use .
+The synthetic scheme of PEG - ADV conjugates was shown in Fig. 2 ( a ) .
+The PEG modification ratio was determined by a fluorescamine assay .
+To calculate the percent immobilization of PEG on the surface of ADV , the remnant amount of surface amine groups after PEG immobilization was determined .
+Full-size image ( 49K )
+Fig. 2. Synthetic scheme of HER - PEG - ADV conjugates .
+View Within Article .
+2.4. Synthesis of HER - PEG - ADV conjugates .
+The prepared PEG - ADV was reactivated with 1-ethyl-3- ( 3-dimethyl-aminopropyl ) -carbodiimide ( EDC ) and N-hydroxysuccinimide ( NHS ) at a molar ratio of 1:10:10 ( PEG:EDC:NHS ) in 0.1 M sodium phosphate buffer ( pH 7.4 ) containing 0.15 M NaCl .
+After activating for 30 min at room temperature , the reactants were ultrafiltrated with Centricon 50 membrane tubes ( Amicon , MW cutoff : 50,000 ) to remove free EDC and NHS residues .
+HER was added to the solution at a 10:1 molar ratio ( PEG:HER ) and the reaction was carried out for 2 h at 4 C. Then excess free l-lysine was added to terminate the reaction .
+Finally , intact particles were purified by size exclusion chromatography with Sephacryl S-500 ( Amersham Bioscieces , Sweden ) .
+The purified HER - PEG - ADV was stored at 20 C until use .
+The synthetic scheme of HER - PEG - ADV conjugates was shown in Fig. 2 ( b ) .
+The quantity of HER conjugation was determined using a protein assay ( Bradford method , Bio-RAD ) .
+2.5. Preparation of Au-labeled HER - PEG - ADV conjugates ( Au - HER - PEG - ADV )
+To affirm the existence of HER conjugated on PEG - ADV , colloidal gold particles were labeled with anti-Herceptin of HER - PEG - ADV conjugates .
+The colloidal gold particles ( 20 nm ) were synthesized as reported  .
+The prepared gold particles were conjugated with anti-Herceptin Ab ( FITC-goat anti-human IgG ; 81-7111 ; ZyMax , South San Francisco , CA ) then this complex was bound to HER - PEG - ADV  .
+Briefly , the prepared gold particles were adjusted to pH 9.0 by 0.1 M K2CO3 .
+The diluted anti-Herceptin Ab was incubated with the colloidal gold particle solution for 1 h at room temperature .
+Then 5% ( w / w ) BSA solution was added to stabilize the colloidal gold particles and the mixture was incubated for an additional 30 min .
+To remove un-reacted anti-Herceptin Ab , the centrifugation was repeated and the precipitation was suspended in 0.1 M sodium phosphate buffer ( pH 7.4 ) containing 0.15 M NaCl , 1% BSA and 0.5% NaN3 .
+This Au conjugated anti-Herceptin Ab was incubated with HER - PEG - ADV over 12 h at 4 C. .
+2.6. Characterization of HER - PEG - ADV conjugates .
+Identification of HER - PEG - ADV conjugates was confirmed by FPLC using Mono S cation exchange column ( HR 5 / 5 , Amersharm Biosciences. ) on a Bio-RAD Duo-Flow system ( Bio-RAD Laboratories ) consisting of BioFrac Fraction Collector , Rack : F1 ( 12 - 13 mm tubes ) , QuadTec UV - Vis detector , conductivity monitor and AVR7-3 valvesample inject valve .
+The column was equilibrated with start buffer ( buffer A , distilled water ) .
+HER - PEG - ADV was loaded onto column , and eluted with the loading buffer ( buffer B , 10 mM Tris buffer pH 8.0 ) .
+Elution was achieved with 30 mL linear gradient at a flow rate of 1 mL / min .
+Finally , the column was washed with 0.5 M NaCl .
+All runs were performed at room temperature .
+2.7. Measurement of average size and surface charge .
+The sizes and surface charges of ADV , PEG - ADV , and HER - PEG - ADV were measured using DLS ( Zeta-potential Analyzer ELS-Z , Photal , Otsuka , Japan ) .
+An argon ion laser was operated at 488 nm as the light source .
+The sizes of the ADV , PEG - ADV and HER - PEG - ADV were expressed as number-weighted mean diameter in nanometers .
+2.8. Transmission Electron Microscopy ( TEM ) images ( characterization of morphology )
+The surface morphologies of ADV , PEG - ADV , HER - PEG - ADV and Au - HER - PEG - ADV were observed by TEM operated at 80 kV using JEM 1010 Transmission Electron Microscopy ( JEOL , Nikon , Japan ) .
+2.9. Measurement of cell transduction .
+HER2 / neu positive breast cancer cells ( MDA-MB-435 , MDA-MB-468 ) and HER2 / neu deficient brain cancer cells ( U251N ) were cultured in Dulbecco 's Modified Eagle Medium ( DMEM ) supplemented with 10% fetal bovine serum ( FBS ) and penicillin - streptomycin ( 100 IU / mL ) , respectively .
+Cells were maintained at 37 C in a humidified 5% CO2 incubator .
+MDA-MB-435 ( 2105 cells / well ) , MDA-MB-468 ( 3105 cells / well ) and U251N ( 4104 cells / well ) cells were seeded on a 24 well plate .
+After 24 h , each cell was infected with ADV , PEG - ADV and HER - PEG - ADV .
+After 3 days , the cells were observed by fluorescence microscopy ( Olympus BX51 ; Olympus Optical , Tokyo , Japan ) with MetaMorph Imaging System ( Molecular Devices , USA ) .
+2.10. Flow cytometry .
+To perform quantitative measurement of GFP expression levels on the ADV , PEG - ADV and HER - PEG - ADV infected cells , MDA-MB-435 , MDA-MB-468 and U251N cells were seeded on a six-well plate 24 h before infection at cell densities of 4105 , 4105 and 1105 cells / well , respectively .
+At 72 h after the infection , the cells were raised with the cell dissociation solution ( Sigma , St Louis , MO , USA ) , and washed with PBS three times .
+After PBS washing , 400 L of PBS was added to perform flow cytometry analysis with FACScan ( Beckton-Dickinson , Sunnyvale , CA , USA ) using CellQuest software ( Beckton-Dickinson ) .
+2.11. Evaluation of immune response .
+Murine RAW 264.7 macrophage cells were seeded on a six-well plate 24 h before ADV , PEG - ADV , and HER - PEG - ADV infection at cell densities of 1 106 / well containing DMEM supplemented with 10% FBS , 100 IU / mL penicillin G sodium , and 100 g / mL streptomycin sulfate .
+After 24 h , the culture media was replaced with 1 mL of fresh media containing each 2109 and 5109 VPs of ADV , PEG - ADV , and HER - PEG - ADV .
+After 45 h post-infection , the level of interleukin-6 released in the culture media soup was determined by ELISA ( RD Quantikine , M6000B , MN ) .
+3. Results and discussion .
+As shown in Fig. 2 ( a ) , to prepare PEG - ADV conjugates , PEG was conjugated to ADV via homo-bifunctional NHS-esters between N-terminal -amine groups in ADV surface and the primary amine group of a hetero-bifunctional PEG derivates .
+The PEG modification ratio using a fluorescamine assay showed more than 70% .
+Then HER was immobilized on the purified PEG - ADV using EDC / NHS coupling agents .
+Protein assay proved that more than 500 molecules were conjugated on PEG - ADV complex .
+The resultant HER - PEG - ADV conjugates were confirmed by FPLC .
+The output was separated by the ionic difference and linear gradient separation was performed on a Mono S cation exchange column .
+First , the individual characteristic peaks of ADV ( 9 min ) and HER ( 30 min ) were identified , respectively .
+The characteristic peak of PEG - ADV was then observed at 9 min which was similar as the one for ADV only because of the slight surface charge difference between ADV and PEG - ADV .
+The FPLC data of resultant HER - PEG - ADV showed that the uncharged impurities including some small molecules ( a ) were eluted first , followed by ADV and PEG - ADV ( b ) , HER - PEG - ADV ( c ) , and HER ( d ) , successively .
+Full-size image ( 25K )
+Fig. 3. Ion exchange chromatograms of HER - PEG - ADV : each peak indicates ( a ) the uncharged impurities including some small molecules , ( b ) ADV and PEG - ADV , ( c ) HER - PEG - ADV and ( d ) HER .
+View Within Article .
+The morphologies of ADV , PEG - ADV , HER - PEG - ADV and Au - HER - PEG - ADV were observed by TEM .
+In Fig. 4 , TEM images identified that the size of the PEGylated ADV was slightly increased in comparison with ADV due to the presence of PEG but the size difference due to HER existence was not observed in Fig. 4 ( c ) .
+Moreover , Fig. 4 ( d ) clearly identified the gold particles labeled on HER which implied that HER was well-conjugated on PEG - ADV complex .
+The average size and size distribution of the ADV , PEG - ADV , and HER - PEG - ADV were also determined by DLS .
+As shown in Fig. 5 , the average size of ADV , PEG - ADV , and HER - PEG - ADV were 71.2 11.3 , 104.0 14.7 and 113.2 7.6 nm , respectively .
+These results also confirmed the TEM images that the sizes of PEGylated ADVs were increased due to the hydrodynamic volume of PEG chains on the surface of ADV .
+In Fig. 5 , the surface charge values of ADV , PEG - ADV and HER - PEG - ADV were 1.7 0.5 , + 4.0 0.8 and 15.9 2.0 mV , respectively .
+The surface charge of HER and PEG are + 20.5 and + 2.2 mV for reference .
+Hence , higher positive surface charge on HER - PEG - ADV was due to the presence of HER and PEG chains as expected .
+The conjugations of HER and PEG produced a value of + 15.9 mV for surface charge of HER - PEG - ADV as compared to 1.7 mV for naked ADV .
+These results also confirmed that HER - PEG was well-conjugated on the surface of ADV .
+Full-size image ( 54K )
+Fig. 4. Transmission Electron Microscopy ( TEM ) images of ( a ) ADV , ( b ) PEG - ADV , ( c ) HER - PEG - ADV and ( d ) Au - HER - PEG - ADV .
+View Within Article .
+Full-size image ( 27K )
+Fig. 5. Size distributions and zeta potentials of ADV , PEG - ADV and HER - PEG - ADV .
+View Within Article .
+To investigate the transduction efficiency , ADV , PEG - ADV , and HER - PEG - ADV prepared under conjugation of same molar ratio of 10:1 ( PEG:HER ) with the concentration of 4104 VPs / cell , 3104 VPs / cell , and 5104 VPs / cell were infected in MDA-MB-435 , MDA-MB-468 , and U251N cell lines , respectively .
+In Fig. 6 , comparative GFP expression levels were measured by the fluorescence intensity analysis .
+The GFP intensity data clearly demonstrated that the transduction efficiencies of HER - PEG - ADV depended on the HER2 / neu expression level of the infected cells .
+In Fig. 6 , the GFP intensity on MDA-MB-435 cells exhibited the highest values and followed by the one on MDA-MB-468 cells .
+However , the increase of GFP intensity was not observed against U251N cells .
+This implied that the affinity of HER - PEG - ADV on HER2 / neu positive breast cancer cells was predominant .
+Full-size image ( 112K )
+Fig. 6. Fluorescence microscope images of cells followed by the incubation with ( a ) ADV , ( b ) PEG - ADV , and ( c ) HER - PEG - ADV .
+View Within Article .
+To quantify the GFP intensity of all viruses transduction , we performed flow cytometry analysis ( in Fig. 7 ) .
+In U251N brain cancer cell , the intensity peak of HER - PEG - ADV hardly shifted to right due to the negative character upon HER2 / neu .
+In comparison with U251N , the GFP intensity peaks of HER - PEG - ADV in HER2 / neu positive cell lines , MDA-MB-435 and MDA-MB-468 , shifted to more right .
+Moreover , the GFP intensity of HER - PEG - ADV observed was significantly enhanced as compared to PEG - ADV .
+The GFP expression percent level of PEG - ADV was reduced to 10% and 20% against the naked ADV in MDA-MB-435 and MDA-MB-468 cell lines , respectively .
+In contrast , the HER - PEG - ADV exhibited 64% and 45% against naked ADV in MDA-MB-435 and MDA-MB-468 cell lines , respectively .
+Moreover , the increase of GFP expression level for U251N cell line was not observed in both PEG - ADV ( 6.1% ) and HER - PEG - ADV ( 6.8% ) .
+This result also clearly revealed that HER - PEG - ADV was successfully retargeted to HER2 / neu expressed cells .
+These noteworthy results indicated the transduction efficiency of HER - PEG - ADV against HER2 / neu positive cancer cells was significantly enhanced via HER2 / neu specific targeting route .
+Full-size image ( 69K )
+Fig. 7. Transduction efficiency by flow cytometry analysis of ADV , PEG - ADV , HER - PEG - ADV .
+View Within Article .
+We evaluated how PEGylation might attenuate IL-6 production from macrophage cell as proinflammatory cytokine by infecting RAW 264.7 ( macrophage cell ) with each 2109 and 5109 viral particles ( VPs ) of ADV , PEG - ADV , and HER - PEG - ADV in vitro , respectively .
+Macrophage and Kupper cells are both possible sources of proinflamatory cytokines that are produced after injection of ADV vectors  .
+The IL-6 release from these cells is the important cytokines related to the extent of immune response .
+RAW 264.7 cells infected with two VPs doses released IL-6 in culture supernatant and this released IL-6 concentration was then measured .
+In case of 2109 VPs treatment , ADV , PEG - ADV , and HER - PEG - ADV infected RAW 264.7 cells released IL-6 to the concentration of 13.56 0.03 pg / g , 0.1 0.01 pg / g , and 8.76 0.48 pg / g respectively .
+Also , in case of 5109 VPs treatment , the IL-6 concentration was detected as 27.45 0.13 pg / g , 0.99 0.01 pg / g , and 19.63 0.22 pg / g , respectively .
+This noteworthy results showed that the IL-6 concentration of PEG - ADV and HER - PEG - ADV was decreased compared to those of ADV .
+Moreover , the results exhibited a dependency of IL-6 concentration on viral particles dose for all virus infected RAW 264.7 cells .
+However , although the IL-6 expression of treated HER - PEG - ADV was decreased compared to those of ADV , more increased IL-6 than PEG - ADV was examined .
+In this result , it seems that Herceptin itself has the immunogenic characteristic because of antibody size , composition components .
+Full-size image ( 27K )
+Fig. 8. Proinflammatory cytokine IL-6 expression released from RAW264.7 macrophage cells after infection with ADV , PEG - ADV , and HER - PEG - ADV .
+View Within Article .
+Nevertheless , these reduced amounts of IL-6 released from macrophage cells suggested that PEGylation of ADV could minimize the adverse immune response problems often associated with ADV gene therapy .
+Previous work demonstrated that PEGylation of ADV could effectively mask viral surface and shield the ADV vector in immune system  .
+In conclusion , the data suggested that antibody conjugated PEGylation of ADV reduced innate immune response to resolve the immunogenicity problem of ADV .
+We further plan to examine the anti-tumor efficacy and immunogenic system in vivo mouse model .
+Consequently , the results of transduction efficiency clearly demonstrated that the affinity of the HER - PEG - ADV conjugates on the target cell was significantly enhanced which ensured minimizing unwanted side effects such as vector-associated immunogenic toxicity , let alone increasing a long-term sustainable effect with PEG enveloping .
+4. Conclusions .
+We synthesized the HER - PEG - ADV conjugates for retargeting gene therapy to breast cancer cells .
+These conjugate vectors were found to be feasible to overcome the limitation factor associated with immune response and targeting for adenoviral gene delivery .
+HER - PEG - ADV were capable of enhancing transduction efficiency onto the breast cancer cells via HER2 / neu as a targeting moiety and also enveloping of PEG on the surface of ADV reducing the extent of immune response .
+This study may render target specific gene delivery using adenoviral vectors for many clinical applications .
+Further study on the synergistic efficacy of therapeutic antibody and gene therapy via HER - PEG - ADV for the breast cancer treatment in vivo level is prospected .
+Acknowledgments .
+This work was supported by KOSEF through National Core Research Center for Nanomedical Technology ( R15-2004-024-00000-0 ) and ( R01-2006-000-10023-0 ) , Republic of Korea .

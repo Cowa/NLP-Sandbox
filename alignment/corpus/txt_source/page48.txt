@@ -1,0 +1,214 @@
+L' Organisation mondiale de la santé estime à 1,2 million le nombre de cancers du sein qui ont été diagnostiqués dans le monde en 2002 et à 410000 le nombre de décès liés à cette pathologie .
+De ce fait , l' épidémiologie de ce cancer a été largement étudiée et certains facteurs de risque sont actuellement clairement établis .
+Toutefois , un certain nombre de controverses et d' inconnues persistent , concernant l' impact de la grossesse à_la_fois sur le risque de survenue d' un cancer mammaire et sur son pronostic .
+Des travaux récents , issus de la biologie cellulaire et moléculaire , contribuent à une meilleure compréhension des effets paradoxaux de la grossesse sur les cancers mammaires .
+Cette revue de la littérature a pour objectif de faire un état des lieux épidémiologique et biologique de l' impact de la grossesse sur l' oncogenèse mammaire .
+2. Physiologie de la glande mammaire normale
+Le développement de la glande mammaire commence au_cours_de l' embryogenèse et se poursuit à la puberté principalement sous l' effet des hormones ovariennes .
+Ce développement se caractérise notamment par une prolifération des canaux galactophoriques .
+Ces derniers se divisent par dichotomie et envahissent progressivement le tissu stromal qui devient également de_plus_en_plus abondant .
+Les premiers bourgeons des futurs acini apparaissent ensuite à l' extrémité des canaux .
+Ils restent bloqués à un stade précoce de différenciation jusqu' à la première grossesse .
+Après la puberté , la glande mammaire suit des cycles de prolifération et d' involution qui sont régulés par les cycles menstruels .
+La glande mammaire est donc constituée d' une composante épithéliale et d' une composante stromale , étroitement liées .
+Les galactophores sont composés d' un épithélium reposant à son pôle basal sur une matrice extracellulaire ( MEC ) qui sépare cet épithélium de la composante stromale complexe ( fibrillaire et cellulaire ) au sein de laquelle se développe la vascularisation indispensable à la croissance et à la fonction mammaire .
+Des interactions cellulaires entre stroma et épithélium sont impliquées dans le développement et la différenciation de la glande foetale puis dans la croissance pubertaire , et la maintenance d' un état tissulaire différencié  .
+Au cours de la grossesse , la glande mammaire se modifie considérablement .
+La grossesse est une période d' inflation estrogénique , progestative et prolactinique .
+Les estrogènes ont une action proliférative sur l' épithélium qui débute dès le premier trimestre de la grossesse .
+La progestérone a également une action proliférative , permet la différenciation de l' épithélium mammaire et s' oppose à l' action sécrétoire de la prolactine avant l' accouchement .
+Ainsi , en fin de grossesse , les cellules épithéliales des acini sont pleinement différentiées en cellules sécrétrices .
+Après l' accouchement , la chute des hormones placentaires associée à un pic de prolactine stimule les cellules sécrétrices .
+Ces cellules lactogènes élaborent les différents composants du lait .
+Après le sevrage , l' apoptose ou mort cellulaire programmée , permet l' élimination du tissu lactant .
+Cette apoptose a un rôle capital dans l' homéostasie et la physiologie du sein .
+Après la fin de l' allaitement , le sein retrouve son état latent antérieur tout en conservant un réseau canalaire plus développé , prolongé par des unités terminales ductulolobulaires ( UTDL ) .
+La présence de récepteurs estrogéniques ( RE ) dans les cellules épithéliales est fondamentale pour la réponse aux stimuli hormonaux régulant le développement de la composante épithéliale  .
+Les estrogènes ont un rôle de promoteur direct seulement dans les cellules épithéliales RE+ .
+Ils peuvent toutefois jouer un rôle promoteur indirect via les facteurs de croissance et les cytokines sécrétées par les cellules épithéliales et stromales hormonosensibles qui vont stimuler les cellules épithéliales ayant des récepteurs spécifiques à ces facteurs quel que soit leur statut ( RE+ ou RE - )  .
+Les récepteurs à la progestérone ( RP ) exercent également un rôle crucial dans la prolifération de l' épithélium mammaire au_cours_de la grossesse .
+En début de grossesse , la prolifération épithéliale induite par la progestérone est liée à l' expression élevée des RP par un mécanisme paracrine .
+En fin de grossesse , le blocage de cette prolifération permet la différenciation cellulaire en réponse à une chute marquée de l' expression des RP .
+Les récepteurs à la prolactine , dont six isoformes ont été identifiés , sont exprimés à des degrés divers dans l' épithélium mammaire  .
+L' interaction de ces récepteurs avec la prolactine contribue à_la_fois au développement de la glande mammaire pendant la grossesse et à la lactation lorsque surviennent le pic de prolactine et la chute des hormones placentaires .
+3. Données épidémiologiques3.1 .
+Effets de la grossesse sur le risque ultérieur de cancer du sein
+Les données épidémiologiques concernant l' effet de la grossesse sur le risque ultérieur de cancer mammaire sont très nombreuses et parfois contradictoires  .
+Toutefois , la majorité indique que le risque de cancer du sein augmente avec la nulliparité et l' âge tardif de la première grossesse  .
+À l' inverse , la première grossesse précoce ( avant 25 ans )  et la multiparité diminuent ce risque à long terme  .
+Pour les patientes porteuses d' un gène de susceptibilité au cancer mammaire BRCA1 ou BRCA2 , l' effet bénéfique de la parité a également pu être démontré  .
+Par ailleurs , il a pu être établi que le risque de cancer du sein diminue d' environ 7 % à chaque naissance  .
+Tableau 1.
+Synthèse des effets de la grossesse et l' allaitement sur le risque de survenue d' un cancer mammaire et son pronostic
+Risque de survenue d' un cancer mammaireMécanismes physiopathologiques impliquésPronostic du cancer mammaireMécanismes physiopathologiques impliqués Grossesse précoceDiminué
+Différenciation
+Involution
+DéfavorablePersistance de cellules SC1 Grossesse tardiveAugmenté
+Stimulation hormonale des cellules initiées
+Modifications de la MEC
+FavorableStimulation hormonale des cellules RH+ NulliparitéAugmentéAbsence de différenciation et d' involutionNon modifiéND MultiparitéDiminué
+Différenciation
+Involution
+Non modifiéND AllaitementDiminué
+Diminution des cycles ovulatoires
+Excrétion de carcinogènes par le lait
+Non modifiéND Cancer en cours de grossesse ou du post-partumNDNDDéfavorable
+Stimulation hormonale des cellules RH+
+Modifications de la MEC
+Grossesse après cancerPas de majoration de risque si délai de prudence respectéNDNDND
+Full-size table
+MEC : matrice extracellulaire ; RH : récepteurs hormonaux ; SC1 : Stem Cell 1 ; ND : non disponible .
+View Within Article
+À court terme cependant , il existe une augmentation transitoire et modérée des cancers du sein au cours des trois à quatre années qui suivent une grossesse  .
+Dans une étude prospective publiée en 1995 , menée à_partir_d' une population de 802457 Norvégiennes âgées de 20 à 56 ans , une augmentation à court terme des cancers mammaires a été observée après une grossesse à terme .
+Les auteurs ont montré que le plus grand nombre de ces cancers apparaît trois à quatre ans après l' accouchement ( RR 1,99 , IC de 95 % 1,7 - 2,3 )  .
+Les mêmes auteurs ont publié récemment une actualisation de ces données  .
+Ils confirment à_la_fois l' effet protecteur à long terme de la grossesse et l' augmentation transitoire du risque mammaire après une grossesse .
+Cette augmentation n' est toutefois pas retrouvée lorsque la première grossesse survient avant 25 ans en l' absence d' antécédents familiaux  .
+En revanche , cette augmentation transitoire du risque est retrouvée quel que soit l' âge de survenue de la grossesse lorsqu' il existe un antécédent familial de cancer mammaire du premier degré  .
+Des résultats semblables ont été observés dans une étude cas témoins portant sur des Suédoises appariées suivant l' âge  .
+Après ajustement pour la parité et l' âge à la première naissance , le risque relatif d' apparition d' un cancer du sein dans les trois ans suivant le dernier accouchement est 1,2 fois celui des femmes dont le dernier accouchement avait eu lieu dix ans auparavant ou plus ( IC de 95 % 1,02 - 1,44 )  .
+Par ailleurs , le risque de cancer mammaire semble être très légèrement moindre chez les femmes qui donnent naissance à des jumeaux  ou à un garçon  .
+Les grossesses interrompues n' entraînent quant_à elles peu ou pas de modifications du risque de cancer mammaire  .
+Newton et al. ont quantifié le risque de cancer du sein pour les femmes ayant des fausses couches ou des avortements provoqués  .
+Après ajustement pour la parité , l' âge à la première naissance et d' autres facteurs de risque , une interruption de grossesse est associée à un RR de 1,12 ( IC de 95 % 1,0 - 1,5 ) .
+3.2. Effets de l' allaitement sur le risque ultérieur de cancer du sein
+De nombreuses études ont évalué la contribution de l' allaitement maternel dans la prévention du cancer du sein  et ont conclu à l' effet protecteur de l' allaitement prolongé sur le risque de cancer invasif mammaire  .
+Cet effet a été retrouvé chez les femmes porteuses de la mutation BRCA1 .
+En revanche , pour celles porteuses d' une mutation BRCA2 , l' allaitement ne semble pas associé à une réduction significative du risque de survenue d' un cancer du sein  .
+L' impact de l' allaitement sur le risque de survenue d' un cancer in_situ du sein a également été étudié .
+Une longue période d' allaitement est paradoxalement associée à une augmentation du risque de survenue d' un cancer in_situ  .
+3.3. Effets de la grossesse sur le pronostic des cancers du sein3.3.1 .
+Impact pronostique des grossesses survenues avant le cancer mammaire
+Les effets de la grossesse sur le pronostic des cancers du sein ont été particulièrement étudiés par le Danish Breast Cancer Cooperative Group .
+Il a ainsi été démontré que la parité n' influence pas le pronostic des cancers mammaires  .
+De manière surprenante , il semble que les patientes atteintes d' un cancer mammaire et ayant donné naissance à un âge jeune , ont un pronostic plus défavorable comparé à celles qui ont eu une grossesse plus tardive  .
+De même , Schouten et al. ont montré sur une série de 866 patientes que le jeune âge au moment de la première grossesse à terme est associé à une altération de la survie lors_de la survenue d' un cancer mammaire ( RR de 1,69 , IC de 95 % 1,04 - 2,68 )  .
+Greenberg et al. ont pu démontrer sur une série de 582 patientes traitées pour un cancer mammaire le meilleur pronostic de celles qui ont eu une première grossesse tardive  .
+La grossesse précoce protège donc essentiellement des cancers ayant un bon pronostic .
+Après une grossesse précoce , moins de cancers mammaires sont observés , mais ils sont de moins bon pronostic .
+3.3.2. Pronostic des cancers mammaires survenant au_cours_de la grossesse ou du post-partum
+Environ 0,2 à 4 % des cancers du sein évoluent lors d' une grossesse ou dans l' année qui suit cette grossesse  .
+La probabilité d' un cancer du sein est estimée d' un à trois pour 10000 grossesses  .
+Les cancers mammaires gestationnels ont pour la_plupart un pronostic défavorable , lié à l' âge jeune des patientes , l' agressivité des tumeurs , les retards au diagnostic et au traitement et la grossesse elle-même  .
+Autrefois , l' interruption de la grossesse faisait partie intégrante du traitement de ces cancers gestationnels  .
+De nombreux travaux ayant montré que l' interruption de la grossesse ne modifie pas le pronostic , celle-ci n' est actuellement proposée que dans certaines circonstances particulières , liées à l' urgence des traitements , au stade de la grossesse et au choix des parents  .
+3.3.3. Impact pronostique des grossesses survenant après le cancer mammaire
+Les études portant sur les grossesses survenant après cancer du sein sont pour la_plupart rétrospectives , concernent de petits effectifs et comportent de multiples biais ( liés notamment à la sélection des femmes qui optent pour une grossesse et aux répercussions des traitements sur la fertilité ) .
+En conséquence , les résultats concernant l' innocuité de la grossesse , son effet sur les rechutes ou sur le pronostic doivent être interprétés avec prudence .
+Toutefois , la survie des femmes qui ont une grossesse après avoir été traitées pour un cancer mammaire ne semble pas aggravée lorsqu' on la compare à la survie des femmes sans gestation  .
+Les recommandations actuelles ne contre-indiquent pas la grossesse après cancer du sein , mais préconisent le respect d' un délai de prudence pouvant aller jusqu' à cinq ans en cas de cancer de mauvais pronostic  .
+4. Hypothèses étiopathogéniques expliquant les effets de la grossesse sur le cancer du sein
+Les données épidémiologiques décrites précédemment montrent bien à quel point les interactions entre la grossesse et le cancer du sein sont complexes et paradoxales .
+Toutefois , les données fournies par les études de biologie moléculaire et cellulaire permettent de mieux comprendre ces interactions .
+Par soucis de clarté , nous avons séparé les différents mécanismes physiopathologiques protecteurs et délétères .
+En pratique , ils peuvent être étroitement liés .
+Plusieurs mécanismes sont impliqués dans la réduction de risque de cancer mammaire induite par la grossesse , tels_que la différenciation cellulaire de l' épithélium mammaire , l' involution de la glande , l' excrétion d' agents carcinogènes par le lait lorsqu' il y a un allaitement et enfin l' apparition d' anticorps antimucines .
+Parmi les mécanismes physiopathologiques permettant d' expliquer les effets délétères de la grossesse sur le risque de survenue d' un cancer mammaire ou son pronostic , intervient en_premier_lieu la stimulation par les hormones gravidiques des cellules épithéliales initiées .
+Des études récentes impliquent également les modifications gravidiques et postnatales du stroma mammaire et notamment de la MEC , qui peut alors faciliter la croissance tumorale et la survenue de métastases .
+4.1. Effets bénéfiques de la grossesse4.1.1 .
+Différenciation de l' épithélium mammaire
+Le mécanisme majeur permettant d' expliquer l' effet protecteur de la grossesse vis-à-vis_de la carcinogenèse mammaire met en jeu la différenciation des cellules épithéliales  .
+Un modèle de souris transgéniques  met en évidence le rôle crucial de la progestérone et de son récepteur dans cette différenciation et prouve que la grossesse diminue le nombre de cellules indifférenciées de l' UTDL .
+Or , ce sont les cellules indifférenciées qui sont les plus sensibles aux carcinogènes .
+Cela a été bien montré par des études sur des tumeurs induites par des carcinogènes chimiques chez le rat  .
+L' administration d' estrogènes et de progestérone avant le carcinogène protège en permettant une différenciation des cellules mammaires .
+De même , la grossesse ou l' administration à des rates non gravides d' HCG ( human chorionic gonadotropin ) ont un effet protecteur , aboutissant à_la_fois à une inhibition de l' initiation et de la progression des tumeurs mammaires et même à l' arrêt du développement des proliférations intracanalaires et des carcinomes in_situ  .
+L' analyse histologique de la différenciation cellulaire a conduit Russo et al. à décrire quatre états de différenciation lobulaire , les cellules les moins différenciées ( dénommées lobulaires 1 ) étant majoritaires chez les nullipares et les plus différenciées ( dénommées lobulaires 4 ) étant observées au moment de la lactation  .
+Il a ensuite classé les cellules lobulaires 1 en deux sous-types SC1 et SC2 ( Stem cells 1 et Stem cells 2 ) , les SC1 étant sensibles aux carcinogènes et les SC2 réfractaires .
+L' hypothèse est que les femmes nullipares et celles qui ont un cancer du sein ont plutôt des cellules SC1 , les femmes ayant accouché ou sans pathologie mammaire ayant plutôt des cellules SC2  .
+De plus , des études récentes portant sur des cellules épithéliales mammaires isolées , ont montré la présence d' une signature génomique spécifique et définitive liée à la grossesse , prouvant ainsi les modifications postgravidiques de l' épithélium mammaire  .
+4.1.2. Involution de la glande mammaire
+Le deuxième mécanisme important permettant d' expliquer l' effet protecteur de la grossesse vis-à-vis_de la carcinogenèse mammaire met en jeu l' involution de la glande mammaire .
+En effet , pendant la grossesse , on observe une multiplication des cellules épithéliales différenciées et indifférenciées , un accroissement des cellules du stroma et des modifications de la MEC .
+À la fin de la grossesse ou à l' issue de la lactation se produit l' involution de la glande mammaire accompagnée d' une diminution considérable des cellules épithéliales qu' elles soient différenciées , indifférenciées ou même initiées et une dégradation des composants de la MEC  .
+Cette apoptose permet l' élimination des cellules indésirables , malades ou initiées .
+En l' absence de grossesse , ces cellules ne sont pas éliminées et dans certains cas aboutissent à une cancérisation permettant d' expliquer le surrisque mammaire lié à la nulliparité .
+4.1.3. Allaitement
+L' allaitement contribue à une réduction du risque d' apparition et de progression d' un cancer du sein par différents mécanismes  .
+L' allaitement réduit le nombre d' ovulations proportionnellement à sa durée et maintient un niveau d' estrogènes plus bas que celui que l' on observe au cours du cycle menstruel .
+De plus , l' allaitement fait diminuer le pH , le niveau d' estrogènes et les carcinogènes locaux des lobules et des canaux  .
+Parmi les substances carcinogènes , il faut citer les xéno-estrogènes et en_particulier les organochlorés .
+Le lait est une voie d' excrétion importante de ces substances lipophiles en raison de sa composition élevée en graisses .
+Il a ainsi pu être démontré que les organochlorés présents dans le tissu mammaire diminuent chez les femmes ayant allaité leurs enfants  .
+Quoique controversées , les données épidémiologiques indiquent que la fixation de ces xéno-estrogènes dans la glande mammaire pourrait être cancérigène pour l' humain  .
+Grâce à l' excrétion de ces carcinogènes stockés dans les cellules adipeuses du sein , le lait pourrait donc participer à la diminution du risque du cancer du sein .
+Cette hypothèse est renforcée par l' étude de Ing_et_al.  portant sur des femmes du Sud-Est asiatique qui , pour des raisons culturelles , n' allaitent qu' à partir du sein droit .
+Il a pu être démontré que leur risque de cancer du sein est quatre fois plus grand du côté gauche que du côté droit , sans_que l' on sache précisément quels mécanismes sont impliqués dans cette réduction de risque .
+4.1.4. MUC1 / Polymorphic Epithelial Mucin ( MUC1 / PEM )
+La protéine MUC1 , encore appelée Polymorphic Epithelial Mucin ( PEM ) est une protéine transmembranaire dont la glycosylation lui confère une structure de mucine  .
+La MUC1 / PEM est présente en faible quantité au niveau du pôle apical des cellules mammaires normales , tapissant notamment l' intérieur des canaux galactophores et des lobules .
+Son expression augmente lors_de la lactogenèse mais_aussi lors_de la transformation maligne .
+La MUC1 / PEM est également présente chez le foetus .
+Son passage dans la circulation maternelle  aboutit à une présentation d' épitopes antigéniques et à une immunisation  .
+Ces anticorps antimucines circulants peuvent contribuer à la lyse de cellules mammaires surexprimant MUC1 / PEM ( notamment les cellules initiées ou cancéreuses ) .
+Les anticorps anti-MUC1 / PEM sont d'_ailleurs utilisés pour le développement de vaccins anticancer du sein ciblant gp68  .
+Cette immunisation anti-MUC1 / PEM est une des hypothèses pouvant contribuer à expliquer l' effet bénéfique de la grossesse sur le risque de cancer mammaire .
+4.2. Effets péjoratifs de la grossesse4.2.1 .
+Modifications biologiques gestationnelles
+La grossesse est une période d' inflation estrogénique et progestative .
+Si une grossesse survient chez une femme dont les cellules épithéliales indifférenciées sont déjà initiées ( c' est-à-dire comportent des altérations génétiques favorisant la transformation maligne ) , ces cellules initiées vont être stimulées par ces hormones , se multiplier et acquérir d' autres altérations génétiques qui vont aboutir à leur division incontrôlée .
+De même , lorsqu' il existe des cellules mammaires cancéreuses , leur stimulation par ces hormones favorise leur prolifération .
+Sachant que le nombre de cellules initiées ou transformées augmente avec l' âge , on comprend bien pourquoi la survenue d' une grossesse après 35 ans augmente le risque mammaire .
+De même , la stimulation hormonale des cancers mammaires survenant en cours de grossesse conduit à leur croissance rapide et contribue à leur pronostic défavorable .
+L' implication des estrogènes et de la progestérone varie selon_que ces cellules expriment ou non des récepteurs hormonaux ( RE et / ou RP ) .
+Les travaux récents ayant étudié le transcriptome de tumeurs mammaires ont débouché sur une nouvelle classification des tumeurs mammaires tenant compte de la cellule d' origine du cancer  .
+Ces différentes études ont permis de mettre en évidence au moins trois grandes classes de cancers du sein , les cancers luminaux ou luminal-like , de bon pronostic , qui expriment les récepteurs hormonaux ( RH ) et présentent un profil proche des cellules épithéliales luminales , les cancers basaux ou basal-like , de pronostic plus péjoratif , qui n' expriment ni les RH ni c-erb B2 et présentent un profil proche des cellules myoépithéliales ( avec surexpression des cytokératines 5 et 6 ) et enfin les cancers qui surexpriment c-erbB2 , également de mauvais pronostic .
+L' effet protecteur de la multiparité et de la première grossesse survenant à un âge jeune n' est observé que pour les cancers surexprimant les RH  .
+En revanche , la durée prolongée de l' allaitement est associée à une réduction globale du risque de cancer mammaire , qu' elle que soit leur hormonodépendance .
+Cela prouve que la grossesse et l' allaitement n' agissent pas de la même manière sur l' oncogenèse mammaire .
+La prolactine a également été impliquée comme promoteur de la croissance et de la progression tumorale  .
+Des récepteurs à la prolactine sont exprimés à des degrés divers dans l' épithélium mammaire cancéreux  .
+L' interaction de ces récepteurs avec la prolactine contribue à la stimulation de la croissance des tumeurs mammaires cancéreuses .
+D' autres modifications biologiques gestationnelles ont été incriminées dans une moindre mesure pour expliquer l' effet péjoratif de la grossesse sur la glande mammaire  .
+Parmi celles-ci , on peut citer l' immunodépression , l' insulinorésistance relative associée à des taux circulants élevés d' insuline et les modifications des taux de mélatonine induites par la grossesse  .
+4.2.2. Modifications gestationnelles du stroma et de la MEC
+La plupart des études épidémiologiques et moléculaires concernant l' influence de la grossesse sur le cancer du sein s' est , par le passé , intéressée aux seules cellules épithéliales mammaires  .
+Or , les cellules épithéliales cancéreuses ont la propriété de modifier le stroma environnant .
+Ce stroma est constitué de différents types cellulaires ( fibroblastes , adipocytes , cellules endothéliales , macrophages ) et d' une MEC .
+La réaction stromale avait d'_abord été considérée comme une réaction de défense de l' organisme visant à isoler la tumeur .
+En fait , elle correspond à une adaptation du milieu environnant , induite par les cellules cancéreuses et facilitant leur croissance et l' invasion  .
+Le tissu stromal intervient à plusieurs étapes de la croissance d' une tumeur cancéreuse .
+Les cellules cancéreuses ne génèrent elles-mêmes qu' une partie de leurs signaux de croissance , ceux-ci étant principalement produits par les cellules stromales .
+La fonction et la survie des cellules sont dépendantes d' un apport constant d' oxygène et de nutriments par la circulation sanguine .
+L' activation de protéines d' origine stromale est indispensable à l' acquisition des propriétés invasives des cellules endothéliales et ainsi à la formation d' une néovascularisation ( angiogenèse ) .
+L' invasion et la formation de métastases sont des processus complexes , nécessitant la migration des cellules cancéreuses épithéliales à_travers la membrane basale séparant les tissus épithéliaux du stroma .
+Le franchissement de la membrane basale et la capacité de migration requièrent là encore l' activation de protéines d' origine stromale .
+De plus , la motilité des cellules épithéliales cancéreuses est acquise grâce_à une modification non_seulement des molécules d' adhésion exprimées à la surface cellulaire mais également des composants de la MEC du stroma .
+Le remodelage du sein au_cours_de la grossesse , sous la dépendance de facteurs hormonaux , implique à_la_fois les cellules épithéliales et le stroma .
+Les cellules épithéliales différenciées et indifférenciées , les cellules endothéliales et les fibroblastes du stroma se multiplient .
+La grossesse entraîne également des modifications de la MEC et une altération de la membrane basale des UTDL  .
+Si une grossesse survient chez une femme dont les cellules épithéliales indifférenciées sont déjà initiées ou transformées , ces cellules vont se multiplier de manière incontrôlée .
+Au cours de l' involution , la protéolyse associée à la dégradation de la MEC et les altérations de la membrane basale conduisent à l' invasion de ces cellules et à leur dissémination métastatique .
+Ce mécanisme permet probablement d' expliquer qu' après administration chez le rat de substances carcinogènes , la grossesse augmente temporairement l' incidence du cancer  .
+McDaniel et al. ont étudié les modifications stromales induites par la grossesse dans la glande mammaire en utilisant des cultures cellulaires tridimensionnelles et des modèles animaux ( rates et souris )  .
+Ils ont ainsi pu montrer l' influence de la parité des animaux sur la constitution de la MEC .
+Pour étudier les interactions entre la MEC et les cellules épithéliales mammaires , ils ont utilisé trois types de MEC provenant soit de glandes mammaires de rates en involution , soit de glandes mammaires de rates nullipares , soit du Matrigel , qui correspond à de la matrice produite par des cellules cancéreuses .
+Ils ont pu montrer que la croissance des cellules mammaires épithéliales humaines immortalisées ( lignée MCF 12 A ) est différente selon la MEC utilisée , les cellules croissant sous la forme de tubes dans la MEC provenant de rates nullipares et de sphères dans les deux autres cas .
+De plus , est observée l' absence de migration et d' invasion de ces cellules épithéliales normales quelle que soit la MEC utilisée .
+À l' inverse , la croissance des cellules cancéreuses mammaires ( lignée MDA-MB-231 ) , placées dans ces différentes MEC s' est faite de manière anarchique dans les trois dimensions de l' espace .
+Toutefois l' invasion cellulaire a été maximale avec la MEC prélevée sur des glandes mammaires en involution .
+Dans une étape ultérieure , ces phénomènes ont été étudiés in_vivo .
+Des cellules cancéreuses mammaires ont ainsi été mélangées avec chacune des MEC étudiées précédemment , afin_de réaliser des greffes orthotopiques dans les glandes mammaires de souris immunodéficientes .
+L' analyse a porté sur la croissance des tumeurs locales et la survenue de métastases .
+De manière surprenante , alors_que l' utilisation des trois MEC n' a pas influencé la croissance tumorale locale , des différences ont été observées au niveau des métastases .
+Ainsi , les métastases pulmonaires , hépatiques et rénales ont été majorées par l' utilisation de la MEC prélevée sur des glandes mammaires en involution .
+Cela pourrait s' expliquer par une augmentation de l' angiogenèse et des niveaux de VEGF ( vascular endothelial growth factor ) observés dans les tumeurs locales obtenues avec ce type de MEC .
+De plus , ces tumeurs contenaient un nombre élevé de myofibroblastes , qui sont des cellules associées à la réaction stromale et qui sécrètent des métalloprotéases .
+De manière intéressante , une équipe de ce même laboratoire  a montré que l' influence de la MEC prélevée sur des glandes mammaires en involution est dépendante du sous-type de cancer mammaire et ne semble s' exercer que sur des tumeurs RE - .
+5. Discussion et synthèse
+Une bonne connaissance des modifications physiologiques de la glande mammaire pendant la grossesse et des données apportées par la biologie moléculaire et cellulaire permet de comprendre les données épidémiologiques parfois contradictoires .
+5.1. Effets de la grossesse et de l' allaitement sur le risque ultérieur de cancer du sein
+La réduction du risque de cancer mammaire à long terme d à la première grossesse précoce et à la multiparité est principalement liée à la différenciation gestationnelle des cellules épithéliales mammaires qui sont moins sensibles aux carcinogènes .
+L' involution de la glande après l' accouchement ou le sevrage diminue le risque mammaire grâce_à la destruction de cellules initiées ou cancéreuses .
+Dans une moindre mesure interviennent l' apparition d' anticorps antimucines circulants et l' excrétion d' agents carcinogènes par le lait lorsqu' il y a un allaitement .
+En l' absence de grossesse , ces phénomènes n' ont pas lieu , expliquant ainsi l' augmentation du risque mammaire lié à la nulliparité .
+Le risque de cancer du sein lié à l' âge tardif de la première grossesse a pour origine la stimulation de la croissance par les hormones gravidiques des cellules épithéliales initiées et transformées ( dont le nombre augmente avec l' âge ) .
+L' augmentation transitoire du risque de cancer mammaire observé dans les trois à quatre années qui suivent un accouchement peut s' expliquer par la stimulation par les hormones gravidiques de cellules initiées et les modifications stromales de la glande mammaire .
+En effet , au_cours_de l' involution , la protéolyse associée à la dégradation de la MEC et les altérations de la membrane basale contribuent à faciliter l' invasion des cellules cancéreuses et leur dissémination métastatique .
+La reconstitution des membranes basales et de la MEC explique le caractère transitoire de cette augmentation de risque .
+5.2. Effets de la grossesse sur le pronostic des cancers du sein
+La grossesse précoce protège essentiellement des cancers ayant un bon pronostic ( cancers de bas grade et hormonodépendants ) .
+Après une grossesse précoce , moins de cancers mammaires sont observés , mais ils sont de moins bon pronostic .
+En effet , il peut persister après la différenciation de l' épithélium au_cours_de la grossesse des cellules de type SC1 , sensibles aux carcinogènes et dont la prolifération peut conduire à des tumeurs indifférenciées , non hormonosensibles et de mauvais pronostic .
+Le pronostic défavorable des cancers mammaires qui surviennent au décours d' une grossesse est lié à différents mécanismes : stimulation de la prolifération par les hormones gestationnelles des cellules hormonosensibles , facilitation de l' invasion et de la dissémination métastatique des cellules RE - du fait de l' altération des membranes basales

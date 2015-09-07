@@ -1,0 +1,186 @@
+Le traitement conservateur du cancer du sein est actuellement un standard puisqu' il a démontré son efficacité sur le plan carcinologique .
+Le consensus a été obtenu après la réalisation de plusieurs essais cliniques randomisés prospectifs confirmant l' équivalence , en termes de survie , entre une stratégie de traitement conservatrice et une mastectomie radicale .
+Des suivis jusqu' à 20 ans ont été publiés  , ainsi_qu' une méta-analyse  , allant dans le sens d' une stabilité des résultats carcinologiques à long terme .
+La séquence optimale entre la chimiothérapie et la radiothérapie reste encore incertaine pour les patientes atteintes d' un cancer du sein diagnostiqué précocement  .
+L' administration des deux traitements en concomitance est réalisable , à condition d' utiliser des substances n' ayant pas de toxicité cumulative avec la radiothérapie  .
+Dans les cancers du sein à haut risque , un traitement concomitant aurait l' avantage d' écourter la durée totale du traitement tout en évitant de retarder chimiothérapie ou radiothérapie  .
+Les données publiées sur les associations de chimiothérapie et de radiothérapie dans le cancer du sein concernent souvent de faibles effectifs et sont pour la_plupart rétrospectives , ce qui ne permet pas de conclure sur l' impact thérapeutique de ces traitements .
+En 1996 , un essai thérapeutique français multicentrique randomisé de phase III comparant après chirurgie du sein conservatrice une chimioradiothérapie séquentielle ( bras A ) et une chimioradiothérapie concomitante ( bras B ) , a été débuté  .
+L' analyse préliminaire des résultats de cette étude a mis en évidence un taux de contrôle locorégional significativement meilleur chez les patientes atteintes de cancer avec envahissement ganglionnaire axillaire dans le bras chimioradiothérapie concomitante  .
+Nous savons depuis_longtemps que la probabilité d' observer des effets tardifs et la sévérité de ceux-ci peuvent être d' autant plus importantes que le suivi à long terme est long  .
+L' objectif de cette étude était d' évaluer prospectivement , après un suivi significatif , les effets tardifs observés après chirurgie du sein conservatrice puis chimioradiothérapie concomitante ou séquentielle .
+2. Patientes et méthodes2.1 .
+Patients
+Entre février 1996 et avril 2000 , 716 patientes ont été incluses dans un essai thérapeutique randomisé de phase III , français , multicentrique , comparant après chirurgie du sein conservatrice pour des cancers de stade I ou II , un traitement adjuvant par une association séquentielle de chimiothérapie et de radiothérapie ( bras A ) au même traitement administré de façon concomitante ( bras B )  .
+Sur ces 716 patientes , 571 étaient éligibles pour cette évaluation car elles étaient en vie , sans récidive locale , ni cancer du sein bilatéral , ni métastases à distance .
+Au total , 297 patientes des cinq centres de radiothérapie ayant inclus le plus de patientes ( centre hospitalier universitaire de Tours , institut Sainte-Catherine d' Avignon , institut Curie de Paris , centre hospitalier universitaire de Besançon , centre hospitalier régional d' Orléans ) ont été convoquées par courrier pour une consultation de suivi dédiée à l' évaluation des résultats esthétiques et de la toxicité tardive .
+L' analyse a inclus 72 % des patientes convoquées ( 214 patientes ) , qui ont pu bénéficier d' une évaluation clinique prospective de la toxicité tardive et des résultats esthétiques .
+Les autres patientes convoquées ne se sont pas présentées à la consultation à laquelle elles étaient convoquées et n' ont donc pas pu être examinées .
+2.2. Traitement et groupes
+La chirurgie a été réalisée par des chirurgiens spécialisés , référents dans leur institution de la pathologie du sein .
+Toutes les patientes ont eu une tumorectomie ou une quadrantectomie et un curage axillaire des niveaux I et II de Berg .
+La chimiothérapie , semblable dans les deux bras , comportait six cycles de mitoxantrone ( 12 mg / m2 ) , 5-fluoro-uracile ( 500 mg / m2 ) et cyclophosphamide ( 500 mg / m2 ) , espacés de 21 jours .
+La radiothérapie délivrait 50 Gy en 25 fractions et cinq semaines dans l' ensemble du sein , pour la majorité des patientes ; on utilisait , le_plus_souvent , deux faisceaux tangentiels d' un appareil de télécobaltothérapie ou d' un accélérateur de 4 - 10 MV .
+Un complément de 10 à 20 Gy était délivré dans le lit tumoral chez les patientes atteintes de cancer à risque , par des électrons , des photons ou une curiethérapie .
+Dans certaines institutions , une technique d' irradiation en décubitus latéral isocentrique a été utilisée chez les patientes ayant des seins volumineux ou pendants  .
+L' aire ganglionnaire sus-claviculaire était irradiée quand le curage axillaire était positif , et la chaîne mammaire interne lorsque la tumeur était localisée dans un quadrant interne ou des ganglions axillaires métastatiques étaient retrouvés lors_de l' analyse de la pièce de curage .
+L' irradiation ganglionnaire , lorsqu' elle était indiquée ( le_plus_souvent dans la chaîne mammaire interne et l' aire ganglionnaire sus-claviculaire ) , délivrait une dose de 50 Gy en 25 fractions .
+Dans le bras B , les patientes recevaient les trois premiers cycles de chimiothérapie en_même_temps que l' irradiation .
+Dans le bras A , la radiothérapie débutait trois à cinq semaines après le sixième cycle de chimiothérapie .
+L' hormonothérapie adjuvante était le tamoxifène et était administrée pendant une durée de cinq ans ; elle était débutée après l' irradiation , parfois en_même_temps , à la discrétion du prescripteur .
+2.3. Suivi et évaluation
+Une mammographie de référence a été systématiquement réalisée pendant la première année suivant le traitement .
+À un mois de la fin de l' irradiation , un premier examen clinique a été effectué pour évaluer l' évolution des effets aigus du traitement .
+Toutes les patientes ont été régulièrement suivies pendant plus de cinq ans , avec au moins deux examens cliniques et une mammographie par an .
+Les évaluations esthétiques et fonctionnelles pratiquées pendant ces consultations de surveillance systématiques se sont avérées inhomogènes entre les différentes consultations , nous avons donc décidé de standardiser la méthode d' évaluation pour la dernière consultation .
+Entre juin 2004 et avril 2005 , les patientes de cette étude ont bénéficié d' une consultation dédiée comprenant un examen clinique évaluant la toxicité tardive et les résultats esthétiques à long terme du traitement , prospectivement par un oncologue radiothérapeute indépendant de l' étude ( A.T. ) .
+L' évaluation de la toxicité tardive a été réalisée en simple insu , ( l' évaluateur ignorait le traitement reçu par la patiente ) selon l' échelle SOMA - LENT ( subjective objective management analytic - late effects of normal tissues , Annexe A en version française ) .
+Au début des évaluations , 40 patientes ont été examinées par deux médecins différents afin_de synchroniser la cotation des effets tardifs et d' optimiser la variabilité interobservateurs .
+Un entretien semi-dirigé , structuré de façon identique pour toutes les évaluations selon une méthode standardisée , a été réalisé pour chacune des patientes .
+L' évaluation de l' échelle « sein » SOMA - LENT a été complétée par une analyse de la pigmentation , cet effet secondaire étant fréquemment observé  .
+Des photographies numériques en couleur du sein et des régions d' intérêts ont été réalisées lors_de toutes les évaluations .
+De plus , une évaluation esthétique du médecin selon une méthode quantitative et qualitative , et une évaluation exclusivement qualitative ont été réalisées .
+Les patientes ont été aussi interrogées et ont rempli un questionnaire à_propos de leur satisfaction esthétique ( les résultats seront rapportés séparément ) .
+Comme l' ont suggéré Fehlauer_et_al.  , un effort spécial dans l' évaluation de la toxicité tardive a été fait sur la définition des différents items de l' échelle SOMA - LENT traduite en français ( Annexe A )  : - occasionnel = mensuel ;
+- intermittent = hebdomadaire ;
+- permanent = quotidien ;
+- réfractaire = constant .
+En ce qui concerne l' évaluation de la gestion de la douleur , seuls les traitements pour douleur mammaire ont été considérés .
+L' oedème du sein correspondait à une augmentation de volume du sein traité , symptomatique ou non .
+La fibrose était évaluée par la palpation comparative entre le sein traité et celui non traité .
+Le grade retenu était le plus élevé si la fibrose mammaire n' était pas homogène dans l' ensemble du sein .
+Le lymphoedème du membre supérieur était quantifié en comparant les mesures entre les circonférences brachiales homolatérale et controlatérale ( 10 cm au-dessus_de l' olécrane ) .
+En ce qui concerne la gestion du lymphoedème , les sensations des patientes ont été prises en compte , même s' il n' y avait pas de différence mesurable en termes de circonférence brachiale .
+Une kinésithérapie intensive équivalait à un rythme au moins hebdomadaire .
+La diminution du volume mammaire ou la rétraction a été définie comme une perte de volume mammaire due à la radiothérapie ou à l' association de radiothérapie et de chirurgie .
+La toxicité tardive a été cotée lors_de la dernière consultation dédiée .
+2.4. Analyse statistique
+Le test du 2 ( avec correction de Monte-Carlo pour les faibles effectifs ) a été utilisé pour les comparaisons de deux groupes de patientes .
+Les paramètres quantitatifs ont été comparés en utilisant les tests t de Student ou de Mann-Whitney ( en fonction de la distribution des paramètres ) .
+Un p en_dessous de 0,05 a été considéré comme statistiquement significatif .
+2.5. Considérations éthiques
+Toutes les patientes ont reçu des informations orales et écrites concernant l' étude et ses objectifs .
+Un consentement éclairé a été obtenu avant toutes les inclusions dans l' essai .
+3. Résultats
+Cent sept patientes ont été examinées dans chacun des deux bras , avec une évaluation de la toxicité tardive selon l' échelle SOMA - LENT et de la pigmentation cutanée mammaire selon une échelle personnelle comportant cinq items ( excellent , bon , moyen , mauvais , médiocre ) .
+L' âge médian au début du traitement était de 49,7 ans ( 27 - 69 ans ) .
+Le délai médian entre la fin du traitement et la consultation d' évaluation était de 6,7 ans ( 4,3 - 9 ans ) .
+Les deux groupes de patientes étaient comparables en termes d' âge , de stade tumoral , d' état général , de poids , de statut ménopausique , de taille de sein , de type histologique , de récepteurs hormonaux , de marges d' exérèse , de composante in_situ , et d' envahissement axillaire .
+Nous avons constaté une légère supériorité de la taille tumorale dans le bras B , 19,6 contre 17,3 mm ( p = 0,03 ) , mais la taille de la pièce de résection n' était pas significativement différente entre les deux bras ( 67,7 mm dans le bras A contre 71,6 mm dans le bras B ) ( p = 0,37 ) .
+Les caractéristiques des patients et des tumeurs sont rapportées dans les Tableau 1 and Table 2.
+Tableau 1.
+Caractéristiques des patients et des tumeurs
+Patients' and Tumors' characteristics
+BrasABValeur p Patientes ge médian ( ans ) 50,349,1p = 0,27 Poids ( kg ) 63,662,2p = 0,37 Ménopause4841p = 0,40 Taille sein : ( bonnet ) p = 0,56 A59 B5748 C3436 D1010 E13 Tumeurs Stade Tp = 0,15 T063 T16454 T23549 Taille tumorale ( mm ) 17,219,6p = 0,03 Stade Np = 0,10 N07789 N12918 p = 0,32 pN03845 pN+6962 Moyenne ganglions / curage1313,3p = 0,63 Effraction capsulaire gg2516p = 0,14 Invasion vasculaire4954p = 0,79 Quadrantp = 0,29 Externe5067 Interne3024 Médian2414 Côtép = 0,68 Droit4852 Gauche5955 SBRp = 0,42 I1716 II4434 III4355 Histologiep = 0,20 CCI8783 CLI1412 Autre512 Récepteurs Ho RE+7669p = 0,25 RE - 2335 RP+6464 RP - 3541 Berges de l' exérèsep = 0,81 +75 - 9498 Inconnues11 Marges exérèse ( mm ) 5,66,3p = 0,66
+Full-size table
+View Within Article
+Table 2.
+Caractéristiques thérapeutiques et toxicité aiguë
+Treatment characteristic and acute toxicity
+BrasABValeur p Chirurgiep = 0,32 Tumorectomie9692 Quadrantectomie1113 Réintervention912p = 0,64 Complication postopératoire1514p 0,99 Dimension pièce opératoire ( mm ) 67,771,6p = 0,37 Curage ganglionnairep = 0,57 Niveau I2218 Niveau II8489 Chimiothérapie Nombre cycles5,95,8p = 0,89 Étalement ( semaine ) 16,0416,03p = 0,84 Radiothérapie Chirurgie - radiothérapie délai ( jours ) 173,343,8p 0,001 Dose par jour ( Gy ) 21,9p = 0,17 Étalement ( jours ) 4,94,9p = 0,51 Étalement ( jours ) 36,736,9p = 0,65 Dose moyenne au sein ( Gy ) 50,350,4p = 0,75 Dose moyenne au lit T ( Gy ) 61,361,9p = 0,34 Irradiation de la chaîne mammaire interne ( nb ) 6057 Irradiation gg sus-claviculaire7976 Interruption de la radiothérapie ( nb ) 129p = 0,64 Énergiesp = 0,48 Cobalt3945 Photons6862 Hormonothérapie4938p = 0,18 Toxicité aiguë ( grades 3 - 4 ) Peau1113p = 0,82 sophage3p = 0,23 Infection31p = 0,62 Neutropénie2519p = 0,39
+Full-size table
+View Within Article
+Les différents paramètres concernant la chirurgie , la chimiothérapie , la radiothérapie et l' hormonothérapie étaient statistiquement identiques entre les deux bras .
+Le délai médian entre la chirurgie et la radiothérapie était de 173,3 jours ( 145 - 223 ) dans le bras A et 43,8 jours ( 19 - 164 ) dans le bras B ( p = 0,0001 ) ; cette différence significative était attendue , l' étude ARCOSEIN ayant été conçue selon ce schéma .
+L' observance de l' irradiation et de la chimiothérapie en termes d' intensité relative de dose était comparable .
+Nous n' avons pas noté de différences entre les deux groupes en termes de toxicité aiguë de grades 3 - 4 , dans la population étudiée .
+3.1. Effets tardifs
+Dans le Tableau 3 , nous rapportons la description des effets cutanés et sous-cutanés tardifs , évalués prospectivement selon l' échelle SOMA - LENT , et l' évaluation de la pigmentation cutanée mammaire selon une échelle personnelle comportant cinq items ( excellent , bon , moyen , mauvais , médiocre ) .
+La fibrose sous-cutanée , les télangiectasies , la diminution du volume mammaire et la pigmentation cutanée , étaient significativement augmentées dans le bras B. Vingt patientes avaient une fibrose de grade supérieur ou égal à 2 dans le bras B contre cinq dans le bras A ( p = 0,003 ) .
+Vingt-cinq patientes avaient des télangiectasies de grade supérieur ou égal à 2 dans les bras B et sept dans le bras A ( p = 0,001 ) .
+Quarante-quatre patientes avaient une diminution du volume mammaire de grade supérieur ou égal à 2 dans les bras B et 20 dans le bras A ( p = 0,0006 ) .
+Trente patientes avaient une pigmentation de grade supérieur ou égal à 3 dans le bras B contre 15 dans le bras A ( p = 0,02 ) .
+Aucune différence statistiquement significative n' a été observée entre les deux bras , en termes de toxicité de grade supérieur ou égal à 2 , en ce qui concerne l' oedème du sein , le lymphoedème du membre supérieur .
+Aucune ulcération n' a été observée .
+Tableau 3.
+Effets secondaires tardifs des tissus cutanés et sous-cutanés selon l' échelle SOMA - LENT
+Radiotherapy late effects of the cutaneous and subcutaneous tissue scored by LENT - SOMA scale
+Grade 0Grade 1Grade 2Grade 3Grade 4
+Bras A - B
+107 patientes / bras
+ABABABABAB Diminution volume443443291025101702 Télangiectasies8258182428517 - Fibrose6454383351406 - dème99100860100 - Douleur7356212710173502 Lymphoedème86801825201200 Management douleur1029636240001 Management lymphoedème9910200216400
+Full-size table
+Résultats : bras A : chimioradiothérapie séquentielle ; bras B : traitement concomitant .
+Results : Arm A : concurent radiochemotherapy ; Arm B : sequential treatment .
+View Within Article
+Tableau 4.
+Pigmentation : échelle personnelle à cinq items
+Pigmentation : a personal five points-scale
+ExcellentBonMoyenMauvaisMédiocre BrasABABABABAB Pigmentation49374240141611002
+Full-size table
+View Within Article
+Une tendance statistique à une augmentation de la douleur mammaire de grade supérieur ou égal à 2 a été constatée dans le bras chimioradiothérapie concomitante ( p = 0,07 ) .
+Aucun décès iatrogène n' a été induit par toxicité tardive mammaire .
+Aucune atteinte myocardique sévère ou pulmonaire n' a été notée , quel que soit le bras .
+La chimiothérapie concomitante n' a pas augmenté la toxicité clinique cardiaque et pulmonaire dans cette sous-population évaluée prospectivement .
+Pour démontrer l' importance de respecter un délai suffisant entre le traitement et l' évaluation de la toxicité tardive , nous rapportons l' évolution du taux d' enregistrement d' au moins un effet secondaire tardif ( douleur , oedème du sein , fibrose , diminution de volume mammaire , lymphoedème du membre supérieur , télangiectasies de grade 1 ou pigmentation de grade 2 ) , en fonction de l' intervalle de temps entre la randomisation et l' évaluation clinique .
+Par exemple , avant cinq ans de suivi , cinq patientes sur sept avaient un effet tardif dans le bras B , contre quatre sur neuf dans le bras B , ce qui n' était pas différent sur le plan statistique ( p = 0,34 ) ; alors_que sur 60 patientes examinées avant sept ans de recul , 37 avaient un effet tardif dans le bras B , ce qui était supérieur aux 27 sur 63 du bras A ( p = 0,04 ) .
+On peut constater que les effets secondaires tardifs évoluent avec le temps , ce qui est illustré dans la Fig. 1. L' évolution du taux d' enregistrement de l' oedème du sein , la fibrose , la diminution de volume , la pigmentation en fonction de l' intervalle de temps entre la randomisation et l' évaluation clinique , sont rapportées dans le Tableau 5. Enfin , pour 82 % des femmes qui ont été examinées , la durée du traitement était importante à considérer dans la décision thérapeutique .
+Full-size image ( 54K )
+Fig. 1. Évolution du taux d' enregistrement d' au moins un effet tardif1 , en fonction du temps2 .
+1 Douleur , oedème du sein , fibrose , diminution de volume mammaire , lymphoedème du membre supérieur , télangiectasies grade supérieur ou égal à 1 ou pigmentation supérieure ou égale à 2.
+2 Intervalle de temps entre la randomisation et l' évaluation clinique .
+Fig. 1. Evolution of the incidence rate of at least one late-toxicity event1 , as a function of delay2 .
+1 Pain , breast oedema , fibrosis , atrophy , lymphoedema , telangiectasia grade superior or equal to 1 or Pigmentation superior or equal to 2.
+2 Interval between randomisation and late-toxicity assessment date .
+View Within Article
+Tableau 5.
+Évolution du taux d' enregistrement de la fibrosea , des télangiectasiesb , de la diminution de volume mammairec , de la pigmentationd , en fonction du tempse
+Evolution of the incidence rate of fibrosisa , telangiectasesb , breast atrophyc , pigmentationd , as a function of delaye
+TDR cinq ans six ans sept ans huit ans neuf ans BrasABABABABAB Fibrose0/92/70/349/402/6313/603/8716/905/10720 / 107 p = 0,180,0030,00050,0010,02 Télangiectasies1/90/73/349/405/6313/605/8721/907/10725 / 107 p 0,990,130,040,0010,0005 Dim. volume0/93/74/3416/4011/6324/6017/8739/9020/10744 / 107 p = 0,050,0050,0060,0010,001 Pigmentation2/91/75/3410/3412/6314/6012/8724/9015/10730 / 107 p 0,990,350,510,020,01
+Full-size table
+TDR : temps depuis la randomisation ; p valeur - 2 test .
+a Fibrose 1.a Fibrosis 1.
+b Télangiectasies 1.b Telangiectasia 1.
+c Diminution de volume mammaire 1.c Breast atrophy 1.
+d Pigmentation 1.d Pigmentation 1.
+e Intervalle de temps entre la randomisation et l' évaluation clinique.e Interval between randomisation and late-toxicity assessment date .
+View Within Article
+4. Discussion
+Dans cette étude randomisée , nous rapportons une des rares évaluations prospectives de la toxicité tardive comparant la chimioradiothérapie concomitante au traitement séquentiel après chirurgie du sein conservatrice  .
+L' analyse des résultats montre que le traitement concomitant est associé à une augmentation significative de la toxicité de grade supérieur ou égal à 2. Les 214 patientes examinées représentaient 72 % des patientes convoquées pour l' étude , ce qui peut être considéré comme une très bonne participation au regard des taux habituellement publiés  .
+L' évaluation n' a pas été faite sur l' ensemble de la population , car l' inhomogénéité dans le recueil de données , entre les différents centres , les différents médecins , et même les différentes évaluations faites par un même médecin , ne permettait pas une analyse fiable ; de plus , il semblait plus intéressant de réaliser l' évaluation prospectivement selon une méthode standardisée lors d' un entretien semi-dirigé .
+Nous avons donc choisi les centres ayant inclus le plus de patientes pour pratiquer cette analyse pour des raisons de commodité , car nous tenions à examiner chacune d' elles et à nous rendre dans chaque centre .
+Le délai de suivi médian de 6,7 ans est adapté à l' évaluation de la toxicité tardive après traitement conservateur du cancer du sein , étant connu que la fréquence et l' intensité de la toxicité tardive évoluent au cours du temps  .
+L' échelle SOMA - LENT , publiée et diffusée en 1995 , est recommandée pour l' évaluation des effets tardifs du traitement sur les tissus sains  .
+Cette échelle a été utilisée dans l' évaluation de la toxicité tardive après traitement conservateur du cancer du sein ( module spécifique ) , et reconnue comme pratique  , même si certains ajustements , notamment au niveau des troubles de la pigmentation , fréquemment observés après l' irradiation , doivent être pris en compte , comme l' ont suggéré Hoeller_et_al.  .
+La toxicité tardive est directement dépendante de l' échelle utilisée , ce qui incite à utiliser une échelle adaptée et communément admise dans les essais cliniques  .
+L' évaluation des effets tardifs après traitement du cancer du sein est complexe et nécessite aussi_bien un examen clinique objectif que l' évaluation subjective du ressenti des patientes et du retentissement fonctionnel  .
+Les séquelles du traitement conservateur du sein peuvent être divisées en plusieurs catégories : les altérations cutanées , la déformation du contour mammaire normal et la rétraction globale du sein sans déformation du contour .
+Les altérations cutanées peuvent être dues à une cicatrice chirurgicale proéminente , à une hyperpigmentation et / ou au développement de télangiectasies postradiques .
+Le contour normal du sein peut être déformé des suites d' une perte de volume après la chirurgie et / ou d' une rétraction fibreuse cicatricielle radio-induite .
+La radiofibrose du sein , qui est un des effets tardifs les plus fréquemment observés  peut aussi engendrer une rétraction globale mammaire , causant une asymétrie entre les deux seins .
+Cette radiofibrose peut causer une déformation du sein traité avec rétraction du mamelon et du sein vers le haut , ou encore vers le bas ou latéralement .
+La radiofibrose cutanée est caractérisée par une rétraction de la peau et des tissus sous-cutanés , voire une atrophie , avec variation de la texture de celle-ci , souvent sous forme d' une induration à la palpation , pouvant entraîner une limitation fonctionnelle .
+Il convient par_ailleurs de prendre en considération le retentissement fonctionnel et le vécu de ces effets tardifs par la patiente .
+Aucune toxicité pulmonaire ou cardiaque sévère n' a été observée chez les patientes ayant eu un traitement séquentiel ou concomitant après 6,7 ans de suivi en médiane ; la toxicité cardiaque se développant après un délai médian de deux ans ( 0,5 - 10,7 ) après chimiothérapie contenant de la doxorubicine  , un suivi plus important est nécessaire pour conclure sur ce point .
+Abner et al. ont rapporté , dans l' expérience du Joint Center for Radiation Therapy , un moins bon résultat esthétique , lorsqu' une chimiothérapie par CMF ( cyclophosphamide , méthotrexate , 5-fluoro-uracile ) était administrée en concomitante de l' irradiation  .
+Les effets tardifs du bras séquentiel que nous rapportons sont en concordance avec ceux publiés dans d' autres séries rétrospectives utilisant l' échelle SOMA - LENT  , même s' il est difficile de comparer des régimes de chimiothérapie différents , et des données rétrospectives avec des données prospectives .
+Comme Markiewicz et al. , nous n' avons pas mis en évidence d' augmentation significative du taux de lymphoedème du membre supérieur chez les patientes ayant reçu une chimiothérapie concomitante par_rapport_à celles ayant reçu un traitement séquentiel  .
+Nous n' avons pas retrouvé d' autre évaluation des effets tardifs dans une étude randomisée , faite prospectivement , pour comparer nos résultats .
+Une évaluation de l' évolution des effets tardifs par une méthode actuarielle chez ces patientes , avec une longue espérance de vie  , aurait été préférable sur le plan méthodologique .
+Ne pouvant la réaliser de cette manière , puisque notre évaluation correspond à celle d' examen clinique dédié lors_de la dernière consultation , nous exprimons l' évolution du taux d' enregistrement des effets cliniques tardifs en fonction du temps .
+Cela illustre la probabilité d' observer un effet tardif en fonction du délai entre la randomisation et l' évaluation de la toxicité .
+D' après les résultats de notre étude , il apparaît que l' intervalle de temps idéal pour l' évaluation de la toxicité tardive après traitement conservateur du sein se situe autour_de six - sept ans de suivi , au_minimum , en_particulier pour l' évaluation des télangiectasies , de la fibrose et des troubles de la pigmentation .
+Il est communément admis que les effets secondaires évoluent avec le temps , et que l' évaluation de la toxicité ne doit pas être trop précoce après la fin du traitement  .
+L' analyse des résultats préliminaires de l' essai ARCOSEIN a mis en évidence une augmentation du taux de contrôle locorégional chez les patientes atteintes de cancer avec envahissement ganglionnaire axillaire après chimioradiothérapie concomitante  .
+Nous avons montré dans cette étude que l' administration d' une chimiothérapie en concomitance de la radiothérapie a engendré une augmentation significative des effets secondaires tardifs de grade supérieur égal ou à 2.
+Dans la pratique clinique quotidienne , les agents cytotoxiques sont utilisés pour leurs propriétés radiosensibilisantes lorsqu' ils sont associés à l' irradiation , pour augmenter le taux de contrôle local , voire la survie globale  .
+Il existe une grande variation des essais cliniques en termes de sélection des patientes et de régime thérapeutique , conduisant à l' absence de standard en la matière  .
+Après chirurgie conservatrice du sein , pour les patientes atteintes de cancer à haut risque , de nouveaux régimes de chimiothérapie , probablement plus efficaces , paraissent plus adaptés .
+Par exemple , l' administration concomitante des taxanes et de l' irradiation est faisable et bien tolérée  .
+Au regard de nos résultats , d' autres études sont nécessaires pour évaluer l' impact à long terme de ces traitements concomitants , la chimiothérapie par mitoxantrone n' étant plus recommandée dans cette indication .
+Les effets tardifs du traitement du cancer ne se limitent pas à des symptômes physiques .
+L' échelle en elle-même , ne permet pas d' évaluer l' impact de la symptomatologie sur la survie et la satisfaction esthétique .
+Cette échelle des effets tardifs conjuguée à une évaluation esthétique et fonctionnelle permettra de recueillir les informations nécessaires à la connaissance de l' impact de la toxicité de la chimioradiothérapie concomitante sur la vie quotidienne .
+Bien que l' échelle SOMA - LENT ait été utilisée dans de nombreux essais cliniques , ce type d' évaluation prospective n' est pas si fréquent dans la pratique oncologique , et il existe de nombreuses variations dans la façon de rapporter les résultats et un faible engouement pour développer et utiliser les standards et les nouvelles méthodes d' évaluation  .
+La durée globale du traitement est écourtée avec le régime concomitant , ce qui est apprécié par les patientes ; nous avons noté que pour 82 % des femmes qui ont été examinées , la durée du traitement était importante à considérer dans la décision thérapeutique , bien_que cette question ait été posée rétrospectivement .
+Le fait que l' analyse préliminaire de nos résultats montre un bénéfice en terme de taux de contrôle locorégional en faveur du traitement concomitant pour les patientes atteintes de cancer avec envahissement ganglionnaire  , ce qui peut intervenir dans nos choix thérapeutiques , accentue l' intérêt porté à la juste évaluation de la morbidité de ce type de traitement .
+L' évaluation de cette morbidité doit rester un objectif thérapeutique , bien_que sa perception puisse être différente entre le médecin et la patiente ; surtout si cette morbidité est irréversible , douloureuse ou a un retentissement social .
+Aussi surprenant que cela puisse paraître , après chirurgie du sein conservatrice , nous n' avons pas assez de données publiées sur la toxicité tardive selon les recommandations du RTOG ( Radiation Therapy Oncology Group ) et de l' ESTRO ( European Society for Therapeutic Radiology and Oncology )  , ce qui rend difficile une véritable comparaison entre les traitements et la description des risques dont nous devrons informer nos patientes dans l' établissement des futurs consentements éclairés .
+La documentation des effets tardifs et leurs impacts sur la qualité de vie peut aider à établir les futurs essais thérapeutiques , tester les nouveaux traitements qui engendrent srement des effets à long terme , et l' étude des thérapeutiques de réhabilitation .
+5. Conclusion
+En raison de la forte prévalence des cancers du sein diagnostiqués à un stade précoce , de l' importante durée de survie après ce type de traitement , et de l' impact des effets tardifs et du résultat esthétique définitif sur la qualité de vie , nous devons considérer la toxicité tardive après traitement conservateur des cancers du sein comme un des objectifs thérapeutiques des essais cliniques .
+Dans notre étude prospective , après chirurgie du sein conservatrice , l' administration d' une chimiothérapie concomitante de la radiothérapie après traitement conservateur des cancers du sein a engendré une augmentation significative des effets secondaires tardifs de grade supérieur égal ou à 2 , et notamment des télangiectasies , de la diminution de volume mammaire , des troubles de la pigmentation , et de la fibrose .
+Remerciements
+Mme Marie-Hélène Calais , pour la coordination de l' étude et son soutien

@@ -1,0 +1,157 @@
+L' enregistrement du trastuzumab ( Herceptin ) dans le cadre du cancer du sein métastatique surexprimant HER2 représente une avancée thérapeutique importante [ 1 , 2 and 3 ] , résultant d' un long effort de développement des biotechnologies et des progrès dans la connaissance de la biologie moléculaire du cancer du sein .
+Parmi les anomalies moléculaires ou génétiques des cellules tumorales susceptibles de servir de cible spécifique à de nouvelles thérapies , une attention très particulière avait été portée , ces dernières années , à la surexpression du gène HER2 .
+Le gène HER2 tire son nom de son homologie avec le récepteur de l' EGF ( Human Epidermal Growth Factor Receptor 2 ) .
+Simultanément à sa découverte , ont été décrits deux autres oncogènes homologues : neu , retrouvé dans les neuroglioblastomes de rat  et v-erbB-2 intégré dans le génome de cellules d' érythroblastoses aviaires .
+Les gènes c-erbB et HER étant homologues , HER2 - neu est aussi appelé c-erbB-2 .
+Il code pour un récepteur transmembranaire possédant une activité tyrosine kinase , la p185 HER2 / neu , très proche structurellement du récepteur de l' EGF et des protéines c-erbB-3 et c-erbB-4 .
+Dans l' état actuel de nos connaissances , c-erbB-2 n' a pas de ligand direct connu , mais participe à la signalisation de la croissance cellulaire par hétérodimérisation avec d' autres membres de cette famille .
+Ces facteurs de croissance et leurs récepteurs jouent un rôle important dans le développement , la croissance et la différenciation des tumeurs  .
+Une amplification du gène HER2 peut être détectée dans 15 à 25 % des cancers du sein invasifs ( dans 40 % des cancers du sein inflammatoires ) .
+Ceci a conduit à essayer de bloquer HER2 au moyen d' anticorps monoclonaux dirigés spécifiquement contre le domaine extra-membranaire du récepteur .
+Parmi les nombreux anticorps développés , l' anticorps murin mu Mab 4D5 s' est montré efficace pour inhiber la prolifération de cellules tumorales d' une lignée de cancer du sein SKBR3 et de xénogreffes de tumeurs mammaires humaines surexprimant HER2 .
+Les essais de phase I conduits avec une dose unique de l' anticorps monoclonal murin , mu Mab 4D5 , n' ont pas mis en évidence de toxicité , mais l' apparition d' anticorps anti-souris ou HAMA ( Human Anti Mouse Antibodies ) a été observée dans 30 % des cas .
+Grâce aux progrès biotechnologiques , la firme Genentech a pu développer un anticorps monoclonal humanisé ( rhu mAb HER ou trastuzumab ) ne conservant que 5 % d' origine murine mais préservant l' affinité de l' anticorps murin contre la partie extra-membranaire du récepteur tout en perdant l' immunogénicité spécifique d' espèce ( Fig. 1 ) .
+Full-size image ( 50K )
+Fig. 1. Il ne persiste dans la composition de l' Herceptin que 5 % d' origine murine se fixant au niveau de l' épitope , le reste de l' anticorps étant humanisé .
+View Within Article
+Le trastuzumab est un anticorps chimérique où les régions CDR de l' IGG1 murine anti-p185 ont été incorporées dans une IGG1 humaine .
+Il est produit par une lignée CHO ( Chinese Hamster Ovary ) génétiquement modifiée et s' est déjà montré actif dans les études précliniques .
+Il induit également des mécanismes de cytotoxicité anticorps-dépendante ( ADCC ) .
+La part respective des deux mécanismes ( blocage du récepteur , réponse immune ) n' est pas connue dans l' activité anti tumorale .
+La surexpression d' HER2 dans les cancers du sein est corrélée à des facteurs de mauvais pronostic ( grade élevé , statut négatif des récepteurs hormonaux , infiltration lymphoïde , index mitotique élevé ) .
+La valeur pronostique et prédictive péjorative associée à la surexpression d' HER2 , qui a fait l' objet de nombreux travaux dont le premier remonte à 1987  , est maintenant parfaitement bien établie .
+La plupart des grandes études ont confirmé la relation entre surexpression d' HER2 et évolution clinique défavorable [ 7 and 8 ] .
+Dans une analyse rétrospective multivariée de 47 études ayant enrôlé plus de 15000 patientes , publiée par Ross et Fletcher  , le statut HER2 s' est avéré être un facteur pronostique indépendant dans 60 % de ces études .
+Trock_et_al.  ont présenté une méta-analyse d' une trentaine d' études regroupant plus de 7000 patientes n' ayant pas reçu de traitement adjuvant .
+Le risque relatif de récidive et de décès est d' environ 1,4 en cas de surexpression d' HER2 , la différence étant plus marquée pour les populations avec atteinte ganglionnaire axillaire que pour les tumeurs N-  .
+Dans la majorité des cas cette surexpression est liée à une amplification du gène , qui peut être mise en évidence par une technique d' hybridation in_situ par fluorescence ( FISH ) .
+Alors que les cellules épithéliales normales de la glande mammaire possèdent environ 20000 à 50000 récepteurs / cellule correspondant à deux copies du gène , il peut en exister plus de 2000 000 au niveau des cellules tumorales ayant une amplification d' HER2 ( avec une cinquantaine de copies ) .
+Ces tumeurs HER2+ présentent en proportion plus de métastases viscérales ( pulmonaires , hépatiques ) et cérébrales  .
+De plus , il apparaît que la surexpression d' HER2 dans les cancers du sein pourrait être prédictive d' une résistance relative à une hormonothérapie par tamoxifène [ 13 , 14 , 15 , 16 and 17 ] , et à une chimiothérapie adjuvante par CMF  .
+Il a été également montré qu' il est nécessaire de ne pas sous-doser les doses d' anthracyclines [ 19 , 20 and 21 ] .
+Il existe en_revanche des données divergentes sur l' hormono-dépendance des tumeurs HER2 en_premier_lieu parce_que la population des patientes atteintes est hétérogène ( un certain pourcentage de ces tumeurs expriment des récepteurs hormonaux ) et que les résultats sont fondés sur des analyses rétrospectives utilisant des méthodes d' analyse de la surexpression d' HER2 non standardisées et critiquables .
+Il semble néanmoins que d' une façon générale ces tumeurs ne soient pas sensibles au tamoxifène sur des données récentes rapportées notamment en néoadjuvant même en cas d' expression de récepteurs d' oestradiol  .
+Les chimiothérapies intensives ne semblent pas_non_plus permettre de corriger le paramètre pronostique péjoratif lié à la surexpression d' HER2 [ 23 and 24 ] .
+Enfin le trastuzumab présente in_vitro une action synergique avec de nombreux cytotoxiques comme le cisplatine , la doxorubicine et les taxanes [ 25 and 26 ] .
+2. Pharmacocinétique
+La pharmacocinétique du trastuzumab a été étudiée initialement dans trois essais de phase I. Le premier a permis d' évaluer la toxicité et la pharmacocinétique d' une seule dose , le deuxième de doses multiples , le troisième de l' association au cisplatine  .
+Ils ont confirmé l' excellente tolérance ( aucune toxicité de grade 3 ou 4 ) pour des doses comprises entre 10 et 500 mg par injection .
+Des perfusions intraveineuses courtes de 10 , 50 , 100 , 250 , 500 mg une fois par semaine ont montré une pharmacocinétique dose-dépendante .
+Avec l' augmentation de la dose , la demi-vie moyenne augmente et la clairance diminue .
+La demi-vie varie de 1,7 à 12 jours avec des doses de 10 et 500 mg .
+Des données plus récentes suggèrent des demi-vies plus prolongées , de l' ordre de 28 jours  avec le schéma de dose classique ( 4 mg / kg en dose de charge et 2 mg / kg par semaine en dose d' entretien ) .
+L' âge , les fonctions rénale et hépatique ( dans la fourchette des critères d' inclusion des études ) ne semblent pas modifier les données pharmacocinétiques non plus que l' administration concomitante de cisplatine , de paclitaxel , de doxorubicine et de cyclophosphamide .
+Des concentrations détectables circulantes de la partie extra-cellulaire clivable du récepteur HER2 ( shed antigen ) ont été retrouvées chez 64 % ( 286 / 447 ) des patientes de l' étude princeps de phase III .
+La présence de cet antigène soluble dans le sérum ne semble pas interférer avec l' efficacité du trastuzumab .
+3. Études cliniques
+Cet anticorps a fait l' objet d' évaluations d' efficacité et de tolérance dans les cancers du sein métastatiques dans plusieurs essais de phase II [ 29 and 30 ] et dans deux études pivotales de phases II et III dont les résultats très probants ont conduit à son enregistrement aux États-Unis et en Europe sous le nom d' Herceptin en monothérapie ou en association avec le paclitaxel .
+Les deux études pivotales ont été réalisées avec une dose de charge de 4 mg / kg en perfusion de 90 minutes suivie huit jours plus_tard d' une dose hebdomadaire de 2 mg / kg en perfusion de 30 minutes chez des femmes avec une tumeur présentant une surexpression cotée 2+ ou 3+ en immunohistochimie ( la lecture était centralisée ) .
+L' étude de phase II multicentrique internationale ( HO 649g ) d' une monothérapie par trastuzumab a inclus 222 patientes métastatiques traitées par une ou deux lignes de chimiothérapie ( 3 en cas de traitement adjuvant ) .
+Les patientes recrutées avaient en règle générale été déjà lourdement prétraitées : 68 % ayant déjà reçu une chimiothérapie adjuvante , 68 % deux lignes en phase métastatique et 25 % une chimiothérapie myélosuppressive avec autogreffe .
+Le taux de RO rapporté par un comité d' évaluation indépendant a été de 15 % ( IC 95 % : 10 - 20 % ) avec une durée de réponse de 8,5 mois , une médiane de survie de 13 mois  .
+Un questionnaire portant sur la qualité de vie , complété par 154 patientes , a montré une amélioration de celle-ci par_rapport_à leur état basal .
+L' autre étude pivotale , multicentrique internationale de phase III ( HO 648g ) réalisée dans 14 pays et 150 sites posait la question de la potentialisation par le trastuzumab de l' efficacité d' une chimiothérapie de première ligne métastatique chez des patientes dont les tumeurs surexprimaient fortement HER2 ( 2 ou 3+ ) .
+Elle randomisait une chimiothérapie délivrée tous les 21 jours soit par le protocole AC ( adriamycine 60 mg / m2 , cyclophosphamide 600 mg / m2 ) soit par le paclitaxel seul ( 175 mg / m2 ) en cas d' utilisation préalable d' anthracycline en adjuvant , au même traitement associé à l' anticorps  .
+Quatre cent soixante-neuf patientes surexprimant HER2 ( avec le même contrôle centralisé ) ont été incluses dans cette étude .
+Le critère principal était le temps jusqu' à progression qui s' est avéré significativement allongé en faveur des associations avec trastuzumab ( 7,4 vs 4,6 mois , p 0,05 ) .
+La différence s' est avérée très significative dans tous les cas en faveur du bras avec l' anticorps tant en taux de réponse ( 32 vs 50 % , p 0,001 ) qu' en durée de réponse ( 6,1 vs 9,1 mois , p 0,001 )  .
+Avec la combinaison AC , le taux de réponse objective augmentait de 42 à 56 % ( p = 0,005 ) .
+Avec le paclitaxel la différence était encore_plus nette , le taux de réponse passant de 17 à 41 % ( p 0,001 ) .
+Surtout le trastuzumab apportait un bénéfice statistiquement significatif en termes de survie : 25,1 vs 20,3 mois ( p = 0,046 ) , bénéfice plus net pour les tumeurs présentant une surexpression forte classée 3+ ( Fig. 2 ) .
+La surprise a été de constater une cardiotoxicité élevée , non prévue ni par les études animales ni par les essais de phase I et II chez l' homme , dans le groupe AC associé à l' anticorps : 27 % de toxicité grade 3 et 4 selon la classification du NHA ( National Heart Association ) contre 8 % dans le groupe traité par la même association sans l' anticorps .
+Full-size image ( 57K )
+Fig. 2. Survie globale en fonction de l' importance de la surexpression d' HER2 dans l' étude pivotale de phase III comparant l' association d' une chimiothérapie et de l' Herceptin à la même chimiothérapie en première ligne métastatique .
+View Within Article
+L' efficacité et la tolérance du trastuzumab ont également été testées en monothérapie de première ligne avec une étude comparative de deux doses  .
+Cet essai a permis de conforter le schéma d' administration classique , actuellement recommandé pour l' Herceptin .
+Conduite en première ligne métastatique chez 114 patientes refusant toute chimiothérapie , présentant une tumeur surexprimant HER2 ( IHC 2+ ou 3+ ) , randomisées pour recevoir soit le schéma conventionnel ( dose de charge de 4 mg / kg suivie de doses d' entretien de 2 mg / kg ) soit des doses deux fois plus élevées ( dose de charge de 8 mg / kg suivie de doses d' entretien de 4 mg / kg ) , cette étude a retrouvé un taux de réponse de 23 % ( IC 95 % : 15 - 31 % ) .
+Il n' a pas été noté de différence en termes de réponse entre les deux doses ( 24 % pour les doses standard et 28 % pour les fortes doses ) et la médiane de durée de réponse a été de huit mois pour les deux groupes avec une médiane de survie de 24,4 mois .
+4. Cardiotoxicité
+Un comité d' évaluation a revu rétrospectivement les données de 1219 patientes incluses dans sept essais de phase II ou de phase III avec le trastuzumab  .
+Cent douze ont présenté des perturbations cardiaques , à l' origine de dix décès .
+L' incidence la plus élevée de cardiopathies a été retrouvée en cas d' association d' anthracycline , de cyclophosphamide et de trastuzumab ( 27 % ) .
+Le risque était moindre avec la combinaison de paclitaxel et de trastuzumab ( 13 % ) ou avec le trastuzumab seul ( 3 à 7 % ) ( une majorité avait reçu des anthracyclines préalablement ) .
+Dans les bras témoins sans l' anticorps , il était noté une incidence de respectivement 8 et 1 % avec l' association anthracycline - cyclophosphamide et le paclitaxel seul .
+La plupart de ces cardiopathies étaient symptomatiques ( 75 % ) et ont été bien améliorées ( 79 % ) par un traitement adapté ( diurétiques , inhibiteurs de l' enzyme de conversion , glycosides cardiaques ) .
+Le risque chez des patientes n' ayant pas reçu d' anthracyclines n' est pas parfaitement défini mais il n' apparaît pas complètement nul , dépendant des antécédents cardiaques du patient .
+Le mécanisme de cette cardiotoxicité commence à trouver des explications physiopathologiques , les neurégulines étant impliquées dans l' embryologie , dans l' adaptation à des stress physiologiques ou dans des états pathologiques cardiaques  .
+On savait que C-erbB2 était impliqué dans le développement embryonnaire cardiaque  , on a maintenant la preuve après les travaux expérimentaux de Crone  de son importance pour le maintien de la fonction cardiaque de l' adulte .
+Le blocage de C-erbB2 semble aggraver la toxicité des anthracyclines en inhibant des voies de réparation des dommages induits .
+5. Indications thérapeutiques
+L' Herceptin est indiqué dans le traitement du cancer du sein métastatique présentant une surexpression d' HER2 classée 3+ en immunohistochimie ou une amplification du gène confirmée par FISH ( on peut parler d' amplification à_partir_de 8 à 10 copies ) : - en monothérapie chez des patientes déjà prétraitées par au moins deux protocoles de chimiothérapie comprenant une anthracycline et un taxane ( sauf contre-indication ) pour leur maladie métastatique ; - en association avec paclitaxel , en première ligne métastatique chez les patientes prétraitées par anthracyclines ou chez qui ces dernières ne conviennent pas. - Le schéma d' utilisation correspond à celui des deux études pivotales .
+L' Herceptin doit être poursuivi jusqu' à progression de la maladie .
+6. Données récentes
+Les données récentes concernent les règles d' utilisation et de surveillance , une meilleure sélection des patientes pouvant bénéficier de ce traitement , de nouvelles associations thérapeutiques .
+6.1. Surveillance
+Des recommandations très précises de surveillance ont été définies .
+Les patientes doivent être surveillées pendant les six heures suivant le début de la première perfusion .
+Des réactions de type frissons ou fièvre sont fréquentes lors_de la première perfusion ( jusqu' à 40 % ) .
+En revanche , les réactions de type allergique et d' hypersensibilité graves ( dyspnée , bronchospasme , choc anaphylactique ) sont possibles mais rares .
+Les données de pharmacovigilance aux États-Unis ( sur 25000 patientes traitées ) ont retrouvé une fréquence de réactions sévères post-injection de 0,3 % .
+La majorité des événements indésirables de ce type sont survenus dans les deux heures et demie après le début de la perfusion .
+Les patientes présentant une dyspnée de repos sévère en rapport avec une évolution métastatique pulmonaire ou nécessitant une oxygénothérapie sont particulièrement à risque et représentent une contre-indication .
+Il est indispensable d' encadrer tout traitement par Herceptin d' un monitoring cardiaque avec une étude avant traitement et un contrôle très régulier de la fraction d' éjection ventriculaire isotopique ou échographique , toute association avec une anthracycline étant bien sr formellement contre-indiquée .
+Il faut également observer une période de wash-out de 24 semaines entre la dernière injection de l' anticorps et le début de traitement par l' anthracycline .
+6.2. Sélection des patientes
+Qui bénéficie le plus du trastuzumab ?
+Il apparaît maintenant évident que seules les patientes présentant une amplification confirmée par FISH ou se traduisant par une surexpression forte , 3+ en immunohistochimie ( IHC ) peuvent bénéficier d' un traitement par l' anticorps ( Fig. 3 ) .
+C' est dire l' importance de la standardisation et du contrôle de qualité nécessaire des techniques d' immunohistochimie , plusieurs anticorps et tests étant disponibles .
+En reprenant les principales études , il a été montré une bonne concordance entre surexpression forte ( IHC 3+ ) et amplification ( FISH positive ) [ 38 , 39 and 40 ] .
+Au plan thérapeutique , les patientes avec une tumeur IHC 2+ et une FISH positive ( 24 % des patientes IHC 2+ ) ont le même bénéfice clinique que les patientes IHC 3+ , ce qui n' est pas le cas des tumeurs IHC 2+ FISH négatives .
+Vogel et al. ont rapporté que 35 % des patientes IHC 3+ , traitées par trastuzumab seul en première ligne métastatique ( étude HO 650g ) répondent , contre 0 % des patientes surexprimant HER2 en IHC mais FISH négatives .
+Pour les patientes de l' étude pivotale HO 649g , le taux de réponse est de 21 % pour les patientes FISH positives vs 15 % pour l' ensemble de la population et 0 % pour les patientes FISH négatives .
+Dans l' étude HO 648g , les taux de réponse pour les patientes FISH positives sont de 27 % pour le bras chimiothérapie seule , de 54 % pour le bras chimiothérapie plus trastuzumab vs respectivement 39 et 41 % pour les patientes FISH négatives .
+Ce bénéfice clinique se traduit aussi par une amélioration de la survie : la médiane de survie du groupe traité par l' association est de 25 mois pour les patientes FISH positives vs 22 mois pour l' ensemble de la population .
+Notons qu' il est maintenant établi que l' expression du récepteur HER2 est stable entre la tumeur primitive et ses métastases  ( la recherche de surexpression de ce fait peut se faire aussi_bien sur la tumeur primaire que les métastases ) .
+Full-size image ( 47K )
+Fig. 3. Corrélation entre immunohistochimie et FISH .
+View Within Article
+6.3. Nouvelles combinaisons
+Dans les formes métastatiques , de nouvelles combinaisons notamment avec les taxanes [ 42 and 43 ] et la vinorelbine ont été testées ou font actuellement l' objet d' investigations .
+Une étude combinant trastuzumab et paclitaxel hebdomadaire ( 90 mg / m2 en une heure ) chez 94 patientes ayant reçu pour la_plupart une ligne de chimiothérapie pour un cancer du sein métastatique  a permis d' obtenir un taux global de réponse de 60,2 % avec une durée médiane de réponse de six mois .
+Le taux de réponse était de 83 % pour les tumeurs HER2+ vs 45 % pour les tumeurs HER2 - .
+Le trastuzumab a également été testé avec le docétaxel hebdomadaire ( 35 mg / m2 par semaine ) .
+Cette association s' est également montrée efficace en clinique avec un taux de réponse de 63 % ( IC 95 % : 44 - 80 % ) dans une étude de phase II réalisée chez 30 patientes en première ou deuxième ligne métastatique  .
+Pour les tumeurs FISH positive , ce taux atteignait 67 % ( 16 / 24 patientes ) .
+Dans une autre étude de phase II avec de la vinorelbine hebdomadaire ( 25 mg / m2 ) Burstein  a rapporté un taux de réponse de 73 % bien supérieur à celui observé avec une monothérapie par la vinorelbine dans les mêmes conditions .
+Pour essayer de contourner la cardiotoxicité des anthracyclines , qui sont des cytotoxiques majeurs dans les cancers du sein , des essais de combinaisons avec un cardioprotecteur ( dexrazoxane ) et avec la doxorubicine liposomale sont en cours .
+Les données préliminaires d' une étude de phase I / II d' association de doxorubicine liposomale et de trastuzumab n' ont pas rapporté de cas de cardiotoxicité chez les 20 premières patientes  .
+7. Perspectives
+Parmi les autres développements en cours pour traiter les situations métastatiques , sont à l' étude de nouvelles modalités d' administration ( toutes les 3 semaines ) , ainsi_que des études d' association avec différentes hormonothérapies ( tamoxifène , astronazole ) pour les tumeurs RH+ .
+Des essais en situation adjuvante pour les formes avec atteinte ganglionnaire ont été activés en association concomitante ou séquentielle avec une chimiothérapie ou une hormonothérapie .
+Les données de l' étude pivotale de phase III et la bonne tolérance de l' association de paclitaxel et de trastuzumab hebdomadaire a influencé le dessein des études adjuvantes actuellement en cours aux États-Unis : - l' essai NSABP B-31 prévoit après quatre cycles d' AC , quatre cycles de paclitaxel ( 175 mg / m2 par 21 jours ) avec ou sans trastuzumab un an ; - celui de l' Intergroup NCCTG N9831 comparant après quatre cycles d' AC , trois bras : paclitaxel hebdomadaire ( 12 semaines ) seul , associé au trastuzumab ( 52 semaines ) débuté de façon concomitante ou retardé à la fin de la chimiothérapie ; - celui du BCIRG 006 ( auquel participent des équipes françaises et qui peut inclure des formes sans atteinte ganglionnaire ) comparant deux bras traités par quatre cycles de docétaxel avec ou sans trastuzumab hebdomadaire pendant un an et un troisième bras traité par six cycles de carboplatine et de docétaxel suivi d' un an de trastuzumab hebdomadaire .
+L' étude internationale ( non américaine ) HERA compare quant_à elle deux bras utilisant une monothérapie par Herceptin toutes les trois semaines selon deux durées différentes ( 1 vs 2 ans ) à un bras observation seule .
+Le recrutement de ces quatre études est actuellement bien avancé puisqu' elles avaient en février 2003 inclus respectivement 1253 / 2700 , 1460 / 3300 , 1620 / 3150 , et 952 / 3192 patientes prévues avec une surveillance étroite de la fonction cardiaque n' ayant pas entraîné de signes d' alerte prolongés .
+En France est actuellement en cours l' essai PACS 04 de la Fédération des centres anti-cancéreux ( FNCLCC ) avec une double randomisation , comparant une chimiothérapie de référence à une chimiothérapie avec docétaxel ( 6 FEC 100 à 6 ET ) et chez les patientes HER2+ après radiothérapie une surveillance à un an de traitement par trastuzumab perfusé toutes les trois semaines à la dose de 6 mg / kg .
+Des données viennent d' être également publiées en situation néoadjuvante .
+Burstein  a rapporté avec une association de paclitaxel ( 175 mg / m2 par 3 semaines ) et de trastuzumab un taux de réponse complète histologique de 18 % chez 40 patientes présentant une tumeur avec une surexpression d' HER2 classée 2+ ou 3+ en immunohistochimie .
+La vigilance est requise en cas de délivrance , en adjuvant ou néoadjuvant , aux populations HER2+ , de doses cumulatives d' anthracyclines élevées , qui font courir des risques d' insuffisance cardiaque en cas d' utilisation ultérieure de l' Herceptin et aux séquences thérapeutiques .
+Le risque de cardiotoxicité est en_effet corrélé à la dose d' anthracycline délivrée antérieurement comme l' a montré une enquête française  .
+Il apparaît à_partir_d' une dose cumulative équivalente de doxorubicine de 300 mg / m2 .
+Aussi , ne serait il pas judicieux de recommander des cardioprotecteurs ou des alternances avec un taxane , afin_de limiter les doses totales d' anthracyclines tout en conservant une durée de traitement suffisante pour traiter efficacement ces formes à mauvais pronostic , ces schémas alternatifs ayant fait la preuve de leur efficacité en situation néoadjuvante et adjuvante ?
+De plus , il sera nécessaire dans l' avenir de mieux programmer les séquences thérapeutiques , tenant compte de l' incompatibilité du trastuzumab avec les anthracyclines et la nécessité de délai à respecter .
+Enfin deux études toutes récentes vont dans le sens d' une utilisation précoce du trastuzumab .
+La première publiée dans le Lancet  montre que des lésions tumorales résiduelles ont une augmentation de leur prolifération dans les 48 jours suivant la chirurgie d' exérèse lorsqu' elles sont HER2+ et qu' un traitement préalable par trastuzumab inhibe cette prolifération induite par relargage de facteurs de croissance .
+La deuxième , clinique  , concerne les résultats d' une étude de phase II ayant randomisé 188 patientes en première ligne métastatique entre docétaxel seul ou associé au trastuzumab .
+Ces résultats ont montré une amélioration de la survie par la combinaison d'_emblée de docétaxel et de trastuzumab par_rapport_à l' introduction retardée de l' Herceptin ( plus nette encore en cas d' absence d' utilisation ultérieure de trastuzumab ) .
+De nombreuses données expérimentales  confirment l' existence de cross-talks entre les voies de transduction du signal de prolifération dépendantes des récepteurs d' estrogène et d' HER2 .
+Lipton_et_al.  viennent de montrer que la supériorité du létrozole sur le tamoxifène en post-ménopause pour les tumeurs RH+ métastatiques est surtout nette quand les taux d' HER2 circulants sont normaux ; lorsqu' ils sont élevés , on constate alors une relative résistance aux deux types d' hormonothérapie  .
+La logique en cas de positivité des RO et d' HER2 semble être de bloquer les deux voies .
+En situation néoadjuvante , Ellis  dans une série limitée avait trouvé qu' en cas de positivité des RO et d' HER2 , les réponses au tamoxifène étaient peu fréquentes , inférieures à celles obtenues avec le létrozole .
+Concernant la partie clivable soluble de C-erbB2 , un taux sérique élevé est prédictif d' une mauvaise réponse à l' hormonothérapie mais d' une bonne réponse à la combinaison de chimiothérapie et de trastuzumab .
+Beaucoup d' équipes s' intéressent au monitoring sous traitement de leurs concentrations sériques , qui pourrait permettre de suivre l' évolution sous traitement et d' anticiper les échecs .
+Dans l' étude d' Esteva  avec le docétaxel hebdomadaire , les patientes ayant des taux de base élevés ont présenté un taux de réponse important ( 76 % ) .
+Les modifications des taux sous traitement semblaient bien corrélées avec la réponse clinique .
+Ceci nécessite d' être confirmé par de larges études .
+Par ailleurs , on commence à mieux connaître les mécanismes d' action  et à explorer les mécanismes de résistance au trastuzumab expliquant la grande variabilité des réponses thérapeutiques .
+Des altérations au niveau du récepteur HER2 ou au niveau de la transduction du signal pourraient être en cause dans certaines résistances primaires ou acquises au trastuzumab , mais , surtout , il est fortement improbable qu' un seul récepteur à tyrosine kinase soit responsable du phénotype tumoral et que son ciblage soit suffisant pour contrôler la prolifération tumorale .
+HER2 n' a pas de ligand connu et la transactivation d' HER2 par d' autres membres de la famille de l' EGF-R est importante dans la croissance des cellules de cancers du sein surexprimant HER2 .
+Une co-expression d' HER2 et de l' EGF-R existe dans environ 10 à 36 % des tumeurs primitives du sein .
+Elle pourrait entraîner une coopération entre les deux oncogènes favorisant la prolifération autonome des cellules tumorales .
+Une étude italienne  a démontré un effet synergique de l' inhibition de la croissance de cellules tumorales de cancer du sein co-exprimant HER2 et EGF-R par la combinaison de trastuzumab et de ZD 1839 ( Iressa ) , un inhibiteur sélectif de la tyrosine kinase de l' EGF-R .
+Le traitement pourrait bloquer la trans-phosphorylation d' HER2 suivant l' activation autocrine d' EGF-R .
+Ces données représentent un rationnel fort pour tester cette association en clinique .
+L' IGF-1 ( Insulin-like Growth Factor I ) pourrait aussi jouer un rôle particulièrement important comme le laissent supposer les travaux expérimentaux de Lu [ 57 and 58 ] qui ont montré que des taux élevés d' IGF-1 interféraient négativement avec l' action du trastuzumab sur la croissance cellulaire .
+Dans des cellules MCF-7 surexprimant HER2 par transfection , le trastuzumab inhibe la croissance seulement si la signalisation du récepteur d' IGF-I est bloquée par un traitement concomitant avec un anticorps anti-IGF IR -IR3 ou par l' IGFBP-3 ( IGF-binding protein-3 ) .
+Ceci ouvre la voie à de nouvelles stratégies potentielles combinant des traitements ciblant HER2 et IGF-IR pour prévenir ou traiter une résistance au trastuzumab .
+Enfin , signalons que des développements sont en cours pour traiter d' autres types de tumeurs surexprimant HER2 

@@ -1,0 +1,282 @@
+Vasoactive intestinal peptide ( VIP ) and pituitary adenylate cyclase-activating peptide ( PACAP ) receptors known as VPAC1 , VPAC2 and PAC1 have been shown to be overexpressed on human tumors  .
+For these receptors , two primary peptides have high affinity  .
+First , the VIP , a 28 amino acid , hydrophobic peptide , isolated from porcine intestine  .
+VIP has three Lysine ( Lys ) residues ( at positions 15 , 20 , and 21 ) , two tyrosine ( Tyr ) residues ( at positions 10 and 22 ) , two Arginine ( Arg ) residues ( at positions 12 and 14 ) , an essential histidine ( His ) residue at the N terminus and ( Asn ) amidated C-terminus .
+All 28 amino acids are required for full biologic activity of VIP  .
+Second , the Pituitary Adenylate Cyclase Activating Polypeptide ( PACAP ) .
+This 38 amino acid peptide is isolated from bovine hypothalamus  .
+PACAP was found to stimulate accumulation of intracellular and extracellular cAMP in rat anterior pituitary cells  .
+Later Gottschall_et_al  isolated a 27 amino acid peptide ( PACAP27 ) from bovine hypothalamus which they observed to have similar properties as PACAP38 .
+PACAP27 shares a homology of 19 amino acids with VIP28 .
+Like VIP28 , PACAP27 also has an amidated ( Leu ) C-terminal and His at the N-terminal .
+The biological actions of VIP and PACAP are mediated by a family of three G protein-coupled receptors , which are designated as VPAC1 , VPAC2 and PAC1  .
+These gene receptors are also detected on the cell membrane of normal intestinal and bronchial epithelial cells  , albeit receptor density has not been specified .
+For human tumors on the other hand , studies have revealed that VPAC1 , VPAC2 , and PAC1 receptors are located at the plasma membrane of the tumor cells  .
+Among the tumors on which VPAC1 receptors have been found in high density and high incidence , include cancers of breast , prostate and urinary bladder ( 100% ) , colon ( 96% ) , pancreas ( 65% ) , lung ( 58% ) , stomach ( 54% ) , and liver ( 49% )  .
+With the goal that radiolabeled VIP28 can specifically target these receptors for in vivo visualization of some of these human tumors , Virgolini et al labeled VIP28 with Iodine-123 ( 123I ) ( t1 / 2 13.3 h , = 159 keV , 90% ) at tyrosine position 10 and 22  .
+Taking into consideration , the ubiquitous availability , and its predominant world wide role in nuclear medicine , we labeled VIP28 and PACAP27 with 99mTechnetium ( 99mTc , t1 / 2 6 h , = 140 keV , 94% ) which required modification of the peptide to covalently accommodate a group of additional amino acids to chelate 99mTc  .
+The use of 99mTc analogues allowed efficient imaging of human breast cancer  .
+Positron Emission Tomography ( PET ) permits high imaging resolution leading to the visualization of small tumors ( 2 mm ) .
+PET imaging of tumors with 18Flourine ( 18F ) labeled VIP has not been highly appealing  .
+For PET imaging , our goal was to label VIP and PACAP analogues with another radionuclide , namely 64Copper ( 64Cu ) .
+This radionuclide has a longer half life ( t1 / 2 12.7 h , + = 655 keV,17.4% , = 573 keV , 30% ) , is available commercially , has abundantly known chemistry and provides nearly quantitative yields so that labeled compound once prepared , can be injected without further purification .
+In an attempt to develop VIP28 analogue with higher receptor affinity and better in vivo stability , Bolin_et_al  and  have synthesized and characterized several analogues of VIP28 molecules .
+Based upon these data we chose two best additional VIP28 analogues , making a total of four .
+To enable labeling with 64Cu , each of the four peptides was further derivatized as described in the material and method section .
+The purpose of this investigation was to evaluate these analogues to ascertain that their biological activity and receptor specificity was not compromised as compared to those of the VIP28 and to determine their suitability for PET imaging of human breast cancers .
+2. Materials and methods .
+Three analogues of the VIP peptide ( TP3939 , TP4200 and TP3982 ) and one of PACAP ( TP3805 ) all named after their molecular weight were synthesized and labeled with 64Cu or 99mTc .
+Their amino acid sequences are given in Table 1. We have evaluated the analogues for functional activity and receptor affinity in vitro , for blood clearance and in vivo stability in athymic nude mice bearing T47D human breast cancer cells and for their affinity for human breast cancer specimens ex vivo .
+Table 1. .
+Amino acid sequence , molecular weight and purity of the analogues .
+Name of analogueObserved molecular weight [ amu ] Calculated molecular weight [ amu ] Sequence of amino acidsPurity of peptide TP39393939.43939His-Ser-Asp-Ala-Val-Phe-Thr-Asp-Asn-Tyr-Thr-Lys-Leu-Arg-Lys-Gln-Nle-Ala-Val-Lys-Lys- ( 3-OCH3,4-OH ) Phe-Leu-Asn-Ser-Val-Leu-Thr-Gaba-Lys- ( Dap- ( BMA ) 2 ) 96.8% TP39823982.73982His-Ser-Asp-Ala-Val-Phe-Thr-Asp-Asn-Tyr-Thr-Arg-Leu-Arg-Lys-Gln-Met-Ala-Val-Lys-Lys-Tyr-Leu-Asn-Ser-lle-Leu-Asn-Gaba-Lys ( Dap- ( BMA ) 2 ) 95 .
+66% TP42004200.54200Ac-His-Ala-Asp-Ala-Val-Phe-Thr-Glu-Asn-Tyr-Thr-Lys-Leu-Arg-Lys-Gln-Nle-Ala-Ala Lys-c ( -Lys-Tyr-Leu-Asn-Asp- ) -Leu-Lys-Lys-Ala-Ala-Ala-Gaba-Lys- ( Dap-BMA ) 2 ) 96.57% TP38053804.53805His-Ser-Asp-Gly-lle-Phe-Thr-Asp-Ser-Tyr-Ser-Arg-Tyr-Arg-Lys-Gln-Met-Ala-Val-Lys-Lys-Tyr-Leu-Ala-Ala-Val-Leu-Gaba-Lys- ( Dap- ( BMA ) 2 ) 94.3% .
+Full-size table .
+View Within Article .
+2.1. Synthesis of the peptide analogues .
+The analogues were synthesized so as to harbor a carboxy-terminus Lysine residue separated from VIP-asparagine by 4 aminobutyric acid as a spacer .
+The chelating agent used was diaminedithiol ( N2 S2 ) .
+The synthesis and HPLC purification was carried out by the American Peptide Company , Sunnyvale , CA .
+Briefly , the peptides were synthesized on preloaded Polyethylene glycol ( PEG ) resin via 9 fluorenylmethyloxycabonyl ( Fmoc ) chemistry .
+The peptide chain was assembled on the resin by repetitive removal of Fmoc protecting group and coupling of the protected amino acid .
+The coupling agents used were 1 , 3 diisopropyl carbodiimide ( DIC ) and N-Hydroxybenzotrazole ( HOBt ) .
+Piperidine 20% in N , N-Dimethyl formamide ( DMF ) was used as de-Fmoc agent .
+The cyclic peptide was prepared separately , by converting the linear fragment through a lactam bond between the side chain of Lys21 and Asp25 made in a solution phase .
+The cyclic fragment was purified via preparative RP-HPLC and was assembled in the main chain peptide by DIC / HOBt coupling .
+The side chain protecting groups were cleaved and removed by treating the peptide resin with trifluoroacetic acid ( TFA ) /thioanisole .
+The crude peptide was precipitated from cold ether and collected by filtration and purified via RP-HPLC using Triethylammonium phosphate ( TEAP ) and acetic acid buffer on waters C18 HPLC column .
+Linear gradient of acetonitrile was used .
+Pooled fractions were lyophilized .
+The peptide was verified by mass spectroscopic and amino acid analysis .
+The analogues were named according to their molecular weight .
+2.1.1. Radiolabeling of peptide analogues with 64Cu .
+High specific activity , no carrier added , 64Cu ( t1 / 2 of 12.7 h , + 655 keV,17.4% and 573 keV , 30% ) was obtained either from Washington University School of Medicine , St .
+Louis , MO , IsoTrace , Columbia , MO or from Nordion Inc , Kanata , Ontario , Canada .
+To 20 g of an analogue in 400 L of 0.2 mol / L glycine buffer ( pH 9 ) in a siliconized 5-mL glass test tube , were added 100 g of SnCl2 in 5 L 0.05 mol / L HCl ( deprotecting agent ) and ( 100 - 200 Ci ) of 64Cu in 1 L , 0.1 mol / L HCl .
+The mixture was vortexed and incubated at 90 C for 45 minutes  .
+2.1.2. Radiolabeling of peptide analogues with 99mTc .
+In this study 99mTc preparations were used only for cell binding assays when 64Cu was not available .
+Ten ug of the analogue was dispensed in a 5 mL glass test tube to which were also added 40 g SnCl2 in 4 L , 0.05 mol / L HCl , 10 - 20 mCi 99mTc in 200 L , 0.9% NaCl , and 300 L of 0.05 mol / L Na3PO4 at pH 12. The reaction mixture was vortexed and incubated at room temperature for 30 min .
+We then added 1 mL of 0.05 mol / L NaH2PO4 solution ( pH 4.5 ) to neutralize the pH  .
+2.2. Quality control .
+Radiochemical purity of each labeled analogue was determined using high-pressure liquid chromatography ( HPLC ) ( Shimadzu Corporation , Kyoto , Japan. ) coupled to a UV detector , NaI ( Tl ) radioactivity monitor , and a rate meter .
+The reverse phase C18 microbound column ( 4.6 mm 250 mm ) served as the stationary phase , and two solvents : 0.1%TriFluoroacetic acid ( TFA ) in H2O and 0.1% TFA in acetonitrile as mobile phase .
+The gradient was such that 10% CH3CN in aqueous 0.1% CF3CO2H to 100% CH3CN in 0.1% CF3CO2H at a flow rate of 1 mL / min over 32 min at 22 C. .
+2.3. Functional assay .
+VIP in large quantities is a vasodilator and muscle relaxant .
+The muscle relaxant property was used to assess the biological and functional activity of each analogue and compare them with those of the native VIP28 .
+The assay was based on the binding of VIP to specific receptors producing a concentration-dependent decrease in the resting tension of the Internal Anal Sphincter ( IAS ) smooth muscle .
+The effects of different concentrations of VIP28 and the 4 analogues were determined until maximum fall in the basal tension of IAS was reached .
+2.3.1. Preparation of smooth muscle strips .
+Two adult Wistar Rats were anesthetized and killed in accordance with the protocol approved by the Institutional Animal Care and Use Committee .
+The distal anal canal was dissected out and transferred quickly to oxygenated Krebs physiologic solution of the following composition ( in mmol / L ) : 118.07 NaCl , 4.69 KCl , 2.52 CaCl2 , 1.16 MgSO4 , 1.01 NaH2PO4 , 25 NaHCO3 , and 11.10 glucose .
+The adhering blood vessels and extraneous tissues containing the external anal sphincter were then removed by sharp dissection .
+The anal canal was opened and pinned flat with the mucosal side up on a dissecting tray containing oxygenated Krebs solution .
+This was followed by removal of the mucosa using forceps and fine scissors and dissection of the IAS circular smooth muscle strips ( approximately 2 mm wide and 1 cm long ) from the lowermost part of the anal canal .
+Silk sutures were tied to both ends of the muscle strips for isometric tension measurements .
+2.3.2. Measurement of isometric tension .
+The IAS muscle strips were transferred to 2-mL muscle baths with Krebs solution bubbled continuously with a mixture of 95% O2 and 5% CO2 at 37 C. One end of the muscle strip was tied to the bottom of the muscle bath , and the other end was attached to an isometric force transducer ( model FTO3 ; Grass Instruments , Quincy , MA ) .
+Isometric tension was measured using the PowerLab / 8SP data acquisition system ( ADInstruments Ltd. , Castle Hill , NSW , Australia ) and recorded using Chart 4.1.2 ( ADInstruments Ltd. ) .
+Initially , 1 g of tension was applied to the muscle strips .
+The muscle strips were then allowed to equilibrate for about 1 h with occasional washings .
+During this equilibration period , strips developed steady tension .
+Only strips that developed steady tension and relaxed in response to electrical field stimulation were used .
+Both optimal length and base line of the muscle strips were determined  .
+2.3.3. Drug response .
+The effect of different concentrations of VIP28 and the 4 analogues on the resting IAS tension was examined using cumulative concentration responses .
+After a given concentration - response curve was derived , the muscle strips were washed continuously for 45 - 60 min before testing for the concentration - response curve of another agent .
+Maximum relaxation ( 100% ) of the smooth muscle strips was determined after completely relaxing the muscle strips with 10 mmol / L ethylenediaminetetraacetic acid ( EDTA ) .
+The percentage of maximum fall in the IAS tone was plotted against the log concentration of the respective analogue and the IC50 values were calculated as the concentration at which 50% of the relaxivity occurred .
+2.4. Culture of human breast cancer cell line .
+Estrogen receptor-positive T47D breast tumor cells from American Type Culture Collection were maintained in RPMI 1640 medium with 2 mM l-glutamine adjusted to contain 10 mM HEPES , 1.0 mM sodium pyruvate , 1.5 g / L sodium bicarbonate , 4.5 g / L glucose and supplemented with 0.2 U / ml bovine insulin , 90 % and fetal bovine serum , 10% at 37 C under 5% CO2 / 95% air .
+The cells when confluent were detached using 0.25% trypsin-EDTA , washed and resuspended with RPMI-1640 medium at a concentration of approximately 5106 cells / mL .
+2.5. Cell binding assay .
+The T47D cells as grown above were seeded into 48 well sterile plates ( Corning Incorporated-Life Sciences ) .
+To the cells ( 0.5 105 cells / well ) in quadruplicate were then added increasing concentrations ( from 0.01 nM - 540 nM , 8 samples ) of the labeled peptide and incubated 1 h in a humidified incubator at 37 C and 5% CO2 with 95% air .
+The incubation was terminated by adding 0.5 ml of cold washing buffer made up of 1% BSA RPMI-1640 medium .
+After 5 min the cells were washed thrice using the same buffer .
+The supernatant from each wash was collected into marked test tubes .
+The cells were then solubilized with 1 M NaOH at 37 C and collected in separate test tubes .
+The procedure was repeated thrice and all the solubilized cells collected .
+The cells and supernatant were counted for radioactivity in a gamma counter ( Packard 5000 series , Meriden , CT ) .
+The counting data permitted us to calculate Bound / Free ( B / F ) radioactivity ratios and the number of peptide molecules in mole bound to cells .
+The data were then plotted as per Scatchard  and the Kd value calculated using the guidelines from Assay Guidance Manual , NIH Chemical Genomics Center  .
+The procedure was repeated for TP3939 , TP3982 , TP4200 and TP3805 .
+2.6. Autoradiography .
+The purpose of this study was to determine the receptor specific differential uptake on human breast cancer tissues versus the normal breast tissue .
+Freshly frozen randomly chosen and histologically proven human breast cancer ( n = 13 ) and normal tissues ( n = 7 ) were obtained from the institutional department of pathology .
+These were then sectioned into 10 M , mounted on to clean glass slides and stored at 80 C. The mounted slides were allowed to reach room temperature and the condensed moisture dried .
+Approximately 10 Ci of the labeled analogue solution diluted in 200 L of 50 mM of TRIS - HCl buffer ( pH 7.4 ) containing 2%BSA , 2 mM EGT , 0.1 mM Bacitracin and 5 mM MgCl2 was layered on the tissue and incubated at room temperature ( 22 C ) for 90 min .
+The slides were then washed thoroughly with cold , 0.9% NaCl solution , dried and exposed to a phosphor imaging plate .
+The plate was processed using Fujifilm Flourescent Image Analyzer , FLA-5000 ( Image Gauge Version. 4.0 ) .
+The procedure was repeated for 13 breast cancer and 7 normal breast tissues .
+Tissues incubated with each of the peptide analogue were analyzed and the photostimulated luminescence / mm2 ( PSL / mm2 ) calculated for the tumor and the normal tissues .
+2.7. Reverse transcription and real time polymerase chain reaction ( RT-PCR )
+The goal of RT-PCR was to ascertain that the human breast cancer and normal tissues on which autoradiography was performed , express VPAC1 receptors and that the receptor expression density was different in tumor tissues and normal tissues .
+The tissue architecture of the sample of the human breast cancer and the normal tissues was disrupted by the addition of Trizol ( In vitrogen Life Technologies ) in the presence of 2.3 mm Zirconia / Silica beads to release the RNA and then homogenized by rapid agitation using the procedure recommended by the manufacturer ( BioSpec products ) .
+The RNA was extracted and the total RNA was then reverse transcribed using the pre-developed TaqMan assay reagents for one hour at 37 C. The resulting strand cDNA was diluted and used as a template for the PCR reaction with TaqMan master mix using specific primers and probes for VPAC1 .
+RT-PCR was performed using CFD-3200 DNA Engine Opticon System ( Bio-rad Systems ) and the following cycling conditions ; 95 C for 15 s and 60 C for 1 min for 50 cycles .
+The expression levels of the VPAC1 were determined from the cycle threshold ( CT ) values normalized to human Glyceraldehyde-Phosphate Dehydrogenase ( hu GAPDH ) and standard curves used for calculation  .
+2.8. Blood clearance .
+Blood clearance studies of the radiolabeled analogues were performed in mice .
+Rapid blood clearance of radioactivity may minimize the back ground and thereby enable a better view of the target tissue .
+The study was carried out for each of the four 64Cu analogues in groups of 3 athymic nude mice per analogue .
+The labeled peptide ( 100 - 120 Ci ) was administered through a lateral tail vein and samples of blood ( approximately 50 L each ) were drawn at 1 , 3 , 5 , 10 , 15 , 30 , 45 , 60 , 90 , 120 , 180 , 240 min and at 24 h post administration .
+To facilitate rapid and reliable blood drawing , a small incision was made in the lower part of the tail and the other lateral vein was exposed .
+After each blood draw , pressure was applied to stop further bleeding .
+The samples were weighed and the radioactivity counted in a gamma counter ( Packard 5000 series , Meriden , CT ) along with a standard 64Cu solution prepared at the time of injection .
+The percentage injected dose / gram ( %ID / g ) of blood was calculated and the mean SD for each time point were plotted as a function of time .
+2.9. In vivo stability .
+The objective was to assess the in vivo stability of the administered 64Cu peptide by determining transchelation of the 64Cu from the peptide to plasma proteins .
+Analysis was performed by using Sodium Dodecyl Sulphate Polyacrylamide Gel Electrophoresis ( SDS-PAGE ) .
+Eighteen percent Tris - Glycine gel ( In vitrogen life technologies ) were used .
+64Cu labeled peptide ( in this instance TP3939 ) was administered through the lateral tail vein of athymic nude mouse , and 0.5 ml blood collected in a heparinized eppendorf vial following euthanasia at 2 - 3 min .
+Serum was collected after centrifugation ( 2000 rpm for 10 min ) .
+Tris - Glycine SDS buffer and deionized water was added to the serum and loaded into a well .
+Molecular weight standard to facilitate estimation of the molecular weights of the various protein bands was loaded into another well .
+Further more 64Cu labeled TP3939 incubated with Human Serum Albumin ( HSA ) , 64CuCl2 incubated with HSA were also applied .
+Incubation with the buffer was carried out as explained above .
+Finally incubated 64CuCl2 alone was also applied .
+The voltage was maintained at 160 V for 45 min .
+Analysis was performed simultaneously on two gels .
+One gel was stained with Coomassie blue , destained , cut and counted for radioactivity associated with each protein band in a gamma counter .
+The other gel was used for autoradiography , exposing the gel to a phosphor imaging plate for 18 h after which it was stained with Coomassie blue , destained , cut and counted for radioactivity .
+The plate was processed using Fujifilm Flourescent Image Analyzer , FLA-5000 ( Image Gauge Version. 4.0 ) .
+3. Results3.1 .
+Synthesis and characterization .
+The amino acid sequence of each analogue is given in Table 1 together with their calculated and observed molecular weight and purity as determined by analytical HPLC .
+3.2. Radiochemical purity .
+The radiochemical purity of each 64Cu labeled peptide as determined by HPLC was 95.43 3.78% , 96.85 3.97 % , 94.6 5.79 % and 97.5 4.02 % for Cu-TP3939 , 64Cu-TP3982 , 64Cu-TP4200 and 64Cu-TP3805 respectively .
+Retention times varied between 5.53 to 6.7 min. Fig. 1 represents a typical HPLC elution curve .
+The diagonal line represents percent gradient .
+Labeling efficiency was 97.77 1.94 % , 96.72 2.72 , 97.91 1.13 , 97.37 2.57 for 99mTc-TP3939 , 99mTc-TP3982 , 99mTc-TP4200 and 99mTc-TP3805 respectively .
+Full-size image ( 61K )
+Fig. 1. HPLC elution profile of one of 64Cu-TP3939 , revealing 96.5% of the radioactivity is bound to a peak at 6.7 min .
+The UV peak is also centered around 6.7 min .
+The diagonal line represents % gradient as a function of time .
+View Within Article .
+3.3. Functional assay response .
+The IC50 values of the peptide analogues were 4.4 108 M for TP3939 , 8.1 108 M for TP3982 , 8.1 109 M for TP4200 and 5.3x108 M for TP3805 respectively .
+The unaltered VIP28 had an IC50 of 9.0 108 M .
+These data suggest that the biological activity of each analogue as compared to that of the VIP28 was not compromised .
+Table 2. .
+IC50 and Kd values of VIP28 and its analogues .
+AnalogueIC50Kd TP39394.4 10 8 M0.33 10 9 M TP39828.1 10 8 M0.2 10 9 M TP42008.1 10 9 M0.72 10 9 M TP38055.3 10 8 M3.3 10 9 M VIP28 [ control ] 9.0 10 8 M15 10 9 M
+Full-size table .
+View Within Article .
+Full-size image ( 38K )
+Fig. 2. Effect of increasing concentration of VIP28 and its analogues as % relaxivity of the tissue .
+IC50 values are presented in the inset table. .
+View Within Article .
+3.4. Cell binding assay .
+The dissociation constant ( Kd ) for each of the 99mTc labeled peptide analogue was calculated and found to be 0.33 10 9 M for 64Cu-TP3939 , 0.2 10 9 M for 64Cu-TP3982 , 0.72 10 9 M for 64Cu-TP4200 and 3.3 10 9 M for 64Cu-TP3805 .
+Full-size image ( 49K )
+Fig. 3. The cell binding data plotted as per Scatchard for 99mTc-TP3939 .
+Binding was performed using T47D human breast cancer cells that express VPAC1 receptors .
+In this case we used 99mTc instead of 64Cu , as the biological activity of peptide analogues is not influenced by the tracer used .
+The saturable plot represents receptor specific binding .
+The Kd ( 1 / slope ) was estimated using the NIH Chemical Genomics Center , Assay Guidance Manual [ Version 4:1 ; Receptor Binding Assays.htm ] .
+The Kd values as calculated for the other analogues are given in Table 2. .
+View Within Article .
+3.5. Autoradiography .
+The 13 human breast cancer tissues used were histopathologically diagnosed as , grade-3 invasive ductal carcinoma ( n = 10 ) , high grade in situ micropapillary carcinoma ( n = 1 ) , high grade in situ microinvasive carcinoma ( n = 1 ) and intermediate grade 2 tubulolobular carcinoma ( n = 1 ) .
+In addition , seven were histologically designated as normal .
+The tumor / normal radioactivity ratios , calculated using the quantitative analysis of the phosphor imaging plates ranged from 2.17 to 10.93. The ratios for the invasive ductal carcinoma were ; 3.36 - 10.69 for 64Cu-TP3939 , 2.83 - 10.93 for 64Cu-TP3982 , 3.97 - 5.13 for 64Cu-TP4200 and 2.17 - 9.55 for 64Cu-TP3805 .
+The ratios for the in situ microinvasive tumor were 2.6 for 64Cu-TP3939 , 3.77 for 64Cu-TP4200 and 2.82 for 64Cu-TP3805 .
+For tubulolobular carcinoma the ratios were 2.94 for 64Cu-TP3982 and 3.2 for 64Cu-TP4200 .
+A typical image of an autoradiographic slide is shown in Fig. 4. .
+Table 3. .
+Results of human breast cancer tissue autoradiography and RT-PCR ( ratios for tumor I normal tissue for each analogue )
+HPR64Cu-TP393964Cu-TP398264Cu-TP420064Cu-TP3805RT-PCR T / N Invasive ductal , gr-3 ( nt 10 ) 3.36 - 10.692.83 - 10.933.97 - 5.132.17 - 9.555 - 118 In situ micropapillary ( n = 1 ) 2.6NDNDND6 In situ microinvasive high grade ( n = 1 ) NDND3.772.8229.78 Tubulolobular ( n = 1 ) ND2.943.2NDND .
+Full-size table .
+ND = not done , HPR = histopathological report .
+View Within Article .
+Full-size image ( 25K )
+Fig. 4. Example of digital autoradiography in normal and breast cancer tissues incubated with 64Cu-TP4200 .
+The images and the calculated tumor and normal PSL / mm2 invariably reflect higher receptor expression in the tumor tissues .
+These results were consistent with those of the corresponding RT-PCR analytical data .
+View Within Article .
+3.6. RT-PCR .
+We measured the VPAC1 receptor expression in freshly frozen samples of human breast cancer and normal tissues by RT-PCR .
+Following a series of 22 runs ( 13 cancer tissues and 7 normal tissues ) the difference in receptor expression in tumor tissue was found to be 5 - 118 times greater than normal tissues .
+The histopathology correlated tumor to normal VPAC1 receptor expression ratios was as follows ; 5 - 118 for grade-3 invasive ductal tumor tissues ( n = 10 ) , 6 for in situ micropapillary ( n = 1 ) , and 29.78 for high grade in situ microinvasive ( n = 1 ) , . Fig. 5 reveals a typical RT-PCR profile for the tumor sample and normal tissues .
+Full-size image ( 74K )
+Fig. 5. RT-PCR of normal and human breast cancer tissues revealing distinct cycle difference between the tumor and the normal tissue .
+The fewer cycles are required to amplify the protein from tumor tissue as compared to the normal tissue .
+The density of VPAC1 receptors are more in the tumor tissue ( T / N = 5 to 118 ) than that on the normal breast tissue .
+View Within Article .
+3.7. Blood clearance .
+The blood clearance was biphasic ; the t1 / 2 was approximately 3.1 min , 3.25 min , 3.3 min , 3.3 min and t1 / 2 of approximately 120 min , 45 min , 150 min and 160 min for 64Cu-TP3939 , 64Cu-TP3982 , 64Cu-TP4200 and 64Cu-TP3805 respectively .
+A typical graph of the time versus % ID / g is displayed in Fig. 6. .
+Full-size image ( 29K )
+Fig. 6. The blood clearance study of one of the analogues , TP4200 .
+The clearance curve is biphasic , t1 / 2 = 3.3 min and the t1 / 2 = 150 min .
+View Within Article .
+3.8. In vivo stability .
+Polyacrylamide gel analysis indicated that at 2 min post injection approximately 86% of the radioactivity remained as 64Cu labeled peptide .
+The remaining radioactivity was associated with proteins of molecular weights of 6 kDa and above ( lane 1 ) .
+Similarly lane 2 in which the 64Cu-TP3939 was incubated with HSA , there was negligible transchelation to protein .
+In these experiments only approximately 3 % of free 64CuCl2 was bound to protein with molecular weight of 98 kDa ( lane 3 ) . Fig. 7.a represents the separation of protein as visualized following Coomassie blue staining .
+The molecular weight standards are also visualized. Fig. 7b is the autoradiography of the various samples as explained in the methodology and in figure legends .
+Quantitative analysis of 64Cu radioactivity distribution in various protein bands is given in Table 4. .
+Full-size image ( 50K )
+Fig. 7. a .
+At the left is a Coomassie blue stained gel representing the protein bands and their approximate molecular weight and b at right is the autoradiography representing 64Cu radioactivity associated with the corresponding proteins .
+Lane 1 : In vivo 64Cu-TP3939 in mouse serum , Lane 2 : 64Cu-TP3939 incubated with HSA , ex vivo , Lane 3 : 64CuCl2 incubated with HSA ex vivo and Lane 4 : 64CuCl2 .
+View Within Article .
+Table 4. .
+PAGE analysis .
+Lane lLane 2Lane 3Lane 4 Molecular weight ( kDa ) 64Cu-TP3939 in serum ( in vivo ) 64Cu-TP3939 with HSA64CuCl2 with HSA64CuCl2 9810.08%0.47%2.25%2.46% 50 - 644.03%0.25%0.17%0.38% 6 - 161.23%0.09%0.16%0.45% 425.05%37.37%27.27%22.37% 458.86%61.92%70.15%74.37% .
+Full-size table .
+% radioactivity and estimated molecular weight .
+View Within Article .
+4. Discussion .
+Annually in the USA approximately 7 million breast biopsies are performed , approximately 80% of which ( 5.6 million ) find benign pathology .
+The ability to noninvasively determine the benign or malignant status of suspected breast cancer mass found by mammography may minimize the number of millions of unnecessary , invasive biopsies ; spare the patient from physical and psychological trauma as well as save health care dollars .
+Although great strides have been made for imaging breast cancer using magnetic resonance ( MRI ) , computerized tomography ( CT ) , ultrasound ( US ) , and radionuclide imaging such as PET using 18F-Fluorodeoxy glucose and SPECT using 99mTc Sestamibi , each modality suffers from serious limitations  .
+The need is compelling to investigate improved imaging probes that might target specific biomarkers and thereby contribute to a greater reliability and higher sensitivity and specificity for imaging malignant lesions and to excluding benign pathology .
+Data are abundant that 100% of the breast cancer cells overexpress a gene product , cell surface receptors VPAC1  , so named because of the endogenous growth hormones VIP28 and PACAP27 .
+These peptides have high affinity for VPAC1 receptors  .
+VIP28 and PACAP27 bind similarly to VPAC receptors .
+PACAP27 has higher affinity for PAC1 receptors  .
+However it has been demonstrated that human breast cancer cells do not overexpress either VPAC2 or PAC1 receptors  .
+VPAC1 receptors are overexpressed on malignant cells before cell morphology is altered and in higher density than on the normal breast tissue cells .
+These receptors are internalised , phosphorylated and are not reexpressed on the cell membrane  .
+These data render VPAC1 receptors as highly useful biomarkers that may be probed for noninvasive PET imaging .
+The confirmation of the presence of these fingerprints on a suspected mass will ascertain malignancy and the absence of a benign pathology .
+In this investigation we have chosen 4 apparently potent peptide analogues  which were synthesized , characterized , and derivatized for radiolabeling with 64Cu to enable us to perform PET imaging .
+The purpose of this investigation was to determine : a ) the biological characteristic of the probes was not compromised , b ) their receptor specificity and receptor binding affinity were not altered , c ) their in vivo stability was not diminished , and d ) that the probes bind to human breast tissues which express VPAC1 receptors and that this binding was preferential as compared to normal breast tissue .
+Our data strongly demonstrate that these analogues are potent and functionally stable .
+For each analogue the radiolabeling efficiency for 64Cu was greater than 92% and required no further purification before the probe could be injected for PET imaging .
+VIP28 is a muscle relaxant  .
+Using the muscle relaxivity assay on the IAS smooth muscle , the functional studies were performed which strongly indicated that the biological activity of none of the analogues was compromised .
+Similarly the binding assays as performed using human breast cancer cell line , T47D , corroborated the data equally affirmatively .
+The in vitro receptor autoradiography studies showed 2.17 to 10.93 times greater quantity of 64Cu-peptide analogues was bound to breast cancer tissues than to the normal breast tissue .
+Studies carried out after establishing good working techniques always yielded ratios of 2.17 and above .
+These data indicated that greater number of VPAC1 receptors was expressed on malignant cells than on the normal .
+These data confirmed our previous observation in humans using 99mTc analogues  and strongly suggested that these analogues have the ability to specifically localize malignant breast lesions by PET imaging .
+The data obtained using RT-PCR confirmed increased receptor expression in the tumor tissues and generally corroborated with the autoradiography data .
+The range of receptor expression varied from 5 - 118 depending on the size of the tissue and abundance of malignant cells in the sample provided .
+The blood clearance data in mice for each analogue indicated rapid clearance supportive of early imaging .
+This clearance together with the internalization and phosphorylation of the receptors will promote diagnostic and therapeutic applications of these peptides .
+Certain 64Cu chelates have been shown to be unstable in vivo , promoting transchelation of 64Cu to proteins  .
+This may hinder the in vivo applications of such chelates .
+In our case , polyacrylamide gel analysis indicated approximately 86% of the 64Cu remained bound to the peptide ( 4 kDa ) and was not transchelated to the protein in vivo .
+Among the 15% transchelated , approximately 10% was to fraction with protein molecular weight 98 kDa ( this included a significant portion that artifactually remain in the loading well , see Fig. 7 ) , approximately 4% to protein molecular weight 50 - 64 kDa and 1.2% to protein molecular weight 6 - 16 kDa .
+Approximately 50% of the 64Cu clears with t1 / 2 of 3.0 to 3.5 min .
+Because of this rapid clearance of radioactivity , these samples were acquired 2 - 3 min post administration of the labeled analogue .
+Any blood drawn after 3 - 5 min post injection contains negligible radioactivity either for counting or autoradiography .
+To obtain some insight into the possibility of further transchelation to serum protein , we incubated the 64Cu peptides with HSA in vitro .
+These too demonstrate that 97% of the activity was not transchelated to protein .
+This lack of transchelation is consistent with the strong chelation of 64Cu to this N2 S2 chelating moiety coupled to the peptides .
+The urinary excretion of the 64Cu peptide analogues for 2 h post injection was negligible and prevented us from HPLC confirmation of enzymatic degradation of the peptide which might have eliminated in the urine .
+Considering together the lack of transchelation to serum proteins and the lack of urinary excretion it is reasonable to assume that the peptide remains intact .
+This is further evidenced by increasing quantity of radioactivity accumulating in tumors as the time elapses after its in vivo administration ( data not given ) .
+This stability if further witnessed by the ITLC analysis performed on urine collected from mice given 64Cu-TP3982 , 4 h previously which showed that greater than 98% of activity was bound to the peptide  .
+The assumption then is that the radioactivity that binds to other normal organs , relatively large in size , may be bound to VPAC receptors expressed on the normal cells albeit at low density .
+In summary all our in vitro and limited in vivo data strongly suggest that all of the four analogues are potent , their biological activities are not compromised and that they are worthy of further evaluation .
+This investigation promises to lead us to evaluate their utility for PET imaging of human breast cancers and for determining malignant lesions from benign ones .
+Acknowledgments .
+This work was supported by NIH grant CA-109231 .
+We thank Dr. Juan Pallazzo MD , and Magdalena B. Potoczek of the department of Pathology for their advice and assistance in the studies of pathological specimens .
+Our thanks are also due to Stephanie Schulz , PhD , Department of Pharmacology and Experimental Therapeutics for the use of the homogenizer ( BioSpec products )

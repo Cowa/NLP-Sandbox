@@ -1,0 +1,126 @@
+In addition to its well-established role in transcription and other nuclear processes , the role of chromatin modification in DNA double-strand break ( DSB ) repair has been illuminated recently  .
+The first histone modification that was discovered to be specifically associated with DSB is the phosphorylation of H2AX ( termed -H2AX ) , a chromatin mark induced by the phosphatidyl-inositol-3-OH kinase - related kinases. -H2AX encompasses a chromatin region spanning thousands to millions of base pairs surrounding the lesion  .
+The histone H2AFX gene is not essential , but genomic instability and sensitivity to DNA-damaging agents are observed in its absence  .
+Reports from two independent studies on mice have revealed a significantly increased incidence of tumorigenesis in the absence of H2AX gene and the inactivated p53 tumor suppressor gene  .
+Breast cancer represents one of the most heterogeneous forms of cancers , both morphologically and genetically .
+In addition to BRCA1 and BRCA2 , other genes identified as breast cancer susceptibility genes , such as ATM , CHEK2 , and TP53 , are also known to function in the DNA damage response pathway .
+Hence , it could be speculated that the DNA damage response pathway is a possible major target of inactivation in breast cancers .
+There are several studies attempting to identify mutations in DNA damage response genes , and also numerous association studies using candidate polymorphisms  .
+No clear major target has emerged , but these studies have provided enough evidence that some of the key DDR genes have a pivotal role in neoplastic progression .
+The histone H2AFX gene maps ( 11q23.2q23.3 ) to a region commonly deleted or translocated in several hematologic malignancies or solid tumors  .
+Mouse model studies have raised the possibility that H2AFX may serve as a tumor suppressor in humans because haploinsufficiency for H2AFXcontributes to cancer predisposition in mice  .
+A recent study demonstrates that in activated B cells , H2AX suppresses the progression of AID-dependent DSB to chromosomal breaks and translocations  .
+These studies fortify the alleged tumor suppressor role of H2AFX in humans .
+In the present study , we screened DNA from 65 sporadic breast cancer patients for the presence of mutations in the H2AFX gene and estimated the relative gene copy number of H2AFX in a pair study by using quantitative real-time polymerase chain reaction ( PCR ) .
+Our investigation revealed that although the gene sequence for H2AFX is conserved , there is a significant alteration in terms of H2AFX gene copy number in tumor samples when compared with adjacent normal tissue .
+2. Materials and methods2.1 .
+Sample collection .
+According to the instructions of the Institutional Review Board , frozen mastectomy specimens ( tumors and paired adjacent nontumorous tissues ) of 65 consecutive patients with invasive ductal carcinoma of the breast were obtained from Dharamshila Cancer Hospital and Research Institute in Delhi between 2004 and 2005 .
+Clinicopathologic variables measured at diagnosis were obtained from patient records and are described in detail in Table 1. The enrolled patients did not receive any chemotherapy or radiation therapy before the operation and were free of distant metastases according to their preoperative evaluations .
+Table 1. .
+Association of altered H2AFX copy number with clinicopathologic features of sporadic breast cancer patients .
+FeaturesDeletion / amplification in the H2AFX locusPDeletion in the H2AFX locusP Age ( yr ) 18 - 4915 / 28 ( 53.6% ) 10 / 23 ( 43.5% ) 50 - 7610 / 37 ( 27.0% ) 0.0409 / 36 ( 25.0% ) 0.163 Menopausal status Premenopausal14 / 27 ( 51.9% ) 9 / 22 ( 40.9% ) Postmenopausal11 / 38 ( 28.9% ) 0.07510 / 37 ( 27.0% ) 0.388 Tumor size 19 / 18 ( 50.0% ) 6 / 15 ( 40.0% ) 29 / 31 ( 29.0% ) 9 / 31 ( 29.0% ) 34 / 7 ( 57.1% ) 1 / 4 ( 25.0% ) 43 / 9 ( 33.3% ) 0.3463 / 9 ( 33.3% ) 0.882 Nodal status 015 / 35 ( 42.9% ) 11 / 31 ( 35.5% ) 13 / 14 ( 21.4% ) 2 / 13 ( 15.4% ) 24 / 8 ( 50.0% ) 3 / 7 ( 42.9% ) 33 / 8 ( 37.5% ) 0.4833 / 8 ( 37.5% ) 0.512 Stage 16 / 12 ( 50.0% ) 3 / 9 ( 33.3% ) 29 / 31 ( 29.0% ) 8 / 30 ( 26.7% ) 310 / 22 ( 45.5% ) 0.3188 / 20 ( 40.0% ) 0.612 Grade I4 / 11 ( 36.4% ) 1 / 8 ( 12.5% ) II11 / 37 ( 29.7% ) 9 / 35 ( 25.7% ) III10 / 17 ( 58.8% ) 0.1239 / 16 ( 56.3% ) 0.042 Estrogen receptora Negative7 / 31 ( 22.6% ) 6 / 30 ( 20.0% ) Positive16 / 28 ( 57.1% ) 0.00812 / 24 ( 50% ) 0.040 Progesterone receptora Negative7 / 30 ( 23.3% ) 6 / 29 ( 20.7% ) Positive16 / 29 ( 55.2% ) 0.01712 / 25 ( 48.0% ) 0.045 D11S29 Negative14 / 44 ( 31.8% ) 11 / 41 ( 26.8% ) Positive11 / 21 ( 52.4% ) 0.1728 / 18 ( 44.4% ) 0.231 p53 somatic mutation Negative21 / 54 ( 38.9% ) 16 / 49 ( 32.7% ) Positive4 / 11 ( 36.4% ) 1.0003 / 10 ( 30.0% ) 1.000 .
+Full-size table .
+Significant p values are shown in bold face .
+a Data not available for six tumor samples .
+View Within Article .
+2.2. Total DNA extraction .
+Total DNA from tumor and adjacent normal tissues , MCF7 and HeLa cell lines , were extracted using the GenEluteTM Mammalian Genomic DNA Miniprep Kit ( Sigma-Aldrich , Saint Louis , MO ) according to the manufacturer 's instructions , and the quantity was measured by Nanodrop ( NanoDrop Technologies , Wilmington , DE ) .
+Samples that had purity in the range of 1.5 - 1.8 ( 260 / 280 nm ratio ) were used for highly efficient amplification .
+DNA were diluted to a final concentration of 5 ng/ L. .
+2.3. Mutation detection .
+PCR using the following primers were used to amplify the H2AFX gene : promoter and 5 untranslated region ( UTR ) forward 5ACAAGGATTGGCTACATCAGC3 and reverse 5GTGTACACGGCCCACTGG3 ; coding region forward 5GGCCTCCAGTTCCCAGT3 and reverse 5CAGTCTGAAGCGGCTCAG3 ; 3UTR forward 5CCCCATGCCACCACAAAG3 and reverse 5CCAGCGCAGACCTATGAATG3 .
+PCR was performed in a DNA thermal cycler ( GeneAmp PCR System 9700 ; Applied Biosystems , Foster City , CA ) in a 12.5 L reaction mixture containing 50 ng of genomic DNA , 12.5 pmol of forward and reverse primers , 200 mol / L of each dNTP , 1 amplification buffer containing 1.5 mmol / L MgCl2 and 0.3 units of Taq DNA polymerase ( Bangalore Genei , Bangalore , India ) .
+The PCR conditions were as follows : an initial denaturation step for 4 minutes at 95C , followed by 30 cycles consisting of 3 steps : 94C for 1 minute , annealing at 64C , 62C , and 62C for three regions of the H2AFX gene , respectively , for 1 minute and 72C for 1 minute .
+A final extension step was performed at 72C for 10 minutes .
+Thereafter , the PCR products were checked on a 2% agarose gel by electrophoresis .
+Purified products were used for direct DNA sequencing by using an automated DNA sequencer ( 3100 Avant Genetic Analyzer , Applied Biosystems ) .
+2.4. Loss of heterozygosity ( LOH ) analysis .
+The microsatellite marker D11S29 in the 11q23 region was amplified using primer sequences given in the Genomic Data Base ( ) .
+PCR was performed under conditions similar to those mentioned above , except for the annealing temperatures of 60C followed by simple sequence length polymorphism  and denaturing high performance liquid chromatography analysis ( Transgenomics , Omaha , NE ) .
+2.5. Determination of H2AFX copy number .
+The relative change of H2AFX copy number between normal and tumor pairs , with GAPDH as the reference gene , was determined by real-time PCR following the comparative threshold cycle method  .
+The sequences of the primers used are 5 TTG GTA ACA GGC ACA TCT TCC 3 ( forward primer ) , 5 TTC CGC AAA ACG ACT CTT G 3 ( reverse primer ) for H2AFX ( accession no. DQ015918 ) and 5 AAC AGC GAC ACC CAT CCT C 3 ( forward primer ) ; 5 CAT ACC AGG AAA TGA GCT TGA CAA 3 ( reverse primer ) for hGAPDH ( accession no. NM002046 )  .
+The primers used for H2AFX gene correspond to the 121 - base pair ( bp ) amplicon located in the 3UTR region of the gene .
+The target and reference genes were amplified separately using the ABI PRISM 7000 Sequence Detection System ( PE Applied Biosystems , Foster City , CA , USA ) .
+PCR was performed in a total volume of 25 L in each well , containing 12.5 L of SYBR Green PCR Master Mix ( PE Applied Biosystems ) , 25 ng of genomic DNA , and 12.5 pmol of each primer .
+PCR conditions consisted of an initial denaturation step of 95C for 10 minutes , followed by 40 cycles of 95C for 15 seconds and 60C for 1 minute .
+All the reactions were carried out in duplicate , and a negative control with no template was kept with every PCR run .
+For all PCR reactions , threshold cycle ( Ct ) numbers were established by using SDS 1.1 RQ software ( Applied Biosystems ) , and the copy number , normalized to a reference gene ( GAPDH ) and relative to a calibrator ( normal sample of the respective pair ) , was determined by the formula 2Ct .
+A twofold increase or decrease in the copy number of H2AFX in tumor sample than the corresponding ( paired ) normal sample was considered as amplification or deletion , respectively .
+Comparison of H2AFX copy number in MCF7 and HeLa cell lines were carried out similarly .
+2.6. Statistical analysis .
+To analyze the correlation between tumors with altered H2AFX copy number and clinicopathologic parameters , Pearsons chi-square test or Fisher 's exact test was applied to evaluate the differences between groups .
+P 0.05 was considered statistically significant .
+3. Results3.1 .
+Sequencing of the H2AFX gene .
+The present study of 65 sporadic breast cancer patients revealed no alteration in the whole coding region , promoter , 5UTR , and a part of the 3UTR of the H2AFX gene .
+3.2. Gene copy number alteration in breast tumors .
+Copy number analysis of the H2AFX gene was performed in 65 sporadic breast cancer samples and the adjacent normal tissue using GAPDH as a reference gene .
+Exponential growth curves for H2AFX and GAPDH genes with five values ranging from 5106 to 500 copies are shown in Fig. 1 ( A and B ) .
+The dissociation curve showed a single sharp peak corresponding to the amplification of a single size product ( Fig. 1 , C and D ) .
+There was no primer dimer formation in either case .
+The regression curve showed good linearity .
+The correlation coefficients ( r2 ) were 0.998 and 0.999 , whereas the slope was 3.25 and 3.36 for the H2AFX and GAPDH standard curve , respectively , indicating nearly 100% PCR efficiency for both the genes .
+This ensured an acceptable degree of precision for our comparative Ct method to determine relative copy number ( Fig. 1 , E and F )  .
+A representative real-time graph of no alteration , deletion , and amplification of the H2AFX gene copy number is shown in Fig. 2. The quantitative real-time PCR analysis of 65 paired sporadic breast cancer tissues showed an alteration in 37.46% ( 25 / 65 ) of cases .
+Among these alterations , we observed both amplification and deletion with respect to normal samples , but deletion accounted for 29% ( 19 / 65 ) of the cases and amplification in about 9% ( 6 / 65 ) of samples .
+Full-size image ( 135K )
+Fig. 1. Exponential growth curves for five serial dilutions ( a and b ) , dissociation curves ( c and d ) , and standard curve ( e and f ) for H2AFX and GAPDH , respectively .
+View Within Article .
+Full-size image ( 150K )
+Fig. 2. Representative amplification plots showing ( a ) no alteration , ( b ) deletion , and ( c ) amplification of the H2AFX gene copy number in sporadic breast tumor samples compared to matched normal tissue .
+View Within Article .
+Full-size image ( 18K )
+Fig. 3. Copy number analysis of the H2AFX gene by quantitative PCR in 65 paired sporadic breast cancer samples .
+Bars represent the copy number in tumor tissue relative to normal tissue , calculated by 2Ct .
+GAPDH was used as the reference gene .
+In each pair , normal was used as a calibrator .
+A value of 2 or 0.5 ( twofold difference ) , as shown by the dotted lines , was considered as an amplification or deletion , respectively , in comparison to the normal value set at 1 ( shown by the continuous line ) .
+View Within Article .
+3.3. Deletion in H2AFX gene copy number in MCF7 .
+Comparison of H2AFX gene copy number alteration between DNA from HeLa and MCF7 ( breast cancer cell line ) cells revealed a twofold deletion in H2AFX gene copy number in MCF7 , but the GAPDH gene copy number remained constant for both .
+Full-size image ( 57K )
+Fig. 4. Amplification plot showing alteration in H2AFX gene copy number in MCF7 compared to HeLa cell line .
+View Within Article .
+3.4. Association with clinicopathologic features .
+The association between H2AFX copy number alteration in 25 samples and the patient 's age , histologic grade , stage , lymph node metastasis , hormone receptor status , D11S29 marker instability , and p53 mutation status ( data not shown ) was analyzed .
+Patients with estrogen and progesterone receptor - positive tumors had significantly altered copy numbers of H2AFX than those with ER / PR - negative tumors ( P = 0.008 and 0.017 , respectively ; Table 1 ) .
+When compared with deletion separately , however , the trend was maintained for ER / PR-positive tumors , though not highly significant , and a borderline association was obtained with histologic grade .
+The association between the H2AFX gene alteration and LOH for the D11S29 marker , located 1 megabase ( Mb ) from the 3 end of the gene , revealed that despite the absence of a significant correlation , 52% of the tumors were positive for both D11S29 marker instability and H2AFX gene alteration and 44% were positive when compared with deletion alone .
+The association between p53 somatic mutation and H2AFX gene alteration was nonsignificant ( P = 1.00 ; Table 1 ) .
+4. Discussion .
+The rationale to investigate the status of the H2AFX gene in sporadic breast cancer patients was based on the findings that H2AX-deficient mice present all the features of genomic instability syndromes  and that the gene is located 11 Mb telomeric to ATM at 11q23.3 , a region that is commonly deleted in human cancers , including breast cancer  .
+The absence of the H2AFX gene mutation or any sequence variation in DNA from 65 paired breast cancer samples matched with the results made in two previous reports , one in 101 familial breast cancer cases  and another in 112 haematologic malignancies  .
+This suggests that H2AFX is a highly conserved gene and that a germline or somatic mutation is not very common for this gene .
+However , a rare disease causing mutation could still be a possibility .
+Interestingly , quantitative real-time PCR analysis showed gene copy number alteration in tumor tissues of 37.46% ( 25 / 65 ) cases .
+This somatic event involved both amplification ( 9% ) and deletion ( 29% ) .
+The gene - dosage effect , as reflected in the observations made , has been known to cause developmental defects in model organisms and in certain inherited human diseases , and to have implications in tumor biology  .
+In this context , haploinsufficiency of ATM , BLM , 53BP1 , and H2AFX , the key DNA damage response genes , have been reported to play a role in tumorigenesis  .
+Our observations of alteration in the copy number of the H2AFX gene , the majority of which show deletions , and allelic instability ( 38% ; LOH + MSI ) in D11S29 marker , emphasize the genomic instability of the region in the observed tumor samples .
+Furthermore , the breast cancer cell line MCF7 also showed a twofold deletion in H2AFX gene copy number , corroborating the observation in breast carcinoma tissue and suggesting that the deletion in the H2AFX gene copy number does have a role in breast carcinogenesis .
+The H2AX protein is known to get phosphorylated within minutes after DSB induction , which is essential for tethering the two broken ends together , thereby preventing its progression to deleterious translocation events  .
+The phosphorylated H2AX molecule per DSB is required in large amounts covering megabases of chromatin with thousands of nucleosomes  .
+Any reduction in the amount of protein could account for improper anchoring of broken DNA ends and problems in retention of repair factors and completion of the repair process .
+The 11q distal region has long been known to be associated with human cancers .
+In-situ analysis  and microarray-based comparative genome hybridization  have shown deletion of this region in several cancers .
+However , copy number variation of any particular gene in this region has not been explored .
+In this context , to our knowledge , the present study is the first report of alteration in copy number of the H2AFX gene located at 11q23.3 in sporadic breast cancer patients .
+Although , the majority of cases in our study showed deletion , about 9% of cases showed amplification for the H2AFX gene .
+It is speculated that deletion and amplification probably lead to insufficiency and overexpression , respectively , of H2AFX in sporadic breast cancers , suggesting that a proper gene balance / dosage of the gene may be critical for normal cellular function .
+However , it was shown in a previous report  that overexpression of H2AX in H2AX/ p53/ did not have any effect on MEF cells .
+Therefore , the implications of overexpression / amplification of H2AFX gene still remain elusive .
+Our data demonstrated a significant association between H2AFX copy number alteration and estrogen- and progesterone-positive tumors .
+Furthermore , when compared with H2AFX deletion alone , the trend was maintained , and the histologic grade also showed a positive association .
+The fact that we did not obtain a very high significance value for histologic grade and tumor stage was probably because a sizable number of tumors showed alterations in early stages as well .
+It is known that ER and PR expression increases in the earliest stage of tumorigenesis  , and it can be speculated that dysregulation of hormone receptor expression together with H2AFX alteration could be an early driving force for uncontrolled proliferation leading to accumulation of threshold level of mutations required for tumor development .
+Whether the alteration in H2AFX is an associated event or is a consequence of increased receptor expression remains to be explored .
+There was , however , no correlation between altered H2AFX copy number and the prevalence of p53 somatic mutation , which is generally known to occur in ER / PR-negative tumors  .
+Based on our preliminary results , it is likely that p53 mutation and H2AFX alteration are involved in different steps of breast cancer progression .
+In conclusion , the present study is the first demonstration of H2AFX gene copy number alteration in sporadic breast cancer .
+This could possibly contribute to tumor heterogeneity , an aspect not explored to date , and may help classify tumors accordingly to achieve better chemotherapeutic intervention .
+Acknowledgments .
+Cooperation from doctors and staff of Dharamshila Cancer Hospital and the patients involved in the study is acknowledged .
+N.S. was supported by postdoctoral fellowship from Department of Biotechnology ( India ) , and S.G. was supported by a predoctoral fellowship from Council of Scientific and Industrial Research ( India ) .
+This work was funded by a grant provided by the University Grants Commission ( UGC ) to the National Center of Applied Human Genetics and the University with a Potential of Excellence ( UPOE ) project to R.B. , School of Life Sciences , Jawaharlal Nehru University ( JNU )

@@ -1,0 +1,187 @@
+Le cancer du sein est le premier cancer de la femme dans le monde .
+L' âge moyen se situe entre 50 et 70 ans ; sa fréquence chez les femmes jeunes âgées de moins de 35 ans varie de 2 à 24 %  .
+Selon la majorité des auteurs , la jeunesse représente un facteur pronostique péjoratif influençant l' attitude thérapeutique  .
+Le but de ce travail était de dégager les différents aspects épidémiocliniques , thérapeutiques et pronostiques du cancer du sein de la femme jeune à_travers une étude comparative d' une série de 72 patientes âgées de 35 ans ou moins et d' un second groupe de 194 patientes non ménopausées plus âgées ( entre 35 et 50 ans ) .
+2. Patientes et méthodes
+Il s' agit d' une étude rétrospective qui a concerné 72 patientes prises en charge par le comité sein du centre hospitalier universitaire de Sfax dans le sud de la Tunisie , entre janvier 1995 et décembre 2002 .
+Le second groupe comparatif avait inclus 194 patientes non ménopausées âgées entre 36 et 50 ans , traitées pendant la même période et pour lesquelles , nous avons recueilli les mêmes données .
+Le bilan préthérapeutique a comporté un interrogatoire , un examen physique , une échographie mammaire , une mammographie , une radio du thorax , une échographie abdominale , une scintigraphie osseuse et un dosage du CA 15 - 3. La tumeur a été classée selon la classification TNM de l' UICC et de l' AJC de 1988 .
+Les tumeurs initialement non métastatiques opérables inférieures ou égales à 3 cm ont été traitées par une chirurgie conservatrice .
+Celles qui étaient supérieures ou égales à 3 cm ont été traitées par chirurgie radicale ( de type Patey ) ou une chimiothérapie néoadjuvante a été délivrée après preuve anatomopathologique dans le but d' une éventuelle chirurgie conservatrice .
+Une radiothérapie adjuvante de la paroi thoracique a été prescrite pour les tumeurs de plus de 5 cm , en cas d' envahissement ganglionnaire axillaire N+ ( dans ce cas , les aires ganglionnaires axillo-sus-claviculaires ou sus-claviculaires et la chaîne mammaire interne ont été irradiées ) et les tumeurs des quadrants internes ( dans ce cas , la chaîne mammaire interne a été irradiée ) .
+Une radiothérapie du sein et ou non des aires ganglionnaires selon le statut ganglionnaire , a été délivrée après chirurgie conservatrice .
+La chimiothérapie adjuvante a été indiquée chez toutes les patientes : plusieurs protocoles ont été utilisés : CMF ( cyclophosphamide-méthotrexate-5-fluoro-uracile ) , FEC 50 , 60 , 75 ou 100 ( épirubicine-5-fluoro-uracile-cyclophamide ) , AC ( adriamycine-cyclosphamide ) , TAC ( taxotère-adrimycine-cyclophosphamide ) .
+Les formes évoluées ( T4a , T4b , T4d ) inopérables ont été traitées par quatre cures de EVCMF ou de FEC 60 ou 100 , suivies soit d' une chirurgie si elle était possible et d' une radiothérapie , sinon d' une radiothérapie exclusive .
+Une hormonothérapie adjuvante par tamoxifène et / ou castration ( par irradiation ou par analogues de LH-RH ) a été indiquée selon l' état des récepteurs hormonaux .
+Les patientes atteintes de tumeur d'_emblée métastatique ont reçu une chimiothérapie seule , associée ou non à une chirurgie , ou une radiothérapie de la tumeur primitive en cas de bonne réponse .
+L' évaluation de la réponse a été faite selon les critères de l' OMS .
+La survie globale a été calculée selon la méthode de Kaplan-Meïer .
+La comparaison des courbes de survie en fonction des facteurs pronostiques a été faite selon le test de Log-Rank .
+L' étude des facteurs pronostiques en analyse multifactorielle a été faite selon le modèle de Cox .
+3. Résultats3.1 .
+Critères épidémiocliniques
+L' âge moyen était de 31,5 ans ( 21 - 35 ans ) .
+La tranche la plus touchée était celle située entre 31 et 35 ans .
+Les facteurs de risque sont récapitulés dans le Tableau 1. Il n' y avait aucune différence avec le second groupe de femmes âgées entre 36 et 50 ans .
+Le délai moyen de consultation était de cinq mois ( une semaine à trois ans ) .
+Les circonstances de découverte étaient dominées par la découverte fortuite d' un nodule mammaire .
+La taille clinique moyenne du nodule était de 5,2 cm ( 1 à 18 cm ) , les formes classées T2N1 étaient prédominantes .
+Tous les critères cliniques n' étaient pas différents dans le second groupe comparatif ( 36 - 50 ans ) , sauf pour les constatations mammographiques avec un taux plus élevé de mammographies normales chez les femmes âgées de moins de 35 ans ( Tableau 2 and Tableau 3 ) .
+L' échographie mammaire a montré des images suspectes dans 75 % des cas , des images sans caractère de malignité dans 20 % des cas et elle était normale dans 5 % des cas .
+Ces données échographiques étaient comparables à celles observées dans le second groupe comparatif .
+Tableau 1.
+Les facteurs de risque en comparaison avec le groupe de femmes plus âgées
+Table 1
+Risk factors in comparison with the group of older patients
+ge 35 ans ( % ) ge : 36 - 50 ans ( % ) Ménarche précoce118 Nulligeste + Grossesse tardive2223,4 Antécédents familiaux de K du sein23,518,5
+Full-size table
+View Within Article
+Tableau 2.
+Tableau clinique et stade TNM pour les deux groupes
+Table 2
+Clinical criteria and TNM stades for each group
+ge 35 ansge : 36 - 50 ans Délai de consultationMoyen : cinq moisMoyen : 6,9 mois Extrêmes : une semaine à 3 ansExtrêmes : une semaine à 4 ans Motif Nodule ( % ) 81,487,7 Mastodynie ( % ) 24,317 Écoulement ( % ) 107 Adénopathies ( % ) 8,57,5 Systématique ( % ) 01,6 Taille tumorale cliniqueMoyenne : 5,2 cmMoyenne : 5,4 cm Extrêmes : 1 - 18 cmExtrêmes : 1 - 18 cm 3 cm : 36,5 % 3 cm : 24,5 % Classification TNM T0/T1/T2 / T3 ( % ) 1,3/2,7/32 / 13,8 2/5/38/18 T4b/T4c/T4d / Tx ( % ) 8,3/2,7/5,5/2914,6/1,5/6 / 13,5 N0/N1/N2/Nx ( % ) 27,7/45,8/2,7/2325/60/5 / 9 M1 au moment du diagnostic ( % ) 714,6
+Full-size table
+View Within Article
+Tableau 3.
+Résultats de la mammographie pour les deux groupes
+Table 3
+Results of mammography for each group
+ge 35 ansge : 36 - 50 ans NombreFréquence ( % ) NombreFréquence ( % ) Opacité stellaire264411166 Opacité + microcalcifications1830,52414 Opacité bien limitée9152112 Surcroît d' opacité915116,5 Microcalcifications isolées471911 Désorganisation architecturale3521 Mammographie normale813,585
+Full-size table
+View Within Article
+3.2. Résultats thérapeutiques
+Soixante patientes ont eu une chirurgie d'_emblée , qui était radicale dans 42 cas ( 62,7 % ) et conservatrice dans 18 cas ( 26,9 % ) .
+Six patientes ont été opérées après chimiothérapie première , soit pour des tumeurs évoluées , soit dans le but d' un traitement conservateur .
+Elles ont toutes eu un traitement radical .
+À l' étude anatomopathologique , le carcinome canalaire infiltrant était prédominant ( 68 % ) .
+Il était associé à un carcinome intracanalaire dans 25 % des cas .
+Le carcinome lobulaire infiltrant ne représentait que 1,4 % .
+Il s' agissait de tumeurs de grade SBR II dans 62,9 % des cas et SBR III dans ( 37 % ) .
+Le curage axillaire était négatif ( N - ) dans 45 % des cas et positif ( N+ ) dans 55 % des cas ( avec plus de trois ganglions atteints dans 31 % ) .
+Il y avait des récepteurs d' estrogène dans 47,7 % des cas et des récepteurs de la progestérone dans 63,6 % .
+Tous ces critères n' étaient pas différents chez les femmes plus âgées .
+Une radiothérapie adjuvante a été délivrée chez 58 patientes ( 86,6 % ) .
+Quatre-vingt-dix-sept pour cent des patientes ont reçu la totalité de la chimiothérapie adjuvante : FEC50 ( 29 cas ) , FEC60 ( 19 cas ) , FEC75 ( un cas ) , FEC100 ( 11 cas ) , AC ( un cas ) , CMF ( deux cas ) , TAC ( un cas ) .
+Trente-six patientes ont eu une hormonothérapie adjuvante , par tamoxifène seul ( 11 cas ) , irradiation seule ( 15 cas ) , tamoxifène associé à une irradiation ( dix cas ) .
+La probabilité de survie globale à cinq ans était de 57 % tous stades confondus et de 66 % en l' absence de métastases à distance .
+Full-size image ( 6K )
+Fig. 1. Survie globale des patientes âgées de moins 35 ans .
+Fig. 1. Overall survival in patients aged less than 35 years .
+View Within Article
+Trente-quatre tumeurs ont rechuté après en moyenne 14 mois , il s' agissait d' une récidive locale isolée chez une patiente , d' une récidive locale associée à des métastases chez six patientes , de métastases à distance chez 24 patientes et d' une récidive locale controlatérale chez quatre patientes .
+Chez les patientes plus âgées , le taux de rechute était comparable .
+Cependant , nous avons observé un taux plus élevé de récidive après traitement conservateur chez les patientes âgées de moins de 35 ans ( 22 contre 7 % ) .
+La durée médiane de survie après traitement de rattrapage ( chirurgie , chimiothérapie , radiothérapie et hormonothérapie ) était de six mois chez les femmes âgées de moins de 35 ans et de 14 mois dans le second groupe .
+3.3. Facteurs pronostiques
+Nous avons étudié pour le groupe des femmes jeunes âgées de moins de 35 ans , en analyse unifactorielle l' influence des facteurs suivants sur la survie globale : - taille tumorale clinique ;
+- taille histologique ;
+- statut ganglionnaire ( N - ou N+ ) ;
+- le nombre de ganglions atteints ( supérieur ou inférieur à 3 ) ;
+- grade SBR ;
+- état des récepteurs hormonaux ;
+- type de chirurgie ( conservatrice ou radicale ) .
+Les facteurs défavorables étaient : - les tailles tumorales clinique et histologique ;
+- l' atteinte ganglionnaire axillaire et l' absence de récepteurs d' estrogènes .
+Tableau 4.
+Étude comparative de la survie globale en fonction des différents facteurs pronostiques des 72 patientes jeunes âgées de moins 35 ans
+Table 4
+Comparative study of overall survival according to the different prognostic factors of the 72 young patients aged less than 35 years
+Taux de survie globale à cinq ans ( % ) p Taille tumorale clinique T1T2740,01 T3T434 Taille tumorale histologique T ou = 3 cm700,04 3 cm T 5 cm67 T 5 cm44 Statut ganglionnaire N - 760,006 N+46 Nombre de ganglions N+ N+ 3650,29 ( NS ) N+ 338 Grade SBR SBR II670,22 ( NS ) SBR III52,5 État des RE RE+760,003 RE - 44 État des RP RP+780,1 ( NS ) RP - 56 Type de chirurgie Radicale630,63 ( NS ) Conservatrice64
+Full-size table
+RE : récepteurs d' estrogène ; RP : récepteurs de la progestérone .
+View Within Article
+Aucun facteur n' était significatif en analyse multifactorielle .
+L' âge inférieur à 35 ans n' était pas un facteur pronostique de survie dans notre série , en_effet les taux respectifs de survie globale dans les deux groupes d' âge ( inférieur à 35 ans et entre 36 et 50 ans ) étaient de 66,3 et 65 % ( p = 0,72 ) [ Fig .
+2 ] et l' étude comparative de la survie globale entre les différents sous-groupes d' âge des patientes en fonction des autres facteurs pronostiques sus-cités n' a pas montré de différence significative .
+Full-size image ( 5K )
+Fig. 2. Survie globale en fonction de l' âge ( inférieur à 35 ans contre supérieur à 35 ans ) .
+Fig. 2. Overall survival according to age ( less than 35 years versus more than 35 years ) .
+View Within Article
+Tableau 5.
+Étude comparative de la survie globale en fonction de l' âge ( inférieur à 35 contre 36 à 50 ans ) dans les différents sous-groupes
+Table 5
+Comparative study of overall survival according to age ( less then 35 vs 36 to 50 years ) in the different sub-groups
+SG à cinq ans des patientes âgées de moins 35 ans ( % ) SG à cinq ans des patientes âgées de 36 à 50 ans ( % ) p T1T274750,77 ( NS ) T3T434480,14 ( NS ) N-76890,26 ( NS ) N+46510,2 ( NS ) SBR II67630,87 ( NS ) SBR III52,5730,39 ( NS ) RE +76750,56 ( NS ) RE -44630,22 ( NS ) Chirurgie radicale63630,45 ( NS ) Chirurgie conservatrice64680,87 ( NS )
+Full-size table
+RE : récepteurs d' estrogène ; RP : récepteurs de la progestérone .
+SG : survie globale .
+View Within Article
+4. Discussion4.1 .
+Discussion des critères épidémiocliniques
+La définition du cancer du sein de la femme jeune n' est pas univoque .
+Selon les différentes études , une femme « jeune » correspond à une femme de moins de 30 , 35 , 40 , 45 ans voire simplement non ménopausée  .
+Dans notre étude , nous avons opté pour une limite d' âge inférieure à 35 ans .
+La fréquence des cancers du sein de la femme âgée de moins de 35 ans varie de 2 à 24 %  .
+En Tunisie , cette fréquence est de 8,5 %  .
+Comme dans notre série , l' âge moyen dans la littérature est de 31 à 32 ans avec moins de 20 à 30 % des cas avant 30 ans et une limite inférieure entre 19 et 23 ans .
+L' âge le plus bas rapporté dans la littérature est de 14 ans  .
+En ce qui concerne les facteurs de risque , nous n' avons pas trouvé de différence entre les deux groupes de femmes .
+La majorité des études incriminent plus les facteurs génétiques et les événements de la vie génitale que chez les femmes plus âgées avec plus d' antécédents familiaux de cancer du sein  , plus de cancers liés essentiellement à la mutation du gène BRCA1  et une fréquence plus élevée de ménarche précoce et de nulliparité  .
+Les critères cliniques ne présentaient aucune particularité chez la femme jeune dans notre série .
+Ces constatations sont concordantes avec celles de plusieurs autres séries , sauf pour la taille tumorale étant observée dans plusieurs d' entre elles une fréquence plus élevée des tumeurs volumineuses  .
+La mammographie était moins sensible dans notre série pour les femmes âgées de moins de 35 ans .
+Ce fait a été déjà signalé par d' autres auteurs et est en rapport avec une densité mammaire plus importante .
+En comparant deux groupes de femmes âgées de moins et de plus 40 ans , Foxcroft_et_al.  , ont conclu que la mammographie était moins sensible , moins spécifique et peu fiable pour le diagnostic des tumeurs multifocales dans le groupe des femmes jeunes .
+Mais , malgré ce défaut de la mammographie ; il a mentionné que dans environ 10 % des cas avec échographie normale , la mammographie montrait une anomalie et elle représente le seul examen satisfaisant pour visualiser les petits foyers de microcalcifications .
+L' échographie mammaire est plus sensible que la mammographie chez les femmes jeunes selon plusieurs auteurs  .
+Cela a été confirmé par notre étude .
+Les tumeurs classées T2 étaient prédominantes chez les femmes jeunes dans plusieurs séries avec un taux variant de 40 à 50 %  .
+D' autres ont rapporté une proportion plus grande de tumeurs évoluées ( T3 et T4 ) par rapport aux femmes plus âgées  .
+Dans notre série , les formes T2 étaient prédominantes , sans différence avec le second groupe .
+Les caractéristiques de nos patientes jeunes étaient similaires à celles des femmes plus âgées en ce qui concerne le statut ganglionnaire clinique .
+Cela confirme les résultats des études de Rochefordière_et_al.  .
+Les formes M1 d'_emblée se voient dans 2,4 à 30 % des cas  .
+Dans notre série , ce taux était de 7 % .
+Le carcinome canalaire infiltrant est le type histologique le plus fréquent , aussi_bien pour les femmes jeunes que celles plus âgées .
+Plusieurs auteurs ont signalé la fréquence d' une composante intracanalaire diffuse associée chez les femmes jeunes , ce qui reflète une forme de croissance tumorale locale dépendante des hauts niveaux d' estrogènes circulants  .
+Chez nos patientes , le carcinome canalaire infiltrant était aussi fréquent dans les deux groupes et l' association à une composante intracanalaire n' était pas particulière aux femmes jeunes .
+Il est noté dans la_plupart des séries une plus grande fréquence des formes indifférenciées de hauts grades ( SBR II et III ) dans le groupe des femmes jeunes  .
+Dans notre série , nous avons observé une répartition équivalente des grades entre les deux groupes de patientes .
+Le taux d' atteinte ganglionnaire ( N+ ) est situé à 50 % dans la littérature  .
+Il n' est pas constamment supérieur à celui des femmes plus âgées  .
+Dans notre série , ce taux était de 55 % .
+Aucune différence du statut des récepteurs hormonaux n' a été retrouvée entre nos patientes dans les deux tranches d' âges étudiées .
+La plupart des études s' accordent à retrouver plus de tumeurs sans récepteurs hormonaux chez les femmes âgées de moins de 35 ans  .
+4.2. Discussion des résultats thérapeutiques et des facteurs pronostiques
+Les indications des traitements chirurgicaux chez la femme jeune ne diffèrent pas de celles chez la femme plus âgée .
+Dans plusieurs études , un taux de récidive locale supérieur a été observé chez la femme jeune après traitement conservateur  .
+Mathews_et_al.  , ont suggéré que des différences défavorables de stade et de biologie tumorale seraient responsables d' un taux élevé d' échec local chez les femmes jeunes et qu' il n' existerait pas de risque surajouté à la conservation mammaire à cet âge .
+De même , pour Kurtz_et_al.  , le risque de rechute locale chez la femme jeune semblait le fait , selon l' analyse multifactorielle , des caractéristiques particulières de la tumeur : proportion plus élevée de carcinome intracanalaire , plus haut grade et plus grande fréquence de mutations des gènes BRCA1 et BRCA2 .
+Il a été annoncé au congrès de l' American Society of Clinical Oncology de 2005 que même si la jeunesse était associée à un risque plus grand de récidive locale après traitement conservateur , cela ne doit pas conduire à exclure ce type de chirurgie dans cette population puisque aucune étude n' a montré un impact négatif sur la survie  .
+Dans notre étude , les femmes jeunes ont eu un taux plus grand de récidive locale après traitement conservateur mais la survie globale n' a pas été affectée par le type de chirurgie ( conservatrice ou radicale ) .
+La radiothérapie a les mêmes indications et les mêmes bénéfices chez les femmes jeunes que celles plus âgées .
+L' impact de l' irradiation locorégionale a été aussi_bien démontré en termes de taux de contrôle local ( diminution du risque de rechute de 70 % ) qu' en en termes de taux de survie globale , avec un bénéfice d' environ 10 % à dix ans  .
+La chimiothérapie adjuvante a porté un bénéfice certain chez les femmes non ménopausées , quel que soit le statut ganglionnaire ( diminution du risque de décès )  .
+Kroman_et_al.  , ont trouvé une augmentation significative du risque de décès par cancer chez des femmes de moins de 35 ans atteintes de cancer de pronostic favorable qui n' ont pas reçu de chimiothérapie adjuvante .
+Dans l' étude du MD Anderson Cancer Center , les femmes de moins de 30 ans , atteintes d' un cancer du sein de forme précoce , et qui n' ont pas eu de chimiothérapie adjuvante , avaient un taux de survie sans récidive nettement inférieur  .
+D' après le consensus de Saint-Gallen , en raison de l' âge seul , les cancers qui surviennent chez les femmes jeunes sont classés dans un groupe de haut à moyen risque et nécessitent un traitement adjuvant par chimiothérapie et ou hormonothérapie  .
+Toutes nos patientes ont eu une chimiothérapie adjuvante .
+L' association taxanes et anthracyclines semble supérieure pour les formes avec atteinte axillaire  .
+La chimiothérapie néoadjuvante permet la conservation du sein , avec probablement une amélioration de la probabilité de survie .
+Les protocoles à base de taxanes sont supérieurs aux anthracyclines  .
+L' association d' une castration à la chimiothérapie adjuvante chez les femmes atteintes de cancer porteur de récepteurs d' estrogène reste encore une question débattue .
+Pour certains , elle n' apporte rien par_rapport_à la chimiothérapie seule ; et pour d' autres , une chimiothérapie associée à une hormonothérapie par castration et tamoxifène est probablement la meilleure séquence thérapeutique  .
+L' efficacité du trastuzumab ( Herceptin ) en situation adjuvante chez les patientes atteintes de cancer surexprimant Her-2 a été démontrée avec des résultats hautement significatifs en faveur du bras trastuzumab , quel que soit l' âge  .
+Les récidives locales et les métastases surviennent plus fréquemment chez les femmes jeunes que chez les femmes plus âgées avec une médiane de survie qui est inférieure  .
+D' après Rochefrordiére_et_al.  , après cinq ans , le risque relatif de récidive décroît moins vite chez la femme jeune .
+Dans notre série , les taux de rechute n' étaient pas différents mais la survie des patientes jeunes en situation de rechute était inférieure .
+Le taux de survie globale à cinq ans de nos patientes jeunes était concordant à ceux des différentes séries , en moyenne de 70 %  .
+Dans notre série , les taux de survie globale et de survie sans récidive n' étaient pas statistiquement différents chez les patientes âgées de moins de 35 ans et celles âgées entre 35 et 50 ans .
+Ces mêmes constatations ont été rapportées par d' autres grandes séries dans lesquelles il n' y avait pas de différence significative en termes de survie globale ou de survie sans récidive entre les femmes jeunes âgées de moins de 30 ou 40 ans par rapport aux femmes plus âgées aussi_bien en analyse unifactorielle que multifactorielle  .
+Cependant , selon plusieurs autres auteurs , l' âge inférieur à 35 ans était un facteur pronostique péjoratif indépendant  .
+D' après les consensus de Saint-Gallen  , un âge inférieur à 35 ans suffit à lui seul de classer les tumeurs dans un groupe de haut risque de récidive .
+À taille tumorale égale et à_même grade SBR , le taux de survie globale de nos patientes âgées de moins de 35 ans était comparable à celui des femmes plus âgées .
+Cela rejoint les résultats publiés par Kothari  , qui n' a pas trouvé de différence en termes de survie chez les patientes âgées de moins de 35 ans et celles âgées entre 35 et 65 ans quels qu' étaient la taille tumorale et le grade histopronostique .
+En effet , ce dernier est rarement identifié comme facteur pronostique dans les modèles multifactoriels  .
+Au contraire , Maggard_et_al.  , en comparant un groupe de femmes âgées de moins de 35 ans à un second groupe de femmes plus âgées ( entre 50 - 55 ans ) ont trouvé que le taux de survie globale était significativement plus bas stade par stade ( sauf pour le stade IV ) .
+L' impact négatif du jeune âge a été également démontré par d' autres auteurs , quelle que soit la taille tumorale  .
+L' âge inférieur à 35 ans n' a pas influencé la survie globale chez nos patientes , quel que soit le statut ganglionnaire .
+La grande majorité des auteurs ont rapporté un taux de survie significativement plus bas chez les femmes de moins de 30 ou de 35 ans atteintes de cancer respectant les ganglions axillaires , cette différence s' effaçait en cas d' envahissement ganglionnaire et cela quel qu' était le nombre de ganglions envahis  , ce qui impliquait la puissance du facteur « N+ » .
+Comme dans la série de Bobin_et_al.  , le taux de survie globale de nos patientes ne dépendait pas du statut hormonal , qu' il s' agisse des récepteurs d' estrogène ou de la progestérone .
+En revanche , dans l' étude du South-West Oncology Group  , l' âge jeune inférieur à 35 ans affectait péjorativement la survie globale uniquement en cas de présence de récepteurs d' estrogène .
+5. Conclusion
+Le cancer du sein chez nos patientes jeunes ne semble pas différent de celui des femmes plus âgées , aussi_bien dans sa présentation clinique que dans son évolution .
+Les conclusions des différents auteurs sont divergentes mais plaident plutôt en_faveur_de formes plus évoluées et de pronostic plus défavorable que chez les femmes plus âgées .
+Remerciements
+Pr Eric Lartigau chef du département universitaire de radiothérapie , centre Oscar-Lambret

@@ -1,0 +1,31 @@
+Il s' agit d' un patient né en 1938 chez qui un diagnostic d' adénocarcinome mammaire infiltrant avec envahissement ganglionnaire ( récepteurs hormonaux non dosés ) a été porté en 1982 .
+Ce patient a alors bénéficié d' une mastectomie radicale associée à une radiothérapie adjuvante sur les aires ganglionnaires et la paroi thoracique ainsi_qu' à une hormonothérapie par tamoxifène .
+Cette dernière a été poursuivie pendant deux ans avec une bonne tolérance hormis une diminution nette de la libido .
+En octobre 1997 , une récidive sur un mode métastatique est diagnostiquée avec des lésions pulmonaires parenchymateuses ( trois nodules accolés du lobe inférieur droit de 15 mm ) et des adénopathies médiastinales ( loge de Barety , la plus volumineuse mesurant 25 mm ) ainsi_qu' une adénopathie hilaire droite de 25 mm .
+L' histologie obtenue par biopsie ganglionnaire sous médiastinoscopie est compatible avec une origine mammaire , les récepteurs hormonaux recherchés par technique d' immunohistochimie sont positifs ( R0 : 80 % , RP : 60 - 70 % ) .
+Le CA 15 - 3 est à 118 U / ml ( N 30 ) .
+Une hormonothérapie par tamoxifène est mise en place , celle-ci permet initialement une régression partielle des images radiologiques et du CA 15 - 3 , puis une stabilisation ( persistance d' un nodule lobaire inférieur droit de 7 mm , régression complète des adénopathies , CA 15 - 3 , 52 U / ml ) .
+En juin 2000 ( 31 mois de traitement par tamoxifène ) , alors_que l' on ne retrouve plus d' adénopathies suspectes , de nouvelles lésions parenchymateuses apparaissent avec deux images nodulaires de 17 et 13 mm , de topographie sous-pleurale au niveau du lobe moyen et parahilaire au niveau du lobe inférieur droit .
+Le CA 15 - 3 est à 105 U / ml .
+Une deuxième ligne d' hormonothérapie par létrozole est donc décidée .
+Un an plus_tard , on constate une normalisation du scanner thoracique et du CA 15 - 3 ( 18 U / ml ) : le patient est mis en rémission complète .
+Cette dernière se maintient depuis aot 2001 .
+La tolérance du traitement est par_ailleurs excellente , en_particulier sur le plan sexuel avec une libido conservée et une activité normale .
+2. Discussion
+Le cancer du sein chez l' homme est une affection rare ( 0,8 % des cancers mammaires )  .
+Son étiopathogénie est encore mal connue mais semblerait résulter d' un déséquilibre de la balance hormonale androgènes / estrogènes  .
+La positivité des récepteurs hormonaux est très fréquente : 75 à 80 % de positivité pour les récepteurs aux estrogènes et à la progestérone  .
+Le traitement de la tumeur primitive diffère peu de celui de la femme , comportant le_plus_souvent une mammectomie de type Patey suivie d' une radiothérapie adjuvante ( paroi thoracique et aires ganglionnaires ) qui améliore le contrôle local sans bénéfice sur la survie globale  .
+Une hormonothérapie adjuvante par tamoxifène est souvent prescrite si les récepteurs hormonaux sont positifs  .
+Les indications de chimiothérapie adjuvante comportant une anthracycline sont les mêmes que chez la femme  .
+Toutefois , compte tenu de la rareté de cette pathologie , aucune étude randomisée n' a été menée pour évaluer le bénéfice de ces traitements .
+En phase métastatique , l' hormonothérapie est le traitement de première intention , la chimiothérapie est ainsi réservée aux cas d' hormonorésistance  .
+Plusieurs armes thérapeutiques sont dans ce cadre disponibles : anti-estrogènes , inhibiteur de l' aromatase , anti-androgène , orchidectomie , analogue de la LHRH  .
+C' est encore le tamoxifène qui est le_plus_souvent utilisé en première ligne  .
+En revanche , peu de données existent sur l' efficacité des inhibiteurs de l' aromatase dans cette indication .
+En effet , l' origine des estrogènes chez l' homme est double : - sécrétion par les cellules de Leydig ( 20 - 25 % ) ; - aromatisation des androgènes au niveau des surrénales ( 75 - 80 % ) .
+En théorie , les inhibiteurs de l' aromatase permettraient donc de supprimer la plus importante source d' estrogènes chez l' homme avec persistance néanmoins d' une sécrétion basale d' origine testiculaire .
+Ainsi , quelques cas de rémissions complètes d' une durée variant de 7 à 14 mois ont été rapportés avec l' aminoglutéthimide , inhibiteur de l' aromatase de première génération dit non sélectif car inhibant également la sécrétion de corticostéroïdes ( d' où la nécessité d' une supplémentation ) , chez des patients dont certains ont été préalablement orchidectomisés [ 4 , 7 and 8 ] .
+Concernant les inhibiteurs de l' aromatase de troisième génération , spécifique , et donc sans effet sur l' axe corticotrope , qui ont démontré leur bénéfice dans le cancer du sein métastatique de la femme ménopausée , seule une série de cinq patients traités par anastrozole a été récemment rapportée avec trois cas de stabilisation de la maladie  .
+Nous rapportons le premier cas de réponse complète obtenue grâce_à un anti-aromatase de troisième génération .
+Cette observation souligne donc le bénéfice potentiel de ce type d' hormonothérapie dans le cancer métastatique du sein chez l' homme à_la_fois en termes d' efficacité et de tolérance , notamment sur le plan sexuel

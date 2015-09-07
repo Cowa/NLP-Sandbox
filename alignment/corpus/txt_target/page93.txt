@@ -1,0 +1,89 @@
+Breast cancer is relatively rare in poor nations , but form part of a group of malignancies that account for approximately one third of nonlung cancer deaths in rich nations  .
+Diet , demographics , early menarche , childlessness , timing and length of exposure to hormones / chemicals may account for some of the risk factors contributing to this disparity  .
+Effective management encompasses the need to understand the multi-factorial nature of breast cancer in order to accomplish prevention or improve treatment outcomes and patient quality of life at every stage of the disease .
+The fact that 40% of women still succumb to breast cancer underscores the need to identify all the disease markers ( e.g. genetic and epigenetic changes that regulate mammary epithelial cell proliferation )  .
+For the purposes of infectious agent-disease associations , viral proto-oncogenes have been omitted from this paper ( the interested reader is referred to Cairns for an overview  ) .
+Instead , the link between inflammation and malignancies is explored in order to examine the potential roles of infectious agents in disease etiology and treatment .
+Virchow first postulated in 1863 that cancer originated at chronic sites of inflammation , based on the premise that certain irritants enhanced cell proliferation  .
+A growing body of clinical and experimental data implicate viruses as infectious irritants or associated with 15 - 20% of human cancers , including possibly breast cancer  .
+The relationship of other infectious agents , notably microbes , to breast cancer remains vague even though such a relationship has been established for a number of chronic diseases  .
+Hypothesis .
+Breast cancer management is identical to that of other cancers in terms of the need to understand risk factors , alleviate treatment side-effects and improve outcomes , including the prevention of cancer recurrence .
+Agents that are capable of evading the immune system for long periods of time could promote a chronic inflammatory response that may increase the likelihood of cancer and / or promote tumor metastases .
+The correlation between cause and effect becomes blurred when considering criteria that may be suitable to label certain viruses and microbes as oncogenic infectious agents .
+When the association of an infectious agent with cancer is less than 100% , the question arises whether such an association is significant proof of causality .
+Ubiquitous or opportunistic infectious agents may further complicate efforts to pinpoint an association of microbes with cancer .
+However , identification of lesser or indirect associations may aid the treatment of patient subsets e.g. the link between persistent hepatitis B virus infection and the increased risk of liver cancer  and possible connections between human mammary tumor virus and breast cancer  .
+Microbes have been associated with a number of chronic diseases  but are under-reported potential oncogenic infectious agents .
+Accurate detection may be one reason for the paucity of literature reports .
+Before one establishes an association with a disease , there has to be convincing evidence that the infectious agent is actually present in the tumor to induce a local response or was present at an earlier stage of the disease , perhaps priming the immune response for the onset of cancer or promoting metastases .
+In addition , any putative correlation between microbes and cancer has to be based on an understanding of all the features of a microbe useful for identification and examination of a local or distal oncogenic response e.g. nucleic acids , bacterial lipopolysaccharides , dead or viable but non cultivable microbes as well as strain variants that may evade immune defenses and therapies .
+Implicit in any cancer-microbe hypothesis is the assumption that there is a link between microbes / microbial components and cancer onset as well as progression .
+The evidence for a cancer-microbe association is stronger for gastric and colonic neoplasms  than for breast malignancies .
+The first part of this paper focuses on improved techniques developed in other studies that could help to confirm or refute the case for an association between microbes and breast cancer .
+The second part reviews novel microbial adjuvant therapies that are also of relevance to breast cancer treatment .
+Finding the cancer microbes .
+When normal cellular proliferation programs go awry , the result is cancer .
+The disease is usually age-dependent and may involve exposure to hormones / carcinogens at critical time points or over the course of an entire lifespan .
+If one adopts Virchow 's viewpoint of cancer as also being a disease of chronic inflammation , then an exploration of host-microbial interactions is warranted in order to fully understand breast cancer etiology .
+Microbes outnumber human cells by at least ten to one in a healthy person  and play important , but largely unexplored roles in health maintenance and disease .
+The consistent association of Helicobacter pylori and gastric cancer provides direct evidence of a role for certain microbes as oncogenic infectious agents  .
+What is the evidence that other microbes , strain variants or microbial components are even present in tumors ?
+Molecular analysis using 16s rDNA sequences has enabled the sensitive detection and identification of numerous microorganisms in prostate cancer  .
+In the case of breast cancer , molecular methods have revealed candidate endogenous control genes  as well as an association of a human mammary tumor virus with the disease  .
+Molecular documentation of microbes in matched normal and breast cancer tissues will be important in establishing a connection between the disease and specific organisms , microbial components , strain variants or shifts in microbial distribution .
+Are strain variants or mutants an unknown factor in breast cancer etiology ?
+Mutants found in association with endocarditis , cystic fibrosis and other infections form colonies one tenth the size of their wild type counterparts , are resistant to antibiotics and have certain nutritional or auxotrophic requirements  .
+In the case of cancer , cell-wall deficient strain variants or L-form microbes have been identified in association with breast tumors ( see The Cancer Microbe and other texts  ) .
+These osmosensitive microbial variants are of medical relevance because they persist after antibiotic treatments and could play a role in relapsing infections  .
+The L-form microbe identification in tumors has been called into question , perhaps because many researchers did not look for any association or thought that acid-fast stained tumor biopsies used in earlier studies were revealing artifacts  .
+The acid-fast stain is typically used to detect tubercular infections in smears / biopsies and positive identifications are made based on microbial retention of carbol fuchsin in the presence of acid-alcohol .
+Acid-fast stains are useful in pinpointing breast tuberculosis ( mycobacteria have a very thick cell wall )  , but by itself may not be convincing identification of L-form microbes in tumor biopsies .
+Recent immunohistochemical and electron microscopy evidence have provided more definitive proof that L-form microbes are present in chronic gastritis and other disease model systems  .
+Historical experiments have also shown that micrococci obtained from breast tumors and injected into test subjects could induce the disease in some cases  .
+Although earlier L-form-microbe-cancer studies had included cultivation  , other researchers found unstable L-form microbes difficult in general to cultivate on agar plates unless special conditions were used  .
+Cultivation remains the gold standard for confirming microbial infection , even though only 1 - 10% of microbes can be grown on known microbiological media  .
+Two studies may enable a genetic analysis of the L-form cancer microbes .
+In 1958 , Lederberg and St .
+Clair showed that L-forms of Escherichia coli K12 were auxotrophs and could readily be cultivated by penicillin selection and growth in the presence of a microbial lysate consisting mainly of the peptidoglycan cross-linking amino acid , diaminopimelic acid  .
+Almost fifty years later , Joselau-Petit et al. expanded upon these findings by showing that unstable E. coli L-forms were not cell-wall deficient , but in fact contained about 7% of wild type peptidoglycan  .
+Efficient propagation of L-forms required the peptidoglycan precursors : d-glutamate , diaminopimelic acid and MurA , the enzyme that catalyzes synthesis of the muramic acid side chain  .
+Their improved method for L-form isolation could be expanded to all cultivable microbes .
+A systematic evaluation could then be made in model systems as to whether L-forms are oncogenic infectious agents of a different class than other microbes / microbial components or the recently characterized human mammary tumor virus  .
+Tantalizing new evidence has emerged that microbes could also promote distal oncogenic responses .
+Pathogenic gut microbes have been associated with extra-intestinal tumor development in the breast  .
+The authors of a recent study observed elevated levels of a known breast cancer metastatic marker , TNF- , in Helicobacter hepaticus-infected mice .
+Increased levels of this proinflammatory cytokine have also been observed in mice with other cancers and in human patients with advanced breast cancer  .
+Although the exact mechanism by which gut bacteria triggered inflammation and induced extra-intestinal tumors remain unclear , this result points to a new causative agent of breast cancer and correlates with separate findings that anti-inflammatory drugs and lymphocytes could reduce the invasive pathology of the disease  .
+Clues to understanding host-microbe interactions and improving treatment .
+In vitro studies of L-form and other microbes as well as microscopic assessments of the presence or absence of microbes inside tumors are necessary steps for evaluating any role that these infectious agents may have in breast cancer .
+It is possible that chronic microbial infection - involving adherence , invasion , replication and persistence - may contribute to a host immune response that exacerbates the disease in patient subsets .
+Such a response may involve an increase in tumor-associated macrophages which are known to play important roles in breast cancer onset and progression  .
+Alternatively , microbial products such as lipopolysaccharides , DNA and RNA could condition the immune response and alter the probability of cancer .
+Unlike H. pylori and other microbes that may be associated with cancer , L-form microbes are regarded as stealth pathogens because they are associated with latent , atypical or chronic infection and are unresponsive to antibiotic treatment  . E. coli L-forms are known to stimulate the number of peritoneal macrophages in a lung cancer model system  .
+Putative L-form breast cancer microbes may well stimulate tumor-associated macrophages in a similar manner .
+What would be the consequence of such a stimulation ?
+Elevated macrophages may produce free radicals that could cause cellular damage .
+On the other hand , a recent study showing the persistence of L-form microbes inside and outside phagocyte cells  provide corroborative support to the idea that the immune system of some patients may be compromised with respect to breast cancer microbial variants .
+Microbes in breast cancer treatment .
+On the flip side , microbes may be of benefit during breast cancer treatment .
+Chemotherapy-induced nausea , vomiting and diarrhea are adverse events associated with for e.g. continuous five fluorouracil-treatment of advanced breast cancer .
+Severe gastrointestinal side-effects may lead to dose reduction or therapy cessation with adverse consequences for the patient .
+In clinical trials , Lactobacillus rhamnosus GG and fiber supplementation have significantly reduced gastrointestinal side-effects associated with 5 fluorouracil-treatment of colorectal cancer  .
+Similar probiotic adjuvant regimens may provide natural alternatives to pharmaceutical antiemetic therapy currently being used in conjunction with the chemotherapy of breast cancer .
+In addition to palliation of symptoms , there is renewed interest in microbes to eradicate breast and other tumors .
+William Coley , in the late 1800s , demonstrated the efficacy of killed bacterial vaccines in destroying tumor cells in certain patients with bone and soft tissue sarcomas  .
+Because of the immunological dependence of endotoxin therapy and the fact that patients entering clinical trials had previously been subjected to radiotherapy and / or chemotherapy ( with known immunological side-effects ) , the outcomes of later cancer vaccine studies proved disappointing and this approach was abandoned  .
+The recent discovery that anaerobic microbes preferentially colonize hypoxic regions of tumors and cause cell lysis , may provide a novel 21st century twist and a means of improving upon Coley 's toxins .
+Vogelstein demonstrated that Clostridium novyei depleted of its lethal toxin killed viable tumor cells when administered to mice  .
+Others have shown that the anaerobic microbe , Bifidobacterium longum grew in the hypoxic regions of solid tumors  .
+In addition , Cheong et al. found optimal efficacy of anaerobic microbial therapy when used in combination with chemotherapy  .
+The latter group showed that intravenous injection of mice with C. noveyi spores before treatment with a doxorubicin derivative , Doxil , caused enhanced tumor shrinkage compared with using either agent alone .
+A liposomase was identified as the key enzyme responsible for improved treatment results from combination therapy .
+Extrapolating these findings to humans may be limited if the microbial components are immunogenic .
+Nevertheless , the opportunity to selectively deliver a one - two knockout punch to tumors using microbial components and specialized vector-delivery systems represents a powerful addition to the anti-cancer arsenal .
+Acknowledgments .
+Drs .
+D.S. Thaler , D. Davis and A. Cantwell are thanked for their insights and encouragement .
+This paper is dedicated in memory of Professor Joshua Lederberg .
+Z.N. and this work have been supported by a grant from the Sloan Foundation .

@@ -1,0 +1,107 @@
+Despite considerable attention and research focus , breast cancer remains the most common cancer among women of all ethnic backgrounds and one of the two leading causes of cancer deaths among U.S. women ( 1 ) .
+Numerous studies have shown that overall breast cancer incidence is higher for white women than for African American or Hispanic women , but that the two latter groups are disadvantaged with respect to stage at diagnosis and survival ( 2 ) and ( 3 ) .
+Recent studies have linked neighborhood indicators of poverty and disadvantage to differences in stage at diagnosis , with individuals living in low socioeconomic status ( SES ) areas having an increased probability of late-stage diagnosis ( 2 ) , ( 4 ) and ( 5 ) .
+Individual level data on characteristics such as income or education are often not available for population-based samples , such as cancer registry data .
+Thus , area level indicators of SES are often used in predictive models examining the relationship between SES and stage of cancer diagnosis .
+Most studies examining links between neighborhood SES and health are cross-sectional .
+However , recent changes in the makeup of urban neighborhoods have raised questions about the assumption that areas of concentrated poverty are stable ( 6 ) .
+Between 1990 and 2000 , the total number of people living in neighborhoods where the poverty rate was 40% or higher ( a common definition of high-poverty neighborhoods ) decreased by 24% ( 7 ) .
+Two major factors contributed to this trend .
+First , incomes rose in many of the nation 's poorest urban areas , especially in the Midwest and the South ( 7 ) .
+Second , during the last two decades young professionals ( and some empty-nesters from the suburbs ) in many U.S. metropolitan areas , including Chicago , increasingly chose to live in the city center , a process loosely referred to as gentrification ( 8 ) .
+In addition , changes in public housing policies ( including the destruction of many large apartment buildings ) and increasing economic power among recent immigrants led to increased ethnic diversity in these and surrounding neighborhoods ( 9 ) and ( 10 ) .
+Despite the interest in neighborhood effects on health , virtually no studies have examined the impact of rapid neighborhood level social change on health outcomes .
+Change could have positive or negative effects ( 11 ) .
+For example , increases in neighborhood property values could lead to increased perceptions of safety and increased private and public investment ( 12 ) and ( 13 ) .
+This could decrease barriers to receiving health care ( e.g. , safety and transportation ) and increase the quality of life of those residents who can afford to take advantage of the changes .
+On the other hand , rapid social change may also be a source of stress for those individuals who are financially squeezed by increasing rents and property taxes and who become socially isolated as friends and family members leave the changing neighborhood ( 14 ) and ( 15 ) .
+Neighborhood social change could also disrupt access to healthcare services if alteration in designation as a medically underserved area ( MUA ) impacts the availability of clinic services .
+Using the Illinois State Cancer Registry ( ISCR ) data in conjunction with census tract level data , we examined the association between rapid residential area economic change and the likelihood of distant metastasis at diagnosis of breast cancer among women in the Chicago area .
+Method Study Population .
+The analysis employed breast cancer stage at diagnosis data from the ISCR ( 16 ) .
+Our analysis is based on 21,516 breast cancer cases diagnosed between 1994 and 2000 among women residing in Cook County , IL .
+ISCR data are estimated to be 97% to 100% complete for the years 1994 - 2000 based on the North American Association of Central Cancer Registry method ( 17 ) .
+Cancer registry records provided standardized information on age , race , Hispanic ethnicity , and Surveillance Epidemiology and End Results ( SEER ) general summary stage at diagnosis ( 18 ) .
+We excluded a small number of patients ( n = 287 , 2.1% ) not identified as non-Hispanic white , black , or Hispanic .
+In-situ cases or cases with unknown diagnostic stage ( 14% and 6.8% of all the reported cases , respectively ) were also excluded from the analysis .
+Demographic characteristics of the included cases are shown in Table 1. As an outcome variable , distant metastasis at diagnosis was coded 1 , and local and regional stage at diagnosis were coded 0. Cancer cases were geocoded by the cancer registry to the census block level using residential address at the time of diagnosis .
+Complete and valid address information was available for more than 98% of the Cook County breast cancer cases .
+Using this information , we coded each case to a Cook County census tract .
+Table 1. .
+Frequency Distribution of Variables Included in the Analysis .
+VariablesN% or mean ( SD ) Individual level ( N = 21,516 ) SEER stage at diagnosis ( % ) Local13,21161.4 Regional6,84231.8 Distant1,4636.8 Mean age ( yr ) 21,51662.43 ( 14.48 ) Race / Ethnicity ( % ) White15,51372.1 African American4,82022.4 Hispanic1,1625.4 Neighborhood ( tract ) level ( N = 1,137 ) Mean concentrated disadvantage1,1370.01 ( 0.92 ) Mean concentrated affluence1,1370.01 ( 0.95 ) Mean concentrated immigration1,1370.01 ( 0.91 ) Mean upward change1,1370.00 ( 0.83 )
+Full-size table .
+SD = standard deviation .
+View Within Article .
+Measurements .
+Neighborhood characteristics were measured using indicators from the 1990 and 2000 US Census Bureau summary tape files ( STF3 and SF3 , respectively ) ( 19 ) for Cook County , IL .
+We developed 3 scales to measure neighborhood characteristics using 1990 census data : concentrated disadvantage , concentrated affluence , and concentrated immigration , based on the work of Sampson , Morenoff , and Earls ( 20 ) .
+Concentrated disadvantage was defined as the percentage of families in the census tract with incomes below the poverty line , percentage of families receiving public assistance , percentage of persons unemployed , and percentage of female-headed households with children .
+Concentrated affluence was measured by percentage of families with incomes of $75,000 or more , percentage of adults with a college education or more , and percentage of the civilian labor force in professional and managerial occupations .
+Finally , the concentrated immigration scale was composed of the percent Hispanic among the population , percent foreign-born , and percent linguistically isolated households ( i.e. , percent of households lacking at least one member who speaks English well ) .
+Principal component analysis confirmed that the variables used for each scale were highly interrelated and loaded on a single factor .
+Following Sampson and colleagues ( 20 ) , we first calculated z scores for each variable ( in all census tracts in Cook County ) in each of the 3 scales and averaged them ( with equal weighting ) to create the scales .
+Each of the 3 scales ( Table 1 , bottom panel ) has a mean that is close to zero and a standard deviation that is close to one ; they deviate slightly because census tracts with no cases of female breast cancer between 1994 and 2000 were excluded from the multilevel analysis .
+A number of measures of neighborhood change have been proposed in the literature on gentrification in U.S. cities ( 15 ) .
+To establish change in SES between 1990 and 2000 , we considered 15 tract- level census variables .
+Principal component analysis revealed that only 3 loaded strongly on a single factor .
+Consequently , we assessed neighborhood change using a composite score of percent change between 1990 and 2000 in owner-occupied housing value , percent of the civilian labor force in professional and managerial occupations , and percent of adults with a college education .
+Factor loadings of these 3 variables were 0.78 , 0.86 and 0.87 , respectively .
+This scale score was calculated as the average of equally weighted z scores .
+Data Analysis .
+We utilized multilevel logistic regression to predict the log odds of distant metastasis at diagnosis , accounting for the nesting of women within census tracts , using HLM ( 21 ) .
+The two-level model consisted of 1990 compositional characteristics ( concentrated disadvantage , concentrated affluence , and concentrated immigration ) and neighborhood change ( 1990 - 2000 ) at the residential area level , and patient 's age and race / ethnicity at the individual level .
+Using this model we examined the effects of neighborhood change between 1990 and 2000 on the likelihood of distant metastasis at diagnosis of breast cancer , controlling for neighborhood socioeconomic and demographic characteristics in 1990 .
+Results .
+As shown in Table 2 , residential area socioeconomic upward change is significantly associated with the probability of distant metastasis at diagnosis of breast cancer .
+Specifically , for each unit increase ( about one standard deviation ) in the rate of neighborhood change , the odds of distant metastasis at diagnosis increases by 9% ( odds ratio [ OR ] = 1.09 , p .05 ) .
+Neighborhood compositional factors in 1990 were also related to distant metastasis at diagnosis .
+Greater concentrated disadvantage and concentrated immigration are associated with greater odds of distant metastasis at diagnosis , and neighborhood affluence is associated with reduced odds of distant metastasis at diagnosis .
+At the individual level , the odds of distant metastasis at diagnosis of breast cancer was positively associated with age ; it increased about 1% per year of age ( OR = 1.01 , p .01 ) .
+African Americans , compared with whites , were also more likely to have distant metastasis at diagnosis .
+In contrast , Hispanic women were less likely to have distant metastasis at diagnosis compared with white women .
+Table 2. .
+A Multilevel Logistic Regression Model of Neighborhood Upward Change and Distant Breast Cancer Stage Diagnosis 1994 - 2000 .
+Unstandardized coefficientStandard errorOdds ratio95% CIp Value Intercept2.550.030.08 ( 0.07 , 0.08 ) 0.001 Disadvantage0.210.051.23 ( 1.12 , 1.36 ) 0.001 Affluence0.150.040.86 ( 0.79 , 0.93 ) 0.001 Immigration0.100.041.11 ( 1.02 , 1.21 ) 0.020 Upward change0.090.041.09 ( 1.01 , 1.18 ) 0.029 Age0.010.0021.01 ( 1.01 , 1.02 ) 0.001 African American0.210.091.24 ( 1.03 , 1.48 ) 0.022 Hispanic0.330.150.71 ( 0.53 , 0.95 ) 0.019 .
+Full-size table .
+CI = confidence interval .
+View Within Article .
+Discussion .
+Results reveal that upward economic change in local areas , as measured by increases in owner-occupied property values , professional employment , and education among neighborhood residents , is associated with an increased risk of distant metastasis at diagnosis of breast cancer .
+Consistent with our ongoing research ( unpublished ) and previous studies , we found that level of neighborhood affluence and disadvantage are strongly related to distant metastasis at diagnosis of breast cancer ( 2 ) and ( 5 ) .
+The significant positive effects of affluent neighborhood SES might imply that betterment in the economic status of a residential area should lead to earlier diagnosis of breast cancer and a better chance for survival among neighborhood residents .
+However , our study shows that upward neighborhood SES change is actually associated with an increased risk of distant metastasis at diagnosis of breast cancer .
+It is possible that this effect could result from an influx of women at risk of distant metastasis at diagnosis into these improving areas ; however , we think this is unlikely .
+New neighborhood residents are likely to be younger , employed women with good healthcare coverage .
+Instead , it is more likely that the women with distant metastasis at diagnosis of breast cancer are long-standing residents of the neighborhood .
+Upward neighborhood economic change for these women may result in disruption of customary patterns of interaction with social networks , access to healthcare services , and resulting social isolation and concern about relocation to other unfamiliar , low socioeconomic areas .
+Stress and decreased social support resulting from neighborhood change may impact health via reductions in utilization of preventative health care , including cancer screening .
+Several studies have found that increased social ties or received support is related to increased mammography use ( 22 ) and ( 23 ) .
+Other studies have found more modest and / or insignificant relationships between indicators of social support and mammography use ( 24 ) and ( 25 ) .
+A recent study has shown that women with low income or education are even less likely to have a mammogram if they reside in a metropolitan statistical area with a higher overall level of education or income ( 26 ) .
+Decreased use of regular mammography and clinical breast exams could place women at risk for being diagnosed with more advanced breast cancer .
+In addition , upward neighborhood SES change may disrupt access to health care , particularly for poor women , through its impact on federally qualified health centers ( FQHCs ) and designation of a residential area as an MUA .
+Reductions in the percentage of residents living in poverty and the percentage of residents older than 65 years of age would be expected to directly affect these important federal designations .
+FQHCs located in formerly disadvantaged neighborhoods may struggle to provide services to their low-income clients who are increasingly geographically dispersed .
+To the extent that distant metastasis at diagnosis of breast cancer is related to differences in screening and / or access to care , our results may have public health policy implications , suggesting that cancer screening and follow-up resources should be directed to areas undergoing change .
+In terms of the debate among urban specialists on the effects of neighborhood change on health and well-being , these results suggest that neighborhood improvement may not lead to earlier diagnosis of breast cancer ; rather , the effects seem to be just the reverse .
+Our results are more consistent with the pessimistic speculations regarding the social effects of deconcentration of poverty of Galster ( 27 ) than the more optimistic views of Kingsley and Pettit ( 13 ) or Jargowsky ( 12 ) .
+However , it is important to note that we would expect that , eventually , economic betterment of census tracts should have a positive effect on the early diagnosis of breast cancer .
+Yet the process of upward neighborhood change has a temporary effect that puts women in these neighborhoods at a higher risk of late diagnosis than women in unchanged neighborhoods ; whether this effect is only temporary is an empirical finding deserving of further research .
+There are limitations to our findings .
+The greatest is that we do not have individual level data to measure each individual 's experience of neighborhood change .
+In particular , we do not know how long women lived in their residential area prior to their breast cancer diagnosis and hence how long they had been exposed to the neighborhood environment .
+These findings are also based on data from Chicago ( an urban area with a particularly large black-white differential in breast cancer survival ) and thus may not be generalizable to other cities .
+We are replicating this analysis in collaboration with researchers at the Centers for Population Health and Health Disparities at Tufts University ( Boston area ) , University of Pennsylvania ( Philadelphia area ) , Wayne State University ( Detroit area ) , and the RAND Corporation ( Washington , D.C. and suburban Maryland and the Los Angeles area ) .
+These 5 metropolitan areas have varying racial , ethnic , and socioeconomic characteristics .
+Finally , the data available did not allow us to directly examine issues such as stress , social support , and changes in access to care in neighborhoods experiencing upward SES change to more clearly elucidate mechanisms by which change impacts cancer diagnosis .
+Future research should focus on understanding how neighborhood change impacts women across the SES continuum .
+It is probable that women with the fewest resources may be most impacted by neighborhood change .
+This is consistent with recent findings suggesting that individuals with low SES who live in areas with higher levels of SES do not receive health benefits from these areas and , in fact , exhibit higher levels of mortality ( 28 ) .
+It is also consistent with the literature ( 29 ) , ( 30 ) and ( 31 ) examining the effects of differentials in socioeconomic and other status measures on disease outcomes .
+While this literature has claimed that income inequality has negative effects on health , it has usually relied on comparisons of large areas ( such as U.S. states ) , not census tracts .
+Future research should also differentiate between endogenous ( improvement in the SES of long-term residents ) and exogenous ( improvements resulting from the higher SES of new residents ) change when examining health impacts .
+This research was funded by the National Cancer Institute ( P-50 CA106743 , to R. Warnecke , PI ) .
+The cancer incidence data used in this study were supplied by the Illinois Department of Public Health .
+The Department specifically disclaims responsibility for any analyses , interpretations , or conclusions .
+Our thanks to Kevin L. James and Mayumi Saegusa for their help in preparing the census data ; Philip Nyden gave us valuable advice on processes of social change in Cook County .

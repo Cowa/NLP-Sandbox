@@ -1,0 +1,190 @@
+Breast-conserving surgery is currently the favored standard of care in primary management of patients with early breast cancer .
+Breast conservation techniques demonstrate similar survival rates when compared to mastectomy ; however , these surgeries have demonstrated higher levels of local recurrence than radical surgery.1 Local recurrence after breast conservative surgery is most frequent in patients without radiotherapy  and usually occurs in the tumor bed,  suggesting that residual disease may remain after the primary treatment .
+The breast surgical procedures are usually based on breast palpation , mammography , ultrasound and , more recently , magnetic resonance imaging ( MRI ) .
+Since all these methods may underestimate the real extent of the disease , the ability to distinguish malignant tissue from normal tissue has become a challenge to clinicians.5 Resection margin evaluation has become an important method to assess the local cancer control ; however , due to the high multifocality of breast cancer,6 a tumor-free margin does not necessarily indicate that the remaining breast tissues are cancer-cell free. 
+99mTc-sestamibi is the most commonly used radiopharmaceutical for the detection of breast cancer and was the first to be approved by the Food and Drug Administration ( FDA ) for scintimammography .
+The drug has an affinity for cancer cells , probably due to its high metabolism and mitochondrial concentration .
+Thus , scintimammography with 99mTc-sestamibi has shown an overall sensitivity of 85% and specificity of 89% in detecting breast cancer.9 In addition , it has been widely used for multifocal , bilateral10 and multicentric breast carcinoma detection.11 .
+Previous studies have demonstrated the use of 99mTc-sestamibi in breast cancer surgery to localize occult breast carcinoma  and to guide biopsies.14 Since 99mTc-sestamibi uptake is higher in cancer cells than breast normal cells , it may be used as a radioguide in breast cancer surgeries .
+Thus , radioguided surgery using intravenous 99mTc-sestamibi , associated with breast magnetic resonance imaging ( MRI ) , for breast cancer resection has been tested with success.15 MRI is a high definition image examination that has shown a good correlation with real tumor size16 and to be better than mammography , ultrasound and palpation in determining the tumor extent. 
+In this context , in order to achieve a more specific method to estimate the real extent of disease and reduce residual disease in breast cancer resection , we have developed a novel technique that we have entitled Radioguided Intraoperative Margins Evaluation ( RIME ) .
+Thus , the aim of this study was to assess whether RIME is a feasible technique and whether it may help in breast cancer resection with free margins and minimizing residual disease .
+Patients and methods Patients selection .
+Twenty-three breast cancer women ( stage IIA - IIIA ) , scheduled for mastectomies , were consecutively selected from January 2005 to December 2005 at the Women 's Integral Healthcare Center of the University of Campinas .
+The following inclusion criteria were used : histologic diagnosis of invasive ductal carcinoma by core biopsy or incisional biopsy , unifocal and unilateral tumor on clinical examination , recent mammography ( at least 1 month ) .
+Patients with excisional biopsy , neoadjuvant chemotherapy , recurrent disease , presence of metallic material in the body and claustrophobia were excluded .
+The ethics committee of the institution above approved the study and all patients gave their informed consent .
+Scintimammography .
+Two to ten days before mastectomies all patients were submitted to scintimammography with 99mTc-sestamibi .
+The radiolabeling and quality control procedures for 99mTc-sestamibi ( Cardiolite , Bristol-Myers Squibb Medical Imaging , Inc. , Massachusetts , USA ) were carried out according to the manufacturer 's instructions .
+Briefly , scintimammographies were performed in a dual-head gamma camera ( Sopha DST , Sopha Medical Vision ) equipped with a low-energy , parallel hole collimator , with the patients placed in a prone position .
+A 740-MBq ( 20 mCi ) dose of 99mTc-sestamibi was injected into a pedal vein previously catheterized with a sterile plastic cannula , followed by 10 ml of 0.9% saline solution .
+Breast planar images with a matrix size of 256256 pixels were acquired in the lateral and posterior oblique views .
+Images of the chest and axillary regions were obtained in the anterior view .
+Dynamic images of the breast with tumor were obtained in a lateral view for 15 min after 99mTc-sestamibi administration .
+On the dynamic images , the regions of interest ( ROI ) were drawn around the tumor ( target ) and normal tissue ( background - BG ) and time - activity curves were generated .
+In each patient , the optimal time to perform radioguided surgery was estimated based on the time in which the target-to-background ratio was maximum .
+Images and curves were analyzed by photograph and direct reading on a computer screen using a double-blinded method , performed by two nuclear physicians .
+Full-size image ( 39K )
+Figure 1. Scintimammography with 99mTc-sestamibi , lateral view , using ROI technique in the tumor ( 1 ) and normal breast tissue ( 2 ) .
+View Within Article .
+Full-size image ( 21K )
+Figure 2. Time - activity curves for scintimammography with 99mTc-sestamibi .
+Line 1 represents the tumor ; line 2 represents normal breast tissue and line T shows the optimal time to begin RIME in this case .
+View Within Article .
+Magnetic resonance imaging .
+MRI was performed with a 2.0-T device ( Elscint Gyrex 2T Prestige , Elscint Ltd , Haifa , Israel ) on the same day of scintimammographies in 20 patients .
+Patients were positioned prone on an imaging table with breasts hanging freely into a cushioned recess containing dedicated breast coils .
+Imaging sequences were : T1 with fat saturation ( TE 16 , TR 730 , TA 160 , NEX 2 , 4 mm with no gap , 300240 matrix ) , T2 with fat saturation ( TE 96 , TR 6000 , TA 150 , NEX 2 , 4 mm with no gap , 300242 matrix ) and 3D gradient-echo sequence previous and at 1 , 2 , 5 and 6 min after contrast injection .
+A bolus of 0.1 mmol / kg gadolinium ( Viewgam , Bacon Laboratories S.A.I.C. , Bueno Aires , Argentina ) was intravenously injected into an upper limb vein after prior catheterization with a sterile plastic cannula .
+T1 and T2 sequences were performed in three planes ( coronal , sagittal and axial ) .
+A 3D gradient-echo sequence was performed in the sagittal plane .
+The size of any captured image corresponding to the tumor was estimated .
+Measurements in the three diameters were taken in millimeters and other foci of contrast uptake were evaluated as well as cancer involvement of the skin and deep fascia .
+All images were interpreted in a photograph film of selected views by the same radiologist .
+Full-size image ( 37K )
+Figure 3. Magnetic resonance imaging of the breast showing tumor before ( A ) and after contrast administration ( B ) in the 3D gradient-echo sequence .
+View Within Article .
+Radioguided Intraoperative Margins Evaluation ( RIME )
+At the time of surgery , after anesthesia , a bolus of 740 MBq 99mTc-sestamibi was intravenously injected , as described above .
+In each patient , the optimal time to begin radioguided surgery , estimated previously , was awaited .
+Firstly , the radiation count of the contralateral breast ( without cancer ) was measured with a hand-held gamma-detecting probe guidance ( Europrobe systems CE0459 , Eurorad , France ) and determined as BG .
+Subsequently , the radiation count of the tumor , always higher than normal tissue ( BG ) , was performed using the same procedures .
+Thereafter , a segmentectomy was performed using the gamma-probe to determine the resection margins .
+Starting from the tumor site , all margins were considered tumor-free when radiation count was equivalent to BG counts .
+Thus , the tumor was surgically excised .
+The presence of a residual radioactivity higher than BG in the tumor bed was checked , and the resection margin was enlarged if any residual radioactivity was detected .
+The hand-held gamma-probe was always angled away from the chest wall of the patient .
+The ex vivo counts of the segmentectomy and their margins were also identified with the hand-held gamma-probe .
+Finally , all patients were submitted to modified radical mastectomy , as originally planned .
+Sutures identified the margins of segmentectomy and residual breast .
+Both were sent for histopathological analyses .
+In the patients who realized MRI , we analyzed tumoral involvement of the skin or deep fascia and presence of other eventual small tumor foci .
+The MRI was also used to help the performance of RIME .
+Histopathology analysis .
+The tumor bed in the residual breast and margins of segmentectomy were marked with China ink .
+The surgical specimens were longitudinally cut into 10-mm-thick sections and a macroscopic examination was performed .
+All macroscopically suspicious areas and 3 to 4 more non-suspicious areas in each sector of the residual breast were selected for inclusion in paraffin blocks .
+All areas were identified to determine distance of tumor in the segmentectomy specimen or tumor bed in the residual breast specimen .
+The slices were stained with hematoxylin - eosin and examined under an optical microscope .
+Any ductal carcinoma was considered as a residual disease focus in the residual breast specimen .
+Statistical analysis .
+Mean , standard deviation , median and frequency were used to describe outcomes .
+The association between the presence of residual disease and margins status was analyzed using Fisher 's exact test .
+For continuous variables , Student 's t-test or Wilcoxon 's test was used .
+Data analysis was performed with SAS software version 8.2 ( SAS Institute Inc. , Cary , NC ) .
+A p-value 0.05 was considered statistically significant .
+Results RIME feasibility and margins status .
+Clinical data are shown in Table 1. The RIME technique was successfully performed in all patients and the principal tumor was excised by this technique .
+Nineteen patients had histologically free margins in the segmentectomy and 4 patients had focally involved margins .
+Three of the involved margins were in situ ductal carcinoma and 1 was an invasive ductal carcinoma .
+The mean of the minimal margin of segmentectomy was 4.8 mm ( median 3.0 mm , range 0 - 15 ) and there was no significant difference between patients with and without residual disease in their mean minimal margin values ( 3.4 mm vs 6.4 mm , p = 0.134 ) .
+Table 2 compares the presence and absence of residual disease with regard to margins status .
+Table 1. .
+Clinical characteristics of patients and tumors ( n = 23 )
+Characteristicsn Age ( years ) Mean SD51.3 11.7 Median51 Range29 - 70 .
+Committed breast Right12 Left11 .
+Site of tumor Upper outer quadrant9 Upper inner quadrant6 Lower outer quadrant4 Lower inner quadrant4 .
+Biopsy Core21 Incisional2 .
+Clinical tumor size ( mm ) Mean SD40.5 10.5 Median38.0 Range20 - 61 .
+Mammographic tumor size ( mm ) Mean SD33.3 10.4 Median34.0 Range13 - 55 .
+Clinical staging IIA10 IIB9 IIIA4 .
+Full-size table .
+View Within Article .
+Table 2. .
+Association between residual disease and margin status of segmentectomy using RIME .
+Margin statusResidual diseasep-Valuea AbsencePresence n%n% Positive00433.30.23 0 - 1 mm218.218.3 1 - 10 mm763.6650.0 10 mm218.218.3 .
+Total1110012100 .
+Full-size table .
+a Fisher 's exact test .
+View Within Article .
+Disease residual .
+The RIME promoted the absence of residual disease in 11 patients .
+Twenty patients presented residual disease , 6 in situ ductal carcinoma and 6 invasive ductal carcinoma .
+The mean size of residual disease was 3.67 mm ( median 3 mm , range 1 - 7 ) .
+After segmentectomy , 3 patients presented residual radioactivity higher than BG in the tumor bed and their resection margins were enlarged .
+The histopathological evaluation revealed non-palpable residual disease in all of the 3 patients .
+Table 3 demonstrates the distribution of the patients according to distance of residual disease foci to tumor bed .
+Table 3. .
+Distribution of patients according to distance of residual disease ( RD ) focus to tumor bed .
+Distance of RDa to tumor bedn%Accumulated Without RD1147.8 0.5 cm152.2 0.6 - 1 cm678.3 1.1 - 1.5 cm391.3 1.5 cm2100 .
+Total23 -
+Full-size table .
+a RD = residual disease .
+View Within Article .
+Tumor and segmentectomy size .
+The mean tumor size in MRI was 31.2 mm ( SD 10.4 , median 30.5 mm , range 16 - 54 , n = 20 ) .
+There was no association between the tumor size detected during clinical examination , mammography , MRI or histopathological analyses and presence of residual disease .
+On the other hand , the volume of segmentectomy realized by RIME in patients without residual disease was higher than in patients with residual disease ( 212.1 cm3 vs 115.5 cm3 , p = 0.02 , Table 4 ) .
+Table 4. .
+Association between tumor and segmentectomy sizes with presence of residual disease .
+Residual disease ( RD ) p-Value Absence ( n = 11 ) Presence ( n = 12 ) Mean SDMedianMean SDMedian Tumor size - larger diameter ( mm ) a Clinical exam42.8 12.244.038.3 8.636.00.31 Mammography30.6 10.830.035.7 9.836.00.25 MRIb35.4 11.432.027.0 7.826.00.07 Pathologic34.3 10.134.029.8 10.228.50.31 .
+Tumor volume ( cm3 ) c Mammography12.5 10.110.419.0 17.212.30.38 MRIb13.2 12.39.311.1 5.79.60.79 Pathologic14.9 13.68.29.3 9.75.60.14 .
+Segmentectomy Larger diameter ( mm ) a99.9 22.795.079.4 22.676.00.04 Volume ( cm3 ) c212.1 101.0167.6115.5 72.1106.30.02 .
+Full-size table .
+a Student 's t-test .
+b Twenty patients performed MRI , 10 absence of RD and 10 presence of RD .
+c Wilcoxon 's test .
+View Within Article .
+Scintimammography , radiation counts and pathology outcome .
+The intensity of uptake in scintimammography was high in 11 cases , moderate in 5 cases and mild in 7 cases .
+The median optimal time for performing the RIME technique was 5 min ( range 1 - 8 min ) .
+The radiation counts in the tumor ranged from 140 to 800 cps ( mean SD 286.7 137.1 , median 250 ) and , in the contralateral breast ( BG ) , ranged from 80 to 500 cps ( mean SD 156.1 95.4 , median 120 ) .
+The mean radiation counts background / tumor ratio was 2 ( median 1.62 , range 1.29 - 4 ) .
+All patients demonstrated focal 99mTc-sestamibi uptake during scintimammography .
+The median number of fragments examined under a microscope was 50 per patient ( range 33 - 83 ) , including the tumor and residual breast , and there were no differences in the number of fragments evaluated between the patients with and without residual disease ( p = 0.85 ) .
+Discussion .
+The persistence of cancer cells in residual breast after conservative surgery is undesirable and associated with local recurrences .
+Since the tumor bed is commonly the site of recurrence  and the local recurrence is most frequent when radiotherapy is omitted,  it has been suggested that residual disease remains after conservative surgery .
+At this moment , there are no diagnostic techniques to guide the complete excision of the cancer during conservative surgery .
+Some techniques , such as intraoperative ultrasound19 and intraoperative pathological monitorization of surgical margins,  have been studied to access the tumor margins during surgical procedures , since tumor-free margins have been associated with a better cancer local control .
+However , a tumor-free margin does not necessarily indicate absence of residual disease.  In the present study , 19 patients had tumor-free margins ; however , 8 of these individuals had residual disease .
+These results are in agreement with a previous study that showed presence of residual carcinoma in 43% of patients who had free margins after conservative surgery.23 .
+Fundamentals of RIME .
+Several studies have demonstrated that breast cancer is frequently a multifocal disease,  complicating the complete resection of cancer during breast-conserving surgery , due to the difficulty in identifying the small focus of carcinoma within normal tissue .
+Radioguided surgeries have become routine in breast cancer surgery with techniques such as sentinel lymph node biopsy and radioguided occult lesion localization ( ROLL ) being used .
+Some studies have employed radioguided surgery with intravenous injection of 99mTc-sestamibi for the breast , although their aims were to diagnose cancer.  RIME can help margin evaluation and attempt to find other carcinoma foci in residual breast , based on the higher metabolism in tumors than in normal breast .
+Therefore , the RIME technique employs the rationale that 99mTc-sestamibi has a higher affinity for tumor cells than normal breast tissues , allowing the differentiation between breast carcinoma and normal adjacent tissues under the guidance of a gamma-probe .
+Currently , this concept is also applied in parathyroid adenoma surgeries.25 The exact mechanism of 99mTc-sestamibi accumulation in tumor cells is not completely understood ; however , it seems to be associated with a high metabolic activity and a specific uptake in the mitochondria .
+Although 99mTc-sestamibi may theoretically access all tumor foci , our study showed that some small carcinoma foci were not detected by scintimammography and MRI .
+Unfortunately , since residual disease was found in some patients after RIME , our technique also presented drawbacks .
+However , the sizes of carcinoma residual foci were small ( mean 3.67 mm ) and , in half , were in situ ductal carcinoma .
+In agreement with the present investigation , some studies have also shown that tumors below 1 cm in diameter and carcinomas in situ are poorly detectable by scintimammography using 99mTc-sestamibi.26 The gamma-probe , probably , did not easily differentiate small carcinoma foci from normal tissue , due to their similarly low radiation counts .
+On the other hand , MRI is able to detect breast carcinomas of smaller than 1 cm,27 overcoming scintimammography limitations .
+Although 20 patients have performed MRI , we verified that one half of these presented residual disease .
+The role of MRI during RIME is important to evaluate .
+Apparently , MRI could be omitted from the technique ; however , evaluation of the involvement of the skin , deep fascia and other tumor foci that should be found with the gamma-probe , during RIME , was essential .
+Factors associated with residual disease .
+Veronesi et al.4 showed that the site of local recurrences in breast conservative surgery is 85% restricted in the resection area .
+These data are in accordance with Schnitt et al.3 who reported that the recurrence in the treated breast is most frequently near the primary tumor site .
+Although both studies suggest that residual disease remains close to the tumor bed , the distance of foci from the tumor bed is unknown .
+Holland et al.,6 using mastectomy specimens , found that carcinoma foci were placed at a distance 2 cm from the index tumor in 43% and 4 cm in 10% of cases .
+By means of RIME , we showed that the majority of foci were close to the tumor bed in patients with residual disease .
+Thus , after performing the RIME technique , if the margins were enlarged by about 1 cm , absence of residual disease could be obtained in 18 cases .
+Thus , if the margins were enlarged by about 1.5 cm , 21 patients would have remained without carcinoma in the residual breast and just 2 patients would have residual disease far from the margins .
+These 2 patients presented multicentric carcinoma ( carcinoma focus more than 5 cm from the tumor bed ) and the tumor foci were not identified by clinical examination , mammography , MRI or the RIME technique .
+In addition , since the foci of the residual carcinoma after RIME are small and localized close to the primary tumor , it is important to verify whether these could be treated with radiotherapy , mainly with a high boost dose of radiation .
+The margins resection status in conservative surgery has been considered as a predictor factor of tumor local recurrence in several studies,  suggesting that the margins are related to residual disease .
+However , in this study , the margins status , as well as tumor size , was not associated with the permanence of residual disease .
+Additionally , the tumor sizes , as measured during clinical examination , mammography , MRI and histopathologic examination were not statistically different between patients with and without residual disease in all diagnostic methods .
+Nevertheless , using RIME , the volume of segmentectomy was higher in patients without residual carcinoma .
+These results are consistent with the prior observations of the Milan trial II , which demonstrated a better local control of the disease when more extensive surgical resection was realized.29 .
+Methodological aspects .
+It is important to emphasize some of the aspects related to the methodology used in this study .
+Firstly , all patients had palpable tumors and , therefore , the resections could also be guided by clinician sense .
+In fact , RIME application in conservative surgeries for non-palpable cancers seems to be more interesting .
+However , patients with non-palpable cancer are usually submitted to conservative surgery and , for ethical reasons , these preliminary evaluations of the RIME effectiveness could not be carried out in these patients .
+Therefore , in order to determine and quantify residual disease , breast-conserving surgery was only simulated using RIME in patients with large tumors ( mean size by clinical exam 40.5 mm ) scheduled for mastectomies .
+Since a previous study demonstrated that the local recurrence rate increases with the increase in tumor size,30 it could be speculated that the frequency of residual disease could be lower if the selected patients had smaller tumors .
+In addition , residual diseases have been widely studied by histological analyses and the median number of fragments examined under a microscope is 50. Holland et al.,6 for example , studying multifocal disease , examined a mean of 20 fragments per patient .
+The high rate of residual disease observed in the current study could be related to our unusually meticulous histological evaluation .
+The radioactivity exposure to the surgeons during RIME operation was also observed , and has shown to be safe , similar to that occurring during exposure in sentinel lymph node mapping .
+Finally , since 11 patients presented left breast tumor , it was necessary to angle the probe away from the chest wall during RIME to avoid counts of 99mTc-sestamibi physiological uptake by the heart .
+Therefore , heart or liver physiological uptake did not influence radioguided surgery .
+Conclusion .
+This study shows that RIME is a feasible technique that could help tumor resection and free margins assessment .
+However , the RIME has not promoted complete breast cancer resection , since it seems to be limited to small foci tumor detection .
+Despite this , the current study presents attractive preliminary outcomes for helping breast surgery .
+Firstly , in 3 patients , RIME made residual disease detection possible after tumor removals , that were undetectable by clinical examinations and other techniques of margin management .
+In addition , the size and quantity of foci with residual disease after RIME utilization were reduced .
+Furthermore , RIME does not disturb the standard techniques of breast-conserving surgery and could be associated with intraoperative pathological margins evaluation.  Finally , further studies should be considered in order to refine RIME and to evaluate the relevance of these findings in breast-conserving surgery .

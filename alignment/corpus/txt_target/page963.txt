@@ -1,0 +1,267 @@
+Randomised trials of mammography screening ( figure 1 ) have shown reductions in mortality from breast cancer,1 but there are downsides to the process , including overdetection of breast cancer .
+Overdetection is the detection of cancer that would not have presented clinically during a woman 's lifetime ( and therefore would not be diagnosed in the absence of screening ) .
+Several studies have tried to quantify overdetection of invasive breast cancer with mammography screening and estimates vary widely .
+We need valid and precise estimates of the magnitude of overdetection attributable to mammography screening to inform public-health policy , clinical practice , and decision-making for women participating in screening .
+Although overdetection of both invasive cancer and ductal carcinoma in situ are possible , in this paper we focus on invasive breast cancer .
+Full-size image ( 62K )
+High-quality image ( 348K )
+Figure 1. Mammography screening has reduced deaths from breast cancer .
+AJ Photo / Science Photo Library .
+View Within Article .
+We did a systematic review of all papers with estimates of overdetection of invasive breast cancer in mammography screening to identify how , in what direction , and to what extent different study methods and biases might affect estimates of overdetection .
+Methods to estimate overdetection of invasive breast cancer by mammography screening .
+There are three broad approaches to the estimation of overdetection : the incidence-rate method , the cumulative-incidence method , and modelling approaches .
+The first two designs can be conceptualised as follows .
+Imagine a group of women who start screening and continue being screened biennially for 20 years , and a second group of women of the same age who are not screened over the same time period .
+Ideally , these groups would be formed by randomisation to ensure similarity of breast-cancer risk .
+Assuming similar underlying risks of breast cancer in these two groups , the effect of screening on incidence can be validly estimated by comparing the screened and unscreened groups in terms of average annual incidence or cumulative incidence ( figure 2 ) .
+Full-size image ( 62K )
+High-quality image ( 418K )
+Figure 2. Effect of biennial screening of women aged 50 - 68 years on incidence of invasive breast cancer in the absence of overdetection ( based on hypothetical data )
+All women who underwent screening did so in the same year .
+Incidence rates ( A ) and cumulative incidence ( B ) were higher in the screened population than in the unscreened population because of lead-time effect .
+Arrow shows incidence without screening plus incidence of prevalent cancers detected early by screening ( lead-time of prevalent cancers ) .
+Arrowhead shows incidence without screening plus incidence of incident cancers detected early by screening ( lead-time of incident cancers ) .
+View Within Article .
+In the absence of overdetection , the incidence in the screened and unscreened groups will be the same , once the effect of lead-timethe length of time diagnosis is advanced by screeningis accounted for .
+Figure 2A shows a large increase in incidence in the screened group when the first screening round occurs ( lead-time of prevalent cancers ) .
+This increase extends into the second and third screening rounds because of the less than perfect sensitivity of screening .
+Incidence at subsequent rounds is also increased by lead-time because cancers that might have presented clinically in the future are detected earlier by screening ( lead-time of incident cancers ) .
+Lead time therefore ensures that , on average , incidence rate in the screened group is higher than in the unscreened group .
+After screening stops at 68 years of age , a compensatory dip in incidence occurs in the screened group .
+This dip is because cancers that would have been diagnosed in these years have already been detected earlier by screening and so incidence appears lower for a few years .
+Figure 2A assumes biennial screening and that all screened women are screened in the same year .
+The sawtooth pattern is not seen in practice and the incidence at each age would be little higher in screened than unscreened women .
+Lead-time also ensures that cumulative incidence is typically higher in screened than in unscreened groups during the screening period ( figure 2B ) .
+Eventually , at some point in time after screening stops , the cumulative incidence of breast cancer in the screened and unscreened groups will equalise .
+Therefore a valid comparison of cumulative incidence in screened and unscreened groups should not be made until several years after screening stops .
+Incidence-rate method .
+Investigators can compare the average annual incidence of breast cancer in a specified age group over a certain period in screened women with that in unscreened women of the same age .
+When overdetection is not present ( figure 2 ) , the difference in incidence will be solely due to lead time .
+However , increased incidence in the screened group after adjustment for lead time shows overdetection ( figure 3 ) .
+Full-size image ( 63K )
+High-quality image ( 419K )
+Figure 3. Effect of biennial screening of women aged 50 - 68 years on incidence of invasive breast cancer in the presence of overdetection ( based on hypothetical data )
+All women who underwent screening did so in the same year .
+Incidence rates ( A ) and cumulative incidence ( B ) were higher in the screened population than in the unscreened population because of lead-time effect and overdetection .
+Arrow shows incidence without screening plus incidence of prevalent cancers detected early by screening ( lead-time of prevalent cancers ) plus incidence of overdetected prevalent cancers .
+Arrowhead shows incidence without screening plus incidence of incident cancers detected early by screening ( lead-time of incident cancers ) plus incidence of overdetected incident cancers .
+View Within Article .
+The incidence in screened women is simply observed in the screened population .
+The incidence rate in unscreened women can be observed , as in the control group of a randomised trial , or it can be estimated on the basis of the incidence before screening or in other populations not offered screening .
+Overdetection is any excess in incidence once lead-time is accounted for .
+Lead-time is accounted for by excluding the early screening rounds and comparing the incidence rate in screened women with the incidence rate in unscreened women once a screening programme is well established ( and therefore removing most of the lead-time due to early detection of prevalent cancers ) and by also including an adjustment for age-specific lead time ( and therefore accounting for lead-time of incident cancers ; figure 3 ) .
+This latter component of lead-time can be accounted for simply by comparing the incidence rate in screened women with that in unscreened women who are a few years older .
+Excluding the initial rounds will , however , also exclude prevalent cancers that were never destined to become clinically relevant ( figure 3 ) , and this approach will therefore produce lower estimates of overdetection , even if applied perfectly and without any of the biases described in this paper .
+Because of this intractable problem the cumulative-incidence method is , theoretically , the better method for the estimation of overdetection .
+Cumulative-incidence method .
+In this method the cumulative incidence among a group of women who are screened , for example , from age 50 years to 68 years is compared with the cumulative incidence in an unscreened group over the same time period .
+Because the incidence rate of breast cancer dips in the several years after screening stops due to the lead-time effect of screening ( figure 2 ) , the surveillance of breast cancers in both groups should continue for at least several years after screening ends .
+If there is no overdetection , the cumulative incidence after this time will be identical in the two groups .
+If there is overdetection due to screening there will be an excess of cases of breast cancer in the screened group compared with the unscreened group after this time ( figure 3 ) .
+As with the incidence-rate method , the cumulative incidence in the unscreened population can be observed or estimated .
+This method will include any overdetection associated with both prevalent cancers ( in initial screening rounds ) and incident cancers ( in subsequent rounds ) .
+For this reason the cumulative-incidence method is theoretically a more robust method for the estimation of overdetection than the incidence-rate method .
+Modelling of disease transition .
+Some investigators have used a third option based on modelling of disease transition .
+Models can range from simple , involving only a few disease states and transition probabilities , to complex , using many disease stages and states and many transitional probabilities ( eg , the computer programme MISCAN2 or other microsimulation models where the natural history of breast cancer is modelled ) .
+In all such modelling approaches there is a trade off between the complexity , transparency , and validity of the model and its results .
+For example , simpler models require fewer assumptions , have fewer data requirements , and may be more transparent ; however , their simplicity may lead to inadequate representations of the true data .
+Although complex models can more accurately capture true disease processes , they are generally much less transparent .
+Because of this lack of transparency , it is hard to assess whether they are prone to the biases discussed below .
+We therefore will only assess the incidence rate and cumulative-incidence method in this paper .
+Methodological issues and potential sources of bias in estimates of overdetection .
+Each method can be biased such that the estimates of overdetection can be too high or too low .
+There are optimum methods that should be used to address each of the following issues if bias in the estimation of overdetection is to be avoided ( table 1 ) .
+Table 1. .
+Methodological issues and biases affecting estimates of overdetection .
+Methodological issue or bias affecting estimates of overdetectionMethod ( s ) affectedEffect on estimate of overdetection if not correctedOptimum solution Different breast-cancer risk in screened and unscreened populationBothEstimate may be too high or too lowBreast cancer risk should be the same in screened and unscreened populations Low participation in screening group and high participation in non-screening groupBothEstimate too lowParticipation in screened population should be high ( 80% ) and screening in unscreened population should be low ( 20% ) Offering screening to the control group before or during follow-upBothEstimate too lowControl group should not be offered screening before or during long-term follow-up Inappropriate adjustment for lead-timeCumulative incidenceEstimate too highLong follow-up after last screen ( at least 5 years ) or a statistical or numerical adjustment for lead-time Incidence rateEstimate may be too high or too lowInitial screening rounds should be excluded and there should be a statistical or numerical adjustment for lead-time .
+Full-size table .
+View Within Article .
+Breast-cancer risk .
+Screened and unscreened populations should have the same underlying risk of breast cancer .
+This is best achieved by using data from randomised trials .
+If trial data are unavailable and observational data are used , adjustment for differences in underlying risk between screened and unscreened populations may be made on the basis of known risk factors .
+If data are derived from non-concurrent screened and unscreened populations , an adjustment for secular changes ( time trends ) in breast-cancer risk may also be needed , for example to deal with changes in breast cancer incidence that might occur due to increasing use of hormone replacement therapy .
+The estimate of overdetection might be either too high or too low , depending on the adjustments made .
+Participation in screening ( contamination of intervention and control groups )
+If fewer than 100% of the women in the population offered screening actually participate , or if some degree of screening occurs in the unscreened group , then the estimate of overdetection will be too low because of drop-ins to screening from the unscreened group , and drop-outs from screening in the screened group .
+If the unscreened ( control ) group is offered screening at the end of a trial or during an observational study , the incidence in the control group will be spuriously raised and the overdetection estimate will be too low .
+If the cumulative-incidence method is used , there should ideally be long follow-up after the last screen .
+If the control group is offered screening before or during this follow-up period , the estimate of overdetection will be too low .
+Consideration of lead-time .
+Inappropriate adjustment for lead-time can result in an estimate that is either too high or too low , depending on whether lead-time is underadjusted or overadjusted .
+If the cumulative-incidence method is used , adjustment for lead-time is not necessary if there is sufficient follow-up after the last screen ( for example , 5 years or more ) to allow for the decrease in incidence that is observed once screening stops .
+If there is little or no follow-up after the last screen , there will be lead-time bias that should be adjusted for with statistical methods , otherwise the estimate of overdetection will be too high .
+As noted above , if the incidence-rate method is used , the initial screening rounds should be excluded and adjustment for lead-time should be made to account for lead-time among incident cancers detected in subsequent screening rounds .
+Methods Search strategy and selection criteria .
+Primary research and review articles that attempted to estimate overdetection of invasive breast cancer by mammography screening published in English in peer-reviewed journals were eligible for inclusion in the systematic review .
+We restricted the review to papers that provided estimates of breast cancer incidence in screened and unscreened groups and from which we were able to assess whether , and to what extent , the results might have been affected by bias .
+We searched MEDLINE from 1980 to Dec 1 , 2006 , by exploding the MeSH term breast neoplasms .
+Additional words used for the text search were screening , overdiagnosis or over-diagnosis or overdetection or over-detection .
+This search strategy yielded 261 reports .
+We also searched reference lists of published reviews and primary studies ; this strategy yielded five additional reports .
+Study assessment and data extraction .
+One reviewer ( CB ) assessed all abstracts ( n=266 ) of the reports identified by the search ; 253 studies did not meet the inclusion criteria .
+For all 13 abstracts deemed possibly relevant , the full papers were independently reviewed by two of three reviewers to decide on inclusion ( CB and either NH or LI ) .
+Data on study design , source of screened and unscreened populations , time period of screening , participation in screening in the screened population and degree of screening in the unscreened population , duration of screening , duration of follow-up after screening ended , the method to calculate overdetection , and estimates of overdetection were extracted from each study by two of three reviewers ( CB , NH , KH ) independently .
+We also assessed presence of sources of bias ( table 1 ) that might have affected the reported estimates of overdetection .
+Differences were resolved by consensus or , if necessary , review by another reviewer ( LI ) .
+To facilitate comparison across studies we also defined a standard measure of overdetection , calculated as follows :
+Results .
+We included two reviews and six primary studies in our systematic review ( figure 4 ) .
+The two reviews provided estimates of overdetection using data from all of the eight3 or six of the eight4 published randomised controlled trials of mammography screening ( table 2 ) .
+Of the six primary studies , two studies reported two estimates each based on different data sources9 or different time periods.10 The remaining four primary studies reported one estimate of overdetection each , so eight estimates of overdetection were obtained in total from the six primary studies ( table 2 ) .
+Thus in total we obtained 22 estimates of overdetection from several ( some overlapping ) data sources .
+Full-size image ( 21K )
+High-quality image ( 172K )
+Figure 4. Study selection for inclusion in this review .
+View Within Article .
+Table 2. .
+Methods and data sources used by eight randomised controlled trials of mammography screening ( 22 estimates of overdetection )
+StudyStudy designPeriod of screeningRef Cumulative-incidence method ( six studies , 18 estimates ) Review3 MalmRCT1976 - 86 Canada 1RCT1980 - 85 Canada 2RCT1980 - 85 StockholmRCT1981 - 86 GothenburgRCT1982 - 91 Two CountyRCT1977 - 84 Health Insurance PlanRCT1963 - 70 EdinburghRCT1978 - 88 Review4 MalmRCT1976 - 86 Canada 1RCT1980 - 85 Canada 2RCT1980 - 85 StockholmRCT1981 - 86 GothenburgRCT1982 - 91 Two CountyRCT1977 - 84 Primary studies Zackrisson et al ( Sweden ) RCT1976 - 865 Peeters et al ( Netherlands ) Population-based programme1975 - 866 Paci et al ( Italy ) Population-based programme1990 - 997 Paci et al ( Italy ) Population-based programme1991 - 20018 Incidence-rate method ( two studies , four estimates ) Primary studies Zahl et al ( Sweden ) Population-based programme1986 - 20009 Zahl et al ( Norway ) Population-based programme1996 - 20009 Jonsson et al ( Sweden ) Population-based programme1986 - 200010 Jonsson et al ( Sweden ) Population-based programme1986 - 200010 .
+Full-size table .
+RCT=randomised controlled trial .
+View Within Article .
+Both reviews  and four of the primary studies  used the cumulative-incidence method .
+Two primary studies  applied the incidence-rate method ( table 2 ) .
+In all studies , the incidence rate or the cumulative incidence of invasive breast cancer in the screened populations was obtained from either the intervention group of a randomised trial or the population invited to a screening programme .
+Estimates of incidence in the unscreened populations were more complicated to obtain , and we used diverse methods : incidence in the control group of a randomised controlled trial;  incidence in a control population without a screening programme , during the same time period as screening was offered to another population , and with demonstrated similar underlying breast cancer risk;6 incidence in a control population , before implementation of a screening programme , with adjustment for changes in breast cancer incidence over time and different age distribution to adjust for a different underlying risk of breast cancer in the control and screened populations;10 and incidence in a control population , before implementation of a screening programme , without adjustment for changes in breast cancer incidence over time or different age distribution. 
+Investigators in seven studies  calculated overdetection as the incidence in the screened population divided by the incidence in the unscreened population ( relative risk ) .
+Moss3 calculated overdetection as the incidence in the screened population minus the incidence in the unscreened population ( absolute risk difference ) .
+Because of the variation in the calculation of overdetection estimates , we recalculated a standard estimate of overdetection from the data reported in each paper as described in the methods .
+In reporting our results , we focus on comparison of these standard estimates .
+Few studies used optimum methods for dealing with each of the methodological issues we identified , and therefore bias is common ( almost universal ) in the studies ( table 3 ) .
+We have tried to assess the possible direction of biases in the calculation of overdetection , but estimation of the net effect was commonly difficult if there were both upward and downward biases in the same study .
+Most commonly authors dealt poorly with lead-time : 16 of 22 overdetection estimates were affected .
+In many studies , bias created by non-participation in screening among screened populations and participation in screening among control populations was not acknowledged ( 14 of 22 estimates were affected ) .
+Table 3. .
+Presence of methodological issues and biases affecting estimates of overdetection in included studies .
+Methodological issue or bias affecting estimates of overdetectionNumber of affected estimates ( n=8 ) Number of affected estimates ( n=6 ) Number affected estimates reported in primary studiesTotal number of affected estimates Cumulative-incidence method ( n=4 ) Incidence-rate method ( n=4 ) Different breast-cancer risk in screened and unscreened population10247 of 22 Low participation in screening group and high participation in non- screening group534214 of 22 Offering screening to the control group before or during follow-up30003 of 22 Inappropriate adjustment for lead-time ( cumulative incidence ) 661NA13 of 18 Inappropriate adjustment for lead-time ( incidence rate ) NANANA33 of 4
+Full-size table .
+NA=not applicable .
+Data from reference 3. .
+Data from reference 4. .
+View Within Article .
+There are three estimates of overdetection based on data from the Malm trial ; Moss3 ( 236% ) , Gtzsche4 ( 323% ) , and Zackrisson and co-workers5 ( 7 - 8% ; table 4 ) .
+Clearly the estimates by Moss and Gtzsche are much higher .
+The main reason that their estimates seem higher might be that these authors did not adequately deal with lead-time : they did not use at least 5 years of follow-up data after screening ended , and they therefore needed to statistically adjust for lead-time but did not do so .
+As a result , their estimates are biased upwards .
+Gtzsche 's estimate is also higher because he included both invasive cancers and ductal carcinoma in situ ( DCIS ) .
+Zackrisson and co-workers calculated overdetection on the basis of incidence many years after screening in the intervention group ended and therefore adequately accounted for lead-time ; therefore , of the three , this is the least biased estimate ( table 4 ) .
+All three estimates , however , will be biased downwards by the effect of less than 80% participation in screening by women offered screening and some screening of women in the control group .
+Table 4. .
+Assessment of methodological issues and biases affecting estimates of overdetection in studies using the cumulative-incidence method .
+StudySimilar breast- cancer risk in screened and unscreened groupsParticipation in screening 80% or screening in unscreened population 20%Control group was not screened at end of studyAppropriate consideration of lead-timeAge groups , yearsOverdetection estimate as reported ( 95% CI ) Overdetection estimate ( % ) as recalculatedRef Follow-up after screening ended 5 yearsAdjustment made for lead-timeNo inclusion of initial screens MalmYN YN N NA45 - 69ARD : 050 ( 018 - 081 ) per 1000 women years2363 MalmYN YN N NA45 - 69RR : 132 ( 117 - 149 ) 3204 Canada 1YYYYNANA40 - 49ARD : 012 ( 008 to 032 ) per 1000 women years713 Canada 1YYYN N NA40 - 49RR : 130 ( 113 - 150 ) 3004 Canada 2YYYYNANA50 - 59ARD : 004 ( 022 to 031 ) per 1000 women years173 Canada 2YYYN N NA50 - 59RR : 126 ( 110 - 144 ) 2594 StockholmYN N N N NA40 - 64ARD : 004 ( 018 - 010 ) per 1000 women years473 StockholmYN YN N NA40 - 64RR : 149 ( 123 - 180 ) 4904 GothenburgYN N N N NA39 - 59ARD : 017 ( 042 to 008 ) per 1000 women years1003 GothenburgYN YN N NA39 - 49RR : 113 ( 090 - 141 ) 1304 Two CountyYYN N N NA40 - 74ARD : 013 ( 029 to 004 ) per 1000 women years513 Two CountyYYYN N NA40 - 74RR : 133 ( 122 - 145 ) 3284 Health Insurance PlanYN YN N NA40 - 64ARD : 009 ( 024 to 039 ) per 1000 women years463 EdinburghN N YN N NA45 - 64ARD : 011 ( 015 to 038 ) per 1000 women years573 Zackrisson et al ( Sweden ) YN YYNANA45 - 54RR : 108 ( 099 - 117 ) 80555 - 69RR : 107 ( 096 - 118 ) 7045 - 69RR : 107 ( 099 - 117 ) 70 Peeters et al ( Netherlands ) YN YN N NA35 - 44RR : 10880645 - 54RR : 14141055 - 64RR : 119190 65RR : 087130 35RR : 111110 Paci et al ( Italy ) N N YNAYNA50 - 84RR : 102 ( 098 - 106 ) 207 Paci et al ( Italy ) N N YNAYNA50 - 54RR : 1074% ( 102 - 1.3 ) 74855 - 59RR : 994% ( 94 - 105 ) 0660 - 64RR : 1007% ( 96 - 106 ) 0765 - 69RR : 1057% ( 101 - 111 ) 5770 - 74RR : 1097% ( 105 - 115 ) 9750 - 74RR : 1046% ( 102 - 107 ) 46 .
+Full-size table .
+Issues were accounted for ( Y ) , not accounted for ( N ) , or not applicable ( NA ) .
+Arrows indicate underestimation ( ) or overestimation ( ) of overdetection .
+ARD=absolute risk difference .
+RR=relative risk .
+Estimates calculated based on all breast cancers ( including DCIS ) in screened and unscreened women .
+Least biased estimates .
+View Within Article .
+Both Moss and Gtzsche estimated overdetection in the Canadian trials ( table 4 ) .
+These trials did not offer screening to the control group at the end of the intervention period and did report incidence for more than 5 years afterwards .
+They are therefore good sources of data for the estimation of overdetection .
+The estimates by Gtzsche based on these trials are biased , however , because he compared incidence soon after the end of the intervention period , without accounting for lead-time in any way .
+His estimates ( 30% and 26% ) are therefore biased upwards .
+Moss used the data appropriately and her estimates avoid lead-time bias and are much lower ( 7% and 17% for women aged 40 - 49 years and 50 - 59 years respectively ; table 4 ) .
+Moss and Gtzsche both used data from the Stockholm , Gothenburg , and Two County trials ( table 4 ) .
+These trials are difficult to use for the estimation of overdetection because people in the control group were offered screening at the end of the intervention period .
+Moss 's estimates are biased downwards because she did not acknowledge this problem and calculated overdetection after the control group was offered screening .
+Gtzsche avoided this problem by comparing incidences before the screen offered to the control group .
+However , by doing so he introduces the problem of using data without adequate duration of follow-up , and because he did not adjust for lead-time his estimates are also seriously flawed overestimates .
+Moss ( but not Gtzsche ) also calculated overdetection estimates on data from the Health Insurance Plan ( HIP ) trial in greater New York , USA , and the Edinburgh trial in the UK .
+The overdetection estimates were 46% in women aged 40 - 64 years for the HIP trial and 57% in women aged 45 - 69 years for the Edinburgh trial .
+Although long-term follow-up data for the HIP trial are available , Moss based her estimates on incidence about 15 years after the end of screening and therefore these estimates are biased upwards by insufficient duration of follow-up ( and no adjustment for lead-time ) , but also downwards by non-participation in the intervention group and screening in the control group .
+The net effect of these two biases is probably overestimation of overdetection .
+If Moss had used incidence data after longer follow-up , which has been reported by the HIP investigators , her estimate would be lower .
+With respect to the Edinburgh trial , the underlying breast-cancer risks in the control and intervention groups were probably different,11 and therefore any estimate of overdetection based on this trial is unreliable .
+Peeters and colleagues6 calculated overdetection 12 years after the start of a screening programme in Nijmegen , the Netherlands .
+The control population was women of age 35 years in a neighbouring city during the same time period .
+Screened and unscreened groups had similar underlying breast-cancer risks .
+The overdetection estimates , which include DCIS , were 8% , 41% , 19% , and 13% for women aged 35 - 44 , 45 - 54 , 55 - 64 , and 65 years at onset of screening , respectively .
+The combined overdetection estimate for women 35 years was 11% .
+Inclusion of DCIS and the insufficient duration of follow-up after screening ceased with no adjustment for lead-time means that these estimates are likely to be biased upwards .
+However , they are also likely to be biased downwards by non-participation in the screened population and occurrence of screening in the control population .
+Paci and co-workers  have reported two estimates of overdetection 10 years after the start of screening programmes in Italy .
+The overdetection estimates are 2% and 46% for women aged 50 - 84 years6 and 50 - 74 years,8 respectively .
+These estimates have been adjusted for lead-time ; however , they are likely to be biased downwards by non-participation in the screened population and occurrence of screening in the control population .
+Non-participation was very substantial in at least one of these studies,7 such that within the screened population only 244% of cancers were detected by screening and 756% were cancers that presented clinically .
+Furthermore , there may be bias ( in an unknown direction ) due to differences in underlying breast-cancer risk between the screened and control populations ( populations before implementation of screening programmes ) .
+There are no estimates using the incidence-rate method applied to the data from the randomised controlled trials .
+Two primary observational studies reported an overdetection estimate using the incidence-rate method ( table 5 ) .
+The least biased of these studies is that by Jonsson and colleagues,10 which is based on data from the breast screening programme that was gradually introduced in Sweden from 1986 and was fully established by 1996 .
+Jonsson and colleagues calculated overdetection at two time points : at the first screen ( initial phase ) and 7 years after the first screen ( stabilised phase ) .
+The overdetection estimates after adjustment for lead time were 22% , 54% , 62% , and 84% ( initial phase ) and 40% , 54% , 21% , and 30% ( stabilised phase ) for age groups 40 - 49 , 50 - 59 , 60 - 69 , and 70 - 74 years , respectively .
+The estimates calculated during the initial phase are higher due to inclusion of cancers detected in the initial screening rounds .
+The stabilised phase estimates are less biased by lead-time because initial screens have been excluded , but this will also exclude some overdetected cancers , potentially leading to underestimation of overdetection .
+Table 5. .
+Assessment of methodological issues and biases affecting estimates of overdetection in included studies using the incidence rate method .
+StudySimilar breast- cancer risk in screened and unscreened groupsParticipation in screening 80% or screening in unscreened population 20%Control group was not screened at end of studyAppropriate consideration of lead-timeAge groups , yearsOverdetection estimate as reported , RR ( 95% CI ) Overdetection estimate ( % ) as recalculatedRef Follow-up after screening ended 5 yearsAdjustment made for lead timeNo inclusion of initial screens Zahl et al ( Sweden ) N N YNAN Y50 - 69145 ( 141 - 149 ) 45970 - 74101 ( 096 - 105 ) 175 - 78088 ( 084 - 092 ) 12 Zahl et al ( Norway ) N N YNAN N 50 - 69156 ( 142 - 173 ) 56970 - 74089 ( 070 - 112 ) 11 Jonsson et al ( Sweden ) N YYNAYN 40 - 49122 ( 099 - 151 ) 221050 - 59154 ( 134 - 178 ) 5460 - 69162 ( 143 - 184 ) 6270 - 74184 ( 150 - 224 ) 84 Jonsson et al ( Sweden ) N YYNAYY40 - 49096 ( 077 - 121 ) 41050 - 59154 ( 133 - 179 ) 5460 - 69121 ( 104 - 141 ) 2170 - 74103 ( 082 - 130 ) 3
+Full-size table .
+Issues were accounted for ( Y ) , not accounted for ( N ) , or not applicable ( NA ) .
+Arrows indicate underestimation ( ) or overestimation ( ) of overdetection .
+Least biased estimates .
+RR=relative risk .
+View Within Article .
+The overdetection estimate calculated by Zahl and co-workers,9 also using the Swedish breast-screening programme data , was 45% for women aged 50 - 69 years .
+The annual incidence in the screened population was estimated during 1997 - 2000 and the number of women undergoing their initial screening round appeared to be negligible in this period .
+Zahl and co-workers did not adjust for lead-time and calculated annual incidence in the control population 15 years before screening commenced without adjustment for changes in breast-cancer incidence over time .
+Thus these overdetection estimates are overestimates .
+Zahl and co-workers9 also calculated overdetection in a screening programme in Norway .
+The overdetection estimate was 56% for women aged 50 - 69 years .
+As with the Swedish comparison , this estimate is biased by no adjustment for lead-time and no adjustment for changes in incidence in the control population over time .
+As the comparison was made when many women were undergoing their initial screening round , this estimate might be too high due to inclusion of cancers detected in the initial screening rounds .
+Zahl and co-workers also claim that there was no reduction in breast cancer incidence in women older than 69 years of age .
+However , the lack of reduction might be accounted for by some screening in the women aged 70 - 74 years , and the fact that women would not have had sufficient time for several screening rounds before they reached 69 years of age .
+Discussion .
+We have identified and described four important biases that might affect estimates of overdetection of invasive breast cancer substantially .
+These are underlying breast cancer risk being different in screened and unscreened populations , less than 100% participation in screening in the screened population and occurrence of screening in the unscreened population , screening in the control group after the end of the intervention ( screening ) period , and inadequate allowance for lead-time ( table 1 ) .
+We have not seen these biases or their consequences discussed adequately in papers addressing the issue of overdetection of invasive breast cancer .
+Researchers need to consider them when estimating overdetection and discuss their results in light of them .
+We identified eight publications that fulfilled our inclusion criteria .
+On the basis of our recalculated estimates of overdetection , reported estimates of overdetection range from 13% to 84% .
+In these studies , however , biases were common , and we suggest that the different methods used and the different types and degrees of bias affecting these methods explain much of the variability .
+Because there were few valid estimates and they showed such heterogeneity , we did not attempt to calculate a pooled estimate .
+The theoretically most robust method to estimate overdetection is the cumulative-incidence approach with data from a randomised controlled trial , in which there is more than several years of follow-up after screening stops , and the control group is never screened .
+Zackrisson and co-workers5 and Moss3 ( Canadian trials only ) were the only authors to use this method .
+Zackrisson and co-workers estimates were 8% ( age 45 - 54 years ) and 7% ( age 55 - 69 years ) ; Moss 's estimates were 71% ( age 40 - 49 ) and 17% ( age 50 - 59 ) .
+The incidence-rate method with adjustment for lead-time and exclusion of cancers detected in the initial screening round may also result in a valid overdetection estimate .
+However , estimates can be biased downward somewhat by the omission of initial screening rounds .
+The studies using the incidence-rate method are all based on screening implementation and are therefore observational studies rather than randomised trials , raising the possibility that bias may arise because of dissimilar underlying breast-cancer risks in the screened and unscreened populations .
+The study by Jonsson and colleagues10 based on data 7 years and onwards after the initial screening round is the least affected by bias .
+The estimates of overdetection from this study are 40% ( age 40 - 49 years ) , 54% ( age 50 - 59 years ) , 21% ( age 60 - 69 years ) , 30% ( age 70 - 74 years ) .
+Apart from the estimates provided here , we note that several groups have estimated overdetection with disease-transition modelling and have obtained low estimates.  We did not include these studies in our review as they did not provide estimates of breast-cancer incidence separately in screened and unscreened populations .
+Additionally , as discussed in the introduction , understanding the implications for modelled outputs of the implicit and explicit assumptions and processes at each step of the modelling process can be difficult .
+Therefore , we could not assess whether , and to what extent , the overdetection estimates were affected by the biases that we have identified and outlined .
+Duffy and co-workers12 applied a disease transition modelling approach to calculate overdetection from data of the Swedish Two County and Gothenburg trials .
+For the Two County trial , overdetection estimates were 31% ( 95% CI 01 - 109 ) for the first screen , 03% ( 01 - 10 ) for the second screen and 03% ( 01 - 10 ) for the third screen in women aged 40 - 74 years .
+For the Gothenburg trial , overdetection estimates were 42% ( 00 - 288 ) for the first screen , 03% ( 00 - 20 ) for the second screen and 03% ( 00 - 20 ) for the third screen in women aged 39 - 59 years .
+Olsen and colleagues13 applied a similar modelling approach to calculate overdetection from data of the Copenhagen screening programme in Denmark .
+Reported overdetection estimates were 78% ( 03 - 265 ) for the first screen , and 05% ( 002 - 21 ) for the second screen in women aged 50 - 69 years .
+Both groups used a WinBUGS model14 that did not generate estimates of incidence in screened and unscreened populations , and therefore it was not possible to recalculate overdetection estimates according to our definition .
+One other paper we have excluded is that by Svendsen and co-workers,15 who assessed whether the age-standardised annual invasive breast cancer incidence in the screened population of the Copenhagen screening programme in Denmark was within the 95% confidence interval of the projected incidence that was estimated on the population before screening and in counties without a screening programme .
+No overdetection estimate was reported and we were unable to calculate them .
+Svendsen and co-workers concluded that from the second screening round and onwards the incidence of invasive breast cancer in the screened population was within the 95% CI of the projected incidence in the absence of screening and they concluded therefore that there was no evidence of overdetection .
+We conclude that the least biased estimates of overdetection reported so far are those of Zackrisson and co-workers5 and Moss,3 based on the Canadian trials , and Jonsson and colleagues10 .
+These estimates range from 4% to 71% for women aged 40 - 49 years , 17% to 54% for women aged 50 - 59 years , and 7% to 21% for women aged 60 - 69 years .
+The older trial data tend to provide lower estimates , whereas the more recent observational data provided by Jonsson and colleagues tend towards higher estimates .
+Although such differences in estimates are attributed largely to study methods , the sensitivity of mammography screening ( both for cancers that will progress and overdetected cancers ) may have increased with improvements in technology over time.16 This hypothesis is consistent with recent data from the BreastScreen New South Wales programme in Australia that suggest that although cancer detection rates with screening are increasing with time ( ie , improved sensitivity ) , the interval cancer rate is not declining.17 As there are no further trials of mammography screening in women over age 50 years in progress , future estimates of overdetection will need to be based on observational data from breast-screening programmes .
+These estimates must be made using methods that address and avoid the biases described in this paper .
+The cumulative-incidence method using data from a randomised controlled trial and long lasting follow-up is a theoretically more desirable method .
+However , it seems most unlikely that more randomised trials will be done .
+So this design can only be implemented for the few trials in which the control group was not screened after the end of the screening intervention .
+This may be possible , although it seems likely that many of those women would by now have undergone screening provided in programmes subsequently implemented in those countries .
+The incidence-rate method is likely to be more practical to apply to data from current screening programmes , as it has the advantage of not requiring a long duration of follow-up .
+Valid and reliable estimates might still be generated with this method provided the biases identified in this paper are adequately addressed .
+On the basis of our review , there is inadequate high quality evidence about overdetection of invasive breast cancer by screening mammography .
+All the estimates published to date are biased , and most are affected by multiple sources of bias .
+The range of best estimates is from 4% to 71% for women aged 40 - 49 years , 17% to 54% for women aged 50 - 59 years , and 7% to 21% for women aged 60 - 69 years .
+New studies with better attention to methods are urgently needed to quantify the true extent of overdetection in mammography screening programmes .
+Conflicts of interest .
+The authors declared no conflicts of interest .
+Acknowledgments .
+The authors thank Professor Bruce Armstrong for his comments on drafts of this manuscript .
+This study was supported by the Australian National Health and Medical Research Council , Program Grants 211205 , and 402764 for the Screening and Test Evaluation Progra .

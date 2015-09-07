@@ -1,0 +1,108 @@
+1.1. Classification TNM
+Le ganglion sentinelle est reconnu avec définition de la taille des métastases et de la méthode pour les mettre en évidence ( standard , immunohistochimie , reverse transcriptase-polymerase chain reaction [ RT-PCR ] )  .
+Les macrométastases ont une taille de plus de 2 mm .
+Les micrométastases ganglionnaires sont classées en deux catégories : - de 0,2 à 2 mm de grand axe , il s' agit de micrométastases ( jusqu' alors avaient une taille inférieure ou égale à 2 mm ) .
+Elles sont classées PN1mi ;
+- les cellules tumorales isolées ( CTI ) sont définies comme seules ou groupées en petits amas de cellules de taille inférieure à 0,2 mm de grand axe , identifiées par immunohistochimie ou RT-PCR .
+Elles sont classées PN0 ( i+ ) ou PN0 ( mol+ ) .
+Par ailleurs , le nombre de ganglions envahis est pris en compte et les nodules tumoraux dans la graisse axillaire en_dehors de tout aspect ganglionnaire résiduel sont classés en ganglions métastatiques .
+Attention , le terme de métastase occulte ne correspond pas forcément à une micrométastase , il s' agit des métastases qui ont été « ratées » lors du premier examen standard et qui peuvent être identifiées ultérieurement par des moyens complémentaires ( relecture de lames , recoupes de blocs , immunohistochimie , biologie moléculaire )  .
+1.1.1. Combien de ganglions sentinelles ?
+Wong et al. ont démontré que le taux de faux négatifs diminuait de 14,3 à 4,3 % quand on examinait un ou plusieurs ganglions sentinelles mais sans en préciser le nombre optimal  .
+Schrenk et al. ont retrouvé dans leur série de 263 patientes que prélever plus de trois ganglions sentinelles n' augmentait pas le degré de précision de retrouver un ganglion métastatique  .
+Dabbs et al. ont observé comme Wong et al. que 98 % de tous les ganglions sentinelles métastatiques étaient retrouvés dans les trois premiers ganglions .
+Ils ont donc proposé comme attitude la plus raisonnable , d' examiner les trois premiers ganglions sentinelles de façon sélective et les autres en technique classique  .
+1.1.2. Prise en charge par les pathologistes 
+Macroscopiquement , le ganglion sentinelle est examiné à l' état frais .
+Les deux traceurs qui repèrent le ganglion sentinelle , isotopique ( colloïde radioactif marqué au technétium ) ou colorimétrique ( bleu patent en Europe , isosulfan aux États-Unis ) peuvent être utilisés seuls ou associés .
+La méthode couplée donne un meilleur taux de détection .
+La majorité des ganglions sentinelles parviennent au pathologiste plus_ou_moins colorés en bleu et radioactifs .
+Sa couleur et sa taille sont notées .
+L' aspect tumoral peut être évident ou se traduire par une simple zone d' induration mais les micrométastases n' ont aucune traduction macroscopique .
+1.1.3. Examen extemporané ?
+Cet examen n' a pour intérêt que de permettre de réaliser le complément du curage axillaire dans le même temps opératoire si le ganglion sentinelle est reconnu métastatique .
+L' ADASP ( Association of Directors of Anatomic and Surgical Pathology )  ne le justifie que si ses résultats ont une influence immédiate sur la stratégie thérapeutique .
+Deux méthodes sont utilisées par les pathologistes , qui donnent des résultats comparables et qui peuvent faire espérer un traitement en un temps opératoire dans environ 20 % des cas  : - les empreintes cytologiques , qui économisent le parenchyme ganglionnaire .
+Elles sont peu performantes pour la mise en évidence des micrométastases et des cellules tumorales isolées  ;
+- les coupes en congélation des tranches ganglionnaires .
+Elles donnent des taux de faux négatifs de 5 à 70 % selon les études  .
+Des groupes de travail comme l' EWGBSP ( European Working Group For Brest Screening Pathology )  et le CAP ( College of American Pathologists ) ont précisé que ces deux méthodes donnaient des résultats similaires sur le plan de la sensibilité et de la spécificité , mais sont plutôt favorables à l' empreinte cytologique .
+1.1.4. Immunohistochimie ?
+Aucun standard n' est encore établi pour la technique en paraffine du ganglion sentinelle .
+L' abondante littérature qui lui a été consacrée amène à deux constatations : - l' augmentation du nombre de coupes et de niveaux réalisés accroît le nombre de métastases diagnostiquées ;
+- l' association d' études immunohistochimiques augmente la découverte de micrométastases et de cellules tumorales isolées .
+L' attitude la plus utilisée en France est la pratique de trois niveaux de coupe haematoxyline - éosine - safran et_ensuite de trois examens immunohistochimiques sur les ganglions sentinelles uniquement .
+À titre d' exemple , l' EWGBSP recommande des techniques qui identifient les métastases de taille supérieure à 2 mm comme standard minimum , avec coupes à plusieurs niveaux et l' immunohistochimie qui demeure optionnelle  .
+1.1.5. Autres techniques de détection des métastases ganglionnaires
+La RT-PCR , classique ou en temps réel , est une méthode très sensible de détection des cellules tumorales .
+Elle est dépendante de l' échantillonnage  et un panel multimarqueur de gènes semble donner des résultats bien corrélés avec les facteurs pronostiques classiques  .
+Les marqueurs moléculaires ne sont pas spécifiques de tous les cancers du sein et il s' agit d' une approche dont la quantification n' est pas standardisée .
+Toutes les métastases détectées par cette méthode sont classées PN0 ( mol+ ) .
+La preuve de la pertinence clinique de cette détection moléculaire n' est pas encore faite .
+Elle demeure encore du domaine de la recherche  .
+1.1.6. Rechute axillaire après procédure du ganglion sentinelle
+Le taux de rechute axillaire est très faible , compris entre 0 et 1 %  .
+1.1.7. Signification clinique des micrométastases1.1.7.1 .
+Valeur pronostique
+La majorité des travaux surévaluant la signification pronostique des micrométastases diagnostiquées en haematoxyline - éosine - safran ( HES ) ont montré que les malades avec une métastase ganglionnaire de taille inférieure ou égale à 2 mm avaient une survie équivalente à celle des malades atteints de cancer classé PN0  .
+1.1.7.2. Prédiction de l' envahissement des autres ganglions
+L' absence de curage complémentaire est actuellement remise en question par l' observation de macrométastases dans les autres ganglions  .
+En moyenne , le ganglion sentinelle apparaît comme le seul ganglion métastatique dans 40 % des cas  .
+Les facteurs retrouvés , comme impliqués dans la probabilité de métastases dans les autres ganglions sont : la taille tumorale , le grade tumoral , la présence d' emboles tumoraux vasculaires dans la tumeur , la taille de la métastase dans le ganglion sentinelle , le nombre de ganglions sentinelles envahis  et l' extension extraganglionnaire de la métastase du ganglion sentinelle  .
+Viale et al. ont retrouvé 22 % de métastases dans le curage complémentaire de ganglions sentinelles micrométastatiques , avec 16 % de macrométastases dans les autres ganglions , mais les évènements sont bien moindres dans les métastases de moins d' un millimètre , ce qui les amène à déconseiller le curage complémentaire dans cette sous-catégorie de métastases  .
+1.1.7.3. Cellules tumorales isolées
+La signification pronostique des cellules tumorales isolées dépistées par immunohistochimie dans les curages ganglionnaires N - à l' HES a été étudiée par plusieurs équipes et diversement appréciée .
+Pour les études rétrospectives sur curage hors procédure du ganglion sentinelle , l' hétérogénéité des populations étudiées ( taille des populations , types histopathologiques ) des techniques d' évaluations ganglionnaires et dans certains cas , la complexité des méthodologies employées compliquent l' analyse des résultats et rendent aléatoire la comparaison des résultats ; Ces cellules tumorales isolées sont associées à un plus mauvais pronostic dans cinq séries sur 12  mais ces résultats sont obtenus avec des méthodologies discutables sur le plan statistique .
+Dans les études prospectives actuelles , il est surtout évalué la valeur prédictive de la présence de cellules tumorales isolées dans un ganglion sentinelle ( PNo [ i+ ] [ sn ] ) , de l' envahissement du curage axillaire .
+Si la_plupart des études retrouvent un envahissement ganglionnaire proportionnel à la taille de la micrométastase  , des doutes sont émis quand à la reproductibilité histopathologique de la définition des micrométastases faites de cellules tumorales isolées versus celles classées mi en haematoxyline - éosine - safran  .
+Ainsi , la signification pronostique des formes PN0 ( i+ ) reste à prouver et la question se pose de savoir s' il faut réaliser un curage ganglionnaire à toutes les patientes atteintes de micrométastases dans les ganglions sentinelles .
+2. Évaluation de la réponse ganglionnaire après chimiothérapie néoadjuvante
+La chimiothérapie néoadjuvante est une des options thérapeutiques pour les patientes atteintes d' une tumeur mammaire invasive de plus de 3 cm .
+Cette prise en charge permet de diminuer la taille tumorale afin_de permettre un geste chirurgical conservateur et de tester in_vivo la chimiosensibilité des cellules tumorales .
+L' étude du reliquat tumoral post-thérapeutique permet d' évaluer la réponse à la thérapeutique , d' évaluer le pronostic et d' ajuster le choix des substances utilisées après la chirurgie .
+La connaissance du statut ganglionnaire pré- et postopératoire apporte des éléments très importants pour la prise en charge optimale des patientes  .
+2.1. Connaissance du statut ganglionnaire en début de traitement
+Une simple étude cytologique , réalisée sous échographie ou sous repérage clinique en cas de volumineuse adénopathie , peut donner une importante information quant_à la présence ou non de métastases ganglionnaires avant traitement  .
+Cette information est importante car , lorsqu' un ganglion n' est pas envahi après chimiothérapie néoadjuvante , il est souvent difficile de faire la part des choses entre une stérilisation du ganglion ou une absence d' envahissement ganglionnaire .
+Par ailleurs , il peut y avoir une discordance entre la réponse ganglionnaire et tumorale , la première étant moins fréquente que la seconde .
+2.2. Évaluation de la réponse ganglionnaire à la chimiothérapie néoadjuvante
+La réponse à la chimiothérapie néoadjuvante est évaluée cliniquement , radiologiquement et par l' analyse macroscopique et histopathologique de la pièce opératoire .
+Il n' existe à ce jour aucun consensus concernant les protocoles de prélèvement à effectuer et les paramètres histopathologiques à évaluer .
+Les classifications les plus utilisées en France sont celles de Chevallier  et de Sataloff  .
+Elles intègrent les reliquats mammaires et axillaires dans une même réponse .
+La différence entre les deux classifications est essentiellement la stratification de la classe des réponses partielles dans la classification de Sataloff , qui détaille également la réponse ganglionnaire  .
+La classification d' Aberdeen  stratifie également la réponse partielle , en rapportant la cellularité du reliquat tumoral à celle de la tumeur initiale , en cinq catégories pour la tumeur et quatre pour les ganglions .
+Tableau 1.
+Classification de Chevallier 
+Grade 1 : absence de toute cellule tumorale macroscopiquement et histologiquement ( sein et ganglions axillaires ) Grade 2 : présence de carcinome in_situ dans le sein sans tumeur invasive et pas de métastase axillaire Grade 3 : présence de cellules carcinomateuses résiduelles avec des altérations stromales comme la sclérose et la fibrose Grade 4 : peu ou pas de modifications de l' apparence de la tumeur
+Full-size table
+View Within Article
+Tableau 2.
+Classification de Sataloff 
+Tumeur primaire mammaire TA : effet thérapeutique total ou presque total TB : effet thérapeutique de plus de 50 % mais pas total TC : moins de 50 % d' effet thérapeutique TD : pas d' effet thérapeutique Ganglions axillaires NA : évidence d' un effet thérapeutique , pas de maladie métastatique résiduelle NB : pas de métastase ou d' effet thérapeutique NC : évidence d' un effet thérapeutique mais métastase axillaire toujours présente ND : maladie métastatique toujours présente et viable et pas d' effet thérapeutique
+Full-size table
+View Within Article
+D' après notre expérience , dans le compte rendu histopathologique , doivent apparaître clairement : la taille du reliquat tumoral macroscopique , et / ou le nombre de blocs comportant un reliquat tumoral sur le nombre de blocs examinés , la qualité du résidu tumoral du sein , le statut ganglionnaire axillaire et le nombre de ganglions examinés  .
+Les taux de réponse histopathologique rapportés vont de 3 à 30 % suivant les études .
+Plusieurs de ces études ont montré qu' il existait un lien entre une réponse histopathologique complète et une survie longue et entre la présence d' un envahissement ganglionnaire axillaire et une survie plus courte  .
+Le curage axillaire des patientes opérées après chimiothérapie est pris en charge comme celui réalisé de première intention .
+Chaque ganglion est étudié individuellement et la présence d' un envahissement métastatique est notée ainsi_que d' éventuel aspect de réponse thérapeutique .
+2.3. Ganglion sentinelle et stratégie néoadjuvante
+La pratique de la technique de repérage du ganglion sentinelle après chimiothérapie néoadjuvante est encore en cours d' évaluation .
+Les premiers résultats publiés sont encourageants avec des taux de détection de 85 à 94,5 %  .
+Dans notre expérience , au centre Jean-Perrin , sur une série prospective de 74 patientes atteintes de cancer classé T1T2T3N0N1 , qui ont reçu une chimiothérapie néoadjuvante d' avril 2001 à décembre 2004 , le taux de détection du GS était de 68 / 74 ( 92 % ) , il était envahi dans 30 / 68 cas ( 44 % ) .
+Le taux de faux négatifs était de 14 % ( 5 / 35 ) .
+En revanche , dans le groupe de 42 patientes atteintes de cancer classé N0 « clinique » avant chimiothérapie néoadjuvante , la fiabilité était de 100 % et le taux de faux négatifs de 0 % alors_que pour les 32 atteintes de cancer classé N1 , la fiabilité était de 83 % , et le taux de faux négatifs de 25 %.  .
+Cependant , la pratique du ganglion sentinelle dans la stratégie néoadjuvante n' est pas un standard de pratique actuellement .
+2.4. Facteurs pronostiques post-thérapeutiques
+La chimiothérapie néoadjuvante est souvent proposée dans des cas de tumeurs mammaires de grande taille et , nous l' avons vue , de fort grade SBR .
+Il s' agit donc en_général de tumeurs agressives de haut stade , a_priori de pronostic défavorable .
+Après traitement , si la tumeur a été sensible à la chimiothérapie , la taille tumorale et le nombre de ganglions envahis vont diminuer .
+Ainsi , par_rapport_à la tumeur initiale , il va exister une sous-estimation des stades clinique et pathologique du TNM .
+Cependant , les paramètres classiques du stade : taille et envahissement ganglionnaire  restent de puissants paramètres pronostiques , en_dépit_de la possible sous-évaluation due au traitement .
+Les patientes en situation de stérilisation complète de la tumeur et des ganglions ont également un bénéfice net de survie par_rapport_à celles dont la tumeur n' a pas répondu  .
+2.5. Facteurs de risque de rechute locale
+Plus le stade clinique initial est élevé , et s' il existe un envahissement ganglionnaire après chimiothérapie , le risque de rechute locale est élevé  .
+3. Conclusion
+L' évaluation de la réponse à la chimiothérapie par le pathologiste guidera le clinicien dans la prise en charge thérapeutique optimale des patientes , pour le choix des substances utilisées après le traitement chirurgical et pour la détermination du pronostic de la tumeur .
+Des méthodes d' investigation du creux axillaire , moins invasives qu' un curage classique , peuvent avoir une place dans la prise en charge des patientes après chimiothérapie néoadjuvante

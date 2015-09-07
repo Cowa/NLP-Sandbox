@@ -1,0 +1,166 @@
+Dans tous les essais randomisés , le taux de récidive locale après traitement conservateur est compris entre 4 et 8 % à cinq ans [ 7 , 8 , 18 , 50 and 64 ] .
+De nombreux facteurs de risque , cliniques et anatomopathologiques , ont été analysés pour tenter de prédire le risque de récidive locale après association radiochirurgicale .
+Trois facteurs font l' objet d' un consensus .
+Il s' agit de l' âge , de la présence d' emboles lymphatiques dans la tumeur et de l' atteinte des limites d' exérèse : - âge : le risque de récidive mammaire diminue régulièrement à_mesure que l' âge augmente [ 7 , 8 , 12 , 15 and 21 ] .
+Ainsi , chez les femmes de moins de 35 ans , ce risque est de 29 % environ à dix ans ; il n' est plus que de 3 % chez les femmes de plus de 55 ans  ; - emboles tumoraux : la présence d' emboles tumoraux intravasculaires ( sanguins ou lymphatiques ) dans la tumeur est un facteur de risque de récidive locale : le risque est de 25 % à dix ans , contre 8 % lorsqu' il n' existe pas d' emboles [ 7 , 19 , 20 , 37 , 67 and 36 ] ; - atteinte des limites d' exérèse : une atteinte des limites d' exérèse ( sur le mode infiltrant ou in_situ ) augmente le taux de risque de récidive locale [ 24 , 61 , 62 and 67 ] .
+Ce taux est de 28 % environ à dix ans si l' exérèse est incomplète , contre 8 % lorsqu' elle est macroscopiquement large  .
+À l' inverse , certains facteurs font encore l' objet de controverses .
+Il s' agit du type histologique  , du grade SBR , de la taille tumorale initiale [ 3 , 17 and 23 ] , de la présence de récepteurs hormonaux , de l' index de prolifération cellulaire et de la présence de carcinome intracanalaire en périphérie de lésions de carcinome infiltrant [ 29 and 54 ] .
+2. Cas particulier des limites d' exérèse chirurgicale
+Une atteinte des limites d' exérèse est à_la_fois un facteur de récidive locale et un facteur indépendant de la survie [ 42 , 54 , 66 , 67 and 55 ] .
+Cependant , la définition des limites d' exérèse saines n' est pas uniforme dans la littérature .
+Ainsi , selon les publications , on définit une berge envahie par du carcinome intracanalaire ( CIC ) par une berge qui arrive au contact du CIC [ 20 and 59 ] ou une berge qui se situe à_moins_de 10 mm du CIC [ 30 and 51 ] .
+Certains parlent de berges proches , à savoir distante de 1 mm  , 2 mm  , 5 mm  ou comprise entre 10 et 20 mm  .
+En outre , une berge saine est définie par la présence d' une marge de tissu sain supérieure à 1 mm  , supérieure à 5 mm [ 1 and 34 ] , supérieure à 10 mm [ 30 and 59 ] ou supérieure à 20 mm  .
+Parallèlement à cette inhomogénéité pour la définition des berges d' exérèse , les méthodes d' évaluation anatomopathologiques sont hétérogènes en fonction de la personne effectuant l' analyse macroscopique du prélèvement , à savoir l' anatomopathologiste ou le chirurgien .
+Dans tous les cas , la pièce opératoire doit être orientée intacte ( sans avoir été préalablement ouverte ) , puis sa surface encrée .
+On parle de berges d' exérèse atteintes lorsqu' il existe des cellules carcinomateuses au contact d' une tranche de section chirurgicale préalablement repérée par de l' encre de Chine .
+La marge de tissu sain sera définie par la distance en millimètres séparant les cellules tumorales des tranches de section chirurgicale et devra toujours être précisée dans le compte-rendu anatomopathologique définitif .
+Malgré les progrès des techniques anatomopathologiques , il persiste une part d' incertitude d' appréciation inhérente à la technique elle-même .
+Par ailleurs , compte tenu du mode d' extension des CIC et l' existence de « gaps » discontinus entre les foyers tumoraux , il persiste une difficulté d' appréciation des CIC et des CIC associés à un carcinome infiltrant [ 16 and 48 ] .
+Il est nécessaire de considérer non_seulement les limites d' exérèse , mais_surtout l' importance de la maladie résiduelle dans le sein après tumorectomie .
+Cette maladie résiduelle a été évaluée par Holland et al. en 1985  sur 264 pièces de mastectomie réalisées pour un cancer unifocal de moins de 4 cm .
+L' objectif de l' étude était la recherche d' une tumeur résiduelle à distance de la tumeur principale .
+Dans 40 % des cas , aucune lésion résiduelle n' a été observée .
+Dans 19 % des cas , il persistait des lésions résiduelles à_moins_de 2 cm de la lésion initiale .
+Dans 2 / 3 des cas , il s' agissait d' un carcinome intracanalaire , et dans 1 / 3 des cas de lésions de carcinome infiltrant .
+Quarante et un pour cent de ces lésions étaient situées à plus de 2 cm de la tumeur principale .
+Les mêmes auteurs ont montré que la présence de carcinome intracanalaire était un facteur permettant de prédire l' importance des lésions résiduelles après tumorectomie  .
+En revanche , il n' existait aucune corrélation entre l' existence de lésions résiduelles , la taille de la tumeur initiale et sa localisation .
+De nombreuses études ont apprécié le risque de maladie résiduelle après traitement conservateur des carcinomes intracanalaires [ 10 , 26 , 44 and 58 ] .
+Une seule a évalué de manière exhaustive les limites d' exérèse  .
+Cette étude a été réalisée à l' institut Curie chez 89 patientes atteintes d' un carcinome intracanalaire d' exérèse incomplète traité initialement par une tumorectomie simple .
+Toutes ces patientes ont eu une reprise chirurgicale du lit tumoral .
+L' atteinte des berges de la tumorectomie initiale était définie ainsi : atteinte focale ( 1 mm , berges d' exérèse colorées à l' encre de Chine ) , atteinte minime ( 1 mm et 15 mm ) et atteinte étendue ( 15 mm ) .
+L' étendue de la maladie résiduelle sur la pièce de reprise a été définie par le nombre de canaux envahis par la tumeur .
+Deux groupes ont été définis : atteinte faible ( 10 canaux ) et atteinte élevée ( 10 canaux ) .
+Dans 47 % des cas , le nombre de canaux atteints était faible .
+Les taux de tumeur résiduelle étaient respectivement de 67 , 71 et 94 % en cas d' atteinte focale , minime et étendue .
+Ce taux était de 44 % en cas de berges saines supérieures à 1 mm et de 45 % en cas de berges saines inférieures ou égales à 1 mm .
+La présence de tumeur résiduelle était également liée à la taille tumorale initiale : les taux étaient de 27 , 68 et 74 % pour des lésions mesurant respectivement 10 mm , entre 11 et 25 mm et > 25 mm .
+Ces chiffres sont à rapporter à ceux décrits dans la littérature concernant les carcinomes intracanalaires , où il existe une relation entre taille tumorale , marge de tissu sain , atteinte des berges et présence de lésion résiduelle [ 10 , 26 and 44 ] .
+Par ailleurs , aucune relation n' a été mise en évidence entre l' âge , l' aspect mammographique , le grade nucléaire , la présence de nécrose et l' existence de tumeur résiduelle lors_de la reprise chirurgicale .
+Si tous les auteurs s' accordent pour recommander une reprise chirurgicale systématique lorsque les berges de tumorectomie sont envahies par des lésions de carcinome infiltrant , la situation est plus nuancée lorsque l' envahissement concerne des lésions intracanalaires .
+Dans notre expérience , lorsqu' il existait une atteinte focale d' une berge ou des lésions de carcinome intracanalaire présentes à_moins_de 1 mm , le taux de tumeur résiduelle était de 50 % : 30 % de patientes avaient moins de dix canaux atteints et 20 % de plus de dix canaux .
+Certaines reprises chirurgicales pourraient donc être évitées .
+De plus , certains travaux , tendent à montrer que l' envahissement focal d' une berge n' est pas un facteur de prédiction de récidive locale lorsque les patientes ont eu un complément d' irradiation du lit tumoral après traitement chirurgical conservateur .
+Ces études sont actuellement peu nombreuses et portent sur un nombre limité de patientes [ 4 and 22 ] .
+Si ces données sont confirmées par d' autres séries , on pourrait éviter une reprise chirurgicale systématique lorsque l' exérèse passe en berges saines , mais est située à moins d' 1 mm de lésions de carcinome intracanalaire , voire en cas d' atteinte focale d' une berge par des lésions de carcinome intracanalaire , lorsqu' une reprise chirurgicale est incompatible avec un résultat cosmétique correct .
+Dans ces deux situations , notre attitude à l' institut Curie est de proposer une irradiation mammaire avec complément ( boost ) dans le lit tumoral .
+Cette attitude nécessite une homogénéisation des techniques anatomopathologiques et des études complémentaires , avant_de pouvoir être proposée comme une alternative fiable à la reprise d' exérèse chirurgicale , qui reste actuellement le standard lorsque l' une ou a_fortiori plusieurs berges de tumorectomie sont envahies .
+3. Extension des indications du traitement conservateur3.1 .
+Tumeur de plus de 3 cm
+Classiquement , un traitement conservateur est proposé pour des tumeurs dont le diamètre est inférieur à 3 cm .
+Cependant , deux études randomisées [ 17 and 33 ] portant sur des lésions allant jusqu' à 5 cm ont montré que les taux de survie étaient identiques après traitement conservateur et mastectomie .
+La difficulté est alors d' ordre technique : il est le_plus_souvent impossible d' obtenir un résultat esthétique satisfaisant après tumorectomie large pour des lésions de cette taille , sauf en cas de sein très volumineux .
+En effet , une tumorectomie de très gros volume entraîne un risque élevé de déformation mammaire  .
+Dès les années 1970 , certaines équipes , principalement en Europe , ont proposé de réaliser un traitement préopératoire afin_de réduire le volume tumoral , pour pouvoir ensuite faire bénéficier la patiente d' un traitement conservateur .
+Plusieurs traitements à visée de réduction du volume tumoral sont disponibles : si la chimiothérapie néoadjuvante est actuellement le_plus_souvent proposée dans cette indication , une radiothérapie et une hormonothérapie préopératoire sont également possibles .
+Cependant , tout traitement préopératoire impose un examen clinique initial précis comprenant la mesure des dimensions tumorales et de la distance de la tumeur par rapport au mamelon .
+Un bilan radiologique mammo-échographique est également nécessaire afin_de préciser qu' il s' agit bien d' une tumeur unifocale , et de pouvoir ultérieurement évaluer la réponse au traitement .
+De plus , les caractéristiques tumorales histologiques mais_aussi biologiques , doivent être connues avant_de débuter le traitement , car elles pourront ensuite être modifiées par celui-ci : une microbiopsie ou une drill-biopsie doivent être réalisées systématiquement .
+3.1.1. Radiothérapie
+Historiquement , la radiothérapie a été le premier traitement à visée cytoréductrice proposé en cas de cancer du sein volumineux .
+En cas de réponse tumorale suffisante , nous avions démontré que cette irradiation préopératoire permettait un traitement conservateur du sein , en effectuant une tumorectomie large du reliquat à l' issue de l' irradiation .
+À l' institut Curie , une irradiation préopératoire est proposée aux patientes de plus de 65 ans atteintes d' une tumeur unifocale avec des récepteurs hormonaux ( RH+ ) de 3 à 7 cm sans microcalcifications étendues .
+Une dose de 52 Gy est délivrée en moyenne sur le sein , 45 Gy sont délivrés dans la chaîne mammaire interne et les aires sous et sus-claviculaires pendant une période de six semaines .
+Une évaluation clinique et radiologique est effectuée 15 jours après la fin de l' irradiation afin_de déterminer la suite du traitement local .
+Une réponse majeure est définie par une régression tumorale de plus de 50 % , ce qui concernait 85 % des patientes de notre série  .
+Dans 77 % des cas , un traitement chirurgical conservateur a pu être proposé six semaines après l' irradiation .
+3.1.2. Chimiothérapie néoadjuvante
+Plusieurs essais ont montré que les taux de conservation mammaire pouvaient être augmentés grâce_à une chimiothérapie néoadjuvante .
+L' analyse de la littérature montre des chiffres de conservation mammaire après chimiothérapie néoadjuvante proches de 50 % [ 40 and 57 ] .
+Cependant , cette chimiothérapie première n' apporte pas de bénéfice de survie par_rapport_à une chimiothérapie postopératoire [ 40 and 57 ] .
+La réponse clinique s' apprécie dès les deux premiers cycles , et la chimiothérapie comprend quatre à six cycles , selon les protocoles .
+L' intervention est programmée un mois après la dernière cure .
+En cas de réponse tumorale , partielle ou complète , autorisant un traitement conservateur , une tumorectomie et un curage axillaire sont alors pratiqués .
+Dans le cas contraire , une mastectomie reste le traitement standard , même s' il est parfois possible de délivrer une radiothérapie préopératoire de « rattrapage » , un mois après la dernière cure .
+Le taux de réponse clinique est alors de 60 % , permettant encore le_plus_souvent un traitement conservateur  .
+3.1.3. Hormonothérapie
+La molécule qui a été la plus étudiée dans cette indication est le tamoxifène .
+Une analyse rétrospective chez 199 patientes âgées de 50 à 70 ans qui ont reçu une hormonothérapie néoadjuvante a montré un taux de conservation mammaire de 54 % pour les femmes ayant une tumeur opérable d'_emblée et de 44 % pour celles ayant une tumeur localement évoluée  .
+À ce jour , nous ne disposons d' aucune étude randomisée comparant une hormonothérapie néoadjuvante et traitement locorégional chirurgical d'_emblée .
+Cette indication est actuellement réservée aux femmes âgées atteintes de tumeur infiltrante lentement évolutive RH+ .
+Un traitement locorégional reste ensuite indispensable , par chirurgie et / ou irradiation .
+4. Nouvelles approches thérapeutiques4.1 .
+Ganglion sentinelle et cancer du sein
+Le traitement conservateur du cancer du sein comporte le traitement des ganglions axillaires .
+Afin de diminuer la morbidité du curage axillaire classique , le concept de ganglion sentinelle a fait peu_à_peu son apparition .
+Il est fondé sur la diffusion progressive de l' atteinte ganglionnaire .
+Il consiste à injecter un traceur lymphophile ( isotope ou colorant ) au contact de la tumeur .
+La diffusion du traceur dans les lymphatiques du sein permet l' identification du ganglion « sentinelle » , qui représente le premier ganglion drainant la tumeur mammaire et donc le premier relais lymphatique potentiellement métastatique .
+Dans une population de patientes atteintes d' un petit cancer du sein , dont le taux de risque d' atteinte ganglionnaire est de 30 % environ , l' intérêt premier de cette technique est d' éviter un curage axillaire aux 70 % des patientes dont l' aisselle est indemne .
+Dans des mains expérimentées , le taux de détection du ganglion sentinelle est actuellement de 95 % .
+L' écueil principal de cette technique est le risque de faux-négatifs : dans ce cas , le ganglion sentinelle est indemne mais il existe un envahissement d' autres ganglions de l' aisselle [ 6 , 35 and 46 ] .
+Dans la littérature , le taux de faux-négatifs varie entre 0 et 20 % .
+Ce taux doit être interprété en fonction de critères anatomopathologiques précis , à savoir après examen macroscopique confirmant le caractère bleu ( contrôle de la qualité du prélèvement ) , coupes sériées du ganglion et analyse après coloration standard ( HES ) et immunohistochimie .
+Dans la dernière série de l' institut Curie sur 324 patientes  , le taux de détection était de 85,5 % ( 277 / 324 ) .
+Après examen anatomopathologique standard du ganglion ( section du ganglion et analyse d' une seule tranche de section ) , le taux de faux-négatifs était de 11,1 % ( 10 / 90 ) .
+Après coupes sériées du ganglion et analyse en HES , ce taux n' était plus que de 5,6 % ( 5 / 90 ) , et de 2,2 % après immunohistochimie ( 2 / 90 ) .
+Ceci confirme la nécessité d' une prise en charge multidisciplinaire et d' une procédure anatomopathologique précise de l' analyse du ganglion sentinelle .
+Cependant , de nombreuses controverses persistent : technique utilisée ( type de traceur ) , site d' injection ( péritumoral , périaréolaire ou sous-cutanée ) , courbe d' apprentissage , exérèse des ganglions extra-axillaires , notamment mammaires internes , traitement de l' aisselle si le ganglion sentinelle est envahi , taille tumorale pour laquelle une exérèse de ganglion sentinelle est indiquée .
+Par ailleurs , on ne connaît pas la survie globale à long terme des patientes traitées par cette technique .
+Certains cas isolés de récidive axillaire après exérèse du ganglion sentinelle ont été décrits dans la littérature [ 2 , 11 , 52 and 53 ] .
+Ces cas isolés sont actuellement très rares , et peuvent être liés à un problème de technique opératoire ou d' analyse anatomopathologique .
+Ils doivent nous inciter à rester vigilants quant_à nos indications et à notre procédure , en_particulier la courbe d' apprentissage , mais ne semblent pas devoir remettre en cause la procédure elle-même .
+Une évaluation à long terme du risque de récidive locale et de la survie globale de ces patientes reste indispensable .
+Plusieurs études randomisées en cours permettront de répondre aux différentes questions que soulève cette technique .
+4.2. Chirurgie oncoplastique mammaire
+La chirurgie oncoplastique consiste à utiliser des techniques de chirurgie plastique lors du temps d' exérèse de la tumeur .
+Cette approche a été développée initialement après mastectomie ( reconstruction mammaire immédiate ) .
+Elle s' étend depuis une dizaine d' années au traitement conservateur des cancers du sein .
+Elle permet d' étendre les indications du traitement conservateur , en autorisant des résections larges sans détériorer pour autant les résultats esthétiques .
+Les bénéfices de la reconstruction sont majeurs , à_la_fois physiques , psychiques et fonctionnels et font que la chirurgie oncoplastique fait actuellement partie intégrante du traitement du cancer du sein .
+Les indications actuelles de la chirurgie oncoplastique dans les traitements conservateurs du cancer du sein concernent les tumeurs de plus de 3 cm et les tumeurs centrales superficielles .
+4.2.1. Tumeurs centrales superficielles
+Les cancers du sein à localisation centrale constituaient classiquement une contre-indication au traitement conservateur .
+Il est actuellement démontré que la conservation du sein pour une tumeur centrale est parfaitement justifiée dès_lors que la tumorectomie passe en zone saine [ 9 , 27 and 43 ] .
+Cependant , pour des tumeurs situées à_moins_de 2 cm de la plaque aréolomamelonnaire ( PAM ) , le taux de risque d' envahissement de celle-ci varie dans la littérature entre 50 et 75 % .
+Son exérèse est donc nécessaire .
+Le traitement conservateur des tumeurs centrales n' expose pas à un risque de récidive locale plus élevé que celui des tumeurs périphériques  .
+Le taux de récidive locale est selon les séries de 3 à 8 % , justifiant entièrement une attitude conservatrice [ 9 , 27 and 43 ] .
+L' ablation de la PAM ( PAMectomie ) peut laisser une déformation majeure .
+La localisation centrale pose trois problèmes : le défect laissé par la tumorectomie , l' ablation de la PAM elle-même et l' asymétrie qui peut résulter de la perte de volume. Le comblement du défect se fait grâce_à un remodelage glandulaire effectué lors du même temps que la PAMectomie par confection d' un lambeau de glissement ou de rotation .
+Le plus souvent , on obtient un sein identique au sein controlatéral , mais sans aréole .
+En cas d' asymétrie , une plastie mammaire controlatérale peut être réalisée dès le temps opératoire initial avec une reconstruction secondaire de la PAM sous anesthésie locale à l' issue de la radiothérapie .
+4.2.2. Cancers de plus de 3 cm
+Plusieurs études randomisées ont démontré que la chirurgie conservatrice des cancers du sein est licite pour des tumeurs allant jusqu' à 5 cm [ 17 , 33 and 65 ] .
+En cas de chirurgie première , ceci imposerait de réaliser de très larges tumorectomies [ 13 and 21 ] , afin_d' obtenir une exérèse tumorale complète .
+Un remodelage unilatéral peut être proposé , associé à un recentrage de l' aréole .
+Dans certains cas , du fait d' une asymétrie mammaire aux dépens du sein traité , nous proposons une plastie mammaire controlatérale de symétrisation [ 13 and 45 ] .
+Cette technique est particulièrement intéressante pour les tumeurs des quadrants inférieurs .
+Nous avons réalisé  une étude portant sur 102 patientes opérées par tumorectomie large , et plastie mammaire bilatérale .
+Le diamètre moyen des tumeurs était de 32 mm .
+Toutes les patientes ont bénéficié d' une tumorectomie large avec curage axillaire et plastie mammaire bilatérale suivie d' une irradiation mammaire unilatérale .
+L' exérèse était carcinologiquement satisfaisante et deux patientes ont bénéficié d' une mastectomie complémentaire .
+Le taux de récidive locale à cinq ans était de 8 % et celui de survie globale de 95,7 % , avec dans 92 % des cas des résultats esthétiques satisfaisants lorsque les patientes étaient irradiées en situation postopératoire .
+Les taux de survie étaient identiques à ceux de la population témoin .
+Les conclusions de cette étude étaient qu' en cas de tumeur volumineuse , un traitement conservateur classique associant plastie mammaire et symétrisation peut être proposé .
+Cette attitude fait maintenant partie de nos protocoles de traitement en cas de carcinome intracanalaire étendu , ou de cancer infiltrant qui ne répond pas à une chimiothérapie néoadjuvante .
+L' évaluation des techniques de chirurgie oncoplastique doit néanmoins être poursuivie , afin_de confirmer ces résultats par d' autres équipes que la notre .
+4.3. Chirurgie stéréotaxique
+Le dépistage mammographique des cancers du sein permet de mettre en évidence des lésions infracliniques indéterminées ou suspectes pour lesquelles une vérification histologique est nécessaire .
+Le développement des techniques de biopsie mammaire assistée par la stéréotaxie a permis de mettre au point un nouveau type de chirurgie radioguidée : la chirurgie stéréotaxique .
+Elle a été décrite la première fois en 1996 .
+Elle permet d' effectuer l' exérèse complète monobloc d' une image mammographique et fournit à l' anatomopathologiste une biopsie non fragmentée .
+L' exérèse de petits cancers infiltrants ne nécessitant pas de curage axillaire ou de petits carcinomes intracanalaires est donc théoriquement possible .
+Deux systèmes étaient disponibles : le système ABBI ( United States Surgical Corporation , Norwalk , CT , États-Unis ) et le système Site Select ( Imagyn Medical Technologies , Irvine , CA , États-Unis ) .
+Actuellement , seul le système Site Select est disponible avec deux tailles de canule , une de 15 mm et plus récemment une de 22 mm .
+L' analyse des séries publiées , qui portent actuellement toutes sur le système ABBI , montre que l' exérèse de l' image est possible dans environ 90 % des cas [ 38 , 41 and 57 ] .
+À l' institut Curie , où nous avons opté pour le système Site Select , nous avons réalisé une première évaluation chez 102 patientes opérées à l' aide de la canule de 15 mm .
+En cas de cancer , notre protocole précisait que les patientes devaient bénéficier systématiquement d' une tumorectomie .
+Dans cette première série , 80 % des berges étaient envahies en cas de cancer , et lors_de la reprise opératoire , on notait la présence de tumeur résiduelle dans 65 % des cas .
+Ces taux sont similaires à ceux publiés avec le système ABBI , avec le taux d' envahissement des berges variaient entre 45 et 93 % .
+Compte tenu de ces résultats , l' exérèse en routine de petits cancers ne peut être proposée avec cette canule , car son diamètre nous semble insuffisant .
+Nous sommes actuellement en train d' évaluer une canule de diamètre plus important ( 22 mm ) .
+Les résultats obtenus sur les 30 premières patientes sont prometteurs .
+Parallèlement à cette chirurgie a_minima , une multitude de nouvelles techniques font leur apparition .
+Ainsi , la radiofréquence utilisée au préalable dans le traitement des métastases hépatiques fait l' objet d' une évaluation pour les petits cancers infiltrants mammaires [ 32 and 60 ] .
+Les premiers résultats sont encourageants mais le recul est encore trop court .
+Il en est de_même pour la radiothérapie interstitielle  , les ultrasons  , le laser interstitiel  et la cryothérapie  .
+5. Conclusion
+Le traitement conservateur du cancer du sein , associant tumorectomie , curage axillaire et radiothérapie du sein , a subi de profondes modifications depuis une dizaine d' années .
+Le développement de la technique du ganglion sentinelle , la chirurgie oncoplastique et plus récemment la chirurgie stéréotaxique suscitent l' engouement du fait de bénéfices en termes de morbidité , d' invalidité , de séquelles postopératoires physiques et psychologiques .
+Mais ces techniques doivent faire l' objet d' une stricte évaluation au sein d' équipes multidisciplinaires comme c' est le cas actuellement pour l' évaluation prospective du ganglion sentinelle .
+Cependant , ces nouvelles approches thérapeutiques ne doivent pas nous faire oublier l' importance de l' obtention de limites d' exérèse saines dans la prévention des récidives locales .
+L' appréciation de ces limites et la taille des lésions tumorales permettent de prédire la présence d' une maladie résiduelle et son importance , à condition d' une prise en charge standardisée des pièces d' exérèse

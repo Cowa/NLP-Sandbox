@@ -1,0 +1,42 @@
+Le traitement du cancer du sein représente 30 à 40 % de l' activité des centres de radiothérapie français .
+L' efficacité de la radiothérapie dans cette localisation n' est plus à démontrer mais la place des techniques modernes ( simulation virtuelle , approche conformationnelle , modulation d' intensité , etc. ) reste un sujet de discussion pour différentes raisons : - la glande mammaire est un organe mobile et souple , sensible à la respiration , pour lequel il est difficile d' assurer une parfaite reproductibilité  ;
+- la délimitation d' un volume cible précis ( volume tumoral macroscopique , volume cible anatomoclinique ) , au sens de l' « International Commission on Radiation Units and Measurements » ( ICRU )  , est délicate et controversée , posant le problème de la place de l' imagerie par_rapport_à celle d' une palpation clinique , et celui de la limite sous-cutanée , dans une région où l' équilibre électronique n' est pas nécessairement assuré ;
+- l' irradiation des chaînes ganglionnaires associées pose des problèmes complexes d' incidence des faisceaux et de jonctions de faisceaux ;
+- du fait de la forme du sein et de la proximité du poumon et du coeur , la technique de référence reste , pour la glande mammaire , l' irradiation par deux faisceaux tangentiels pour lesquels la radiothérapie conformationnelle avec modulation d' intensité  permet essentiellement une compensation de surface mais pas de véritable adaptation à la forme du volume cible .
+Cependant , depuis l' utilisation de scanneurs en radiothérapie , le repérage des volumes cibles ( sein et aires ganglionnaires ) a évolué .
+La préparation du traitement peut à_présent être réalisée à_partir_de coupes tomographiques et d' une reconstruction en trois dimensions , avec ou sans marquage des faisceaux au simulateur .
+Par ailleurs , les accélérateurs sont dotés d' un système d' imagerie portale permettant un contrôle rapide du positionnement du patient .
+Des méthodes prenant en compte les mouvements respiratoires sont en évaluation  et de nouvelles modalités d' irradiation réalisées sur des appareils autres que les accélérateurs linéaires classiques apparaissent ( tomothérapie , hadronthérapie , par_exemple ) .
+Alors que quelques centres en France évaluent l' utilisation de ces nouvelles techniques , il nous a paru utile de faire aujourd'hui le point sur les techniques utilisées en France pour la préparation et le traitement du sein .
+Un questionnaire a donc été envoyé dans 194 centres de radiothérapie , avec l' aide de la société française de radiothérapie oncologique ( SFRO ) .
+2. Le questionnaire
+Le questionnaire a été envoyé en juin 2005 .
+Il comporte huit thèmes : - position et immobilisation du patient ;
+- système d' acquisition des données anatomiques ;
+- mise en place des faisceaux ;
+- faisceaux tangentiels ;
+- volume paroi ( après mastectomie ) ;
+- aires ganglionnaires ;
+- boost du lit tumoral ;
+- images de vérification .
+3. Résultats préliminaires sur 50 centres
+Les résultats de l' enquête seront présentés lors du congrès SFRO de décembre 2005 à Paris , pendant la session « Préparation à l' irradiation du cancer du sein par simulation virtuelle » .
+Quelques résultats préliminaires sur les thèmes 1 - 3 , dégagés à partir des 50 premières réponses au questionnaire sont présentés dans le Tableau 1.
+Tableau 1.
+Résultats préliminaires de l' enquête sur 50 centres
+Nombre de centres Position et Immobilisation du patient À plat1 Sur plan incliné avec support de bras réglable45 Un bras relevé42 Les deux bras relevés6 Acquisition des données anatomiques Simulateur + conformateur4 Simulateur - scanneur21 Scanneur29 Mise en place des faisceaux Directe au simulateur20 Sur le système de planification des traitements , avec repères cliniques sur coupe16 Sur une station de simulation virtuelle8 À partir d' un volume tridimensionnel11
+Full-size table
+View Within Article
+Il ressort de cette préétude que dans la grande majorité des centres le positionnement des patients est réalisé avec un plan incliné avec support de bras réglable .
+Sur les 50 centres , un seul utilise la mousse expansée , les patients à plat sur la table dans un centre .
+Habituellement , un seul bras est relevé , sauf pour six centres qui préfèrent relever les deux bras ( deux utilisent l' une ou l' autre position ) .
+L' acquisition des données anatomiques est réalisée soit avec un simulateur - scanneur ( 21 centres ) , soit avec un scanneur ( 29 centres ) .
+Quatre services utilisent l' un ou l' autre en routine .
+Le conformateur est le système de routine dans quatre centres .
+La mise en place initiale des faisceaux est réalisée en majorité directement au simulateur ( 20 centres ) .
+Seize centres placent leurs faisceaux au_cours_de la dosimétrie .
+Une station de simulation virtuelle est utilisée dans huit centres .
+Le ( s ) volume ( s ) cible ( s ) sont délinéés et servent au choix des caractéristiques des faisceaux dans 11 services de radiothérapie .
+Des statistiques plus détaillées seront présentées en décembre , en élargissant l' étude à quelques caractéristiques du traitement telles_que l' utilisation de faisceaux tangentiels de photons asymétriques , des électrons pour l' irradiation ganglionnaire ou le traitement après mastectomie , l' utilisation ou non de système d' imagerie portale .
+Remerciements
+À Mmes Mary Hittinger , administration de la SFRO , et Laurence Virolan , secrétariat de physique médicale de l' institut Curie , pour leur aide dans l' organisation de cette enquête

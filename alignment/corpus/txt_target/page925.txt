@@ -1,0 +1,188 @@
+Hereditary breast cancer accounts for approximately 5 - 10% of all breast cancer cases and often includes mutations of the two breast cancer susceptibility genes , BRCA1 and BRCA2 .
+Women born with mutations in either BRCA1 or BRCA2 are at significantly higher risk of developing breast and ovarian cancer than are women in the general population , but the magnitude of risk to women in the former group is controversial  .
+Studies have shown that mutations in BRCA1 are associated with up to an 87% risk of breast carcinoma by the age of 70 years ; and besides the life-time risk , mutations of the BRCA1 and BRCA2 tumour suppressor genes increase the risk of early onset breast carcinoma .
+BRCA1 mutation carriers have an 18% risk ( 15% for BRCA2 mutation carriers ) for developing breast cancer before the age of 39 years , and the risk increases to 59% ( BRCA2 34% ) at ages 40 - 49 years .
+The cumulative risk is estimated to be 3.2% by the age of 30 years  .
+For adult women in an at-risk family , identification of cancer-predisposing mutations is a necessary first step towards improved treatment and prevention .
+Hereditary breast cancer is inherited in an autosomal-dominant way ; i.e. , a woman with an abnormal BRCA susceptibility gene has a 50% chance of passing that gene on to her children .
+Women in this situation are therefore confronted with the reality that their children might develop breast cancer at some point in their lives .
+If these children have not reached legal age , the parents might raise the question whether genetic testing for breast cancer susceptibility genes in minors is useful .
+However , unlike testing for other cancers for which preventive or therapeutic strategies exist ( e.g. , Li Fraumeni syndrome , familial adenomatous polyposis , or Von Hippel-Lindau ) , having information about one 's BRCA1 / 2 mutation status before reaching the legal adult age is not considered medically necessary for disease prevention or early detection .
+Guidelines for the early detection of breast cancer advise that testing should begin no earlier than the age of 20 years , recommending surveillance techniques such as breast self-examination and clinical breast examination  .
+Existing guidelines also stress that genetic testing should be offered at the moment health benefits expand but should not be offered before that time .
+Predictive genetic testing is recommended only when established , effective , and important medical treatment  can be offered or when testing provides scope for treatment which to any essential degree prevents , defers or alleviates the outbreak of disease or the consequences of the outbreak of disease  .
+The rationale behind this option is that predictive testing in minors for adult-onset disease should be delayed until the person is old enough to make an informed choice  .
+In addition , early identification of a breast cancer susceptibility gene in minors is associated with psychological , social , and ethical concerns  .
+The objective of this article is to provide a systematic and detailed review of the attitudes of minors , parents , relatives of affected individuals and healthcare professionals towards predictive genetic testing for breast cancer .
+We will specifically investigate what these stakeholders consider as the preferred or ideal age for such testing and the reasons they advance to support their position .
+We will analyze whether the position recommended in the reviewed guidelines is shared by the various stakeholders .
+Little is known about the extent to which the parties involved agree on the professional recommendations concerning cancer susceptibility testing .
+For the sake of clarity , we define minors as all persons who have not reached legal age ( which in most countries is 18 years ) .
+What distinguishes children from adolescents is the gradual development of a child 's cognitive skills and moral reasoning and the fact that as children progress through successive states of development , they become capable of greater participation in decisions about their own welfare  .
+When discussing adolescents , we refer to minors who are able to participate in the decision as an autonomous individual  , or minors who have decision making capacity  .
+When discussing children , we refer to minors who are considered to be unable to do so .
+2. Method2.1 .
+Data sources .
+We searched the databases PubMed , Google Scholar , Psycinfo , Biological Abstracts , Francis , Eric , Anthropological Index Online , Web of Science , and Sociological Abstracts , using one of the following keywords attitude , view , survey , questionnaire , responses , opinions , beliefs , interview , perspectives , reasoning , focus groups , convictions , values , ideas , emotions , thoughts , feelings ; the actual search used the keyword in truncated form in combination with the terms BRCA or breast or ovarian .
+In addition , a referral to minors was also examined through the following keywords child , childhood , adolescent , infant , young , minor , pediatric or paediatric .
+Relevant references within pertinent articles were also consulted .
+The search included literature indexed up to May 2006 .
+2.2. Study selection .
+The abstracts of the retrieved articles were read , and studies were included for further consideration if they were published in a peer-reviewed journal appearing in English , and if they reported the attitudes of minors , parents , relatives of affected individuals , or healthcare professionals towards predictive genetic testing for breast cancer in minors .
+Studies that described attitudes towards population screening in minors were excluded .
+Quantitative as well as qualitative studies were included .
+2.3. Data extraction and synthesis .
+As there was considerable heterogeneity in populations studied and measures used in candidate articles , we considered it inappropriate to pool the data in a meta-analysis and instead present them in summary form .
+3. Results .
+We identified 14 studies about attitudes towards genetic testing for hereditary breast cancer in minors .
+These studies were very heterogeneous and used a variety of study populations , study designs , samples sizes , and study measures .
+The quality of the studies also varied .
+An overview of the studies is presented in Table 1. In Table 2 , we describe the attitudes towards predictive genetic testing for breast cancer in minors and summarize the questions asked and the responses to these questions .
+Various studies distinguished two different situations :  the case of adolescents requesting a genetic test for BRCA , and  the case of parents requesting such a test for their children .
+Based on these studies , we provide an overview of the arguments used for and against such testing in both cases .
+It is not our aim to make a qualitative appraisal of every argument or to describe how many persons defend these arguments .
+Table 1. .
+Aim , design , methods , measures and limitations of studies assessing the attitudes towards predictive testing in minors with a family history of breast cancer .
+AuthorsAimDesignMethods of data collectionMeasuresLimitations Rowley and Loader  To assess knowledge and attitudes of area obstetrician - -gynaecologists towards DNA testing for genetic susceptibility to breast cancer.Descriptive surveyQuestionnaireAttitudes about testing for a genetic susceptibility to breast cancer.Background information might have biased the respondents answers ; representativeness of the sample .
+Benkendorf_et_al.  To assess the attitudes of unaffected first-degree relatives of women with breast or ovarian cancer regarding the ethical issues of autonomy and confidentiality as they relate to BRCA.Descriptive surveyTelephone structure interview .
+Subjects were recruited by contacting an affected relative ( identified through patient lists of the Georgetown University Medical Center and the Washington Hospital Center.Demographic variables ; familial risk ; genetic testing exposure ; knowledge about genetic testing ; dispositional optimism ; information-seeking coping style ; attitudes about ethical issues in genetic testing.The sample comprised primarily middle class and white ; no post-counselling and education questionnaire .
+Geller_et_al.  To determine what consumers and providers would want to discuss about breast cancer susceptibility testing and their preferred role in testing decisions.Descriptive surveyQuestionnaire .
+Consumers were recruited by asking the names and addresses of unaffected first-degree relatives of women listed in the John Hopkins and Maryland Statewide Tumor Registries .
+Nurse practitioners were identified through the Nurse Practitioner Association of Maryland .
+Physicians were randomly selected from the American Medical Association Physician Masterfile.Demographic variables , questions related to pre-test discussions , pre-test decision-making and post-test decisions.Not described Geller_et_al.  To determine the views of daughters at increased risk of developing breast cancer regarding the benefits and risks of participating in genetic susceptibility research and to determine the mothers views about enrolling their daughters in genetic susceptibility research.Interview studyMothers and daughters were interviewed separately , and in most cases simultaneously , and were audiotaped .
+The interviews were transcripted and coded.Open-ended interviewHypothetical interest in participating in genetic testing research is often higher than actual interest ; limitations on the generalizability of findings ; all of the families in the sample were white .
+Hamann_et_al.  To study the attitudes toward BRCA1 testing for children among individuals who have received test results for a family-specific BRCA1 mutation.Descriptive surveyTelephone interview of women approximately 4 - 7 months after receiving their genetic test result.Opinions about genetic testing for minors ; demographic variables ; general attitudes toward genetic testing ; general psychological distress ; test-related distress ; breast / ovarian or cancer-related surgery history ; family cancer history ; personal BRCA1 mutation status.No pre- and post-testing measurement ; sample is not representative in terms of race and religion .
+Lucassen and Houlston  To investigate the nature and degree of variation that exists in practice and attitudes towards genetic testing for breast cancer susceptibility genes.Descriptive surveyQuestionnaires were sent to 57 geneticists in the United Kingdom , representing all specialist registrars and consultants involved in cancer genetics.Attitudes were asked about four clinical cases.Not described Campbell and Ross  To study healthcare professionals attitudes regarding parental access to and confidentiality of predictive genetic testing of children.Interview studyAll interviews were recorded and tapes transcribed .
+Data were examined qualitatively.Subjects were asked about how they would respond to families requesting predictive testing for various conditions , about policy recommendations as well testing preferences for their own children ( assuming that they had a positive family history ) , about their attitudes towards questions related to confidentiality of genetic information.Small sample ( n = 25 ) ; sample was a convenience sample .
+Harel_et_al.  To examine adolescents attitudes towards genetic testing for breast cancer.Descriptive surveyStudents were asked to participate in an anonymous survey .
+Parental or guardian consent was sought .
+Information about three hereditary disorders was provided .
+Afterwards the students attitudes were assessed.Demographic variables , attitudes towards genetic testing for three different disorders.No information about socio-economic background and insurance coverage .
+Individuals were not at high risk for these conditions .
+Limited to a population of a suburban high school .
+Welkenhuysen and Evers-Kiebooms  To investigate attitudes of midwives and nurses regarding predictive testing for hereditary breast cancer.Descriptive surveyMail questionnaires were sent to a sample of midwives and nurses , randomly selected from the membership files of midwife and nursing associations.Demographic variables , opinions about the acceptability of a predictive test.Low response rate from the sub-sample of nurses .
+Welkenhuysen and Evers-Kiebooms  To investigate the reactions of general practitioners ( GPs ) , nurses , and midwives concerning the cancer risks in a high-risk family.Descriptive surveyMail questionnaires were sent to a sample of GPs , midwives , and nurses , randomly selected from the membership files of their respective professional associations.Demographic variables , a hypothetical scenario involving breast cancer , followed by open-ended questions.Low response rate from the sub-sample of nurses .
+Yumuk_et_al.  To identify attitudes toward genetic testing.Descriptive surveyA questionnaire was used for subjects at three different hospitals .
+Nurses and medical students were approached when they were on duty on different floors ; oncology patients relatives were surveyed in outpatient chemotherapy unit waiting rooms ; non-oncological patient groups were approached while they were waiting in other outpatient waiting rooms.Demographic variables ; attitudes towards genetic testing.Not described Campbell and Ross  To explore parental attitudes and beliefs about genetic testing of children for conditions that present throughout the life cycle.Focus group studyFocus groupsFive cases of varying degree of controversy were explored , beginning with the least controversial.The focus groups represented a convenience sample .
+Only a few respondents with personal experience with genetic conditions .
+Cappelli_et_al.  To examine psychological and family functioning , health attitudes , and beliefs about genetic risks in adolescent females.Descriptive surveyQuestionnairesChild behaviour checklist ; youth self-report form ; family assessment measures ; breast cancer survey.Since no genetic testing was conducted , no correlation can be made with actual genetic risk ; small sample further precluded analysis of subtypes based on family history of cancers .
+Riordan and Loescher  To examine attitudes of medical students at a single university towards genetic testing in minors.Descriptive surveyQuestionnaires were distributed in the mailboxes of medical students.Three clinical vignettes ; demographic characteristics.Sample was limited and possibly biased .
+Full-size table .
+View Within Article .
+Table 2. .
+Summary of finding , study population and sample size of included studies .
+AuthorsSummary of findingsStudy populationSample size and response rate Rowley and Loader  Opinion was divided about the appropriateness of offering testing to daughters under the age of 18 years of a woman harbouring a BRCA1 mutation. ( 23.8% strongly agreed , 22% agreed somewhat , 21.9% neither agreed nor disagreed , and 32.3% disagreed ) .Obstetrician-gynaecologists of all five Rochester ( USA ) hospitals having obstetric services.Of the 124 area prenatal-care providers , 105 were present for the presentation and completed the attitude questionnaire .
+Benkendorf_et_al.  Most of the women agreed that parents should be able to decide whether their minor children should have a genetic test ( 32% agreed strongly and 56% agreed ) .Women aged 18 - 75 years with at least one first-degree relative with breast and / or ovarian cancer and no personal history of cancer.238 women , no response rate mentioned .
+Geller_et_al.  37% of women , if found to have a susceptibility , would test a 13-year-old daughter ; 32% of both physicians and nurse practitioners thought it was important to test the 13-year-old daughter of a women susceptible to inherited breast cancer.At-risk women plus nurse practitioners , and physicians in five specialities in Maryland.At-risk consumers : 426 / 584 ( 73% ) ; nurse practitioners : 143 / 179 ( 80% ) ; physicians 296 / 601 ( 49.3% ) .
+Geller_et_al.  The study observed that mothers and daughters had a range of reactions to the prospect of enrolling children and adolescents in genetic susceptibility research ; that perceptions of benefits and risks were fairly concordant between mothers and daughters ; and that daughters initially identified no risks of participating , but their perceptions of the risks and benefits evolved during the course of conversation.Mothers and daughters from 12 breast cancer families recruited primarily through the Breast Center at Johns Hopkins University.12 mother - daughters dyads were interviewed .
+Hamann_et_al.  Of the 218 study participants , 57 ( 26.1% ) agreed with the statement that children under the age of 18 years should have the opportunity to be tested for BRCA1 gene mutations , 133 ( 61% ) did not agree , 21 ( 9.6% ) either responded that they were not sure or it depends , and 7 ( 3.2% ) either did not know or declined to answer the question .
+Among the 218 study participants , 104 reported having children under the age of 18 years .
+Of these 104 individuals , only 18 ( 17.3% ) noted that they would want their own children tested for a BRCA1 mutation , while ( 82.7% ) did not endorse this statement.Individuals who were tested for a BRCA1 mutation and learned their mutation status from a certified genetic counsellor .
+They belong to an extensive Utah-based kindred of northern European descent with a known cancer-susceptibility mutation in BRCA1.218 individuals ( 133 women and 85 men ) participated .
+No response rate mentioned .
+Lucassen and Houlston  34% ( 16 / 47 ) of the respondents were prepared to offer predictive testing to a 15-year-old girl asking for a predictive test ; 49% ( 23 / 47 ) were not prepared to do so ; 15% ( 7 / 47 ) did not know what action they would take.Clinical geneticists in the United Kingdom who deal with cancer genetics.Of 57 geneticists , 47 completed questionnaires were received ( 83% ) .
+Campbell and Ross  Regarding the access to presymptomatic genetic testing for breast cancer in adolescents with a family history of the disease , 4% ( 1 / 25 ) of the clinicians would encourage testing , 16% ( 4 / 25 ) would prohibit testing , 40% ( 10 / 25 ) would permit testing in all circumstances , and 40% ( 10 / 25 ) would permit but discourage testing.Healthcare professionals ( geneticists and paediatricians ) .13 geneticists from 10 different institutions or practice sites ; 12 paediatricians from 9 different institutions or practice sites .
+No response rate is mentioned .
+Harel_et_al.  Most girls ( 67% ) wanted to be tested for familial breast cancer .
+Girls who had a relative with breast cancer were significantly more willing to be tested than were other girls ( 78% vs. 61% , p 0.05 ) .
+The main reason given by girls against genetic testing for breast cancer was that knowledge would make them too nervous / stressed.Students in grades 10 - 12 attending a suburban high school in Barrington , Rhode Island.Of 672 students , 361 completed the questionnaire ( 54% ) .
+Welkenhuysen and Evers-Kiebooms  Agreement was higher when a 16-year-old adolescent requests a predictive test for breast cancer ( median 5 , S.D. 1.22 ) than when parents request predictive testing of their 5-year-old child ( median 3 , S.D. 1.79 ) .Midwives and nurses in Flanders.Of 119 midwives and 881 nurses , 69 midwives ( 58% ) and 293 nurses ( 33% ) responded .
+Welkenhuysen and Evers-Kiebooms  30% of the GPs and 35% of the nurses / midwives argued that a 2-year-old daughter at risk for breast cancer is too young for a test .
+On the other hand , 26% of the GPs and 30% of the midwives / nurses thought that a predictive test for the daughter would be useful.GPs , nurses , and midwives in Flanders.Of 356 GPs , 881 nurses , and 69 midwives , 215 GPs ( 60% ) , 69 midwives ( 58% ) , and 293 nurses ( 33% ) responded .
+Yumuk_et_al.  If the survey respondents had an increased cancer risk , 92.7% would have their children tested.Randomly chosen individuals in three different hospitals in Turkey , including patients without cancer , caregivers of cancer patients , senior medical students , and nurses.179 individuals participated ( 38 patients without cancer , 51 caregivers of cancer patients , 35 senior medical students , and 55 nurses ) .
+Campbell and Ross  There was widespread interest ( 9 of 11 focus groups ) in testing children for the breast cancer gene.Randomly recruited individuals in the suburbs of Chicago .
+Caucasians as well as Afro-Americans were intensively recruited.12 focus groups comprising 4 - 12 respondents .
+Overall there were 102 respondents ( 18 males and 84 females ) .
+Cappelli_et_al.  Of the 55 mother - daughter pairs in which the mother had been treated for breast cancer , 76% of the adolescent daughters and 74% of the mothers would take a BRCA gene test.Mothers with a previous history of breast cancer ( and a control group without a history of breast cancer ) and their adolescent daughters.55 women with a previous history of breast cancer and 55 women without a history of breast cancer .
+Riordan and Loescher  47% of students would agree to test a 7-year-old for a BRCA1 breast cancer predisposition ; 83% would agree to test a 17-year-old for the same disorder .
+Students who had already taken a genetics course were less willing to provide testing to a 7-year-old.Medical students at the University of Arizona.Of 435 students , 135 completed the questionnaire ( 31.5% ) .
+Full-size table .
+View Within Article .
+3.1. Adolescents requesting a genetic test3.1.1 .
+Arguments for testing .
+Three main arguments were described in favour of providing a predictive genetic test for hereditary breast cancer upon the request of adolescents .
+Firstly , various healthcare professionals argued that adolescents can be considered competent and able to give consent to treatment or investigation  .
+Secondly , various stakeholders referred to the potential psychological benefit .
+A clinical geneticist mentioned that genetic testing in minors can lead to potential reassurance and potential lifestyle chances , usage of the contraceptive pill and planning  .
+Some midwives and nurses mentioned such benefits as planning life better , removing uncertainty , and preparing oneself psychologically  .
+Especially mothers who had breast cancer or who were at increased risk for breast cancer emphasized psychological benefits that might stem from relief associated with a negative test result  .
+Thirdly , some studies referred to the medical benefit of early detection and preventive measures  .
+In a survey of adolescents , girls wishing to be tested stated that , in the event of a positive result , they would submit to frequent breast examinations ( 83% ) and to early mammograms ( 74% )  .
+3.1.2. Arguments against testing .
+Four main arguments were described against genetic testing upon the request of adolescents .
+Firstly , some healthcare professionals indicated that they would require both the consent of the parents and the adolescent before proceeding with genetic testing  .
+Secondly , various studies referred to the potential negative psychological consequences of genetic testing for breast cancer in adolescence .
+Some clinical geneticists feared that testing could affect the self-image of the adolescent if the test result was positive  .
+Various studies reported that respondents feared that testing could lead to increased anxiety or stress in adolescents undergoing testing  .
+Also , one study reported substantial concern about potential stigmatization  .
+Thirdly , various studies reported that respondents felt that there were no immediate medical benefits in performing predictive genetic testing in minors for breast cancer .
+As a clinical geneticist puts it : She is likely to have 10 - 20 years before it does become imminent and circumstances may have dramatically changed by then .
+It is hard to see how any immediate decisions , for example , life plans , would be influenced by knowledge of carrier status at 15 Her risk is negligible at this age .
+In an interview study , mothers who had breast cancer before the age of 50 years or who were at increased risk for breast cancer questioned the value of having genetic test results in the absence of an effective intervention  .
+In the absence of immediate medical benefits , some clinical geneticists advised more time for reflection  .
+Some adolescents considered themselves also too young to get tested  .
+Fourthly , some clinical geneticists referred to the fact that testing might lead to a slippery slope : Thin end of wedge .
+Why not a mature 12 year old ?  .
+3.2. Parents requesting a genetic test for their children3.2.1 .
+Arguments for testing .
+Three main arguments were described in favour of performing a genetic test upon the request of parents .
+Firstly , in some studies some respondents referred to the advantages of early detection and the start of preventive measures ( breast self-examinations , clinical breast examinations , or diet modification ) at an early age  .
+Secondly , some midwives and nurses referred to the fact that testing in childhood can remove uncertainty , can prepare the child psychologically , or can prepare the child for the future  .
+Thirdly , some midwives and nurses referred to parents right to know , because it is about the health of their own child  .
+3.2.2. Arguments against testing .
+Three main arguments were described against genetic testing for inherited cancer-predisposing mutations .
+Firstly , some studies referred to the absence of immediate medical benefits and the potential for many healthy years before medical implications may appear  .
+Secondly , some midwives and nurses indicated that knowing one 's carrier status can lead to added psychological burden on the child and the parents , a dark future , and a danger of stigmatization  .
+Thirdly , some studies referred to personal autonomy , a child 's right not to know , and a child 's right to decide later in life  .
+4. Discussion .
+Substantial proportions of adolescents were interested in learning whether they are at risk for familial breast cancer  .
+The attitudes of healthcare professionals ( geneticists as well as paediatricians or obstetricians - gynaecologists ) about testing adolescents for breast cancer diverged  .
+For example , a survey of clinical geneticists dealing with cancer genetics in the U.K. showed that 34% of the respondents would offer predictive testing to a 15-year-old girl whose mother carries a pathogenic BRCA1 mutation , who is mature for her age , and who is well informed about the risks of such a test  .
+Forty-nine percent of respondents would not do so and 15% did not know what action they would take .
+The split in opinions is related to the complexity of such a request and the balance between potential harms and benefits .
+Respondents  have stressed that adolescents have decision-making capacity and are often mature enough to take control of their own healthcare and to request a genetic test for familial breast cancer .
+Several professional guidelines related to genetic testing in minors already acknowledge the gradual development of a child 's cognitive skills and moral reasoning .
+Although it can be argued that parents consent for a genetic test is clearly advisable for adolescents , this is legally not always required .
+In the U.K. , for example , the Family Law Reform Act  contextualizes the British Medical Association 's ( BMA ) recommendation on genetic testing  .
+In this document , the BMA states that young people between 16 and 18 years old are presumed to be competent to give consent to genetic testing , without any necessity to obtain consent from his / her parent or guardian .
+As with adults , various professional guidelines clearly recommend for adolescents that predictive genetic testing should only occur after pre-test counselling wherein complete information is provided about the disorder , the value and limitations of the test result , preventive and therapeutic options , and the possible psychological impact of the test .
+It should also be questioned whether the test request is voluntary and comes from a competent applicant .
+The arguments used in favour of providing a predictive genetic test for an adult-onset disease at an adolescent on his request are in line with the general evolution in medicine to take into account the adolescent 's maturity and decision-making competence .
+However , no article included in this review adequately defined these frequently used terms , neither provided recommendations for assessing the psychosocial maturity of adolescents .
+As well professional guidelines regarding predictive genetic testing do not provide recommendations regarding the assessment of a minor 's competence  .
+It is of crucial importance that health professionals who assess competence are skilled and experienced in counselling young patients  .
+Many respondents of the studies reviewed here would probably refrain from requesting a predictive genetic test after being informed of the potential risks of such a test .
+For many adolescents interviewed in the studies the invitation to participate in a genetic test for breast cancer was a hypothetical situation and was not the result of a careful assessment of the benefits and risks of such a test .
+This is illustrated by an interview study that showed that all adolescent respondents , regardless of age , responded affirmatively when asked whether they would undergo testing , because the interview focused on non-invasive sample collection rather than on assessment of risks and benefits of the test itself  .
+In addition , a study of individuals who were tested for a BRCA1 mutation and who learned their mutation status from a certified genetic counsellor showed significantly less support for testing  than did a survey study of unaffected first-degree relatives of breast cancer patients  .
+A potential explanation for this finding is that individuals who have experienced genetic counselling and testing themselves may be more aware of the potential risks and limitations than those who have not been counselled or tested .
+This might also explain why relatively many respondents supported genetic testing in minors for an adult-onset condition such as breast cancer , although this is in opposition with the recommendation of the genetic societies regarding genetic testing for late-onset conditions .
+Various parents believe that detection in childhood might be advantageous for starting preventive measures and might help prepare their children and themselves psychologically for the future  .
+Therefore , parents often believe they should have the right to give their consent for genetic testing for BRCA in their children .
+Studies of medical students  ; obstetricians - gynaecologists  ; paediatric residents  ; and medical students , residents , and practicing physicians  have shown that various healthcare professionals would agree to providing genetic testing for children upon parental request .
+The reviewed surveys indicate that various respondents apparently have failed to understand the potential risks related to genetic testing and may have misunderstood the concepts of genetic transmission or neglected to take them into account when considering the genetic testing of minors .
+A review of professional guidelines  indicates that all professional guidelines similarly formulate that predictive genetic testing for adult-onset diseases should only be performed for persons of legal age , except in cases of disorders for which preventive or therapeutic actions could be initiated .
+This is based on the rationale that medical benefit to the child should be the primary justification for genetic testing .
+In the cases in which testing is not urgent ( e.g. , the outbreak of the disease occurs only in adulthood and no therapy or preventive measures can be initiated before that time ) , it has been stressed that testing should be delayed until the person is old enough to decide for him or herself .
+This cautious position towards testing of minors has been adopted , because testing minors might harm self-esteem , create depression or anxiety , distort the family perception of a child , or stigmatize a child .
+Authors have also stressed that testing children can breach the confidentiality  and the privacy of genetic information  .
+It has also been argued that adolescents are disadvantaged in their ability to make such a complex and potentially life-changing decision by incomplete brain maturation , and associated underdevelopment of executive functions  .
+These findings underscore the need for genetic education and counselling when addressing requests for testing minors .
+This might help to bring the expectations and assessment of risks to a realistic level .
+Studies have shown that patients  and healthcare professionals  that do not have daily involvement with clinical genetics may have exaggerated expectations about genetic testing .
+Due to the focus on familial breast cancer , the results of this study cannot be considered representative for other adult-onset diseases .
+Research  showed , for example , that the accepability ratings for predictive genetic testing in adolescents for an unpreventable and untreatable disease such as Huntington Disease were less favourable than for preventable and / or treatable diseases .
+This makes clear that when discussing an adolescent or parental request for a predictive genetic test for an adult-onset disorder various individual elements should be taken into consideration : availability of preventive and therapeutic measures for the disease , severity of the disease , utility of the genetic test , the foreseen onset of the disorder , psychosocial , ethical and legal concerns  .
+A recent study  also showed that the majority of clinical geneticists in the USA , Canada , UK , Australia , and New Zealand agreed with existing guidelines regarding predictive genetic testing in minors , but only 15% cited policy as a reason for refusing such tests .
+This indicates that clinicians are making individual judgments , as opposed to simply following suggested recommendations  .
+5. Conclusion .
+Through our systematic review , we analysed common arguments used in favour of or against predictive genetic testing of minors in the case of familial breast cancer .
+Although an accurate comparison of the various studies was very difficult due to the varying study populations , study designs , samples sizes , and study measures , our analysis showed that many respondents were not aware of the potential risks related to such testing .
+Various respondents took a position opposed to the position advanced in professional recommendations .
+We also observed a lack of representative studies on geneticists and genetic counsellors , a professional group issuing the most recommendations on genetic testing in minors .
+Further research should be performed on the attitudes of geneticists and genetic counsellors towards genetic testing in minors and their adherence to professional guidelines on that topic .
+Reviewers .
+Angus Clarke , Institute of Medical Genetics , Cardiff University , University Hospital of Wales , Heath Park , Cardiff , Wales CF14 4XN , United Kingdom .
+Fiona Richards , Senior Social Worker , Department of Clinical Genetics , The Children 's Hospital at Westmead , Locked Bag 4001 , Westmead , NSW 2145 , Australia .
+Acknowledgement .
+The research for this contribution was supported by the Eurogentest Network of Excellence of the EU , FP6-512148 .

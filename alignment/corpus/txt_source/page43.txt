@@ -1,0 +1,242 @@
+Pendant longtemps , la sélection des patientes pour recevoir une hormonothérapie , pendant au moins cinq ans après le traitement locorégional adjuvant , était basée uniquement sur l' expression des récepteurs hormonaux aux estrogènes et / ou à la progestérone de leur cancer du sein .
+Depuis une vingtaine d' années , un nouveau paramètre biologique pronostique ( mais_aussi prédictif ) de réponse à un traitement ciblé par un anticorps monoclonal est utilisé : la surexpression de l' oncoprotéine HER2 / neu ( human epidermal growth factor receptor ) ou cerbB-2 .
+La surexpression de HER2 a été d'_abord identifiée comme un facteur pronostique indépendant  , puis comme facteur prédictif de moindre réponse aux traitements par le tamoxifène  ou aux polychimiothérapies ne contenant pas d' anthracyclines  .
+Il apparaissait donc naturel de développer dans une population cible ayant un cancer surexprimant HER2 un traitement spécifique .
+Le premier de ces traitements est à base de trastuzumab ( Herceptin ) .
+Le trastuzumab , anticorps monoclonal humanisé anti-HER2 , est le premier traitement à cibler un facteur de prolifération ( et de différenciation ) membranaire de la famille des HER 1 à 4. L' amplification du gène HER2 entraîne la surexpression du récepteur impliqué dans la tumorogenèse .
+HER2 interagit avec les autres membres de la famille HER pour initier les signaux et les réactions en cascade aboutissant à la division cellulaire et à la croissance tumorale .
+L' amplification de HER2 est détectée dans 20 à 30 % des cancers du sein .
+Elle est associée à un mauvais pronostic par rapport aux tumeurs HER2 négatives  .
+HER2 est analysé sur le tissu tumoral , soit en immunohistochimie ( IHC ) pour la protéine , ou par les techniques d' hybridation in_situ en réaction de fluorescence ( fluorescence in_situ hybridation ; FISH ) pour la détection de l' amplification génique  .
+Récemment , une autre méthode appelée CISH ( chromogenic in_situ hybridation ) a été développée sur du tissu tumoral fixé .
+Elle est aussi satisfaisante que la technique FISH pour évaluer le statut HER2  .
+Vingt ans seulement après sa découverte , le trastuzumab aura non_seulement changé le pronostic dans une population de patientes atteinte d' une forme de cancer du sein parmi les plus graves , mais_aussi la conception des traitements du cancer du sein , ouvrant la porte aux associations des traitements ciblés à la chimiothérapie , à l' association de traitements ciblés entre eux et aux stratégies d' identification de nouvelles cibles thérapeutiques .
+La surexpression de HER2 est reconnue pour prédire plus une extension viscérale ( foie , poumons , cerveau ) qu' une diffusion osseuse  .
+De ce fait , chez les patientes ayant des cancers du sein surexprimant HER2 , l' administration de trastuzumab seul ou associé à la chimiothérapie s' est d'_abord imposée comme la première alternative thérapeutique dès le diagnostic de métastases viscérales  , puis récemment en situation adjuvante  .
+En situation adjuvante , le bénéfice absolu en terme de taux de survie sans récidive est de 12 % à trois ans et de 18 % à quatre ans dans l' étude nord-américaine  et de 8,4 % à un an dans l' étude HERA  .
+Ces résultats exceptionnels en termes d' efficacité ont été obtenus au prix d' une toxicité , en_particulier cardiaque , parfaitement acceptable et souvent réversible .
+Cependant , ces études ne permettent pas de définir la meilleure séquence d' utilisation du trastuzumab ( en concomitant ou en séquentiel ) avec la chimiothérapie et la radiothérapie .
+Ils ne permettent pas_non_plus d' évaluer la toxicité tardive potentielle du fait des délais de suivi modestes des patientes .
+Dans cet article , nous ferons le point sur les avancées obtenues avec le trastuzumab dans les différentes situations .
+Nous discuterons plus particulièrement les différences entre les schémas d' administration ( séquentiel ou concomitant ) en situation adjuvante et les conséquences potentielles de l' effet synergique avec la chimiothérapie ( pour l' efficacité ) , et la possibilité d' une potentialisation des effets de la chimiothérapie et de la radiothérapie ( pour la toxicité ) au niveau des tissus sains , en_particulier cardiaque .
+Enfin , nous discuterons les possibilités ( et les limites ) qu' offrent les nouvelles techniques de radiothérapie pour réduire le risque toxique de l' association radiothérapie - trastuzumab , particulièrement en cas d' irradiation de la chaîne mammaire interne ( CMI ) .
+2. Efficacité du trastuzumab2.1 .
+Efficacité dans les modèles expérimentaux2.1.1 .
+Efficacité de l' association trastuzumab - chimiothérapie
+Le gène HER2 / neu ou c-erb B2 code pour un récepteur protéique de localisation transmembranaire .
+Il s' agit d' un récepteur à activité tyrosine kinase appelé p185HER2 / neu qui participe à la voie de la croissance cellulaire en créant des hétérodimères avec d' autres récepteurs à activité tyrosine kinase .
+L' idée initiale a été de développer des anticorps monoclonaux dirigés spécifiquement contre le domaine extracellulaire du récepteur transmembranaire p185HER2 / neu .
+In vitro , les anticorps murins qui ont été testés ont montré leur efficacité en bloquant la prolifération de lignées cellulaires tumorales mammaires humaines surexprimant HER2 .
+Cependant , in_vivo , ces anticorps monoclonaux génèrent des anticorps dirigés contre les antianticorps murins .
+Un anticorps monoclonal chimérique a alors été mis au point : le rhu mAb HER ou trastuzumab .
+Il associe 5 % de l' anticorps murin ( c' est-à-dire la région dirigée contre p185HER2 / neu ) et 95 % d' une immunoglobuline G humaine qui lui confère la spécificité d' espèce .
+Cet anticorps chimérique bloque le récepteur p185HER2 / neu à l' origine de la cytotoxicité .
+Un effet additif , voire synergique , est observé avec l' association du trastuzumab avec d' autres agents cytotoxiques ( comme les sels de platine , les taxanes ou les anthracyclines ) est sur les lignées cellulaires malignes cultivées in_vitro ou greffées sur des modèles animaux  .
+2.1.2. Efficacité de l' association trastuzumab - radiations ionisantes
+L' effet synergique du trastuzumab a également été démontré avec les radiations ionisantes in_vitro et chez la souris sur des tumeurs mammaires xénogreffées .
+L' interruption de la voie du facteur de croissance HER2 entraîne une déprivation de l' essentiel des mécanismes de transduction rendant spécialement vulnérables les cellules déjà endommagées par les radiations  .
+Dans leur modèle expérimental utilisant diverses lignées MCF7 surexprimant ( ou pas ) HER2 , Pietras et al. ont montré que le traitement combiné entraînait un effet inhibiteur de la réparation de l' ADN uniquement dans les lignées surexprimant HER2 .
+Ils ont également montré chez les souris xénogreffées avec des cellules MCF7 surexprimant HER2 , un effet antitumoral plus marqué après le traitement combiné par rapport aux témoins , au trastuzumab ou à l' irradiation seuls .
+Ces résultats précliniques suggéreraient une radiosensibilisation des cellules surexprimant HER2 par le trastuzumab  .
+2.2. Efficacité clinique en phase métastatique et en situation adjuvante
+Le trastuzumab est l' exemple des médicaments les plus rapidement développés dans le domaine de la cancérologie .
+L' humanisation de l' anticorps monoclonal de souris évitant la réponse immunitaire humaine de type allogénique date du début des années 1990  .
+À la même période , trois essais de phase I , incluant au total moins de 50 patientes en cinq mois , ont permis de déterminer les modalités d' administration du trastuzumab .
+Ces résultats ne seront pas publiés au moment de la sortie du premier essai de phase II ayant inclus 46 patientes en 1996  , soit à_peine neuf ans avant la présentation des résultats des essais en situation adjuvante portant sur près_de 6000 patientes .
+Ainsi , en moins de dix ans , ce médicament est passé de la phase I à une indication incontournable en situation adjuvante  .
+L' efficacité du trastuzumab dans le cancer du sein surexprimant HER2 a été démontrée dans toutes les situations , en phase métastatique viscérale , en situation néoadjuvante et en situation adjuvante .
+Tableau 1.
+Résultats des principaux essais thérapeutiques en situation métastatique avec le trastuzumab
+RéférencesNombre patientesSchémaRésultats Trastuzumab seul Baselga_et_al.  46TRO : 11,6 % ; RC : 2,3 % ; SSP : 5,1 mois
+Associations trastuzumab - taxanes Slamon_et_al.  138ACRO : 58 % ; RC : 4 % ; SSP : 6,1 mois 143AC + TRO : 56 %a ; RC : 8 % ; SSP : 7,8 moisa 96PRO : 17 % ; RC : 2 % ; SSP : 3 mois 92P + TRO : 41 %a ; RC : 8 % ; SSP : 6 ; 9 moisa Marty_et_al.  94DRO : 34 % ; RC : 2 % ; SSP : 6,1 mois 92D + TRO : 61 %a ; RC : 7 % ; SSP : 11,7 moisa
+Associations trastuzumab + vinorelbine Burstein_et_al.  54 ( 1re ligne ) V + TRO : 68 % ; RC : 7 % ; SSP : 5,6 mois Burstein_et_al.  40 ( 1,2,3 lignes ) V + TRO : 75 % ; RC : 8 % ; SSP 1re ligne : 34 semaines SSP autres lignes : 16 semaines ( NS )
+Associations trastuzumab + sels de platine Pegram_et_al.  37CDDP + TRO : 24,3 % ; RC : 0 % ; SSP : 5,3 mois Pegram_et_al.  62 ( FISH+ ) D' + CDDP + TRO : 77 % ; RC : 5 % ; SSP : 12,7 mois 59 ( FISH+ ) D' + CBDCA + TRO : 63 % ; RC : 20 % ; SSP : 15,6 mois Robert_et_al.  95P + TRO : 42 % ( FISH+ ) ; RC : NC ; SSP : 7,2 mois ( FISH+ ) 96P + CBDCA + TRO : 59 %a ( FISH+ ) ; RC : NC ; SSP : 13,5 moisa ( FISH+ ) Burris_et_al.  318 TP' + CBDCA' + TRO : 84 % ; RC : 26 % ; SSP : 14,2 mois Après progression au trastuzumab seul ( n = 16 ) : RO : 69 % ; RC : 6 % ; SSP : 8,3 mois
+Full-size table
+RO : réponse objective ; RC : réponse complète ; SSP : survie sans progression ; NS : non statistiquement significatif ; NC : non communiqué ; AC : doxorubicine et cyclophosphamide toutes les trois semaines ; T : trastuzumab hebdomadaire ; P : paclitaxel , 175 mg / m2 toutes les trois semaines ; P' : paclitaxel , 100 mg / m2 par semaine ; V : vinorelbine , 25 mg / m2 par semaine ; D : docétaxel , 100 mg / m2 toutes les trois semaines ; D' : docétaxel , 75 mg / m2 toutes les trois semaines ; CDDP : cisplatine , 75 mg / m2 toutes les trois semaines ; CBDCA : carboplatine AUC6 toutes les trois semaines ; CBDCA' : carboplatine AUC2 hebdomadaire .
+a Statistiquement significatif .
+View Within Article
+Tableau 2.
+Résultats des principaux essais thérapeutiques en situation néoadjuvante avec le trastuzumab
+RéférencesNombreSchémasRésultats Burstein_et_al.  404 P+TCHIR4xACpCR 19 % ( FISH+ ) Buzdar_et_al.  164 P' 4xFECCHIRpCR : 25 % 184 P' +T4xFEC+TCHIRpCR : 66.7 % ( p = 0,02 ) Coudert_et_al.  336 D+TCHIRpCR : 54 % ( n = 26 )
+Full-size table
+P : paclitaxel 175 mg / m2 en trois heures toutes les trois semaines ; P' : paclitaxel , 225 mg / m2 IV en 24 heures toutes les trois semaines ; D : docétaxel , 100 mg / m2 toutes les trois semaines ; AC : doxorubicine et cyclophosphamide toutes les trois semaines ; FEC : 5FU , 500 mg / m2 , épirubicine , 75 mg / m2 cyclophosphamide , 500 mg / m2 toutes les trois semaines ; T : trastuzumab hebdomadaire .
+View Within Article
+Tableau 3.
+Principaux résultats des essais thérapeutiques en situation adjuvante avec le trastuzumab .
+Les bras avec trastuzumab sont comparés au bras témoin de l' étude
+RéférencesEffectifSchémasToxicité cardiaque cumulativeaBénéfices relatifs SSR ( % ) SSRDSG ( % ) Romond_et_al.  16794 AC4 P0,7 % - - - Suivi médian de 2,4 ans16724 AC4 P+TT4,1 % - 52b - 53 %b - 33b
+Perez_et_al.  9794 AC12 P " 0 % - - - Suivi médian de 1.5 ans8404 AC12 P " +TT3,3 % - 52bNP - 33b 9854 AC12 P " T2,2 % - 13NP - 15
+Slamon_et_al.  10504AC4D10 événementsNP - Suivi médian de deux ans10684AC4TDT25 événements - 51bNP - 10566DCTT14 événements - 49bNP -
+Joensuu_et_al.  115Trastuzumab0 %NP - Suivi médian de trois ans116Pas de trastuzumab1 % - 58b
+Piccart-Gebhart_et_al. 
+Suivi médian de 1 an
+1693CT2,3 % - - - 1694CTT7,6 % - 50b - 49 %b - 24
+Full-size table
+AC : doxorubicine et cyclophosphamide toutes les trois semaines ; P : paclitaxel 175 mg / m2 en trois heures toutes les trois semaines ; P : paclitaxel 80 mg / m2 en une heure toutes les semaines ; D : docétaxel ; T : trastuzumab pendant un an ; SSR : survie sans récidive ; SSRD : survie sans récidive à distance ; SG : survie globale ; NP : non présenté ; CT : chimiothérapie .
+a L' évaluation de la toxicité cardiaque cumulative est réalisée différemment selon les essais .
+b Statistiquement significatif .
+View Within Article
+En première ligne métastatique , les taux de réponse avec le trastuzumab administré seul sont de 15 % chez les patientes antérieurement traitées  à 26 % chez les patientes naïves de toute chimiothérapie antérieure  .
+En combinaison avec d' autres produits , comme les taxanes , ces taux peuvent atteindre 70 à 80 %  .
+L' efficacité de l' administration du trastuzumab selon un schéma hebdomadaire ou toutes les trois semaines , seul  ou en combinaison avec la chimiothérapie  n' est plus à démontrer en première ligne métastatique .
+L' avantage de l' administration de trastuzumab a été suggéré d'_abord avec le paclitaxel puis le docétaxel .
+Dans l' étude Pivotale M77001 , le taux de survie des patientes ayant reçu trastuzumab plus docétaxel était meilleur ( 27,7 % ) , avec un gain de 9,4 mois , par rapport aux patientes ayant reçu le docétaxel seul ( 18,3 % ; p = 0,0002 )  .
+En situation adjuvante , l' année 2005 sera considérée comme un tournant dans la prise en charge des patientes atteintes d' un cancer du sein surexprimant HER2 .
+Dans l' éditorial d' Hortobagyi  accompagnant la publication des résultats des deux essais ( analyse conjuguée des essais nord-américains [ NSABP-B31 et N9831 ] et l' essai HERA ) sur l' efficacité du trastuzumab en situation adjuvante , la phrase : « Clearly , the results reported in this issue of the journal are not evolutionary but revolutionary » illustre bien la portée de ces résultats .
+Dans l' étude nord-américaine  , l' analyse a concerné les 2770 patientes de l' essai B-31 et les 3300 patientes de l' essai de l' intergroupe NCCTG / N9831 .
+Dans le premier essai , les patientes atteintes de cancer ayant disséminé dans le creux axillaire ( N+ ) étaient randomisées pour recevoir soit quatre cycles d' adriamycine et de cyclophosphamide ( AC ) suivis de quatre cycles de paclitaxel ( bras 1 ) ou le même traitement associé au trastuzumab débuté en_même_temps que le paclitaxel ( après les anthracyclines ) pour une durée d' un an ( bras 2 ) .
+Dans l' essai N9831 , il y avait trois bras de randomisation : - le bras ( A ) comportant quatre AC suivi de trois mois d' injections de paclitaxel hebdomadaires ;
+- le bras ( B ) séquentiel dans lequel le trastuzumab hebdomadaire était commencé à la fin de la séquence de chimiothérapie ;
+- le bras ( C ) ou le trastuzumab est administré selon un schéma concomitant avec le paclitaxel dès la fin de la séquence des anthracyclines .
+L' analyse a comparé un bras témoin constitué par les deux bras témoin des deux essais ( bras 1 + A ; n = 1672 ) , sans trastuzumab , contre un bras expérimental recevant du trastuzumab constitué par le bras 2 du B-31 et le bras concomitant C de l' essai N9831 ( bras 2 + C ; n = 1679 ) .
+Après un suivi en médiane de deux ans , la réduction du risque de récidive locale , locorégionale ou à distance était de 52 % à trois ans ( p 10 - 12 ) et le risque de décès était réduit de 33 % en faveur du bras trastuzumab  .
+Dans l' étude HERA , les investigateurs ont voulu éviter la combinaison du trastuzumab avec des protocoles de chimiothérapie néoadjuvants et adjuvants très variés dans le grand nombre de centres participant à l' étude ( 478 institutions de 39 pays ) .
+Dans cet essai , un minimum de quatre cycles de chimiothérapie a été administré en situation adjuvante ( 89 % ) , situation néoadjuvante ( 5 % ) ou les deux ( 6 % ) .
+Le bénéfice de taux de survie sans maladie était de 46 % en faveur du bras trastuzumab ( p 0,0001 ) avec un an de trastuzumab  .
+Plus récemment et avec une durée d' administration de trastuzumab de neuf semaines seulement , les résultats de l' étude FinHer  vont dans le même sens que les deux études précédentes .
+En France , en octobre 2005 , l' Institut national du cancer ( INCa ) sous l' égide de la Haute Autorité de santé ( HAS ) a officiellement recommandé un protocole temporaire de traitement ( PTT ) autorisant la prescription du trastuzumab en situation adjuvante chez les patientes traitées pour des cancers du sein surexprimant HER2 .
+Il est recommandé d' administrer le trastuzumab pendant un an après la fin de la chimiothérapie et de la radiothérapie .
+La conséquence de cette recommandation soulève la discussion des avantages et des inconvénients des schémas d' administration du trastuzumab , concomitant avec la chimiothérapie ( comme dans l' étude nord-américaine et celle du BCIRG ) ou séquentiel ( comme dans l' étude HERA ) pendant un an , ou une durée encore_plus courte ( neuf semaines ) comme cela a été rapporté dans l' étude FinHer  .
+Le rationnel pour une administration concomitante de la chimiothérapie avec le trastuzumab repose essentiellement sur l' effet additif et synergique démonté avant étude clinique  et la supériorité de son association aux taxanes ( avec ou sans carboplatine ) en situation métastatique  .
+Cette supériorité du schéma concomitant en termes de survie associée à l' absence d' effet délétère sur le plan cardiaque  plaide en_faveur_de l' instauration la plus précoce possible du trastuzumab .
+Cependant , l' extrapolation des résultats de la situation métastatique à la situation adjuvante n' est pas possible car la question n' a pas été directement posée les deux essais adjuvants .
+Ces points seront discutés en détail dans les chapitres suivants .
+3. Toxicité cardiaque du trastuzumab3.1 .
+Physiopathologie de la cardiotoxicité induite par le trastuzumab et les anthracyclines
+La toxicité cardiaque liée aux anthracyclines est décrite depuis de nombreuses années .
+Le principal mécanisme physiopathologique à l' origine de cette toxicité est la production de radicaux libres oxygénés , toxiques pour les myofibrilles , à la base des altérations aboutissant à la myocardiopathie dite hypertrophique  .
+La cardiotoxicité du trastuzumab a été décrite dès le début de son utilisation en clinique  .
+Cependant , les mécanismes physiopathologiques à la base de cette toxicité , pouvant aller de la réduction réversible à la fraction d' éjection ventriculaire gauche à l' insuffisance cardiaque congestive sont peu connus .
+Le rôle de c-erbB2 dans le développement embryonnaire cardiaque et son importance dans le maintien de la fonction cardiaque à l' âge adulte ont été incriminés .
+En effet , l' expression d' hétérodimères HER2 - HER4 au niveau des cellules myocardiques permet une prolifération et une différentiation cellulaire grâce_à la fixation de la neuroréguline  .
+L' activation de la voie AKT par la neuroréguline , ainsi_que d' autres ligands des complexes HER2 - HER4 , favoriserait la survie cellulaire .
+L' hypothèse de la toxicité cardiaque du trastuzumab repose sur le blocage moléculaire des hétérodimères altérant ainsi les mécanismes de survie cellulaire et activant l' apoptose des cardiomyocytes .
+Les mécanismes de compensation cellulaire sont alors dépassés , ce qui est à l' origine d' une myocardiopathie dilatée dont le risque est une évolution vers l' insuffisance cardiaque .
+L' exposition du tissu cardiaque à des doses cumulées élevées d' anthracyclines augmente le risque cardiotoxique .
+L' addition de trastuzumab au protocole thérapeutique sur un myocarde déjà soumis au stress oxydatif imputable aux anthracyclines génère une toxicité additionnelle .
+Cet enchaînement de mécanismes toxiques au niveau cellulaire a été en_partie démontré et validé chez le rat  .
+Chez l' homme , les événements cellulaires précis à l' origine de cette toxicité ne sont pas connus .
+Il n' existe actuellement aucun biomarqueur prédictif de cardiotoxicité permettant d' individualiser les traitements selon le profil des patientes .
+3.2. Toxicité cardiaque du trastuzumab en clinique
+La toxicité cardiaque liée au trastuzumab a été décrite dès son utilisation au stade de la maladie métastatique .
+Les premières publications ont rapporté un risque de cardiotoxicité d' environ 4 % ( dont 3 % de grade 3 - 4 ) au décours de son administration en monothérapie .
+Ce taux passe à 8 % chez les patientes prétraitées par des anthracyclines et s' accroît à 28 % en cas d' une utilisation concomitante avec les anthracyclines  .
+En situation adjuvante le taux de toxicité cardiaque est de l' ordre de 2 à 3 % , avec un recul de 24 à 36 mois .
+Cependant , la cardiotoxicité spécifique au trastuzumab peut être drastiquement influencée par au moins trois paramètres : - les doses d' anthracyclines administrées : en situation métastatique , le risque cardiaque semble inexistant après une dose cumulée d' anthracyclines ne dépassant pas 300 - 400 mg / m2  chez des patientes traitées par un an de trastuzumab et suivies pendant 32 mois ;
+- l' état de fonction cardiaque initial : mesuré par la valeur de fraction d' éjection ventriculaire gauche de base avant l' introduction du trastuzumab  ;
+- l' intervalle entre l' administration des anthracyclines et du trastuzumab : qui semblerait essentiel à la réparation des lésions cellulaires myocardiques induites par le stress oxydant généré par les deux drogues .
+De plus , l' inhibition myocardique de la voie HER2 par le trastuzumab contribue à la majoration du risque de toxicité cardiaque des anthracyclines  .
+Le problème de la cardiotoxicité des traitements anticancéreux et plus particulièrement dans le domaine de la prise en charge adjuvante des cancers du sein est récurrent et cela pour plusieurs raisons : - l' introduction systématique des anthracyclines en situation adjuvante en cas d' indication de chimiothérapie pour le cancer du sein  ;
+- l' augmentation du taux de conservation mammaire augmentant les indications de radiothérapie adjuvante pour lesquelles la toxicité cardiaque peut être directement liée aux techniques utilisées ;
+- la démonstration de l' intérêt d' un traitement spécifique très efficace mais cardiotoxique ( par le trastuzumab ) au sein d' une population à haut risque de récidive dont la chimiothérapie de référence doit comporter des anthracyclines ;
+- parallèlement , si certaines de ces tumeurs sont hormonodépendantes , l' utilisation préférentielle d' une inhibition maximale de la sécrétion estrogénique semble être préférée au tamoxifène avec une majoration possible des facteurs de risque cardiovasculaires  ;
+- enfin le dernier point est épidémiologique .
+En effet , les deux principales causes de mortalité chez la femme sont les maladies cardiovasculaires et les cancers  .
+De ce fait , l' utilisation d' une quelconque thérapeutique pour une de ces deux pathologies et pouvant influencer ( même modérément ) l' autre pathologie risque de se révéler tout simplement du fait de la fréquence de ces maladies .
+4. Bénéfices et risques du trastuzumab en association avec la chimiothérapie adjuvante
+La conception différente des schémas séquentiels s' accompagne d' un retard à l' instauration du trastuzumab qui peut atteindre plusieurs semaines .
+Contrairement au schéma séquentiel européen recommandé dans le protocole temporaire de traitement , le schéma nord-américain permettrait de ne pas se priver de l' effet synergique potentiel de l' association trastuzumab - chimiothérapie dont l' efficacité antitumorale est reconnue  .
+De plus , il semblerait que cette association précoce puisse expliquer la très bonne activité synergique entre le docétaxel et le trastuzumab par l' intervention d' un mécanisme immunologique  .
+Sur le plan antitumoral , Hortobagyi  a tenté d' apporter une explication à la différence entre les courbes de survie , l' essai HERA et l' essai nord-américain .
+Il a attribué l' avantage de ce dernier à la faible utilisation des taxanes dans le premier ( seulement 26 % ) .
+Parallèlement à l' efficacité , la toxicité ( en_particulier cardiaque ) peut d' ores et déjà être considérée comme un facteur déterminant du choix potentiellement restrictif .
+En adoptant en France le protocole temporaire de traitement , recommandant d' administrer le trastuzumab selon le schéma de l' essai HERA , on écarte en_partie le risque théorique de toxicité additionnelle des associations concomitantes ( à la chimiothérapie et à la radiothérapie ) .
+Cependant , en terme d' efficacité du trastuzumab , les conséquences du retard supérieur à six mois ( entre 7,1 et 9,6 mois dans l' essai HERA ) généré par ce mode de prescription sont actuellement inconnues .
+4.1. Rapport bénéfice / risque du schéma concomitant
+Dans les avantages potentiels du schéma concomitant l' effet synergique avec la chimiothérapie , démontré en situation préclinique , est un argument majeur  .
+En clinique , l' extrapolation des résultats observés en phase métastatique à la situation adjuvante reste ouverte et l' incertitude est entière quant_à l' impact d' un délai trop long à l' instauration du trastuzumab car la question n' a pas été posée par les deux essais adjuvants .
+On peut seulement essayer de trouver dans l' analyse de ces deux études des arguments en faveur ( en termes d' efficacité ) ou en défaveur ( en termes de toxicité ) de l' introduction précoce du trastuzumab dans la stratégie thérapeutique .
+Dans l' étude nord-américaine  , l' analyse a concerné les 2770 patientes de l' essai B-31 et les 3300 patientes de l' essai de l' intergroupe NCCTG / N9831 .
+Avec un recul médian de deux ans , le bénéfice absolu en terme de survie sans récidive était de 12 % à trois ans et de 18 % à quatre ans .
+La réduction du risque de décès était de 33 % en faveur du bras trastuzumab avec un bénéfice absolu en terme de décès de 2,5 % à trois ans et de 4,8 % à quatre ans .
+Sur le plan de la toxicité cardiaque , les données rapportées dans l' analyse sont rassurantes par leur durée limitée et leur réversibilité dans la grande majorité des cas .
+Parmi les 3497 patientes qui ont eu une évaluation de la fraction d' éjection ventriculaire gauche après les anthracyclines , 233 patientes ( 6,7 % ) avaient une réduction d' au moins 15 % .
+Parmi les 1159 patientes ayant une fraction d' éjection ventriculaire gauche adéquate après les anthracyclines , 364 ( 31,4 % ) patientes ont eu une modification du rythme ou un arrêt temporaire de l' administration du trastuzumab durant les 52 semaines .
+Les principales causes des traitements discontinus en rapport avec la cardiotoxicité étaient une réduction significative de la fraction d' éjection ventriculaire gauche ( n = 164 ; 14,2 % ) et une insuffisance cardiaque congestive ou autre événement cardiaque majeur ( n = 54 ; 4,7 % ) .
+Une insuffisance cardiaque congestive a été observée dans 31 / 864 ( 3,5 % ) et 27 / 808 cas ( 3,3 % ) , respectivement pour les patientes des essais B31 et N9831 .
+L' analyse du rapport entre le bénéfice et le risque du schéma concomitant par rapport au schéma séquentiel comporte des incertitudes .
+En effet , à_partir_de l' analyse conjuguée des essais B31 / N9831  , il est impossible de déterminer la différence en termes d' efficacité et de toxicité entre les schémas séquentiel et concomitant du trastuzumab avec la chimiothérapie .
+La seule étude susceptible de répondre dans le futur à la question du rapport bénéfice / risque de ces deux schémas d' administration est l' essai N9831 .
+Perez_et_al.  ont récemment rapporté les résultats de l' analyse comparative des deux bras ( bras B contre bras C de l' étude N9831 ) à deux ans .
+Il n' y avait aucune différence en terme du nombre d' événements entre les deux schémas ( séquentiel contre concomitant ; p = 0,27 , HR : 0,74 [ 0,43 - 1,26 ] ) .
+Notons que la différence de délai de traitement entre ces deux bras n' était que de neuf semaines alors_que le délai imposé par le protocole temporaire de traitement , autre schéma séquentiel , pourrait atteindre 18 semaines ( en comptabilisant la durée de la chimiothérapie et les cinq à sept semaines de radiothérapie ) .
+Sur le plan de la toxicité cardiaque , 1,4 et 2 % des patientes avaient respectivement une diminution de la fraction d' éjection ventriculaire gauche de 15 % dans les bras B et C. L' incidence cumulée des événements cardiaques à deux ans dans ces deux bras étaient respectivement de 2,5 et 3,3 % .
+De plus , il n' y avait aucun impact de la radiothérapie ni plus particulièrement du côté irradié ( droit contre gauche ) .
+Les auteurs ont insisté sur l' importance du suivi à plus long terme avant_de tirer des conclusions définitives .
+4.2. Rapport bénéfice / risque du schéma séquentiel
+Le schéma séquentiel d' administration du trastuzumab avec la chimiothérapie a aussi des avantages et suscite des interrogations .
+Dans l' étude HERA , la décision de commencer le trastuzumab après la chimiothérapie et la radiothérapie n' était pas basée sur le risque potentiel de toxicité de l' association .
+En effet , au vu du grand nombre de centres participant à l' étude ( 478 institutions de 39 pays ) et de la variabilité des protocoles néoadjuvants et adjuvants de_par le monde  , les investigateurs avaient souhaité éviter la combinaison du trastuzumab avec des protocoles de chimiothérapie très variés et le risque non négligeable de biais pour l' évaluation de l' efficacité et de la toxicité propre au trastuzumab .
+Dans cet essai , un minimum de quatre cycles de chimiothérapie a été administré en situation adjuvante ( 89 % ) , néoadjuvante ( 5 % ) ou les deux ( 6 % )  .
+Après un suivi médian d' un an , l' analyse intermédiaire a montré un bénéfice absolu en termes de survie sans maladie de 8,4 % .
+Ce gain en survie est inférieur à celui observé dans l' étude nord-américaine après un suivi médian plus long de deux ans ( 12 % ) .
+De plus , l' incidence des métastases à distance était réduite de_moitié par l' association du trastuzumab à la chimiothérapie : de 9,1 à 5 % dans l' étude HERA , de 12,7 à 6,9 % dans l' essai B-31 et de 7,8 à 3,7 % dans l' essai N9831 avec des durées médianes de suivi respectives de 1 , 2,4 et 1,5 ans .
+Il convient de noter qu' après un suivi de 18 mois , le taux de métastases le plus faible a été celui observé chez les patientes recevant le trastuzumab selon un schéma hebdomadaire concomitant dans l' essai N9831  .
+Sur le plan de la toxicité , avec le schéma séquentiel de l' essai HERA , une insuffisance cardiaque congestive sévère ou symptomatique a été notée dans moins de 2 % des cas ( 29 / 1677 ; 1,73 % ) et une réduction asymptomatique de la fraction d' éjection ventriculaire gauche était observée dans 113 cas ( 7 % ) .
+Alors que le taux des évènements cardiaques sérieux imposant le report ou l' arrêt du trastuzumab était quasi identique à l' essai nord-américain ( 2 % ) , le taux de réduction des valeurs la fraction d' éjection ventriculaire gauche était plus importante dans l' essai HERA .
+Cette différence pourrait être expliquée par le rythme élevé des explorations cardiaques imposées dans HERA et l' irradiation fréquente de la chaine mammaire interne dans cet essai ( 76 % des patientes ont reçu une irradiation ganglionnaire ) .
+Cependant , seuls 0,5 % des événements cardiaques ont été considérés comme sévères avec des critères d' évaluation différents ( par_rapport_à l' essai nord-américain ) .
+Dans l' étude FinHer  , les 232 patientes dont les tumeurs étaient HER2 positives ont reçu les trois cycles de chimiothérapie adjuvante ( docétaxel ou vinorelbine ) associée ou non au trastuzumab ( pendant neuf semaines ) , avant l' administration de trois cycles complémentaires de FEC 100 ( 5-fluoro-uracile - épirubicine - cyclophosphamide ) .
+Le taux de survie sans récidive à trois ans était amélioré de 11 % ( diminution du risque de 52 % ) , sans qu' il y ait encore d' amélioration significative de la survie globale ( p = 0,07 ) .
+Dans cet essai , il n' y a eu aucune cardiotoxicité reconnue après un recul médian de 36 mois .
+Cette absence de toxicité cardiaque pourrait s' expliquer par la précession du trastuzumab associé au docétaxel par_rapport_à l' administration du FEC100  .
+Enfin , malgré les résultats prometteurs de l' étude FinHer , on ne peut pas dire aujourd'hui si cette administration très précoce et très brève du trastuzumab ferait mieux que celle prônée dans les études américaines et HERA .
+5. Bénéfices et risques du trastuzumab en association avec la radiothérapie adjuvante5.1 .
+Quel risque de l' association trastuzumab - radiothérapie ?
+La question du rapport bénéfice / risque de l' association des thérapies ciblées à la radiothérapie se pose logiquement du fait de la démonstration de l' efficacité de ces nouvelles molécules sur certains cancers réputés pour leur agressivité  .
+Dans le cancer du sein surexprimant HER2 , l' impact d' un retard à l' instauration et / ou de l' interruption du trastuzumab pendant les cinq à sept semaines d' irradiation n' est pas encore connu .
+Dans le cas où le schéma concomitant est considéré comme optimal , en terme d' efficacité , alors se pose le problème de la toxicité de l' association concomitante de la radiothérapie et du trastuzumab ( au niveau cardiaque en_particulier ) .
+Pour épargner le tissu cardiaque , l' apport des nouvelles techniques de radiothérapie asservie à la respiration devrait constituer un axe de recherche prioritaire chez cette population .
+En effet , la qualité technique et les volumes intrathoraciques irradiés sont très importants à prendre en compte dans toute évaluation de la toxicité cardiaque .
+Taghian_et_al.  ont rapporté une très grande différence en termes de techniques et des volumes ganglionnaires irradiés dans les pays anglo-saxons , la France , l' Allemagne ou certains autres pays du sud de l' Europe .
+Dans cette enquête sur les pratiques , pour la chaîne mammaire interne en_particulier , la différence était statistiquement significative entre les pratiques américaines et européennes où la chaîne mammaire interne est largement plus irradiée ( p 0,01 ) .
+La comparaison des pratiques pays par pays , a montré que l' irradiation de la chaîne mammaire interne après mastectomie totale était réalisée par 59 et 64 % de praticiens français contre 15 et 24 % des praticiens américains en cas d' envahissement ganglionnaire respectivement limité ( un à trois ganglions atteints ) et étendu ( plus de trois ganglions atteints ) .
+Ces différences de pratiques doivent être prises en compte lors des analyses de la toxicité cardiaque induite par l' association trastuzumab - radiothérapie .
+Actuellement , nous disposons de très peu de données cliniques sur cette association sur les plans de l' efficacité et de la toxicité .
+Pietras_et_al.  ont montré un effet radiosensibilisant de l' association concomitante sur diverses lignées MCF-7 surexprimant ( ou pas ) HER2 .
+Les combinaisons in_vitro ( de 2 g / ml de trastuzumab avec une irradiation de 2 Gy ) et in_vivo ( de 30 mg / kg de trastuzumab et une irradiation de 12 Gy en trois fractions ) se sont révélées supérieures au trastuzumab ou à l' irradiation seule .
+Contrairement aux modèles précliniques , l' intérêt d' une association concomitante systématique du trastuzumab et de la radiothérapie n' est pas démontré en clinique .
+Si l' on considère que l' impact du traitement concomitant de la chimiothérapie plus trastuzumab est supérieur au risque toxique de l' irradiation de la chaîne mammaire interne , les techniques doivent s' adapter à ces nouveaux agents à visée systémique .
+En se passant de l' irradiation de la chaîne mammaire interne dans l' essai nord-américain , le schéma concomitant associant le trastuzumab et l' irradiation s' est avéré bien toléré .
+Perez_et_al.  n' ont rapporté aucune différence de cardiotoxicité entre les patientes ayant eu une irradiation du sein gauche par rapport au sein droit .
+Dans une série rétrospective de 146 patientes , nous avons récemment rapporté une réduction significative de la fraction d' éjection ventriculaire gauche de grade supérieur ou égal à 2 chez les patientes recevant la radiothérapie et le trastuzumab hebdomadaire en concomitant .
+Le recul étant encore insuffisant , nous n' avons pas pu conclure sur la réversibilité de cet événement  .
+Concernant les autres toxicités de l' association concomitante , Bellon et al. ont rapporté chez 26 patientes ( 21 traitées selon un schéma hebdomadaire et cinq selon un schéma toutes les trois semaines ) une toxicité cutanée de grade supérieur ou égal à 2 dans 54 % des cas et deux pneumopathies interstitielles ( 8 % ) .
+Aucun argument étiopathogénique , ni d' imputabilité de la combinaison trastuzumab - radiothérapie n' ont été précisés dans cette présentation  .
+Dans notre expérience , le taux de toxicité aiguë cutanée et oesophagienne de grade supérieur ou égal à 2 était significativement plus grand chez les patientes traitées par le schéma trastuzumab hebdomadaire et radiothérapie concomitante ( comprenant une irradiation de la chaîne mammaire interne )  .
+À l' inverse , dans l' analyse du sous-groupe de patientes ayant reçu le même schéma dans l' essai nord-américain ( N9831 ) il n' a pas été retrouvé de différence en termes de toxicités cardiaque , cutanée et oesophagienne .
+Cependant , dans cet essai où la chaîne mammaire interne n' a pas été irradiée , il est difficile de conclure sur l' absence de toxicité au niveau de tissus n' ayant reçu qu' une dose d' irradiation minime voir nulle  .
+En pratique , étant donné le peu de données concernant la toxicité aiguë et tardive de l' association du trastuzumab - radiothérapie , la recommandation d' arrêter le trastuzumab pendant l' irradiation ( ou de ne pas le commencer avant sa fin ) représente une mesure de prudence injustifiée à l' heure actuelle .
+De plus , l' arrêt peut être considéré comme inutile du fait de la demi-vie relativement longue du trastuzumab ( de l' ordre de quatre à six semaines ) .
+Il existe par_ailleurs une équivalence pharmacologique entre l' administration hebdomadaire et toutes les trois semaines de trastuzumab  .
+Dans ces conditions , la question concerne l' interaction potentielle entre le trastuzumab fixé sur les structures tissulaires cardiaques et les radiations ionisantes .
+Alors que pour les anthracyclines et les radiations ionisantes la physiopathologie est basée sur la production des radicaux libres , les événements cellulaires sont moins bien connus pour le trastuzumab .
+En effet , l' une des limites du développement des modèles d' études précliniques est que la partie variable humanisée de l' anticorps n' est pas capable de reconnaître et donc de se lier au récepteur HER2 chez l' animal .
+De plus chez l' homme , l' expression de HER2 à la surface des cellules myocardiques est faible .
+Cependant , il a été constaté au niveau des cellules myocardiques des hétérodimères HER2 - HER4 témoignant de la dimérisation des récepteurs HER et de l' implication de la voie MAPK / ERK et AKT  .
+Ces voies seraient également incriminées dans l' explication de la toxicité additive induite au niveau des cellules myocardiques exposées à la doxorubicine puis au trastuzumab .
+Les phénomènes apoptotiques induits par la doxorubicine seraient majorés par l' adjonction du trastuzumab en inhibant les voies de transduction AKT et ERK  .
+En prenant comme modèle le mécanisme d' action des anthracyclines ( par le biais des radicaux libres ) , l' hypothèse est que cet effet additif serait similaire à celui des radiations ionisantes .
+L' effet additif pourrait aussi avoir des conséquences vasculaires notamment sur le système artériel cardiaque par le biais des phénomènes apoptotiques des cellules endothéliales avec une altération des structures aboutissant in_fine à l' insuffisance cardiaque congestive .
+5.2. Quel apport attendu des nouvelles techniques de radiothérapie ?
+En utilisant une technique d' irradiation classique en deux dimensions ( 2D ) , il est impossible d' évaluer le volume cardiaque irradié lors d' une irradiation mammaire ( ou pariétale ) associée ou non à la chaîne mammaire interne .
+Ce volume est d' autant plus important que la chaîne mammaire interne est concernée par l' irradiation .
+En principe , l' utilisation d' une combinaison de faisceaux de photons et d' électrons permet de réduire la dose délivrée aux structures médiastinales .
+Les nouvelles techniques de radiothérapie conformationnelle tridimensionnelle ( RTC-3D ) avec ou sans modulation d' intensité ( RCMI ) du faisceau permettraient d' imposer ou d' adapter les contraintes de doses et de volumes cardiaque et pulmonaire en fonction des situations cliniques personnelles , comme la présence d' antécédents médicaux cardiopulmonaires , des doses cumulées élevées d' anthracyclines ou encore l' instauration de traitements concomitants dont la synergie potentielle pourrait s' avérer délétère à moyen ou long terme .
+Dans une étude récente , l' équipe du William Beaumont Hospital a comparé chez 25 patientes les volumes cardiaques recevant 30 Gy ( V30 ) avec cinq différentes techniques ( classique bidimensionnelle ou conformationnelle avec ou sans modulation d' intensité , et avec ou sans asservissement respiratoire ) .
+Grâce à la RCMI associée à l' asservissement respiratoire , il a été possible d' exclure le volume cardiaque des faisceaux d' irradiation dans 15 / 25 cas avec une réduction moyenne du V30 ( volume recevant 30 Gy ) de 2,6 à 0,6 %  .
+Cette même équipe a analysé avec précision les volumes cardiaques exclus des faisceaux d' irradiation par l' utilisation de l' imagerie par résonance magnétique ( IRM ) lors_de l' irradiation du sein gauche .
+La fusion des images IRM et scanographiques a permis une réduction de 85 à 95 % du volume myocardique du ventricule gauche recevant 50 % de la dose ( 45 Gy ) grâce_à l' asservissement respiratoire  .
+Ces techniques d' irradiation asservie à la respiration  sont actuellement en cours d' évaluation .
+Dans le cancer du sein , leur mise en oeuvre en routine reste difficile et comporte encore des incertitudes  .
+Cependant , dans des populations sélectionnées de patientes à haut risque cardiaque , elles pourraient se révéler incontournables .
+6. Conclusion
+La France a été le premier pays au monde à autoriser officiellement le surcot de la prescription du trastuzumab dans le cadre d' un protocole temporaire de traitement indiquant clairement de débuter le trastuzumab après la chimiothérapie et la radiothérapie pendant un an .
+Ce principe reste discutable au vu des connaissances actuelles sur l' efficacité et la toxicité des associations trastuzumab - chimiothérapie - radiothérapie .
+De plus , la durée optimale du traitement pourrait être remise en question par les résultats récents de l' étude FinHer ou les futurs résultats de l' étude HERA comparant un an contre deux ans de trastuzumab .
+En mettant en balance le risque toxique ( cutané , cardiaque , oesophagien et respiratoire ) et le bénéfice attendu ( 5 % d' amélioration de la survie globale ) du trastuzumab dans le cancer du sein surexprimant HER2 , il est quasiment sr que le résultat restera en faveur du traitement optimal , administré de façon concomitante et précoce .
+De plus , la toxicité cardiaque ne paraît pas suffisamment importante pour annuler ce bénéfice .
+Cependant , le recul chez ces patientes est encore modeste et un suivi rigoureux à plus long terme semble indispensable pour l' évaluation des effets tardifs quelle que soit la modalité ( concomitante ou séquentielle ) et la durée d' administration du trastuzumab .
+Quand le schéma concomitant est utilisé ( pour bénéficier de la synergie ) , il faut définir ( au moment de la radiothérapie ) les patientes pour lesquelles l' indication controversée de l' irradiation de la chaîne mammaire interne pourrait être bénéfique .
+Dans ce cas , la combinaison de photons et d' électrons et les nouvelles techniques d' irradiation asservie à la respiration pourraient être d' un apport considérable pour épargner les structures médiastinales ( en_particulier le tissu cardiaque ) réduisant le risque de toxicité aiguë et de séquelles tardives .
+En effet , actuellement il n' y a aucun essai randomisé publié permettant d' établir l' intérêt de l' irradiation de la chaîne mammaire interne dans les lésions des quadrants internes et centraux sans envahissement ganglionnaire axillaire

@@ -1,0 +1,126 @@
+Breast cancer is both the most common type of cancer in women and the most common cause of cancer-related death in women .
+Timely diagnosis and intervention are the key to successful therapy , whereby drug treatment , mostly based on anthracyclines and taxanes , commonly precedes or follows surgery , to reduce tumor bulk or to prevent metastatic spread and growth , respectively .
+However , once breast cancer becomes metastatic , response to these agents is often markedly reduced , possibly as a consequence of their widespread use as ( neo ) adjuvant therapies .
+Novel treatment regimens , incorporating biotherapeutic agents , such as trastuzumab  , or the antimetabolites gemcitabine and capecitabine , have shown some potential to overcome this problem  ; restoring tumor cell sensitivity to anthracyclines and / or taxanes by modulation of tumor-specific signaling pathways may provide a different and complementary approach to the clinical management of the disease .
+The present study focuses on the role played by signal transducer and activator of transcription 3 ( Stat3 ) in the response of a highly metastatic human breast adenocarcinoma cell line ( MDA-MB-231 ) to doxorubicin ( DOX ) , the prototypic drug of the anthracycline family .
+Stat3 belongs to a family of latent cytoplasmic transcription factors that are activated by phosphorylation of a critical tyrosine residue , dimerization and nuclear translocation , upon binding of cytokines and growth factors to their membrane receptors  .
+A number of experimental findings support the hypothesis of a role for Stat3 in oncogenesis and tumor progression  , based on its ability to transactivate a number of genes whose products are involved in cell proliferation and survival , invasion , metastasis and angiogenesis [ for recent reviews see  ] .
+Constitutive activation of Stat3 is a frequent occurrence in breast tumors and has been demonstrated in a number of breast cancer cell lines  , possibly as a consequence of overexpression or constitutive activation of upstream receptor ( e.g. EGFr , HER2 ) or non-receptor ( e.g. Src ) tyrosine kinases .
+Thus , Stat3 has emerged as an important target for cancer therapy  .
+High levels of Stat3 activity have also been found to predict intrinsic drug resistance to chemotherapy  , possibly through upregulation of such antiapoptotic factors as Bcl-xL , Bcl-2 , Mcl-1 and survivin  , and Stat3 inhibition has been evaluated as a possible strategy to increase tumor cell response to cytotoxic agents .
+However , conflicting results have been reported  , suggesting that the outcome may be highly dependent on the tumor type and drug ( s ) considered .
+The results of the present study confirm findings by other Authors , indicating that metastatic breast cancer cells exhibit increased baseline levels of Stat3 activity  that are further enhanced following DOX treatment .
+Stat3 inhibition in MDA-MB-231 cells was addressed by three different approaches : inhibition of upstream Janus kinases ( Jaks , the major tyrosine kinases involved in Stat3 activation  ) ; transfection with a dominant-negative form of Stat3 ( Stat3F ) ; and treatment with satraplatin , a tetravalent platinum derivative that , similar to other compounds in this class  inhibits Stat3 activity .
+All three approaches increased the proapoptotic effect of DOX , albeit to different extents , and the latter two also interfered with antiapoptotic protein expression , suggesting that inhibitors of Stat3 activity might prove valuable additions to the therapeutic protocols currently used in the clinical management of metastatic breast cancer .
+2. Materials and methods2.1 .
+Reagents .
+Standard chemicals and cell culture reagents were purchased from Sigma - Aldrich srl. ( Milan , Italy ) , unless otherwise indicated ; AG490 was purchased from Alexis Corporation ( Lausen , Switzerland ) .
+Doxorubicin ( DOX ) was kindly provided by Dr. A. Suarato ( Nerviano Medical Sciences , Nerviano , Italy ) .
+Satraplatin1 was synthesized in several steps via the homologous Pt ( II ) derivative ( JM-118 ) , according to published procedures  .
+The following antibodies were used : anti-Stat3 rabbit polyclonal ( Santa Cruz Biotechnology , Santa Cruz , CA , USA ) ; anti-pStat3 ( Tyr705 ) rabbit polyclonal ( Cell Signaling Technology , Danvers , MA , USA ) ; anti-survivin rabbit polyclonal ( Abcam , Cambridge , UK ) ; anti-Bcl-xL rabbit polyclonal ( Medical Biological Laboratories Co. , Ltd. , Nagoya , Japan ) .
+2.2. Cell lines and treatments .
+The human breast adenocarcinoma cell lines MCF-7 ( estrogen receptor-positive , p53-proficient , non-metastatic ) and MDA-MB-231 ( estrogen receptor-negative , metastatic and harboring a mutant form of p53 , as well as overexpression of the EGF receptor ) were obtained from ATCC ( Rockville , MD , USA ) and maintained in DMEM supplemented with 10% heat-inactivated fetal bovine serum ( FBS , Mascia Brunelli , Milan , Italy ) at 37 C , in an atmosphere of 5% CO2 .
+2.3. Preparation of cell lysates , immunoprecipitation and immunoblotting .
+Intracellular levels of total and Tyr705-phosphorylated Stat3 were assessed by immunoprecipitation and Western blot , under baseline conditions and following different treatments .
+Cells were lysed in a buffer containing NaCl 120 mM , NaF 20 mM , EDTA 1 mM , EGTA 6 mM , sodium pyrophosphate 15 mM , in Tris - HCl 50 mM pH 7.5 , PMSF 0.1 mM , Na3VO4 0.5 mM , phenylarsine oxide 1 mM , 1% NP-40 and 10% Protease Inhibitor Cocktail ( Sigma ) .
+Protein concentration was determined by the bicinchoninic acid assay ( Pierce , Rockford , IL , USA ) and 1000 g of protein were incubated overnight at 4 C with 2 g of anti-Stat3 rabbit polyclonal antibody .
+The following morning , the immune complexes were immunoprecipitated following 2 h incubation at 4 C with protein G-Sepharose .
+Immunoprecipitates were then dissolved in Laemmli sample buffer and separated by SDS - PAGE , transferred onto Immobilon P membranes ( Millipore , Bedford , MA , USA ) and Western blot analysis was performed by standard techniques using rabbit polyclonal anti-p ( Tyr705 ) Stat3 antibody .
+Total Stat3 protein levels were obtained incubating the same membrane with an anti-Stat3 rabbit polyclonal antibody .
+Intracellular levels of survivin and Bcl-xL were assessed by Western blot of total cell lysates .
+Fifty micrograms of protein was separated and transferred as previously described and PVDF membranes were incubated overnight at 4 C with anti-survivin or anti-Bcl-xL rabbit polyclonal antibodies .
+To verify equal protein loading , blots were reprobed with an anti--tubulin mouse monoclonal antibody ( Sigma - Aldrich ) .
+However , this could not be done for Western blot performed on immunoprecipitates ; therefore these experiments were repeated 3 - 4 times in order to assess the reliability and reproducibility of the results obtained .
+Immunoreactive bands were visualized using a peroxidase-conjugated anti-rabbit secondary antibody and the SuperSignal West Pico Chemiluminescent Substrate System ( Pierce Biotechnology , Rockford , IL , USA ) , according to the Manufacturer 's instructions .
+2.4. Cytotoxicity assays .
+The MTT assay  was used to assess the antiproliferative effects of DOX .
+Briefly , cells ( 2 104 / ml ) were seeded onto 96 well plates , allowed to grow for 24 h and subsequently exposed to DOX ( 0.005 - 50 M ) .
+After 72 h , 50 l of MTT ( 3- [ 4,5-dimethylthiazol-2-yl ] -2,5-diphenyltetrazolium bromide , 2 mg / ml in PBS ) was added to each well at 37 C for 3 h and the reduction of MTT by viable cells was measured at 570 nm using a Universal Microplate Reader EL800 ( BioTek Instruments , Inc. , Winooski , VT , USA ) .
+For combination treatments with DOX and satraplatin , MDA-MB-231 cells were treated simultaneously for 72 h with different DOX concentrations ( 0.5 - 10 M ) and a fixed satraplatin concentration ( 0.5 or 1 M ) , approximately corresponding to the IC25 value ( i.e. the concentration yielding 75% cell survival ) as assessed in preliminary experiments on MDA-MB-231 cells .
+At the end of the experimental period , cells were processed for MTT assays as described above .
+2.5. Flow cytometric analysis of apoptotic cells .
+Following the different treatments , cells were harvested by trypsinization , washed in phosphate-buffered saline ( PBS ) and fixed in ice-cold 70% ethanol for 20 min at room temperature .
+After a further wash in PBS , DNA was stained with 50 g / ml propidium iodide in PBS in the presence of RNAse A ( 30 U / ml ) at room temperature for 30 min .
+Cell samples ( 5105 cells ) were analyzed with a FACSCalibur flow cytometer ( Becton - Dickinson , Franklin Lakes , NJ , USA ) equipped with a 15 mW , 488 nm , and air-cooled argon ion laser , and data were processed using CellQuest software ( Becton - Dickinson ) .
+Fluorescent emissions were collected through a 575 nm band-pass filter .
+At least 10,000 events were analyzed for each sample .
+The percentage of apoptotic cells in each sample was determined based on the sub-G1 peaks detected in monoparametric histograms .
+2.6. Vectors and transfection .
+MDA-MB-231 cells were transiently transfected with an expression plasmid ( pEF-HA-Stat3F ) containing a full-length cDNA encoding hemagglutinin peptide ( HA ) -tagged Stat3F , a dominant-negative form of Stat3 in which Tyr705 is replaced by phenylalanine , subcloned into a pEF-BOS expression vector ( originally provided by Prof. S. Nagata , University of Osaka Medical School  ) ; control cells were mock-transfected with the pEF-BOS plasmid. pEF-HA-Stat3F was a generous gift from Prof. T. Hirano ( Dept. of Molecular Oncology , University of Osaka Medical School  ) .
+Log-phase growing cells ( 5106 ) were harvested and transfected with 30 g of DNA , using an EasyJet electroporator system ( Equibio , Ashford , UK ) , under conditions optimized according to the Manufacturer 's instructions ( 200 V , 1500 F ) .
+All experiments were performed starting 24 h after transfection ( t = 0 ) .
+The efficiency and persistence of transfection were checked by immunoprecipitation and Western blot analysis of cell lysates , as described above , at t = 0 and subsequently at 24 , 48 and 72 h thereafter .
+2.7. Statistical analysis .
+Statistical analysis of the data was performed using GraphPad Prism software , v. 4.03. ( GraphPad , San Diego , CA , USA ) .
+IC50 values ( i.e. the concentrations yielding 50% cell survival ) were estimated from in vitro dose - response curves using non-linear regression analysis and differences were analyzed by Student 's t test for independent samples , or by one-way analysis of variance and Tukey 's post-test for multiple comparisons ( when more than two experimental groups were involved in the analysis ) .
+Drug interactions were analyzed using the CalcuSyn software ( Biosoft , Cambridge , UK ) , developed by Chou  .
+3. Results3.1 .
+Effects of DOX on MCF-7 and MDA-MB-231 cells .
+Fig. 1a shows the IC50 values estimated from dose - response curves obtained following 72 h exposure to DOX in MCF-7 and MDA-MB-231 , as well as the percentage of apoptotic cells induced in the two cell lines by 24 h exposure to 0.5 M DOX .
+These data indicate that MDA-MB-231 cells are slightly , but significantly more resistant to DOX than MCF-7 , which adds to the other characteristics of MDA-MB-231 cells ( estrogen-independence , metastatic traits , p53 mutation , EGF receptor overexpression ) in defining their highly aggressive phenotype .
+Full-size image ( 14K )
+Fig. 1. Effects of DOX on cell survival , apoptosis and Stat3 phosphorylation in MCF-7 and MDA-MB-231 cells. ( a ) IC50 values were estimated from dose - response curves obtained following 72 h exposure to different DOX concentrations ; the percentage of apoptotic cells was determined following 24 h exposure to 0.5 M DOX ( means SE of 3 - 5 independent experiments ) . aIR = IC50 ( MDA-MB-231 ) /IC50 ( MCF-7 ) ; bT / C = % apoptosis in treated / untreated cells p 0.05 vs. MCF-7 cells. ( b ) Western blot of cell extracts immunoprecipitated obtained with an anti-Stat3 antibody following 24 h exposure to 0.5 M DOX .
+View Within Article .
+Fig. 1b shows the protein levels of Stat3 and pStat3 in MDA-MB-231 and MCF-7 cells exposed to 0.5 M DOX for 24 h .
+Untreated MDA-MB-231 cells exhibit higher baseline levels of both forms of Stat3 than untreated MCF-7 cells , confirming the presence of constitutive Stat3 activation  .
+Exposure to DOX does not modify Stat3 levels in either cell line , whereas pStat3 is increased in both , but most notably in MDA-MB-231 cells , indicating that drug treatment further enhances Stat3 activation .
+3.2. Effects of treatment with AG490 .
+Fig. 2a shows the effect of 24 h exposure to 10 M AG490 on the expression and activation of Stat3 , indicating that , even at this non-cytotoxic concentration , the tyrphostin partially inhibits Stat3 phosphorylation ( and activation ) , while leaving total Stat3 protein levels unaffected. Fig. 2b shows that simultaneous exposure to 10 M AG490 and 0.5 M DOX induces a significant , albeit modest , increase in the proapoptotic effect observed with the same concentration of DOX alone .
+Full-size image ( 14K )
+Fig. 2. ( a ) Effect of AG490 ( 10 M for 24 h ) on Stat3 and pStat3 levels in MDA-MB-231 cells. ( b ) Effect of AG490 ( 10 M for 24 h ) on the proapoptotic action of DOX ( 0.5 M for 24 h ) .
+Means SE of 4 independent experiments. p 0.01 vs. control ; #p 0.05 vs. DOX .
+View Within Article .
+3.3. Effects of transfection with the pEF-HA-Stat3F vector .
+Fig. 3a shows Stat3 and pStat3 levels in MDA-MB-231 cells following transfection of the pEF-HA-Stat3F vector , encoding a negative dominant form of Stat3 ( MDA231Stat3F ) , or with the empty vector pEF-BOS ( MDA231pEF-BOS ) ; protein extracts from transfected cells were prepared starting 24 h after transfection ( t = 0 ) and every 24 h thereafter .
+It can be observed that total Stat3 protein levels are unmodified in both cell lines at all time points ; pStat3 levels are also unmodified in MDA231pEF-BOS cells , whereas they decrease in MDA231Stat3F at t = 24 h and become undetectable at t = 48 and 72 h .
+Stat1 and pStat1 levels were also assessed in both transfected cell lines but were unaltered ( data not shown ) . Figs. 3b and c indicate that MDA231Stat3F cells are more sensitive to the cytotoxic effects of DOX than mock-transfected cells , both in terms of percentage of apoptotic cells at different drug exposure times and of IC50 values ( after 72 h exposure to DOX ) .
+Incidentally , the response of MDA231pEF-BOS cells to DOX is similar to that exhibited by the parental , non-transfected cell line ( IC50 = 490.86 48.4 and 503.6 52.52 nM , respectively ) , Finally , Fig. 3d shows that Bcl-xL and survivin protein levels decrease concomitantly with pStat3 levels in MDA231Stat3F cells , but are unmodified in MDA231pEF-BOS cells .
+Full-size image ( 34K )
+Fig. 3. ( a ) Stat3 and pStat3 levels in MDA231Stat3F and MDA231pEF-BOS ( mock-transfected cells ) at different times following transfection ; baseline determinations ( t = 0 ) were performed 24 h after transfection. ( b ) Induction of apoptosis by DOX ( 0.5 M ) in MDA231Stat3F and MDA231pEF-BOS cells .
+Means SE of 3 independent experiments ; data are normalized for the percent of apoptotic cells observed in untreated samples at the same time points. ( c ) IC50 values obtained in MDA231Stat3F and MDA231pEF-BOS cells .
+Means SE of 3 independent experiments. ( d ) Bcl-xL and survivin protein levels in MDA231Stat3F and MDA231pEF-BOS cells. p 0.01 vs. MDA231pEF-BOS .
+View Within Article .
+3.4. Effects of treatment with satraplatin .
+Satraplatin was found to decrease MDA-MB-231 cell proliferation at 72 h , with an estimated IC50 value of 2.67 0.35 M. In combination with DOX , satraplatin was used at 0.5 and 1 M ; the latter concentration approximately corresponds to the IC25 value and has been shown to significantly reduce pStat3 levels after 72 h exposure in MDA-MB-231 cells .
+Satraplatin significantly enhances the antiproliferative effects of DOX at 72 h , as indicated by the dramatic decrease in IC50 values .
+The analysis of the interaction between DOX and satraplatin , performed according to the model developed by Chou and Talalay  yielded CI values of 0.2 - 0.4 and of 0.1 - 0.3 for DOX combined with 0.5 and 1 M satraplatin , respectively , indicating strong synergy between the two agents .
+This result is confirmed by data on the induction of apoptosis , showing that the DOX / satraplatin combination yields significantly higher percentages of apoptotic cells than either agent alone .
+Accordingly , treatment with satraplatin ( 1 M for 72 h ) markedly reduces Bcl-xL protein levels ; however , no reduction was observed in survivin expression following satraplatin treatment .
+Full-size image ( 28K )
+Fig. 4. Effect of satraplatin ( STP ) on Stat3 , pStat3 ( a ) , on DOX IC50 at 72 h ( b ) , on the percentage of apoptotic cells observed following 24 h exposure to 0.5 M DOX ( c ) and on Bcl-xL and survivin levels ( d ) .
+Unless otherwise indicated , a concentration of 1 M satraplatin was used .
+Means SE of 3 independent experiment ; p 0.001 vs. DOX alone .
+View Within Article .
+4. Discussion .
+An increasing body of evidence from cell lines , mouse models and human tissues implicates constitutive Stat3 activation in breast cancer oncogenesis [ reviewed in 25 ] .
+The results of our preliminary experiments , comparing pStat3 levels and antiproliferative effects of DOX on the non-metastatic , estrogen-dependent MCF-7 and the metastatic , estrogen-independent MDA-MB-231 cells , indicate that Stat3 activation is also associated to reduced response to tumor drug treatment .
+Interestingly , 24 h exposure to DOX induced a further marked enhancement in pStat3 over baseline levels in MDA-MB-231 cells , whereas no changes were observed in MCF-7 cells , suggesting that Stat3 activation may represent an early defense mechanism leading to impaired response to the cytotoxic treatment .
+It may be argued that the observed differences in IC50 and percent of apoptotic cells between the two cell lines , although significant , are trifling when compared to experimentally induced acquired resistance levels .
+However , it is increasingly recognized that even apparently trifling reduction in drug effectiveness could lead to therapeutic failure when encountered in the clinic .
+Our data are in agreement with those reported by Real et al. on MDA-MB-435 parental ( non-metastatic ) breast cancer cells and a metastatic subline derived thereof , showing activation of the EGFr-Stat3 pathway and reduced response to paclitaxel and DOX in the metastatic cell line  .
+A number of antiapoptotic genes have been identified as direct or indirect targets for the transcriptional activity of Stat3 , most notably those encoding antiapoptotic Bcl-2 family members ( Mcl-1 , Bcl-xL and Bcl-2 ) and survivin  .
+Thus , Stat3 activation could contribute to breast cancer cell resistance , and is a potential target for chemosensitizing strategies .
+To verify this hypothesis , we focused on different interventions aimed at blocking Stat3 activation in MDA-MB-231 cells , in which constitutive Stat3 activation  is also most likely driven by EGFr overexpression  .
+Our first approach was based on inhibition of Janus kinases , probably the major upstream activators of Stat proteins  , using the tyrphostin derivative AG490 ; this compound has been shown to reduce pStat3 levels and to induce apoptosis in a variety of cancer cell lines , as well as to sensitize lymphoma and multiple myeloma cells to a host of cytotoxic agents  .
+To assess the sensitizing effect of AG490 , independent of its direct cytotoxic effects , we decided to use a concentration ( 10 M ) that per se does not induce apoptosis in MDA-MB-231 cells , but is still able to partially abrogate Stat3 phosphorylation .
+Under these conditions , a very modest potentiation of the proapototic effect of DOX was observed , indicating that partial inhibition of Stat3 activation is not sufficient to jeopardize its antiapoptotic function .
+Alternatively , Jaks could simultaneously phosphorylate other substrates besides Stat3 , which in turn might affect the survival of breast cancer cells with inhibited Jak function .
+Most notably , Jak2 ( the main target for AG490 action )  is involved in Stat1 as well as in Stat3 phosphorylation  .
+Since Stat1 is generally reported to play a proapoptotic role [ for a review see 29 ] , its concomitant inhibition could mask the effects induced by Stat3 inhibition .
+To achieve a more complete abrogation of Stat3 phosphorylation , without interfering with Stat1 function , we then transfected MDA-MB-231 cells with a plasmid construct encoding a dominant-negative form of Stat3 .
+Transfected cells did indeed exhibit a decrease in pStat3 levels , which became undetectable at 48 h post-transfection ; this was accompanied by a concurrent decrease in Bcl-xL and survivin protein levels .
+As expected from the reduction in antiapoptotic protein expression , transfected cells were also sensitized to the cytotoxic effects of DOX , as indicated by the significant decrease in IC50 following 72 h exposure to DOX ( i.e. at 96 h post-transfection ) and by a significant increase in the percentage of apoptotic cell death induced by DOX after 24 h exposure ( i.e. at 48 h post transfection ) , as compared to mock-transfected cells .
+Thus , interfering with constitutive ( and drug-induced ) activation of Stat3 does seem to be a viable approach to breast cancer cell sensitization to DOX , especially as Stat3 function has been shown to be dispensable in many normal cells and tissues  , thereby reducing the risk of severe side toxicity .
+This approach could take advantage of the several small molecule inhibitors that have been identified ( e.g. cucurbitacin Q  , resveratrol  and flavopiridol  or specifically designed to target Stat3  .
+Interestingly , Turkson et al. have recently reported on novel platinum compounds which are able to interfere with Stat3 transcriptional activity  .
+Along these lines , we have decided to test the Stat3-inhibiting capability and chemosensitizing properties of satraplatin , an orally active platinum ( IV ) drug that is already well advanced in clinical trials ( phase III ) for its activity on hormone-refractory prostate cancer  .
+In our studies , satraplatin was used at a concentration that only induced 25% inhibition of cell growth in MDA-MB-231 cells following 72 h exposure .
+At this concentration , we observed a marked inhibition of Stat3 phosphorylation , as well as of Bcl-xL protein levels , whereas survivin levels were not modified by the treatment .
+This last observation is rather hard to explain , in view of the inhibition of survivin expression observed in MDA-MB-231 cells transfected with the dominant-negative form of Stat3 .
+One possible explanation is that , as elegantly demonstrated by Frank and coworkers  , neither the Bcl-xL , nor the survivin gene is a direct target of Stat3 transcriptional activity ; thus , transcription of these two genes has to involve other transcription factors , that may have different requirements for Stat3 activation to be turned on ( it must be emphasized that satraplatin , in contrast to transfection with Stat3F , does not completely abolish Stat3 phosphorylation ) .
+Most interestingly , and in spite of unaltered survivin levels , satraplatin induced a dramatic increase in DOX cytotoxicity in MDA-MB-231 cells , as evidenced by both IC50 values and percentage of apoptotic cells , indicating that the two drugs are highly synergistic .
+Such very impressive effect , and the role played by Stat3 , is currently under investigation in our laboratory .
+Our data indicate that satraplatin , while owing most of its antitumor activity in vivo to its platinum ( II ) metabolite JM-118 , rapidly forming upon oral administration  , and exhibiting a modest intrinsic cytotoxic activity in vitro  , may exert an as yet undescribed chemosensitizing effect on breast cancer cells ; thus , the in vivo effects of the parenteral administration of this drug on breast tumors with constitutively active Stat3 may well be worthy of further investigations .
+To conclude , our results confirm a role for Stat3 in the intrinsic resistance to DOX exhibited by metastatic breast cancer cells and indicate this transcription factor as a valid target for strategies aimed at sensitizing Stat3-overexpressing tumors to the effects of DOX-based chemotherapy ; in addition , they suggest a possible novel therapeutic application for satraplatin .
+Acknowledgement .
+Financial Support : E.M. , Italian Ministry of University and Research , PRIN 2005 .

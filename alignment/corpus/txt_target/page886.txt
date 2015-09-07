@@ -1,0 +1,106 @@
+Current treatment of breast cancer by early surgery , systemic hormone therapy and / or chemotherapy reduces the risk of death by 25 - 50%,  and although anti-oestrogens and more recently aromatase inhibitors inhibit oestrogen receptor ( ER ) -positive breast cancer recurrence,4 ER-negative tumours are largely unresponsive to hormonal therapy.5 .
+Novel promising agents to prevent ER-negative breast cancer recurrence are the growth factor receptor tyrosine kinase inhibitors,  including epidermal growth factor receptor ( EGFR ) inhibitors , which although having good tolerability and potential synergy with other treatments have largely demonstrated disease stabilisation or minor responses only in clinical trials in unselected breast cancer patients. 
+The G-protein-coupled alpha1 ( 1 ) adrenergic receptors ( AR ) bind the catecholamines epinephrine and norepinephrine to regulate vascular tone and cardiac output,11 and 1 adrenergic receptor antagonists , including prazosin , doxazosin and terazosin have been used as anti-hypertensive therapies .
+Additionally , extensive in vitro and in vivo studies have demonstrated that doxazosin and terazosin induce prostate cancer apoptosis,  and the proposed mechanisms have included actions via TGF--signalling , I-B induction and reduced focal adhesion kinase.  Based on these prior studies in prostate cancer and our own studies of doxazosin-mediated inhibition of in vitro pituitary tumour proliferation , we sought to test the effects and further elucidate the mechanism of doxazosin actions in breast cancer cells in vitro. 
+In this study , we demonstrate that doxazosin ( dox ) treatment inhibits proliferation , and induces apoptosis in both ER-positive and ER-negative breast cancer cells .
+These dox-mediated actions were largely independent of 1 adrenergic receptor expression , and resulted in reduced phosphorylated-EGFR , phosphorylated-ERK and inhibition of NF-B signalling .
+Additionally , co-treatment with doxazosin , and the EGFR TKI , Iressa , synergistically induced increased apoptosis in breast cancer cells .
+2. Materials and methods2.1 .
+Cell culture .
+Human breast cancer MDA-MB-231 and MCF-7 cells , and normal breast ( MCF12A ) cells were cultured according to the American Type Culture Collection ( Rockville , MD , USA ) recommendations .
+2.2. PCR for 1 adrenergic receptors , cell proliferation assay and cell cycle analysis .
+PCR for the 1A , and 1B receptor was performed as previously described.16 Cell proliferation was measured using the MTS Assay ( Promega , Madison , WI , USA ) and the cell cycle analysis was carried out by FACScan ( Becton Dickinson , NJ , USA ) after the cells were treated with either doxazosin ( dox ) or vehicle ( 0.01% DMSO ) for 48 - 72 h .
+2.3. Transfections and apoptosis assay .
+For EGFR and NF-B-mediated signalling experiments , separate aliquots of MDA-MB231 cells were first transfected16 with dominant negative-EGFR- ( gifted from Dr. Jeffery Kudlow ) and / or -NF-B ( gifted from Dr. Eduardo Arzt ) constructs.  Wild-type MDA-MB 231 and transfectant cells were then treated with vehicle , or 10 g / ml EGF , or 50 ng / ml TNF alone , or in combination with 25 M dox for 48 h .
+For oestrogen experiments , ER-positive MCF-7 cells were cultured in DMEM supplemented with 10% Charcoal stripped serum ( CSS ) for 72 h , then cell aliquots were treated with dox or vehicle for 48 h either in CSS medium or CSS plus 10 nM estradiol .
+Cells were then washed , incubated with propidium iodide and FITC-labelled annexin antibody ( Pharmingen , San Diego , CA , USA ) prior to flow cytometric analysis to quantify apoptotic cells.16 .
+2.4. Western blot analysis .
+Treated cells were lysed in RIPA buffer and proteins ( 50 g ) electrophoresed and immunoblotted by standard techniques using antibodies to cleaved and total caspase-3 ( 1:500 ) ; ERK1 / 2 , phospho-ERK1 / 2 , -actin , EGFR , phospho-EGFR ( all 1:1000 ) ( all from Santa Cruz Biotechnology Inc. , CA , USA ) and phosphorylated IB- ( 1:1000 ) ( Cell Signalling , Beverly , MA ) .
+For EGFR phosphorylation studies , EGFR was immunoprecipitated with anti-EGFR antibody ( Transduction Laboratories , Lexington , KY ) , bound to protein A agarose , prior to application to gels .
+2.5. In vitro AP-1 , SRE , E2F and CRE transcriptional activity .
+MDA - MB231 breast cancer cells were transiently transfected with 1 g of AP-1 , CRE , SRE or E2F luciferase plasmids ( Clontech Laboratories , Inc , CA ) ; pTAL-luc was used as negative control , and treated with either dox ( 25 M ) or vehicle for 6 or 12 h , after which fold-change in luciferase activities was determined .
+2.6. Statistical analysis .
+Experiments were performed in triplicate , in three separate experiments , and analysed by ANOVA ( Kruskal - Wallis ) with Dunn 's multiple comparison tests or non-parametric t test .
+P values 0.05 were considered significant .
+3. Results3.1 .
+The 1 adrenergic receptor antagonist , doxazosin inhibits human breast cancer proliferation .
+Our first set of experiments investigated MCF-7 , and MDA-MB231 breast cancer cell proliferation following doxazosin treatment .
+As depicted in Fig. 1 , dox-treatment inhibited ER-positive , and ER-negative breast cancer proliferation in a dose- and time-dependent manner .
+After 48 h dox-treatment , MCF-7 proliferation was inhibited between 30% and 70% ( dox 20 - 30 M ) , and proliferative rates were further inhibited 30 - 90% at 72 h , P 0.01. Likewise in ER-negative MDA-MB231 cells , dox-treatment ( 20 M to 30 M ) for 48 h inhibited proliferation 20 - 60% , increasing to 30 - 75% at 72 h , P 0.01 .
+Full-size image ( 61K )
+Fig. 1. Doxazosin ( dox ) treatment of MCF-7 and MDA-MB231 breast cancer cells inhibited breast cancer cell proliferation ( a and b ) , led to a dose-dependent decrease in S-phase cell population ( c ) , and decreased pRb expression ( d ) . ( , P 0.05 ; , P 0.01 ) V , vehicle ; dox , doxazosin , pRb , phosphorylated retinoblastoma protein .
+View Within Article .
+3.2. Doxazosin-treatment leads to G0 - G1 cell cycle arrest .
+To gain insight into the mechanism of dox-mediated inhibition of proliferation , we next performed cell cycle analysis in the dox-treated breast cancer cells .
+Dox-treatment for 72 h resulted in a 2.3 fold increase in G0 / G1-phase cells at doxazosin doses higher than 25 M ( data not shown , P 0.05 ) , along with a dose-dependent 40 - 80% decrease ( P 0.05 ) in S-phase cell population .
+Western blot analysis of dox-treated MCF-7 cells revealed decreased phosphorylated retinoblastoma ( pRb ) protein expression , providing a potential mechanism for the dox-mediated G0 / G1 cell cycle arrest .
+3.3. Doxazosin induces breast cancer apoptosis in vitro .
+We next investigated the effect of dox-treatment on breast cancer cell apoptosis .
+Following dox-treatment ( 5 - 30 M 48 h ) , FACS demonstrated a dose-dependant 10 - 15 fold increase in Annexin-FITC positive apoptotic MCF-7 cells .
+In contrast , no significant increase in dox-mediated apoptosis was evident in normal breast epithelial MCF12A cells .
+As previous studies reported differential effects of dox in androgen-receptor positive or negative prostate cancer cells , we examined dox-mediated apoptosis in oestrogen-receptor expressing MCF-7 cells incubated in either charcoal stripped serum ( CSS ) alone or CSS plus 10 nM estradiol ( E2 ) .
+Higher apoptotic rates were demonstrated in dox-treated MCF-7 cells in CSS medium alone compared to CSS and E2 ( P 0.05 for 20 - 30 M dox ) .
+In ER - ve MDA-MB231 cells , dox-treatment also resulted in a 3 - 7 fold increase in apoptosis .
+Additionally , Western blot analysis revealed a 10 fold increase in MDA - MB231 cleaved caspase-3 expression , implicating Caspase-3 in dox-mediated breast cancer cell apoptosis .
+Full-size image ( 52K )
+Fig. 2. Dox-treatment dose-dependently increased breast cancer MCF-7 cell apoptotic rates in comparison to normal breast MCF12A cells ( a ) .
+Dox-mediated apoptosis was more marked in oestrogen-deprived ER expressing MCF-7 cells ( b ) , but was also evident in ER negative MDA-MB231 cells ( c ) , and associated with increased cleaved caspase-3 expression ( d ) . , P 0.05 ; , P 0.001 ; V , vehicle ; Casp-3 , caspase-3 ; dox , doxazosin .
+View Within Article .
+3.4. Doxazosin-mediated anti-proliferative and pro-apoptotic actions are independent of the 1 adrenergic receptor .
+Doxazosin 's anti-hypertensive action is due to it 's ability to bind the 1 adrenergic receptor , but the mechanism ( s ) of its anti-proliferative and pro-apoptotic actions in cancer cells are not well understood .
+To elucidate this issue , 1 adrenergic ( 1A and 1B ) receptor mRNA expression was examined in the breast cancer cell lines by RT-PCR .
+1A and 1B mRNA expression were demonstrated in MDA - MB-231 cells but were not detectable in MCF-7 cells , suggesting doxazosin induced anti-proliferative and pro-apoptotic effects were not entirely dependent on 1 adrenergic receptor expression .
+Additionally , co-treatment of 1A , and 1B expressing MDA - MB231 cells with doxazosin , and blocking doses of the irreversible 1 - receptor antagonist phenoxybenzamine did not abrogate the pro-apoptotic actions of doxazosin .
+Full-size image ( 21K )
+Fig. 3. RT-PCR demonstrated 1A ( 1A ) - and 1B-adrenergic receptor ( AR ) expression in MDA - MB231 cell lines , but 1 AR expression was absent in MCF-7 cells ( a ) , and dox-mediated apoptosis was not abrogated by co-treatment of breast cancer cells with the 1-AR antagonist phenoxybenzamine. , P 0.05 ; , P 0.001 ; V , vehicle ; PB , phenoxybenzamine ; dox , doxazosin .
+18S ribosomal RNA served as an internal control .
+View Within Article .
+3.5. Doxazosin reduces EGFR phosphorylation to inhibit MAP kinase signalling .
+As doxazosin has a quinazoline ring structure , similar to the EGFR tyrosine kinase inhibitors , Iressa and Tarceva , we hypothesised a potential interaction of doxazosin via the EGFR in the breast cancer cells .
+Iressa-treatment alone ( 1 M for 48 h ) did not significantly alter apoptotic rates , in contrast to doxazosin treatment alone ( 30 M for 48 h ) , which resulted in a 7.2 fold increase in apoptosis ( P 0.05 ) .
+Combination dox- ( 30 M ) and Iressa- ( 1 M ) treatment for 48 h resulted in a 14 fold increase in apoptosis ( P 0.01 ) , compared to apoptotic rates in vehicle-treated MDA - MB231 cells suggesting synergistic pro-apoptotic actions of these drugs .
+We next examined total ERK1 / 2 and phosphorylated ERK1 / 2 ( pERK ) expression by Western blot in dox-treated MDA-MB231 cells before and after epidermal growth factor ( EGF ) treatment .
+As expected EGF treatment ( 10 ng / ml ) for 30 min up-regulated pERK1 / 2 expression ( mean SEM , 7.9 0.1 fold , P 0.01 ) ( Fig. 4b , lane 2 ) , but intriguingly , dox-treatment ( 5 - 30 M 30 min ) dose-dependently inhibited EGF-induced breast cancer pERK 1 / 2 expression ( Fig. 4b , lanes 3 - 8 ) .
+Iressa-treatment ( 1 M 30 min ) also potently inhibited EGF-induced pERK1 / 2 expression ( Fig. 4c , lane 3 ) , and unexpectedly , co-treatment with doxazosin ( 5 - 30 M 30 min ) plus Iressa ( 1 M 30 min ) resulted in a further decrease in EGF-induced p-ERK1 / 2 levels in the breast cancer cells ( Fig. 4c , lanes 4 - 7 ) .
+Full-size image ( 61K )
+Fig. 4. ( a ) Doxazosin-treatment induced MDA-MB231 breast cancer cell apoptosis , whereas Iressa alone did not alter apoptotic rates .
+Iressa and dox-co-treatment further increased apoptosis compared to doxazosin alone. ( b ) Doxazosin dose-dependently inhibited ( lanes 3 - 8 ) EGF-induced breast cancer pERK1 / 2 expression compared to EGF alone ( lane 2 ) . ( c ) Iressa-treatment partially inhibited EGF-induced pERK1 / 2 ( lane 3 ) , combination dox- and Iressa-treatment further decreased EGF-induced pERK levels ( lanes 4 - 7 ) . ( d ) EGF-treatment induced phosphorylated EGFR expression ( lane 2 ) , which was inhibited by Iressa ( lane 3 ) .
+Dox treatment ( 30 m ) also inhibited EGF-induced pEGFR expression ( lane 4 ) . , P 0.05 ; , P 0.01 ; V , vehicle .
+View Within Article .
+Given these findings , we next examined activated EGFR expression , and as predicted , EGF-treatment ( 20 ng / ml 30 min ) led to a 18 fold increase in breast cancer phospho-EGFR levels ( Fig. 4d , lane 2 ) compared to vehicle treatment , which was completely inhibited by Iressa treatment ( 1 M 30 min ) ( Fig. 4d , lane 3 ) .
+However , doxazosin treatment alone ( 30 M 30 min ) also decreased EGF induced phosphorylated EGFR levels in the MDA - MB231 cells ( Fig. 4d , lane 4 , P 0.05 ) , suggesting that , like Iressa , doxazosin acts to inhibit breast cancer EGFR activation .
+3.6. Doxazosin inhibits AP-1- , SRE- , E2F- and CRE-mediated transcription activity .
+To further characterise dox-mediated actions on MAPK-mediated signal transduction , we transiently transfected activator protein 1 ( AP-1 ) , serum-response element ( SRE ) , E2F and cAMP-response element ( CRE ) luciferase reporter plasmids ( pTAl-luc ) into MDA-MB231 breast cancer cells , and treated transfectants with dox ( 25 M ) or vehicle for 6 or 12 h , and then determined luciferase activities .
+Dox-treatment led to a 2.8 fold , 2.8 fold , 1.7 fold and 3.9 fold decrease in AP-1 , SRE , E2F and CRE promoter luciferase activities , respectively , in the MDA - MB231 breast cancer cell transfectants compared to the vehicle treatment ( Fig. 5a , P 0.001 ) , demonstrating that dox-treatment inhibits EGF-signalling .
+Full-size image ( 37K )
+Fig. 5. Changes in MAPK , and NF-B-activation in breast cancer cells following dox-treatment of MDA-MB231 cells transiently transfected with AP-1 , CRE , SRE and E2F promoter reporter constructs ( a ) , or phosphorylated IB- expression following TNF-treatment ( b ) . , P 0.05 ; , P 0.001 ; V , vehicle ; dox , doxazosin .
+View Within Article .
+3.7. Doxazosin inhibits NF-B-mediated transcription .
+As dox-treatment has been shown to reduce phosphorylated inhibitor of kappa kinase ( IKK ) levels , and as dox inhibited the NF-B transcriptional targets , AP-1 , SRE , E2F and CRE , in breast cancer cells , we examined baseline , and TNF- stimulated phosphorylated IB- kinase levels after dox treatment .
+As expected , TNF ( 50 ng / ml 30 min ) induced phosphorylated IB- ( pIB- ) expression 3.9 fold ( Fig. 5b , lanes 1 and 2 ) , whereas dox-treatment ( 20 and 30 M 30 min ) decreased constitutive MCF-7 breast cancer pIB- expression ( lanes 3 + 4 ) , and abrogated TNF induced pIKB- kinase levels ( Fig. 5b , lanes 5 and 6 ) suggesting NF-B is also a transcriptional target of doxazosin .
+3.8. Combination EGF and TNF are required to block dox-induced breast cancer apoptosis .
+To characterise the contribution of EGFR- and / or NF-B-mediated signalling to doxazosin-mediated apoptosis , we transiently transfected mutant dominant negative EGFR,17 and NF-B18 constructs into MDA-MB231 breast cancer cells , and then examined doxazosin-mediated apoptotic rates at baseline following vehicle treatment , and following EGF ( 10 ng / ml ) or TNF ( 50 ng / ml ) mediated EGFR- or NF-B-activation , respectively .
+As depicted in Fig. 6 , transfection of EGFR- or NF-B genes into MDA - MB231 cells did not alter base line apoptotic rates of wild-type breast cancer cells ( Fig. 6 , group 1 ) , although DN-EGFR and DN-NFB expression increased breast cancer cell sensitivity to dox-mediated apoptosis ( Fig. 6 , group 2 ) .
+TNF- ( 50 ng / ml ) ( Fig. 6 , group 3 ) or EGF ( 10 ng / ml ) ( Fig. 6 , group 5 ) treatment alone , or combination TNF- ( 50 ng / ml ) and EGF ( 10 ng / ml ) ( group 7 ) did not alter baseline apoptotic rates in wild-type , DN-EGFR- or DN-NFB-expressing breast cancer cells .
+Furthermore , co-treatment of wild-type , DN-EGFR or DN-NFB expressing breast cancer cells with TNF- or EGF alone , plus doxazosin ( 25 M for 72 h ) did not totally abrogate dox-mediated breast cancer apoptotic rates , although apoptotic rates in TNF- - treated DN-NFB expressing cells or EGF-treated DN-EGFR-expressing cells were lower than in vehicle treated DN-transfectants ( Fig. 6 , groups 4 and 6 ) .
+Only co-treatment with TNF- and EGF blocked dox-mediated apoptosis in wild-type , DN-EGFR and DN-NFB expressing cells ( Fig. 6 groups 7 and 8 ) , indicating that dox-mediated breast cancer apoptosis involves both EGFR- and DN-NFB-mediated signalling .
+Similar results were seen in parallel experiments in MCF-7 cells ( data not shown ) .
+Full-size image ( 25K )
+Fig. 6. Changes in dox-mediated breast cancer apoptosis following transient expression of DN-EGFR or DN-NF-B constructs in the presence or absence of EGF- and/ or TNF-treatment. , P 0.05 ; , P 0.01 ; .
+DN-EGFR : dominant negative EGFR ; DN-NF- B : dominant negative NF-B ; V , vehicle ; dox , doxazosin .
+View Within Article .
+4. Discussion .
+Anti-oestrogens effectively reduce oestrogen receptor ( ER ) -positive breast cancer recurrence , but additional chemopreventative agents to prevent ER-negative breast cancers are urgently needed.  Several previous studies have reported that clinically approved doses of the quinazoline-based 1 adrenoceptor antagonists doxazosin and terazosin inhibit proliferation and induce apoptosis in prostate cancer cells and it is not clear why this concept has not been further pursued in human clinical trials.  We extend these findings by demonstrating here that doxazosin inhibits human breast cancer cell proliferation and potently increases apoptosis in vitro , in both ER-expressing MCF-7 and ER-negative MDA-MB231 breast cancer cells via multiple mechanisms , which are not entirely mediated via the alpha adrenoreceptor .
+In some prostate cancer studies , doxazosin and terazosin treatment appeared primarily to induce apoptosis with a lesser effect on prostate cancer cell proliferation , and different responses have been described in androgen receptor ( AR ) expression compared to AR-negative prostate cancer cells.13 Based on our observed reduced S-phase population and decreased pRb expression , doxazosin-treatment significantly inhibits breast cancer cell proliferation , in addition to potently inducing apoptosis , an effect which was more pronounced in breast cancer cells compared to normal breast epithelial cells , and more marked in the absence of oestrogen in ER-expressing MCF-7 cells .
+Unexpectedly , doxazosin-mediated anti-proliferative and pro-apoptotic effects were observed in breast cancer cells which did not exhibit significant 1-AR expression , and 1-AR blockade did not abrogate doxazosin-mediated pro-apoptotic effects , suggesting dox-mediated apoptotic actions were not entirely mediated via the -adrenergic receptor .
+We demonstrate that doxazosin-treatment reduces phosphorylated EGFR and phosphorylated ERK levels to inhibit EGF-stimulated signal transduction and that doxazosin and Iressa actions overlap to increase breast cancer apoptotic rates compared to either drug alone .
+However , inactivation of EGFR-signalling did not totally abrogate dox-mediated breast cancer apoptosis and our additional studies demonstrate that dox-treatment also reduces constitutive and TNF-induced breast cancer pIKK levels .
+However , as for EGFR-inactivation , blockade of NFB signalling alone did not totally abrogate dox-mediated breast cancer apoptosis , and EGF- and TNF- co-treatment was required to inhibit the pro-apoptotic effects of doxazosin .
+We speculate that the different apoptotic response in cancer versus normal cells may be due to greater activation of EGFR- and NF-B-mediated signalling pathways in breast cancer versus normal breast cells .
+Given its multiple mechanisms of action to inhibit both EGFR- and NF-B-mediated actions , it is a well established safety profile , and comparatively low cost , clinically approved doxazosin doses may ultimately offer a novel therapeutic option for both ER positive and ER negative breast cancer patients .
+However , further in vivo breast cancer studies are now necessary to pave the way to clinical trials of doxazosin therapy in patients with breast and other cancers .
+Conflict of interest statement .
+None declared .
+Acknowledgements .
+We thank Dr. Jeffery Kudlow and Dr. Eduardo Arzt for kind donation of the mutant EGFR and NF-B plasmids , respectively .
+This work was supported by a Borden Foundation seed grant , the Margaret Early Foundation and the Cedars-Sinai Research Institute .

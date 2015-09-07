@@ -1,0 +1,215 @@
+Le cancer du sein constitue la première cause de mortalité féminine en France .
+De plus , son incidence est en augmentation .
+Grâce au dépistage systématique mis en place en France depuis 1989 , la maladie est diagnostiquée à un stade de_plus_en_plus précoce , alors_que la taille tumorale reste limitée .
+L' envahissement à distance est alors moins probable et le traitement proposé peut être curatif  .
+Le risque d' envahissement lymphatique , qui est corrélé à la taille tumorale  , diminue d' autant .
+Le curage axillaire traditionnel étant une procédure délabrante , il devenait nécessaire de mettre au point une technique peu invasive , capable cependant de révéler un envahissement lymphatique devenu plus rare .
+Cela était d' autant plus nécessaire que l' impact sur la survie du curage axillaire n' est pas démontré , alors qu' il a pour rôle essentiel de permettre une stadification ( pN du TNM  ) et d' en déduire le pronostic de la maladie .
+Initiée dès la fin des années 1970 par Cabanas  , la technique du ganglion sentinelle ( GS ) n' est appliquée au cancer du sein que depuis 1994  .
+Cette technique permet une bonne détection d' un éventuel envahissement lymphatique , avec un taux de faux négatifs , en_général , inférieur à 10 %  , conduisant à un risque de sous stadification très faible  .
+Cette technique , par rapport au curage , permet une réduction de la morbidité  ainsi_qu' une amélioration de la qualité de vie des patientes  .
+La technique du GS devrait , en_outre , permettre une amélioration de la détection des métastases lymphatique extra-axillaires , non incluses dans le curage « habituel » .
+Cela rendrait la technique du GS encore_plus pertinente que le curage axillaire .
+Si différentes méthodes ont été utilisées pour détecter ce ganglion sentinelle , elles ne semblent pas toutes offrir les mêmes performances .
+Notamment , la procédure de l' injection péritumorale du traceur , au prix d' une complexité opératoire accrue ( multidisciplinarité , avec intervention d' un médecin nucléaire , d' un radiologue et d' un chirurgien ) , permet de détecter , plus souvent que les autres techniques , un drainage mammaire interne .
+Or la détection d' un envahissement mammaire interne peut avoir des implications thérapeutiques importantes .
+La principale conséquence touche la radiothérapie adjuvante .
+Grâce à la détection du GS , le statut ganglionnaire mammaire interne peut être connu pour chaque patiente , permettant de moduler l' irradiation .
+Tout d'_abord , en l' absence de drainage lymphatique vers la chaîne mammaire interne ( CMI ) , de_même qu' en l' absence d' envahissement du GS mammaire interne , le risque d' envahissement des autres noeuds lymphatiques de la chaîne est théoriquement nul .
+Il n' y aurait donc plus lieu d' irradier cette région , même en cas d' envahissement axillaire ou de tumeur interne ou médiane .
+Ensuite , en cas d' envahissement lymphatique en CMI , tous les noeuds lymphatiques de cette chaîne devraient être irradiés .
+Ce cas de figure étant somme toute rare , il serait alors possible d' utiliser une technique d' irradiation conformationnelle lourde .
+Cependant , aucune étude n' a réellement évalué ces deux situations , que ce soit en terme de bénéfice de l' irradiation sur la survie ou au_contraire en terme de bénéfice de l' absence d' irradiation sur les complications , notamment cardiaques .
+La probabilité d' envahissement mammaire interne semble liée au quadrant où se situe la tumeur  ainsi_qu' à sa profondeur dans le sein  .
+Seule l' injection péritumorale , réalisée au mieux sous contrôle échographique et associée à une injection profonde , peut garantir une bonne fiabilité dans la détection d' un drainage en CMI  .
+Une telle migration est difficile à mettre en évidence lors_de la recherche peropératoire à la sonde , car ces ganglions sentinelles sont en_général peu actifs .
+La lymphoscintigraphie devient donc indispensable et encore optimisée par une acquisition tomoscintigraphique couplée à une tomodensitométrie en cas de mise en évidence d' un drainage en CMI , afin_de localiser précisément le GS .
+L' objet de ce travail a été en_premier_lieu d' évaluer les performances de l' injection péritumorale afin_de s' assurer qu' elles sont comparables aux autres modalités d' injection pour la détection du ganglion sentinelle axillaire et que de surcroît cette modalité améliore la détection des ganglions sentinelles mammaires internes .
+Ensuite , de déterminer si , malgré la lourdeur de la procédure , le repérage et le prélèvement de ganglions sentinelles mammaires internes améliorent la stadification , sans toutefois être délétères pour les patientes .
+Enfin , de déterminer si ces constatations pourraient avoir un impact sur la prise en charge des patientes , en conduisant à une modification thérapeutique , en intensification ou en allègement .
+2. Matériels et méthodes
+Cinq cent trente-huit procédures consécutives respectant les recommandations actuelles  ont été étudiées entre mars 2002 et juin 2007 , concernant une cohorte de 524 patientes ( du fait de tumeurs bilatérales ou de seconds cancers controlatéraux ) .
+Pour plus de clarté , dans la suite de ce travail , nous avons regroupé les quadrants en trois zones : - externe ( quadrant inféroexterne , quadrant supéroexterne et équatorial externe ) ;
+- médiane ( équatorial supérieur , équatorial inférieur , rétroaréolaire ) et ;
+- interne ( quadrant inféro-interne , quadrant supéro-interne et équatorial interne ) .
+Le Tableau 1 récapitule les caractéristiques de la population étudiée .
+Tableau 1.
+Récapitulatif des caractéristiques de la population étudiée
+Table 1 Features of the studied population : summary
+Effectif ( % ) Effectif total538 ( 100 ) Sex Ratio1 / 537 = 0,001862 Age moyen ( min max ) 58,6 ( 2783 ) Sein
+droit274 ( 50,9 ) gauche264 ( 49,1 ) Quadrant
+Supéro-externe ( QSE ) 193 ( 35,9 ) Equatoriale supérieur ( Eq Sup ) 77 ( 14,3 ) Supéro-interne ( QSI ) 91 ( 16,9 ) Equatoriale interne ( Eq Int ) 33 ( 6,1 ) Inféro-interne ( QII ) 23 ( 4,3 ) Equatoriale inférieur ( Eq Inf ) 16 ( 3 ) Inféro-externe ( QIE ) 43 ( 8 ) Equatoriale externe ( Eq Ext ) 54 ( 10 ) Rétro-aréolaire ( RA ) 8 ( 1,5 ) Zone mammaire
+Externe ( QSE + Eq Ext +QIE ) 290 ( 53,9 ) Médiane ( Eq Sup + RA + Eq Inf ) 101 ( 18,8 ) Interne ( QSI + Eq Int + QII ) 147 ( 27,3 ) Histologie biopsie
+Carcinome canalaire infiltrant434 ( 80,7 ) Carcinome lobulaire infiltrant68 ( 12,6 ) mixte0 ( 0 ) autre14 ( 2,6 ) suspect22 ( 4,1 ) Histologie définitive
+Carcinome canalaire infiltrant439 ( 81,6 ) Carcinome lobulaire infiltrant76 ( 14,1 ) mixte3 ( 0,6 ) autre11 ( 2 ) Carcinome in situ7 ( 1,3 ) Radial scare2 ( 0,4 ) Contingent in_situ associé254 ( 47,2 ) cTNM
+1a63 ( 11,7 ) 1b283 ( 52,6 ) 1c192 ( 35,7 ) pTNM
+1a56 ( 10,4 ) 1b217 ( 40,3 ) 1c242 ( 45 ) 214 ( 2,6 ) 31 ( 0,2 ) Grade SBR
+1229 ( 42,6 ) 2216 ( 40,1 ) 373 ( 13,6 ) Non renseigné20 ( 3,7 )
+Full-size table
+View Within Article
+Le protocole d' injection débutait par la mise en place de quatre aiguilles par le radiologue sous contrôle échographique en périphérie de la tumeur : une superficielle , deux latérales et une sous tumorale .
+Nous appellerons ce type d' injection « péritumorale » ( PT ) .
+Un repérage stéréotaxique était parfois nécessaire , une seule aiguille était alors laissée en place pour l' injection , directement dans le foyer suspect : « intratumorale » .
+En cas d' impossibilité de respect du protocole standard , l' injection était faite , soit en périaréolaire ( PA ) , soit entre la tumeur et le mamelon .
+Cette dernière méthode était préférée en cas de tumeur très supéroexterne , afin_de ne pas perturber la détection de GS axillaires .
+Dans tous les cas , une injection profonde était réalisée ( prépectorale en cas de contrôle échographique , laissée à l' appréciation du médecin nucléaire en l' absence de contrôle échographique ) .
+L' activité totale administrée dépendait du délai entre le repérage et l' intervention .
+Elle variait de quatre fois 20 MBq ( 540 Ci ) pour un repérage le matin de l' intervention à quatre fois 30 MBq ( 800 Ci ) pour un repérage la veille de l' intervention .
+Le volume par injection était de 100 l ( soit quatre fois 100 l ) .
+La lymphoscintigraphie était effectuée 90 à 120 minutes après l' injection et était éventuellement renouvelée toutes les heures jusqu' à la visualisation du ganglion sentinelle .
+Les images étaient acquises avec une gamma caméra grand champ avec un collimateur basse énergie .
+La fenêtre d' énergie était centrée sur le pic du 99mTc ( 140 KeV 10 % ) .
+Trois incidences étaient effectuées : une de face , une en oblique antérieur , toutes deux réalisée en décubitus dorsal , ainsi_qu' une de profil , en décubitus dorsal ou ventral en fonction de la localisation de la tumeur .
+La matrice utilisée était de 128128 pixels , la durée d' acquisition de 300 secondes par image .
+À partir d' octobre 2006 , en cas de migration mammaire interne , une acquisition tomoscintigraphique couplée à une tomodensitométrie était , en_outre , systématiquement réalisée , afin_de déterminer en préopératoire l' espace intercostal dans lequel se situait le GS .
+Un repère au stylo indélébile était ensuite apposé sur la patiente en position opératoire ( en décubitus dorsal avec le bras en abduction ) , après repérage au moyen d' une sonde de détection ( Europrobe II , Eurorad ) .
+L' ensemble des interventions a été réalisé par le même chirurgien .
+L' intervention chirurgicale pouvait avoir lieu le jour même ou bien le lendemain de l' injection de nanocolloïdes technétiés .
+Elle était précédée par une injection périaréolaire de Bleu Patenté 2,5 % ( laboratoire Guerbet ) , suivie d' un massage pendant cinq à dix minutes .
+Le premier temps opératoire consistait en l' intervention sur le sein .
+Ce choix était dicté par la nécessité d' enlever les points d' injection du radiotraceur , sources potentielles de confusion lors_de la détection peropératoire , en raison de leur importante activité .
+La sonde de détection utilisée jusqu' en septembre 2006 était une sonde Europrobe I ( société Eurorad ) .
+À partir d' octobre 2006 , une sonde Gamma-Sup ( société Clerad ) fut utilisée , apportant un confort accru pour le chirurgien du fait d' une collimation plus sélective et d' une meilleure sensibilité .
+Tous les noeuds lymphatiques actifs ( activité mesurée supérieure au dixième du noeud lymphatique le plus actif ) étaient prélevés et identifiés comme ganglion sentinelle .
+En cas de drainage mammaire interne , ces ganglions lymphatiques étaient les premiers recherchés et prélevés via l' incision principale de tumorectomie .
+L' incision axillaire et l' identification du ganglion sentinelle étaient ensuite pratiquées .
+En fin de geste , un balayage lent de l' aisselle avec la sonde était effectué , afin_de s' assurer qu' il ne subsistait aucun GS .
+En l' absence de détection du GS , tant en lymphoscintigraphie qu' en peropératoire , un curage axillaire complet des premier et deuxième étages de Berg était réalisé .
+Par ailleurs , un certain nombre de noeuds lymphatiques non sentinelles pouvaient être prélevés .
+Ils étaient alors marqués comme non sentinelles et analysés en anatomopathologie standard .
+Il s' agissait de noeuds lymphatiques dont l' activité était supérieure à deux fois le bruit de fond , mais inférieure au dixième du noeud lymphatique le plus actif , ainsi_que de noeuds lymphatiques non colorés mais situés à proximité immédiate d' un trajet lymphatique bleuté .
+Enfin , chaque fois qu' un ganglion sentinelle était détecté dans le troisième étage de Berg , un curage axillaire complet était pratiqué , du fait du caractère exceptionnel d' un drainage lymphatique direct vers cet étage .
+Une description globale de l' ensemble de l' échantillon a été menée , en précisant les fréquences des différentes catégories pour les variables qualitatives .
+En l' absence de répartition normale , les variables quantitatives ont été décrites à l' aide de la moyenne , de la valeur minimale et de la valeur maximale .
+Les comparaisons des moyennes ont été testées à l' aide d' un test de Mann-Whitney ( pour les variables à deux classes ) .
+Les comparaisons des pourcentages ont été testées à l' aide d' un test exact de Fischer .
+Le seuil de signification était fixé conventionnellement à 5 % .
+3. Résultats
+Le taux d' envahissement lymphatique , quelle que soit la méthode ayant permis de découvrir cet envahissement , était de 27,5 % ( 148 cas ) .
+Le protocole initial a pu être respecté 478 fois ( soit dans 88,8 % des cas ) ( PT : 474 , intratumoral : 4 ) .
+Dans les cas où le respect du protocole standard n' a pas été possible , l' injection a été faite 24 fois entre la tumeur et le mamelon ( 4,5 % ; lorsque la tumeur était très supéroexterne ) et 36 fois en PA ( 6,7 % ; lorsqu' une contrainte technique empêchait l' injection PT ) .
+Le taux d' échec de la technique ( absence de GS identifié en lymphoscintigraphie ou en peropératoire ) est de 2,6 % ( 14 fois ) .
+Un GS a donc pu être identifié 524 fois .
+Dans 13 cas , cet échec faisait suite à une injection PT .
+Parmi ceux-ci , 11 fois l' injection avait eu lieu dans les quadrants internes et trois fois dans les quadrants externes ou centraux ( différence significative , p = 0,0003 ) .
+En cas d' échec , un curage complet était réalisé , permettant de trouver trois envahissements lymphatiques ( soit 21,4 % de ces 14 patientes , non significativement différent du taux d' envahissement global ) .
+Deux fois cet envahissement était massif , détruisant la structure ganglionnaire .
+Un prélèvement de ganglions non sentinelles selon les critères explicités plus haut a été réalisé 304 fois ( soit 58 % des 524 patientes ayant bénéficié d' un prélèvement de GS ) .
+Le nombre de ganglions ainsi prélevé était en moyenne de 2,9 ( écart-type : 1 - 8 ) .
+Un GS dans le troisième étage de Berg a été retrouvé 105 fois ( 19,9 % des 524 patientes ayant bénéficié d' un prélèvement de GS , soit 20,5 % des 513 patientes ayant bénéficié d' un prélèvement axillaire ) , conduisant à la réalisation de principe d' un curage axillaire complet .
+Parmi ces 409 patientes , 13 ( 3,2 % ) présentaient un envahissement autre que le ganglion sentinelle , sans envahissement associé du GS .
+Ces 13 cas de faux négatifs de la technique représentent donc 8,7 % des 148 cas d' envahissement lymphatique .
+Le nombre moyen de GS retrouvé en lymphoscintigraphie était de 1,47 ( variant de zéro à six par patiente ) .
+Le nombre moyen de GS retrouvé au bloc opératoire était de 2,18 ( variant de zéro à 11 par patiente ) confirmant que la détection peropératoire d' un GS axillaire est plus sensible que la lymphoscintigraphie .
+Cette moyenne n' était pas modifiée par la chronologie de l' injection ( chirurgie le jour de l' injection : 2,21 ; chirurgie le lendemain : 2,09 ) .
+Le nombre moyen de GS prélevés en CMI , quand ce prélèvement était pratiqué , était de 1,63 ( un à quatre par patiente ) , dans ce cas le rôle de la lymphoscintigraphie était décisif .
+Le Tableau 2 présente le nombre de cas de drainage et d' envahissement par région anatomique .
+Tableau 2.
+Répartition régionale du drainage et de l' envahissement lymphatique
+Table 2 The pattern of drainage and lymphatic involvement according to region
+Drainage ( % ) Envahissement ( % ) Axillaire513 ( 97,9 ) 125 ( 23,8 ) Axillaire isolé370 ( 70,6 ) 116 ( 22,1 ) Axillaire + CMIa135 ( 25,8 ) 9 ( 1,7 ) Axillaire + autre7 ( 1,3 ) 0 Axillaire + CMI + autre1 ( 0,2 ) 0 CMI147 ( 28,1 ) 16 ( 3,1 ) CMI isolé10 ( 1,9 ) 7 ( 1,3 ) CMI + autre1 ( 0,2 ) 0 Autre9 ( 1,7 ) 0 Autre isolé1 ( 0,2 ) 0
+Full-size table
+a CMI : chaîne mammaire interne ; entre parenthèses , le pourcentage rapporté au nombre total de cas .
+View Within Article
+Parmi les 524 patientes pour lesquelles un GS a été mis en évidence , 147 avaient un drainage mammaire interne ( 28,1 % ) .
+La probabilité de drainage mammaire interne en fonction de la zone où a eu lieu l' injection est présentée Tableau 3. Quel que soit le type d' injection réalisée , qui comportait cependant toujours une injection profonde , le taux de drainage mammaire interne n' était pas significativement différent ( PT : 27,7 % ; intratumorale : 25 % ; PA : 30,6 % ; intertumoroaréolaire : 30,4 % ) .
+Tableau 3.
+Drainage et envahissement mammaire interne selon la zone mammaire
+Table 3 Percentage of drainage and lymphatic involvement according to mammary zone
+Pourcentage de drainage mammaire interne , rapporté au nombre de cas où l' injection a été réalisée en péri- ou intratumoral ( nombre de cas ) Pourcentage d' envahissement mammaire interne , rapporté au nombre de cas où la biopsie a pu être réalisée ( nombre de cas ) Zone interne47,9 ( 62 ) 14,1 ( 9 ) Zone médiane31 ( 27 ) 10,3 ( 3 ) Zone externe15,6 ( 40 ) 9,5 ( 4 )
+Full-size table
+View Within Article
+Douze GS mammaires internes n' ayant pu être prélevés , ce sont 135 patientes qui ont eu un prélèvement de cette région , soit 91,8 % de succès de la technique de prélèvement .
+Depuis octobre 2006 , date de la mise en service de la sonde Gamma-Sup , ainsi_que de la réalisation systématique d' une acquisition tomoscintigraphique couplée à une tomodensitométrie en cas de drainage mammaire interne , sur 37 tentatives , aucun échec n' a été répertorié ( différence avant / après significative : p = 0,0375 ) .
+Sur les 147 procédures de prélèvement ( soit 220 noeuds lymphatiques prélevés ) , trois abords directs ont été nécessaires , mais aucune complication grave n' a été répertoriée ( deux brèches pleurales , mais sans pneumothorax associé , ainsi_qu' un cas de section de l' artère mammaire interne , clampée sans problème particulier et sans conséquence fonctionnelle ) .
+Le risque d' envahissement mammaire interne en fonction de la zone mammaire où se situe la tumeur était pour la zone interne : 9 / 147 ( 6,1 % ) ; pour la zone médiane : 3 / 101 ( 3 % ) ; pour la zone externe : 4 / 290 ( 1,4 % ) , différences toutefois non significatives .
+Si l' on rapporte ces cas aux 135 patientes ayant bénéficié d' un prélèvement CMI , on a trouvé pour la zone interne : 9 / 64 ( 14,1 % ) ; pour la zone médiane : 3 / 29 ( 10,3 % ) ; pour la zone externe : 4 / 42 ( 9,5 % ) , différences également non significatives .
+Ce risque n' était pas significativement lié au type histologique tumoral , ni au grade SBR .
+La moyenne d' âge était significativement plus basse ( p = 0,0019 ) chez les patientes présentant un envahissement mammaire interne ( 50,7 ans ) que chez les autres ( 58,9 ans ) .
+La taille tumorale moyenne était significativement plus élevée ( p = 0,0106 ) chez les patientes présentant un envahissement mammaire interne ( 13,1 mm ) que chez les autres ( 10,2 mm ) .
+Pour six des sept patientes dont l' envahissement CMI était isolé ( 85 % ) , la prise en charge a été modifiée par cette information , conduisant à la réalisation d' une chimiothérapie adjuvante .
+Cela représente 4,4 % des 135 prélèvements effectués , soit 1,1 % de la série .
+Pour la dernière patiente , la chimiothérapie aurait été proposée même en cas de négativité du curage , selon le logiciel proposé sur le site Internet  .
+Suivant les Standards , options et recommandations de la Fédération nationale des centres de lutte contre le cancer , dont la dernière version date de 2001  , 324 patientes ont subi une irradiation mammaire interne ( indiquée en cas de tumeur interne ou centrale ou bien en cas d' envahissement axillaire ) .
+Parmi ces patientes , seules 16 ( 5 % ) avaient un envahissement de cette région .
+4. Discussion
+La détection du ganglion sentinelle est une technique qui s' est très rapidement répandue dans le traitement du cancer du sein .
+Son but reste le même que celui du curage axillaire classique , c' est-à-dire permettre le classement pN ( selon la classification TNM ( 3 ) ) , afin_d' orienter au mieux la prise en charge de la patiente .
+Il permet non_seulement de déterminer le plan de traitement locorégional ( définition des champs d' irradiation ) , mais également le plan général , en modulant les indications de chimiothérapie adjuvante .
+Pour déterminer le choix de l' attitude thérapeutique la mieux adaptée à chaque patiente , cette stadification lymphatique doit être la plus précise et la plus juste possible .
+Notre travail vise à démontrer qu' au prix d' une technique certes relativement lourde , mais ne sacrifiant pas la notion de faible invasivité , l' injection péritumorale est à_même de répondre aux exigences de cette stadification .
+L' étude Fransenode  a comparé de façon prospective et randomisée les injections péritumorales et périaréolaires chez 449 patientes dans la détection des ganglions sentinelles .
+Cette étude conclut à la validité de l' injection périaréolaire , qui est plus aisée , tout en semblant aussi performante dans la détection des ganglions sentinelles axillaires .
+Elle retrouve un taux de succès ( mise en évidence d' au moins un GS , en lymphoscintigraphie ou en peropératoire ) sensiblement identique pour les deux modalités , à 99,1 % .
+Dans notre série , ce taux , à 97,4 % , reste acceptable et comparable aux données publiées par d' autres auteurs réalisant ce type d' injection  .
+On remarque que les échecs de détection sont significativement plus fréquents en cas d' injection dans les quadrants internes , peut-être conséquence d' un temps de migration insuffisant dans ce cas précis , du fait de l' importance de la distance entre le site d' injection et le creux axillaire .
+On pourrait donc proposer , en cas de tumeur interne , de réaliser l' injection du traceur la veille de l' intervention , pour permettre un temps de migration plus long .
+Dans notre étude , le nombre de ganglions sentinelles retrouvés en lymphoscintigraphie ( 1,47 en moyenne ) , ainsi_que le nombre prélevé ( 2,18 en moyenne ) , sont comparables aux chiffres présentés dans l' étude Fransenode , concernant le groupe ayant bénéficié de l' injection périaréolaire .
+L' envahissement massif d' un noeud lymphatique en modifie la structure anatomique .
+Cela peut venir altérer les caractéristiques physiologiques qui lui permettent d' accumuler le traceur .
+Un échec de détection du GS peut donc éventuellement être expliqué par ce phénomène .
+Contrairement à certaines données publiées  , dans notre étude , un échec de détection ne semble cependant pas être un facteur de risque particulier d' invasion ganglionnaire ( 21,4 % contre 27,5 % pour le reste de la série , différence non significative ) .
+La réalisation d' un curage complet en cas de ganglion sentinelle haut , dans le troisième étage de Berg , ainsi_que la biopsie systématique de noeuds lymphatiques radioactifs ou à proximité du trajet lymphatique , ont permis d' identifier 13 envahissements lymphatiques non mis en évidence par la technique du GS .
+Ces patientes peuvent donc être considérées comme de cas de faux négatifs de la technique .
+Cela représente 13 cas sur les 148 cas d' envahissement , soit un taux de faux négatifs estimé à 8,7 % .
+Le taux de faux négatifs de cette technique pour le chirurgien qui a opéré était de 9,1 % ( 1 / 11 ) lors_de sa « courbe d' apprentissage » , si l' on exclut les sept premières patientes ( donc le premier faux négatif ) car la technique était encore imparfaite et a été améliorée suite au premier cas révélé de faux négatif  .
+Il semble licite de considérer que les procédures « de rattrapage » utilisées ici permettent de rattraper la majorité des faux négatifs de la technique .
+De nombreuses études ont comparé les injections non péritumorales ( périaréolaire , intradermique ) au curage axillaire traditionnel , afin_de calculer le taux de faux négatifs .
+Celui-ci est faible , validant donc la technique .
+Toutefois , le curage « axillaire » habituel n' incluant pas la chaîne mammaire interne , un éventuel drainage mammaire interne n' est pas pris en compte .
+Les éventuels envahissements de cette région n' entrent donc pas dans le calcul de faux négatifs .
+De même , l' étude Fransenode  , déjà mentionnée plus haut , randomisait les patientes entre injection PT et PA .
+Elle conclut à une équivalence , voire à une supériorité de la seconde technique , plus simple , dans la détection du GS en position axillaire .
+Elle néglige cependant l' importance de la chaîne mammaire interne , les noeuds lymphatiques de cette région n' étant prélevés dans aucun des deux groupes .
+Les données de la littérature sont discordantes quant_à la systématisation du drainage lymphatique du sein vers la chaîne mammaire interne .
+Le risque d' envahissement mammaire interne semble déterminé par le quadrant où se situe la tumeur  , sans_que l' on puisse toutefois négliger ce risque en cas de tumeur externe .
+Dans notre série , nous retrouvons cette tendance ( tumeur interne : 6,1 % ; tumeur médiane : 3 % ; tumeur externe : 1,4 % ) qui n' apparaît cependant pas significative du fait des faibles effectifs .
+La probabilité de drainage mammaire interne semble déterminée par le quadrant dans lequel l' injection a été réalisée .
+Cette hypothèse est toutefois très discutée , bénéficiant d' une littérature en faveur  et à l' encontre  .
+Dans notre série de patientes , nous retrouvons une différence de probabilité de drainage mammaire interne très significative ( p 0,0001 ) en fonction du quadrant où a eu lieu l' injection , avec un gradient allant de l' externe vers l' interne ( injection externe : 15,6 % ; injection médiane : 31 % ; injection interne : 47,9 % ) .
+Shimazu_et_al.  ont repris l' hypothèse selon laquelle la probabilité de détection d' un drainage mammaire interne serait fonction de la profondeur d' injection du traceur .
+La seconde partie de son article , réalisée sur une autre cohorte , concerne le risque d' envahissement , qui lui aussi pourrait être lié à la profondeur de la tumeur .
+Notre étude , au_cours_de laquelle une injection profonde a été systématiquement réalisée , semble bien en accord avec cette hypothèse .
+En effet , quel que soit le type d' injection réalisé , la probabilité de drainage mammaire interne n' est pas significativement différente , contrairement aux résultats des autres études comparant ces types d' injections , mais sans effectuer d' injection profonde  .
+Dans notre étude , le taux de drainage mammaire interne , de 28,1 % , est bien en accord avec les données de la littérature concernant l' injection péritumorale  .
+De même , le taux de drainage mammaire interne isolé ( donc sans GS axillaire associé ) est faible ( 1,9 % des cas chez lesquels un GS a pu être mis en évidence ; 6,8 % des cas où un drainage en CMI a été retrouvé ) mais tout-à-fait superposable aux données publiées  .
+Parmi nos patientes ayant subi une adénectomie mammaire interne , seul un cas de brèche ainsi_qu' une lésion de l' artère mammaire interne ont été répertoriés , soit un taux de complication de 1,4 % , sans aucune complication grave ni séquelle .
+Pour les auteurs qui pratiquent ces biopsies mammaires internes  , la morbidité est également faible , allant de 3 à 12 % des procédures .
+Les échecs de prélèvements ( GS visualisés en lymphoscintigraphie , mais non prélevés ) concernent , dans notre étude , uniquement la chaîne mammaire interne .
+L' absence d' échec à_partir_d' octobre 2006 ( date de changement de sonde et réalisation systématique d' une tomoscintigraphie couplée à une tomodensitométrie en cas de drainage mammaire interne ) contre 10,9 % des tentatives avant cette date ( différence significative : p = 0,0375 ) souligne l' importance d' une sonde de détection peropératoire performante et fortement collimatée , ainsi_que la nécessité d' un repérage préopératoire précis .
+Cela est probablement particulièrement vrai pour les ganglions sentinelles mammaires internes bas ( quatrième et cinquième espaces intercostaux ) , du fait de l' étroitesse de l' espace .
+Il ne faut toutefois pas négliger l' importance de l' expérience du chirurgien comme l' indique la diminution progressive de ce taux d' échec au cours du temps , même si les chiffres ne sont pas statistiquement significativement différents .
+L' envahissement mammaire interne ne touche que 11,8 % des patientes de notre cohorte qui ont eu un prélèvement de cette région .
+Ce taux , relativement faible , reste cependant comparable aux données habituellement rapportées .
+L' envahissement isolé , sans envahissement axillaire associé , est extrêmement variable selon les études , variant de 0 à 90 % des patientes présentant un envahissement mammaire interne .
+Dans notre étude , ce taux est de 43,8 % .
+D' après notre étude , comme d'_après les données colligées dans le Tableau 4 , l' envahissement mammaire interne n' est donc pas systématiquement associé à un envahissement axillaire .
+Toutefois , l' envahissement mammaire interne isolé reste rare , représentant dans la littérature en moyenne de 0,7 % des cas ( de 0 à 1,2 % ) , 1,2 % pour notre étude .
+Tableau 4.
+Principales études mentionnant le taux d' envahissement mammaire interne
+Table 4 Principal studies mentioning the rate of involvement of the internal mammary chain
+Premier auteurAnnéeRéférenceNombre de patientesGSa mammaire interneNombre de prélèvements CMIb effectuésEnvahissement du GS en CMITaux d' envahissement CMI ( % ) Envahissement CMI isoléTaux d' envahissement CMI isolé ( % ) Carcoforo P.2006  7416565101591,2 Estourgie SH.2003  691150130221791,3 Hong J.2005  979138121252160,6 Johnson N.2000  8010100000,0 Madsen E.2006  50610985202440,8 Mansel RE.2004  707693141320,3 Paganelli G.2002  20073625800,0 Paredes P.2002  391553241300,0 van der Ent FW.2001  2566541112700,0
+Full-size table
+a GS : ganglion sentinelle .
+b CMI : chaîne mammaire interne .
+View Within Article
+Pour sept patientes de notre étude , le stade pTNM a été modifié grâce_à la détection et au prélèvement du GS mammaire interne .
+La connaissance de l' envahissement mammaire interne a permis , pour six d' entre elles , la modification de leur prise en charge , conduisant à la réalisation d' une chimiothérapie adjuvante .
+Cela ne représente que 1,1 % des patientes de la série , conformément aux chiffres trouvés par une équipe hollandaise  .
+Celle-ci montrait , sur une cohorte de 506 patientes , que la prise en charge n' était modifiée par la connaissance d' un envahissement lymphatique mammaire interne que pour 1 % des patientes .
+Comme cette équipe , nous concluons que ce pourcentage , bien_que faible , justifie la procédure .
+En effet , pour les patientes concernées , cette information a amélioré leur prise en charge .
+Les recommandations actuellement en vigueur en France  pour l' irradiation de la chaîne mammaire interne , qui datent déjà de plusieurs années , ont été définies en raison d' une augmentation de risque d' envahissement de cette région , en cas de tumeur interne ou centrale ou d' envahissement lymphatique axillaire .
+Suivant ces recommandations , 324 patientes de notre cohorte ont subi une irradiation mammaire interne .
+Or parmi celles-ci , seulement 16 présentaient un envahissement lymphatique de cette région , isolé ou non et ont donc tiré un bénéfice certain de cette irradiation .
+Cette irradiation a donc été effectuée 308 fois pour_rien ( 95 % ) si l' on admet que l' absence de drainage est prédictif de l' absence d' envahissement .
+De plus , pour les patientes concernées , la mise en place de clips chirurgicaux , au cours du prélèvement mammaire interne , a permis de s' assurer de l' inclusion des zones lymphatiques dans les champs d' irradiation .
+Cette pratique a de plus permis de mettre en évidence une divergence entre les champs d' irradiation classiques concernant la CMI et la localisation exacte de ses noeuds lymphatiques .
+Ces clips pourraient également servir à définir les champs d' irradiation de façon conformationnelle , voire en modulation d' intensité .
+5. Conclusion
+Ce travail a donc montré qu' au prix d' une procédure relativement lourde , nécessitant une équipe multidisciplinaire , ainsi_que d' une technique chirurgicale rigoureuse , la prise en charge des patientes présentant un cancer du sein de stade cT1 pourrait , dans un nombre important de cas , être modifiée grâce_à l' injection péritumorale de nanocolloïdes technétiés associée au prélèvement systématique des noeuds lymphatiques mammaires internes ainsi mis en évidence .
+Ce résultat a été obtenu sans altérer les performances habituelles de la technique ni engendrer un surcroît significatif de complications .
+La preuve formelle de l' intérêt en terme de survie et de morbidité des modifications thérapeutiques engendrées par cette détection devra être apportée par une évaluation de ces pratiques , notamment radiothérapique .
+Cela déterminera donc l' opportunité de rechercher systématiquement un drainage mammaire interne , fusse au prix d' une procédure plus lourde .
+Remerciements
+Ce travail a été réalisé dans le service de médecine nucléaire du CHU de Grenoble ( Pr Fagret )

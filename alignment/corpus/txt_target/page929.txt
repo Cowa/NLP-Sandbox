@@ -1,0 +1,173 @@
+In comparison to surgery for breast lesion diagnosis the percutaneous sonography or stereotactic guided biopsy is faster , less invasive , more comfortable and more cost-effective  .
+Additionally , percutaneous biopsies prevent women with histologic proven benign disease from unnecessary surgery and accelerate start of treatment in case of breast cancer .
+Women with breast cancer diagnosed by surgical biopsy undergo usually a second operation for evaluating the axilla or for required complete tumor resection .
+Confirmation of histologic diagnosis simplifies operative planning and offers the possibility for definite surgical treatment in one step  .
+Thus , the aim of our study was the evaluation of the likelihood of one therapeutic surgery in patients with percutaneously proven breast cancer and the different factors correlating with only one operation , especially morphology of the lesions , quality of imaging diagnostic and preoperative sonographic or stereotactic guided localization .
+2. Materials and methods2.1 .
+Biopsies .
+In our retrospective study mean patient age was 59 years ( range 38 - 81 years ) .
+We evaluated data of clinical , radiological and surgical reports of 152 consecutive patients who had a therapeutic operation in case of non-palpable breast cancer at our institution from January 2001 to December 2002 .
+Operation was performed following percutaneously proven non-palpable breast cancer in 121 / 152 patients ( 79.6% ) .
+Sixty-one ( 40.1% ) women underwent vacuum-assisted large core biopsy under stereotactic guidance and 60 ( 39.5% ) patients were diagnosed under sonographic guidance using a 14 g ( coaxial Bard Magnum 14 g , Covington , GA , USA ) needle .
+Reasons for no preoperative biopsy in 31 cases were the following : 2 ( 1.3% ) patients underwent fine needle aspiration , in 8 ( 5.2% ) cases a technical approach was not possible due to the lesion 's position in the breast , 3 ( 2% ) patients rejected percutaneous biopsy , 1 ( 0.7% ) had a radial scar as a reason for immediate surgical biopsy , and in 17 ( 11.2% ) patients definite clinical and radiological diagnosis ( BI-RADS 5 ) lead to operation .
+The radiologists chose the method of guidance in aspect of the most reliable imaging visibility .
+All decisions and actions were supervised and proven by the head of the department ( IS ) .
+Generally , stereotactic guidance was used for masses that were not visualized sonographically or for calcified lesions , and sonographic guidance for all those detectable by ultra-sound .
+Specimen X-ray was performed to confirm the presence of the lesion within the specimen during surgery .
+Stereotactic biopsies were performed with women in prone position on a dedicated table with digital imaging ( Fischer Imaging Corp. , Denver , CO , USA ) .
+Tissue was acquired for stereotactic guided biopsies with an 11 gauge vacuum-assisted biopsy probe ( Mammotome , Ethicon Endo-Surgery , Inc. , Cincinatti , OH , USA ) .
+Median of specimen acquired was 25 ( range 15 - 35 ) , specimen radiography was performed in each case .
+When the lesion was removed completely a localizing clip was placed .
+The sonographically guided biopsies were performed with women in supine-oblique position , using high-resolution sonographic equipment ( ATL HDI 5000 , Bothell , WA , USA ) .
+For acquiring tissue a 14 gauge automated core-biopsy system was used .
+Median of specimen acquired was 5 ( range 4 - 8 ) .
+2.2. Preoperative localization technique .
+One hundred and thirty-six of 152 ( 89.5% ) patients attempted breast conservation and underwent preoperative tumor localization on the day of surgery with a localization wire ( Bard Dualok , Covington , GA , USA ) .
+Localization wires were placed in the center of the lesion .
+If there were larger lesions 1.5 cm two or even more localization wires were used to delineate the tumor .
+Localization was defined exact , if the distance from the wire to the tumor was equal or lower than 3 mm .
+After stereotactically and sonographically guided localization of visible architecture distortion mammograms were performed .
+At the end of the preoperative tumor localization procedure personal consultation with the surgeon took place in each case .
+Sixteen patients had mastectomy without preoperative localization .
+2.3. Primary surgical treatment .
+All breast and axillary surgeries were done by gynecologists ( 6 ) specialized in breast surgery .
+The therapeutic procedures concerning breast conservation versus mastectomy , no need of axillary surgery versus sentinel lymph node biopsy versus axillary dissection , were decided by the surgeon in consultation with the radiologist and the patient based on the imaging , the pathology report , the clinical findings and the patients preferences .
+Multicentricity of tumors or history of therapeutic radiation therapy of the breast were contraindications for breast conservation .
+Axillary dissection was performed in case of invasive carcinoma and clinical and / or sonographical suspicion about axillary lymph nodes , sentinel lymph node biopsy in case of clinically / sonographically negative axilla findings .
+2.4. Additional surgical procedures .
+In different situations additional surgery was recommended at our institution .
+Re-operation was required due to tumor at or close to the margins of resection , residual microcalcifications in the biopsy site in case of carcinoma associated with calcifications , due to multifocality or histologic underestimation in preoperative biopsy .
+The patient underwent reexcision after preoperative needle localization or mastectomy following a multidisciplinary tumor conference with consensus of surgeon , radiologist , pathologist and patient on basis of histologic findings , imaging data and patients preferences .
+If sentinel lymph node metastases were identified complete axillary dissection was performed as a separate surgical procedure .
+2.5. Pathology .
+In our institution pathologic analysis and correlation with both imaging and definite histologic diagnosis was performed for all preoperative percutaneous biopsies and all surgical specimen .
+We considered histologic underestimation in case of lesions showing atypical ductal hyperplasia ( ADH ) in percutaneous biopsy and ductal carcinoma in situ ( DCIS ) at surgery , or for DCIS in percutaneous biopsy and infiltrating carcinoma in the surgical specimen  .
+Specimen margins were considered positive if the tumor extended to 1 mm in case of invasive carcinoma and 5 mm in case of DCIS to the inked margin .
+Sentinel lymph nodes were examined by frozen section , immunohistochemistry and paraffin section .
+If the sentinel nodes were turned out to be tumor-free , no further axillary surgery was recommended .
+If sentinel lymph nodes show metastases in the frozen section , patient underwent axillary dissection during the same surgical procedure .
+In case of malignant involvement only in paraffin section or immunohistochemistry re-operation for axillary dissection was necessary .
+2.6. Data collection .
+Medical history was reviewed retrospectively to determine the number of surgical procedures for each patient .
+Factors recorded included primary breast cancer treatment ( breast conserving operation versus mastectomy ) , axillary surgery ( sentinel lymph node biopsy versus axillary dissection ) , mammographic and sonographic findings ( mammographically visible mass or microcalcifications , sonographically visible mass and architecture distortion ) , lesion size , core biopsy histology , histologic underestimation and localization quality of the initial surgical procedure .
+All data were entered into a computerized table ( Excel ; Microsoft , Redmond , WA ) for further analysis .
+2.7. Statistics .
+Statistical analysis from all 152 patients were performed using SAS 8.2 ( Cytel Software Corporation , Cambridge , MA , USA ) .
+For all collected data significance concerning operation versus re-operation was calculated by chi-square-test .
+The Mann - Whitney U-test was used to find out whether tumor size would be a potential predictor for additional surgical procedures .
+Significance level was p = 0.05 for both tests .
+Evaluation of power of influence odds-ratio and 95% confidence interval were calculated .
+3. Results3.1 .
+Lesion type , size and surgical procedure .
+One hundred and twenty-eight of 152 ( 84.2% ) patients had solitary unilateral lesions , 24 / 152 ( 15.8% ) had multiple ipsilateral lesions , of whom 20 / 24 ( 13.2% of all ) had multifocal and 4 / 24 ( 2.6% of all ) multicentric lesions .
+Mammographically visible mass was found in 62 ( 40.8% ) patients , microcalcifications in 89 ( 58.6% ) patients .
+Sonographically visible mass were detected in 64 ( 42.1% ) patients , whereas an architectural distortion was found in 11 ( 7.2% ) patients .
+Tumorsize ranged between 0.1 and 6.5 cm ( mean 1.32 1.01 cm ) .
+One hundred and thirty-two ( 86.8% ) patients were finally treated with breast conserving therapy , 20 ( 13.2% ) patients with mastectomy .
+Histology revealed DCIS in 57 ( 37.5% ) patients .
+For one operation in 40 / 57 patients ( 70.2% ) average tumor size was 1.2 cm ( range 0.2 - 5 cm , median 0.75 cm ) , for re-operation average tumor size was 1.6 cm ( range 0.1 - 5.0 cm , median 1.5 cm ) .
+Infiltrating carcinoma was found in 95 ( 62.5% ) patients .
+Axillary surgery was performed in 81 ( 53.3% ) patients , in 15 / 81 ( 18.5% ) patients positive lymphnodes were found .
+3.2. Number of surgical procedures .
+One hundred and twelve patients ( 73.7% ) underwent one operation , 39 patients ( 25.7% ) underwent 2 surgical procedures and 1 patient ( 0.7% ) three operations .
+One-step-surgery was performed in 14 / 16 ( 87.5% ) patients with mastectomy versus 98 / 136 ( 72.1% ) patients with breast conserving therapy ( p 0.185 ) .
+So there was no significant difference , only a tendency to more re-operation required in case of attempted breast conserving therapy .
+Among 136 women who attempted breast conservation the definite treatment was breast conservation in 132 ( 97.1% ) and mastectomy in 4 ( 2.9% ) patients .
+The different reasons for re-operation in 40 cases were : re-operation due to tumor at or close to the margins of resection in 24 cases ( 60% , including 7 / 24 with residual microcalcifications ) , after first surgery found multifocal ( 5 ) or multicentric ( 1 ) tumors with consecutive mastectomy in 6 ( 15% ) cases and additional axillary dissection in 8 ( 20% ) cases because invasive carcinoma was found only in definite histology , including 2 ( 5% ) patients with positive sentinel lymph nodes .
+Two patients had mastectomy on demand .
+3.3. Bivariate analysis factors associated with performing one operation .
+According to bivariate analysis of our 152 patients , one operation was significantly more likely when tumor size was smaller ( in Mann - Whitney U-test z 1.96 , cf. Table 1 ) .
+For one operation ( 112 / 152 patients ) average tumor size was 1.2 cm ( range 0.2 - 6.5 cm , median 1.1 cm ) , for re-operation average tumor size was 1.7 cm ( range 0.1 - 6.0 cm , median 1.2 cm ) .
+Table 1. .
+Bivariate analysis : factors associated with performing one-operation or re-operation with nonpalpable percutaneously proven breast cancer .
+FactorFrequency of one operation ( % ) Level of significance , P Multiple lesions Yes13 / 24 ( 54.2 ) 0.018 No11 / 24 ( 45.8 )
+Mass on mammogram Yes55 / 62 ( 88.7 ) 0.001 No7 / 62 ( 11.3 )
+Mass on sonography Yes53 / 64 ( 82.8 ) 0.029 No11 / 64 ( 17.2 )
+Calcifications on mammogram Yes56 / 89 ( 62.9 ) 0.001 No33 / 89 ( 37.1 )
+Sonographically visible architecture distortion Yes6 / 11 ( 54.5 ) 0.0135 No5 / 11 ( 45.5 )
+Histologic underestimation Yes89 / 106 ( 84 ) 0.001 No17 / 106 ( 16 )
+Stereotactically guided wire localization Yes47 / 72 ( 65 ) 0.001 No25 / 72 ( 35 )
+Sonographically guided wire localization Yes53 / 66 ( 80 ) 0.0105 No13 / 66 ( 20 )
+Central localization of the wire Yes91 / 123 ( 74 ) 0.546 No10 / 15 ( 66.7 )
+Full-size table .
+View Within Article .
+We found a significant difference in a chi-square-test with p 0.019 concerning tumor stage and number of operations .
+We found more pT1a and in situ carcinoma in women in the re-operation group than in women who could be treated in one surgical step ( pT1a 12.5% versus 5.4% , pTis 42.5% versus 35.7% ) .
+For tumor stage pT1c likelihood of one operation was significantly higher ( 36.6% versus 15% ) , almost comparable to the likelihood of one operation for pT1b ( 22.5% versus 21.4% , Table 2 ) .
+Table 2. .
+Association of tumor stage and number of surgical procedures .
+Tumor stadiumOne operationRe-operationTotal pTis401757 pT1a7815 pT1b24933 pT1c41647 .
+Total11240152 .
+Full-size table .
+View Within Article .
+There was no statistical significance in the Mann - Whitney U-test ( z = 1.399 ) between tumor size of pTis tumors and operation frequency , only a tendency to less operation in case of smaller in situ tumors .
+Average tumor size was 1.16 cm for patients with one operation versus 1.57 cm for patients with an additional surgical procedure ( cf. Table 1 ) .
+In case of multiple lesions likelihood of re-operation was significantly higher ( p 0.018 ) , only 13 / 24 ( 54.2% ) patients could be treated in the first step versus 11 / 24 ( 45.8% ) patients further operation necessary ( cf. Table 1 ) .
+One operation was significantly more likely in women with a mammographic density ( p 0.001 ) in 55 / 62 ( 88.7% ) versus 7 / 62 ( 11.3% ) patients , and with sonographically visible mass ( p 0.029 ) in 53 / 64 ( 82.8% ) versus 11 / 64 ( 17.2% ) patients ( cf. Table 1 ) .
+We found significantly higher frequency of performing re-operation in case of microcalcifications ( p 0.001 ) .
+In 33 / 89 ( 37.1% ) versus 56 / 89 ( 62.9% ) an additional surgical procedure was necessary ( cf. Table 1 ) .
+There was no significant difference concerning sonographically visible architectural distortion and operation frequency , only a tendency to more re-operations necessary in case of architectural-distortion in 5 / 11 ( 45.5% ) versus 6 / 11 ( 54.5% ) with one definite surgical treatment .
+One operation was significantly more likely when preoperative interventional histologic diagnosis was confirmed by therapeutic operation ( p 0.001 ) .
+In 106 / 121 ( 87.6% ) patients we obtained a correct percutaneously proven histologic diagnosis .
+In seven ( 5.8% ) cases preoperative histologic diagnosis showed underestimation : the in situ lesion turned out to be invasive cancer in therapeutic operation ; in two ( 1.7% ) cases preoperative histologic diagnosis was atypical ductal hyperplasia versus DCIS in surgical specimen ; four ( 3.3% ) patients had unexpected multifocal tumors in surgical specimen ; in two ( 1.7% ) patients histologic diagnosis was unclear with percutaneous biopsies .
+Eighty-nine of 106 ( 84.0% ) patients with representative preoperative diagnosis could be treated with one operation , 17 / 106 ( 16.0% ) women underwent re-operation .
+In 123 / 138 ( 89.1% ) patients the localization wire position was central ( 3 mm distance to the tumor ) , in 15 / 138 cases ( 10.9% ) the distance to the tumor was maximally 10 mm .
+Forty-seven of 72 ( 65.3% ) women underwent one operation after stereotactically guided wire localization , 25 / 72 ( 34.7% ) patients underwent re-operation .
+Fifty-three of 66 ( 80.3% ) patients with sonographically guided wire localization could be treated in one surgical step , 13 / 66 ( 19.7% ) underwent a second surgery .
+We found no significant correlation between number of operation and position of localization wire ( p 0.546 ) .
+Only a tendency to a higher likelihood of one surgical step can be seen in 74.0% ( 91 / 123 ) of cases with central localization wire position versus 66.7% ( 10 / 15 ) of cases with not centrally localized wire ( cf. Table 1 ) .
+4. Discussion .
+In several different previous studies investigators evaluated that women with percutaneously proven breast cancer have a significantly higher likelihood to be treated in one operation than patients with breast cancer diagnosed by surgical biopsy  .
+In case of diagnostic biopsy non-tumor-free margins , further axillary dissection or mastectomy because of extensive tumors often require re-surgery .
+There are a lot of advantages that make one surgical step desirable : lower operation risk and less patient anxiety , better cosmetic results and also increased cost efficiency  .
+In our study population , 73.7% of the women could be treated definitely in one surgical step .
+87.5% of mastectomies and 72.1% of breast conserving therapies were one-step-surgeries .
+In our multivariate analysis we found out that likelihood was significantly higher performing one operation , if women underwent mastectomy , and if preoperative percutaneous biopsy was reliable , i.e. revealed no histologic underestimation .
+Among patients who attempted breast conserving therapy one definite surgical procedure could be performed significantly more often in case of mammographically or sonographically visible mass .
+The mass detectable in a mammogram or in an ultrasound may guarantee a more precise assessment of the extent of the tumor ( cf. Fig. 1 )  .
+In our study the likelihood for only one definite surgical step was significantly higher in case of smaller tumors , which has been published in a previous study by Gallegos Hernandez_et_al.  .
+Full-size image ( 37K )
+Fig. 1. Stereotactically guided wire localization of a 20 mm percutaneously proven breast cancer ( infiltrating ductal carcinoma associated with DCIS ) in the upper outer quadrant of the right breast .
+View Within Article .
+The reason for additional surgery was in most cases tumor at or close to the margins of resection , in 63.2% ( 24 / 38 ) of women who required further surgery and 15.8% ( 24 / 152 ) of all patients in our study .
+The numbers are comparable to the results of Liberman_et_al.  who found non-tumor-free resection margins in 80.6% in patients who underwent re-surgery and in 15.4% of all women in their study .
+In general , it is important to achieve tumor-free margins to reduce the risk of local recurrence  .
+Several studies could show that the risk to find non-tumor-free margins of resection is significantly lower in women after preoperative percutaneously proven breast cancer  .
+Histologically proven malignancy enables the surgeon to resect more tissue .
+Our study showed a significantly higher number of necessary re-operation in case of DCIS .
+In 1997 Tartter_et_al.  demonstrated that it is more difficult to get tumor-free margins in case of DCIS than in case of invasive tumors .
+As said above it is obviously possible to assess the tumor margins more accurate in case of a visible mass rather than the lesion is composed of microcalcifications in a mammogram ( cf. Fig. 2 and Fig. 3 ) .
+Full-size image ( 35K )
+Fig. 2. Sonographically guided wire localization of a multifocal infiltrating carcinoma of 12 mm and 8 mm size in the upper inner quadrant of the right breast .
+Both localization wires are placed in the center of the lesions ( arrows ) , the distance between the lesions was 23 mm .
+Breast conserving therapy was possible in one-step-surgery .
+View Within Article .
+Full-size image ( 33K )
+Fig. 3. Sonographically guided wire localization of a 10 mm percutaneously proven breast cancer ( infiltrating ductal carcinoma ) in the upper outer quadrant of the left breast .
+Arrows mark the wire within an irregular hypoechoic solid mass .
+View Within Article .
+The second most common reason for re-surgery in our study is histologic underestimation , that we found in 34% of all re-operation .
+87.6% ( 106 / 121 ) of the percutaneously proven biopsies turned out to be representative .
+In seven cases preoperative percutaneous biopsy yielded DCIS , however , surgery revealed infiltrating carcinoma .
+Atypical ductal hyperplasia was suspected preoperatively in two cases coming out as DCIS in the surgical specimen .
+Further contrary results were found in four cases with surgery revealing multifocal tumors and in two cases with unclear preoperative histologic diagnosis .
+In literature the rate of underestimation of atypical ductal hyperplasia is 14 - 53%  and of DCIS between 8% and 24%  .
+In our study histologic underestimation correlates significantly ( p 0.001 ) with a higher likelihood of further operation .
+The effect of the position of the localization wire on the surgical outcome was evaluated , with a central position ( 3 mm distance to tumor ) in 89% of the cases and a peripheral position ( maximum 10 mm ) in 11% of the cases .
+We found no significant correlation between number of operations and position of the localization wire ( p 0.546 ) .
+There was only a tendency to a higher likelihood of one surgical step in 74% ( 91 / 123 ) of the cases with central localization wire versus 66.7% ( 10 / 15 ) with no central localization wire ( cf. Table 1 ) .
+That result supports that even with a more peripheral position of the localization wire the patient can be treated in one surgical step presumed a good cooperation between radiologist and surgeon is achieved .
+The 74%-rate of one operation after sonographically or stereotactically guided wire localization is in the range of 64 - 89% in previous studies reported in literature  .
+Where do we see options to reduce the operation frequency following percutaneously proven nonpalpable breast cancer , especially in case of patients demand for breast conserving therapy ?
+Preoperative planning of the right surgical procedure for the women is of highest importance .
+If cancer is diagnosed in more than one quadrant breast conserving therapy is to avoid .
+Histologic underestimation results significantly less using 11 gauge than 14 gauge automated core biopsy : in previous studies 16 - 35% of suspected DCIS at 14 gauge automated core biopsy turned out to be an invasive carcinoma after operation , and 6 - 15% of suspected DCIS at 11 gauge vacuumassisted biopsy came out as invasive carcinoma in open surgery  .
+To attempt a better surgical result with tumor-free margins after one-step-surgery preoperative ultra-sound or additional magnetic resonance imaging may be performed , MRI even to avoid unexpected multifocal carcinomas in surgical specimen  .
+To achieve complete excision of microcalcifications in patients with percutaneously proven breast cancer more than one localization wire is important to mark the lesion 's margins .
+But especially in case of extended lesions tumor-free margins are not guaranteed  .
+Furthermore , the selection of patients for sentinel lymph node biopsy has to be precise and careful , and should only be reserved for patients without suspect palpable lymph nodes and without suspicious findings on axillary ultra-sound .
+Reduced frequency of second step axillary dissection may be provided by intraoperative histologic analysis of sentinel lymph nodes  .
+One in nine women suffers from breast cancer during her life time , and many women will be diagnosed in stage of nonpalpable lesions identified in screening programs .
+Percutaneous sonographically guided automated core biopsies or stereotactically guided vacuumbiopsies in addition to exact preoperative wire localization of the tumor offer the chance for one definite surgical procedure .
+In our study , mammographically or sonographically visible mass , small size of tumors , preoperative percutaneous biopsy and exact preoperative localization were found to be important factors associated with a single step procedure for definite surgical treatment , that we found in 74% of the patients .
+We see the future goals in further improvements of preoperative imaging techniques to define tumor margins more exactly , more extensive use of preoperative percutaneous diagnostics and development of more powerful and reliable percutaneous biopsy devices to reduce the rate of histologic underestimation .

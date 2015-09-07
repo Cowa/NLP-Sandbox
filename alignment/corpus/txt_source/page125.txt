@@ -1,0 +1,115 @@
+La prise en charge des tumeurs mammaires nécessite une collaboration étroite des différents intervenants ( pathologiste , chirurgien , radiothérapeute , oncologue ) .
+Le pathologiste intervient dans l' établissement du diagnostic et dans l' évaluation des facteurs pronostiques et prédictifs .
+Parmi ces facteurs pronostiques , l' atteinte tumorale des berges ( tranches de section ) et la largeur des marges chirurgicales ( distance entre la tranche de section et la tumeur ) représentent un facteur majeur de récidive locale .
+L' évaluation précise des berges d' exérèse et des marges , qui sont deux éléments capitaux dans la décision thérapeutique , est très difficile .
+Elle impose une collaboration étroite entre le chirurgien et le pathologiste pour l' orientation de la pièce opératoire , l' encrage et la lecture de la pièce .
+La majorité des auteurs s' accorde pour définir la positivité des berges par la présence de cellules tumorales dans la zone encrée de la pièce opératoire .
+En revanche , les avis divergent sur la définition des marges limites et des marges négatives .
+La décision de reprise chirurgicale repose sur plusieurs facteurs : - l' état général ;
+- l' âge de la patiente ;
+- la localisation des berges limites ou positives par_rapport_à l' environnement tumoral ;
+- la dimension des marges .
+Ce dernier facteur , défini de façon très variable , a fait l' objet d' une enquête auprès des 20 centres de lutte contre le cancer ( CLCC ) .
+Dans un premier temps , nous avons demandé à chaque équipe de décrire ses pratiques chirurgicales en fonction de l' état des berges d' exérèse et des marges .
+Dans un second temps , les radiothérapeutes des mêmes équipes ont été interrogés sur leur attitude quant_à la modulation du complément d' irradiation du lit opératoire selon l' atteinte des berges - marges .
+Les résultats de ces enquêtes , ainsi_qu' une revue de la littérature , sont présentés dans cet article .
+2. Patientes et méthodes
+Deux questionnaires ont été envoyés aux 20 CLCC .
+Le premier questionnaire évaluant les pratiques chirurgicales a été adressé à un membre référent du comité des tumeurs mammaires en présupposant une pratique commune pour l' ensemble des chirurgiens .
+Le deuxième questionnaire a été adressé à un référent radiothérapeute , en faisant à_nouveau l' hypothèse d' une pratique commune pour l' ensemble de l' équipe .
+Dix-neuf centres ont répondu à la première partie de l' enquête et quatorze à la seconde partie .
+3. Résultats de l' enquête chirurgicale
+Le Tableau 1 détaille les réponses au questionnaire concernant les indications de reprise chirurgicale selon l' état des marges de résection , respectivement pour les carcinomes invasifs ( CI ) , carcinomes invasifs avec composante intracanalaire extensive supérieure à 20 % ( CIE ) et carcinomes in_situ ( CIS ) .
+Dans les commentaires qui accompagnaient les réponses au questionnaire , il apparaît que la décision de reprise tenait également compte d' autres facteurs , comme la motivation du chirurgien , la situation de la berge limite ou l' agressivité tumorale .
+Tableau 1.
+Nombre de centres réalisant une reprise chirurgicale
+Number of centers performing surgical reexcision
+berges / margesCICIECIS berges atteintes221 marge 1 mm647 marge 2 mm663 marge 3 mm220 marge 5 mm347 Total des centres1919 a19
+Full-size table
+CI : carcinomes invasifs ; CIE : carcinomes invasifs avec composante intra-canalaire extensive supérieure à 20 % : CIS : carcinomes in_situ .
+a 1 , non précisé .
+View Within Article
+L' hétérogénéité des réponses entre équipes se retrouve également dans les différences d' attitude face aux trois situations évoquées plus haut .
+Si dix centres utilisent les mêmes critères de reprise chirurgicale , quelle que soit la forme histologique , cinq centres augmentent les marges alors_que quatre centres les diminuent dans les carcinomes intracanalaires .
+4. Résultats de l' enquête radiothérapique
+Dans la suite logique de cette première enquête , les pratiques des radiothérapeutes quant_à la modulation du complément d' irradiation du lit tumoral en situation de marges limites ont été évaluées auprès_de 14 centres .
+En situation de marge limite , la majorité des centres délivre un complément de dose dans le lit tumoral ( 13 centres / 14 ) .
+Un centre ne le fait pas mais augmente la dose à 60 Gy dans l' ensemble de la glande mammaire .
+Ce complément de dose est délivré quelle que soit la présentation histologique ( 10 centres / 14 ) , le_plus_souvent par irradiation externe ( 10 centres /14 ) , au décours de la chimiothérapie ( 13 centres / 14 ) et surtout chez la femme jeune .
+En cas de marges limites , la dose complémentaire délivrée dans le lit tumoral est augmentée dans la majorité des cas alors_que la taille du champ n' est habituellement pas modifiée .
+Par ailleurs , l' âge et l' état des marges représentent les facteurs pronostiques prioritaires pour la décision d' irradiation complémentaire du lit tumoral .
+Tableau 2.
+Enquête radiothérapique portant sur la modulation du complément d' irradiation du lit tumoral en situation de marges limites .
+Réponses des 14 centres
+Radiotherapeutic survey with regard to the boost' s modulation with closed margins .
+Response from 14 centers .
+Survey of 14 Radiation Oncologist' s centers .
+Attitude regardin boost prescription ( close margins )
+OuiNon Lorsque les indications de reprise chirurgicale préconisées en unité de concertation pluridisciplinaire ( UCP ) n' ont pas été suivies , délivrez vous toujours un complément d' irradiation dans le lit tumoral ?77 En l' absence d' indication de chimiothérapie adjuvante , en présence d' un carcinome invasif , avec marges définies comme « limites » par votre comité , modifiez vous le complément d' irradiation du lit tumoral ?131 Par augmentation de la dose ?130 Par modification de la dimension du champ ?211 En situation de marge limite pour la composante in_situ mais suffisante pour la composante invasive , modifiez vous le complément d' irradiation du lit tumoral ?104 En situation de marges limites pour les carcinomes in_situ , modifiez vous le complément d' irradiation du lit tumoral ?113 Par augmentation de la dose ?130 Par modification de la dimension du champ ?112
+Full-size table
+View Within Article
+Tableau 3.
+Importance accordée aux facteurs pronostiques pour la décision d' irradiation complémentaire du lit tumoral ( nombre de centres / facteur pronostique )
+Ranking of prognostic factors for prescription of boost according to centers
+1er2e3e4e5eTOTALnon ge821112 Grade13371 RH1315 Emboles lymphatiques441 Taille133181 Marges limites549 Nombre de ganglions atteints225
+Full-size table
+View Within Article
+5. Discussion5.1 .
+Première partie : évaluation des pratiques chirurgicales
+Une grande hétérogénéité a été observée entre les centres dans leurs indications de la reprise chirurgicale .
+Cette diversité est liée à plusieurs facteurs .
+5.1.1. La définition des berges - marges
+La définition des berges « positives » 1 et « ponctuellement positives » 2 proposée par Recht_et_al.  est admise par la_plupart des auteurs .
+En revanche , la définition des marges limites et des marges négatives est beaucoup plus controversée .
+Certains auteurs considèrent les marges négatives comme étant simplement « non positives » , c' est-à-dire par l' absence de cellules tumorales sur la berge encrée  .
+Pour d' autres auteurs , la distance entre l' extension tumorale et la berge doit être supérieure à 1 mm  , à 2 mm  , à 3 mm  , voire à 5 mm  .
+Pour la définition des marges limites , cette même distance varie entre 1 mm  , 2 mm  ou 3 mm  .
+La comparaison des résultats des études consacrées aux marges chirurgicales est donc particulièrement difficile , d' autant_que la proportion de tumeurs avec des marges inconnues est parfois très élevée  .
+5.1.2. La présentation histologique
+Peut on considérer que les trois présentations ( CI , CIE , CIS ) ont le même comportement évolutif et justifient la même attitude en ce qui concerne les berges / marges chirurgicales ?
+La réponse n' apparaît pas clairement .
+Les CIS ( surtout bien différenciés ) sont le_plus_souvent considérés comme des entités multifocales en raison des multiples foyers retrouvés le_long_de l' arborescence canalaire , cet aspect justifiant des marges plus larges .
+Par ailleurs , la présence d' une CIE semble augmenter le risque de récidive locale , mais l' importance de ce facteur s' efface en cas de marges positives  .
+5.1.3. La localisation des marges atteintes
+Bien que rarement mentionnée dans la littérature , la position d' une marge pathologique par rapport aux structures environnantes représente un élément important dans la décision d' une reprise chirurgicale .
+La reprise d' une marge profonde sur le fascia du grand pectoral est moins facilement envisageable que la reprise d' une marge latérale et présente sans_doute moins d' intérêt du fait du plan de clivage qui est le_plus_souvent conservé entre la glande et le muscle .
+De même , la reprise d' une marge superficielle est d' une importance plus relative si le tissu cutané a été réséqué  .
+5.2. Deuxième partie : évaluation des pratiques radiothérapiques
+Le contrôle locorégional de la maladie cancéreuse se confirme de_plus_en_plus comme une étape indispensable dans l' obtention de la guérison  .
+Il est dès_lors important d' évaluer les paramètres intervenant dans l' amélioration du contrôle locorégional .
+5.2.1. Intérêt du complément d' irradiation du lit tumoral
+La jeunesse de la patiente , la présence d' une tumeur palpable et l' absence de récepteurs à la progestérone sont statistiquement liés à une augmentation du taux de récidive locale  .
+Le complément d' irradiation du lit tumoral a réduit le taux de rechute locale à cinq ans de 7,3 à 4,3 % dans l' essai de l' EORTC ( European organization for research and treatment of cancer )  .
+Son intérêt était surtout marqué chez les femmes jeunes ( 40 ans ) , pour lesquelles le taux de rechute locale passait de 19,5 à 10,2 % à cinq ans .
+5.2.2. Augmentation de dose totale
+En cas de marges positives , deux études rétrospectives n' ont pas montré de bénéfice après augmentation de dose totale jusqu' à 76 Gy  .
+Par ailleurs , l' étude prospective de Neuschatz et al. ont montré que le bénéfice de l' escalade de dose en termes de contrôle local en cas de marge positive ou limite diminuait après un recul de cinq ans .
+Chez les femmes de moins de 45 ans , l' escalade de dose ne suffisait pas à compenser le facteur péjoratif que représente l' âge  .
+5.2.3. Volume dans lequel est délivrée l' irradiation complémentaire
+Peu d' études consacrées aux marges ont décrit le volume dans lequel est délivrée la dose complémentaire .
+Des recommandations sont données dans le texte du protocole de l' essai de l' EORTC et dans la publication de Van Limbergen  .
+Selon Holland , il faut une marge d' au moins 20 à 30 mm pour couvrir 80 % des extensions microscopiques autour_de la tumeur primitive  .
+5.2.4. Technique d' irradiation
+« L' indication du complément d' irradiation du lit tumoral par curiethérapie interstitielle se pose seulement si le gain potentiel en termes de taux de contrôle local est associé à un risque cosmétique minime » , selon Van Limbergen  .
+Un essai prospectif randomisé a mis en évidence l' intérêt de cette technique dans les tumeurs mammaires traitées par irradiation exclusive  .
+Il n' y a cependant pas à ce jour , même si ses avantages balistiques apparaissent évidents , de preuve formelle de la supériorité de cette technique sur la radiothérapie externe , notamment en ce qui concerne les résultats esthétiques .
+5.2.4.1. Attitude dans les carcinomes in situ
+Dans les essais randomisés évaluant le rôle de la radiothérapie sur la totalité de la glande mammaire  une petite proportion des patientes incluses ( 9 % ) a reçu un complément d' irradiation dans le lit tumoral .
+Dans la pratique quotidienne révélée par l' enquête de la Fédération des centres  , la majorité des patientes ont bénéficié de ce complément .
+Il n' y a pas d' étude ayant randomisé ce complément dans les carcinomes in_situ mais l' attitude préconisée , en se fondant sur la mise en évidence de facteurs pronostiques identiques ( âge , marges limites ) à ceux des carcinomes infiltrants .
+5.2.5. Chronologie d' administration
+D' après Recht et al. , les patientes dont les marges sont positives ou limites bénéficieraient d' une radiothérapie précoce ( 16 semaines )  .
+Cependant , il n' y a à ce jour aucun consensus sur la séquence optimale d' administration de la radiothérapie et de la chimiothérapie , mais la tendance est à l' administration prioritaire de la chimiothérapie adjuvante .
+5.2.6. Importance de l' âge
+Dans l' étude multicentrique française sur les carcinomes intracanalaires , il y avait une différence significative en termes de récidive locale dans le groupe chirurgie + radiothérapie pour les trois catégories d' âge : 40 ans ( 32,2 % ) , de 40 à 60 ans ( 13 % ) et 60 ans ( 6,9 % )  .
+Dans l' étude de Jobsen et al. sur les tumeurs invasives avec marges positives , l' âge représentait le facteur pronostique le plus important  .
+Suite à la publication des résultats de l' essai de l' EORTC  , qui a montré l' importance du complément d' irradiation du lit tumoral chez les femmes de moins de 40 ans , un nouvel essai sera débuté prochainement pour évaluer l' intérêt d' une augmentation de dose ( 26 vs 16 Gy ) chez les patientes de moins de 50 ans .
+Cet essai posera par_ailleurs la question des facteurs de risque de rechute chez les femmes jeunes .
+6. Conclusions
+Cette enquête et la revue de la littérature montrent que beaucoup de questions demeurent non résolues .
+Il est urgent d' établir un consensus sur la définition des marges limites et négatives dans les trois présentations histologiques ( carcinomes infiltrants , carcinomes infiltrants avec composante intracanalaire extensive et carcinomes intracanalaires ) .
+Des SOR ( Standards Options Recommendations ) vont être prochainement publiées par la FNCLCC .
+Sur le plan radiothérapique , les radiothérapeutes ont des attitudes similaires face aux marges limites des carcinomes invasifs et in_situ .
+En cas d' impossibilité de reprise chirurgicale , la dose complémentaire délivrée dans le lit tumoral est d' au moins de 16 Gy , surtout chez la femme jeune .
+Par ailleurs , le choix de la technique permettant le meilleur contrôle local avec un résultat esthétique optimal reste à résoudre .
+La modulation de la dose en fonction des caractéristiques tumorales et de l' âge reste également à préciser dans les années à venir

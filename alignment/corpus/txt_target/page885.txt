@@ -1,0 +1,194 @@
+Endocrine therapy is a mainstay of treatment for patients with hormone receptor-positive ( HR+ ) early and advanced breast cancer .
+Letrozole ( Femara ; Novartis Pharmaceuticals , East Hanover , NJ ) , a third-generation aromatase inhibitor , has shown superior efficacy over tamoxifen both as early adjuvant therapy1 and as first-line endocrine therapy for advanced breast cancer.2 Furthermore , letrozole was superior to placebo when given as extended adjuvant treatment following 5 years of tamoxifen.3 .
+With the widespread use of aromatase inhibitors , initial or acquired resistance to these agents poses a major clinical problem .
+Research into the mechanisms of resistance has shown that various signal transduction pathways are activated and used by breast cancer cells to escape the effect of endocrine therapy .
+For example , activation of the PI3 kinase/Akt / mTOR pathway is a key adaptive change driving endocrine resistance. 
+Mammalian target of rapamycin ( mTOR ) inhibition has restored responsiveness to tamoxifen in MCF-7 breast cancer cells constitutively expressing Akt , an effect that occurred partly through blockade of oestrogen receptor ( ER ) - mediated transcription.7 The role of mTOR in oestrogen-driven breast cancer proliferation suggests that combining an aromatase inhibitor and an mTOR inhibitor could be beneficial to patients with HR+ tumours .
+RAD001 ( everolimus ) is an orally bioavailable inhibitor of the mTOR pathway .
+The effects of RAD001 in cancer cells include reduced growth and proliferation and inhibition of protein translation and vascular endothelial growth factor ( VEGF ) production.  Consistent with its activity as an inhibitor of mTOR , RAD001 is particularly active in tumour cells with high levels of the active form of Akt , namely pAkt , which is associated with more aggressive tumour cell growth and proliferation.10 .
+Early clinical studies of RAD001 alone characterised its pharmacokinetics ( PK ) and showed most adverse events ( AEs ) to be of only mild to moderate severity .
+Dose-limiting toxicities ( DLTs ) were grade 3 stomatitis , fatigue , hyperglycaemia and neutropaenia .
+Molecular pharmacodynamic studies of advanced cancer patients before and during RAD001 treatment have shown complete target inhibition at a dose of 10 mg / day .
+This dose is well tolerated and produces blood levels comparable to those at which anti-tumour effects were demonstrated in pre-clinical models. 
+Treatment of MCF-7 / Aro aromatase-expressing breast cancer cells with RAD001 or letrozole has inhibited oestradiol- or androstenedione-induced modulation of the mTOR pathway in vitro.14 RAD001 and letrozole have also inhibited androstenedione-induced proliferation , an effect that was significantly enhanced when the agents were combined ( p 0.001 ) .
+Combination treatment was associated with profound disruption of cell cycle progression , reduced cell viability ( p 0.01 ) and increased apoptosis ( p 0.05 ) .
+A similar effect of the combination on cell proliferation and survival was also observed in T47D / Aro breast cancer cells.14 .
+The primary objective of the phase Ib study reported here was to investigate the safety of and potential PK interactions associated with the combination of RAD001 5 or 10 mg / day and letrozole 2.5 mg / day in patients with advanced breast cancer .
+The secondary objective was to find evidence of anti-tumour activity in patients with no objective response to letrozole alone .
+2. Patients and methods .
+In this phase Ib open-label , escalating-dose trial , sequential cohorts were defined by the dose of RAD001 combined with the registered dose of letrozole 2.5 mg / day .
+Because RAD001 10 mg / day was previously identified as the optimal biologically active dose , dose escalation was planned to stop after the feasibility of combining RAD001 10 mg / day with letrozole was established , even if the maximum tolerated dose had not been reached .
+Toxicity was assessed using the National Cancer Institute Common Terminology Criteria for Adverse Events , version 3.0 ( CTCAE ) .15 DLT was defined as any grade 3 / 4 toxicity occurring within the first 28 days , suspected to be related to study drug ( with the exception of grade 3 lymphopaenia , hypercholesterolaemia or hypertriglyceridaemia ) , or leading to treatment interruption of 2 weeks duration .
+The first cohort of 6 patients received RAD001 5 mg / day .
+In the absence of DLT , the second cohort received RAD001 10 mg / day .
+If no more than 1 of 6 patients experienced DLT , an additional 6 could be recruited .
+In the expanded cohort of 12 patients , the estimated probability of detecting an AE occurring in 10% of individuals was 0.72 and that for an AE occurring in 30% was 0.99. Patients were to remain on combination treatment for as long as they were progression free , in the absence of unacceptable toxicity , or for other reasons that in the investigator 's or patient 's opinion required termination of participation .
+The protocol was approved by local ethics committees , and all patients signed informed consent forms before study inclusion .
+2.1. Patient inclusion and exclusion criteria .
+Eligible patients were postmenopausal women or men ( 18 years ) with histologically confirmed metastatic or locoregionally recurrent advanced breast cancer who had received first- or second-line endocrine therapy with letrozole ( 2.5 mg / day ) for 4 months without objective response ( i.e. stable or progressive disease ) , excluding patients with bulky or symptomatic disease considered an urgent indication for chemotherapy .
+Other inclusion requirements were a life expectancy of 4 months , World Health Organization ( WHO ) performance status of 0 or 1 , hypercholesterolaemia / hypertriglyceridaemia grade 1 ( with lipid-lowering drugs permitted ) , adequate bone marrow function ( absolute neutrophil count [ ANC ] 1.5 109 / L , platelets 100 109 / L , haemoglobin 10 g / dL ) , and normal liver and renal function ( serum albumin within reference range , serum bilirubin 1.5 upper limit of normal [ ULN ] , serum transaminase 3 ULN , serum creatinine 130 mol / L or creatinine clearance 60 mL / min by Cockcroft-Gault formula ) .16 .
+Exclusion criteria included treatment with strong CYP3A inhibitors or inducers , known central nervous system metastases , uncontrolled infection , known human immunodeficiency virus infection , anticoagulant medication , lactose intolerance , antineoplastic therapy within 4 - 6 weeks , radiation therapy within 3 weeks or surgery within 2 weeks prior to the study .
+Individuals with an active bleeding diathesis were also excluded .
+Patients with any other concurrent severe and / or uncontrolled medical disease ( e.g. diabetes , hypertension , congestive heart failure , ventricular arrhythmias , active ischaemic heart disease , myocardial infarction within 6 months , chronic liver or renal disease , active ulceration of the upper gastrointestinal [ GI ] tract ) , impairment of GI function or GI disease that might significantly alter absorption of RAD001 were ineligible .
+2.2. Laboratory examinations and safety assessment .
+Laboratory examinations , vital signs and physical examination were performed locally according to the scheduled visits and included haematology analysis , blood chemistry , and urinalysis ( by standard dipstick method ) .
+WHO performance status was assessed using standard scales .
+Abnormal laboratory values were recorded as AEs only if associated with clinical signs and symptoms or required therapy .
+All reported AEs and serious AEs were recorded and followed up .
+Serious AEs were followed for 28 days after treatment discontinuation .
+2.3. Pharmacokinetic assessment .
+PK parameters were derived from concentration - time data with standard non-compartmental analysis methods and included peak concentration ( Cmax ) , time to reach the Cmax ( tmax ) , trough ( pre-dose ) concentration ( Cmin ) and area under the curve over the dosing interval ( AUClast ) .
+Letrozole was measured in plasma using automated solid-phase extraction and liquid chromatography with fluorescence detection .
+Heparinised blood ( 5 mL ) was frozen at 0 C within 20 min of collection .
+Samples were processed using automated solid-phase extraction and liquid chromatography with fluorescence detection .
+The calibration range was 1 - 200 nmol / L , with a lower limit of letrozole quantification of 1 nmol / L , using 1 mL of plasma .
+RAD001 blood concentrations were determined by liquid / liquid extraction followed by liquid chromatography and mass spectroscopy .
+EDTA blood ( 2 mL ) was stored at 20 C within 60 min of collection .
+The lower limit of RAD001 quantification was 0.3 ng / mL .
+Blood samples were taken for 24 h PK profiling of both RAD001 and letrozole at steady state ( day 15 ) , immediately pre-doses , and 1 , 2 , 5 , 8 and 24 h thereafter .
+On day 0 , prior to administration of RAD001 , the baseline PK profile for letrozole alone was obtained .
+No RAD001-only baseline was obtained , as the interruption of letrozole for adequate washout was considered unethical .
+Steady-state RAD001-only PK data in patients with advanced cancers were obtained in another phase I study with RAD001 10 mg / day .
+Single , pre-dose blood samples were collected on days 8 and 29 for determination of letrozole and RAD001 trough levels .
+2.4. Efficacy assessment .
+Tumour response was assessed every 2 months by standard radiography , computed tomography , magnetic resonance imaging or clinical examination according to Response Evaluation Criteria in Solid Tumors ( RECIST ) .17 .
+2.5. Statistical analysis .
+Data were analysed based on intent-to-treat analysis .
+Descriptive statistics were used for patient data and laboratory values .
+The effects of RAD001 on letrozole PK and vice versa were assessed .
+3. Results .
+Eighteen eligible Caucasian patients ( 17 females , 1 male ) with a median age of 64.5 years ( range 32 - 75 ) and breast cancer metastases to bone , lung , liver , kidney , superficial lymph nodes and / or skin were enrolled .
+Five patients had a WHO performance status of 0 , 13 had a status of 1 .
+All patients received letrozole before study entry .
+Thirteen patients also received chemotherapy ( 4 of 6 in RAD001 5 mg / day cohort , 9 of 12 in the RAD001 10 mg / day cohort ) .
+All patients received at least one dose of study medication .
+Seven patients remained on therapy for 6 months , and 6 received study medication for 1 year ( 2 patients in the RAD001 5 mg / day cohort , 4 patients in RAD001 10 mg / day cohort ) .
+Table 1. .
+Key demographic and background characteristics by treatment group .
+All patientsRAD001 5 mg / dayRAD001 10 mg / day Total number of patients Intent-to-treat population18612 Dose-determining populationa17611 .
+Median age , y ( range ) 64.5 ( 32 - 75 ) 68.5 ( 58 - 72 ) 61.5 ( 32 - 75 )
+Performance status 051411358 .
+Prior antineoplastic therapy ( n ) Hormonal therapy totalb ( letrozole / tamoxifen ) 18 ( 18 / 15 ) 6 ( 6 / 4 ) 12 ( 12 / 11 ) Chemotherapy totalb ( adjuvant / metastatic ) 13 ( 10 / 4 ) 4 ( 4 / 0 ) 9 ( 6 / 4 )
+Time since diagnosis 2 years321 2 years15411 .
+Localisation of metastasesc ( target and non-target lesions ) Bone918 Lung ( with or without mediastinum ) 514 Liver734 Kidney110 Superficial lymph node110 Skin101 .
+Full-size table .
+a One patient withdrew consent prior to the end of the dose-finding period .
+b A patient with both hormonal therapies or both chemotherapy indications is counted only once in each total .
+c A patient with several localisations is counted once for each localisation .
+View Within Article .
+3.1. Safety results .
+The combination was well tolerated at both RAD001 dose levels .
+Detailed safety results appear in Table 2 and Table 3. One patient in the RAD001 10 mg / day cohort experienced a DLT ( grade 3 thrombocytopaenia ) and grade 3 neutropaenia , recovering within 2 weeks of RAD001 and letrozole interruption .
+The four most frequent AEs were stomatitis ( grades 1 and 2 ) in 3 of 6 patients in the RAD001 5 mg / day cohort and in 6 of 12 patients in the RAD001 10 mg / day cohort , fatigue in 2 patients in the 5 mg / day cohort and in 6 patients in the 10 mg / day cohort , diarrhoea in 7 patients in the 10 mg / day cohort , and anorexia and / or decreased appetite in 8 patients in the 10 mg / day cohort3 of whom had a concomitant GI disturbance ( diarrhoea , irritable bowel syndrome , GI infection ) not considered related to the study drug .
+Non-dose-limiting thrombocytopaenia ( grade 1 ) occurred in 1 of 6 patients receiving RAD001 5 mg / day and in 7 of 12 patients receiving RAD001 10 mg / day .
+In these patients , platelet counts intermittently returned to normal levels despite ongoing treatment with RAD001 .
+No grade 1 neutropaenia was observed in patients receiving RAD001 in either cohort .
+Grade 2 neutropaenia was observed in 3 patients receiving RAD001 10 mg / day , and grade 3 neutropaenia was observed in a patient receiving RAD001 10 mg / day who also experienced grade 3 thrombocytopaenia .
+Non-dose-limiting increases in hepatic enzymes were common with grade 1 elevations in alkaline phosphatase in 69.2% , SGOT ( AST ) in 47.1% , and SGPT ( ALT ) in 75% of patients .
+Grade 2 increases in these enzymes occurred in 11.8% , 16.7% and 5.6% of patients , respectively .
+Bilirubin levels remained within the normal range for all patients .
+Table 2. .
+Key study parameters .
+All patientsRAD001 5 mg / dayRAD001 10 mg / day Total number of patients Treated18612 Discontinued18612 .
+Exposure ( mo ) Median duration ( range ) 3.91 ( 0.5 - 29.5 ) 3.66 ( 1.6 - 21.7 ) 3.96 ( 0.5 - 29.5 )
+Discontinuations due to Adverse events ( AEs ) 422 Disease progression1349 Withdrew consent101 .
+AEs Total n with AEs18612 Total n with AEs grade 3 / 4a624 Total n with AEs causing dose adjustment / interruption404 Total n with serious AE422 Total n with serious AE with suspected Relation to study drug101 .
+Full-size table .
+a No grade 4 AEs occurred during this study .
+Grade 3 AEs in the RAD001 5 mg / day cohort were peripheral oedema and a mass in the right breast , each in 1 patient ; grade 3 AEs in the RAD001 10 mg / day cohort were fatigue in 2 patients , thrombocytopaenia / neutropaenia in 1 patient , and anorexia , diarrhoea , hypokalaemia and Campylobacter jejuni enteritis in 1 patient .
+View Within Article .
+Table 3. .
+Adverse events ( AEs ) in patients on RAD001 and letrozole by treatment group ( 10% in all patients )
+All patients , n ( % ) RAD001 5 mg / day , n ( % ) RAD001 10 mg / day , n ( % ) AEs Total number of patients with AEs18 ( 100.0 ) 6 ( 100.0 ) 12 ( 100.0 ) Stomatitis9 ( 50.0 ) 3 ( 50.0 ) 6 ( 50.0 ) Anorexia , decreased appetite8 ( 44.4 ) 08 ( 66.7 ) a Fatigue8 ( 44.4 ) 2 ( 33.3 ) 6 ( 50.0 ) b Diarrhoea7 ( 38.9 ) 07 ( 58.3 ) a Headache6 ( 33.3 ) 1 ( 16.7 ) 5 ( 41.7 ) Rash6 ( 33.3 ) 1 ( 16.7 ) 5 ( 41.7 ) Oedema , peripheral5 ( 27.8 ) 1 ( 16.7 ) a4 ( 33.3 ) Nausea4 ( 22.2 ) 2 ( 33.3 ) 2 ( 16.7 ) Aesthenia3 ( 16.7 ) 2 ( 33.3 ) 1 ( 8.3 ) Dry skin3 ( 16.7 ) 03 ( 25.0 ) Pruritus3 ( 16.7 ) 1 ( 16.7 ) 2 ( 16.7 ) Arthralgia2 ( 11.1 ) 02 ( 16.7 ) Bone pain2 ( 11.1 ) 02 ( 16.7 ) Constipation2 ( 11.1 ) 02 ( 16.7 ) Neuropathy2 ( 11.1 ) 02 ( 16.7 ) Dry mouth2 ( 11.1 ) 1 ( 16.7 ) 1 ( 8.3 ) Dyspnoea2 ( 11.1 ) 1 ( 16.7 ) 1 ( 8.3 ) Epistaxis2 ( 11.1 ) 1 ( 16.7 ) 1 ( 8.3 ) Hypercholesterolaemia2 ( 11.1 ) 1 ( 16.7 ) 1 ( 8.3 ) Pharyngitis2 ( 11.1 ) 02 ( 16.7 ) Pyrexia2 ( 11.1 ) 02 ( 16.7 ) Weight , decreased2 ( 11.1 ) 02 ( 16.7 )
+Full-size table .
+a One grade 3 AE .
+b Two grade 3 AEs ; no grade 4 AEs .
+View Within Article .
+Amongst the 6 patients receiving RAD001 5 mg / day , 4 discontinued because of disease progression and 2 because of suspected AEs ( see Table 2 ) : 1 patient developed grade 3 oedema , and the other experienced a worsening of pre-existing chronic hepatitis ( enrollment of this patient in the study was noted as a protocol violation ) .
+The most common AEs in the RAD001 5 mg / day cohort were stomatitis ( 50.0% ) and fatigue , nausea and aesthenia ( each 33.3% ) ( see Table 3 ) .
+Amongst the 12 patients given RAD001 10 mg / day , 9 discontinued treatment because of disease progression , 1 withdrew consent , and 2 discontinued because of suspected AEs ( 1 had grade 1 bone pain , and 1 experienced recurrent general weakness ) ( see Table 2 ) .
+The most common AEs reported in the RAD001 10 mg / day cohort were anorexia and / or decreased appetite ( 66.7% ) , diarrhoea ( 58.3% ) , stomatitis and fatigue ( each 50.0% ) , headache and rash ( each 41.7% ) , peripheral oedema ( 33.3% ) and dry skin ( 25.0% ) ( see Table 3 ) .
+In 4 patients in the 10 mg / day cohort , RAD001 was reduced to 5 mg / day because of AEs , either following interruption ( in 1 patient with stomatitis and 1 with general weakness and thrombocytopaenia ) or without interruption ( in 1 patient with stomatitis and 1 with lower-limb neuropathy ) .
+3.2. Pharmacokinetic evaluation .
+Thirteen patients provided blood samples for PK analysis ; 12 were evaluable for letrozole PK with RAD001 , and 10 were evaluable for RAD001 PK .
+Data for steady-state RAD001-only PK were taken from 6 patients with advanced cancers involved in another unpublished phase I study ( CRAD001C2101 ) who received RAD001 10 mg / day as monotherapy .
+The PK of letrozole did not change in the presence of RAD001 ( see Table 4 and Fig. 1 ) .
+The co-administration-to-baseline ratios in 12 patients ranged from 0.88 to 1.67 for Cmax and from 0.92 to 1.39 for AUClast .
+The PK of RAD001 in the presence of letrozole was generally comparable to that in the absence of letrozole ( see Table 4 and Fig. 1 ) .
+No significant alterations in plasma and whole blood levels of letrozole and RAD001 , respectively , were observed when the agents were co-administered .
+Table 4. .
+Letrozole and RAD001 pharmacokinetic parameters .
+ParameteraAloneWith RAD001 5 mg / dayRatioAloneWith RAD001 10 mg / dayRatio Letrozole n433999 tmax ( h ) 1.5 ( 1 - 2 ) 1 ( 1 - 1 ) N / A1 ( 1 - 2 ) 2 ( 0 - 24 ) N / A Cmax ( nmol / L ) 406134341 960.96 0.12495 3005092471.09 0.23 Cmin ( nmol / L ) 30887306 1151.08 0.11409 2724182321.12 0.27 AUClast ( nmol h / L ) 787226767149 24261.02 0.0310 103653910 605 57131.10 0.14 .
+ParameteraRAD001 5 mg / day with letrozoleRAD001 10 mg / day with letrozoleRAD001 10 mg / day ( from CRAD001C2101 ) RAD001 n196 tmax ( h ) 11 ( 1 - 5 ) 1 ( 1 - 6 ) Cmax ( ng / mL ) 31521361 17 Cmin ( ng / mL ) 1813513.2 7.2 AUClast ( ng / mL h ) 298541211514 231 .
+Full-size table .
+N / A , not applicable .
+a Values are mean standard deviation except tmax , which is median ( range ) .
+View Within Article .
+Full-size image ( 10K )
+Fig. 1. ( a ) Mean letrozole plasma concentration ( nmol / L ) standard deviation in patients with letrozole 2.5 mg / day alone or with RAD001 10 mg / day. ( b ) Mean RAD001 whole blood concentration ( ng / mL ) standard deviation in patients with RAD001 10 mg / day alone or with letrozole 2.5 mg / day .
+RAD001-alone data were obtained in a previous study .
+View Within Article .
+3.3. Efficacy evaluation .
+For most patients , best response to single-agent letrozole was reported as stable disease .
+The best response to combined treatment with letrozole and RAD001 was evaluated in 18 patients .
+One patient with lesions of the skin , the sole site of her disease , and receiving RAD001 10 mg / day experienced a durable complete response 22 months in duration .
+The disease had been progressing with letrozole monotherapy .
+Seven months after RAD001 10 mg / day was added , a complete response was observed .
+The patient had been treated with letrozole for 7 weeks before the addition of RAD001 10 mg / day .
+Table 5. .
+Disease status under letrozole alone and best response to combined treatment with RAD001 and letrozole .
+All patients ( n = 18 ) RAD001 5 mg / day ( n = 6 ) RAD001 10 mg / day ( n = 12 ) Disease status on letrozole alone Duration of letrozole alone median ( range ) ( mo ) a15.0 ( 1.7 - 49.2 ) 12.4 ( 2.3 - 27.7 ) 26.0 ( 1.7 - 49.2 ) Best response on letrozole alone ( n ) Stable disease15510 Progressive disease101 Unknown101 Not applicable110 .
+Best response to combined treatment Overall response ( CR or PR ) ( % ) 1 ( 5.6 ) 01 ( 8.3 ) Complete response ( % ) 1 ( 5.6 ) 01 ( 8.3 ) Duration ( mo ) b22.3 Partial response ( % ) 000 Stable disease ( % ) 9 ( 50.0 ) 4 ( 66.7 ) 5 ( 41.7 ) c Stable disease 6 mo ( % ) 6 ( 33.3 ) 2 ( 33.3 ) 4 ( 33.3 ) Duration ( mo ) d14 , 218 , 13 , 17 , 23 Progressive disease ( % ) 5 ( 27.8 ) 2 ( 33.3 ) 3 ( 25.0 ) Unknown ( % ) 3 ( 16.7 ) e03 ( 25.0 )
+Full-size table .
+CR , complete response ; PR , partial response .
+a There were 3 patients with less than 4 months of letrozole therapy before inclusion ( 1 patient in the 5 mg cohort with 2.3 months and 2 in the 10 mg cohort with 1.7 and 3.8 months , respectively ) .
+b Time from first confirmed CR to progression .
+c Including 1 patient with 28% reduction in liver metastasis .
+d Time from first treatment to progression .
+e Three patients could only be classified as unknown : 2 had no post-baseline tumour assessments reported before discontinuation , and 1 had stable disease reported at day 42 ( i.e. minimum follow-up of 6 weeks required to classify best response as stable disease was not reached ) .
+View Within Article .
+No partial responses were observed .
+In one patient receiving RAD001 10 mg / day , there was a 28% reduction in liver metastases , just short of the RECIST definition of partial response ( reduction of 30% ) .
+This reduction was observed 46 days after the first dose of RAD001 , and the patient met the RECIST criteria for stable disease for 13 months .
+The patient had been receiving letrozole for 2 years prior to the study .
+The liver metastases had been enlarging over a 12 month period during letrozole monotherapy ( without meeting the criteria for progressive disease ) .
+In addition , prolonged stable disease ( 12 months from study entry ) was observed in 2 patients receiving RAD001 5 mg / day and in 2 patients receiving RAD001 10 mg / day ( see Table 5 ) .
+4. Discussion .
+Results of this phase Ib study indicate that the combination of daily oral doses of the novel mTOR inhibitor RAD001 with the third-generation aromatase inhibitor letrozole involves no PK interactions .
+Overall tolerability of the combination was satisfactory , with 22.2% of patients discontinuing because of an AE .
+The safety profile of the combination is generally consistent with that observed for RAD001 monotherapy and with published safety data for temsirolimus , another mTOR inhibitor , as monotherapy in advanced breast cancer patients.18 .
+Most thrombocytopaenia and neutropaenia events occurred within 2 weeks of treatment .
+Subsequent studies of the combination should therefore include a blood count at day 15. Not all patients who experienced toxicity needed to stop treatment with RAD001 .
+Of the 4 patients in the RAD001 10 mg / day cohort who had their dose interrupted or adjusted because of AEs , 2 continued for 18 months on a reduced dose ( RAD001 5 mg / day ) .
+Dose reduction or delay algorithms will be included in subsequent studies of the combination therapy with the aim of developing evidence-based recommendations for the management of RAD001 toxicity .
+Amongst patients who did not experience toxicity leading to dose reduction or interruptions within the first 4 weeks , the combination treatment was frequently feasible over a prolonged time period .
+Of the 18 patients , 7 were treated with the combination for 6 months , and 6 were treated for 12 months .
+The study results suggest that the combination of RAD001 with letrozole has anti-tumour activity .
+There was one complete response for 22 months , and one near partial response for 13 months ( both in the RAD001 10 mg / day cohort ) .
+Based on the clinical findings of this study , an oral dose of RAD001 10 mg / day in combination with letrozole is recommended for further trials .
+This same dose has been identified as providing complete target inhibition in initial PK-pharmacodynamic modelling and subsequent molecular pathology studies of the tumours of treated patients. 
+In the future , the challenge will be to identify patients most likely to benefit from the combination of RAD001 and letrozole .
+Letrozole and the other third-generation aromatase inhibitors are known for their excellent tolerability .
+Combining an mTOR inhibitor with an aromatase inhibitor does add side effects , particularly mucositis , but also fatigue , skin , and GI AEs .
+The results of a phase III trial of the mTOR inhibitor temsirolimus ( administered at an oral dose of 30 mg / day for 5 days every 2 weeks ) combined with letrozole , in comparison to letrozole alone , were recently reported.19 In an unselected population of HR+ postmenopausal women with advanced breast cancer , the combination of temsirolimus and letrozole did not improve progression-free survival .
+These findings illustrate the need to investigate ways of distinguishing patients who benefit from the addition of the mTOR inhibitor .
+Subsequent clinical development must accept the complexity of well-conducted correlative studies to help identify predictive biomarkers .
+A double-blind , randomised , placebo-controlled phase II study is ongoing to compare the efficacy of letrozole monotherapy with that of the combination of letrozole and RAD001 10 mg / day for neoadjuvant breast cancer treatment .
+Tumour biopsies are being performed at baseline , at day 15 , and after 4 months of treatment .
+Major study objectives are to assess whether molecular characteristics of the tumour predict benefit from the combination therapy and to identify molecular markers that may serve as patient selection parameters in RAD001 phase III development .
+Amongst others , markers directly reflecting mTOR inhibition by RAD001 ( p-S6 ) and those associated with mTOR activation ( p-Akt , PI3 kinase mutations , Cyclin D1 ) will be analysed .
+This study has established the feasibility of combining RAD001 with letrozole .
+No PK interactions were observed , and the safety profile appears satisfactory .
+Side effects compromising tolerability are characteristic for the class of drug , similar to those of other targeted therapies , and are manageable and acceptable for an oral therapy that sufficiently benefits patients .
+A daily dose of oral RAD001 10 mg / day is recommended for further study in combination with letrozole .
+With this combination and at this dose level , signals suggestive of anti-tumour activity were seen in patients not achieving an objective response to letrozole alone .
+Further development of this combination must focus on identifying a predictive biomarker to allow selection of patients who benefit from this novel treatment approach .
+Conflict of interest statement .
+Jutta Steinseifer , Carine Wouters , Chiaki Tanaka , Ulrike Zoellner and Pui Tang are employees of Novartis Pharma AG or its Belgian or US subsidiary .
+Jutta Steinseifer , Chiaki Tanaka and Ulrike Zoellner have stock holdings in Novartis Pharma AG .
+Ahmad Awada , Jacques De Grève and Luc Dirix received research funding from Novartis Pharma AG for this study .
+Fatima Cardoso and Martine Piccart have received honoraria as advisors to Novartis Pharma AG .
+Christel Fontaine and Christos Sotiriou have no conflicts of interest to report .
+Acknowledgements .
+This study was supported by Novartis Pharma AG .
+The authors acknowledge the assistance of Philippe Theyenaz in preparation of the clinical study report and Richard McCabe in editing this manuscript .

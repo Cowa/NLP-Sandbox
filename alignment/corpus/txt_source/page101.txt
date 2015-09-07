@@ -1,0 +1,246 @@
+La tomographie par émission de positons ( TEP ) au [ 18F ] -fluorodésoxyglucose ( FDG ) est un examen d' imagerie de_plus_en_plus utilisé en pathologie cancéreuse .
+Contrairement au cancer du poumon ou au lymphome où l' utilisation de la TEP - FDG est largement reconnue , les indications de cet examen apparaissent moins bien établies dans les cancers de la femme , comme le suggèrent les Standards options recommandations ( SOR ) français élaborés en 2003  .
+Cependant , l' intérêt des cliniciens pour cette imagerie ne cesse d' augmenter , avec une progression de 120 % en 2003 des prescriptions de TEP - FDG en ce qui concerne les cancers de la femme aux États-Unis .
+Cet examen y est par_ailleurs remboursé pour le cancer du sein depuis 2003 .
+En France , le manque d' accessibilité à la TEP - FDG a longtemps été un frein à son utilisation en routine .
+Cette situation est en train de changer puisque la carte sanitaire nationale prévoit l' installation de plus de 60 machines en métropole .
+De plus , le FDG a reçu une autorisation de mise sur le marché ( AMM ) européenne en 2002 , révisée récemment , qui permet son utilisation en oncologie dans « les pathologies , organes ou tissus dans lesquels une augmentation de la consommation du glucose est recherchée » .
+Une cotation provisoire rend actuellement possible le remboursement intégral de cet examen .
+Ces différents paramètres permettent une utilisation de la TEP - FDG dans de multiples pathologies cancéreuses y_compris les cancers gynécologiques et mammaires et dans des situations cliniques variées .
+Nous essayerons par_conséquent à l' aide des dernières données de la littérature de préciser l' utilité et les limites de la TEP - FDG dans la détection des lésions cancéreuses gynécologiques et mammaires que ce soit lors du diagnostic initial , du bilan d' extension ou de la recherche de récidive .
+L' évaluation thérapeutique par la TEP - FDG qui aborde un autre aspect de cette imagerie ne sera pas développée dans cette revue de la littérature .
+En revanche , nous évoquerons l' impact de cet examen sur la prise en charge des patientes dans les diverses situations cliniques abordées .
+2. Bases physiques et biologiques de la TEP - FDG2.1 .
+Émetteurs de positons et détection
+La tomographie par émission de positons utilise des isotopes particuliers .
+L' un d' eux , le fluor-18 ( 18F ) , peut être couplé à un analogue du glucose pour devenir le [ 18F ] -fluorodésoxyglucose .
+Le fluor-18 se désintègre en émettant un positon ( + ) , particule similaire à un électron ordinaire mais de charge positive .
+Après un court parcours dans le milieu traversé ( 0,6 mm en moyenne , dans l' eau , équivalent du tissu mou ) , il s' annihile avec un électron , ce qui produit deux photons de haute énergie ( 511 keV ) émis en coïncidence .
+La détection de ces photons est à l' origine du signal de l' image et nécessite un appareillage adapté .
+Ce mode de détection procure une résolution des images inférieure au centimètre et la possibilité de quantifier la répartition du traceur .
+La méthode de quantification la plus utilisée est le calcul du SUV ( standard uptake value ) .
+Full-size image ( 20K )
+Fig. 1. Désintégration du fluor-18 .
+View Within Article
+2.2. Le fluorodésoxyglucose
+Le fluorodésoxyglucose pénètre dans les cellules au moyen des transporteurs transmembranaires du glucose ( Glut ) .
+Il subit une phosphorylation par l' hexokinase pour devenir le FDG-6-phosphate puis s' accumule dans la cellule , ne pouvant , du fait de sa configuration , subir l' étape ultérieure du métabolisme de la glycolyse , l' isomérisation .
+Dans la_plupart des cellules cancéreuses  , les cellules des cancers hépatocellulaires mises à_part  , une quantité négligeable de fluorodésoxyglucose-6-phosphate est retransformée en FDG , par la glucose-6-phosphatase .
+La détection du fluor-18 permet ainsi de faire une cartographie de la répartition et de l' accumulation du [ 18F ] -FDG au sein de l' organisme .
+2.3. La TEP - TDM
+Les dernières générations de caméras TEP ont non_seulement des systèmes de détection plus performants , mais sont également couplées avec des tomodensitomètres ( TDM ) spiralés multibarrettes .
+Un premier passage du patient de quelques secondes dans l' anneau de la TEP - TDM permet de faire l' acquisition des images TDM sur l' ensemble du tronc puis , immédiatement après , un second passage de 20 à 50 minutes est effectué pour l' acquisition des images TEP .
+Cette TDM n' est pas techniquement comparable à un examen TDM avec coupes fines et injection de produit de contraste réalisé à des fins diagnostiques .
+Elle permet de préciser la localisation des foyers d' hyperfixation visibles en TEP par la fusion des images TDM et TEP , ce qui est primordial si un geste biopsique ou thérapeutique focal est souhaité .
+Dans l' étude d' Antoch et al. , portant sur 260 patients avec différentes tumeurs cancéreuses solides , la classification TNM du cancer a pu être déterminée avec exactitude dans 84 % des cas par la fusion d' images TEP - TDM , contre 76 % lors d' une lecture séparée des images TEP et TDM , 63 % par la lecture des images TDM seules et 64 % par la lecture des images TEP seules  .
+3. Caractérisation tumorale
+Depuis le début du siècle dernier , il est établi que l' augmentation de la glycolyse est l' une des caractéristiques des cellules cancéreuses  .
+L' accumulation du FDG dans la cellule dépend du transport transmembranaire du glucose ( Glut ) , de l' activité enzymatique de l' hexokinase et du taux de déphosphorylation  .
+La surexpression des Glut-1 , observée dans la_plupart des cancers  , a fait suggérer que le transporteur intracellulaire du glucose était le facteur prédominant de la régulation du métabolisme glucidique .
+L' augmentation de ces transporteurs et la surexpression de leur ARN messager sont induites par les oncogènes ras et src  .
+Les cellules cancéreuses ne sont pas les seules à accumuler de façon excessive le FDG .
+Les cellules inflammatoires activées surexpriment les transporteurs Glut-1 et Glut-3 et accumulent par_conséquent le traceur  .
+Les foyers d' hyperfixation en cas de pathologie infectieuse ou inflammatoire peuvent par_conséquent être à l' origine d' erreur d' interprétation .
+Ce manque de spécificité , les variations de fixation des tumeurs en fonction de leur histologie et la diminution sensible de la détection des lésions infracentimétriques ne permettent pas une caractérisation fiable des tumeurs gynécologiques et mammaires par la TEP au FDG .
+3.1. Sein3.1.1 .
+Fixations physiologiques du FDG
+Le tissu mammaire sain peut fixer le FDG de façon modérée , comparativement au tissu pathologique .
+La densité du tissu mammaire est à l' origine d' une augmentation significative de la fixation du FDG .
+Il existe également une augmentation de la fixation , bien_que moins importante que dans le cas précédent , en fonction du statut hormonal : les femmes non ménopausées et les femmes ménopausées avec un traitement hormonal substitutif ont une fixation du FDG dans le tissu mammaire significativement plus élevée que les femmes ménopausées sans traitement substitutif .
+Ces hyperfixations physiologiques restent d' intensité très modérée ( SUV moyen égal à 1,4 pour le tissu mammaire dense contre 2,5 pour les lésions cancéreuses ) et ne gênent pas la visualisation des lésions pathologiques  .
+À noter que la lactation induit une fixation intense et diffuse de la glande mammaire  .
+3.1.2. Fixations pathologiques du FDG
+La fixation intense du FDG dans les cancers du sein reflète essentiellement la densité de cellules tumorales viables au sein de la tumeur mammaire  .
+Cependant jusqu' à 29 % de l' activité pourrait être secondaire à une accumulation du FDG dans le tissu de granulation et les macrophages localisés en_particulier en périphérie des zones de nécrose tumorale  .
+Les études publiées durant les cinq dernières années concernant la caractérisation des lésions cancéreuses mammaires par la TEP - FDG ont montré une sensibilité ( Se ) par lésion de 64 à 93 % , une spécificité ( Sp ) de 73 à 94 % , une valeur prédictive positive ( VPP ) de 81 à 92 % , une valeur prédictive négative ( VPN ) de 52 à 78 % et une exactitude ( Ex ) de 70 à 89 %  .
+Ces performances étaient dépendantes de la taille des lésions étudiées et du niveau de sensibilité de lecture de l' examen .
+Dans l' étude d' Avril et al. , aucun cancer de taille inférieure ou égale à 5 mm ( pT1a ) n' était détecté , contre 12,5 % des cancers de taille supérieure à 5 et inférieure ou égale à 10 mm ( pT1b ) , 62,5 % pour des cancers de taille supérieure à 10 et inférieure ou égale à 20 mm ( pT1c ) , 92 % pour les cancers de taille supérieure à 20 et inférieure ou égale à 50 mm ( pT2 ) et 100 % des cancers de taille supérieure à 50 mm ( pT3 )  .
+L' histologie tumorale peut également influencer la fixation du FDG .
+Les carcinomes lobulaires invasifs ( CLI ) ont une fixation significativement plus faible que les carcinomes canalaires invasifs ( CCI )  .
+Dans l' étude d' Avril et al. , 65 % des CLI n' étaient pas visualisés en TEP - FDG contre 23 % pour les CCI .
+De même , les carcinomes in_situ sont plus difficilement identifiables .
+Seule la moitié d' entre eux de taille supérieure à deux cm était visualisée en FDG  .
+Certaines lésions bénignes peuvent fixer le FDG .
+Dans la majorité des cas cette fixation reste inférieure à celle observée dans les lésions malignes .
+Les mastites infectieuses ou l' inflammation secondaire à une hémorragie intramammaire apparaissent hyperfixantes  .
+De même des foyers d' hyperfixation à l' origine d' erreur d' interprétation ont été rapportés pour des fibroadénomes ou des dysplasies fibreuses  .
+3.2. Ovaire3.2.1 .
+Fixations physiologiques du FDG
+L' augmentation de la fixation du FDG par les ovaires signe en_général la malignité chez les femmes ménopausées .
+En préménopause , une hyperfixation ovarienne peut être d' origine maligne ou fonctionnelle .
+Dans l' étude de Lerman et al. , la fixation ovarienne était augmentée en phase ovulatoire ou en cas d' oligoménorrhée .
+L' intensité de fixation était cependant significativement différente de celle des lésions ovariennes , SUV moyen égal à 5,7 1,5 pour les fixations physiologiques contre 9,1 4 pour les fixations pathologiques  .
+3.2.2. Fixations pathologiques du FDG
+Dans l' étude de Kurokawa et al. , la fixation du FDG dans les tumeurs épithéliales de l' ovaire était corrélée avec la prolifération cellulaire , le grade histologique mais_surtout avec l' expression des Glut-1 .
+La fixation du FDG et l' expression des Glut-1 étaient croissantes entre les tumeurs de malignité réduite , les tumeurs invasives bien et peu différenciées  .
+Les adénocarcinomes mucineux avaient une fixation modérée , qui serait corrélée à une faible expression des Glut-1  .
+Chez 38 patientes suspectes de cancers ovariens sur les données de l' échographie , les performances de l' IRM étaient supérieures à celles de la TEP - FDG pour caractériser les tumeurs ovariennes avec respectivement une Se , une Sp et une Ex de 91 , 87 et 92 % pour l' IRM contre 78 , 87 et 82 % pour la TEP - FDG  .
+Certaines tumeurs bénignes comme le fibrome ovarien pouvaient à l' opposé fixer de façon intense le FDG  .
+Full-size image ( 177K )
+Fig. 2. Hyperfixation du FDG en périphérie d' un fibrothécome ovarien découvert chez une femme de 24 ans .
+La masse ovarienne gauche pouvait correspondre en IRM à un oedème ovarien , une métastase ou une tumeur germinale .
+La concentration sérique du CA125 était de 288 U / ml .
+Les fixations médiastinales correspondaient à des adénopathies sarcoïdosiques .
+View Within Article
+3.3. Col et corps utérin3.3.1 .
+Fixations physiologiques du FDG
+La synthèse de glycogène est croissante pendant la phase proliférative préovulatoire puis le taux de glycogène décroît au_cours_de la phase sécrétoire postovulatoire  .
+En préménopause , deux pics de fixation du FDG au niveau de l' endomètre ont été observés , le premier ( SUV moyen = 53,2 ) au cours des menstruations , le second ( SUV moyen = 3,7 0,9 ) pendant la phase d' ovulation .
+Le SUV moyen au_cours_de la ménopause sans traitement hormonal était de 1,7 0,5 .
+Les anomalies utérines bénignes ou l' oligoménorrhée étaient associées à une augmentation de la fixation endométriale du FDG .
+Le traitement hormonal substitutif ou la contraception orale ne modifiaient pas la fixation du FDG au niveau de l' endomètre .
+Enfin la fixation du FDG était très faible en cas d' aménorrhée ou en ménopause  .
+3.3.2. Fixations pathologiques du FDG
+De même que pour les autres cancers , une surexpression des Glut-1 est observée dans les carcinomes invasifs du col .
+En revanche , les cellules du tissu cervical normal ou des tumeurs non invasives n' ont pas ou ont une faible surexpression des Glut-1  .
+Les cancers invasifs du col et du corps utérins avaient une intensité de fixation élevée dans l' étude de Lerman et al. , avec un SUV moyen respectivement de 14,9 7,3 et 18,8 9. Il est à noter que les fixations endométriales , adjacentes à la fixation de la tumeur cervicale , n' étaient pas corrélées avec une extension tumorale dans l' étude de Lerman_et_al.  .
+L' examen de référence pour l' évaluation de l' extension locale de la tumeur cervicale reste par_conséquent l' IRM avec une Ex de 84 à 96 % pour l' extension paramétriale contre 55 à 80 % pour la TDM  .
+4. Bilan d' extension
+L' un des avantages de la TEP - FDG est la possibilité de réaliser le bilan d' extension sur l' ensemble du corps en un seul examen quel que soit l' organe ou le tissu atteint .
+Cependant , la détection des métastases cérébrales est difficile du fait d' une fixation physiologique intense du cortex cérébral .
+L' examen est de ce fait moins sensible que la TDM ou l' IRM au niveau du cerveau .
+Comme pour les autres modalités d' imagerie , la maladie microscopique n' est pas détectable en TEP - FDG .
+Enfin , la possibilité d' hyperfixation par des lésions bénignes nécessite une confrontation avec les autres modalités d' imagerie ou une preuve histologique si une modification de prise en charge est envisagée .
+La fusion des images TEP - TDM et l' interprétation en fonction des données exhaustives cliniques et paracliniques permettent dans de nombreux cas de s' affranchir des erreurs d' interprétation induites par les fixations physiologiques ou de nature inflammatoire .
+4.1. Cancer du sein
+Le statut ganglionnaire axillaire intervient dans la prise en charge thérapeutique des patientes .
+Le curage axillaire a été longtemps le seul moyen d' évaluer l' atteinte ganglionnaire .
+La morbidité de ce geste et le faible pourcentage d' atteinte ganglionnaire dans les stades précoces du cancer du sein ont fait rechercher d' autres techniques d' évaluation moins ou non invasives .
+La technique du ganglion sentinelle peut être ainsi proposée en routine pour les tumeurs de moins de deux centimètres sans adénopathie palpable .
+Pour ce groupe de patientes , les métastases ganglionnaires ont une fréquence aux environs de 30 %  .
+L' évaluation des performances de la TEP - FDG dans cette sous-population de patientes a montré une trop faible Se , de l' ordre de 20 % , pour éviter l' exploration chirurgicale du creux axillaire  .
+Dans les cancers localement évolués , le risque de métastases ganglionnaires axillaires et à distance est plus élevé .
+Dans ce cas , la TEP - FDG peut être indiquée pour effectuer le bilan d' extension de la maladie .
+Dans l' étude prospective de van der Hoeven et al. comprenant 48 patientes , une chimiothérapie néoadjuvante était décidée pour un cancer localement évolué sans métastases à distance détectée par l' examen clinique , la radiographie pulmonaire , la scintigraphie du squelette et l' échographie ou la TDM abdominale .
+Des foyers d' hyperfixation du FDG suspects de métastases à distance ont été visualisés chez dix patientes .
+La confirmation de maladie métastatique a pu être apportée pour quatre patientes et le traitement initialement prévu a été modifié .
+Dans un cas , une suspicion de métastases osseuses n' a pu être confortée par l' imagerie conventionnelle que 11 mois après la TEP - FDG .
+Dans un autre cas , les hyperfixations suspectes correspondaient à une sarcoïdose .
+Dans les quatre derniers cas , les hyperfixations anormales n' ont pu être expliquées et le traitement prévu a été administré .
+La TEP - FDG a permis de modifier le traitement chez 8 % des patientes en visualisant des métastases à distance  .
+Dans l' étude de Shirrmeister et al. , comprenant 117 patientes avec des lésions mammaires de plus petites tailles ( taille moyenne : 2,3 cm ) , les quatre patientes métastatiques en imagerie conventionnelle étaient également identifiées en TEP - FDG .
+L' examen a en_outre visualisé des métastases chez trois patientes supplémentaires , soit une augmentation du stade de la maladie par la TEP chez 3 % des patientes  .
+Dans cette indication , la TEP - FDG permet par_conséquent de détecter des métastases non visibles en imagerie conventionnelle et de modifier la prise en charge des patientes .
+Ces foyers d' hyperfixation nécessitent toutefois des explorations complémentaires afin_de s' assurer de leur nature métastatique .
+Full-size image ( 225K )
+Fig. 3. Bilan d' extension d' un cancer localement avancée chez une patiente de 32 ans avant chimiothérapie néoadjuvante .
+La TEP - FDG permet de visualiser une hyperfixation en regard de la lésion mammaire , des hyperfixation en faveur d' une extension ganglionnaire axillaire et un foyer d' hyperfixation osseux suspecte de métastase osseuse iliaque gauche .
+Cette dernière hyperfixation se projette en regard d' une zone ostéolytique en TDM .
+View Within Article
+4.2. Cancer de l' ovaire
+Sur une petite série de patientes comprenant sept cancers de stade III , trois cancers de stade II et cinq cancers de stade I , la TDM avait correctement évalué l' extension de la maladie chez 53 % des patientes contre 87 % lorsque l' évaluation était effectuée par les données de la TDM et de la TEP - FDG .
+Les auteurs précisaient que la réalisation de la TDM en coupes d' un centimètre n' était pas optimale et que l' amélioration de la stadification portait principalement sur les lésions extrapelviennes .
+Les lésions pelviennes étaient identifiées avec une Ex de 79 % par la TDM seule contre 81 % par l' association TDM et TEP - FDG et les lésions extrapelviennes étaient identifiées avec une Ex de 85 % par la TDM seule contre 93 % par l' association TDM et TEP - FDG  .
+Même si l' association TDM et TEP - FDG augmente les performances de détection des lésions abdominopelviennes , la chirurgie reste le meilleur moyen d' effectuer le bilan d' extension locorégional .
+L' intérêt de la TEP serait principalement , comme pour le cancer du sein , la recherche de métastases à distance .
+La pratique de la chirurgie de second regard reste l' objet de controverses .
+Trente-cinq pour cent des patientes sans lésion macroscopique ou microscopique retrouvée lors_de la laparotomie de réévaluation ont développé une récidive dans l' année suivant le geste chirurgical , d'_après l' étude de Sijmons et Heintz  .
+En fait , lors_de cette intervention , l' évaluation exacte de la maladie résiduelle peut être difficile du fait des remaniements secondaires à la première intervention chirurgicale , et des lésions de petite taille non visibles par le chirurgien peuvent être laissées en place .
+De plus , elle ne permet pas l' évaluation des métastases à distance .
+Comparées aux résultats histologiques de la chirurgie de second regard après chirurgie première et chimiothérapie , les performances de la TEP - FDG - TDM par lésion étaient les suivantes dans la série de Sironi et al. : Se = 78 % , Sp = 75 % , Ex = 77 % , VPP = 89 % , VPN = 57 % .
+La totalité des lésions non visibles en TEP avait une taille inférieure ou égale à cinq mm pour leur plus grand diamètre .
+L' exactitude de détection pour les lésions supérieures à un centimètre de diamètre était de 90 % .
+Par patiente , les performances étaient les suivantes : Se = 53 % , Sp = 86 % , Ex = 68 % , VPP = 82 % , VPN = 60 % .
+Pour deux patientes , la prise en charge prévue après le second regard était toutefois modifiée , en raison de la détection par la TEP de métastases à distance  .
+Il en résulte que la TEP - FDG permet de détecter les lésions supracentimétriques avec une sensibilité élevée .
+Elle peut de ce fait orienter le geste chirurgical en précisant la localisation des lésions , mais ne permet pas d' évaluer la maladie résiduelle microscopique .
+Kim relance l' intérêt de la TEP - FDG pour les cancers localement avancés avec un risque élevé de récidive .
+Dans son étude comprenant 55 patientes dont 93 % de stade III et IV , la survie sans progression de la maladie n' était pas significativement différente entre le groupe de patientes évaluées par la TEP après chirurgie et chimiothérapie première ( 28,8 12,7 mois ) et le groupe de patientes évaluées par la chirurgie de second regard ( 30,6 13,7 mois ) ( p = 0,29 ) .
+Il en était de_même pour la survie sans récidive après un examen TEP négatif ( 40,5 11,6 mois ) ou une laparotomie négative ( 48,6 12,1 mois ) ( p = 0,12 ) , ce qui incite dans cette situation clinique à remplacer ces procédures invasives par la TEP .
+4.3. Cancer du col et du corps utérin
+L' évaluation correcte de l' extension tumorale est primordiale dans le cancer du col utérin et conditionne le traitement et la survie .
+Dans les formes précoces des cancers du col et du corps utérin , le risque d' envahissement ganglionnaire est faible et dans cette situation la détection du ganglion sentinelle pourrait être une alternative au curage  .
+Cependant , cette méthode est encore en cours d' évaluation .
+La lymphadénectomie reste actuellement la meilleure méthode pour évaluer l' envahissement ganglionnaire et le curage pelvien est préconisé dans de nombreuses situations  .
+Cependant , ce geste n' est pas dénué de morbidité et parfois la stratégie thérapeutique ne fait pas appel à la chirurgie première .
+De plus , l' imagerie morphologique qui se fonde essentiellement sur la taille des ganglions pour préjuger de leur envahissement est peu performante  .
+La TEP - FDG a par_conséquent été proposée pour détecter l' extension ganglionnaire et ses performances apparaissent supérieures à celles de l' imagerie conventionnelle .
+Dans l' étude de Reinhardt et al. , l' envahissement pelvien a été correctement évalué dans 97 % des cas contre 80 % par l' IRM  .
+Sa sensibilité de détection décroît cependant lorsque la taille de la métastase est infracentimétrique  .
+L' incidence des métastases ganglionnaires para-aortiques est non négligeable , de 16 et 25 % dans les stades II et III dans l' étude de Berman_et_al.  .
+La lymphadénectomie para-aortique en vue de la stadification n' est pas réalisée de façon systématique lors du geste chirurgical et la TEP - FDG devient particulièrement utile en complément du bilan conventionnel pour préciser l' extension des cancers localement évolués .
+Dans une série de 60 patientes avec un stade avancé du cancer du col utérin et sans extension abdominale détectée en TDM , la Se de détection des ganglions para-aortiques par la TEP - FDG était de 86 % , la Sp de 94 % et l' Ex de 92 %  .
+Grigsby et al. ont montré que la présence de métastases ganglionnaires para-aortiques détectées en TEP - FDG avait une valeur pronostique .
+Après un traitement par radio- et chimiothérapie , la survie sans récidive à deux ans des patientes était de 64 % en l' absence d' atteinte para-aortique visible en TDM et en TEP - FDG , de 18 % en cas d' atteinte para-aortique visible uniquement en TEP - FDG et 14 % en cas d' atteinte para-aortique visible en TDM et TEP - FDG  .
+L' adaptation de la radiothérapie en fonction des résultats de la TEP et de la taille en TDM des ganglions pelviens et para-aortiques permettrait , selon les mêmes auteurs , de contrôler localement la maladie  .
+L' atteinte des ganglions sus-claviculaires est également souvent sous-estimée .
+Parmi 186 patientes avec un cancer primitif du col et sans adénopathie palpable en sus-claviculaire , la TEP - FDG a montré 14 foyers d' hyperfixation sus-claviculaires correspondant dans tous les cas à des métastases prouvées histologiquement .
+Ces métastases sus-claviculaires étaient observées chez 40 % ( 14 / 35 ) des patientes avec des fixations para-aortiques , 4 % ( 4 / 103 ) des patientes de stade I B2 et II B , 15 % ( 7 / 47 ) des patientes de stade III B et 43 % ( 3 / 7 ) des patientes de stade IV B  .
+5. Détection de la récidive
+De nombreuses thérapeutiques ciblées ou générales peuvent actuellement être proposées en cas de récidive d' un cancer .
+Le contrôle de la maladie , voire sa guérison , ne peut être espéré que si l' on détecte la récidive de façon précoce et que l' évaluation de l' extension de la maladie est la plus exacte possible .
+L' apport de la TEP - FDG est primordial dans ces deux domaines .
+Elle peut être utilisée en cas d' augmentation isolée de la concentration sérique des marqueurs tumoraux afin_de localiser la récidive et permet de faire son bilan d' extension .
+La détection de la récidive tumorale dans les cancers gynécologiques et mammaires fait partie actuellement des indications reconnues de la TEP - FDG .
+La prise en compte de ses résultats influence de façon non négligeable la stratégie thérapeutique des patientes comme le montrent les récentes publications .
+Il reste cependant important de comparer les données de la TEP avec les autres modalités d' imagerie et le contexte clinique , en_particulier lorsque des foyers d' hyperfixation d' origine inflammatoire peuvent être en cause et si une thérapie focale est envisagée .
+5.1. Cancer du sein
+Le risque de récidive du cancer du sein est d' autant plus important que la maladie est étendue au moment du diagnostic  .
+Le taux global de récidive est maximal dans les deux premières années qui suivent le traitement initial puis diminue de façon progressive entre la deuxième et la cinquième année .
+Il est de l' ordre de 4,3 % par an après la cinquième année  .
+Le dosage sérique des marqueurs tumoraux comme le CA 15-3 ou l' ACE peut faire partie des examens de surveillance du cancer du sein .
+Selon l' étude de Given et al. , l' augmentation de la concentration sérique du CA 15-3 permettait de prédire la récidive viscérale avec une Se de 68 % et un intervalle de temps moyen de dix mois avant la mise en évidence de la récidive , la récidive osseuse avec une Se de 69 % et un intervalle de temps moyen de 8,25 mois et la récidive locale avec une Se de 23 %  .
+Dans cet intervalle de temps où seule la concentration sérique des marqueurs tumoraux est augmentée alors_que l' imagerie morphologique reste normale ou équivoque , la TEP - FDG peut permettre de localiser le ou les sites de récidive .
+Sa Se était de 90 et 92 % et sa VVP de 86 et 89 % dans notre étude et celle de Suarez_et_al.  and  .
+Sa Sp était de 73 et 75 % et sa VPN de 80 et 82 % .
+Lonneux préconise cet examen en première intention devant l' augmentation de la concentration sérique des marqueurs tumoraux  .
+Cette démarche nécessite toutefois une évaluation sur le plan médicoéconomique et la pertinence des décisions prises .
+Lorsque la récidive est prouvée , il est important de connaître son extension pour adapter au mieux la thérapeutique , en fonction du nombre de sites de récidive et des organes atteints .
+Une étude récente de Goerres et al. n' a pas montré de différence significative entre les performances de la TEP - FDG et de l' IRM pour la détection des récidives locorégionales .
+La Se de la TEP était de 100 contre 79 % pour l' IRM et la Sp de 72 contre 94 % .
+Les lésions inflammatoires étaient à l' origine d' erreurs d' interprétation , source de résultats faussement positifs en TEP , et diagnostiquées par excès en IRM .
+Chez cinq patientes sur 32 ( 15 % ) , la TEP a permis de détecter des métastases à distance du champ d' exploration de l' IRM  .
+Dans l' étude rétrospective de Gallowitsch et al. portant sur 62 patientes traitées antérieurement pour cancer du sein , la Se de détection de la récidive par patiente , la Sp , la VPP et la VPN étaient respectivement de 97 , 82 , 87 , 96 contre 84 , 60 , 73 , 75 % pour l' imagerie morphologique incluant la mammographie , l' échographie , la TDM , l' IRM , la radiographie et la scintigraphie du squelette  .
+Van Oost et al. ont montré que , sur une série de 175 patientes avec une récidive locale , des métastases étaient visibles par le bilan conventionnel au moment du diagnostic chez 16 % d' entre elles et devenaient visibles dans les 18 mois qui suivaient le diagnostic de récidive locale chez 24 % .
+Ils concluaient que la sensibilité de l' imagerie conventionnelle était trop faible pour détecter les métastases et suggéraient , eu égard aux performances de la TEP , que cet examen pouvait permettre de détecter l' ensemble des métastases visibles par imagerie conventionnelle au moment du diagnostic et même celles apparues au cours du suivi .
+La prise en charge et le pronostic des patientes métastatiques étant différents , la TEP aurait permis de mieux sélectionner les patientes susceptibles d' avoir un traitement curatif  .
+Dans notre étude , la prise en charge des patientes suspectes de récidive a été modifiée chez 44 % des patientes avec des modifications majeures ( changement de modalité de traitement ou suivi ) ou 33 % d' entre elles  .
+Ces modifications de prise en charge étaient pertinentes dans 93 % des cas .
+Eubank et al. confirmaient l' impact de la TEP - FDG pour 125 patientes suivies pour récidive ou traitées pour une maladie métastatique , avec une modification de prise en charge pour 32 % d' entre elles .
+L' impact de la TEP - FDG était particulièrement important pour les patientes avec une récidive a_priori locale et en cas d' évaluation thérapeutique  .
+5.2. Cancer de l' ovaire
+Le traitement optimal des récidives du cancer ovarien nécessite leur détection précoce .
+Or , dans de nombreux cas , la récidive peut correspondre à des lésions multiples et de petites tailles .
+L' interprétation des images TDM ou IRM abdominopelviennes peut être difficile du fait des remaniements postchirurgicaux et l' augmentation isolée de la concentration sérique du CA125 , bien_que relativement sensible , ne permet pas de localiser le site de récidive et par_conséquent de proposer une thérapie ciblée .
+De nombreuses études ont évalué les performances de la TEP - FDG en cas d' augmentation de la concentration du CA125 sérique .
+L' examen a permis de détecter la récidive avec une Se de 82 et 95 % et une Sp de 83 et 87 % dans les études de Bristow et Chang  and  .
+Dans l' étude de Zimmy et al. , la détection de la récidive en TEP - FDG précédait avec une médiane de temps de six mois la visualisation de celle-ci en imagerie conventionnelle  .
+Menzel recommande une TEP - FDG lorsque la concentration sérique du CA125 est d' environ 30 UI / ml , seuil à partir duquel l' examen apparaissait le plus performant  .
+Torizuka et al. ont montré que la sensibilité de détection de la récidive était de 80 % pour la TEP - FDG , contre 55 % pour l' imagerie conventionnelle et 75 % pour le CA125  .
+Ces résultats encourageants doivent cependant être nuancés .
+Dans la majorité des cas , ils concernaient la détection de lésions supracentimétriques .
+Dans l' étude de Bristow et al. , la taille médiane des métastases était de 2,3 cm  .
+Pannu et al. ont rapporté , sur une série de 16 patientes , une détection par la TEP - FDG de la totalité des métastases ganglionnaires , de 50 % des lésions péritonéales supracentimétriques et seulement de 23 % des lésions péritonéales infracentimétriques  .
+Cette faible sensibilité était retrouvée dans l' étude de Rose et al. , où aucune lésion infracentimétrique n' a été détectée  .
+Malgré ce défaut de sensibilité pour les lésions de petite taille , difficiles à visualiser quelles que soient les modalités d' imagerie , la TEP - FDG peut être proposée dans le suivi des cancers de l' ovaire et permettrait selon Bristow et al. de mieux sélectionner les patientes pouvant bénéficier d' une cytoréduction chirurgicale  .
+Full-size image ( 158K )
+Fig. 4. La TEP - FDG a été demandée chez cette patiente aux antécédents de cancer ovarien et avec une augmentation de la concentration sérique du CA125 de 6 à 20 U / ml .
+L' examen a permis de visualiser de multiples foyers d' hyperfixations en faveur d' une récidive ganglionnaire para-aortique gauche et le_long_de l' axe iliaque gauche .
+View Within Article
+5.3. Cancer du col et du corps utérin
+Le dosage de la concentration sérique du SCC ( squamous cell carcinoma antigen ) peut être réalisé pour la surveillance des cancers du col .
+Son augmentation précède en_général de six mois la détection de la récidive  .
+Chang et al. ont évalué les performances de la TEP - FDG pour la détection de la récidive chez 27 patientes pour lesquelles la concentration sérique du SCC était augmentée ( 2 ng / ml ) à deux reprises , à au moins deux semaines d' intervalle , avec un examen clinique et un bilan radiologique normaux .
+La Se de détection était de 94 % , la Sp de 78 % , la VPP de 89 % , la VPN de 88 % et l' Ex de 89 % .
+Après traitement , la survie médiane de ces patientes depuis la découverte de l' augmentation de la concentration sérique du traceur était de 22 mois et significativement différente de celle de patientes d' un groupe témoin ( 12,7 mois ) suivies pour une augmentation de la concentration sérique du SCC et prises en charge sans la TEP - FDG  .
+Unger et al. ont évalué les performances de la TEP - FDG dans d' autres circonstances cliniques .
+Vingt-six TEP - FDG ont été réalisés lors_de la surveillance systématique , sans signe d' appel clinique , biologique ou radiologique .
+L' examen a pu diagnostiquer la récidive avec une Se de 80 % , une Sp de 100 % , une VPP de 100 % et une VPN de 89 % .
+Vingt-et-une TEP - FDG ont été réalisées chez des patientes symptomatiques , les performances de l' examen étaient respectivement de 100 , 86 , 93 et 100 %  .
+Ces performances de détection de la récidive ont un impact non négligeable sur la prise en charge des patientes .
+Yen et al. ont sélectionné un groupe de patientes suspectes de récidive ( n = 55 ) soit à la suite de l' augmentation de la concentration sérique du SCC ou de l' ACE soit sur l' imagerie conventionnelle .
+Toutes pouvaient bénéficier d' un traitement curatif a_priori .
+Les résultats de la TEP - FDG ont été confrontés aux données histologiques et / ou à l' imagerie et / ou au suivi .
+La Se de détection par site ( os , foie , poumon etc. ) était de 89 % , la Sp de 98 % , la VPP de 91 % , la VPN de 98 % et l' Ex de 97 % .
+Le traitement initialement prévu a été modifié chez 36 patientes ( 65,5 % ) .
+Chez neuf patientes ( 25 % ) , le traitement curatif prévu a été modifié par changement des champs de radiothérapie ou de modalité de traitement .
+Pour les 27 autres patientes ( 75 % ) , le traitement retenu après l' examen TEP - FDG était palliatif  .
+Dans les cancers du corps utérin peu d' études ont été publiées .
+Les premières études laissent penser que la TEP - FDG pourrait être utile dans le suivi et la recherche de récidive .
+L' examen réalisé pour suspicion de récidive ( 68 % des cas ) ou dans le cadre du suivi systématique ( 32 % des cas ) avait une Se 96 % et une Sp de 78 % .
+Trente-six pour cent des patientes avec une récidive confirmée ont eu une modification de leur prise en charge du fait de la visualisation de métastases supplémentaires en TEP - FDG  .
+6. Conclusion
+La détection de la récidive tumorale par la TEP - FDG dans les cancers de la femme apparaît actuellement l' indication la plus documentée .
+Les premières études d' impact laissent penser que cet examen pourrait devenir décisionnel pour déterminer la prise en charge des patientes .
+La TEP - FDG peut également être proposée pour le bilan d' extension des cancers localement évolués pour lesquels le risque de métastases est non négligeable .
+Des études prospectives de cot / efficacité et précisant le moment le plus pertinent pour réaliser la TEP - FDG par_rapport_à une augmentation des marqueurs tumoraux ou par rapport aux autres examens d' imagerie restent à mener

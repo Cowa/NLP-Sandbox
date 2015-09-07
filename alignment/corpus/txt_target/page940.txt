@@ -1,0 +1,120 @@
+Breast-conserving therapy ( BCT ) has become a widely accepted treatment option in the management of patients with early-stage breast cancer .
+The conventional radiotherapeutic approach after lumpectomy generally consists of delivering 45 to 50 Gy to the entire breast , employing wedged tangential fields , optimized using a single central-axis isodose distribution with or without inhomogeneity corrections .
+The efficacy of this empirically derived treatment approach has been established in multiple clinical trials , with local control rates ranging from 90% to 95% and complication rates less than 3% to 5%.  Despite the apparent success of this conventional treatment strategy , further reductions in acute and chronic toxicities are possible , both within the breast and in adjacent normal tissues .
+Several studies have demonstrated significant dose inhomogeneity as large as 15% to 20% in the superior and inferior regions of the breast when employing wedged tangential beams.  These regions of increased dose have been shown to contribute to an inferior cosmetic result , particularly in large-breasted women .
+Several different techniques have been developed to optimize dose delivery for whole-breast radiation therapy ( RT ) .
+Physical compensators designed from computerized tomography ( CT ) can improve the 3 dimensional ( 3D ) dose distribution in the breast.  Unfortunately , their widespread implementation remains impractical at most institutions .
+In addition , customized compensators may increase scatter dose to the contralateral breast .
+A second technique more frequently utilized is the application of wedges to correct for some of the varied tissue thickness throughout the breast .
+While this eliminates the need for constructing customized compensators for each patient , the 2 dimensional ( 2D ) dosimetric profile of the wedge cannot provide equivalent tissue compensation to that of customized filters .
+Intensity modulated radiation therapy ( IMRT ) delivered with multileaf collimators ( MLC ) is one way to provide an optimized dose distribution to the whole breast in a rapid and efficient manner.  The use of IMRT in breast irradiation treatment offers the potential advantages of improved dose homogeneity , reduced dose to lung and heart , and reduced scatter dose to contralateral breast .
+These dosimetric improvements may lead to better cosmetic results , lowered cardiac and pulmonary complications , and reduced risk of contralateral breast cancer .
+We herein report the technique and clinical implementation of IMRT with tangential beam using sliding window technique for adjuvant treatment of breast cancer .
+As of December 2005 , more than 1000 patients have been treated with this technique in our University of Pittsburgh Medical Center ( UPMC ) cancer network .
+We also report the comparison of IMRT plans with 3D plan in 20 randomly selected patients .
+Methods and Materials CT simulation .
+The patient was placed supine in a wing board on the scanner table. The patient was then positioned with both arms up and holding the handles above her head , and the scanner couch was driven through the aperture to make sure that the patient would clear the scanner .
+If the patient did not clear , then the arm position was adjusted .
+The radiation oncologist palpated the breast tissue and placed radiopaque wire around the patient 's breast and marked superior-inferior borders ( 2 cm above and below the breast tissue ) and midline-lateral borders with BBs .
+The CT was performed without intravenous contrast .
+Axial CT images of the thorax were acquired every 5 mm to include breasts , complete left and right lungs , and the heart on a GE HiSpeed CT scanner ( GE Medical Systems , Milwaukee , WI ) .
+The isocenter was located on the axial image containing midline and lateral markers by measuring one third of the vertical distance from the midline of the medial field border to the apex of the breast .
+The CT data was then transferred to the treatment planning system ( Eclipse Planning System [ version 7.1.59 , Varian Medical Systems , Palo Alto , CA ] ) via DICOM network connection .
+Contouring .
+Using axial , sagittal , and coronal views on the planning system , the tangential fields were aligned with medial and lateral borders designed to cover the entire breast .
+Collimator angle , beam depth , or gantry angle were adjusted to minimize normal tissue dose while ensuring full coverage of the breast , including the tumor bed .
+Auto-contouring of the skin and both lungs was done using tools in the planning system .
+The radiation oncologist contoured the heart for the left breast cancer patients .
+The primary breast target volume ( TV ) was defined by drawing a straight line from the midline marker to the lateral marker and 5 mm inside the breast skin , excluding lungs and heart .
+This target volume was defined to generate a uniform dose across the breast using the inverse planning program in the planning system .
+All contours were performed on the axial CT slices .
+Figure 1 shows the markers and contours on the representative axial CT slice for breast IMRT .
+Full-size image ( 76K )
+Fig. 1. Markers and contours on the representative axial CT slice for breast IMRT .
+View Within Article .
+Inverse treatment planning .
+Based on these volumes and specified dose constraints , inverse treatment planning was performed using the sliding window technique , employing the Helios module of the Eclipse Planning System .
+In the planning process , 2 tangential fields were utilized .
+The dose constraints were as follows : the planning target volume was to receive 50.0 Gy ; no more than 20% of the ipsilateral lung was to receive more than 20 Gy .
+For left breast cancers , the dose-volume constraint was such that no more than 20% of the heart was to receive more than 30.0 Gy .
+The final dose calculation for the IMRT plan was performed with inhomogeneity correction .
+The fluence maps were extended 2 cm outside the breast skin to accommodate the respiratory motion of the chest , and then the IMRT plan was recalculated with the new fluence map .
+Plan verification and validation .
+Once the radiation oncologist , prior to treatment delivery , approved the plan , the IMRT plan for each patient was validated on the Varian linear accelerator using a phantom to confirm the dose delivery and intensity map .
+The isodoses on the coronal images of a phantom plan were compared with the film dosimetry .
+AAPM TG-53 criteria were adopted to evaluate isodose lines : for high-dose gradients ( 90% , 80% , 70% isodose lines ) , 2 mm ; and low-dose gradients ( 50% and 30% isodose lines ) , 5 mm.14 For 148 different patient plans , average dose deviation from measured to expected dose was 0.07% by ion chamber , and for 133 different patient plans , average dose deviation from measured to expected was 1.38% by film .
+Patient setup verification and treatment .
+The patients were set up on the treatment table on the linear accelerator as per plan .
+Electronic portal imaging was performed at the start of treatment for confirmation of setup reproducibility and thereafter it was done every week .
+The port film images were compared with the digitally reconstructed radiograph ( DRR ) prior to the treatment .
+The entire treatment including patient setup and beam delivery was completed in a 15 minute slot for IMRT .
+The treatments took approximately the same amount of time as treatment with wedged fields , due to the small number of fields , the relatively low modulation of the fluence , and the fact that it was not necessary for the therapists to place wedges for each field .
+Dosimetric comparison of IMRT with 3DCRT .
+Dosimetric parameters were calculated to compare the IMRT plan to 3DCRT in terms of dose uniformity and reduction in dose to critical organs .
+The CT data of 10 randomly selected left-sided breast cancer and 10 right-sided breast cancers were used for this retrospective treatment planning study .
+All of these patients were treated with IMRT .
+The same beam arrangements and contours were kept for 3DCRT .
+Optimized distributions were obtained using wedges and different beam weights on Eclipse Planning System .
+Inhomogeneity correction was used in the creation of plans using 6- , 10- , or mixed 6- / 10-MV photons .
+The dose to TV and critical organs were recorded from the DVH for all patients .
+The dosimetric parameters compared were : V95 ( percent of volume of target volume [ TV ] receiving 95% of prescription dose [ PD ] ) ; Homogeneity index ( DHI ) ; V ( 95 - 110 ) ( the part of the TV that receives a dose higher than 95% and less than 110% of PD ) ; V105 ( percent of volume of TV receiving 105% of PD ) ; and V110 ( percent of volume of TV receiving 110% of PD ) .
+The other parameters were : Heart V30 ( percent of volume of heart receiving 30.0 Gy ) , V10 , V40 ; mean dose to ipsilateral lung in Gy , lung V20 ( percent of volume of ipsilateral lung receiving 20.0 Gy ) , V10 , V30 ; percent of volume of contralateral lung receiving 5% of PD ; and total monitor units ( MUs ) .
+Statistical analysis .
+Using SPSS statistical package ( SPSS , Inc. , Chicago , IL ) , a 2 tailed t-test was performed to compare mean between the 2 groups .
+Results .
+The mean V95 , Homogeneity index V ( 95 - 110 ) , V105 , and V110 for TV of IMRT were : 90.6 ( SD : 3.2 ) , 87.7 ( SD : 6.0 ) , 27.3 ( SD : 20.3 ) , and 2.8 ( SD : 5.6 ) , respectively , and for 3DCRT : 91.0 ( SD : 3.0 ) , 82.6 ( SD : 7.8 ) , 49.4 ( SD : 14.3 ) , and 8.4 ( SD : 7.4 ) , respectively .
+The dose comparisons showed that V95 for the TV of IMRT was about the same as those of 3DCRT .
+The homogeneity index V ( 95 - 110 ) was increased by 6.3% with IMRT compared to 3DCRT .
+The improvement in dose homogeneity was statistically significant ( p 0.05 ) .
+The reductions of V105 and V110 for the IMRT compared to 3DCRT were 44.7% and 66.3% , respectively .
+The reductions were statistically significant ( p 0.01 ) .
+The mean dose and V30 for heart with IMRT were 2.3 ( SD : 1.1 ) and 1.05 ( SD : 1.5 ) , respectively .
+The percent reduction in dose with IMRT compared to 3DCRT was 6.8% and 7.9% , respectively .
+The mean dose and V20 for the ipsilateral lung with IMRT were 4.7 ( SD : 2.3 ) and 7.2 ( SD : 4.8 ) , respectively .
+The percent reduction in dose with IMRT compared to 3DCRT was 9.9% and 2.2% , respectively .
+The percent of volume of contralateral volume lung receiving 5% of PD was reduced by about 35% with IMRT compared to 3DCRT .
+The reduction was statistically significant ( p 0.05 ) .
+The mean of total MU used for the IMRT and 3DCRT was about the same ( 397 vs. 387 ) .
+Isodose distributions were examined on the transverse , coronal , and sagittal slices for all 20 patients .
+An example of isodose distributions on all 3 planes was shown for IMRT vs. 3DCRT in Fig. 2 for one of the patients .
+The time for treatment including patient setup and beam delivery was completed for IMRT in the same timeframe as 3DCRT .
+Table 1. .
+Mean TV coverage for IMRT and 3DCRT techniques .
+ParameterIMRT % ( SD ) 3DCRT % ( SD ) % Difference ( [ IMRT / 3DCRT ] 100 ) - 100p Value V9590.65 ( 3.15 ) 91.04 ( 3.04 ) 0.430.692 DHI V ( 95 - 110 ) 87.74 ( 5.95 ) 82.55 ( 7.84 ) +6.290.023 V10527.32 ( 20.33 ) 49.38 ( 14.30 ) 44.670.000 V1102.83 ( 5.58 ) 8.39 ( 7.35 ) 66.270.010 .
+Full-size table .
+SD = standard deviation .
+View Within Article .
+Table 2. .
+Percent volume of organ irradiated vs. techniques used .
+Volume of InterestParameterIMRT % ( SD ) 3DCRT % ( SD ) % Difference ( [ IMRT / 3DCRT ] 100 ) - 100p Value HeartV102.09 ( 2.25 ) 2.25 ( 2.42 ) 7.110.881 V201.43 ( 1.81 ) 1.54 ( 1.95 ) 7.140.901 V301.05 ( 1.54 ) 1.14 ( 1.69 ) 7.890.906 Ipsilateral lungV109.13 ( 5.16 ) 9.26 ( 5.21 ) 1.400.938 V207.21 ( 4.84 ) 7.37 ( 4.90 ) 2.170.916 V305.94 ( 4.55 ) 6.20 ( 4.64 ) 4.190.857 Total MU397 ( 91 ) 387 ( 55 ) +2.580.701 .
+Full-size table .
+SD = standard deviation .
+View Within Article .
+Full-size image ( 138K )
+Fig. 2. An example of isodose distributions on all 3 planes for IMRT vs. 3DCRT for one of the patients .
+View Within Article .
+Discussion .
+Breast radiotherapy is challenging , as the anatomy and surrounding structures make this an inherently difficult site to achieve a homogeneous dose distribution .
+This site has a complex 3D shape , which may have been modified further by surgery , and is located at the body-air interface .
+There are also important organs at risk in close proximity , such as the lungs and heart ( in the case of left-sided tumors ) .
+Single plane 2D radiotherapy breast plans can lead to substantial dose inhomogeneities , particularly in women with larger breasts .
+An inhomogenous dose may lead to increased normal tissue side effects and poor cosmetic results , which can cause significant psychological morbidity for patients .
+IMRT delivered with MLCs is one way to provide an optimized dose distribution to the whole breast in a rapid and efficient manner .
+The results of our study suggest better dose homogeneity and reduced volume of hot spots with IMRT in comparison to 3DCRT .
+Others have also reported similar experience.  This better dose homogeneity may translate into reduced skin toxicity and better cosmetic outcome in comparison with the conventional plan.20 The use of leaves instead of wedges as compensator also reduces scatter dose to the contralateral breast and to the other parts of the body .
+We have reported in our previous study that dose to the contralateral breast is reduced significantly with IMRT in comparison to conventional 3DCRT.21 In our present study ; the dose to contralateral lung was significantly reduced , reflecting reduction in scatter dose to other parts of the body .
+Similarly , in a study by Woo et al. , the use of physical wedges as a compensation technique was the most significant factor associated with increased scattered dose ( p 0.001 ) , resulting in approximately 3 times more exposure compared with breast IMRT.22 This decrease in scatter dose has the potential to reduce second malignancies , specifically in younger women with breast cancer treated with radiation .
+The reduction in dose to critical organs , including heart and lung , with this technique is very modest because with the tangential breast IMRT technique , the beams go through the similar volume of critical organs as 3DCRT , as the beam size and angles are same .
+This reduces the ability of inverse planning to optimize and further reduce the dose to critical organs .
+The multiple-beam technique can achieve this goal better but with the disadvantages of increasing scatter dose and exposing larger volume to lower dose .
+One way to further reduce heart dose , if critical , would be to remove the region of breast overlapping the heart from the target volume , thus allowing the optimizer to reduce the heart dose .
+This would result in inferior coverage of breast volume ; thus , this decision has to be made by the treating physician based on clinical information .
+One of the other concerns with IMRT is the geographical miss of the target volume with intrafraction motion induced by breathing .
+Studies have shown that the difference between the planned and expected doses caused by the interplay between respiratory motion of normal breathing and MLC motion during IMRT delivery is similar to that of the conventional tangential breast treatment.  The reason for the insignificant respiratory motion effect is the large margins used clinically by extending the fluence map 2 cm beyond the breast volume , and the gradual change of beam intensity along the motion direction .
+Thus , intensity-modulated tangential photon beams are safe for breast treatment when using the same patient and beam setup as conventional treatment , without need to re-evaluate the effects of respiratory motion on dose coverage .
+Conclusions .
+Tangential-field IMRT for intact breast cancers using the sliding window technique was successfully implemented in our clinic .
+We have now successfully treated more than 1000 patients with this technique in our cancer center network .
+It takes about 2 to 3 hours to complete the 3DCRT planning , whereas IMRT takes about 3 to 4 hours .
+However , the treatment delivery time for IMRT is about the same compared to conventional 3DCRT .
+The dosimetric data suggest improved dose homogeneity in the breast , and reduction in the dose to lung and heart for IMRT treatments , which may be of clinical value in potentially contributing to improved cosmetic results and reduced late toxicity .

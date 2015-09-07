@@ -1,0 +1,240 @@
+Les marqueurs circulants protéiques sont des protéines , des glycoprotéines ou des peptides , sécrétés ou libérés par les cellules tumorales ou par leur environnement et plus_ou_moins spécifiques de celles-ci .
+La quantité du marqueur circulant , détectée dans le fluide biologique , est un estimateur indirect de la masse tumorale ou de l' agressivité d' une tumeur , permettant ainsi l' évaluation de la progression tumorale et / ou de l' efficacité thérapeutique .
+Un marqueur ne peut être utile pour le dépistage ou pour la détection précoce d' un cancer que s' il permet de le détecter à un stade curable chez des sujets asymptomatiques ou peu symptomatiques .
+Il doit n' être qu' exceptionnellement anormal chez des sujets n' ayant pas de cancer .
+De très nombreux exemples de marqueurs circulants existent , parmi lesquels on peut citer le prostate specific antigen ( PSA ) pour le cancer prostatique , la gonadotrophine chorionique humaine ( HCG ) pour les tumeurs choriocarcinomateuses ou encore l' alphafoetoprotéine ( -FP ) pour le carcinome embryonnaire du testicule .
+Pour le cancer du sein , l' antigène carcino-embryonnaire ( ACE ) a été pendant longtemps le seul marqueur circulant utilisé .
+Actuellement , les marqueurs les plus utilisés sont ceux qui mesurent le niveau circulant de fragments de MUC1 - polymorphic epithelial mucin ( MUC1 - PEM ) : cancer antigen ( CA ) 15 - 3 , mucin-like carcinoma-associated antigen ( MCA ) , CA 27 - 29 , CA 549 etc.
+D' autres marqueurs ont été évalués appartenant au groupe des kératines : antigène tissulaire polypeptidique ( TPA , TPS ou Cyfra 21.1 ) .
+Plus récemment , la mesure d' une fraction circulante de c-erb B2 a été proposée comme marqueur pronostique des cancers mammaires surexprimant c-erb B2 .
+De plus , un travail original a étudié l' intérêt du dosage urinaire du facteur en trèfle 1 ( PS2 - TFF1 ) dans les cancers du sein hormonodépendants .
+Il nous a donc paru intéressant de faire le point sur l' apport de ces différents marqueurs dans la pathologie mammaire , en soulignant leurs caractéristiques biologiques et leur intérêt clinique .
+2. MUC1
+Le gène MUC1 , situé sur le chromosome 1 q21-24 , a été cloné en 1990  et la structure de la protéine , appelée MUC1 ou polymorphic epithelial mucin ( PEM ) a été caractérisée .
+Il s' agit d' une protéine transmembranaire possédant trois régions distinctes : un domaine cytoplasmique de 69 acides aminés , un petit domaine transmembranaire de 31 acides aminés et un domaine extracellulaire très important , constitué de séquences répétées en tandem d' une longueur de 20 acides aminés .
+Cette séquence répétitive est très riche en résidus sérine , thréonine et proline .
+Sa glycosylation aboutit à une structure de mucine .
+Le nombre de séquences répétitives varie entre 25 et 125 d' un individu à l' autre , en raison du haut degré de polymorphisme de ce gène .
+La MUC1 - PEM est présente en faible quantité au niveau du pôle apical des cellules mammaires normales , tapissant notamment l' intérieur des canaux galactophores et des lobules .
+Son expression augmente lors_de la lactogenèse mais également au_cours_de la transformation maligne .
+Dans les cellules cancéreuses , la localisation de cette protéine se modifie et on peut la trouver tout autour des cellules épithéliales qui présentent souvent une perte complète de polarité .
+Ainsi , la présence de cette glycoprotéine sur l' ensemble de la membrane cytoplasmique joue probablement un rôle dans la perte d' adhésion des cellules cancéreuses entre elles .
+Par ailleurs , le travail de Regimbald_et_al.  a permis de mettre en évidence l' interaction entre la MUC1 - PEM et la molécule d' adhérence intercellulaire ICAM-1 ( intercellular adhesion molecule 1 ) , facilitant ainsi l' attachement des cellules tumorales à l' endothélium vasculaire péritumoral .
+La MUC1 - PEM est presque toujours glycosylée de façon aberrante en cas de cancer mammaire , avec des chaînes polysaccharidiques latérales généralement moins branchées et plus courtes , ce qui la rend ainsi antigénique .
+Cette variabilité phénotypique évolue chez une même patiente au_cours_de sa maladie .
+La MUC1 - PEM constitue une cible pour des anticorps utilisés dans différents kits de dosages de marqueurs circulants  .
+Toutefois , sa détection est parfois délicate en raison de la présence d' autoanticorps antimucines circulants .
+En effet , les anomalies de structure très répétitives de cette molécule aboutissent à une présentation d' épitopes antigéniques et à une immunisation spontanée dont témoignent les taux d' anticorps circulants , ainsi_que les complexes immuns qui ont pu être détectés chez des patientes atteintes de tumeurs mammaires  .
+Ces anticorps peuvent entrer en compétition avec ceux des tests  .
+Des lymphocytes T cytotoxiques dirigés spécifiquement contre des cellules surexprimant MUC1 - PEM ont pu être isolés chez des patientes atteintes de cancers du sein  .
+La lyse cellulaire qu' ils pourraient induire peut être inhibée par la production d' un anticorps spécifique d' un épitope de MUC1 - PEM , le SM3 .
+Ainsi , malgré des signes de reconnaissance de MUC1 - PEM par le système immunitaire , cette reconnaissance n' aboutit pas au rejet spontané de la tumeur , et de nombreuses études ont été conduites afin_de mieux comprendre à_la_fois les mécanismes de tolérance des tumeurs et le potentiel immunogène des différentes formes de MUC1 - PEM .
+Un rôle immunosuppresseur de MUC1 - PEM a également été démontré sur plusieurs modèles animaux et sur les lymphocytes T en culture  .
+Plusieurs autres propriétés de MUC1 - PEM ont été décrites , notamment l' activation de récepteurs membranaires de facteurs de croissance , la diminution de l' adhésion cellulaire médiée par la E-Cadhérine et des propriétés antiapoptotiques  .
+De nombreuses études animales et quelques études cliniques ont permis de montrer que la réactivité immunitaire de MUC1 - PEM peut être rehaussée par des techniques visant à augmenter la présentation , l' antigénicité ou alors la costimulation par des cytokines activantes .
+Ces techniques ont été utilisées pour le développement de vaccins anticancer du sein ciblant gp68  .
+Dans la pathologie mammaire , la surexpression de MUC1 - PEM est observée dans plus de 90 % des tumeurs mammaires ; elle est plus élevée dans les carcinomes , mais n' est pas restreinte aux tumeurs épithéliales  .
+2.1. CA 15 - 3
+Le test CA 15 - 3 qui reconnaît un fragment de la MUC1 - PEM est le principal test utilisé dans les cancers mammaires .
+Il a été décrit par Tobias en 1985 .
+Le dosage du CA 15 - 3 sérique s' effectue par des techniques immunométriques , fondées sur le principe du sandwich entre deux anticorps ( anticorps 115D8 fixé sur le support et anticorps DF3 marqué ) .
+Le 115D8 , dirigé contre la membrane du globule graisseux du lait humain  , est obtenu à_partir_de souris immunisées avec des membranes de globules lipidiques de lait humain .
+Le DF3 , dirigé contre la membrane de cellules humaines de cancer du sein  , est obtenu à_partir_de souris immunisées avec un extrait d' une lignée cellulaire ( MCF-7 ) d' un carcinome du sein métastatique humain .
+L' épitope réagissant avec l' anticorps DF3 a été identifié et il est dirigé contre une région de la séquence Thr - Arg - Pro - Ala - Gly - Ser .
+Il n' existe pas de valeur usuelle standardisée du CA 15 - 3 du fait d' une variabilité interméthode .
+Les résultats sont exprimés en unités arbitraires U / ml ou kU / l .
+Les valeurs absolues peuvent varier significativement selon les méthodes  .
+Toutefois , la valeur seuil la plus souvent admise est de 30 U / ml .
+Certains auteurs ont proposé selon les études et les techniques de dosage des seuils compris entre 25 et 35 U / ml .
+Les dosages du CA 15 - 3 , pour une même patiente , doivent donc être effectués dans le même laboratoire et avec la même technique  .
+De plus , un premier résultat supérieur aux valeurs usuelles doit toujours être vérifié sur un autre prélèvement  .
+Il n' y a pas de différence des valeurs sériques du CA 15 - 3 selon le sexe .
+En revanche , on peut observer une élévation du CA 15 - 3 en fin de grossesse .
+Dans l' étude de Lelle_et_al.  , parmi 134 femmes enceintes , 9,8 % avaient une valeur de CA 15 - 3 supérieure à 25 U / ml .
+À la différence de l' ACE , le tabagisme n' a aucune influence sur la valeur sérique de CA 15 - 3.
+Le CA 15 - 3 n' est pas un marqueur circulant spécifique du cancer du sein .
+En effet , des concentrations de CA 15 - 3 supérieures aux valeurs usuelles sont observées chez environ 6 % des sujets sains  .
+De plus , des affections bénignes ( mammaires , hépatiques , bronchopulmonaires , digestives inflammatoires , endocrines et auto-immunes ) ou malignes extramammaires ( ovariennes , colorectales , pancréatiques , hépatobiliaires , pulmonaires , gastriques , thyroïdiennes ) peuvent être associées à une élévation du CA 15 - 3. Ces élévations non spécifiques du CA 15 - 3 sont à l' origine d' un pourcentage important de faux - positifs .
+Si la spécificité mammaire du CA 15 - 3 semble limitée , sa sensibilité au moment du diagnostic initial n' est guère meilleure .
+En effet , moins d' un tiers des cancers du sein non métastatiques , tous stades confondus , a des concentrations supérieures à la valeur seuil du CA 15 - 3  .
+Ainsi , le CA 15 - 3 ne peut pas être utilisé comme un moyen de dépistage ou de diagnostic précoce du cancer du sein , compte tenu de sa faible sensibilité et spécificité .
+En cas de cancer mammaire , la valeur sérique du CA 15 - 3 est généralement corrélée au stade de la maladie .
+Plus le stade est avancé , plus la concentration du CA 15 - 3 est élevée  .
+Environ deux tiers des patientes , avec une première évolution métastatique , ont une élévation du CA 15 - 3. Le délai d' élévation du CA 15 - 3 avant la détection de la première métastase varie de trois mois à plus d' un an .
+L' équipe de Pichon  a également montré le rôle pronostique de la cinétique du CA 15 - 3 avant la première métastase .
+L' incidence de l' élévation du CA 15 - 3 varie significativement selon la localisation de la première rechute qu' elle soit osseuse , pulmonaire ou locorégionale .
+Le CA 15 - 3 a une sensibilité élevée dans les localisations osseuses ( 68 à 81 % de valeurs supérieures aux valeurs usuelles ) , hépatiques ( 75 % ) et pulmonaires ( 50 à 70 % )  .
+En revanche , il a une sensibilité médiocre en cas de rechute locorégionale isolée ( environ 20 % des patientes ont une élévation du CA 15 - 3 ) .
+Le principal intérêt du CA 15 - 3 en phase métastatique déclarée est d' aider à l' évaluation thérapeutique .
+Des auteurs ont tenté de corréler l' évolution du CA 15 - 3 durant le traitement des métastases à l' efficacité de ce dernier .
+On admet généralement un seuil d' augmentation de 25 % du CA 15 - 3 pour prédire une progression de la maladie  .
+Différentes études  ont montré qu' environ deux tiers des patientes ont une diminution du CA 15 - 3 en cas de réponse thérapeutique , trois quarts ont des valeurs de CA 15 - 3 stables en cas de maladie stable et environ 80 % ont une élévation du CA 15 - 3 en présence d' une maladie évolutive .
+Dans chaque situation clinique ( réponse , stabilisation , progression ) , une proportion ( 15 à 25 % ) de résultats discordants a été observée chez des malades traités  .
+Ces discordances peuvent être en_partie liées à une augmentation transitoire et paradoxale du CA 15 - 3 que l' on appelle « effet spike » ou effet de pointe , qui s' explique par un relargage initial de MUC1 - PEM en cas de destruction tumorale importante par une thérapeutique antitumorale .
+Les fragments circulants de MUC1 - PEM ont une demi-vie de huit à dix jours .
+L' augmentation variable du CA 15 - 3 dans son intensité et dans sa durée ( 1 - 3 mois ) , peut être difficile à différencier d' une réelle progression .
+Il est donc inutile de réaliser des dosages du CA 15 - 3 dans les suites immédiates d' un traitement cytotoxique pour en juger l' efficacité .
+Par ailleurs , les patientes dont la valeur de CA 15 - 3 diminue de plus de 20 % sous traitement ont une meilleure survie que les autres  .
+Certains considèrent même le suivi biologique comme plus fiable que le suivi clinique  et susceptible de permettre une meilleure prise en charge thérapeutique .
+Lors du suivi d' une rechute ou d' une métastase , le dosage du CA 15 - 3 est donc un élément d' évaluation de l' efficacité thérapeutique , mais ne peut , en aucun cas , être l' indicateur unique de l' efficacité du traitement .
+Des valeurs préthérapeutiques de CA 15 - 3 très élevées ( cinq à dix fois la normale ) , peuvent suggérer un stade avancé de la maladie , voire une maladie métastatique d'_emblée  .
+Actuellement , le dosage initial du CA 15 - 3 ne recueille pas l' unanimité .
+Les recommandations de l' Agence nationale d' évaluation et d' accréditation en santé ( Anaes ) datant de 1997  sont , de ne pas utiliser le CA 15 - 3 comme un moyen de dépistage ou de diagnostic précoce du cancer du sein , compte tenu de sa faible sensibilité et spécificité et de ne pas doser le CA 15 - 3 au stade initial de la maladie en_dehors d' un protocole de recherche .
+Après traitement initial d' un cancer du sein et en l' absence de signe d' appel , le groupe de travail de l' Anaes recommande de ne pas pratiquer de dosage du CA 15 - 3. En effet , si ce dosage peut permettre un diagnostic précoce des rechutes , il n' était pas démontré en 1997 que leur traitement au stade infraclinique améliorait la survie .
+Lors du suivi thérapeutique d' une rechute ou d' une métastase , le dosage du CA 15 - 3 est un élément d' évaluation de l' efficacité thérapeutique mais ne peut en aucun cas être l' indicateur unique de l' efficacité du traitement .
+En effet , le résultat d' un dosage de marqueur sérique doit toujours être interprété en fonction du contexte clinique et des résultats des autres examens .
+Les recommandations du groupe de travail du SOR ( Standards , Options , Recommandations de la Fédération nationale des centres de lutte contre le cancer ) sont d' inclure le CA 15 - 3 dans le bilan initial , réalisé systématiquement dans les situations où « le risque métastatique immédiat est élevé » et éventuellement « si une mastectomie est envisagée , afin_d' éviter une mutilation à une femme déjà métastatique »  .
+2.2. Autres tests reconnaissant les fragments de MUC1 - PEM
+Les deux anticorps servant au dosage du CA 15 - 3 étant protégés par un brevet , des anticorps monoclonaux reconnaissant d' autres épitopes de MUC1 - PEM ont été développés par d' autres firmes .
+Ils sont utilisés dans différents tests commercialisés sous les noms de CA 27 - 29 , CA 549 et MCA .
+L' intérêt clinique de ces tests rejoint celui du CA 15 - 3.
+Le CA 27 - 29 est détecté grâce_à un anticorps monoclonal , le B27 - 29 , qui reconnaît une partie protéique voisine de celle reconnue par DF3 .
+Toutefois , la liaison de B27 - 29 à son épitope n' est pas influencée par la présence d' un résidu glucidique ( acide sialique ) , à la différence de DF3 .
+Cela semble être un avantage par rapport au CA 15 - 3. Ce test a d'_ailleurs obtenu en 1998 l' aval de la Food and Drug Administration ( FDA ) aux États-Unis pour son utilisation dans le suivi des patientes ayant un cancer du sein avancé .
+La valeur seuil est fixée à 25 U / ml .
+Le CA 549 est détecté grâce_à deux anticorps monoclonaux .
+Le BC4 E 549 est obtenu après immunisation de souris avec des membranes purifiées d' une lignée cellulaire humaine de cancer du sein ( T417 ) .
+Le BC4 N 154 est obtenu après immunisation de souris avec des membranes lipidiques de globules de lait humain .
+Le dosage immunométrique du CA 549 à l' aide de ces deux anticorps a permis de définir une valeur seuil de 12 U / ml .
+Le MCA est détecté par un test immunoradiométrique , avec un anticorps monoclonal le MCA-b-12 , qui reconnaît un épitope protéique répétitif .
+La valeur seuil est fixée à 13 U / ml .
+3. Antigène carcino-embryonnaire
+Isolé en 1965 par Gold et Freedman , l' ACE est une protéine onco-foetale dont la synthèse est très réduite après la naissance , mais sa répression n' est toutefois pas totale chez l' adulte , ce qui explique l' existence de quantités sériques mesurables d' ACE .
+Cet antigène dont le poids moléculaire est de 180 kDa comporte 641 acides aminés et est composé en moyenne de 45 % de protéines et de 55 % d' hydrates de carbone .
+Les anticorps monoclonaux ont permis de mieux individualiser l' ACE au sein de la famille hétérogène des glycoprotéines membranaires , codées par environ dix gènes localisés sur le chromosome 19. La famille des glycoprotéines membranaires renferme plusieurs membres , dont : - l' ACE ;
+- l' ACE-M , variante membranaire de l' ACE , de bas poids moléculaire ;
+- les NCA ( non-specific cross reaction antigen ) : NCA 55 , NCA 95 , NCA 160 ;
+- la BGPI ( biliary glycoprotein I ) , constituant normal de la bile ;
+- la NFA1 ( normal foetal antigen I ) .
+Ces protéines présentent la même distribution tissulaire que l' ACE .
+L' ACE est synthétisé essentiellement chez le foetus ( intestin , foie et pancréas ) pendant les premiers mois de la gestation .
+En oncologie , l' ACE a été d'_abord mis en évidence dans les cancers coliques à l' aide d' anticorps polyclonaux de lapins .
+L' utilisation d' anticorps monoclonaux a permis de révéler sa présence dans des tissus humains adultes non pathologiques .
+C' est un antigène présent à la surface du pôle apical des cellules épithéliales de l' intestin grêle , du côlon , du rectum , du pancréas , du poumon et du sein .
+La quantité d' antigène mis en évidence dans les tissus normaux reste cependant beaucoup plus faible que dans les tissus néoplasiques .
+L' ACE est une molécule dotée de propriétés adhésives , capable d' adhésion homotypique ( ACE - ACE ) ou hétérotypique avec d' autres membres de la famille des ACE , le collagène de type I et certaines souches de bactéries digestives .
+Physiologiquement , l' ACE est impliqué dans la différenciation cellulaire au_cours_de l' embryogenèse et dans la reconnaissance et la régulation de la flore bactérienne du côlon normal .
+La clairance de l' ACE est essentiellement hépatique .
+Son temps de demi-vie plasmatique est de l' ordre de quelques jours .
+La multiplicité des anticorps monoclonaux conduit à une importante dispersion intertechnique des résultats .
+La variabilité interlaboratoire est élevée .
+Comme pour le CA 15 - 3 , les dosages de l' ACE , pour une même patiente , doivent être effectués dans le même laboratoire et avec la même technique  .
+De même , un premier résultat supérieur aux valeurs usuelles doit toujours être vérifié sur un autre prélèvement  .
+Le dosage de l' ACE sérique s' effectue , habituellement , par une méthode immunométrique .
+Chez la femme , la limite supérieure des valeurs usuelles varie entre 3 et 5 ng / ml .
+Les hommes ont une valeur d' ACE légèrement plus élevée que les femmes .
+L' âge n' a aucune influence sur les valeurs sériques d' ACE .
+Les fumeurs ont des valeurs plus élevées que les non-fumeurs .
+Une augmentation modérée et / ou importante peut être observée dans des maladies inflammatoires aiguës ou chroniques , pulmonaires et digestives , dans les cirrhoses alcooliques et les insuffisances rénales .
+L' ACE est très fortement exprimé par de nombreux adénocarcinomes , en_particulier colorectaux et pulmonaires .
+D' autres cancers peuvent être à l' origine d' une élévation de l' ACE ( estomac , pancréas , foie , thyroïde , sein , ovaire , tumeurs neuroendocrines , lymphome et mélanome ) .
+La participation active de l' ACE dans la cancérogenèse et la dissémination métastatique est actuellement clairement établie pour les cancers coliques .
+De plus , l' ACE peut interférer avec l' immunité cellulaire antitumorale en protégeant les cellules tumorales qui l' expriment de la lyse par des lymphocytes tueurs .
+Enfin , l' hyperexpression de l' ACE est impliquée dans des mécanismes de résistance aux chimiothérapies .
+L' ACE peut être élevé dans 10 à 15 % des cancers du sein non métastatiques et dans 35 à 40 % des cancers du sein en phase métastatique .
+Le niveau et la fréquence de l' élévation de ce marqueur sont corrélés avec la progression tumorale  .
+4. Comparaison des performances des dosages du CA 15 - 3 et de l' ACE dans la pathologie mammaire
+Les performances du seul dosage de l' ACE dans le cancer du sein sont inférieures à celles du CA 15 - 3 aussi_bien pour la détection d' une rechute et / ou métastase que pour l' appréciation de l' efficacité du traitement de ces dernières  .
+Plusieurs études  ont évalué l' intérêt de l' ACE , du CA 15 - 3 et d' autres marqueurs sériques dans la surveillance des patientes atteintes d' un cancer du sein .
+Elles ont conclu à la supériorité du CA 15 - 3 dans la détection précoce d' une rechute ou d' une métastase .
+Cependant 7 à 11 % des patientes en phase métastatique ont un CA 15 - 3 normal mais une valeur d' ACE supérieure au seuil .
+Toutefois , ce pourcentage est trop faible pour justifier de manière systématique une utilisation combinée des dosages de l' ACE et du CA 15 - 3. Le groupe d' experts de l' Anaes  recommande de ne pas doser l' ACE dans le dépistage , le bilan initial , la surveillance et l' évaluation thérapeutique d' une patiente ayant un cancer du sein , sauf chez les patientes métastatiques qui n' expriment pas le CA 15 - 3.
+5. Marqueurs dérivés des cytokératines
+Le TPA , TPS et Cyfra 21.1 sont des tests qui permettent la reconnaissance de molécules appartenant structurellement à la famille des cytokératines .
+Ces dernières participent , avec les microtubules et les microfilaments d' actine , à la formation du cytosquelette de la_plupart des cellules épithéliales  .
+Il n' y a pas de cytokératine dans les cellules sanguines .
+Les cytokératines humaines comprennent 20 polypeptides et sont séparées en deux sous-familles .
+Le groupe I contient les cytokératines 9 à 20 qui sont acides .
+Le groupe II contient les cytokératines 1 à 8 qui sont neutres ou basiques .
+Les cellules épithéliales expriment les kératines par paires , l' une appartenant au groupe I , l' autre au groupe II .
+Dans les cellules épithéliales de nombreux tissus , les cytokératines 8 / 18 et 8 / 19 sont souvent coexprimées .
+Ces paires de cytokératines sont également exprimées dans les cancers épithéliaux .
+Différents tests permettent de mesurer des fragments de cytokératine 8 , 18 et 19 , dont les plus courants sont : - le TPA , qui reconnaît les kératines 8 , 18 et 19 ;
+- le TPS , qui reconnaît les kératines 8 et 18 ;
+- le Cyfra 21.1 , qui reconnaît les kératines 8 et 19.
+Les cytokératines 8 , 18 , 19 étant surtout produites au cours des phases S et G2 du cycle cellulaire , ces marqueurs constituent un reflet de l' activité proliférative des tumeurs .
+Dans le domaine de l' oncologie , ils sont utilisés comme des marqueurs ubiquitaires non spécifiques de tissu , dont l' intérêt réside dans leur corrélation au degré de prolifération tumorale .
+Une étude a montré le rôle pronostique péjoratif indépendant d' une élévation du Cyfra 21.1 ( 3,5 ng / ml ) chez 86 patientes atteintes d' un cancer mammaire  .
+En cas d' évolution clinique sans élévation du CA 15 - 3 ni de l' ACE , il peut être utile de trouver un autre marqueur efficace .
+Dans ce cas , la reprise d' échantillons conservés en sérothèque pourrait permettre d' obtenir rétrospectivement la valeur initiale et l' évolution du marqueur .
+6. c-erb B2
+Le gène HER2 ( human epidermal growth factor receptor 2 ) a été identifié au niveau du chromosome 17q21 .
+Il appartient à la famille HER , qui code pour quatre récepteurs transmembranaires , appelés HER1 ( c-erb B1 ou EGFR epidermal growth factor receptor ) , HER2 ( c-erb B2 ) , HER3 ( c-erb B3 ) et HER4 ( c-erb B4 ) .
+HER2 ou c-erb B2 est un récepteur particulier dans la mesure où il ne possède pas de ligand spécifique de grande affinité .
+La protéine c-erb B2 a une homologie structurale avec l' EGF récepteur et déclenche une cascade de réactions biologiques qui sont à l' origine de la prolifération cellulaire .
+La surexpression de c-erb B2 , détectée par immunohistochimie ( IHC ) en utilisant l' anticorps CB11 est très fortement corrélée à l' existence d' une amplification du gène étudiée par hybridation in_situ en fluorescence ( FISH ) .
+Les cellules épithéliales normales de la glande mammaire possèdent environ 20000 à 50000 récepteurs c-erb B2 au niveau de leur surface cellulaire .
+Il en existe en_revanche plusieurs millions au niveau des cellules tumorales mammaires qui surexpriment c-erb B2 .
+La surexpression de c-erb B2 peut être détectée dans 20 à 25 % des cancers du sein invasifs , mais_aussi dans 60 à 70 % des cancers canalaires in_situ ( CCIS ) , principalement peu différenciés , de type comédocarcinome .
+Enfin , les carcinomes de type lobulaire semblent ne pas ou peu surexprimer c-erb B2 .
+Par ailleurs , des données publiées suggèrent une bonne corrélation entre la surexpression de c-erb B2 au niveau de la tumeur primitive et les métastases .
+Pour les cancers infiltrants , la surexpression de c-erb B2 constitue un facteur de mauvais pronostic .
+En revanche , elle est prédictive d' une réponse au trastuzumab ( Herceptin ) , un anticorps monoclonal qui possède une très grande affinité pour le domaine extracellulaire du récepteur c-erb B2 .
+Le récepteur c-erb B2 est une glycoprotéine de 185 kDa constituée de 1255 acides aminés .
+Il possède un domaine de liaison extracellulaire ( extra cellular domain , ECD ) , présent à la surface des cellules cancéreuses mammaires et riche en cystéine , un domaine transmembranaire lipophile et un domaine intracellulaire possédant une activité tyrosine - kinase .
+Après sa libération par protéolyse , l' ECD de c-erb B2 est une glycoprotéine de poids moléculaire compris entre 97 et 115 kDa , appelée p105 .
+L' ECD soluble peut être quantifié dans le sérum des patientes par technique enzyme linked immunoSorbent assay ( Elisa ) grâce_à des anticorps monoclonaux  .
+Dans l' étude rétrospective de Fehm_et_al.  , la valeur préthérapeutique de l' ECD sérique a été obtenue pour 211 cancers mammaires avancés .
+En utilisant un seuil de 120 fmol / ml , des valeurs élevées de ECD ont été observées chez 26 patientes ( 12,3 % ) avec un impact péjoratif sur leur survie globale .
+Par ailleurs , des valeurs élevées de l' ECD ont été corrélées avec l' absence de surexpression des récepteurs hormonaux ( RH ) au niveau de la tumeur .
+Il n' a pas été trouvé de corrélation avec l' âge , la taille tumorale et le degré d' envahissement ganglionnaire .
+Dans cette étude , une valeur préthérapeutique élevée de l' ECD a constitué un facteur pronostique plus péjoratif que l' atteinte ganglionnaire ou l' absence d' expression des RH .
+Dans l' étude prospective de Meenakshi_et_al.  , la valeur sérique de l' ECD a été obtenue par technique Elisa pour 150 femmes saines et 300 patientes atteintes d' un cancer mammaire de différents types et stades .
+Les témoins avaient une valeur sérique allant de 4 à 13,2 ng / ml , alors_que les patientes avaient une valeur plus élevée allant de 4,8 à 75,2 ng / ml ( seuil fixé à 13,8 ng / ml ) .
+Une valeur élevée de l' ECD sérique a été retrouvée chez 18,6 % des patientes ayant un cancer mammaire .
+L' équipe de Pichon  a mené une étude portant sur la valeur sérique de l' ECD obtenue par technique Elisa avant la première métastase pour 128 femmes appartenant à une cohorte de 701 femmes traitées pour un cancer mammaire .
+Avant la première métastase , 45 % des dosages étaient au-delà_de 12 g / l pour l' ECD ( valeur seuil ) .
+La concordance avec le CA 15 - 3 était de 56,25 % .
+De manière intéressante , il a été montré que les niveaux circulants de l' ECD variaient selon les sites métastatiques , les plus hauts niveaux étant observés en cas de métastases hépatiques ou pulmonaires .
+De plus , l' élévation de l' ECD précédait de plusieurs mois ( 254 jours en moyenne ) la détection clinique et / ou radiologique de la première rechute ou de la métastase .
+Cette élévation a été corrélée à un pronostic péjoratif .
+Luftner_et_al.  se sont intéressés à l' intérêt du dosage sérique de l' ECD dans les stades avancés de cancers mammaires .
+Dans leur étude , plus de 50 % des patientes ayant un cancer mammaire de stade IV avaient une valeur sérique pathologique .
+Ce test s' est également révélé intéressant pour le suivi thérapeutique et à distance des patientes ayant une tumeur mammaire surexprimant c-erb B2 .
+Dans l' étude de Fornier_et_al.  , portant sur 95 patientes ayant un cancer mammaire , la valeur sérique circulante de l' ECD a été corrélée à l' expression de c-erb B2 par la tumeur .
+De plus , les patientes qui ont normalisé les valeurs sériques de l' ECD après 12 semaines de traitement par le trastuzumab se sont révélées meilleures répondeuses que les patientes qui ont gardé une valeur circulante élevée ( 68 versus 15 % ) .
+Une diminution relative de plus de 55 % de l' ECD circulant représente pour Fornier et al. un paramètre permettant de prédire la réponse au trastuzumab .
+Pour conclure , les différentes séries publiées dans la littérature montrent une augmentation des valeurs sériques d' ECD pour 0 à 38 % des patientes ayant un cancer mammaire non métastatique ( moyenne , 18,5 % ) , et pour 23 à 80 % ( moyenne , 43 % ) des patientes ayant un cancer mammaire métastatique .
+Il a également été démontré que l' élévation de l' ECD ne s' observe qu' au-delà d' une certaine taille tumorale et pour les tumeurs surexprimant c-erb B2 .
+Ce dosage peut être utile lorsque l' expression de c-erb B2 n' a pas pu être établie sur la tumeur primitive  .
+Son élévation pourrait alors témoigner de l' expression de c-erb B2 par la tumeur .
+En revanche , une valeur sérique normale ne peut pas être corrélée à une absence de surexpression de c-erb B2 par la tumeur .
+L' élévation de l' ECD dans les cancers précoces témoigne de l' agressivité de la tumeur et paraît associée à une augmentation du risque de métastases viscérales et de cancers mammaires controlatéraux  .
+Une augmentation des valeurs sériques d' ECD a un impact péjoratif sur la survie globale et sans récidive .
+En outre , des valeurs élevées de l' ECD sont corrélées avec une mauvaise réponse à l' hormonothérapie et certaines chimiothérapies comportant des anthracyclines et à une bonne réponse au trastuzumab et d' autres chimiothérapies comportant des taxanes  .
+7. pS2 / TFF1 urinaire
+Le gène pS2 ( encore appelé TFF1 pour Trefoil factor 1 ) code pour un petit peptide qui est physiologiquement sécrété par la muqueuse gastrique puis absorbé au niveau du caecum .
+Ce peptide circule dans le sang avant d' être éliminé par voie rénale sans métabolisation majeure préalable .
+Dans le suc gastrique , pS2 / TFF1 est présent à des concentrations très élevées ( ratio sérum / suc digestif 1 / 1300 à 1 / 1500 ) .
+En l' absence de pathologie , les femmes ont un taux sérique de pS2 / TFF1 légèrement supérieur aux valeurs rencontrées chez l' homme .
+En revanche , il n' y a pas de variations liées à l' âge ni au cycle menstruel .
+La concentration urinaire de pS2 / TFF1 est nettement plus élevée que la concentration sérique ( ratio : 1 / 25 à 1 / 30 ) .
+La grossesse augmente la concentration urinaire de pS2 / TFF1 .
+La surexpression de pS2 / TFF1 dans les cancers du sein fut à l' origine de sa découverte  et a été depuis largement rapportée  .
+On estime à environ 50 % la proportion de tumeurs mammaires qui expriment pS2 / TFF1 .
+Cette surexpression est retrouvée à_la_fois dans les tumeurs mammaires primitives et les métastases .
+Il existe une bonne corrélation entre l' expression de pS2 / TFF1 par la tumeur et celle du récepteur aux estrogènes ( RE ) .
+De plus , parmi les tumeurs RE positifs , celles qui expriment également pS2 / TFF1 sont celles qui répondent le mieux à l' hormonothérapie  .
+Il a également été démontré qu' en_plus_de son caractère prédictif de réponse à l' hormonothérapie , la surexpression de pS2 / TFF1 par les tumeurs mammaires constitue un facteur de bon pronostic  .
+L' expression de pS2 / TFF1 peut s' observer pour différents types de cancers mammaires ( CCIS , cancer canalaire infiltrant , cancer lobulaire infiltrant etc. )  .
+Différentes méthodes permettent d' apprécier l' expression de pS2 / TFF1 au niveau des tumeurs .
+En pratique clinique , la méthode la plus utilisée est l' IHC avec quantification du marquage cytoplasmique de pS2 / TFF1 sur des lames histologiques paraffinées , en utilisant un anticorps monoclonal ( par_exemple anticorps p28O2 IGBMC / Euromedex ou anticorps BC4 anti-pS2 , CIS-Bio International , Gif-sur-Yvette , France ) .
+Une étude originale a corrélé le dosage urinaire de pS2 / TFF1 à la pathologie mammaire  .
+Chez les individus normaux , les valeurs urinaires de pS2 / TFF1 sont faibles .
+La présence d' une lésion mammaire bénigne ne s' accompagne pas d' une augmentation des valeurs urinaires de pS2 / TFF1 .
+En revanche , en présence d' un cancer mammaire , une augmentation significative de la concentration urinaire de pS2 / TFF1 est observée dans la_plupart des cas .
+Des valeurs urinaires faibles de pS2 / TFF1 ont toutefois été observées chez des patientes porteuses d' une tumeur mammaire ayant une expression faible ou absente de pS2 / TFF1 .
+De plus , ces valeurs ont été corrélées à la réponse à l' hormonothérapie en cas de tumeurs hormonodépendantes .
+Le suivi des valeurs urinaires de pS2 / TFF1 a permis de dépister précocement des métastases avant l' augmentation des marqueurs sanguins conventionnels et la survenue de signes cliniques .
+8. Conclusion
+En pratique , bien_que de nombreux marqueurs circulants aient été identifiés , aucun d' entre eux n' est recommandé pour le dépistage des cancers mammaires dans la population générale ni pour une utilisation diagnostique en cas d' anomalie mammaire .
+L' intérêt des marqueurs circulants et principalement du CA 15 - 3 est actuellement limité au diagnostic de métastase et à l' évaluation de l' efficacité thérapeutique en cas de maladie générale en association avec les éléments cliniques et paracliniques .
+Toutefois , même si le dosage initial des marqueurs circulants n' est actuellement pas recommandé , la détermination de leur valeur avant_tout traitement permettrait de disposer d' un élément de comparaison en cas d' élévation ultérieure .
+De plus , même s' il n' y a pas d' indication à un dosage systématique des marqueurs circulants dans le cadre du suivi des cancers mammaires , il est licite de s' interroger sur l' utilité potentielle de ce dosage .
+En effet , le délai d' élévation des marqueurs circulants avant la détection de la première métastase varie de quelques mois à plus d' un an .
+Or il existe de nouveaux traitements prometteurs qui pourraient allonger la survie des patientes métastatiques en cas de diagnostic précoce .
+La protéomique apporte beaucoup d' espoirs dans la découverte de marqueurs précoces des cancers mammaires .
+Différents marqueurs circulants ( appelés BC pour breast cancer ) , mis en évidence grâce aux nouvelles technologies de protéomique ont été publiés récemment  .
+Ils permettent dans ces différentes études de suspecter le diagnostic de cancers mammaires à différents stades et notamment à des stades précoces .
+Il est clair que des étapes de validation et surtout de standardisation seront nécessaires pour les rendre utilisables en clinique à_l'_instar_de ce qui a été fait pour les marqueurs biologiques classiques .
+Une revue complète sera consacrée à l' intérêt de ces nouveaux marqueurs issus de la protéomique en cas de cancer mammaire

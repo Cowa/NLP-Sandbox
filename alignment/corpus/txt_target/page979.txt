@@ -1,0 +1,199 @@
+Increased cardiovascular mortality after radiotherapy ( RT ) for breast cancer ( BC ) was first noticed in Scandinavian and British trials ( 1 ) , ( 2 ) , ( 3 ) and ( 4 ) .
+This finding was later confirmed in meta-analyses of trials randomizing for postoperative RT ( 5 ) , ( 6 ) , ( 7 ) , ( 8 ) and ( 9 ) and in population-based studies using left - right comparisons ( 10 ) , ( 11 ) , ( 12 ) , ( 13 ) , ( 14 ) and ( 15 ) .
+These results concern mortality data in patients treated with either postmastectomy or postlumpectomy irradiation , except for one study that exclusively examined postlumpectomy RT ( 15 ) .
+Few data are available regarding cardiac morbidity among patients treated with breast-conserving therapy ( 16 ) .
+In one modeling study a dose - volume effect was suggested ( 17 ) .
+The irradiated volume of the heart can be derived from measuring the maximum distance between the posterior field border and the heart contour in the beam's-eye view of a tangential treatment beam , also called the maximum heart distance ( MHD ) ( 18 ) , enabling retrospective analysis of volume effects .
+To date no studies have been published that examined individual dose and volume effects in relation to the incidence of CVD .
+Full-size image ( 33K )
+Fig 1. Simulator film showing measurement of maximum heart distance from dorsal field border of tangential breast field ( mediolateral ) to most distant heart contour ( arrow ) .
+View Within Article .
+In the present study we assessed the effect of tangential breast irradiation on CVD incidence by comparing left- and right-sided BC patients .
+Subsequently we evaluated whether increasing MHD was associated with greater risk of CVD in patients irradiated on the left side .
+Methods and Materials Data collection .
+We included 1601 patients with Stage T1 - 2N0 BC treated with breast-conserving therapy between 1980 and 1993 at five institutions : Catharina Ziekenhuis Eindhoven ( n = 470 ) , Erasmus MC/ Daniel den Hoed Cancer Center ( n = 399 ) , MAASTRO Clinic ( n = 340 ) , Netherlands Cancer Institute ( n = 199 ) , and University Hospital Leuven ( n = 193 ) .
+Patients treated with radiation fields other than breast tangents and those treated with adjuvant chemotherapy were excluded , as were patients with bilateral BC or other secondary malignant tumors at the time of diagnosis of BC .
+From the oncologic records we collected the following data : date of BC diagnosis , laterality , tumor histology , axillary lymph node status , dates and treatment modalities of primary BC and of recurrent disease ( type of surgery , radiation fields ) , history of cardiac disease before diagnosis of BC , dates of diagnoses of cardiac events , cardiovascular risk factors , date of most recent medical information or date of death , and primary cause of death according to the International Classification of Diseases , 9th edition .
+Radiotherapy information included number of fractions , total dose , beam energy , and boost irradiation .
+Risk factors ( smoking , hypertension , hypercholesterolemia , and diabetes mellitus ) were recorded both at the date of diagnosis of BC and at the end of follow-up .
+Smoking was scored positive when the patient was smoking at the end of follow-up or had stopped smoking less than 1 year before the end of follow-up .
+Hypertension , hypercholesterolemia , and diabetes mellitus were scored as positive when stated in the medical information or when treated .
+For all patients we updated information until at least January 1 , 2000 on specific cardiac diagnoses and risk factors , as well as vital status , by sending a questionnaire to their general practitioners ( GP ) .
+In The Netherlands and in Belgium nearly all residents have a GP who receives all medical correspondence from attending physicians .
+Municipal registries were consulted for information on date of death when information was incomplete .
+For 81% of the patients , we collected cardiac data from both the patient record and the GP and for the other 19% from the patient records only .
+Complete follow-up information until at least January 1 , 2000 was available for 94% of the patients .
+For patients who died from an acute cardiac event , without prior evidence of cardiac disease , the date of death was recorded as date of diagnosis of the cardiac event .
+Measurement of maximum heart distance .
+Three investigators ( J.H.B. , L.J.B. , and E.L. ) were trained to measure the maximum heart distance ( MHD ) , and in a pilot study of 30 patients the level of agreement was established , resulting in the following policy .
+The MHD was measured independently by two investigators as the perpendicular distance from the dorsal field border to the most distant part of the heart contour visible on the simulator film .
+The results were averaged if less than a 3 mm interobserver difference was found .
+Cases with a larger disagreement were re-evaluated by the two observers until consensus was reached .
+Treatment .
+Breast irradiation was given with tangentially opposing beams to a dose of 50 Gy in 25 fractions of 2 Gy in all patients , using megavoltage equipment ( 5 - 8 MV ) in 89% of the cases .
+Eleven percent of the patients were treated with 60Co machines .
+A boost was given in 96% of the patients .
+Statistical analysis .
+Overall cumulative probabilities of death were estimated as a function of time since start of treatment using the Kaplan-Meier method ( 19 ) .
+The Cox proportional hazards model ( 20 ) was used to quantify the effects of laterality and MHD score on CVD risk , taking into account several covariates ( age at treatment , cardiovascular risk factors ) .
+The Cox models were fitted with the use of commercial statistical software ( SPSS , Chicago , IL ) .
+The chi-square test and Student 's t test were used to compare categoric and continuous variables , respectively .
+Role of the funding source .
+The sponsors of the study had no role in study design , data collection , data analysis , data interpretation , or writing of this report .
+The authors had final responsibility for the decision to submit for publication .
+Results .
+For the 1,601 patients included in the study , the median follow-up since start of RT was 16 years ( range , 0.15 - 24.3 years ) .
+Median age at diagnosis of BC was 49 years .
+Distribution of cardiac risk factors was not different for left- and right-sided BC patients , except for diabetes mellitus , which occurred more often in right-sided cases ( p = 0.02 ) , and history of CVD before BC diagnosis , which was reported more often in left-sided BC patients ( p = 0.07 ; Table 1 ) .
+Table 1. .
+Patient characteristics by breast cancer laterality .
+CharacteristicRight-sided BCLeft-sided BCp No. of patients731 ( 45.7 ) 870 ( 54.3 ) Median age ( y ) 48.049.00.20 Median follow-up ( y ) 16.116.10.81 Risk factors for CVD Hypertension157 ( 21.5 ) 208 ( 23.9 ) 0.26 Diabetes mellitus61 ( 8.3 ) 47 ( 5.4 ) 0.02 Hypercholesterolemia111 ( 15.2 ) 118 ( 13.6 ) 0.39 Smoking Never281 ( 38.4 ) 324 ( 37.2 ) 0.64 Former smoker64 ( 8.8 ) 95 ( 10.9 ) Current smoker80 ( 11.0 ) 69 ( 7.9 ) Unknown306 ( 41.9 ) 382 ( 43.9 ) CVD before BC diagnosis7 ( 1.0 ) 19 ( 2.2 ) 0.07 .
+Full-size table .
+Abbreviations : BC = breast cancer ; CVD = cardiovascular disease .
+Values are number ( percentage ) unless otherwise noted .
+View Within Article .
+Overall and BC disease-free survival was not different for left- vs. right-sided RT .
+Comparison of overall cardiovascular mortality between patients treated on the left side and on the right side rendered a hazard ratio ( HR ) of 1.57 ( 95% confidence interval [ CI ] , 0.83 - 3.00 ; Fig. 3 ) , adjusted for age at BC diagnosis , history of CVD , and diabetes mellitus .
+Mortality from ischemic heart disease was nonsignificantly increased for left-sided RT , with a HR of 1.99 ( 95% CI , 0.71 - 5.59 ; data not shown ) .
+Full-size image ( 33K )
+Fig 2. ( a ) Overall survival by laterality. ( b ) Survival from breast cancer by laterality .
+View Within Article .
+Full-size image ( 17K )
+Fig 3. Survival from cardiovascular disease by laterality ; Cox regression analysis , adjusted for age at breast cancer diagnosis , history of cardiovascular disease , and diabetes mellitus .
+View Within Article .
+Table 2. .
+Causes of death .
+Right-sided BCLeft-sided BCp All causes172 ( 23.5 ) 214 ( 24.6 ) 0.64 Breast cancer81 ( 11.1 ) 97 ( 11.1 ) 1.00 Other cancer17 ( 2.3 ) 19 ( 2.2 ) 0.87 Cardiovascular disease14 ( 1.9 ) 29 ( 3.3 ) 0.09 Myocardial infarction5 ( 0.7 ) 14 ( 1.6 ) 0.11 Other heart disease9 ( 1.2 ) 15 ( 1.7 ) 0.54 Sudden death5 ( 0.7 ) 5 ( 0.6 ) 1.00 Other causes38 ( 5.2 ) 35 ( 4.0 ) 0.28 Unknown17 ( 2.3 ) 29 ( 3.4 ) 0.23 .
+Full-size table .
+Abbreviation : BC = breast cancer .
+Values are number ( percentage ) .
+International Classification of Diseases ( 9th edition ) codes 420 - 429 .
+View Within Article .
+Increased morbidity from CVD was statistically significantly associated with irradiation on the left side ( HR 1.38 ; 95% CI , 1.05 - 1.81 ) , adjusted for age at diagnosis of BC , history of CVD , and diabetes mellitus .
+The median time to event was 10.5 years .
+The increase of CVD incidence was observed not only in the category of ischemic heart disease , with a marginally significantly increased risk of 1.35 ( 95% CI , 0.93 - 1.98 ) , but also in the category of other heart diseases ( HR 1.53 ; 95% CI , 1.09 - 2.15 ) , consisting of pericarditis , valvular dysfunction , cardiomyopathy , dysrhythmias , and congestive heart failure .
+There was no statistically significant difference in the risk of cardiovascular disease between patients irradiated with 60Co beams and those treated on linear accelerators .
+Apart from left-sided irradiation , other independent risk factors for increased cardiovascular morbidity were previously diagnosed CVD , high blood pressure , hypercholesterolemia , and diabetes mellitus ; risk from continued smoking was marginally significantly increased .
+Exclusion of the patients with a history of CVD from the analysis rendered similar results with respect to risk of CVD from RT ( HR for left- vs. right-sided RT , 1.42 ; 95% CI , 1.08 - 1.87 ) .
+Table 3. .
+Cardiovascular morbidity by laterality ( Cox regression analysis )
+Right-sided BC ( n = 731 ) Left-sided BC ( n = 870 ) HR ( 95% CI ) All cardiovascular disease85 ( 11.6 ) 139 ( 16.0 ) 1.38 ( 1.05 - 1.81 ) Ischemic heart disease44 ( 6.0 ) 73 ( 8.4 ) 1.35 ( 0.93 - 1.98 ) Other heart disease53 ( 7.3 ) 94 ( 10.8 ) 1.53 ( 1.09 - 2.15 )
+Full-size table .
+Abbreviations : BC = breast cancer ; HR = hazard ratio ; CI = confidence interval .
+Values are number ( percentage ) unless otherwise noted .
+Adjusted for age at BC diagnosis , history of cardiovascular disease , and diabetes mellitus .
+International Classification of Diseases ( 9th edition ) codes 410 - 414 .
+International Classification of Diseases ( 9th edition ) codes 420 - 429 .
+View Within Article .
+Full-size image ( 16K )
+Fig 4. Survival free of cardiovascular disease by laterality , adjusted for age at breast cancer diagnosis , history of cardiovascular disease , and diabetes mellitus .
+View Within Article .
+Table 4. .
+Cox regression analysis of potential risk factors for CVD .
+VariableHR ( 95% CI ) Radiotherapy ( left vs. right ) 1.33 ( 1.01 - 1.74 ) Hypertension ( yes vs. no ) 1.39 ( 1.04 - 1.85 ) Diabetes mellitus ( yes vs. no ) 1.96 ( 1.35 - 2.86 ) Hypercholesterolemia ( yes vs. no ) 1.74 ( 1.26 - 2.40 ) Smoking : Current vs. never1.51 ( 0.96 - 2.39 ) Stopped vs. never1.39 ( 0.87 - 2.22 ) Unknown vs. never0.92 ( 0.68 - 1.24 ) History of CVD ( yes vs. no ) 2.32 ( 1.46 - 3.70 )
+Full-size table .
+Abbreviations : HR = hazard ratio ; CI = confidence interval ; CVD = cardiovascular disease .
+Adjusted for age , hypertension , diabetes mellitus , hypercholesterolemia , smoking , and history of CVD .
+View Within Article .
+Simulator films needed for MHD measurement were missing in 74 patients with left-sided BC .
+Maximum heart distance was measured in 796 patients with left-sided BC and was not evaluable in 18 cases .
+Disagreement ( 3 mm difference ) between the two observers occurred in 154 cases .
+Concordance was eventually reached in all cases .
+Mean MHD was 13.4 mm , with a range of 0 - 48 mm .
+When examining the effect of MHD ( as a proxy measure of irradiated heart volume ) on CVD risk , no significant trend of increased risk with greater MHD could be observed .
+Patients with MHD 30 mm seemed to have a higher risk of ischemic heart disease as compared with patients with smaller MHD measurements , although the numbers were too small to reach statistical significance .
+Table 5. .
+Cardiovascular morbidity by MHD measurements ( Cox regression analysis )
+Ischemic heart diseaseOther heart diseaseAll cardiovascular disease MHDPatients ( n ) EventsHR ( 95% CI ) EventsHR ( 95% CI ) EventsHR ( 95% CI ) Right731441.00531.00851.00 Left7787394139 0 mm9851.07 ( 0.42 - 2.71 ) 112.14 ( 1.14 - 4.04 ) 141.63 ( 0.94 - 2.84 ) 0 - 10 mm187151.51 ( 0.84 - 2.73 ) 191.60 ( 0.94 - 2.72 ) 291.48 ( 0.97 - 2.28 ) 10 - 20 mm325291.36 ( 0.85 - 2.19 ) 311.15 ( 0.74 - 1.81 ) 511.21 ( 0.85 - 1.71 ) 20 - 30 mm14091.03 ( 0.50 - 2.13 ) 90.77 ( 0.38 - 1.56 ) 150.81 ( 0.47 - 1.41 ) 30 mm2841.88 ( 0.67 - 5.30 ) 62.18 ( 0.92 - 5.14 ) 81.73 ( 0.83 - 3.62 )
+Full-size table .
+Abbreviations : MHD = maximum heart distance ; HR = hazard ratio ; CI = confidence interval .
+Adjusted for age , history of cardiovascular disease , and diabetes mellitus .
+11 events of ischemic heart disease in patients with missing MHD measurement .
+18 events of other heart disease in patients with missing MHD measurement .
+22 events of cardiovascular disease in patients with missing MHD measurement .
+View Within Article .
+Discussion .
+In this large , multicenter study we focused exclusively on patients treated for postlumpectomy RT with breast tangentials only and observed an increased incidence of CVD for left-sided BC compared with right-sided BC , irrespective of the volume of the heart in the radiation field .
+With respect to mortality from CVD , left- vs. right-sided RT showed a statistically nonsignificant increased risk of similar magnitude .
+Cardiotoxic effects resulting from RT have been known since publications on late side effects of treatment in patients with Hodgkin 's lymphoma ( 21 ) , ( 22 ) , ( 23 ) and ( 24 ) .
+Many cardiac disorders have been described as a result of irradiation : coronary artery disease , valvular insufficiencies , pericarditis , and cardiomyopathies .
+The basic feature of this particular tissue damage in the heart is fibrosis occurring in a dose- and volume-dependent way ( 25 ) .
+Cardiovascular mortality : comparisons between irradiated and nonirradiated patients .
+The first indications of a possible negative effect from irradiation in the treatment of BC were seen in the Oslo and Stockholm trials randomizing for postmastectomy irradiation ( 1 ) and ( 2 ) .
+A clear excess mortality from myocardial infarction ( MI ) was noticed in the irradiated group .
+A cardiotoxic effect due to various cardiac diseases was also found in two British trials ( 3 ) and ( 4 ) .
+The first meta-analysis of eight postmastectomy trials showed an increased all-cause mortality of approximately 30% in the irradiated group , whereas in an updated report the excess mortality seemed to be confined to heart disease ( relative risk [ RR ] = 1.62 for irradiated vs. nonirradiated patients ) ( 5 ) and ( 6 ) .
+The overviews of the Early Breast Cancer Trialists Collaborative Group also reported increased cardiovascular mortality in the irradiated group ( RR = 1.27 ) ( 7 ) , ( 8 ) and ( 9 ) .
+In their latest publication , the absolute reduction in BC mortality was 5% after 15 years of follow-up , against an absolute increase in non-BC mortality of 1% , resulting in a net positive effect from adjuvant RT ( 9 ) .
+In the Dutch late effects BC study , excess cardiovascular mortality resulting from RT was found in the postmastectomy population ( RR = 1.5 ) .
+In patients treated with postlumpectomy RT , cardiovascular mortality was not elevated , suggesting more favorable results from improved RT techniques ( 13 ) .
+Left - right comparisons with respect to cardiovascular mortality .
+Left - right comparisons have been made in several studies to estimate cardiac mortality caused by irradiation ; most studies concerned mixed populations of patients treated with postmastectomy and postlumpectomy RT .
+In a population-based study of the Surveillance Epidemiology and End Result ( SEER ) registries , the cardiovascular mortality ratios for patients with left-sided irradiation vs. those irradiated on the right side were 1.37 and 1.53 at 10 and 15 years of follow-up , respectively ( 12 ) .
+However , for patients treated with breast conservation in this cohort , the follow-up in the second decade after treatment was too limited to allow firm conclusions regarding the postlumpectomy group ( 10 ) , ( 11 ) and ( 12 ) .
+In addition , radiation treatment regimens included different target volumes in the time periods studied .
+Furthermore , no information was available on how many patients were also treated with internal mammary fields ; radiation of the internal mammary nodes , not only on the left but even on the right side , may cause considerable radiation doses to the heart .
+Another cause-specific mortality analysis by laterality was performed in the Swedish Cancer Registry , showing excess MI mortality in 10 year survivors ( 30% irradiated ) with BC on the left side ( RR = 1.13 ) ( 14 ) .
+In one study of patients from the Ontario Cancer Registry , exclusively postlumpectomy irradiation was analyzed .
+A higher risk of mortality from MI was observed in irradiated patients with left-sided BC ( RR = 2.10 ) , adjusted for age at BC diagnosis ( 15 ) .
+The absolute excess cardiac mortality due to irradiation in BC treatment is estimated to be as small as 1% to 2% , which renders many studies underpowered in this regard .
+With such small differences , it is not surprising that several studies come to the opposite conclusion : no excess cardiovascular mortality from RT ( 26 ) , ( 27 ) and ( 28 ) .
+Cardiovascular morbidity after RT for BC .
+Only few studies have presented data on the incidence of cardiovascular events .
+By studying cardiovascular morbidity , the number of events will be larger , enabling statistically more powerful analysis .
+Indeed , although we did not find a significant left - right difference for CVD mortality , the difference for CVD morbidity was significant .
+This corresponds to the recent findings by Harris et al. ( 16 ) , who made a left - right comparison in 961 patients treated with postlumpectomy RT and found no excess cardiac mortality in patients treated on the left side .
+However , the incidence of coronary artery disease was increased for patients with left-sided BC .
+At 20 years the survival free of MI was 95% vs. 85% for patients treated for right- and left-sided BC , respectively .
+In this study , 26% of the patients had additional radiation fields ( 14% internal mammary fields ) and 33% had chemotherapy ( 7% adjuvant doxorubicin ) ( 16 ) .
+Two other studies recently reported data on CVD incidence after RT for BC .
+Patt et al. ( 29 ) evaluated risk of ischemic heart disease , valvular heart disease , congestive heart failure , and conduction abnormalities and found no statistically significant differences in cardiac morbidity after radiation among patients who were treated from 1986 to 1993 .
+Mean follow-up was only 9.5 years , however .
+The Dutch late effects BC study ( 30 ) , on the other hand , with a median follow-up of almost 18 years , reported increased risks of MI , valvular dysfunction , and congestive heart failure after RT administered after 1980 .
+Breast irradiation only was not associated with increased risk of cardiovascular disease , but the number of patients in this study treated with breast tangentials ( n = 688 ) was probably too small to detect a potential difference in risk .
+Volume effects for risk of CVD .
+Gagliardi et al. ( 17 ) developed a normal tissue complication probability model for fatal MI based on the data from patients treated in the early Stockholm trials .
+In this model a clear volume effect was seen with three-dimensional analysis ( CT scan ) .
+However , the model was based on a limited number of patients treated with relatively old radiation techniques ( 17 ) .
+It has been assumed that the irradiated heart volume can be estimated by measuring the MHD in the irradiation beams , as shown by Hurkmans et al. ( 18 ) .
+However , no dose - volume relationship for heart disease could be established by MHD measurement in this study .
+Maximum heart distance may not be such a good indicator for actual irradiated heart volume after all , because organ motion plays a role .
+Simulator films are snapshots , and more accurate information could come from actual treatment films ( megavoltage imaging ) .
+Some megavoltage imaging data suggest that the MHD is somewhat overestimated by simulator films ( 30 ) .
+However , our data seem to exclude large differences between the MHD categories and do not support the hypothesis of a dose - volume effect at this dose level ( 25 - 50 Gy ) .
+Strengths and limitations of study .
+As far as we know , this is the largest study on risk of CVD in patients treated with breast tangentials only .
+Treatment with adjuvant chemotherapy , which may act as an independent risk factor for CVD , was excluded .
+We also had information on radiation regimens administered during follow-up ; time-at-risk ended if other radiation fields were treated in case of local recurrence or contralateral BC .
+Unlike most studies , we approached GPs actively and collected information not only for ischemic heart disease but also for other types of heart disease , as well as for cardiac risk factors .
+Follow-up was nearly complete and potentially long enough to detect differences in CVD risk between left- and right-sided irradiation .
+Analysis by laterality has the advantage of the least possible chance to introduce bias .
+Indeed , the distribution of patient characteristics between left- and right-sided treated patients was very similar for all cardiac risk factors , except for diabetes mellitus and previously diagnosed CVD .
+These were considered chance findings and were adjusted for in the Cox regression analyses .
+Unfortunately , for a considerable number of left-sided irradiations ( n = 74 ) , the MHD could not be measured because the simulator films were missing .
+However , the patient characteristics of this group were not different from the others , and conclusions concerning increased cardiovascular morbidity associated with left irradiation remained the same when left-sided cases without MHD measurements were excluded .
+A boost was given in 96% of the cases in this study population .
+Exact information in terms of cardiac dose from the boost cannot be obtained in retrospect .
+However , in two institutions the boost was given with iridium implants and in one institution with implants and electrons .
+Photon boosts were used in only two institutions in some patients .
+Detailed information on cardiac volumes irradiated to a high dose with photon boosts is missing , but the number of patients is probably low .
+It is estimated that in the majority of the patients the boost only moderately contributed to the total heart dose ( approximately 0.6 - 2.5 Gy ) .
+Because a boost was given in almost all cases , we do not consider it as a confounding factor .
+Our finding that even with an MHD of 0 mm more cardiotoxic effects occurred compared with right-sided RT may indicate that lower doses are relevant .
+In the MHD = 0 category the irradiated heart volume exposed to doses lower than 50% of the prescribed dose ( 25 Gy ) may be considerable .
+Unfortunately , we do not have data on the clearance value between the heart contour and the field border ( negative MHD ) to look for volume effects at lower dose levels .
+Some data suggest cardiac side-effects resulting from low-dose radiation ( 31 ) , ( 32 ) , ( 33 ) , ( 34 ) , ( 35 ) and ( 36 ) .
+Our findings may point in this direction but need to be confirmed .
+Alternatively , the relevant exposure parameter could also be radiation dose to the left anterior descending coronary artery , warranting further research .
+Lack of knowledge about radiation parameters determining the excess CVD risk is related to the fact that the nature of heart damage after RT is poorly understood .
+Coronary artery disease seemed to be the obvious explanation ( 37 ) , but how do we explain the increased risk for other types of heart disease , as observed in our and other data ?
+According to prospective single photon emission computed tomography studies in patients treated for BC , tangential beams induce persisting localized myocardial perfusion defects compatible with transmural microvascular damage and resulting in wall motion disturbances ( 38 ) .
+This may explain why the spectrum of heart diseases after irradiation found in our study and in many others is not limited to coronary artery disease .
+Conclusions .
+Nowadays many patients are treated with breast-conserving therapy for low-risk invasive BC and very often for ductal carcinoma in situ .
+Increased risk of CVD after left-sided postlumpectomy RT with breast tangentials , if confirmed by others , should be carefully weighed against the benefits of adjuvant RT ( 9 ) .
+Modern RT has sophisticated techniques at its disposal to treat target volumes more precisely and to spare normal tissues more effectively ( 39 ) , ( 40 ) , ( 41 ) and ( 42 ) .
+Further study is needed to establish the dose levels below which no measurable cardiotoxic side effects occur .
+Meanwhile , we suggest the application of heart-sparing techniques in the radiotherapeutic treatment of BC .
+Acknowledgments .
+The authors thank G. Besseling , M. Kuenen , G. Ouwens , A. de Mol-van der Velde , and S. Loffeld for data management .

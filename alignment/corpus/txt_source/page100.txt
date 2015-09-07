@@ -1,0 +1,151 @@
+La libération de récepteurs solubles de l' interleukine-2 ( R IL2s ) résulte de l' activation des récepteurs membranaires de l' interleukine-2 ( IL2 ) des lymphocytes T après liaison de l' IL2 .
+Le récepteur de l' IL2 est composé de trois sous-unités glycoprotéiques transmembranaires : IL-2 R ( 55 kDa ) , IL-2 R ( 70 - 75 kDa ) et IL-2 R , cette dernière sous-unité étant commune à trois autres récepteurs d' interleukines .
+La sous-unité IL-2 R ( 70 - 75 kDa ) est un constituant stable des membranes lymphocytaires alors_que la sous-unité IL-2 R ( 55 kDa ) est inductible lors_de la liaison de l' IL2  .
+Après liaison de l' IL2 à son récepteur et activation lymphocytaire , une partie de la sous-unité IL-2 R ( 55 kDa ) est libérée de la membrane et constitue alors un récepteur soluble de l' interleukine 2 ( R IL2s ) .
+Il semblerait que l' apparition de R IL2s dans le sérum soit la conséquence d' une dégradation protéolytique de la sous-unité IL-2 R , plutôt que le résultat d' un mécanisme d' épissage post-transcriptionnel  .
+Une expression élevée de IL-2 R au niveau de la membrane lymphocytaire est associée à l' élévation de la concentration de R IL2s dans le sérum .
+De ce fait , la concentration sérique de R IL2s est généralement considérée comme un marqueur de l' activation des lymphocytes T.
+Une augmentation de la concentration de R IL2s a été décrite chez les patients dans différents cancers : cancer gastrique primitif  , cancer du poumon non à petites cellules  .
+Cette augmentation a également été observée dans les cancers du sein en progression  .
+Les travaux de Lissoni et al. ont montré que les concentrations de R IL2s sont significativement plus élevées chez les patients métastasés que chez les patients indemnes de métastases  .
+Dans les hépatocarcinomes  , et dans le cancer gastrique  , certains auteurs ont montré que la durée de survie était significativement plus courte chez les patients ayant des concentrations sériques initiales élevées de R IL2s .
+Cette relation n' a pas été retrouvée par d' autres auteurs , notamment dans le cadre des cancers ovariens ou pancréatiques .
+Sharma_et_al.  ont mis en évidence une corrélation négative entre les concentrations de R IL2s et l' importance de l' infiltration lymphocytaire dans les tumeurs malignes .
+R IL2s aurait alors un effet immunomodulateur sur les lymphocytes en empêchant leur infiltration au sein de la tumeur .
+Cette corrélation négative a également été trouvée après chirurgie abdominale  , où les concentrations de R IL2s sont élevées alors_que le taux de lymphocytes T décroît .
+En outre , dans le cancer du poumon  , il semble que les concentrations de R IL2s soient plus élevées chez les patients résistants au traitement que chez les patients sensibles au traitement .
+Toutes ces observations pourraient être interprétées dans le sens d' une action antagoniste de R IL2s vis-à-vis des réponses immunitaires faisant intervenir l' IL2  .
+Au cours de la radiothérapie , il a été montré que de fortes doses d' irradiations induisaient l' apoptose des lymphocytes  .
+Il a , par_ailleurs , été constaté un accroissement de l' expression des récepteurs membranaires de l' IL2 des lymphocytes T lors d' irradiations corporelles totales à faible doses  .
+Enfin , Bussières_et_al.  ont constaté , dans le cadre de radiothérapies peropératoires de cancers abdomino-pelviens à des doses moyennes de 19,4 Gy , non_seulement une diminution de la population lymphocytaire dans les sept jours suivant la radiothérapie suivie d' un retour à la normale après 30 jours , mais_aussi une augmentation de la concentration de R IL2s essentiellement entre le 7e et le 30e jour suivant la radiothérapie .
+L' objet de notre étude était d' évaluer dans le cancer du sein les relations potentielles entre les concentrations de R IL2s sériques et les caractéristiques des patientes ou de leur tumeur , les variations de R IL2s et des lymphocytes en fonction des doses cumulées de radiations , de la présence de métastases ou de récidives locales .
+Nous avons également étudié la valeur pronostique de R IL2s vis-à-vis_de la survie des patientes .
+2. Patientes et méthodes2.1 .
+Patientes
+Nous avons mené une étude rétrospective sur 80 patientes traitées par radiothérapie entre 1993 et 1996 et pour lesquelles la concentration de R IL2s a été suivie périodiquement durant le traitement .
+Le protocole d' étude comportait une mesure de R IL2s avant la première séance de radiothérapie puis aux séances correspondant aux doses cumulées de 15,30 et 45 - 50 Gy et environ quatre mois après la fin de la radiothérapie .
+Ces 80 patientes ont été suivies entièrement dans notre centre et la totalité de leur dossier médical était disponible .
+Parmi ces 80 patientes , 64 avaient un cancer unilatéral sans métastase , sans récidive locale ou cancer controlatéral au début de la période de relevé des concentrations de R IL2s .
+Ces patientes ont reçu un traitement radiothérapique adjuvant .
+Pour 12 patientes porteuses soit d' une métastase , soit d' une récidive locale ou d' un cancer controlatéral , la radiothérapie a été utilisée à titre palliatif .
+Par ailleurs , quatre patientes ont développé une métastase , un cancer controlatéral ou une récidive locale au_cours_de la période de surveillance avec dosage de R IL2s .
+Dans notre série , 68 patientes avaient un cancer primaire au stade initial classé selon la classification UICC ( Union internationale contre le cancer ) .
+Leurs principales caractéristiques sont résumées dans le Tableau 1. La durée médiane de surveillance de ce groupe était de 3926 jours ( étendue 431 - 6945 jours ) .
+Durant la surveillance ( et au-delà_de la période de dosage de R IL2s ) , 16 / 68 patientes ( 21,6 % ) ont développé une métastase , 8 / 68 ( 10,8 % ) un cancer controlatéral , 6 / 68 ( 8,1 % ) une récidive locale et 1 / 68 ( 1,4 % ) un second cancer .
+Tableau 1.
+Caractéristiques cliniques et pathologiques du groupe de patientes ( n = 80 )
+VariableCatégoriesNombre de patientes% Non ménopausées2435,3 Ménopausées4464,7 Stade UICC057,3 I3044,1 II2739,7 III68,9 TT057,3 T13754,5 T22029,4 T311,5 T457,3 NN05175,0 N11522,0 N223,0 MM068100,0 M100,0 pT ( cm ) 23855,9 2 - 52232,3 500,0 inconnu811,8 pN03145,6 1 - 32029,4 3710,3 inconnu1014,7 Pevnon6494,1 oui45,9 Type histologiquecanalaire5073,5 lobulaire1014,7 autre811,8 Grade SBRI1930,0 II3145,7 III1217,6 inconnu710,3 Récepteurs des estrogènesnégatif1826,5 positif3247,1 inconnu1826,4 Récepteurs de la progestéronenégatif2029,4 positif3044,1 inconnu1826,6 Chimiothérapie néo-adjuvantenon6189,7 oui710,3 Thérapie adjuvanteaucune3551,5 chimiothérapie2739,7 hormonothérapie68,8
+Full-size table
+View Within Article
+À la fin de l' étude ( mars 2005 ) , 21 / 80 patientes étaient décédées , toutes de leur cancer .
+L' évaluation initiale de la maladie a consisté en un examen clinique , une ponction tumorale pour le diagnostic cytologique , une radiographie thoracique , des tests fonctionnels hépatiques .
+D' autres examens ont été réalisés en cas de tumeurs T3 et T4 .
+La classification pTNM a été obtenue après examen histologique des pièces opératoires .
+Le grade histologique SBR a été établi selon Scarff-Bloom-Richardson  .
+Les patientes présentant une atteinte ganglionnaire ont reçu après la chirurgie une chimiothérapie de type FEC ( 5-fluorouracile , épirubicine , cyclophosphamide ) .
+Les patientes présentant une poussée inflammatoire évolutive ( Pev ) ont été traitées avant la chirurgie par une chimiothérapie néoadjuvante .
+Les patientes ménopausées ont reçu du tamoxifène à titre adjuvant si leur tumeur était positive pour le récepteur des estrogènes .
+Le suivi des patientes a été réalisé avec une périodicité de quatre mois la première année , puis de six mois pendant les cinq années suivantes et enfin à un rythme annuel à_partir_de la sixième année .
+2.2. Méthodes2.2.1 .
+Dosages du R IL2s sérique
+Nous avons dosé R IL2s sérique par une méthode Elisa ( Immunotech International , Marseille , France ) .
+Cette méthode utilise des anticorps monoclonaux dirigés contre deux épitopes différents du récepteur de l' IL2 .
+L' anticorps de révélation est conjugué à la phosphatase alcaline et l' activité enzymatique liée est mesurée par addition de paranitrophénylphosphate .
+Tous les dosages ont été réalisés en double , les échantillons pour lesquels le coefficient de variation entre double excédait 15 % ont été redosés .
+Un pool de sérums était ajouté dans chaque série pour le contrôle de qualité .
+2.2.2. Méthodes statistiques
+Les méthodes statistiques utilisées pour étudier les relations entre les concentrations de R IL2s sérique et les caractéristiques des patients ou de leur tumeur ( variables nominales à plusieurs modalités ) étaient des tests non paramétriques ( Kruskal-Wallis , Mann-Whitney , Wilcoxon ) en raison du caractère non gaussien de la distribution des valeurs de R IL2s dans les cancers du sein .
+Pour étudier les corrélations entre les concentrations de R IL2s et des variables continues nous avons utilisé le test de Spearman .
+Pour les statistiques de survie univariée , nous avons utilisé la méthode de Kaplan-Meier couplée à un test de Mantel-Cox .
+Pour l' ensemble des tests statistiques , le seuil de signification retenu est p 0,05 .
+Les calculs statistiques ont été réalisés avec le logiciel Statview v .
+5.0 ( Cary NC , USA ) .
+3. Résultats3.1 .
+Distribution des concentrations de R IL2s chez les sujets normaux et choix d' une valeur-seuil
+Nous avons dosé R IL2s chez 51 sujets normaux de sexe féminin pour établir les valeurs de référence .
+La distribution des valeurs de R IL2s chez les sujets sains était gaussienne avec une moyenne de 35 pM / l et un écart-type de 15 pM / l .
+Nous avons choisi comme valeur seuil 65 pM / l , correspondant à la moyenne + 2 écarts-type .
+3.2. Relations des concentrations de R IL2s avant le début de la radiothérapie avec les caractéristiques des patientes et de leur tumeur
+Chez les 68 patientes en cours de traitement primaire , nous avons étudié les relations entre les concentrations de R IL2s avant la radiothérapie , notées R IL2s0 , et les caractéristiques de leur cancer : ménopause , stade UICC , T , pT , N , pN , présence ou non d' une tumeur inflammatoire ( Pev ) , type histologique , grade SBR , positivité ou non des récepteurs des estrogènes et de la progestérone .
+Nous n' avons observé aucune corrélation significative entre R IL2s0 et chacune des caractéristiques précitées , au seuil de p = 0,05 .
+3.3. Relations entre les concentrations de R IL2s et les lymphocytes circulants avant ou après la fin de la radiothérapie
+Ces relations ont été étudiées chez les 68 patientes au stade initial du traitement de leur cancer du sein , parmi lesquelles 31 patientes ont eu des numérations lymphocytaires contemporaines des dosages de R IL2s .
+La radiothérapie a consisté en une dizaine de séances , délivrant au total une moyenne de 44,24 2,0 Gy cumulés .
+Les dosages de R IL2s ont été effectués à intervalle réguliers , le premier dosage était effectué avant la radiothérapie , les dosages ultérieurs correspondant respectivement à une dose cumulée moyenne de 15,57 0,925 Gy et 29,3 1,52 Gy .
+Le quatrième dosage était réalisé à la fin de la radiothérapie .
+Nous avons trouvé une corrélation significative entre les concentrations de R IL2s ( R IL2 s0 ) et les lymphocytes ( Lympho0 ) avant le début de la radiothérapie ( n = 57 , p = 0.027 , Rho de Spearman = 0,42 ) .
+En revanche , après la dernière séance de radiothérapie , nous n' avons pas trouvé de corrélation entre les concentrations de R IL2s et les lymphocytes .
+Full-size image ( 22K )
+Fig. 1. Corrélation entre R IL2s0 ( pM / l ) et lymphocytes ( G / L ) avant le début de la radiothérapie ( n = 57 ) .
+View Within Article
+3.4. Variation des concentrations de R IL2s et des lymphocytes circulants au_cours_de la radiothérapie
+L' effet de la radiothérapie sur les concentrations de R IL2s et les lymphocytes est illustré dans le Tableau 2. Nos résultats montrent que la radiothérapie a pour effet de diminuer significativement le nombre de lymphocytes ( p 0,001 , Fig. 2 ) .
+En revanche , nous n' avons pas observé d' effet significatif sur les concentrations de R IL2s lorsque l' ensemble de la population de patients est analysé .
+Toutefois , lorsqu' on représente graphiquement au_cours_de la radiothérapie la variation relative de R IL2s en pourcentage par_rapport_à R IL2s avant radiothérapie , on constate la présence de deux groupes distincts de patientes .
+Un premier groupe ( groupe A ) , pour lequel la variation de R IL2s est majoritairement négative ou nulle ( variation médiane de - 7,3 % , étendue - 32 à +23 % ) , montraient un abaissement de leur nombre de lymphocytes avant radiothérapie ( lympho0 1,4 G / L ) .
+Le second groupe ( groupe B ) , présentait une variation majoritairement positive ( +7,9 % , étendue - 27 à +117 % ) de R IL2s , et avaient toutes plus de 1,4 G / L de lymphocytes avant radiothérapie .
+Dans ce deuxième groupe , on observe un effet significatif de la radiothérapie sur l' augmentation des récepteurs solubles de l' interleukine-2 ( p = 0,035 , Fig. 3 ) .
+Tableau 2.
+Distributions des lymphocytes et des concentrations de R IL2 s avant et après la radiothérapie
+Lymphocytes ( G / l ) n = 48MoyenneÉcart-typeSignificativité Avant radiothérapie1,520,5 Après radiothérapie0,70,40,001 R IL2 s ( pM / l ) n = 31MédianeMinimumMaximum Avant radiothérapie35,516,9106,4 Après radiothérapie37,9512,1126,6NS
+Full-size table
+View Within Article
+Full-size image ( 16K )
+Fig. 2. Comparaison du nombre de lymphocytes au début de la radiothérapie et après une dose cumulée de 45 Gy ( n = 31 ) .
+View Within Article
+Full-size image ( 18K )
+Fig. 3. Augmentation de R IL2s pendant la radiothérapie dans les deux groupes de patients : A ( Lympho 01,4 G / L ) ( n = 14 ) et B ( Lympho 01,4 G / L ) ( n = 17 ) .
+View Within Article
+Avant la radiothérapie , les concentrations médianes de R IL2s sont de 32,0 pM / l ( étendue 16,9 - 60,2 pM / l ) pour le groupe A et de 36,9 pM / l ( étendue 22,1 - 85,7 pM / l ) pour le groupe B. Ces deux valeurs ne sont pas significativement différentes au plan statistique .
+À la fin de la radiothérapie , les concentrations médianes de R IL2s sont de 31,6 pM / l ( étendue 14,7 - 67,4 pM / l ) pour le groupe A et de 43,2 pM / l ( étendue 32,1 - 126,6 pM / l ) pour le groupe B , et ces concentrations sont significativement différentes ( p = 0,01 ) .
+Dans le groupe B , on constate que le taux de variation de R IL2s entre le début de la radiothérapie et la dose cumulée de 15,57 0,92 Gy est quasiment nul avec une valeur médiane de - 1,3 % ( étendue - 32,6 à +35,7 % ) et qu' il reste encore stable après la dose cumulée de 29,3 1,52 Gy avec une valeur médiane de - 5,9 % ( étendue - 27,8 à +53,2 % ) , mais ne s' accroît qu' après une dose cumulée de 44,24 2,0 Gy et atteint une valeur médiane de +7,5 % ( étendue - 27,2 % à +117,2 % ) .
+Full-size image ( 21K )
+Fig. 4. Variations de R IL2s au_cours_de la radiothérapie ( n = 17 ) .
+View Within Article
+L' analyse statistique des données montre que les variations de R IL2s en fonction de la dose cumulée ne sont pas significatives jusqu' à 30 Gy mais le deviennent à_partir_de 45 Gy ( p = 0,04 ) .
+3.5. Concentrations de R IL2s chez les patientes ayant présenté une récidive de leur cancer du sein
+Au total , 538 dosages de R IL2s ont été réalisés chez les 80 patientes .
+L' âge moyen du groupe était de 53,3 10,6 ans .
+L' état clinique de l' ensemble des patientes a été classé en quatre groupes : pas d' évènement carcinologique ( cancer primaire ) , présence d' un premier événement carcinologique : récidive locale , métastase ou cancer controlatéral .
+Les concentrations de R IL2s sont significativement différentes selon l' état clinique de la patiente ( p = 0,0002 , Fig. 5 ) .
+Full-size image ( 19K )
+Fig. 5. Relation entre les concentrations de R IL2s et l' état clinique des patientes ( n = 538 ) .
+O = pas d' évènements carcinologiques , M = métastases , RL = récidives locales , S CT = cancer du sein controlatéral .
+View Within Article
+3.6. Relations entre les concentrations de R IL2s et la survie ( n = 68 )
+Les études de survie ont été réalisées après exclusion de 12 patientes présentant un événement carcinologique au diagnostic initial ( récidive locale , métastase , cancer controlatéral ) .
+L' analyse de survie univariée a été faite pour chacun des intervalles suivants : entre le diagnostic et le 1er événement quel qu' il soit et entre le diagnostic et la 1re métastase ou le cancer controlatéral , ou la récidive locale , et , pour la survie globale , entre le diagnostic et le décès .
+Nous avons séparé les 68 patientes en deux groupes sur la base de R IL2s au début de la radiothérapie ( R IL2s0 ) .
+Les calculs de survie pour les intervalles entre le diagnostic et la récidive locale ainsi_que le décès n' ont pu être réalisés en raison de l' absence d' événements dans le sous-groupe ayant une concentration de R IL2s supérieure à 65 pM / l .
+Pour les autres tests réalisables , R IL2s0 n' avait pas de valeur pronostique vis-à-vis d' un premier événement , d' une première métastase ou d' un cancer controlatéral .
+4. Discussion
+Les études du récepteur soluble de l' interleukine-2 dans les cancers ont montré des résultats contrastés .
+Dans le cancer de l' oesophage une corrélation significative à été trouvée entre les concentrations préchirurgicales de R IL2s et les caractéristiques de la patiente ou de son cancer et le stade TNM  .
+Comme Sabbioni et al. , nous n' avons pas trouvé de relation significative de R IL2s avec les données du bilan initial  .
+Cette absence de relation est probablement due au fait que les premiers dosages de R IL2s ont été réalisés après l' ablation de la tumeur primitive .
+Il a en_effet été montré que la chirurgie avait pour effet une diminution marquée des concentrations de R IL2s postchirurgicales avec un retour à des concentrations normales  .
+Cette observation suggère qu' au moins une partie du R IL2s circulant serait d' origine tumorale .
+Notre étude a montré qu' il existait chez les patientes avant la radiothérapie une relation entre le nombre de lymphocytes et les concentrations de R IL2s .
+Dans notre expérience , la concentration de R IL2s est une fonction croissante du nombre de lymphocytes .
+Si le nombre de lymphocytes est inférieur à 1,4 G / L , on note une faible variation de la concentration de R IL2s ; en_revanche , dès_que le nombre de lymphocytes dépasse 1,4 G / L , on note une relation quasi-exponentielle entre la concentration de R IL2s et le nombre de lymphocytes .
+Ce type de relation suggère que la libération dans le sang du récepteur soluble de l' interleukine-2 est due à des réactions en chaîne impliquant des lymphocytes et des enzymes protéolytiques du type métalloprotéases mises en évidence par Sheu_et_al.  .
+Il semble en_effet que les métalloprotéases libérées par les cellules cancéreuses participent à une régulation négative de la présence de récepteurs de l' IL2 sur la membrane lymphocytaire T en clivant ces récepteurs et en donnant naissance aux récepteurs solubles R IL2s  .
+La radiothérapie provoque la lyse d' une forte proportion de lymphocytes  mais son retentissement sur les concentrations de R IL2s ne s' observe , dans notre série , que chez les patientes ayant un nombre de lymphocytes supérieur à 1,4 G / l pour lesquelles taux de croissance médian est de +7,9 % .
+Cela montre que la patiente doit être dans un état d' activation immunitaire suffisant avant la radiothérapie pour_que l' on observe une élévation significative du R IL2s .
+On constate par_ailleurs qu' il faut attendre le dernier tiers de la radiothérapie pour observer un effet sur cette croissance .
+Cela pourrait signifier que la libération de R IL2s dans le sang ne s' effectue qu' après un moment de latence qui serait le reflet de l' effet cumulatif de la radiothérapie sur la lyse cellulaire .
+Un tel décalage entre la libération de R IL2s et la lyse lymphocytaire a été observé par Bussières_et_al.  .
+Après la fin de la radiothérapie , nous n' avons trouvé aucune relation entre la concentration de R IL2s et le nombre de lymphocytes .
+La radiothérapie entraîne une diminution moyenne de 54 % du nombre de lymphocytes qui n' est vraisemblablement pas directement liée au nombre initial de lymphocytes avant la radiothérapie .
+Chez les patientes présentant une récidive de leur cancer du sein , nous avons observé une élévation des concentrations de R IL2s .
+Cela confirme les résultats de Lissoni et al. dans le cancer du sein  ou de Kawashima et al. dans le cancer du poumon non à petites cellules  .
+Nous avons observé une augmentation de la concentration médiane de R IL2s sérique de 13 % lors_de métastase et de près_de 45 % lorsqu' il s' agit d' un cancer du sein controlatéral .
+Cette élévation de la concentration de R IL2s pourrait s' expliquer par une activation lymphocytaire lors_de la survenue de métastases ou de cancer controlatéral mais_aussi par la sécrétion de R IL2s par la tumeur elle-même comme le proposent Wang_et_al.  ainsi_que Huang_et_al.  .
+Sheu propose une autre hypothèse : l' induction par les cellules cancéreuses de la libération du récepteur de l' IL2 des membranes lymphocytaires T par l' intermédiaire de métalloprotéases  .
+Enfin , nous n' avons trouvé aucune corrélation entre le niveau de R IL2s sérique et la survenue d' évènements carcinologiques ou la survie globale .
+Ce constat est contradictoire avec les études réalisées dans le cadre des cancers hépatiques  ou gastriques  , où il a été montré une corrélation inverse entre le niveau de R IL2s et la survie .
+Nos résultats s' expliquent probablement par le faible nombre d' évènements observés dans notre série , lié à la proportion importante de patientes ayant des tumeurs T0 - T2 sans envahissement ganglionnaire .
+Sur le plan de la pratique clinique actuelle , la mesure des concentrations de RIL2s ne semble pas apporter d' éléments complémentaires aux explorations pratiquées actuellement dans les cancers du sein .
+Cependant , la relation entre immunité et cancer est complexe et encore mal connue .
+Elle fait l' objet de nombreux travaux en relation avec la recherche de nouvelles stratégies de traitement telles_que la vaccination par antigènes tumoraux ou l' utilisation d' anticorps antifacteurs de croissance .
+L' intérêt potentiel de R IL2s dans le cadre de ces approches thérapeutiques mérite d' être étudié

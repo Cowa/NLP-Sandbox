@@ -1,0 +1,102 @@
+En 1901 , le Docteur Danlos , de l' hôpital Saint-Louis à Paris , a l' idée d' utiliser les rayonnements émis par le radium ( découvert en 1898 par Pierre et Marie Curie ) .
+Empruntant à Pierre Curie quelques milligrammes de radium qu' il place dans une poche de caoutchouc ( aucune mesure de protection n' était prise à l' époque ) , il a obtenu des résultats intéressants contre des affections de la peau .
+Il s' agit des premiers pas de la curiethérapie .
+Jusqu' en 1920 , la curiethérapie ( utilisation du radium au contact direct des tumeurs ) était balbutiante .
+Le radium était « englué » dans un vernis déposé sur des plaques métalliques , voire sur du tissu .
+Des tubes de verre , emplis de poudre de radium , étaient implantés directement dans les tumeurs , à l' aide d' un appareillage évoquant un tire-bouchon .
+Cela a été le mérite de Jean Pierquin et Georges Richard , à la Fondation Curie , d' élaborer les tubes et les aiguilles de radium ( en fait des éléments creux , en platine , remplis de sels de radium ) .
+Le cancer du sein fut très tôt l' un des premiers champs d' investigation de la curiethérapie .
+Dès le début des années 1920 , Keynes a utilisé des aiguilles de radium implantées dans une tumeur du sein  .
+La curiethérapie du cancer du sein s' est développée de manière importante et ses indications se sont , au fil du temps , de_plus_en_plus diversifiées .
+Actuellement , la curiethérapie du cancer du sein peut se conjuguer sur plusieurs modes .
+2. La curiethérapie du sein dans tous ses états
+L' indication actuellement la plus répandue est le complément d' irradiation ( boost ) dans le lit tumoral .
+Ce complément peut se faire après une irradiation externe du sein dans sa totalité ( 45 à 50 Gy ) en utilisant une technique de bas débit de dose  , de débit pulsée  ou encore de haut débit de dose  .
+Plus rarement , ce boost peut se faire avant la radiothérapie externe .
+Dans ce cas , le matériel vecteur ( tubes plastiques ou aiguilles vectrices ) est mis en place au temps même de la tumorectomie en présence du chirurgien et du curiethérapeute  .
+L' avantage essentiel de cette approche intraopératoire est la précision balistique du boost  .
+La curiethérapie peut être utilisée seule , dans le cadre d' une irradiation partielle du sein .
+Dans ce cas , le matériel vecteur est placé le_plus_souvent pendant l' opération .
+Cette nouvelle approche donne lieu à la mise en route de nombreux essais cliniques de phases II et III  .
+Elle peut être interstitielle et de bas débit de dose  ,  , 33 ,  , la dose délivrée étant dans ce cas de 46 à 50 Gy et les débits de dose de 0,40 à 0,60 Gy / heure .
+Elle peut aussi être réalisée interstitielle et de haut débit de dose  ou « endocavitaire » avec un ballonnet ( Mammosite ) gonflé dans la cavité de tumorectomie  .
+En cas d' irradiation de haut débit de dose , les schémas bifractionnés sont les plus utilisés avec des doses par fraction de l' ordre de 3,4 à 3,6 Gy pour une dose totale de 34 à 36 Gy .
+Dans un concept similaire , la curiethérapie peut constituer le seul traitement post tumorectomie en cas de second traitement conservateur après récidive mammaire locale dans un sein antérieurement irradié chez des patientes refusant la mastectomie radicale  .
+Pour finir , la curiethérapie peut également s' inscrire dans un schéma thérapeutique ne faisant pas appel à la chirurgie .
+En effet , en cas de contre-indication opératoire ou de refus de la patiente d' une intervention chirurgicale , l' association d' une radiothérapie externe à 50 Gy de l' ensemble du sein et d' une curiethérapie interstitielle du site tumoral initial peut être utilisée  .
+3. Complément d' irradiation du lit tumoral par une technique de curiethérapie ( boost )
+Comme dans d' autres tumeurs , il a été démontré qu' une augmentation de dose dans le lit tumoral après traitement conservateur d' un cancer du sein permettait d' augmenter le taux de contrôle local ( sans pour autant modifier celui de survie sans métastase ou de survie globale )  .
+La technique la plus couramment utilisée pour délivrer ce boost dans le lit tumoral reste le faisceau direct en électrons d' énergie appropriée à l' épaisseur du volume traité .
+Cependant , considérant la curiethérapie comme restant la technique la plus adaptée pour délivrer une forte dose , dans un temps court , dans un volume réduit , avec une intensité du rayonnement la plus « modulée » , il est apparu licite pour un bon nombre d' équipe d' utiliser cette technique de boost dans le traitement conservateur du cancer du sein .
+Si sur le plan théorique , la curiethérapie pourrait apparaître , à terme , comme plus performante que l' utilisation d' une électronthérapie , il semble que les résultats en_pratique clinique soient quelque_peu différents .
+Alors que les notions de toxicité et efficacité du boost par curiethérapie ont été souvent discutées , la qualité de vie et le cot du traitement n' ont fait à ce jour l' objet d' aucune publication .
+En termes d' efficacité comparative entre boost par curiethérapie de bas débit de dose et boost par électrons , l' analyse de la littérature ne retrouve que des études rétrospectives à_l'_exception_de celle de Fourquet et al. , qui est un essai randomisé en l' absence de chirurgie .
+Si la grande majorité des ces travaux ne montre pas d' amélioration significative du taux de contrôle local , il faut noter que , outre le caractère rétrospectif de ces séries , certaines d' entre elles présentent un biais important essentiellement lié à l' âge des patientes entre les deux groupes .
+En effet , les patientes prises en charge par curiethérapie sont significativement plus jeunes que celle traitées par électrons  .
+L' essai randomisé de l' Institut Curie a comparé , chez des patientes non opérées , un boost par télécobalthérapie à un boost par curiethérapie de bas débit de dose et retrouvé un taux de récidive locale à cinq ans significativement plus faible chez les patientes traitées par implantation de fils d' iridium 192 ( 30 contre 16 % , p 0,03 )  .
+Tableau 1.
+Comparaison du taux de rechute locale à cinq ans après boost réalisé par électrons ou par curiethérapie de bas débit de dose
+AuteursStadenÉlectronTCurieTp De la Rochefordiere et al. 1992 ,  T1 - 23377 %8 %NS c Mansfield et al. 1995 ,  T1 - 2107018 % ( 10 ans ) 12 % ( 10 ans ) 0,05 Touboul et al. 1995 a ,  T1 - 23298 %5,5 %= 0,32 15 % ( 10 ans ) 8 % ( 10 ans ) - Perez et al. 1996 ,  T1 - 26196 %7 %NS Wazer et al. 1997 a ,  T1 - 22143 %4 %NS 3 % ( 7 ans ) 9 % ( 7 ans ) - Vicini et al. 1997 ,  T1 - 23854 %4 %NS 8 % ( 8 ans ) 9 % ( 8 ans ) - Collette et al. 2000 ,  T1 - 253124,5 %2,5 %= 0,09 Berberich et al. 2002 ,  T1 - 22291,5 %5 %NS Fourquet et al. 1995 b ,  T225530 %16 % 0,03 T339 % ( 8 ans ) 24 % ( 8 ans )
+Full-size table
+n : nombre de patientes , ÉlectronT : électron - thérapie , CurieT : curiethérapie , NS : différence non significative .
+a les patientes traitées par curiethérapie sont significativement plus jeunes que les patientes traitées par électrons .
+b Essai randomisé de radiothérapie exclusive .
+c NS : différence non significative .
+View Within Article
+L' étude de la littérature concernant l' efficacité comparative entre boost par curiethérapie de haut débit de dose et boost par électrons a retrouvé deux études , dont une randomisée  .
+Cette dernière étude est en fait un essai à double randomisation , la première étant faite sur la réalisation ou non d' un boost , la suivante étant basée ( pour les patientes qui ont eu le boost ) sur la technique du boost ( électronthérapie contre curiethérapie de haut débit de dose ) .
+Seule l' analyse de la série de Hammer et al. a retrouvé une efficacité significativement meilleure chez les patientes ayant bénéficié d' une curiethérapie de haut débit de dose ayant délivrée une fraction de 10 Gy  .
+Tableau 2.
+Comparaison du taux de contrôle local à cinq ans après boost réalisé par électrons ou par curiethérapie de haut débit de dose
+AuteursStadenÉlectronTCurieTp Hammer et al. 1994 ,  I - II4208,2 %4,3 % 0,04 Polgar et al. 2002 a ,  I - II1046 %8,5 %NS b
+Full-size table
+n : nombre de patientes , ÉlectronT : électron - thérapie , CurieT : curiethérapie , NS : différence non significative .
+a Essai randomisé .
+b NS : différence non significative .
+View Within Article
+La comparaison des taux de résultats esthétiques bons ou excellents entre boost par électrons ou par curiethérapie de bas débit de dose est d' interprétation délicate .
+En effet , sur les six études rétrospectives publiées , il n' a pas été retrouvé dans quatre d' entre elles , de différence significative entre les deux techniques de complément d' irradiation du lit tumoral  , Il a été trouvé dans l' étude de Touboul et al. de meilleurs résultats avec le boost par électrons ( 83 contre 62 % , p 0,001 )  et dans celle de Wazer et al. avec la curiethérapie ( 68 contre 90 % , p 0,001 )  .
+Tableau 3.
+Comparaison des taux de résultats esthétiques bons ou excellents après boost réalisé par électron thérapie ou par curiethérapie de bas débit de dose
+AuteursStadenSuiviRT ext.ÉlectronTCurieTp ( mois ) ( Gy ) Dose Gy%EBDose Gy%EB De la Rochefordiere et al. 1992  T1 - 2337364616972095NS ( 73E ) ( 79E ) Mansfield et al.1995  T1 - 210701204520952091NS Touboul et al. 1995 a  T1 - 23298045 - 50158320620,001 ( 31E ) ( 19E ) Perez et al. 1996  T1 - 27016748 - 5010 - 208110 - 2075NS Wazer et al. 1997  T1 - 25176050206820900,001 Vicini et al. 1997  T1 - 23858145 - 5015901590NS Fourquet et al. 1995  T2 - 32556157,675202071= 0,6
+Full-size table
+n : nombre de patientes , RT ext. : radiothérapie externe initiale , ÉlectronT : électron - thérapie , CurieT : curiethérapie , E ; excellent résultat esthétique , B : bon résultat esthétique , NS : différence non significative .
+a Essai randomisé .
+View Within Article
+La comparaison des taux de résultats esthétiques bons ou excellents entre boost par électrons ou par curiethérapie de haut débit de dose est rapportée dans le Tableau 4. Seul Hammer et al. ont retrouvé un résultat esthétique significativement meilleur avec la curiethérapie de haut débit de dose ( 70 vs 88 % , p 0,0001 )  , alors_que l' équipe du National Institute of Oncology de Budapest retrouvait des résultats tout_à_fait superposables  .
+Quel que soit le débit de dose considéré , les meilleurs résultats esthétiques retrouvés en cas de boost par curiethérapie pourraient s' expliquer par le « sous-dosage » relatif du plan cutané ( marge de sécurité de 5 mm entre les vecteurs les plus superficiels et la peau ) , qui ne peut être obtenu avec une électronthérapie  .
+Tableau 4.
+Comparaison des taux de résultats esthétiques bons ou excellents après surdosage boost par électrons ou par curiethérapie de haut débit de dose
+AuteursStadenSuiviRT ext.ÉlectronTCurieTp ( mois ) ( Gy ) Dose Gy%EBDose Gy%EB Hammer et al. 1994 ,  T1 - 24206050117010880,0001 Polgar et al. 2002 a ,  T1 - 2104645016831688= 0,29
+Full-size table
+n : nombre de patientes , RT ext. : radiothérapie externe initiale , ÉlectronT : électron - thérapie , CurieT : curiethérapie , E ; excellent résultat esthétique , B : bon résultat esthétique .
+a Essai randomisé .
+View Within Article
+Les données de la littérature faisant référence à l' intérêt éventuel d' un boost par curiethérapie dans le traitement conservateur du cancer du sein sont actuellement discordantes et ne permettent pas de répondre clairement à cette question .
+Néanmoins , il semble que dans un grand nombre d' études ( toutes rétrospectives ) , les auteurs ont proposé un boost par curiethérapie à des patientes qui pouvaient , au départ , présenter un risque de récidive local plus important du fait de leur âge , du statut de leur marge d' exérèse ou de la présence d' une composante intracanalaire extensive .
+Si dans ces études , les résultats n' apparaissent pas significatifs entre boost par curiethérapie ou par électrons , cela pourrait peut-être signifier que , pour des patientes atteintes de tumeur à haut risque de récidive locale , la curiethérapie permettrait d' obtenir un taux de contrôle local équivalent à celui obtenu par électronthérapie chez des patientes atteintes de tumeur à risque de récidive locale plus faible .
+Autrement dit , ne faudrait il pas réserver le boost par curiethérapie à des patientes atteintes de tumeur dont les caractéristiques histologiques font courir un réel danger de récidive locale alors_que cette technique d' irradiation complémentaire pourrait être remplacée par l' électronthérapie pour les autres patientes ?
+Des études rétrospectives  et prospectives  , ont pu démontrer l' intérêt d' un boost dans le lit tumoral après radiothérapie externe de l' ensemble du sein sur le contrôle local de la maladie .
+Cependant , les critères généralement reconnus permettant d' identifier les sous-groupes de patientes pouvant bénéficier d' un boost n' ont pas été clairement établis .
+L' âge , comme l' ont rappelé Bartelink et al. , est un facteur de risque de récidive locale conduisant à proposer à toute femme de moins de 50 ans un complément d' irradiation de 16 Gy dans le lit tumoral  , d' autres équipes considèrent comme facteurs de risque de récidive locale reconnu , un âge inférieur à 40 ans , des tranches de section chirurgicale chirurgicales atteintes ou « justes » , ainsi_que la présence d' une composante intra canalaire extensive  .
+Cependant , d' autres facteurs pronostiques de récidive locale ont été décrits , comme la taille tumorale , les emboles vasculaires , le haut grade de malignité , l' activité mitotique élevée ou la présence de carcinome lobulaire  , mais les données de la littérature à leur sujet restent encore souvent contradictoires .
+4. Questions et incertitudes
+Par delà les incertitudes en matières d' indication de la technique de boost à utiliser , la curiethérapie de complément d' irradiation dans le cadre du cancer du sein doit répondre à certaines questions qui restent fondamentales sans pour autant avoir trouvé des réponses à ce jour satisfaisantes .
+En effet , comment peut on définir avec précision le volume cible anatomoclinique ( Clinical Target Volume - CTV ) sachant qu' en curiethérapie la notion de volume cible prévisionnel ( Planning Target Volume - PTV ) n' existe pas ?
+Quelle est la marge de sécurité optimale à prendre autour_de la cavité de tumorectomie ?
+Comment doit on matérialiser le CTV ?
+De nombreuses équipes proposent de mettre en place pendant l' opération des clips permettant une meilleure visualisation du lit de tumorectomie , mais la pratique est parfois décevante  .
+Quel est limpact du recapitonage de la glande mammaire post tumorectomie pratiqué par les équipes françaises et italiennes alors_que les chirurgiens américains laissent en place une cavité dont seule la périphérie sera implantée ?
+Doit on réaliser la curiethérapie pendant ou à distance de la tumorectomie ?
+En cas de curiethérapie différée après la fin de la radiothérapie externe , les risques d' erreur de détermination des limites du volume cible du boost sont souvent importants , pouvant aller jusqu' à 52 % , voire 78 % des patientes en cas de sein volumineux  .
+Dans ce cas , certaines équipes proposent un repérage échographique du lit tumoral avant la réalisation de la curiethérapie  .
+Le contrôle qualité de l' application de curiethérapie doit lui aussi faire l' objet de toutes les attentions permettrant à chaque équipe d' analyser avec précision la qualité de la curiethérapie réalisée mais également de pouvoir comparer les résultats obtenus avec les autres équipes en tenant compte de critères précis et communs à l' ensemble de la communauté des radiothérapeutes et radiophysiciens  .
+Le rapport ICRU 58 et le système de Paris sont en ce sens des éléments incontournables  .
+5. Conclusion
+La curiethérapie reste une technique très performante , elle doit trouver sa place dans l' arsenal thérapeutique du cancer du sein en association avec la radiothérapie externe .
+Il est probable que cette technique d' irradiation soit efficace pour un sous-groupe de patientes atteintes de tumeur présentant un risque réellement important de récidive locale .
+Comment arriver à démontrer clairement son intérêt dans cette indication ?
+Faudra -t il passer par un essai randomisé de phase III tentant de montrer une augmentation significative du taux de contrôle local pour une population définie comme étant à haut risque de récidive locale ?
+Combien de patiente dans chaque bras ?
+Quel recul minimal ?
+Si un tel essai était mené , il ne pourra pas se passer d' une étude attentive de l' impact de la curiethérapie sur la qualité de vie des patientes ainsi_que son impact sur le plan médicoéconomique

@@ -1,0 +1,230 @@
+Postmastectomy radiation ( PMRT ) is indicated in selected breast cancer patients .
+Traditional indications for PMRT have included tumors 5 cm and four or more involved axillary lymph nodes ( 1 ) and ( 2 ) .
+However , the number of patients receiving this treatment is growing as newer data suggest both a local control and survival advantage in patients with even one positive axillary lymph node ( 3 ) .
+At the same time , many women wish to pursue breast reconstruction , whether or not they will undergo PMRT .
+Because the need for PMRT is determined by the pathologic stage of disease , its role in a patient 's management is often not known before definitive surgery , and the decision to proceed with immediate reconstruction may therefore be made before this information is available .
+The integration of PMRT into the overall management of patients who proceed with immediate reconstruction poses a treatment dilemma and is not well studied .
+In the mid-1990s , an empiric algorithm was developed at Memorial Sloan-Kettering Cancer Center to manage patients who were determined to need PMRT after having undergone immediate breast reconstruction with an expander-implant ( E-I ) technique .
+Figure 1 depicts the algorithm .
+The treatment begins with definitive surgery , consisting of mastectomy , axillary lymph node dissection ( ALND ) , and placement of a subpectoral tissue expander ( TE ) .
+Tissue expansion then occurs during a period of adjuvant chemotherapy .
+After completion of chemotherapy , the patient is taken back to the operating room for exchange of the TE for a permanent implant .
+Finally , radiation is delivered to the chest wall and supraclavicular fossa .
+Full-size image ( 11K )
+Fig. 1. Memorial Sloan-Kettering algorithm for integration of post-mastectomy radiation with immediate expander-implant reconstruction .
+ALND = axillary lymph node dissection .
+View Within Article .
+Radiotherapy to the immediately reconstructed breast , in particular using an E-I technique , remains highly controversial .
+Criticism of the technique has focused on three major concerns : potential for inferior cosmetic outcomes and increased complication rates , compromised radiation design , and the risk of inferior disease control due to delay in initiation of radiation .
+The first two of these concerns have been previously examined ( 4 ) , ( 5 ) and ( 6 ) .
+However , the issue of the timing of radiation in reconstructive algorithms , and the resultant disease control , is poorly studied and is the focus of this article .
+The Memorial Sloan-Kettering Cancer Center treatment algorithm incorporates a delay between the completion of chemotherapy and the initiation of radiation to allow for exchange of the TE for the permanent implant .
+The first aim of our study was to determine the actual intervals between the components of treatment in patients treated under our algorithm , to assess the actual length of the incorporated delay in our clinical practice .
+The second aim was to evaluate local , regional , and distant disease control , as well as overall survival , in patients who were treated under the algorithm , to assess whether clinical outcomes seemed to be acceptable in this group of patients .
+Methods and Materials .
+After obtaining institutional review board approval for the study , we retrospectively reviewed the charts of all patients who initiated treatment at Memorial Sloan-Kettering Cancer Center according to the algorithm depicted in Fig. 1. Patients who underwent definitive surgery between May 1996 and December 2003 were included in the initial review .
+Only patients who received all components of their treatment at our institution and who completed the entire treatment algorithm were included in the analysis .
+Data were collected regarding patient characteristics , disease characteristics , treatment details , and treatment outcomes .
+Patients were staged according to the American Joint Committee on Cancer ( 6th edition ) categories .
+All patients underwent total mastectomy ( TM ) of the affected breast and ipsilateral ALND .
+In some cases patients underwent one or more lumpectomies before TM , and some had ALND at the time of a prior lumpectomy .
+In all patients , at the time of TM , a subpectoral TE was placed by a plastic surgeon .
+One to two weeks after surgery , tissue expansion was begun under the care of the plastic surgeon , and 4 - 6 weeks after the surgery , adjuvant chemotherapy was initiated under the care of the medical oncologist .
+The length of this period depended on the chemotherapy regimen selected .
+Approximately 4 weeks after completion of chemotherapy , patients were taken back to the operating room for exchange of the TE for a permanent silicone or saline implant .
+Approximately 4 weeks after this exchange , patients initiated radiation .
+We gathered information by chart review on patient treatment , including surgery , chemotherapy , and radiation regimens .
+We examined the time intervals between the components of treatment .
+We examined clinical outcomes , including local , regional , and distant disease control , as well as survival .
+Clinical outcomes were evaluated by physical examination as well as imaging .
+Posttreatment imaging included CT scan and contralateral mammogram if applicable .
+Tumor markers were followed at the discretion of the medical oncologist .
+All failures were documented by tissue biopsy .
+We performed univariate analysis of the following factors with the outcomes of distant metastasis and survival : age ( 45 years vs. 45 years ) , T stage , N stage , extranodal extension , tumor histology ( invasive ductal vs. other ) , right-sided vs. left-sided disease , presence of vascular invasion , presence of perineural invasion , margin status , chest wall involvement , estrogen receptor ( ER ) status , progesterone receptor ( PR ) status , chemotherapy regimen ( adjuvant chemotherapy - based vs. other ) , use of hormone therapy , and interval between chemotherapy and radiation ( 8 weeks vs. 8 weeks ) .
+Survival time was defined as the time from mastectomy to the date of death or last follow-up .
+Local control was defined as the time from mastectomy to the date of local failure or last follow-up .
+Distant metastasis-free survival time was defined as the time from mastectomy to the date of distant metastasis or last follow-up .
+The survival curves were estimated using Kaplan-Meier survival methodology .
+Kaplan-Meier estimates of survival time in various groups were compared using the log - rank test .
+Results .
+Between May 1996 and December 2003 , 3578 mastectomies were performed at Memorial Sloan-Kettering Cancer Center .
+Of these , 1506 included immediate reconstruction : 1346 with TE placement , 112 with transverse rectus abdominus myocutaneous ( TRAM ) flaps , and 48 with latissimus dorsi flaps .
+A total of 192 patients who had undergone immediate TE placement were deemed to require PMRT and initiated treatment according to the algorithm described in Fig. 1. Eighty-eight patients underwent definitive surgery at our institution but received either the chemotherapy or radiotherapy component of their treatment at an outside institution .
+The remaining 104 patients received all components of their treatment at our institution and constitute our study group ; all finished treatment by March 2004 .
+Patients were selected for treatment under the algorithm by their team of treating physicians ; there were no specific inclusion or exclusion criteria for the algorithm , other than being deemed suitable for the treatment procedures .
+Table 1 and Table 2 summarize disease characteristics .
+Median patient age at time of diagnosis was 45 years ( range , 27 - 72 years ) .
+There were no cases of inflammatory breast cancer .
+No patients were treated with neoadjuvant chemotherapy .
+All patients underwent TM and ALND .
+Her-2-neu status was evaluated by immunohistochemistry in 84 patients ( 81% ) and was increased ( 3+ staining ) in 25 of these cases ( 30% ) .
+Her-2-neu was evaluated by fluorescent in situ hybridization in 48 patients ( 46% ) and was amplified in 6 of these cases ( 13% ) .
+The median number of lymph nodes dissected was 25 ( range , 4 - 50 ) .
+Table 1. .
+Tumor characteristics .
+Characteristicn ( % ) Left-sided tumor49 ( 47 ) Invasive ductal histology71 ( 68 ) Invasive lobular histology18 ( 17 ) Mixed or other histology15 ( 15 ) Vascular invasion present61 ( 59 ) Perineural invasion present10 ( 10 ) Direct skin invasion present8 ( 8 ) Chest wall invasion present1 ( 1 ) Positive surgical margin17 ( 16 ) Estrogen receptor positive80 ( 77 ) Progesterone receptor positive57 ( 55 ) Extranodal extension present42 ( 40 ) Multifocal or multicentric32 ( 31 )
+Full-size table .
+View Within Article .
+Table 2. .
+Patient staging .
+Stagen ( % ) II27 ( 26 ) IIA8 ( 8 ) T1N18 T2N00 IIB19 ( 18 ) T2N117 T3N02 III77 ( 74 ) IIIA42 ( 40 ) T1N27 T2N222 T3N15 T3N28 IIIB6 ( 6 ) T4N01 T4N13 T4N22 IIIC29 ( 28 ) T1N34 T2N317 T3N36 T4N32 .
+Full-size table .
+View Within Article .
+Adjuvant chemotherapy was administered to all patients .
+The chemotherapy was doxorubicin/cyclophosphamide / paclitaxel-based in 88 patients ( 84% ) , fluorouracil/epirubicin / cyclophosphamide-based in 11 patients ( 11% ) , and cyclophosphamide/methotrexate / fluorouracil-based in 5 patients ( 5% ) .
+Three patients received trastuzumab , 2 of whom were her-2-neu positive by fluorescent in situ hybridization and 1 of whom was positive by immunohistochemistry .
+After chemotherapy , 81 patients ( 78% ) received hormone therapy .
+Twenty-five patients ( 24% ) received tamoxifen alone , 7 ( 7% ) received aromatase inhibitors alone , and 49 ( 47% ) received a sequence of tamoxifen and then an aromatase inhibitor .
+Of the 80 patients who were ER positive , 79 received hormone therapy , and of the 24 patients who were ER negative , 2 received hormone therapy as chemoprevention .
+Adjuvant radiation was delivered to all patients .
+The indication for radiation was T3 / T4 and/or N2 / N3 disease in 79 patients ( 75% ) , extranodal extension in 11 patients ( 11% ) , large tumor 5 cm on pathology in 8 patients ( 8% ) , gross multifocality or multicentricity in 3 patients ( 3% ) , positive margin in 2 patients ( 2% ) , and two lymph nodes involved without another adverse pathologic feature in 1 patient who was treated because of a strong preference for comprehensive therapy ( 1% ) .
+Radiation was delivered to the chest wall with tangent photon beams using three-dimensional conformal radiotherapy .
+All patients but one received radiation to the supraclavicular fossa with an anterior oblique photon beam .
+The internal mammary nodes ( IMN ) were not specifically targeted with an additional electron field in any patient .
+Ten patients received a posterior axillary boost photon field .
+Median radiation dose to all fields was 5040 cGy ( range , 4500 - 6040 cGy ) in fractions of 180 to 200 cGy .
+One patient received a 1000-cGy electron scar boost ; the remaining patients did not have the scar boosted .
+A 0.5 cm bolus was used daily over the chest wall in all patients .
+Five patients terminated their treatment early because of skin desquamation ( but all patients received a minimum of 4500 cGy to the chest wall ) , and 3 patients completed chest wall treatment without the bolus for the last 2 to 3 fractions , because of desquamation .
+The intervals between the components of the treatment algorithm were also evaluated .
+These intervals are depicted in Fig. 2. The median interval between definitive surgery and initiation of chemotherapy was 5 weeks ( range , 1 - 12 weeks ) .
+The median duration of chemotherapy was 5 months ( range , 2 - 9 months ) .
+The median interval between completion of chemotherapy and exchange of the TE for the permanent implant was 4 weeks ( range , 2 - 13 weeks ) .
+The median interval from the exchange to initiation of radiation was 4 weeks ( range , 1 - 11 weeks ) .
+The median total interval between completion of chemotherapy and initiation of radiation was 8 weeks ( range , 4 - 16 weeks ) .
+The median interval from mastectomy to initiation of radiation was 8 months ( range , 5 - 14 months ) .
+Full-size image ( 13K )
+Fig. 2. Median treatment intervals in patients treated under the Memorial Sloan-Kettering algorithm for integration of postmastectomy radiation with immediate expander-implant reconstruction .
+ALND = axillary lymph node dissection ; RT = radiotherapy .
+View Within Article .
+Median follow-up from the date of definitive surgery was 64 months ( range , 11 - 122 months ) , and median follow-up from completion of radiotherapy was 55 months ( range , 3 - 114 months ) .
+Follow-up was performed at intervals of every 3 months to annually , depending on the length of time since treatment .
+Seven patients were lost to follow-up , with more than 12 months since their last follow-up visit .
+The median follow-up in those lost to follow-up was 37 months ( range , 18 - 99 months ) .
+All follow-up visits , whether performed by radiation oncologist , medical oncologist , or surgeon , included physical examination of the chest wall and regional lymph nodes .
+Follow-up also included CT scanning , contralateral mammogram if applicable , and serum tumor markers , at the discretion of the treating physicians .
+No cases of local or regional failure were detected , resulting in a locoregional disease control rate of 100% .
+Twenty patients ( 19% ) had chest wall skin biopsies for suspected local recurrence , but all of these were negative .
+Fifteen patients developed biopsy-proven distant metastases , and the 5 year distant metastasis-free survival rate was 90% ( 95% confidence interval [ CI ] , 83 - 96% ) ; when distant metastasis-free survival was considered from date of completion of radiation , the 5 year rate was 86% ( 95% CI , 78 - 94% ) .
+At last follow-up , 2 patients were noted to have rising tumor markers but had no radiographic evidence of disease recurrence .
+Five patients died , and the 5 year overall survival rate was 96% ( 95% CI , 92 - 100% ) .
+Four of these patients died from metastatic breast cancer , and 1 died of an unknown cause .
+Figure 3 depicts Kaplan-Meyer curves for locoregional control , distant metastasis-free survival , and overall survival .
+Seven patients were diagnosed with contralateral breast cancers , either synchronously or subsequent to treatment for the index cancer .
+Three patients developed subsequent non-breast cancers , 1 a contralateral stage IA lung cancer , 1 a localized melanoma of the heel , and 1 a carcinoma in situ of the cervix .
+Seven patients underwent prophylactic bilateral salpingo-oophorectomy after treatment , and 12 patients underwent contralateral prophylactic mastectomy either at the time of the original mastectomy or after treatment .
+Full-size image ( 28K )
+Fig. 3. Kaplan-Meyer curves demonstrating locoregional control , distant metastasis-free survival , and overall survival probability in patients treated under the algorithm .
+Median follow-up from time of mastectomy was 64 months .
+View Within Article .
+There were no statistically significant associations between distant metastasis-free survival and the following patient tumor and treatment characteristics : age ( 45 years vs. 45 years ) , T stage , N stage , extranodal extension , tumor histology ( invasive ductal vs. other ) , presence of vascular invasion , presence of perineural invasion , margin status , chest wall involvement , PR status , chemotherapy regimen ( adjuvant chemotherapy - based vs. other ) , use of hormone therapy , or interval between chemotherapy and radiation ( 8 weeks vs. 8 weeks ) .
+Negative ER status ( p = 0.04 ) and cancer in the right breast vs. the left breast ( p = 0.007 ) were significantly associated with a poorer distant metastasis-free survival outcome .
+Discussion .
+Postmastectomy radiation has traditionally been delivered to breast cancer patients with tumors 5 cm or four or more involved axillary lymph nodes ( 1 ) and ( 2 ) .
+However , the pathologic stage of disease , in particular the nodal staging , is often difficult to predict before definitive surgery .
+The need for PMRT , then , may not be known at the time of surgery ; however , the decision regarding immediate reconstruction must be made before surgery .
+There has traditionally been a bias against the use of PMRT in patients who undergo immediate reconstruction , and patients who were known to need PMRT before the time of surgery were discouraged from proceeding with immediate reconstruction .
+The treatment of patients who were discovered to require PMRT after surgery posed a management dilemma .
+The Memorial Sloan-Kettering Cancer Center treatment algorithm was developed as a means of managing these patients who were identified as needing PMRT only after surgery .
+However , with more recent data suggesting a survival advantage for PMRT in patients with only one to three positive lymph nodes ( 3 ) , ( 7 ) , ( 8 ) and ( 9 ) , the use of PMRT has also become more common .
+Many women also opt for reconstruction for psychosocial reasons .
+Thus , the use of PMRT in the setting of reconstruction has become more prevalent , and the ability to safely integrate PMRT into the reconstructive algorithm has become more important .
+There are a number of reconstructive options for patients who undergo mastectomy for breast cancer .
+The two general categories of reconstructive techniques are autologous tissue reconstruction and implant reconstruction .
+Autologous reconstruction most commonly involves the placement of a pedicled or free TRAM flap over the chest wall .
+With this technique , the breast mound is reconstructed using tissue from the lower abdomen , including the skin , subcutaneous fat , and rectus abdominus muscle .
+The procedure is lengthy , is associated with significant morbidity , and requires a long healing period .
+Some patients are not able to undergo this type of reconstruction because of comorbid conditions , such as obesity , diabetes , prior surgery or radiation , or collagen vascular disease .
+Smoking is considered a relative contraindication to this type of reconstruction .
+Also , thin women may not have enough tissue for autologous reconstruction .
+Therefore , many women are not eligible for autologous reconstruction or elect not to have the procedure because of its morbidity .
+Implant reconstruction , on the other hand , involves the placement of a permanent implant under the pectoralis muscle .
+This technique requires less operative time and is tolerated in a greater percentage of women ; no donor site is required .
+The reconstruction is generally performed in two stages , the initial placement of a TE , which is incrementally expanded with saline over a period of time , followed by exchange of the TE for a permanent implant .
+Both reconstructive techniques can be performed on an immediate or delayed basis .
+Immediate reconstruction is performed at the time of mastectomy , whereas delayed reconstruction is performed in a separate surgical procedure after complete healing from the mastectomy occurs .
+There are several disadvantages to immediate reconstruction .
+First , the final pathology is not known at the time of the procedure , and the role of future radiation may be unknown .
+Second , both implant and autologous tissue techniques prolong and therefore increase the risk of the surgery .
+However , many women prefer not to delay reconstruction for psychosocial reasons .
+Delayed reconstruction also necessitates an additional surgical procedure and its consequent risks .
+Furthermore , tissue expansion of an irradiated mastectomy wound is not usually possible , limiting the feasibility of E-I reconstruction when performed on a delayed basis .
+The integration of radiation with any of these techniques is complex and controversial ; American Society of Clinical Oncology guidelines conclude that there is insufficient evidence to make recommendations with respect to integration of PMRT and reconstruction ( 2 ) .
+Before discussing the implications of our study , it is pertinent to review the principal objections to PMRT in the setting of immediate reconstruction and the controversies surrounding it .
+The primary concerns expressed regarding any treatment that incorporates breast reconstruction with PMRT relate to increased complication rate and poor cosmesis .
+There is great debate as to whether autologous or implant reconstruction results in the best outcome .
+Some have concluded that TRAM reconstruction before radiation is contraindicated ; one study reports an 87% late complication rate in patients treated with TRAM reconstruction followed by radiation ( 10 ) .
+Others believe that E-I reconstruction is inferior to TRAM when combined with radiation ; a retrospective review of 48 patients who had reconstruction either before or after radiation reports a significantly increased complication rate with E-I reconstruction as compared with TRAM reconstruction ( 5 ) .
+Another study reports Grade 3 to 4 capsular contractures in 6 of 6 patients undergoing radiation with implants and concludes that adjuvant radiotherapy is a contraindication to immediate implant reconstruction from an aesthetic point of view ( 11 ) .
+However , another study of 85 patients who had PMRT either before or after reconstruction has shown an equal rate of major complications with TRAM or E-I reconstruction and concluded that PMRT can be considered in all eligible patients in the setting of either type of reconstruction ( 12 ) .
+A study of 19 irradiated patients who were reconstructed with the E-I technique examined rates of complication as well as patient satisfaction with the outcomes and showed comparable patient assessment of cosmetic outcomes in women treated with E-I reconstruction with or without radiation , though there was a higher rate of complications in irradiated patients ( 13 ) .
+These series are limited by small patient numbers and heterogeneous populations .
+Despite the fact that several articles conclude that the integration of PRMT and reconstruction is feasible , there is a wide range of conclusions drawn in the different studies , and some feel that immediate reconstruction is contraindicated in patients who may need PMRT ( 14 ) .
+In addition to cosmetic concerns , some studies have raised the concern that irradiation of the immediately reconstructed breast results in inferior quality of radiation ( 6 ) and ( 15 ) .
+These studies show that the majority of radiation plans are unsatisfactory in terms of providing broad coverage of the chest wall and IMN while adequately sparing heart and lung .
+The need to treat the IMN is controversial ; irradiation of the IMN has not been shown to confer a benefit in survival or rate of distant metastasis ( 16 ) and ( 17 ) .
+There are no data to suggest that radiation plans are compromised in cases in which the IMN are not targeted .
+Finally , the timing of the integration of PMRT into reconstructive algorithms is not well studied , and there is concern that delays in the initiation of radiation could result in inferior disease control .
+There are conflicting data regarding the significance of a delay in the initiation of radiotherapy in the setting of adjuvant chemotherapy after mastectomy ; some studies report no increase in the local failure rate if radiation is delayed in favor of delivering adjuvant chemotherapy ( 18 ) and ( 19 ) , whereas a meta-analysis did show an increased odds ratio for mortality if radiation was delayed more than 6 months from the start of chemotherapy ( 20 ) .
+In the setting of breast-conservation therapy , a delay of 8 to 12 weeks between surgery and the start of radiation in the absence of chemotherapy is acceptable ( 21 ) , ( 22 ) and ( 23 ) .
+There are no data that we are aware of to suggest an appropriate delay between chemotherapy and radiation in the setting of mastectomy and reconstruction .
+One study reports similar rates of local failure and distant metastasis in patients treated with PMRT with and without immediate implant reconstruction at a mean follow-up of 72 months , but the intervals between components of treatment were not described ( 24 ) .
+Another study reports no significant difference in the incidence of local failure or distant metastasis in patients undergoing PMRT after immediate TRAM reconstruction compared with those who did not undergo reconstruction ( 25 ) .
+The interval from surgery to radiation in this study was similar whether or not reconstruction was performed and was approximately 6 months .
+One algorithm that has been proposed to address the issues described above is delayed-immediate reconstruction ( 26 ) and ( 27 ) .
+With this approach , patients undergo skin-sparing mastectomy with placement of a fully expanded TE .
+After final pathology is available , the patient may undergo reconstruction with autologous tissue or a permanent implant if radiation is not indicated .
+If radiation is indicated , the TE is deflated , radiation is delivered , and the expander is subsequently re-expanded .
+A final autologous reconstruction is then performed .
+There are limited data on outcomes using this treatment approach , with very few reported patients having been treated with PMRT under this algorithm ( 26 ) .
+A downside of delayed-immediate reconstruction is the need for the patients who will not receive PMRT to undergo two operations requiring general anesthesia in close succession .
+If a patient does require PMRT , the algorithm involves irradiation of the TE , rather than a permanent implant .
+Although irradiation of the TE is feasible , it is not ideal , because the magnetic component of the port interferes with radiation delivery ( 28 ) .
+The other potential problem with this approach is the fact that tissue expansion after radiation is fraught with complications .
+The formation of an expander capsule after mastectomy and before radiation may allow for re-expansion , but the data on this are also limited .
+One potential advantage of the delayed-immediate algorithm in patients who receive adjuvant chemotherapy is that it likely results in a shorter time interval between completion of chemotherapy and initiation of radiation ; we are not aware of any studies specifically reporting this time interval .
+The Memorial Sloan-Kettering Cancer Center algorithm is an alternative approach to delayed-immediate reconstruction that also addresses the concerns raised regarding the integration of PMRT into the reconstructive algorithm , using E-I reconstruction rather than autologous tissue reconstruction .
+This algorithm is more widely applicable because more women are eligible for E-I reconstruction than autologous reconstruction .
+It is a more streamlined approach with fewer invasive procedures .
+We believe that our experience with this treatment algorithm is sufficient to allay the concerns raised regarding the use of PMRT in the setting of immediate reconstruction .
+Although some centers have reported inferior cosmetic outcomes with radiation to the immediately reconstructed breast with the E-I technique , our institution has published data on cosmetic outcomes and complications in a large series of 81 patients treated under our algorithm .
+Many of these patients are also represented in the present study , although there is not complete overlap : patients who received radiation at outside institutions were included in the study addressing cosmesis but not in this study .
+The patients in that study demonstrated good to excellent aesthetic results in 80% of cases , with 61% developing Grade 2 to 3 , or moderate , capsular contracture , and 6% developing Grade 4 , or severe , capsular contracture ( 29 ) .
+Seventy-two percent of patients reported that they would choose the same form of reconstruction again .
+This series includes a larger number of patients and a more homogeneous population than other published series .
+We believe that one of the reasons for the acceptable outcomes reported from our institution is the surgical technique used ; the implant is completely covered by musculofascial tissue at our center , and additional reconstruction may be performed at the time of exchange to improve cosmesis .
+More recent data from our institution continue to support the timing of radiation after immediate E-I reconstruction in terms of both short-term and long-term complications and aesthetic outcomes .
+A prospective study of 12 patients who underwent bilateral immediate E-I reconstruction and unilateral PMRT compares outcomes in the two breasts , using the nonirradiated breast as a control ( 30 ) .
+In this group , no discernible difference was identified between the two breasts in 40% , grade of contracture was increased by one grade on the modified Baker scale in 50% , and increased by 2 grades in 10% .
+Finally , data from a single surgeon 's experience with E-I reconstruction at our institution addressing early complications ( 31 ) and long-term complications ( 32 ) have been published .
+The majority of patients in these studies did not receive radiation , but they also included a small number of patients who received radiation before or after reconstruction .
+Early complications examined included skin flap necrosis , infection , hematoma , delayed wound healing , seroma , failed expansion , and expander deflation , and late complications examined included capsular contracture , rippling , and implant loss .
+An increase in early complication rate was noted in patients who underwent chest wall radiation before reconstruction but not after .
+There was no increase in early complication in patients who received chemotherapy during tissue expansion .
+In terms of long-term outcomes , there was an increase in the incidence of capsular contracture in patients who received postexchange radiation , and a decrease in overall aesthetic scores .
+These differences were considered acceptable , and successful outcomes were achievable in patients receiving radiation before or after their E-I reconstruction .
+None of these publications from our institution have reported oncologic outcomes but have instead focused exclusively on cosmetic outcomes and complications .
+The issue of radiation design in the setting of immediate reconstruction is centered around the need to include the IMN in the target volume. It is our practice to specifically target the IMN only in cases with radiographic evidence of IMN involvement or in cases when there is a high index of suspicion for their involvement .
+This is accomplished with either an additional electron field targeting the IMN or with deep tangents covering the superior aspect of the radiation field .
+Each of the two techniques used at our institution to treat the IMN in PMRT cases are designed to spare normal heart and lung tissue .
+We target the IMN in approximately 3 - 5% of our PMRT patients .
+Although none of the patients in our study had the IMN targeted with an electron field , it is possible that in some cases deeper tangent fields were selected to cover the IMN but that this was not recorded in the treatment summary .
+When the IMN are not targeted , there is minimal difficulty in targeting the chest wall while sparing normal tissue .
+The final concern with respect to irradiation of the immediately reconstructed breast is how to time PMRT in the treatment sequence .
+The Memorial Sloan-Kettering Cancer Center algorithm results in an 8 week interval between completion of chemotherapy and initiation of radiotherapy , to allow for exchange of the TE for the permanent implant and for healing from this surgical procedure .
+This is the first study that we are aware of to specifically examine disease control and time intervals in patients receiving PMRT after immediate reconstruction .
+With a median 8 week interval from chemotherapy to radiation , our disease control rates are acceptable according to all parameters , including local and regional control , distant control , and survival .
+Our disease control rates compare favorably with historical controls ; reported rates of local failure in patients treated with PMRT range from 5% to 22% , depending on the extent of disease , menopausal status , and length of follow-up , among other factors ( 3 ) , ( 7 ) , ( 8 ) , ( 9 ) , ( 33 ) , ( 34 ) and ( 35 ) .
+Our excellent control rates suggest that the 8 week delay between chemotherapy and radiation and the 8 month delay from surgery to radiation in the setting of adjuvant chemotherapy do not have a detrimental effect on local disease control .
+In combination with our previously reported acceptable cosmetic outcomes , we believe that immediate breast reconstruction after mastectomy using an E-I technique is acceptable when sequenced according to our algorithm .
+The association between ER-negative status and increased rate of distant metastasis is concordant with expected outcomes .
+We cannot explain the increased rate of distant metastasis in patients with right-sided disease , and this likely represents a statistical anomaly based on small numbers .
+This study is limited by the possibility of selection bias , relatively small patient numbers , and short median follow-up .
+Although the majority of local failures will occur in the first 5 years after treatment ( 3 ) , distant failure may occur later , and patients in our study remain at risk for both locoregional and distant failure .
+Women who were thought to have a poor prognosis due to locally advanced disease detected before surgery may have been counseled against immediate reconstruction or to undergo neoadjuvant chemotherapy , introducing a bias in our study toward patients with more favorable prognosis .
+Finally , it is possible that patients with metastatic disease do not receive as diligent surveillance for local failure as those who remain disease free ; it is therefore possible that some local failures did occur but were not documented in the group of patients who failed distantly .
+We also acknowledge that the lack of a control group in our study precludes comparison of our patient outcomes with those of patients who did not undergo immediate reconstruction .
+Despite these limitations , this report represents important evidence that our algorithm can be used as a basis for providing more women the opportunity to elect for immediate reconstruction even in the setting of PMRT .
+Conclusion .
+Mastectomy with immediate E-I reconstruction , adjuvant chemotherapy , and radiation delivered according to the Memorial Sloan-Kettering Cancer Center algorithm results in a median interval of 8 weeks from completion of chemotherapy to initiation of radiotherapy .
+The treatment algorithm results in acceptable local and regional control , distant metastasis-free survival , and overall survival at 5 years .

@@ -1,0 +1,137 @@
+Endothelin ( ET ) is a family of peptides with potent vasoconstrictive properties  .
+In addition to their role in vasoconstriction , ETs are also involved in mitogenesis , deoxyribonucleic acid synthesis and the proliferation of many cell types  .
+Four isoforms of ET have been identified in human plasma , and of those , ET-1 is the major form  .
+ET acts via its receptors , and 3 ET receptors [ ETA , ETB , ETC ] have been identified .
+ET-1 binds both ETA and ETB .
+ETs also have a role in cancer , especially as paracrine and autocrine mediators  .
+In vivo studies have demonstrated an increase in ET-1 production in several types of malignant cells , such as pancreatic , colon and breast cancer cell lines  .
+Yamashita and colleagues showed that there was a higher concentration of ET-1 in tissue from cancerous breast than in healthy breast tissue  .
+ET-1 and its receptors ETA and ETB are overexpressed in breast carcinoma  .
+ET-1 released from breast cancer cell binds ETA receptors on breast fibroblasts  .
+In vivo and in vitro studies have shown that breast fibroblasts stimulate breast cancer cells by paracrine manner  .
+Big ET-1 is a precursor of ET-1  .
+Metabolism of circulating big ET-1 and ET-1 was measured in healthy volunteers  .
+It was suggested that because of its long half-life , big ET-1 reflects the activity of endothelin system with greater sensitivity than does ET-1 itself  .
+Human breast cancer cells contain endothelin converting enzyme , which converts big ET-1 to ET-1  .
+In a few studies  the levels of ET-1 were higher in breast cancer tissues than in healthy breast tissues ; however , to our knowledge , the clinical significance of serum big ET-1 levels has not been evaluated in breast cancer patients .
+In this study , we investigated serum big ET-1 levels in patients with breast cancer and whether big ET-1 can be used as a marker of breast cancer .
+2. Patients and methods .
+The study subjects consisted of 75 female patients [ age range , 30 - 83 years ; median age , 48 years ] with histologically confirmed invasive ductal carcinoma of the breast and 20 healthy female controls [ age range , 30 - 52 years ; median age , 47 years ] .
+The subjects with breast cancer were divided into 3 groups according to the clinical presentation of their disease .
+The fourth group consisted of healthy controls .
+Group A subjects [ n = 26 ] were patients with primary breast cancer that had not metastasized .
+Serum samples from those patients were collected before the initiation of a specific therapy or surgical intervention .
+All patients in group A had undergone modified radical mastectomy .
+Excised tumors were classified according to tumor-nodes-metastasis system [ Table 1 ] .
+In group A , the subgroups were classified according to tumor size [ T1 : tumor size 2 cm , T2 : tumor size 2 cm ] , lymph node status [ N0 : node negative , N1 : node positive ] , and receptor status [ R0 : estrogen - progesterone receptors [ ER / PR ] negative , R1 ; ER / PR positive ] [ Table 1 ] .
+Table 1. .
+Characteristics of subjects with newly diagnosed nonmetastatic primary breast cancer .
+Group ANo. of patientsPercent Total26100 Stage Stage I519.2 Stage IIA830.3 Stage IIB1038.4 Stage IIIA311.6 .
+Tumor size T1 2 cm830.7 T2 2 cm1869.3 .
+LN status LN+ [ N0 ] 1142.3 LN [ N1 ] 1557.7 .
+Receptor status ER / PR+ [ R0 ] 934.6 ER / PR [ R1 ] 830.8 ER / PR unknown [ Rx ] 934.6 .
+Full-size table .
+ER / PR , Estrogen receptor / progesterone receptor status .
+View Within Article .
+Group B [ n = 33 ] consisted of patients with metastatic breast cancer .
+In that group , all patients ( except for 4 who had metastatic disease at diagnosis ) had undergone modified radical mastectomy and had received adjuvant chemotherapy , radiotherapy , and hormone therapy or a combination of those treatments .
+These subjects had progressive disease .
+Serum samples were collected before the initiation of a new chemotherapeutic regimen .
+Group B patients were subgrouped according to the site of metastasis. [ V1 : visceral metastases , V2 : local or bone metastasis ] [ Table 2 ] .
+Table 2. .
+Characteristics of subjects with metastatic breast cancer who had been treated for their disease .
+Group BNo. of patientsPercent Total33100 Initial stage IIA39 IIB1545.5 IIIA824.3 IIIB39 IV412.2 .
+Treatment Mastectomy2987.8 Neoadjuvant chemotherapy721.1 Adjuvant chemotherapy2884.8 Radiotherapy2884.8 Hormonal therapy1545.5 .
+Metastatic site Bone1854.4 Pulmonary1751.1 Liver1133.3 Local618.1 Brain13 Visceral metastasis [ V1 ] 2575.7 Bone / Local metastasis [ V2 ] 824.3 .
+Full-size table .
+View Within Article .
+Group C [ n = 16 ] consisted of off-therapy patients who had undergone modified radical mastectomy , and had received chemotherapy , radiotherapy , hormonal therapy or a combination of those treatments [ Table 3 ] .
+Their cancer had been in complete remission for 5 years .
+Group D [ n = 20 ] consisted of healthy controls .
+Table 3. .
+Characteristics of off-therapy subjects whose breast cancer had been in remission for at least 5 years .
+Group CNo. of patientsPercent Total16100 Stage Stage I212.5 Stage IIA531.25 Stage IIB637.5 Stage IIIA318.75 .
+Treatment Mastectomy16100 Neoadjuvant chemotherapy212.5 Adjuvant chemotherapy1381.25 Radiotherapy318.75 Hormonal therapy425 .
+Full-size table .
+View Within Article .
+3. Laboratory examinations .
+All blood samples were collected in specimen tubes containing ethylenediaminetetra-acetic acid [ EDTA ] and were centrifuged .
+Plasma supernatant was stored at 80 C. Plasma levels of big ET-1 were measured with an enzyme immunoassay kit [ Phoenix , Belmont , California , USA ] .
+4. Statistical analysis .
+SPSS , software [ Statistical Package for the Social Sciences , version 10.0 , SSPS Inc , Chicago , Ill , USA ] was used for statistical analysis .
+The results were expressed as the median value with the standard deviation .
+The Chi-square and Mann - Whitney U tests were also used .
+Differences among the groups were determined with the Mann - Whitney U test .
+A P value of less than .05 was considered statistically significant .
+5. Results .
+The median serum big ET-1 levels of the 75 patients with breast cancer [ 10.96 1.36 ng / ml ] were statistically significantly higher than those of controls [ 8.97 1.55 ng / ml P = .00 ] [ Table 4 ] .
+The median serum big ET-1 levels of group A was 11.56 .78 ng / ml were statistically significantly higher than those of controls [ group D ] , off-therapy patients [ group C ] or patients with metastatic disease [ group B ] [ 8.97 1.55 ng / ml , 9.76 1.52 ng / ml , 10.83 1.18 ng / ml respectively , P = .00 ] [ Table 5 ] .
+In patients with a primary tumor in group A , the serum big ET-1 levels did not differ with statistical significance according to tumor size [ T1 : tumor size 2 cm , T2 : tumor size 2 cm ] axillary node involvement [ lymph node [ LN ] ] or receptor status [ R0 : Receptors negative R1 : Receptors positive ] [ P .05 , Table 5 ] .
+In group B the median serum big ET-1 levels were statistically significantly higher than those in of controls or off-therapy patients. [ P .05 ; Table 5 ] .
+In group B , the big ET-1 levels of the patients with visceral metastasis [ GroupB-V1 ] , did not differ from those of patients with bone or local metastasis [ GroupB-V2 ] .
+No statistical significance in big ET-1 levels was observed between off- therapy patients and controls [ P .05 ] .
+Table 4. .
+Big ET-1 levels in subjects with breast cancer patients and in controls .
+Groups studiedNo. of patientsMedian age [ year ] Big ET-1 ng / mL Breast cancer patients7548 [ 30 - 80 ] 10.96 1.36 Controls2047 [ 30 - 52 ] 8.95 1.55 .
+Full-size table .
+P = .00 .
+View Within Article .
+Table 5. .
+Serum Big ET-1 levels of each group studied .
+Group designationSubgroups designationNo. of patientsBig ET-1 level [ ng / mL ] Group A2611.56 0.78 Tumor size 2 cmT1812.14 0.90 Tumor size 2 cmT21811.53 0.74 Axillary node negativeN01111.53 0.66 Axillary node positiveN11511,81 0.85 ER / PR negativeR0911.50 0.84 ER / PR positiveR1812.32 0.71 .
+Group B3310.83 1.18 Visceral metastasisV12510.90 1.29 Bone or local metastasisV2810.71 0.77 .
+Group COff-therapy169.76 1.52 .
+Group DControls208.97 1.55 .
+Full-size table .
+P = .00 ER / PR , Estrogen receptor / progesterone receptor status .
+View Within Article .
+6. Discussion .
+Several pre-clinical and clinical studies in patients with any of a variety of malignancies suggest that ET system influences tumor growth and progression  .
+Women with breast cancer have been shown to exhibit statistically significantly higher expression of ET-1 than do woman without breast cancer  .
+ET-1 staining of ductal carcinoma in-situ had intensities between carcinomas and normal breast cancer  .
+Although the physiological role of ET-1 in human breast cancer has not been well defined , increased tissue levels of ET-1 have implications for tumor growth and cell proliferations .
+ET acts via its receptors ; ETA and ETB .
+Recently Wlfing and colleagues detected elevated levels of ET-1 in 43.1% of primary breast cancer  .
+Furthermore , 46.5% of breast carcinomas were ETA receptor positive and 53.4% of breast carcinomas showed ETB receptor positivity .
+However , previous studies showed ET receptors presence was shown only on the breast fibroblast and stromal cells  .
+ET-1 is a mitogenic factor for breast fibroblast  .
+On the other hand , breast fibroblast can stimulate the proliferation of breast cancer cells by secreting insulin like growth factor I and II , which are mitogenic for breast cancer cells  .
+Big ET-1 is the biological precursor of ET-1 .
+Big ET itself has no known physiological activity .
+It was recently demonstrated that human breast cancer cells express endothelin converting enzyme , which converts big ET-1 to ET-1  .
+In the breast the conversion of big ET-1 to ET-1 contributes to the paracrine-stimulated growth of breast fibroblast  .
+Big ET-1 has a half-life of 23 min  and is mainly eliminated from kidney and liver  .
+Plasma half-life of big ET-1 is much longer than that of ET-1 in man .
+Furthermore , ET-1 secretion by endothelial cells is from the basolateral compartment where it is avidly bound ; circulating ET-1 levels may underestimate local concentrations  .
+Thus , for investigation of the secretory activity of the ET-1-system , measurements of big ET-1 levels may be a better approach .
+We showed elevated serum big ET-1 levels in female patients with breast cancer .
+This finding suggests that presence of the tumor causes an increase in plasma big ET-1 levels .
+Yamashita and colleagues found no correlation between factors prognostic for the breast cancer such as tumor size , lymph node or hormone receptor status and the ET-1 level  .
+In our study , we also found no association between those factors and serum levels of big ET-1 in the subjects with breast cancer .
+Lack of correlation between plasma big-E and tumor size can be explained by a difference in the production and secretion rate of ET in the individual tumor .
+Serum big ET levels were measured in patients with hepatocellular cancer ( HCC )  .
+Plasma levels of big ET were found elevated in those patients .
+Successful tumor embolisation resulted in a decrease in circulating big ET-1 levels .
+On the other hand recurrences of HCC were accompanied with increased plasma big ET-1 levels .
+Raised levels of big ET-1 have been demonstrated in the plasma of patients with colorectal cancer and the principal source of this increased production has been localized to epithelial cancer cells  .
+In colorectal cancer patients with liver metastases have significantly higher levels of big ET-1 than those of localized disease  .
+In contrast to others , in our study , patients with primary nonmetastatic breast cancer had higher serum levels of big ET-1 than did patients with metastatic disease [ all of whom had undergone mastectomy and / or has received chemotherapy ] .
+This difference may be due to local therapy and systemic antineoplastic given for the treatment of breast cancer .
+In the other studies big ET-1 levels were measured in newly diagnosed patients with metastatic disease before the initiation of any treatment ; surgery or chemotherapy .
+However in the present study , our patients with metastatic disease had already received treatment for their disease and serum samples were collected after the diagnosis of metastasis .
+Serum big ET-1 levels of off-therapy patients were less than those of metastatic .
+This data suggests that big ET-1 levels seem to change with the treatment .
+ET-1 affects the metastatic potential of cancer cells by stimulating angiogenesis  .
+Recently , Wulfing and colleagues showed that in breast cancer tissues ET-1 , and ETA- ETB receptor expression is correlated with vascular endothelial growth factor expression and angiogenesis  .
+The role of ET-1 in metastasis was demonstrated in a study in which tumor-produced ET-1 induced osteoblastic metastasis in a breast cancer cell line via ETA receptors  .
+In that investigation , the blockage of ETA receptors inhibited osteoblastic metastasis in a breast cancer cell culture .
+In our study , patients with metastatic breast cancer had higher serum big ET-1 levels than did controls .
+However , no difference was found in the serum big ET-1 levels in patients with bone , local or visceral metastasis , perhaps because of the small number of patients in each group .
+In addition to their role in tumor growth and metastasis , ET-1 and ET receptors may predict the prognosis of patients with any of several types of cancer .
+In patients with nonsmall cell lung carcinoma , ET-1 expression was associated with a poor prognosis  .
+In another study of patients with breast cancer ET-1 , ETA-ETB receptor expression was correlated with lower disease free and overall survival  .
+Mai and colleagues suggested that in patients with pretreatment big ET-1 levels may be prognostic for posttreatment failure in patients with advanced nasopharyngeal carcinoma  .
+In conclusion , statistically significantly elevated serum big ET-1 levels were found in our subjects with primary or metastatic breast cancer .
+Local and systemic treatment may affect the big ET-1 levels in patients with breast cancer .
+The serum big ET-1 levels seemed to be a sensitive indicator of ET-1 activation in patients with breast cancer .
+Further studies are warranted to elucidate the prognostic importance of big ET-1 in female patients with breast cancer .

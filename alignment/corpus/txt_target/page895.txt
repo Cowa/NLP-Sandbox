@@ -1,0 +1,337 @@
+The process of data mining is to find patterns and relationships in the data .
+A relatively large amount of data on cancer patients has been collected over the last few years , but the results of data mining are directly affected by the quantity and quality of the data .
+The Nobel price winner Joshua Lederberg stated : Data are the building blocks of knowledge and the seeds of discovery .
+They challenge us to develop new concepts , theories , and models to make sense of the patterns we see in them  .
+Successful application of data mining to cancer patient data can result in new knowledge which can assist in cancer diagnosis and in the choice of treatment .
+More than one million people were diagnosed worldwide with breast cancer in the year 2000 , according to the International Agency for Research on Cancer 's ( IARC ) extensive databases ( Ferlay , Bray , Pisani , Parkin , 2004 ) .
+The number of new cases has been increasing for the last few decades , especially in the western part of the world .
+In Iceland , the number of newly diagnosed patients has been steadily increasing since 1958 , whilst the number of patients dying of breast cancer has remained nearly the same ( Jonason Tryggvadottir , 2004 ) .
+Survival at five years after the initial diagnosis has changed from being less than 50% during the years 1959 - 1963 to about 85% during the years 1994 - 1998 , making the prognosis of patients with breast cancer one of the best among all cancers .
+The purpose of this study was to build a Predictive Outcome Model ( POM ) that could accurately classify newly diagnosed patients into either of the following two classes : no-event and recurrence-event of cancer , five years after diagnosis .
+The research is based on a data set Rose , which was assembled in cooperation with the Cancer Centre of Research and Development at the University Hospital in Iceland , during the years 1996 - 1998 .
+The Rose database includes a relative small number of instances ( 257 ) but a large number of features ( 400 ) .
+The features that could be used for this study had to be facts collected from the time when the patient was first diagnosed and treated .
+In clinical practice , patients are classified into risk groups when diagnosed with breast cancer .
+It was therefore of interest to be able to conduct an experiment where the result of the classifier model would be compared to the results obtained from the clinical practice .
+This resulted in the introduction of a new three-valued feature named Risk to the Rose dataset .
+The Risk feature was the estimate , evaluated by a doctor , of the risk for a newly diagnosed patient to show marks of the disease within five years of diagnosis .
+The medical doctor grouped the patients into three risk groups : high , intermediate or low risk of recurrence .
+It was expected that the performance of the POM could be improved by adding this feature to the data set .
+A secondary objective was to use the specialist 's risk estimate for each patient as a class attribute to see whether the POM could simulate the pattern implicitly used by the medical doctor for estimating this risk .
+For the prediction , a POM was built from a training set of instances , whereas each instance was characterized by some set of given features .
+Building a valid and reliable POM can both be difficult and time consuming .
+Firstly , the modeller needs to clean the data , and select the most appropriate features and class attribute .
+Secondly , the data instances which the learning process will be based upon have to be chosen , and a learning method has to be selected from a range of algorithms currently available .
+Finally , the modeller needs to assess the reliability of the obtained results .
+Herein , a Model Selection Tool ( MST ) was constructed in order to ease the process of building an effective POM .
+As already mentioned , the resulting POM was to be used to predict the five years outcome for a newly diagnosed breast cancer patient using appropriate information about the patient .
+This tool was implemented on top of the data mining package WEKA ( Witten Frank , 2000 ) .
+An important aspect of the study was to gain better understanding of the relative importance of the features included and to prepare the data for the data mining task .
+Specific questions that were addressed are how many and what type of features have to be selected to reach a satisfactory prediction , whether there is a learning algorithm that is significantly better than others for this type of data , and whether a subjective evaluation from a doctor has a marked influence on the results .
+2. Brief review of related work .
+Lee and co-workers ( 1999 ) used a linear support vector machine ( SVM ) to extract 6 out of 31 features from a data set including 253 breast cancer patients .
+The data set , WPBCC ( Wisconsin Prognostic Breast Cancer Chemotherapy database ) , is publicly available ( Wolberg , Lee , Mangasarian , 1999 ) and contains features which were obtained before and during surgery .
+Their classification was based on dividing the patients into those with node-negative disease ( no lymph nodes metastases ) and node-positive disease ( with lymph node metastases ) patients .
+The patients were clustered into three prognostic groups : good ( node-negative ) , intermediate ( 1 - 4 lymph node metastases ) and poor ( more than 4 lymph node metastases ) , whereas each group had a distinct survival curve .
+Based on the 6 selected features , the model could be used to assign new patients to one of the three prognostic groups with its associated survival curves .
+In 2003 , Lee , Mangasarian , and Wolberg ( 2003 ) improved their cluster selection method even further , resulting in a classifier that could classify the breast cancer instances into the same three survival categories with 82.7% accuracy .
+Fung , Mangasarian , and Shavlik ( 2001 ) carried out numerical tests on the WPBCC data set with a 60 month cut off for predicting recurrence or no recurrence of breast cancer .
+They used a support vector machine and reported a test accuracy of 66.2% using 10 fold cross validation .
+Another publicly available data set containing information about breast cancer is the Breast Cancer Data Set ( Zwitter Soklic , 1988 ) originally collected at the University Medical Center , Institute of Oncology , Ljubljana , Slovenia .
+The outcome classes were no-event and recurrence-event .
+The accuracy obtained was between 62% and 78% using different classification methods  .
+Tsai , King , and Higgins ( 1997 ) used an expert-guided decision tree to classify this data set .
+Their result ( maximum 71.4% accuracy ) indicated that an expert-guided approach was comparable to the optimal inductive learning approach .
+Both the WBPCC and the Breast Cancer Data Set have been widely used for comparing different classifiers .
+Pendharkar , Khosrowpour , and Rodger ( 2000 ) applied a Bayesian network classifier and a data envelopment analysis ( DEA ) to a dataset collected from breast cancer patients in a large hospital in Pennsylvania , in order to discover patterns in the data .
+The result of their experiments indicated that DEA and Bayesian network classifier outperform statistical linear discriminates analysis .
+Pendharkar , Rodger , and Yaverbaum ( 1999 ) had previously shown that data mining can be used for breast cancer diagnosis .
+Delen , Walker , and Kadam ( 2005 ) reported a 91.2 - 93.6% accuracy using artificial neural networks and decision tree respectively on a large dataset containing more than 200,000 cases collected from the years 1973 - 2000 .
+This prediction accuracy is the best reported in the literature so far , and the size of this dataset is about 1000 times bigger than the size of other datasets reported .
+The outcome classes were defined as any incidence of breast cancer where the person is still living after 60 months ( 5 years ) from the date of diagnosis .
+The remainder of this paper is organized as follows .
+In Section 3 , the feature selection process is presented .
+The different classification algorithms used will be reviewed in Section 4. Testing methods and measures of testing performance of different classifiers are described in Section 5. The Section 6 presents the experimental design .
+Result using real medical data from the Rose database is presented in Section 7. Discussion and conclusion follow in Sections Sections 8 and 9 respectively .
+3. Feature selection .
+The quality of data is important for data mining projects and a number of quality indicators can be used .
+Accuracy and consistency are the two most important indicators of data quality .
+The definition of each feature in the database should be analyzed .
+If a feature is not sufficiently well defined , the definition has to be corrected or improved , otherwise it should be deleted from the database .
+As a result , modelers are likely to exclude or redefine many features from the database .
+It is a known rule of thumb from statistics that the number of instances should be exponential number of used features  .
+The rule is not quite as clear in data mining , but the fewer the input features are for a classifier , the simpler the resulting classifier model will become and the chance of overfitting decreases which in turn enhances the usefulness of the model as a prognostic tool .
+When the choice of features is too large , a great effort is usually put into considering how the number of features can be reduced. ( Wieschaus Schultz , 2003 ) .
+As reported by Sebban and Nock , the goal of feature selection methods is to : reduce the cost and complexity of classifiers ; improve model accuracy ; and improve the visualization and comprehensibility of induced concepts .
+One way of selecting relevant features from a database , is to select them based on their estimated importance .
+A rating scheme is constructed that is used to evaluate the quality and relevance of the features .
+A wide range of automatic feature selection methods are also available .
+Either way , the size of the data can be reduced significantly and irrelevant features deleted from the data .
+The aim of the feature selection part of this study was to use MST to identify the dataset containing the smallest number of non-redundant features which gave the best results .
+4. Algorithms used for classification .
+A variety of learning algorithms can be used for classification .
+Amongst the most commonly applied classifiers are the Naive Bayes ( NB ) algorithm ( John Langley , 1995 ) , the decision tree ( J48 ) algorithm  along with a wide variety of meta algorithms .
+A meta algorithm is an algorithm that combines results from other so-called base classifiers .
+The Naive Bayes , ( NB ) , algorithm is based on Bayes Theorem  and is a well-known and simple probabilistic classifier widely used for real data sets .
+The NB algorithm is fairly insensitive to the number of features used and can be applied to all types of features. ( Witten Frank , 2000 ) .
+For the implementation of the MST tool , we used the WEKA ( Waikato Environment for Knowledge Analysis ) software to gain access to different classifiers ( Witten Frank , 2000 ) .
+WEKA includes several standard machine-learning methods which enables the user to apply machine learning to derive useful knowledge from databases that are too large to be analyzed by hand .
+Machine learning algorithms differ in the way they use the features in the data set .
+Most of them are designed to learn the most appropriate features and ignore irrelevant or redundant features .
+The performance of a classifier can in practice be improved by feature reduction .
+An example of a type of algorithm that does not use all possible features is the decision tree algorithm .
+It uses relevant features and ignores irrelevant ones by testing performance values of selected features but even this algorithm can be improved by reducing the amount of features ( [ Witten and Frank , 2000 ] and [ Hall , 1999 ] ) .
+The simple Naive Bayes ( NB ) classifier was used in this study as a reference algorithm for other algorithms to be benchmarked against .
+NB works well when tested on actual data sets and has often outperformed more sophisticated ones .
+The design of NB assumes that all features are independent of one another .
+If redundant features are present or there are dependencies between features in the data set , the results can be misleading .
+The result of reducing irrelevant or redundant features shows up in better performance of the NB classifier ( Witten Frank , 2000 ) .
+5. Testing and measuring performance of different classifiers .
+Each time a model is constructed and trained , it is important to test it for validity and reliability .
+When training and testing is performed on the same data set , the result is usually optimistic since the training algorithm learns all the records involved .
+Therefore , it is better to use an independent supplied test set for testing .
+Both training and test data are assumed representative samples of the data set and should not differ in nature .
+Generally , the larger the training data set , the better classifier can be built and the more accurate the error estimates are .
+Good error estimates can be hard to achieve for small data sets .
+Cross validation is a repeated holdout procedure for testing .
+The splitting can be stratified or not .
+Stratification means that each class is represented with approximately same proportion of instances in all subsets .
+Using stratified cross validation with 10 groups , has become a standard method for evaluation ( Witten Frank , 2000 ) .
+All the training - testing methods mentioned above can be used in the MST .
+The 10 fold cross validation is most common and is claimed to give the most reliable results ( Witten Frank , 2000 ) .
+When comparing two learning schemes , some measure of evaluating performance has to be introduced .
+One common measure in the literature ( Chawla , Bowyer , Hall , Kegelmeyer , 2002 ) is accuracy defined as correct classified instances divided by the total number of instances .
+Multiplying this value with 100 gives the Percent Correct ( PC ) classification value .
+In addition to the PC value , the MST includes the Kappa parameter ( [ Cohen , 1960 ] and [ Eugenio and Glass , 2004 ] ) , the True Positive rate ( TP-rate , Sensitivity ) and the True Negative rate ( TN-rate , Specificity ) , the Receiver Operating Characteristic ( ROC ) and the Area Under the ROC Curve ( AUC ) , which is an accepted performance metric for the ROC curve  .
+The remaining subsections of this section will explain these methods in further detail .
+5.1. TP-rate and TN-rate .
+For interpretation of the result of a classifier , a confusion matrix can be calculated for each classifier .
+The confusion matrix is a simple table , as shown in Table 5 where the upper row shows the actual result for the positive class and the lower row shows the result for the negative class .
+The reliability of a test can by estimated by calculating sensitivity and specificity .
+The sensitivity is equal to the true positive rate : TP-rate = Sensitivity = TP/ ( TP + FN ) .
+The specificity is equal to the true negative rate : TN-rate = Specificity = TN/ ( TN + FP ) .
+In an imbalanced data set with two classes including high proportion of false records , the values in the confusion matrix are highly dependent on the number of instances in each class .
+A classifier showing high TN values can show low TP values and vice versa .
+A good prediction model in medicine should result in as low FN values as possible so few patients from the true class ( the sick patients ) will be missed .
+The TP-rate should further be high .
+However , a model predicting all instances as true , resulting in TP-rate = 1 and TN-rate = 0 is of no value .
+Thus , if TP-rate is used as a measure of performance , TN-rate or FP ( false positive ) -rate ( 1 TN-rate ) should also be used .
+5.2. Kappa .
+The Kappa parameter measures pair wise agreement between two different observers , corrected for expected chance agreement .
+The value 1.0 for Kappa signifies complete agreement between the classifier and the real world .
+The Kappa value is calculated using the two-class confusion matrix shown in Table 5. The Kappa values can be calculated from following equation :
+whereas N is the total number of instances used .
+P ( A ) is the percentage of agreement ( e.g. , between the classifier and the underlying truth ) and P ( E ) is the chance agreement .
+Whereas K = 1 indicates perfect agreement , K = 0 indicates that there is no agreement other than that which would be expected by chance .
+K = 1 means perfect disagreement .
+Eugenio and Glass list two main ways in which P ( E ) should be calculated .
+In practice , the two computations of P ( E ) give similar results as the formula used in this study .
+Kappa values can also be calculated for the case when the class attribute has more than two values , so that we get an n n confusion matrix with n 2. .
+Krippendorff 's ( 1980 ) scale discounts kappa 0.67 and allows tentative conclusion when 0.67 Kappa 0.80 and definitive conclusion if Kappa 0.80. Rietveld and Hout consider Kappa values between 0.2 and 0.4 as indicator of fair agreement and Kappa values 0.41 Kappa 0.6 as indicating moderate agreement and values 0.61 Kappa 0.80 as indicating substantial agreement .
+5.3. ROC and AUC .
+An alternative method for comparing the performances of different classifiers is to evaluate the Area Under the Receiver Operating Characteristic ( ROC ) Curve , AUC .
+ROC curves are plots where the observed TP-rate ( Sensitivity ) is plotted as a function of FP-rate ( 1 - Specificity ) for all possible thresholds .
+The AUC ( area under the ROC curve ) is a measure of the difference between two class distributions and can be used for comparing the quality of a classifier or comparing class probability.  and  have generalized the calculation of AUC for multiple class classification problems .
+ROC analysis is related to cost / benefit analysis of diagnostic decision-making and has been used in medicine for many years .
+Only recently it has been used for estimating the result of data mining experiments .
+ROC analysis provides tools to select the best models independently of the class distribution .
+Furthermore , AUC has been shown to be a better evaluation measure than accuracy in contexts where misclassification includes costs and / or with imbalanced datasets ( [ Hand and Till , 2001 ] , [ Fawcett , 2004 ] , [ Bradley , 1997 ] and [ Lachiche and Flach , 2003 ] ) .
+5.4. Kappa versus ROC and AUC .
+There is no obvious relationship between the Kappa and AUC , since AUC is a measure of ranking ability ( rank-based ) and Kappa is a measure of hard classification agreement ( categorical ) .
+Manel , Williams , and Ormerod ( 2001 ) found that , in practice , the Kappa parameter was highly significantly correlated with AUC and concluded that Kappa provided a simple and effective test of predictive performance .
+6. Experimental design .
+In this study a tool was built to keep track of the preparation of the dataset and the training and testing process for modelling algorithms used .
+A small breast cancer dataset was used in the data mining process .
+6.1. The model selection tool .
+The Model Selection Tool ( MST ) , was implemented on top of the Weka package and incorporates the following six steps:1 .
+Analyze and preprocess the features in the database and assess the correctness of the data .
+2. Define the class attributes , which divides the set of instances into the appropriate classes .
+3. Extract potential features to be used for classification .
+Select a subset of features to be used in the learning process .
+4. Investigate a possible imbalance in the selected data set and how it may be counteracted .
+Select a subset of the instances , i.e. the records that learning is to be based on .
+5. Choose a classifier algorithm for the learning process .
+6. Decide on a testing method to estimate the performance of the selected algorithm .
+The MST includes the choice of seventeen different classifiers in step five .
+Table 4 lists the names of each of the 17 classifiers along with a short description .
+The classifiers are grouped into the following 6 groups : Bayes , Trees , Functions , Meta , Rules and Miscellaneous , as shown in Table 4. All 17 algorithms can deal with binary and multi-class target features , numeric and nominal features and missing values.The 10 fold stratified cross validation procedure was the default method used for training and testing in the MST .
+The POM model is generated as an output of the six steps illustrated above .
+Along with the selected learning algorithm the resulting POM can be used to classify new patients into survival groups .
+A more detailed explanation of each of the six steps is not conducted herein .
+6.2. Datasets .
+Already , during the database construction , the data preparation step started , including analysis and preprocessing of the features and definition of possible class attributes .
+The experience of a medical cancer specialist and the data miner was used to manually reduce the number of features by rating them according to a rating scheme .
+Known prognostic factors and similar features that other authors have used in their works ( [ Zwitter and Soklic , 1988 ] , [ Holte , 1993 ] , [ Tsai et al. , 1997 ] , [ Winikoff , 1999 ] , [ Wolberg et al. , 1999 ] and [ Lee et al. , 1999 ] ) were also used for feature reduction .
+The data miner ( the first author ) was involved in the definition of the features in the database and thus learned to know their characteristics .
+Based upon their characteristics , over 150 base features ( including date features ) were manually selected from the original 400 features .
+A base data set , named Base-DS , including all 257 instances , was created by selecting 99 out of the previously chosen 150 features with the help of a rating scheme .
+Over 100 different datasets were automatically generated by using MST to select various features from the Base-Ds .
+The automatic feature selection methods that were used are listed in Table 3. They were associated with the search methods Best first , Rank search or Genetic search but also included the simple rule-classifier method , OneR where one iteratively finds the best rule including just one feature ( Witten Frank , 2000 ) .
+The medical doctor selected 22 features from the Base-DS dataset to be included in a new dataset named Med-DS .
+These 22 features are listed in Table 1 , along with a short description .
+Table 1. .
+Name of features in the data set Med-DS and short description .
+NameDescription AgeAge when diagnosed TumFoundCoincA yes / no indicator if the tumor was found in a medical examination NodesPosA yes / no indicator if the nodes are palpateble or suspicious NodesPalpA yes / no indicator if the nodes in f.scl. are palpateble or suspicious InflammA yes / no indicator if the affected breast is exhibiting skin redness and experiencing pain and localized heat MetLungA yes / no indicator if a metastasis has been confirmed on a lung X-ray film MetBoneA yes / no indicator if a metastasis has been confirmed on a ( isotope ) bone scan CA-153The numeric result of a laboratory test for a tumor marker , CA-153 CEAThe numeric result of a laboratory test for a tumor marker , CEA HistoTypeHistological type .
+The structural pattern of cancer cells used to define a diagnosis TumLymphVessA yes / no indicator to ask if small , thin walled ( lymphatic ) invasion was detected in a tumor specimen TumBloodVessA yes / no indicator to ask if large vessel ( vascular ) invasion was detected in a tumor specimen S-PhaseA field to report the percentage value of cells in S-phase NumNodeMetastThe total number of lymph nodes with micrometastases TumSkinA yes / no indicator if cancer growth was included in the skin ComorbidityA combination of 7 features indicating if a patient has been diagnosed before with defined diseases ER-PgrThe type of , ER and PGR , hormone receptors being tested for presence in a sample SizePADPathologic primary tumor size .
+The measurement of the primary tumor by the pathologist PreOpMedAn yes / no indicator if chemotherapy was given pre operation RadiaTherA yes / no indicator indicating if the patient got an adjuvant radiotherapy ChemoTherA yes / no indicator indicating if the patient got an adjuvant chemotherapy HormTherA yes / no indicator indicating if the patient got an adjuvant hormonal therapy .
+Full-size table .
+View Within Article .
+A small dataset named Small-DS was also generated from the Base-DS and included five manually selected features .
+The features included were the following ; Age , NodesPos , MetLung , MetBone , ChemoTher and the class attribute 5-Years-State .
+Two class attributes , including 2 or 3 class values respectively , were used to classify the instances in each of the datasets .
+The main class attribute was the real status or outcome of each patient 's disease measured five years after diagnosis , the so-called 5-Years-State .
+The 257 instances were supervised into two classes from the 5-Years-State feature .
+The class attribute had two class values of nominal type , true ( 73 instances ) or false ( 184 instances ) indicating if the patient was with or without any signs of the disease five years after the cancer was diagnosed .
+The other class attribute was the risk estimate by a doctor .
+When the Risk feature was selected as a class attribute the 5-Years-state feature was excluded from the datasets .
+The MST tool was used to train and test seventeen different algorithms by the standard 10 fold cross validation procedure , on all the generated datasets .
+6.3. Medical estimation of the risk for recurrence .
+As the resulting Kappa values for most of the original results turned out to be rather low , a medical doctor was asked to add one feature into the data set .
+This feature was his estimate of the individual risk for each patient .
+In categorizing the patients , the medical doctor was asked the following question :
+What is the risk of recurrence or death for this patient occurring within five years after the diagnosis date ?
+High risk ( 30% probability ) , Intermediate risk ( 10 - 30% probability ) , Low risk ( 10% probability ) .
+Ten new data sets , with the risk feature included , were built from the Base-DS using the MST .
+These ten data sets were all trained and tested using the MST .
+Since Kappa is often used in medical studies and in order to investigate further the relationship between Kappa and AUC , both AUC and Kappa were calculated for about half of the data sets used in this study .
+The AUC values are plotted as a function of the Kappa values in Fig. 1. As can be seen there is an approximate linear relationship , with the formula for the best line in a least squares sense being : AUC = 0.55 + 0.52 Kappa .
+The R-square value is 0.88. This regression formula can thus be used to get an approximation to the AUC value for a given Kappa value for a two-valued class variable , as is the case with the 5-Years-State class , but not for a three valued class variable as is the case with the Risk class .
+Full-size image ( 52K )
+Fig. 1. Linear Regression with 95% Individual Prediction Interval .
+AUC as function of Kappa Statistic .
+Multiple data sets and classifiers .
+View Within Article .
+The distribution of the values of the risk feature is listed in Table 2. This distribution of instances is more balanced than the previous 5-Years-Risk class values , where the distribution of the instances was 73 ( 28.4% ) true instances versus 184 ( 71.6% ) negative instances .
+Also listed in the table is the distribution of the values of the 5-Years-State attribute for each risk value .
+Table 2. .
+The distribution of the 257 instances in the risk group according to a subjective estimate by a doctor .
+Risk groupNumber of instances ( % ) 5-Years-State True5-Years-State False High risk ( 1 ) 7930.73841 Intermediate risk ( 2 ) 7328.42053 Low risk ( 3 ) 10540.91491 .
+Full-size table .
+The distribution of same instances in the 5-Years-State group also listed .
+View Within Article .
+Table 3. .
+The feature selection methods .
+NameA brief descriptionSelecting way Rating factorsRating the features by estimating the importance and quality of each featureManual Local knowledgeThe medical cancer specialist selects the featuresManual Global knowledgePublished results of mining other databases for breast cancerManual OneRIteratively finding the best rule including just one featureAutomatically CFSCorrelation based feature selection methodAutomatically LVFConsistency subset evaluatorAutomatically ReliefFeature weighting algorithm for ranking the featuresAutomatically IGInformation gain feature evaluationAutomatically J48Decision treeAutomatically .
+Full-size table .
+View Within Article .
+7. Experimental results .
+This section describes the results obtained using the three following datasets ; Base-DS , Med-DS and Small-Ds .
+The results generated when the Risk feature was included in the dataset are also assessed .
+The performance results for all the datasets are displayed in Table 6A , Table 6B and Table 6C for the Naive Bayes algorithm , the J48 decision tree and the simple PART rule selection algorithm .
+Table 6A shows the prediction of the 5-Years-State outcome not using the risk feature .
+Table 6B shows the prediction of the 5-Years-State outcome using the risk feature .
+Table 6C shows the prediction of the value of the risk attribute .
+From the table it seems that the results depend partly on which performance parameters are used to judge the performance of the classifier .
+Table 6A .
+Predicting 5-Years-State outcome not using risk feature .
+Data setAlgorithmNumber of featuresPC [ % ] Kappa valueAUCSensitivitySpecificitySize of tree / leavesNumber of rules Base-DSNB99730.280.740.380.87 Base-DSJ4899760.380.700.480.8747 / 27 Base-DSPART99690.250.690.480.7816 Med-DSNB23740.250.750.300.91 Med-DSJ4823770.380.620.450.9025 / 14 Med-DSPART23690.180.620.330.8415 Small-DSNB6790.370.770.360.96 Small-DSJ486790.400.680.370.969 / 5 Small-DSPART6800.410.680.370.976 .
+Full-size table .
+View Within Article .
+Table 6B .
+Predicting 5-Years-State outcome using risk feature .
+Data setAlgorithmNumber of featuresPC [ % ] Kappa valueAUCSensitivitySpecificitySize of tree / leavesNumber of rules Base-DSNB99740.320.750.420.87 Base-DSJ4899750.360.700.480.8647 / 27 Base-DSPART99730.360.670.510.8311 Med-DSNB23740.260.750.330.90 Med-DSJ4823760.340.640.400.9130 / 17 Med-DSPART23660.120.610.300.8127 Small-DSNB6780.380.770.300.94 Small-DSJ486770.320.650.300.969 / 5 Small-DSPART6760.300.680.320.939 .
+Full-size table .
+View Within Article .
+Table 6C .
+Predicting 5-Years-State outcome using risk feature .
+Data setAlgorithmNumber of featuresPC [ % ] Kappa valueAUC-1AUC-2AUC-3Number of rules Med-DSNB23680.510.890.780.92 Med-DSJ4823730.590.840.760.8637 / 23 Med-DSPART23710.560.850.750.8915 .
+Full-size table .
+View Within Article .
+7.1. The data sets .
+The data set Base-DS contained 98 features and the class attribute 5-Years-State .
+The resulting J48 pruned decision tree for the data set was a tree of size 47 including 27 leaves .
+PC = 76% and Kappa = 0.38 , AUC = 0.70 , Sensitivity = 0.48 and Specificity = 0.85. The size of this tree shows that just a small part of the available features are used .
+The evaluation result is based on 10 fold Cross validation but the tree given is based on all the training data .
+The result for the Naive Bayes classifier was PC = 73% , Kappa = 0.28 , AUC = 0.74 , Sensitivity = 0.38 and Specificity = 0.87. .
+Med-DS included 22 features chosen by the doctor for making a risk assessment and the class attribute 5-Years-State .
+The resulting J48 pruned decision tree has 25 nodes including 14 leaves .
+The PC value is 77% , Kappa value is 0.38 , AUC is 0.62 , Sensitivity is 0.45 and Specificity is 0.90. The evaluation result is again based on 10 fold Cross validation but the tree given is based on all the training data .
+The result for the Naive Bayes classifier was PC = 74% , Kappa = 0.25 , AUC = 0.75 , Sensitivity = 0.30 and Specificity = 0.91. The features belonging to Med-DS are listed in Table 1. .
+Comparing subsets of the base data set , Base-DS , in order to find an optional data set , the distribution of resulting PC values using the NB classifier were analyzed .
+17 times the PC values showed higher values than 75% , and 92 times between 70% and 75% .
+The resulting PC values for the J48 decision tree showed 68 times PC values higher than 75% and 37 times values between 70% and 75% .
+PC values for other classifiers gave similar results .
+Many of the data sets showing higher PC values than 75% when classified with the J48 decision tree algorithm resulted in the same small decision tree of size 5 , including 3 leaves .
+This tree uses only two features , the features NodesPos and MetBone .
+A typical PC value was 76% and Kappa value 0.32. .
+A decision tree containing 5 leaves was built by including all the features in the Small-Ds .
+The resulting PC value is 79% , Kappa = 0.40 and AUC = 0.68. The Sensitivity is 0.37 and Specificity is 0.96. .
+No definite optimal data set could be found neither by using automatic feature selection methods nor using local or global knowledge .
+7.2. The performance when the risk feature is included in the data set .
+The resulting J48 pruned decision tree for the data set Base-DS , including the risk feature , was the same tree as without the risk feature .
+This tree is of size 47 including 27 leaves and resulted in PC = 75% , Kappa = 0.36 , AUC = 0.70 , Sensitivity = 0.48 and Specificity = 0.86. The included risk feature was neither a node nor a leaf in the decision tree for this data set .
+The J48 pruned decision tree is presented in Fig. 2 for the data set Med-DS , including the risk feature .
+The resulting tree had the size 30 , including 17 leaves .
+One leaf of the original tree for this data set has been replaced with two new nodes and 4 leaves .
+The performance of the classifier is similar as before .
+The PC value is 76% , Kappa value is 0.34 , AUC is 0.64 , Sensitivity is 0.40 and Specificity is 0.91. .
+Full-size image ( 78K )
+Fig. 2. J48 pruned Decision Tree .
+Risk feature included in the data set .
+View Within Article .
+The effect of including an additional feature , the subjective risk assessment of a medical doctor , did not give better classification results for these two data sets .
+Neither did inserting the risk feature into the data set Small-DS result in any better performance .
+7.3. Predicting the subjective assessment of the doctor .
+Choosing the risk assessment as the class attribute resulted in higher Kappa values , which means that the classifiers in general seemed to be more successful in predicting the doctor 's risk assessment than the actual outcome for the data set Med-DS .
+Higher Kappa values might have to do with the fact that the risk class was a three-valued class attribute compared with the two-valued class attribute 5-Years-State.The differences in Percent Correct values were negligible .
+The J48 pruned decision tree with the risk assessment feature as a class attribute had the size 36 and 22 leaves .
+The PC value was 73% , Kappa value 0.59 , AUC values calculated for each Risk group were : 0.85 , 0.76 and 0.86 , for group 1 , 2 and 3 respectively , showing that the instances that were the hardest to classify are the instances belonging to the intermediate ( Risk = 2 ) class .
+Sensitivity ( TP rate ) for each Risk group is 0.65 , 0.60 and 0.89 showing a similar trend .
+The highest PC values ranged from 75% to 80% with standard deviation of about 7% for the seventeen classifiers used .
+When a data set with just 8 features included exactly as many true as false instances , the highest value for Kappa was 0.47 , indicating a moderate agreement .
+All other tests done using the 5-Years-State class showed lower Kappa values .
+8. Discussion .
+After testing more than 100 different data sets , it has become clear that it is difficult to find one data set that outperforms others with the prediction of recurrence of cancer .
+Furthermore , the number of features included in the data set did not seem to have a large impact on the results , since similar results were obtained regardless of whether the dataset contained five or a much higher number of features .
+As simplicity is usually preferred to avoid overfitting , small data sets would be better suited to build an effective and efficient classifier. .
+Additionally , clinical costs and the time required to collect many features could be reduced by using smaller datasets .
+None of the selected classifiers listed in Table 4 showed a significantly better performance than the standard NB classifier .
+The performance of the simple decision tree classifier , J48 , came close to the performance of the NB classifier .
+Therefore , the best classifier to select seems to be either the Naive Bayes or the J48 decision tree .
+The benefit of using simple decision trees is that the results can be easily visualized when built from a small dataset .
+However , it should be noted that the performance of some classifiers , e.g. those based on support vector machines , critically depends on proper tuning of the parameters .
+We have not paid close attention to that in this study .
+Table 4. .
+The 17 classifiers .
+NameA brief descriptionGroup The Naive BayesianA simple and a well-established approach to probabilistic inductionBayes Decision tree - J48An extension of the C4.5 decision tree algorithmTree Logistic Model TreeClassification tree with logistic regression functions at the leavesTree REP treeA decision / regression tree using information gain / variance and reduced-error pruningTree Random ForestA forest of random trees are constructedTree Support Vector MachinesImplements the sequential minimal optimization algorithm ( SMO ) Function LogisticMultinominal logistic regression model with a ridge estimatorFunction Simple LogisticLinear logistic regression with a simple regression functions as base learnersFunction Meta Classifier 1Bagging schemeMeta Meta Classifier 2Adaboost schemeMeta Meta Classifier 3Diverse Ensemble Creation by Oppositional Relabeling of Artificial Training Examples , DECORATEMeta Bagging + REP treeA Meta Bagging classifier using REP decision treeMeta Decision TableA simple decision table majority classifierRule OneRMinimum error feature used for predictionRule PARTGenerating rule setsRule JripImplements a prepositional rule learnerRule Voting Feature Intervals ( VFI ) Feature projection and a voting schemeMiscellaneous .
+Full-size table .
+View Within Article .
+Table 5. .
+A confusion matrix .
+Actual statePredicted patient state Classified as true ( positive ) Classified as false ( negative ) Class is true ( positive ) TPFN Class is false ( negative ) FPTN .
+Full-size table .
+View Within Article .
+Including the Risk feature did not improve the results of any of the 17 classifiers .
+This was somewhat surprising , since the Risk feature was built from known prognostic factors and clinical practice .
+This may show that we have not yet found the right prognostic factors to use .
+However , the result of classifying the instances into the Risk class showed how well an algorithm could approximate a medical doctor 's estimate of the risk of recurrence for an individual patient .
+It did not have a direct prediction value for the real outcome of the patient or the state of the patient five years after diagnosis ; but it did predict the risk group with moderate Kappa values .
+This study showed that medical information including diagnosis and treatment information could be used to predict the 5-Years-State outcome for a newly diagnosed patient with 75 - 80% predictive accuracy ( PC ) .
+If Kappa values were preferred for evaluating the classifiers performance , the resulting values were showing only fair agreement , i.e. from 0.2 to 0.4. Reporting the Kappa value is unusual , since most studies report performance of their models using accuracy , sensitivity and / or specificity .
+Most learning algorithms treat true and false examples as equally important and the aim is to maximize accuracy .
+When working with imbalanced data sets , the imbalance and misclassification costs are related to each other .
+One way to counteract for the imbalance in the data set used in studies with imbalanced data sets is to raise the cost of misclassifying the false class ( Drummond Holte , 2000 ) .
+Classifiers are typically evaluated by predictive accuracy ( PC ) .
+When the data set is imbalanced , this might not be appropriate  .
+The TP- , TN- , FP- and TP-rate parameters are at least as important for interpreting the result of a classifier , as correctly classified instances .
+In this study the Kappa value and the AUC value was also computed .
+Results showing higher Kappa values or AUC values were not necessarily consistent with higher PC value .
+In recent years , new biological data elements have been measured for every new cancer patient .
+For future studies , those features should be included and collected as soon as they are available .
+If data is published using a controlled vocabulary and standard forms , data could easily be understood and shared by others ( Szalay Gray , 2006 ) .
+With cooperation of different scientific domains , a standardization of data elements1 could eventually be established to develop a large medical database including valuable information .
+In the meantime , it is vital to compare results of mining efforts to other research studies , both with respect to feature selection and performance .
+In this study , whereas the database was relatively small , the highest classification accuracy obtained was 80% .
+A long-term goal is to create a model that would be more reliable than our current one even if it were built from a small database .
+The POMs created in this research study are not to be viewed as the final models but are a step towards reaching such a long-term goal .
+9. Conclusions .
+In the case study , only 257 instances were available .
+The results of this study give rise to continue this work by collecting data from patients diagnosed in the year 1999 and later , when five years have passed from the diagnosis of the respective patient .
+It would also be valuable to collect selected information from the years before 1996 and to create a new class attribute , using 8 or 10 years instead of only 5 years .
+Using survival status at 60 months could also be used as a class attribute for bigger datasets instead of the outcome of the disease .
+There is great need to continue the work conducted in this research study .
+The Model Selection Tool that has been developed should prove useful in the construction of a more reliable Predictive Outcome Model .
+Such a model would have to be built from a larger standardized database than the one used in this study .
+If new biological data features are also included , there are good prospects for a practical Predictive Outcome Model .
+Acknowledgements .
+The authors thank Thorhildur Juliusdottir for the critical reading and her assistance in manuscript preparation .

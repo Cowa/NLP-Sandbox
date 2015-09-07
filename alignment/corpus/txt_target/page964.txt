@@ -1,0 +1,169 @@
+Breast cancer is global public health burden with more than one million new cases diagnosed worldwide  and more than 200,000 new cases diagnosed in the United States each year ( American Cancer Society ) .
+Although an increasing proportion of new breast cancer diagnoses represent potentially curable early stage disease , a significant proportion of these women will experience a relapse .
+As a result , more than 40,000 breast cancer-related deaths are anticipated in the United States each year .
+Consequently , investigators strive to further delineate the pathophysiology of breast cancer and develop therapeutic innovations in order to minimize individual recurrence risk and optimize the potential for cure .
+Within the last year , a number of insights and therapeutic innovations in the management of early stage breast cancer were reported .
+Selected highlights will be reviewed here .
+2. Incident breast cancer cases in the United States .
+One of the most highly publicized breast cancer-related studies within the past year reported a decline in incident breast cancer cases .
+At the 2006 San Antonio Breast Cancer Symposium ( SABCS ) , Ravdin and colleagues demonstrated a sharp decline in age-adjusted incident breast cancer cases among women in the United States in 2003 compared with 2002  .
+Although the incidence of new breast cancer diagnoses remained stable through 2004 , an 8.6% decline in the age-adjusted annual incidence rate was observed from 2001 .
+This decline was evident only for women 50 years of age or older and was more pronounced for women with estrogen-receptor positive ( ER+ ) breast cancers compared to those with ER-negative disease .
+This trend was ascribed primarily to the early reports of the Women 's Health Initiative whereby deleterious effects of hormone replacement therapy were reported , resulting in a subsequent decline in hormone replacement therapy prescriptions among post-menopausal women in the United States  .
+In fact , after an increased incidence of coronary artery disease and incident breast cancer cases with hormone replacement therapy were reported in 2002 , HRT use declined by 38% by the end of that year  .
+3. In situ breast cancer .
+Pre-invasive breast cancers ( either ductal or lobular carcinoma in situ ) are indicators of increased risk for the development of invasive disease .
+As such , these lesions are potential targets for interventions aimed at reducing the rates of subsequent development of invasive cancers .
+Several relevant studies were reported at the 2007 American Society of Clinical Oncology ( ASCO ) annual meeting .
+In one study , investigators screened the Surveillance Epidemiology and End Results ( SEER ) database for incident in situ cases diagnosed between 1988 and 2003  .
+Selected tumor and patient characteristics for the 88,285 identified incident cases were evaluated and outcomes reported .
+Of these , 66% and 12% represented DCIS and LCIS , respectively .
+Approximately one-third were treated with breast conserving surgery ( BCS ) alone , one-third with BCS with irradiation and one-third with total mastectomy .
+There was no difference in disease-specific survival demonstrated for women treated with BCS and irradiation compared with total mastectomy .
+These findings were consistent with the results of the Oxford overview meta-analysis  .
+Three National Surgical Adjuvant Breast and Bowel Project ( NSABP ) DCIS trials were also updated this year  .
+NSABP B17 evaluated BCS with or without irradiation ; NSABP B24 evaluated BCS and irradiation followed by tamoxifen versus placebo ; and NSABP B35 evaluated BCS and irradiation followed by tamoxifen versus anastrozole .
+As anticipated , the majority of observed recurrences among women with DCIS treated with BCS were ipsilateral breast tumor recurrences ( IBTRs ) .
+The addition of radiotherapy conferred a 59% reduction in the risk of invasive IBTR .
+Few locoregional or distant failures were observed in the absence of an invasive-IBTR .
+In a combined analysis of B17 and B24 , approximately one-half of IBTRs were invasive .
+However , only 0.84% of pts treated with BCS experienced a breast cancer-related death after developing an invasive IBTR .
+4. Advances in adjuvant chemotherapy .
+The optimal adjuvant chemotherapy strategy for women with early stage breast cancer has not yet been determined .
+In an ideal treatment paradigm , subgroups of women who derive significant benefit from a given treatment strategy would be clearly identified and offered treatment , while subgroups who derive no significant benefit would be spared the potentially deleterious effects of treatment .
+This type of individualized risk-benefit calculus is illustrated by the taxane example .
+The introduction of taxanes into the adjuvant treatment strategy represented a milestone in therapeutic innovation with significant benefits demonstrated in a number of adequately powered randomized trials .
+However , taxane-containing regimens are also associated with significant rates of short and long-term toxicity .
+Thus , investigators strive to further characterize the risk-benefit calculus for subgroups of women with early stage breast cancer , so that taxane-based strategies may be tailored to the appropriate populations .
+5. Taxane-containing chemotherapy strategies5.1 .
+Efficacy of adjuvant taxane-containing regimens .
+Several independent studies have now reported improved outcomes for women with early stage breast cancer treated with adjuvant taxane-containing regimens .
+The overall efficacy of this strategy was recently confirmed in both a pooled analysis and a meta-analysis  .
+In the pooled analysis of 15,598 patients participating in nine adjuvant taxane trials , significant disease free survival ( DFS ) benefits were reported both overall ( RR 0.86 ; p = .00001 ) and in the lymph node-positive subset ( RR 0.84 ; p = 0.0001 )  .
+Survival benefits were also reported both overall ( RR 0.87 ; p = 0.0001 ) and in the lymph node-positive subset ( RR : 0.84 ; 95% CI , 0.77 - 0.92 ; p = 0.0001 ) .
+The absolute benefits in DFS and overall survival ( OS ) in favor of taxane-containing regimens ranged from 3.3% to 4.6% and from 2.0% to 2.8% , respectively .
+In a recently reported meta-analysis of 18,304 women participating in 12 adjuvant taxane studies , the hazard ratio ( HR ) for OS was 0.81 ( p 0.00001 ) in favor of the taxane-containing regimens  .
+Thus , the incorporation of taxanes into the adjuvant strategy confers significant overall survival benefits .
+Whether all subgroups , particularly women with node-negative disease , derive benefit from adjuvant taxane therapy remains uncertain .
+The meta-analysis on this topic by the Early Breast Cancer Trialists Collaborative Group is anticipated .
+5.2. Evaluation of taxane formulations .
+Determination of the ideal adjuvant taxane formulation , dose and schedule is also an active area of investigation .
+Eastern Cooperative Oncology Group ( ECOG ) 1199 , for example , evaluated weekly versus q3 weekly schedules of paclitaxel ( 80 mg/m2 / dose versus 175 mg/m2 / dose , respectively ) or docetaxel ( 35 mg/m2 / dose versus 100 mg/m2 / dose , respectively ) after four cycles of q3 weekly adriamcycin / cyclophosphamide ( AC ) at conventional doses ( 60 and 600 mg/m2 / dose ) .
+Preliminary results were reported in 2005 , with no significant benefit observed with either taxane or schedule  .
+However , a trend was observed toward a DFS benefit with weekly paclitaxel administration .
+In 2007 , ECOG 1199 was updated for the 4950 women eligible for analysis after a median follow-up period of 63.8 months  .
+Despite the initial report in 2005 of a trend toward a DFS benefit with weekly paclitaxel administration , there was no difference with either taxane or schedule at the time of the updated analysis .
+However , significant differences were observed in the toxicity profiles of each regimen .
+For example , the incidence of grade 3 / 4 febrile neutropenia was 16% in the q3 weekly docetaxel arm versus 1% in the other study arms .
+In an exploratory subset analysis , there was an apparent benefit with the weekly paclitaxel regimen in the hormone receptor-negative population and with the q3 weekly docetaxel regimen in the hormone receptor-positive population .
+Exploratory analyses , although provocative and hypothesis generating , must be interpreted with caution .
+5.3. Evaluation of taxane schedules .
+The role of sequencing in adjuvant anthracycline and taxane chemotherapy administration has also been investigated .
+Traditionally , when sequential adjuvant anthracycline-taxane therapy is planned , the anthracycline is typically administered prior to the taxane .
+This sequencing convention was recently challenged in a randomized phase II study evaluating 4 cycles of dose-dense docetaxel ( 75 mg / m2 ) before or after 4 cycles of conventional dose AC ( 60 / 600 mg/m2 )  .
+Upfront docetaxel administration was associated with decreased dose reductions and superior relative dose intensity ( RDI ) .
+However , whether the increased RDI will translate into improved efficacy is uncertain .
+Sequential versus concurrent anthracycline-taxane strategies have also been evaluated .
+In a recent phase III study , 617 patients with node-positive operable breast cancer were randomized to receive adjuvant epirubicin either sequentially or concurrently with either paclitaxel or docetaxel  .
+In an exploratory analysis , there was no significant DFS difference between the study arms .
+Furthermore , consistent with ECOG 1199 , the superiority of a specific taxane was not demonstrated .
+In BIG 2-98 , women with node positive breast cancer were randomized to one of four arms : A75 x4 CMF x3 , AC60 / 600 4 CMFx3 , A75 3 T100 3 CMF 3 or AT 50 / 75 4 CMF 3 ( where T = docetaxel )  .
+The results of this study were originally reported at ASCO 2006 .
+Although the sequential A - T arm proved superior to the AT and A arms for DFS , there was no OS benefit observed with any of the evaluated regimens .
+This study was recently updated with a CNS substudy evaluating incident brain metastases detected post-mortem  .
+In this substudy , although the taxane-containing strategies were associated with higher rates of abnormal CSF cytology and abnormal MRIs , no differences in CNS relapse rates at death between the taxane and non-taxane cohorts were observed .
+5.4. Estrogen receptor ( ER ) expression and taxane efficacy .
+The potential relationship between estrogen receptor ( ER ) expression and taxane efficacy was evaluated in a pooled analysis of 3490 patients participating in two very different Breast Cancer International Research Group studies : ( BCIRG ) 001 and PACS 01  .
+In BCIRG 001 , concurrent adjuvant docetaxel , adriamycin and cyclophosphamide ( TAC ) versus concurrent 5 fluourouracil , adriamycin and cyclophosphamide ( FAC ) was evaluated with 5 year DFS ( 75% versus 68%, ) p = 0.001 ) and OS ( 87% versus 81% , p = 0.008 ) benefits demonstrated with the taxane-containing regimen  .
+In PACS 01 , 6 cycles of adjuvant 5 fluorouracil , epirubicin and cyclophosphamide ( FEC ) were compared to a sequential regimen of 3 cycles of FEC followed by 3 cycles of docetaxel ( FEC-D ) showing improved 5 year DFS ( 78.4% versus 73.2% , p = 0.011 ) and OS ( 90.7% versus 86.7% , p = 0.14 ) for the taxane-containing regimen  .
+In the recent analysis of pooled data from the two studies , DFS and OS benefits were reported for both the ER-positive and ER-negative cohorts  .
+Specifically , the hazard ratio for DFS was 0.69 versus 0.79 and the hazard ratio for death was 0.69 versus 0.70 for the ER-positive and ER-negative cohorts , respectively .
+However , the test for interaction between ER status and chemotherapy regimen was not statistically significant .
+Given that ER positivity has proven predictive of response to anthracycline-based chemotherapy in prior studies  , these investigators also explored the predictive capacity of ER-positivity for taxane responsiveness .
+In this analysis , the relative efficacy of docetaxel did not appear to be significantly lower in patients with strongly ER-positive tumors compared to those with weakly or intermediately ER-positive tumors but the confounding effects of dose size , number , and specific drugs used limit the utility of this result except to say that a global taxane and hormone receptor interaction is unlikely to be absolute .
+6. Dose density .
+The dose dense strategy aims to optimize cell kill by sequentially eradicating the numerically dominant , rapidly proliferating cell populations followed by eradication of more indolent , resistant cells  .
+Since the reporting of significant survival benefits with the administration of dose dense adjuvant adriamycin , cyclophosphamide and paclitaxel in Cancer and Leukemia Group B ( CALGB ) 9741  , the dose dense strategy has been evaluated in a number of other settings .
+For example , the AGO trial of dose dense epirubicin , paclitaxel and cyclophosphamide ( ETC ) versus a conventional schedule of EC followed by T was recently reported  .
+In this study , 1284 women with high risk , node-positive early stage breast cancer were randomized to a sequential course of 3 cycles of E , T and C ( 150/225 / 2500 mg/m2 ) for a total of 9 cycles administered every 2 weeks with G-CSF support or 4 cycles of q3 weekly EC ( 90 / 600 mg/m2 ) followed by 4 cycles of q3 weekly T at 175 mg / m2 .
+After a median 62 month follow-up period , the dose dense strategy conferred significant OS benefits ( 82% versus 77% , p = 0.029 ) .
+These results represent the most impressive survival benefits to date in this high risk population .
+However , the generalizability of these results is somewhat limited by the introduction of both dose density and dose intensity into the study schema .
+In the context of other studies , however , which have demonstrated a limited dose - response relationship for all three active components in the AGO regimen in the evaluated dose ranges , we can envision the study as delivering the same functional doses of the three drugs .
+Consequently , one may conclude that the dose dense schedule more than compensated for the decreased number of drug administrations .
+In another recently reported study of dose-density , National Cancer Institute of Canada ( NCIC ) MA.21 , patients were stratified by nodal status , ER status and primary surgery to 6 cycles of oral cyclophosphamide , epirubicin and 5 fluorouracil ( CEF ) , 4 cycles of adriamycin and cyclophosphamide followed by 4 cycles of paclitaxel ( AC-T ) or a dose dense strategy of 6 cycles of epirubicin and cyclophosphamide followed by 4 cycles of paclitaxel ( EC-T ) administered every 2 weeks  .
+At the time of the first interim analysis , the adjusted 3 year RFS was 90.1% , 89.5% and 85.0% , for the CEF , EC-T and AC-T regimens , respectively .
+In an exploratory analysis , a non-significant trend favoring EC-T was observed when compared with CEF among the ER-negative subgroup ( HR 0.78 , p = 0.23 ) .
+The superiority of CEF and dose-dense EC-T for RFS compared with conventionally scheduled AC-T and the equivalence to date with either of the former regimens led the authors to conclude that taxanes may not be indicated for all patients .
+Further analyses with longer follow-up are anticipated .
+Table 1. .
+National Cancer Institute of Canada ( NCIC ) MA.21 schema .
+RegimenScheduleTotal cyclesAnthracyclineTaxaneCyclophos-phamide5FU Per cycleTotal ( mg ) CEFq3w660 mg / m2 IV D1 and D8720N / A75 mg/m2 po D1 - 14500 mg / m2 D1 and D8 AC-Tq3w860 mg / m2 IV D1240175 mg / m2 IV D1600 mg / m2 IV D1N / A EC-Tq2w10120 mg / m2 IV D1720175 mg / m2 IV D1830 mg / m2 IV D1N / A
+Full-size table .
+CEF = oral cyclophosphamide/epirubicin / 5-fluorouracil ; AC-T = adriamycin / cyclophosphamide and paclitaxel ; EC-T = epirubicin / cyclophosphamide and paclitaxel ; D = day .
+View Within Article .
+7. Advances in targeted therapy with trastuzumab .
+A number of the pivotal adjuvant trastuzumab ( Herceptin ) trials , originally reported in 2005 , were recently updated  .
+In HERA , women with node-positive or high risk node negative breast cancer were randomized to observation , 1 year of adjuvant trastuzumab or 2 years of trastuzumab after their primary chemotherapy  .
+In the experimental arms , trastuzumab was administered at an initial dose of 8 mg / kg and then 6 mg / kg every 3 weeks thereafter .
+In 2005 , a significant 2 year DFS benefit was observed with 1 year of adjuvant trastuzumab compared with observation ( 85.8% versus 77.4% , respectively ; p 0.0001 ) .
+In the recent update , after a median 2 year follow-up period , an OS benefit was reported  .
+Specifically , the unadjusted HR for the risk of death with trastuzumab compared with observation alone was 0.66 ( p = 0.0115 ) .
+Efficacy results from the 2 year trastuzumab treatment arm are still unreported .
+Similar results were observed in an update of the joint analysis of N9831 and NSABP B31 .
+In these clinical trials , trastuzumab was administered concurrently with paclitaxel after four cycles of q3 weekly AC and then either weekly or q3 weekly , respectively , for a total 1 year duration of trastuzumab therapy  .
+In the updated analysis , Perez and colleagues confirmed that the previously reported benefits of trastuzumab therapy were sustained .
+Specifically , after a median follow-up period of 2.9 years , the reported 4 year DFS was 85.9% versus 73.1% and the reported 4 year OS was 92.6% versus 89.4% in favor of the trastuzumab study arms .
+Another pivotal adjuvant trastuzumab trial , BCIRG 006 , was also updated  .
+In this study , patients were randomized to 4 cycles of AC followed by 4 cycles of docetaxel ( AC-T ) , AC-T with trastuzumab initiated with docetaxel and administered for a total duration of 1 year ( AC-TH ) , or 6 cycles of docetaxel / carboplatin with trastuzumab ( TCH ) administered concurrently and then administered for a total duration of 1 year .
+The results of a planned interim analysis were reported in 2005 with a HR of 0.49 ( p 0.0001 ) for AC-TH and 0.61 for TCH ( p 0.0002 ) compared with the control arm  .
+In an exploratory analysis , women with breast cancers exhibiting co-amplification of both HER2 and topoisomerase II , the DNA replication and recombination enzyme targeted by anthracyclines , appeared to derive a therapeutic advantage with anthracycline-trastuzumab therapy .
+Conversely , a differential benefit with anthracycline-trastuzumab therapy was not observed among women without this co-amplification .
+Thus , it was postulated that women without the co-amplification may be able to forgo the anthracycline component of these regimens , thereby avoiding the risk of cardiotoxicity associated with anthracycline-trastuzumab co-administration .
+In the recently reported second interim analysis , DFS benefits were sustained for both trastuzumab-containing arms ( HR 0.61 for AC-TH versus AC-T and 0.67 for TCH versus AC-T ) , although the magnitude of the benefit was diminished compared with the first analysis  .
+Most notably , however , in the second interim analysis , the previously reported predictive capacity of HER2 and topoisomerase II gene co-amplification was significantly diminished compared with the first interim analysis .
+Thus , whether there is a subset of women with HER2-positive breast cancer who may forgo anthracycline-containing regimens and the associated risk of cardiotoxicity remains uncertain .
+8. HER2 expression and chemosensitivity .
+Investigators endeavor to identify subsets of women who benefit from specific chemotherapy regimens .
+In a recent pooled analysis of the subset analyses from seven randomized control trials , Gennari and coworkers reported a 29% reduction in relapse risk and a 27% reduction in risk of death among adjuvant trastuzumab-naïve , anthracycline-treated women with HER2-overexpressing breast cancer when compared with the non-overexpressing cohort  .
+The authors concluded that the superiority of anthracycline-containing adjuvant chemotherapy regimens appear to be limited to the HER2-overexpressing cohort .
+There was no observed residual effect of anthracycline-based chemotherapy over non-anthracycline-based chemotherapy among women with HER2-negative breast cancers .
+The enhanced sensitivity of HER2-overexpressing breast cancers to anthracyclines is postulated to reflect , in part , co-amplification of HER2 and topoisomerase II .
+Although the impact of coamplification is not yet well defined , these efforts reflect the evolving paradigm shift in adjuvant management strategies , whereby chemotherapy recommendations are increasingly tailored to the biology of individual tumors .
+Importantly , these data were derived entirely in the pre-trastuzumab era and their significance in settings where the antibody is routinely administered is uncertain .
+9. Trastuzumab-mediated cardiotoxicity .
+Trastuzumab-mediated cardiotoxicity is an important clinical concern , particularly when trastuzumab is administered in conjunction with an anthracycline .
+A number of cardiac safety updates in the pivotal trastuzumab trials were recently reported .
+The N9831 investigators reported that no further cardiac events were observed at year 3 compared with year 1 , with a cumulative incidence of cardiac events of 2.5% versus 0.2% in the trastuzumab versus control arms , respectively  .
+One cardiac death was observed in the control arm , but no cardiac events have been observed in the trastuzumab study arms to date .
+The NSABP B31 investigators reported similarly stable cardiac incident rates of 4.1% versus 0.8% at 3 years and 3.8% versus 0.9% at 5 years with trastuzumab versus not , respectively  .
+These investigators also proposed a clinical prediction model for trastuzumab mediated cardiac events incorporating age , anti-hypertensive medication status and baseline left ventricular ejection fraction .
+The resulting cardiac risk score aims to predict cumulative risk of incident cardiac events with anthracycline-trastuzumab therapy .
+10. HER2 status determination .
+Significant controversy has recently arisen around HER2 status determination .
+HER2 status is currently determined by measuring HER2 protein expression by immunohistochemistry ( IHC ) and / or HER2 gene amplification by fluorescence in situ hybridization ( FISH ) .
+It is reasonable to expect that an increase in the levels of the trastuzumab target , namely the HER2 receptor , would confer additional therapeutic benefit .
+Conversely , it is reasonable to expect that trastuzumab therapy would confer no significant benefits in the absence of HER2 amplification or overexpression .
+However , a recent analysis of the central HER2 testing performed in the large , randomized North American adjuvant trastuzumab trial , NSABP B31 , suggested that the benefits seen with adjuvant trastuzumab may not be confined to patients with IHC 3+ and / or FISH-positive tumors  .
+In NSABP B31 , women were eligible for enrollment if they had IHC 3+ or FISH+ HER2-positive breast cancer as determined centrally or at an approved reference lab  .
+For the 1795 enrolled patients , 174 ( 9.7% ) of tumors were originally classified as HER2-positive but later proved IHC-negative and FISH-negative for HER2 on central lab review .
+However , a consistent DFS benefit was observed in every subset of women on the study , including those women with IHC-negative , FISH-negative HER2 status on central review ( RR 0.34 , p = 0.014 ) .
+These findings may seem discordant with prior studies such as CALGB 9840 , which demonstrated no benefit with trastuzumab therapy in women with HER2-normal breast cancer in the metastatic setting but in the latter study patients were randomized only after their local lab first identified them as non-overexpressing  .
+The critical distinction is that the patients randomized on the adjuvant trials were first called positive by their local labs and later called negative centrally .
+Hence , potential explanations for the NSABP B31 data include the possibility of false negative results on central lab testing , problems with or hetereogeneity within the specimens provided for evaluation or some as yet undetermined biologic explanation .
+Until this issue is fully elucidated , and given the significant survival improvements demonstrated in the adjuvant trastuzumab trials , it is reasonable to offer adjuvant trastuzumab to any woman whose breast cancer has ever been reported as HER2-positive , even in the face of discordant results from another lab .
+To facilitate decisions regarding HER2 testing , the ASCO published guidelines on this topic earlier this year .
+Table 2. .
+HER2 testing and RR in NSABP B31 study of adjuvant trastuzumab .
+CategoryN ( ACT / ACTH ) N of events ACT / ACTHRR ( 95% CI ) p-value FISH+1588 ( 789 / 799 ) 160 / 850.47 ( 0.36 - 0.61 ) 0.0001 FISH207 ( 114 / 93 ) 23 / 80.40 ( 0.18 - 0.89 ) 0.026 IHC 3+1488 ( 740 / 748 ) 151 / 820.48 ( 0.37 - 0.63 ) 0.0001 IHC ( 0 , 1+ , 2+ ) 299 ( 161 / 138 ) 32 / 100.32 ( 0.16 - 0.65 ) 0.0017 FISH IHC174 ( 92 / 82 ) 20 / 70.34 ( 0.14 - 0.80 ) 0.014 .
+Full-size table .
+Reprinted with permission  .
+View Within Article .
+11. Conclusions .
+Although the incidence of one type of early stage breast cancer appears to be on the decline in the United States , the optimal treatment paradigm for all types has not yet been determined .
+Until we are able to successfully cure all women with early stage disease , ongoing refinements of current management strategies are anticipated .
+Recently , successful variations of taxane-containing regimens and applications of the dose dense strategy have been reported .
+Furthermore , there has been a reassuring stabilization of cumulative trastuzumab-mediated cardiotoxicity events in the adjuvant setting with longer follow-up .
+However , the identification of biological breast cancer features that accurately predict responsiveness to conventional chemotherapy and / or targeted therapy remains an ongoing area of investigation .
+We hope that further insights into the pathophysiology of breast cancer will permit further refinements of the adjuvant systemic therapy paradigm .
+As a consequence , it is anticipated that adjuvant therapy recommendations will become increasingly tailored to the affected individual and the biology of their cancer .

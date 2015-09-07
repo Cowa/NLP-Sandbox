@@ -1,0 +1,329 @@
+Breast cancer is the second deadliest form of cancer for women in the United States , largely due to its tendency to metastasize .
+Once metastasis occurs , the relative 5 year survival rate drops precipitously from over 90% to less than 10% depending on the site of the metastasis .
+For breast cancer , the skeleton is the preferred site of metastasis .
+Nearly 50% of primary and about 70% of secondary metastases target bone  .
+Within the skeletal system , breast cancer cells most frequently colonize the ends of long bones , ribs , and vertebrae ; these areas contain rich microvasculature closely juxtaposed to metabolically active trabecular bone surfaces  .
+The metaphyseal area at the ends of long bones contains a complex network of bone cells , hematopoietic cells , and stromal cells .
+The entry of breast cancer cells into the marrow cavity disturbs the status quo , in particular , the interaction between osteoblasts and osteoclasts .
+In the adult skeleton , these two cell types are responsible for the slow and continuous turnover of bone  .
+When metastatic breast cancer cells invade the bone microenvironment , the balance is upset in favor of net bone loss .
+Indeed , breast cancer metastasis usually results in osteolytic lesions due to activated osteoclasts that degrade bone matrix .
+The bone loss can cause severe pain , pathologic fractures , spinal cord and nerve compression , hypercalcemia , and bone marrow suppression  ) .
+In addition , growth factors released from the matrix promote cancer cell proliferation and contribute to what has been described as the vicious cycle  .
+In particular , transforming growth factor-beta ( TGF- ) and insulin growth factor-1 ( IGF-1 ) , which are released from the matrix during bone degradation , stimulate the production of parathyroid hormone-related protein ( PTHrP ) that fosters cancer cell growth  .
+Furthermore , growth factors released from the matrix , substances secreted by the cancer cells and osteoblasts contribute to the metastatic microenvironment .
+Some osteoblast factors , such as receptor activator of nuclear factor kappa B ligand ( RANKL ) and osteoprotogerin ( OPG ) , are part of the normal osteoblast-osteoclast signaling cross talk .
+Others , such as interleukin-6 ( IL-6 ) , IL-8 , and monocyte chemoattractant protein-1 ( MCP-1 ) , may indicate an osteoblast inflammatory response .
+It has been known for a long time that chronic inflammation , which occurs as part of the cancer cell 's interaction with the stromal environment , supports cancer progression and metastasis  .
+Fibroblasts , endothelial cells , cells of the blood and lymph vasculature , as well as transient cells of the innate and adaptive immune systems all affect cancer cell growth and metastasis .
+Under ordinary conditions , communication within the stromal network is carried out by cytokines , chemokines , and other peptides .
+A disruption of homeostasis by trauma , microorganisms , foreign materials , or cancer cells results in drastic changes in the levels and types of cytokines expressed  .
+The stromal environment in metaphyseal bone is no exception .
+Any circumstance that changes the balance between osteoblasts and osteoclasts may lead to bone loss .
+For example , osteomyelitis brought about by M. tuberculosis or S. aureus is associated with uncontrolled inflammation and especially high levels of IL-8 , RANTES , and MCP-1  .
+Titanium transplant-induced bone loss has been traced to an osteoblast stress response with high levels of IL-8 , MCP-1 , and IL-6  .
+These cytokines have been shown to attract and activate osteoclasts as well as cells of the immune system , thus perpetuating bone loss  .
+While it is likely that tumor-infiltrating lymphocytes , neutrophils , and macrophages are a potent source of inflammatory molecules , we present evidence in this paper that metastatic breast cancer cells can directly induce osteoblasts to express increased levels of inflammatory stress response molecules , specifically IL-6 , IL-8 ( macrophage inflammatory protein-2 [ MIP-2 ] , KC ) , and MCP-1 .
+Moreover , the osteoblast response was mediated by soluble factors and occurred independently of direct cancer cell - osteoblast contact .
+Their ultimate target is the osteoclast .
+Current therapies are directed at blocking osteoclast activity .
+Bisphosphonates such as clodronate , ibandronate , pamidronate , and zoledronic acid are the current standard of care for most metastases to bone .
+These synthetic analogues of inorganic pyrophosphates inhibit osteoclast activity and slow lesion formation .
+Although they reduce skeletal-related events , they are not curative .
+They do not lead to restoration of the bone and do not eliminate the cancer cells  .
+The osteoblasts appear to be functionally paralyzed  .
+We have previously reported that osteoblasts exposed to metastatic breast cancer cells or their conditioned media show an increase in apoptosis , suppression of production of bone matrix proteins , and a change in morphology  .
+The results of this study indicate that the osteoblasts also switch into an inflammatory mode in the presence of the breast cancer cells .
+These osteoblast-produced inflammatory cytokines , different from those made by the cancer cells , can target osteoclast precursors that are effectors of osteolysis .
+Therefore , osteoblasts contribute to the osteolytic phenotype due to loss of bone deposition functions as well as to increased production of osteoclast activating cytokines .
+Materials and methods Cell lines Osteoblasts .
+hFOB 1.19 cells are human fetal osteoblasts that have been immortalized with a temperature-sensitive SV40 large T antigen .
+At a permissive temperature of 34 C , they proliferate ; incubation at 39 C show their growth and fosters osteoblast differentiation  .
+These cells , a gift from Dr. Thomas Spelsberg , were cultured at 34 C , 5% CO2 in hFOB growth medium , which consists of Dulbecco 's Modified Eagle 's Medium ( DMEM ) :Ham 's F-12 ( 1:1 ) ( Sigma , St. Louis , MO ) , 10% fetal bovine serum ( FBS ) ( Sigma ) , and penicillin 100 U/ml / streptomycin 100 g / ml ( Sigma ) .
+For experiments , hFOB 1.19 osteoblasts at 85 - 90% confluency were cultured at 39 C , for 2 - 3 days in a hFOB differentiation medium , [ DMEM:Ham 's F-12 1:1 , 10% charcoal-stripped FBS , penicillin 100 U/ml / streptomycin 100 g / ml , 10 8 M Vitamin D3 ( Biomol , Plymouth Meeting , PA ) , 10 8 M Vitamin K ( menadione ) ( Sigma ) , and 50 g / ml Vitamin C ( ascorbic acid ) ( Sigma ) ] .
+As indicated for various experiments , hFOB 1.19 cells were plated at approximately 4103 cells / cm2 in T-25 flasks , 35 mm , or 6 well culture plates .
+MC3T3-E1 cells , a murine pre-osteoblast line capable of differentiation and mineralization in culture  , were a gift from Dr. Norman Karin , University of Delaware .
+MC3T3-E1 cells were maintained in an MC3T3-E1 growth medium of alpha Minimum Essential Medium ( MEM ) ( Mediatech , Herdon , VA ) , 10% neonatal FBS ( Cansera , Roxdale , Ontario ) , and penicillin 100 U/ml / streptomycin 100 g / ml .
+For experiments as indicated , MC3T3-E1 cells were plated at 104 cells / cm2 in MC3T3-E1 differentiation medium ( MEM , 10% FBS , penicillin 100 U/ml / streptomycin 100 g / ml , 50 g / ml ascorbic acid , and 10 mM -glycerophosphate ( Sigma ) ) .
+Breast cancer cells .
+MDA-MB-231 cells , a human metastatic breast cancer line derived from a pleural effusion  , were a gift from Dr. Danny Welch , University of Alabama , Birmingham .
+The cells were maintained in a breast cancer growth medium of DMEM , 5% FBS , and penicillin 100 U/ml / streptomycin 100 g / ml .
+Primary osteoblasts from neonatal mouse calvariae .
+Osteoblasts were isolated from neonatal mouse calvariae and cultured as described  .
+Animal use was approved by the IACUC of the Pennsylvania State University .
+Briefly , 2 to 5 calvariae were dissected from 2 day , C57bl / 6 , mouse pups .
+The calvariae were rinsed with PBS , cut into pieces , and incubated with 4ml of digestion solution [ 0.64 mg / ml Collagenase type IA ( Sigma ) and 0.05% trypsin in PBS ] at 37 for 20 min with shaking immediately before incubation and again after 10 min .
+After the 20 min incubation , the solution containing the cells was collected and 700 l of FBS was added .
+The calvariae pieces were washed with 2 ml of DMEM and the wash added to the digestion solution containing cells , and centrifuged ( 300g , 4 min ) .
+The cell pellet was resuspended in calvariae growth medium ( DMEM , 10% FBS , penicillin 100 U/ml / streptomycin 100 g / ml , 100 g / ml ascorbic acid ) and plated in a 6 well plate , 2 ml cell suspension per well ( pool 1 ) .
+This procedure was repeated three more times ( pools 2 - 4 ) .
+The following day , culture media were replaced with fresh growth medium and cells were monitored until 85% confluency was reached .
+The cells were trypsinized [ 0.25% trypsin / 2.21 mM EDTA in Hanks Balanced Salt Solution ( CellGro , Mediatech , Herndon , VA ) ] .
+Pools 1 and 2 were combined and pools 3 and 4 were combined .
+Cells were plated at a cell density of 1 to 2104 cells / cm2 in calvariae growth medium .
+The next day the culture media was removed and calvariae differentiation medium ( DMEM , 10% FBS , penicillin 100 U/ml / streptomycin 100 g / ml , 100 g / ml ascorbic acid , 40 ng / ml dexamethasone ) was added to the cells and changed twice a week until the desired osteoblast age was reached .
+Combined pools 3 and 4 , 14 days from addition of differentiation medium , were used in experiments described in this study .
+Conditioned media preparation .
+MDA-MB-231 breast cancer cells were grown to 90% confluency .
+Breast cancer growth medium was removed and the cultures rinsed once with PBS .
+DMEM:Ham 's F12 ( for use with hFOB 1.19 cells ) or MEM ( for use with MC3T3-E1 cells ) was added to the cancer cells ( 20 ml in a T-150 flask , 1.3 105 cells / cm2 ) .
+Cultures were incubated for 24 h .
+Breast cancer cell conditioned medium ( BCCM ) was collected , centrifuged ( 300g , 10 min ) to remove cellular debris , and stored at 20 C. hFOB 1.19 cell conditioned medium was prepared similarly. hFOB 1.19 cells ( 80% confluent ) were rinsed one time with PBS before serum-free DMEM:Ham 's F-12 1:1 and penicillin 100 U/ml / streptomycin 100 g / ml were added , collected after 24 h of incubation , centrifuged to remove debris , and stored at 20 C. .
+Conditioned media treatments of osteoblasts .
+Vehicle media ( VM ) consisted of differentiation media appropriate for each of the cell lines used .
+A 2 differentiation medium was formulated for each of the osteoblast cell lines .
+For hFOB 1.19 , medium consisted of DMEM : Ham 's F12 , 20% FBS , 210 8 M 1,25 dihydroxyvitamin D3 , 210 8 M vitamin K , 100 g / mL ascorbic acid , 200 IU / ml penicillin , and 200 g / ml streptomycin .
+For MC3T3-E1 , the medium consisted of MEM , 20% neonatal FBS , 100 g / ml ascorbic acid , 20 mM -glycerophosphate , 200 IU / ml penicillin , and 200 g / ml streptomycin .
+Conditioned media ( CM ) was comprised of one half volume BCCM and one half volume 2 osteoblast differentiation medium appropriate for the osteoblast line used in the experiment .
+This scheme ensured that concentrations of serum and differentiation factors were identical for VM and CM .
+Peptides and cytokines .
+TGF- and anti-TGF- neutralizing antibody were purchased from RD Systems , ( Minneapolis , MN ) and used at concentrations indicated .
+The antibody was incubated with VM or CM for 1 h at 37 C prior to culturing with the osteoblasts .
+Parathyroid hormone ( PTH ) ( 1 - 34 ) was obtained from Sigma , St .
+Louis , MO .
+Cytokine analyses .
+Cytokines in the culture medium were detected using RayBio Mouse Cytokine Antibody Array III System for MC3T3-E1 and RayBio Human Array System I for hFOB 1.19 cells ( Norcross , GA ) .
+Cytokine protein levels were quantitated using sandwich ELISAs following the protocols recommended by RD Systems .
+Intra-assay variation was typically less than 15% .
+Select cytokines were quantitated with Bio-Plex Mouse and Human Cytokine Assay System ( Bio-Rad , Hercules , California ) .
+Statistical analyses .
+Statistical analyses were carried out using SAS , For Windows ( SAS Version 9.1 , SAS Institute , Cary , NC ) .
+Main effects were evaluated using one-way analysis of variance ( ANOVA ) .
+Data were used for analyses of all variables .
+Statistical significance was defined as a probability P 0.05 in all analyses .
+N values for individual experiments are provided in the figure legends .
+Results The production of IL-6 , IL-8 , and MCP-1 by hFOB 1.19 cells was increased in the presence of breast cancer conditioned medium and was dose-dependent .
+When hFOB 1.19 were approximately 90% confluent , they were rinsed with PBS and treated with either VM or CM .
+Twenty-four hours later , the culture media were collected and screened with a RayBio Human Cytokine Array .
+Among the 62 cytokines in the screen , IL-6 , IL-8 , and MCP-1 levels were readily detected .
+In this array , no cytokines were detected in the BCCM alone .
+Medium from VM-treated osteoblasts also had no detectable levels of cytokines in this array ( data not shown ) .
+Full-size image ( 59K )
+High-quality image ( 363K )
+Fig. 1. hFOB 1.19 secreted cytokines detected by a cytokine array. hFOB 1.19 cells were grown in growth medium at 34 C until they reached approximately 80 - 90% confluency .
+Growth medium was removed , cells rinsed with PBS , and subsequently treated with VM or CM for 24 h at 34 C. The resultant culture supernatant was collected , centrifuged to remove debris , and analyzed with a RayBio Human Cytokine Protein Array System I. ( A ) Array results of culture supernatants of hFOB cells treated with CM .
+From left to right : positive control ( a,b,1,2 ) , MCP-1 ( d5,6 ) , IL-6 ( e3,4 ) , IL-8 ( g3,4 ) , positive control ( h7,8 ) . ( B ) Array results of MDA-MB-231 BCCM alone .
+Positive controls ( a,b,1,2 and h7,8 ) .
+No cytokines were detected .
+View Within Article .
+In order to quantitate detected cytokine levels , standard ELISAs were carried out .
+The BCCM was assayed for the presence of human IL-6 , IL-8 , and MCP-1 .
+In this assay , 73 pg / ml IL-6 , 449 pg / ml IL-8 , and 2 pg / ml MCP-1 were detected .
+These basal levels of cytokines were subtracted in the data that follow .
+At a later time , we assayed BCCM with a multiplex assay ( Bio-Rad Bio-Plex ) and found 50 pg / ml IL-6 , 51 pg / ml IL-8 and 1.6 pg / ml MCP-1 .
+To define the osteoblast cytokine response to BCCM and determine whether the stage of osteoblast differentiation was important for this response , hFOB 1.19 were treated with CM for 24 h after various days of culture. hFOB 1.19 were grown to confluency at 34 C and on day 6 transferred to 39 C to allow for differentiation .
+At days 3 , 5 , and 7 after transfer , the cells were treated with either VM or CM .
+Twenty-four hours later , the culture medium was collected and assayed by ELISA for human IL-6 , IL-8 , and MCP-1 .
+On days 4 and 6 , the hFOB 1.19 cells treated with VM contained undetectable levels of IL-6 , while the osteoblasts treated with CM contained 0.11 ng / ml and 0.26 ng / ml IL-6 respectively .
+However , the differences were more pronounced as the osteoblasts differentiated .
+For example , a 24 h exposure of 8 day-differentiated osteoblasts to CM led to a 5- to 10 fold increase in IL-6 ( 10 ng / ml ) .
+At this time the cytokine levels of IL-6 from cells treated with VM increased to about 1 ng / ml .
+Full-size image ( 40K )
+High-quality image ( 220K )
+Fig. 2. Increase in secretion of IL-6 by hFOB 1.19 at various stages of differentiation in the presence of breast cancer conditioned medium. hFOB 1.19 were grown at 34 C until confluency ( day 6 ) when they were changed to differentiation conditions as indicated in the methods section .
+Twenty-four hours prior to the indicated day , osteoblasts were treated with either VM or CM .
+The resultant culture supernatants were collected and assayed by ELISA. ( A ) IL-6 ; ( B ) IL-8 ; ( C ) MCP-1 .
+The concentration of IL-6 in the BCCM alone was approximately 73 pg / ml , IL-8 was 449 pg / ml and MCP-1 was undetectable ( 2 pg / ml ) .
+These baseline cytokine levels were subtracted from values obtained after hFOB treatment with CM .
+Experiment was performed twice for days 4 and 6 and eight times for day 8 with similar results .
+Shown is a representative experiment .
+By paired t-test , P = 0.004 for IL-6 , and 0.001 for IL-8 in a total of 5 separate experiments .
+P = 0.022 for MCP-1 in a total of 4 separate experiments ( P value calculations included data not shown ) .
+View Within Article .
+A similar pattern was found with IL-8 .
+Cytokine concentrations in osteoblasts treated with VM were low ( 0.02 ng / ml ) during the early differentiation stage ; however , the concentration of IL-8 increased to 0.26 ng / ml by day 8. Treatment with CM increased osteoblast production of IL-8 by nearly five times ( 1.26 ng / ml ) when compared to treatment with VM at the same time ( 0.26 ng / ml ) .
+Osteoblast production of MCP-1 displayed a different pattern of expression than IL-8 and IL-6 .
+MCP-1 increased in cells treated both with VM and CM .
+However , the concentrations of MCP-1 were higher in cultures of osteoblasts treated with CM than with VM .
+This increase in MCP-1 was maintained throughout all stages of osteoblast differentiation ( day 4 osteoblasts treated with VM = 0.47 ng / ml MCP-1 , CM = 1.92 ng / ml MCP-1 ; day 8 osteoblasts treated with VM = 3.77 ng / ml MCP-1 , CM = 6.84 ng / ml MCP-1 ) .
+The dose response of CM-treated osteoblast cytokine expression was determined by treating hFOB 1.19 with 50% , 25% , and 12.5% BCCM .
+After 24 h , the resultant culture supernatants were collected and assayed by ELISA for IL-6 , IL-8 , and MCP-1 .
+Osteoblast production of IL-6 , IL-8 , and MCP-1 increased as the percentage of BCCM was increased .
+Full-size image ( 33K )
+High-quality image ( 319K )
+Fig. 3. The hFOB 1.19 increase in cytokine secretion by breast cancer conditioned medium was dose dependent. hFOB 1.19 cells were plated and grown at 34 C until confluency when they were changed to differentiation conditions as indicated in the methods section .
+On day 7 , osteoblasts were treated for 24 h with VM or CM at either 50% , 25% , or 12.5% BCCM .
+The resultant culture supernatants were collected and cytokine levels determined by ELISA .
+View Within Article .
+To determine if the altered cytokine production was specific to breast cancer conditioned medium , osteoblast cultures were treated with osteoblast CM .
+There were no significant changes in osteoblast production of IL-6 , IL-8 , or MCP-1 compared to treatment with VM ( data not shown ) .
+Direct co-culture of hFOB 1.19 and MDA-MB-231 breast cancer cells .
+A direct co-culture model was tested to determine if the changes similar to treatment with CM occurred with cell contact .
+MDA-MB-231 cells were added to a differentiating ( day 8 at 39 C ) monolayer of hFOB 1.19 at a ratio of 1:10 , MDA-MB-231 to hFOB cells .
+MDA-MB-231 and hFOB 1.19 cells were cultured separately as controls .
+After 24 h , the culture supernatants were collected and assayed for IL-6 and IL-8 by ELISA .
+The supernatant from the osteoblast-cancer cell co-culture contained nearly 40 ng / ml of IL-6 and 10 ng / ml of IL-8 , while the hFOB 1.19 cells alone expressed 6 ng / ml IL-6 and 3.5 ng / ml IL-8 .
+Breast cancer cells cultured alone expressed 200 pg / ml of IL-6 or IL-8 .
+Therefore , there was a 6 fold increase in IL-6 and a 3 fold increase in IL-8 production under co-culture conditions .
+While we believe that the cytokines were produced by the osteoblasts , it is possible , in a co-culture situation , the osteoblasts may have stimulated the breast cancer cells to increase cytokine production .
+Full-size image ( 27K )
+High-quality image ( 271K )
+Fig. 4. Increase in cytokine production by hFOB 1.19 co-cultured directly with MDA-MB-231 Cells. hFOB 1.19 were plated and grown at 34 C until day 6 when the confluent cultures were moved to 39 C. On day 7 , cells were counted , and MDA-MB-231 metastatic breast cancer cells were added to the existing hFOB osteoblast cultures at a ratio of 1:10 ( breast cancer cells : osteoblasts ) .
+MDA-MB-231 cells were also plated alone .
+Cultures were then incubated at 37 C for 24 h .
+The resultant culture supernatants were collected and assayed by ELISA for IL-6 and IL-8 .
+Medium from MDA-MB-231 cells cultured alone had undetectable levels of IL-6 and IL-8 .
+Solid bars , hFOB 1.19 cells ; checked bars , MDA-MB-231 cells co-cultured with hFOB cells at a 1:10 ratio .
+N 2 , P 0.005 ; P 0.05. .
+View Within Article .
+MC3T3-E1 osteoblasts increased cytokine production in the presence of MDA-MB-231 conditioned medium .
+Due to the temperature-sensitive nature of the hFOB 1.19 cells and the complications of using two human cells lines , we also tested a murine osteoblast line , MC3T3-E1 .
+In initial experiments , the cells were cultured for 25 days in MC3T3-E1 osteoblast differentiation medium before being treated with VM or CM for 24 h .
+The resultant culture supernatants were collected and assayed with a RayBio Mouse Cytokine Array III system .
+There were visible increases in IL-6 and MCP-1 as well as LIX ( CXCL 5 ) , macrophage inflammatory protein-1 ( MIP-1 ) , and RANTES .
+Similar increases were observed when the MC3T3-E1 cells were treated with CM after 12 days of culture , a time when the osteoblasts were in the early matrix-forming stage ( data not shown ) .
+These assays were followed by murine ELISAs to confirm and quantify MCP-1 and IL-6 expression .
+The increases in murine IL-6 were substantial .
+For example , osteoblasts treated with VM for 6 h contained 0.72 ng / ml IL-6 , whereas treatment for 6 h with CM yielded 4.32 ng / ml .
+The increases in murine MCP-1 , however , were less dramatic ( 4 ng / ml compared with 7 ng / ml , data not shown ) .
+Since mice do not express IL-8 , we assayed for the murine cytokine MIP-2 , thought to function similarly to IL-8  .
+MIP-2 was detected at low concentrations ( 8 pg / ml ) but increased with exposure to CM ( 100 pg / ml , data not shown ) .
+Thus , exposure to BCCM elicited a similar cytokine response in both human and murine osteoblast lines .
+Additionally , an increased IL-6 response was demonstrated in primary mouse osteoblasts isolated from neonatal calvaria .
+Due to the consistent dramatic increase in murine IL-6 production by the treated osteoblasts , IL-6 was designated as the signature cytokine for the inflammatory response .
+Full-size image ( 110K )
+High-quality image ( 871K )
+Fig. 5. Conditioned medium from breast cancer cells induced osteoblast cytokine production by MC3T3-E1 cells .
+After 12 or 25 days in culture , MC3T3-E1 osteoblasts were treated with either VM or CM .
+Twenty-four hours later , the resultant culture supernatants were collected and a RayBio Mouse Cytokine Antibody Array III was used to detect changes in osteoblast cytokine production .
+Shown are the results from 25 days ; 12 day results were similar. ( A ) Murine osteoblast VM cytokine production. ( B ) Murine osteoblast cytokine production after 24 h treatment with CM .
+From left to right : MCP-1 ( b7,8 ) , IL-6 ( c5,6 ) , MIP-1 ( g7,8 ) , LIX ( m5,6 ) , and RANTES ( m7,8 ) .
+Osteoblast secretion of cytokines was both induced ( LIX ) and increased ( MCP-1 , IL-6 , MIP-1 , and RANTES ) when treated for 24 h with CM .
+View Within Article .
+Full-size image ( 27K )
+High-quality image ( 141K )
+Fig. 6. Conditioned medium from breast cancer cells rapidly induced osteoblast IL-6 production .
+After 12 days in culture , MC3T3-E1 osteoblasts were treated with VM or CM for 2 , 4 , or 6 h .
+The resultant culture supernatant was collected and murine IL-6 levels measured by ELISA .
+Shown is the range of IL-6 concentrations vs. hours of exposure to CM treatment in a box plot .
+Black bar , vehicle medium ; checked bar , conditioned medium .
+N = 2 per condition .
+P 0.005 ( 2 h ) ; P 0.0005 ( 4 h ) ; P 0.001 ( 6 h ) .
+View Within Article .
+Full-size image ( 21K )
+High-quality image ( 76K )
+Fig. 7. Primary murine calvarial osteoblasts secreted IL-6 in response to breast cancer conditioned medium .
+Primary osteoblasts were isolated from the calvariae of neonatal C57bl / 6 mice as described in the methods section .
+The cells were cultured in calvariae differentiation medium for 14 days before the medium was changed to 50% VM or CM .
+After 24 h , culture media were collected and murine IL-6 was quantitated by ELISA .
+Shown are the means standard deviation .
+N = 3 per condition ; P 0.001 .
+View Within Article .
+To determine the response time to BCCM , MC3T3-E1 cells were cultured for 12 days and treated with VM or CM for 2 , 4 , or 6 h .
+The resultant culture supernatants were assayed for murine IL-6 .
+As little as 2 h of exposure to the CM elicited a 2 fold increase in murine IL-6 secretion by the osteoblasts ( VM treatment , 0.84 ng / ml IL-6 ; CM treatment , 1.8 ng / ml IL-6 ) .
+After 6 h , the increase was nearly 5 fold ( VM treatment , 0.72 ng / ml IL-6 ; CM treatment , 4.32 ng / ml IL-6 ) .
+Parathyroid hormone-related peptide , transforming growth factor-beta , and IL-1beta are candidate factors for mediating the expression of osteoblast cytokines .
+PTHrP , interleukin-1beta ( IL-1 ) , and TGF- are reported to be present in breast cancer conditioned media and have been reported to induce at least one cytokine of interest ( IL-6 , IL-8 , or MCP-1 )  .
+Therefore , they were considered as possible factors secreted by MDA-MB-231 cells that may promote osteoblast cytokine expression .
+IL-1 was not detected therefore , it was eliminated from further consideration .
+PTHrP was present at 46 pg / ml , approximately 210 12M ( Andrea Manni , Penn State Hershey ) .
+A similar value was reported by Guise_et_al.  .
+This concentration was too low to bring about an increase in IL-6 expression by the osteoblasts ( data not shown ) .
+However , TGF- was found to be present at between 1 and 5 ng / ml depending on the batch of conditioned medium ( also see Mercer_et_al.  ) .
+These concentrations are sufficient to stimulate IL-6 production by the osteoblasts ( see Fig. 8 ) .
+We tested the combination of a suboptimal concentration of 0.5 ng / ml TGF- with 510 12 M PTHrP and did not find a synergistic production of IL-6 ( data not shown ) .
+Therefore , we focused on TGF- in the breast cancer cell conditioned medium .
+Full-size image ( 34K )
+High-quality image ( 183K )
+Fig. 8. TGF- is partially responsible for the expression of IL-6 by MC3T3-E1 .
+MC3T3-E1 cells were cultured for 15 days .
+Conditioned medium from MDA-MB-231 cells , containing 1.4 ng / ml TGF , later determined by ELISA , was added to the cells at 50% or incubated for 1 h at 37 with 10 g / ml neutralizing antibody to TGF-1,2,3 before addition .
+Other cultures were incubated with 2.5 ng / ml TGF- or TGF- that had been pre-incubated with 10 g / ml antibody to TGF-1,2,3 .
+One set of cultures was incubated with vehicle medium only .
+After 4 h incubation , the culture media were collected and assayed for IL-6 .
+Black bar , vehicle medium ; checked bar , conditioned medium .
+Shown are the means standard deviation of a representative experiment .
+This experiment was conducted three times in duplicate with similar results ( N = 6 per condition ) ; P 0.0003 ; #P 0.0004 .
+View Within Article .
+We determined the effect of adding a TGF- neutralizing antibody to the breast cancer cell conditioned medium .
+Addition of conditioned medium to MC3T3-E1 increased their production of IL-6 nearly 200 fold compared to addition of regular differentiation medium ( VM ) .
+Treatment of the conditioned medium with an excess ( 10 g / ml ) of neutralizing antibody to TGF-1,2,3 reduced osteoblast IL-6 expression by 45% compared with untreated conditioned medium .
+Addition of TGF ( 2.5 ng / ml ) to the osteoblasts increased IL-6 production by approximately 50 fold .
+This value was reduced by 70% following incubation of the TGF antibody with the TGF before addition to the cells .
+We later determined that the conditioned medium contained approximately 1.4 ng / ml TGF .
+Thus , the antibody was far in excess of that required to neutralize 90% of the antigen .
+A similar result was seen when we used an inhibitor ( Tocris , Ly364947 ) of the TGF receptor ( data not shown ) .
+Discussion .
+We found that osteoblasts responded to conditioned medium from MDA-MB-231 human metastatic breast cancer cells with enhanced cytokine expression .
+Specifically , the osteoblasts increased production of IL-6 , MCP-1 , and IL-8 ( human ) , three cytokines characterized as osteoblast inflammatory stress proteins .
+These molecules may help to provide a favorable tumor cell environment as well as initiate osteoclastogenesis .
+This finding supports the idea that breast cancer metastases create a unique niche in the bone microenvironment by co-opting the normal cells of the bone to favor tumor growth and development .
+While other cells types are undoubtedly involved in the metastatic and tumorigenic process , here we demonstrate a direct effect of metastatic breast cancer cells on osteoblasts .
+Breast cancer metastasis to bone is predominantly an osteolytic disease whereby osteoclasts , not cancer cells , are the cause of bone degradation .
+According to the vicious cycle paradigm  , cancer cell-secreted PTHrP activates osteoblasts to express RANKL which binds to receptor activator of nuclear factor kappa B ( RANK ) on osteoclasts leading to their activation and subsequent bone loss .
+Osteoclast resorption of the bone matrix releases TGF- that acts on the tumors cells to stimulate more PTHrP .
+However , osteoclasts are not solely responsible for sustained bone loss .
+Administration of bisphosphonates to inhibit osteoclast activity does not result in resolution of bone lesions  .
+Lesion formation is slowed but lesions do not heal .
+Clearly the impact of metastatic breast cancer cells on osteoblasts cannot be ignored .
+In a closer examination of the fate of the osteoblasts , it was found that in the presence of MDA-MB-231 breast cancer cells or their conditioned media , cultured osteoblasts exhibited an increase in apoptosis , a change in morphology , and suppression in differentiation and mineralization as evidenced by a lack of expression of alkaline phosphatase , bone sialoprotein , and osteocalcin  .
+This increase in osteoblast apoptosis and decrease in alkaline phosphatase expression was also detected in vivo in a mouse model  .
+In addition to these phenotypic effects , the current study demonstrates that osteoblasts exhibit an increase in inflammatory cytokines in the presence of metastatic breast cancer cells .
+A cytokine array revealed that three cytokines in particular , IL-6 , IL-8 , and MCP-1 , increased dramatically when hFOB 1.19 human osteoblasts were treated with CM .
+IL-6 and IL-8 were also elevated when hFOB 1.19 cells were co-cultured .
+MC3T3-E1 murine osteoblasts displayed a similar increase in murine IL-6 and MCP-1 when exposed to metastatic breast cancer cell conditioned media .
+As further evidence , we have also seen an increase in MIP-2 and KC ( murine homologues to human IL-8  ) both in vitro and ex vivo ( unpublished data ) .
+Exposure of primary murine osteoblasts to MDA-MB-231 breast cancer conditioned medium also elicited an increase in murine IL-6 .
+These same cytokines are expressed in high levels by osteoblasts in debris-mediated osteolysis  , which occurs when particles from prosthetic devices cause a chronic state of inflammation in the bone microenvironment  .
+Additionally , osteoblasts exposed to M. tuberculosis or S. aureus both in vitro and in vivo undergo an inflammatory stress response and produce IL-6 , IL-8 , and MCP-1  .
+The infection of bone by these two microbes elicits the chronic inflammatory response and bone damage observed in trauma-induced osteomyelitis .
+Thus , the present study indicates that breast cancer cells evoke a similar stress response from osteoblasts .
+IL-6 is a pleiotropic cytokine that influences many biological events including bone remodeling .
+In particular , IL-6 plays a role in the formation and activation of osteoclasts both in vitro and in vivo  .
+IL-6 has been implicated in the pathogenesis of bone resorption associated with Paget 's disease  , Gorham-Stout ( disappearing bone disease ) syndrome  , and multiple myeloma  .
+Of interest to this study , IL-6 has been shown to induce production of PTHrP in human osteoblastic cells  .
+Soluble PTHrP , which is also derived from tumor cells  , can stimulate the production of additional osteoblast-derived IL-6 through a feedback loop and facilitate osteoclastogenesis by decreasing the production of OPG and increasing osteoblast expression of RANKL .
+The bone resorption that subsequently follows releases stored TGF- from the bone matrix that can in turn enhance breast cancer cell production of PTHrP  .
+In addition to playing a role in osteoclastogenesis and bone resorption , IL-6 has other functions that may contribute to cancer progression .
+Although the involvement of IL-6 in regulating the growth and apoptosis of breast cancer cells is unclear , IL-6 is known to be a growth factor for myeloma cells  and acts as an anti-apoptotic factor for human esophageal carcinoma and multiple myeloma cells  .
+In addition , IL-6 downregulates the expression of CXCL10 , a chemokine with anti-malignant properties , by MDA-MB-231 cells  .
+IL-6 has also been reported to enhance the migration of T47D breast cancer cells in vitro  .
+Furthermore , the importance of IL-6 in cancer progression was demonstrated by a study in which IL-6 signaling in MDA-MB-231 breast cancer cells was blocked .
+This inhibition resulted in significantly decreased tumor engraftment , size , and metastasis in a nude mouse model  .
+Finally , IL-6 levels in breast cancer patients have been correlated with clinical stage  and rate of recurrence  .
+In particular , high IL-6 serum levels in patients with advanced or recurrent breast cancer were found to be an unfavorable prognosis indicator  .
+Besides acting on cells in the tumor / bone microenvironment , IL-6 has also been found to increase osteoblast production of another cytokine identified in our study : MCP-1 .
+A monomeric polypeptide member of the CC chemokine superfamily  , MCP-1 is a principle cytokine involved in inflammation and bone remodeling .
+MCP-1 is known to recruit cells involved in inflammation  , osteoclast precursors  , and angiogenesis  .
+These three processes are clearly involved in breast cancer tumorigenesis and lesion formation in the bone .
+MCP-1 is also normally produced by osteoblasts  , but also is increased in metastatic cell lines  .
+MCP-1 has been found to be particularly important in cancer cell migration and metastasis .
+In a study that utilized the metastatic PC3 , LNCaP , and bone metastatic LNCaP C4-2B prostate cancer cells , it was found that MCP-1 increased proliferation and invasion  .
+Interestingly , the G-protein-coupled receptor CCR2 , the receptor for MCP-1 , was found to be present on all the prostate cancer cell lines examined  .
+In addition , prostate cancer cells were found to produce high levels of MCP-1 compared to primary prostate epithelial cells  .
+In that same study , MCP-1 was shown to mediate prostate cancer tumor-induced osteoclastogenesis and bone resorption  .
+In breast and ovarian cancer patients , MCP-1 serum levels have been correlated with advanced tumor stage  .
+In addition , the expression of MCP-1 in squamous cell carcinoma of the esophagus was equated with venous invasion and metastasis  .
+Furthermore , it has been shown that MCP-1 acts as a chemoattractant for myeloma cells  .
+Thus , it is evident that MCP-1 is a key mediator involved in inflammation and cancer cell progression .
+IL-8 is a CXC inflammatory cytokine produced by many cell types including osteoblasts  .
+IL-8 was first identified as a neutrophil chemoattractant and is now known to attract monocytes and osteoclast precursors as well as promote angiogenesis  .
+In the bone , IL-8 has been shown to directly inhibit alkaline phosphatase expression  as well as decrease normal bone resorption and increase the motility of osteoclasts to new resorption sites  .
+Interestingly , human osteoclasts have also been shown to secrete high levels of IL-8 , indicating the molecule 's importance in normal bone remodeling  .
+Along with IL-6 and MCP-1 , IL-8 has also been found to be important in cancer cell progression .
+IL-8 is secreted by many tumor cell lines that are metastatic and osteolytic  .
+In addition , IL-8 appears to play a role in cell motility , invasion , and metastatic potential in human tumors  .
+Concerning this present study , increased bone metastatic potential of human breast cancer cells has been associated with the cancer cell 's ability to express IL-8 .
+In several studies done by Bendre_et_al.  ,  , metastatic breast cancer cell-derived IL-8 was found to directly stimulate osteoclastogenesis via RANKL dependent and independent mechanisms .
+In particular , it was proposed that IL-8 plays an important role in the vicious cycle of breast cancer cell metastasis to the bone .
+Breast cancer cell-derived IL-8 increased RANKL expression on osteoblasts , which in turn , facilitated osteoclast formation .
+In addition , soluble IL-8 directly promoted osteoclastogenesis , leading to bone resorption .
+Stored TGF- is then released from the bone matrix that continues to drive the vicious cycle , amplifying osteolysis and supporting breast cancer bone metastases  .
+IL-8 has also been implicated in the clinical outcome of patients with breast cancer .
+In a study involving 69 women with operable or advanced breast cancer , elevated serum IL-8 levels were found to be directly associated with the clinical stage of breast cancer and were found to be indicative of a poor prognosis  .
+Do these cytokines feedback directly onto the tumor cells ?
+It seems unlikely since the MDA-MB-231 cells do not have receptors for these cytokines .
+Specifically , as reported in the literature , MDA-MB-231 cells do not express the CXCR1 receptor for IL-8 ,  but do express low levels of CXCR2 mRNA  .
+Nonetheless , neutralizing antibody to IL-8 did not affect the growth of the MDA-MB-231 cells  .
+MDA-MB-231 cells do not express receptors for IL-6  .
+This finding is consistent with their lack of response to IL-6  .
+There is one report of low expression for the mRNA for the receptor for MCP-1 , but none for the protein itself  .
+These reports taken together indicate that the cancer cells would not be expected to respond to these cytokines .
+Our hypothesis is that osteoblasts produce these cytokines in response to the cancer cells , and that these cytokines then go on to activate osteoclasts .
+It is well documented in the literature that IL-6 , IL-8 , and MCP-1 have osteoclast stimulating properties  .
+In summary , we have shown that osteoblasts display an inflammatory response when exposed to breast cancer cell conditioned medium .
+The inflammatory cytokines , IL-6 , MCP-1 , and IL-8 can target osteoclast precursors and osteoclasts to bring about bone matrix destruction .
+Thus , osteoblasts contribute to the osteolytic phenotype , both through suppression of bone deposition and production of cytokines that recruit and activate osteoclasts .
+Acknowledgments .
+This work was supported by the U.S. Army Medical and Material Research Command Breast Cancer Program ( DAMD 17-02-1-0358 and W81XWH-06-1-0432 to AMM , W81XWH-06-1-0363 to KMB ) ; National Foundation for Cancer Research , Center for Metastasis Research ; The Susan G. Komen Breast Cancer Foundation , BCTR104406 ; The American Institute of Cancer Research , #06A027-REV2 ; Sigma Xi , Undergraduate Research Grants ; President 's Fund , and Schreyer Honors College research awards to M.K. and E.C. The authors would like to thank Richard Ball of the Immunomodulation Core , Penn State GCRC ( work supported by NIH M01RR10732 ) for technical advice regarding ELISAs and Donna Sosnoski for editorial assistance .

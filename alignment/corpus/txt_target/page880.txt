@@ -1,0 +1,234 @@
+Breast cancer is the second leading cause of cancer deaths in women .
+Incidence rates of breast cancer are increasing in most countries , particularly in Asia , with 3% annual increase in incidence as compared to 0.5% in the rest of the world  .
+The incidence of breast cancer is rising alarmingly , particularly in developing countries such as India .
+The molecular mechanisms underlying breast carcinogenesis are not understood completely .
+Cell lines provide an unlimited , self-replicating source of cells that can be widely distributed to facilitate comparative studies .
+Continuous cell lines established from primary tumours provide important experimental systems for studying the biology and genetic changes associated with tumour initiation and progression .
+Since the establishment of the first human breast carcinoma cell line BT-20 in 1958  , many attempts have been made to establish permanent breast tumour cell lines .
+However , only limited success has been achieved in cultivating long-term epithelial cell cultures from human primary breast tumours ( [ Gazdar et al. , 1998 ] and [ Wang et al. , 2000 ] ) .
+To date the majority of breast cancer derived cell lines have been obtained from secondary tumours and pleural effusions of patients with advanced stage breast cancers .
+The cultures established from secondary deposits are those collected late in the development of disease by which time there may have been a modification of the original tumour .
+Although about 100 human breast cancer lines have been described in the literature , the number of breast tumour cell lines that have been adequately characterised and are widely used is only about 20 ( [ Engel and Young , 1978 ] and [ Lacroix and Leclercq , 2004 ] ) .
+Herein we report the establishment and characterisation of two oestrogen receptor negative breast cancer cell lines , one from a familial and the other from a sporadic primary breast carcinoma .
+2. Materials and methods2.1 .
+Tissue specimens and establishment of primary cultures .
+Breast carcinoma tissue were collected and processed for setting up the primary explant cultures as described previously  , except that these cultures were propagated in DMEM / F12 medium .
+The cultures were monitored for cell growth and propagated by periodic sub-culturing by trypsinisation .
+2.2. Purification of epithelial cells .
+The epithelial cell population was enriched by differential trypsinisation as described previously ( [ Kaur and Ralhan , 2003 ] and [ Rohatgi et al. , 2005 ] ) .
+Thereafter fibroblast overgrowth was reduced by selective chemical elimination using geneticin ( G418 sulphate , 100 g / ml ) ( GIBCO BRL , Grand Island , NY ) as described by Ji_et_al.  .
+Epithelial cells were then purified using MACS epithelial columns ( Milteny Biotech GmbH , Germany ) .
+These eluted purified epithelial cells were plated in a culture flask containing DMEM / F12 ( Gibco Invitrogen Cell Culture , Grand Island , NY ) medium supplemented with 10% FBS ( Gibco Invitrogen Cell Culture ) , crystallised bovine insulin ( 5 g / ml ) ( Sigma - Aldrich , Bangalore , India ) , epidermal growth factor ( 10 ng / ml ) ( Gibco Invitrogen Cell Culture ) and propagated regularly .
+The cells were maintained in medium supplemented with growth factors until the 12th passage , after which growth factors were withdrawn gradually from the medium .
+The cells could be grown without growth factors after the 18th passage .
+2.3. Light and electron microscopic analysis .
+Breast cancer cells at various passages were examined and photographed using an inverted phase-contrast microscope ( Olympus , Tokyo , Japan ) .
+Cells grown on coverslips were fixed with 2.5% glutaraldehyde in 0.1 M sodium cacodylate buffer ( pH 7.0 ) , and processed for cell surface characterisation by scanning electron microscopy ( SEM ) ( Leo 1530 field emission scanning electron microscope ; see Kaur and Ralhan , 2003 ) .
+Cells in monolayer were fixed with 2.5% glutaraldehyde in 0.1 M sodium cacodylate buffer ( pH 7.4 ) and processed for examining internal cell structures using a transmission electron microscope ( TEM ) ( MORGAGNI-2680 ; see [ Kaur and Ralhan , 2003 ] and [ Rohatgi et al. , 2005 ] ) .
+2.4. Growth rate and colony formation in soft agar .
+Cells were plated in triplicate at a cell density of 2104 cells per well in a 24 well plate .
+Cells were trypsinised and cell number was counted using a haemocytometer at regular time intervals ( 24 - 168 h ) .
+Growth curves were plotted and doubling times calculated from the exponential phase .
+Anchorage-independent growth was assessed by suspending 1105 cells in 1 ml 0.3% ( w / v ) soft agar ( Difco Laboratories , Detroit , MI , USA ) layered over 0.5% ( w / v ) base agar in 35 mm dishes .
+Agar was supplemented with DMEM / F12 and 10% FBS .
+Formation of colonies was determined by inverted microscopy at 2 and 4 weeks post-seeding .
+2.5. Immunocytochemistry .
+Cells grown on coverslips were fixed with acetone and processed for immunocytochemical analysis  .
+Briefly , cells were immunolabelled with primary antibodies ( 1 g / ml ) followed by biotinylated secondary antibody ( 0.8 g / ml ; DAKO , Produktionsvej , Glostrup , Denmark ) .
+They were incubated with streptavidin conjugated horseradish peroxidase ( HRP ) and the colour developed using diaminobenzidine ( DAB ) as the chromogen .
+Slides were counterstained with Mayer 's haematoxylin , mounted with DPX mountant and examined under a light microscope .
+2.6. Mutational analysis of TP53 .
+Genomic DNA was isolated from BCa-11 and BCa-15 cells by the standard phenol - chloroform method  .
+Polymerase chain reaction ( PCR ) amplified products encompassing exons 5 , 6 , 7 , 8 and 9 of the TP53 gene ( which harbour mutational hotspots ) were analysed for mutations by direct automated sequencing ( ABI Prism 377 sequencer , Applied Biosystems , Foster City , CA , USA ) .
+2.7. RT-PCR analysis of DNMT1 , DNMT3A , DNMT3B , BRCA1 and BRCA2 expression .
+Total RNA was prepared using Trizol reagent ( Invitrogen , Inc. , Rockville , MD ) .
+Five micrograms of total RNA were reverse-transcribed using 18 mer oligodeoxythymidylate and MMLV ( Invitrogen ) in a volume of 20 l .
+Two microlitres of cDNA templates were subjected to PCR amplification , using -Actin as a control of cDNA integrity  .
+PCR was carried out with 2 l of cDNA using primers specific for DNMT1 , DNMT3A , DNMT3B , BRCA1 and BRCA2 using the conditions mentioned elsewhere ( [ Chan et al. , 2002 ] , [ Magdinier et al. , 2000 ] and [ Mizuno et al. , 2001 ] ) .
+2.8. Bisulphite treatment and methylation specific PCR .
+Genomic DNA was isolated from the cells using the phenol - chloroform method  and subjected to bisulphite treatment , as described previously  .
+Methylation specific PCR was carried out using 50 - 100 ng of bisulphite treated DNA in a PCR mixture containing : 16.6 mM ammonium sulphate ; 67 mM Tris ( pH 8.8 ) ; 6.7 mM MgCl2 ; 10 mM -mercaptoethanol ; 1.25 mM each dNTPs and primers 1.6 M each in a 25 l reaction .
+Reactions were hot started at 95 C for 5 min before the addition of 1.25 U of Taq polymerase  .
+The sequences of the primers ( purchased from Microsynth ) used for each gene are listed below : - BRCA1 : methylated , forward 5-TCG TGG TAA CGG AAA AGC GC -3 , reverse 5-AAA TCT CAA CGA ACT CAC GCC G-3 ( product size : 75 bp ) unmethylated , forward 5-TTG GTT TTT GTG GTA ATG GAA AAG-3 , reverse 5- CAA AAA ATC TCA ACA AAC TCA CAC CA-3 ( product size : 86 bp ) ,
+- RAR2 : methylated , forward 5-TCG AGA ACG CGA GCG ATT CG-3 , reverse 5-GAC CAA TCC AAC CGA AAC GA-3 , ( product size : 145 bp ) unmethylated , forward 5-AAC CAA TCC AAC CAA AAC AA-3 , reverse 5-TTG AGA ATG TGA GTG ATT TGA-3 ( product size : 146 bp ) ,
+- HOXA5 : methylated , forward 5-TTT AGC GGT GGC GTT CG-3 , reverse 5-ATA CGA CTT CGA ATC ACG TA-3 ( product size : 183 bp ) unmethylated , forward 5-TTG GTG AAG TTG GGT G-3 , reverse 5-AAT ACA ACT TCA AAT CAC ATA C -3 ( product size : 213 bp ) ,
+- RASSF1A : methylated , forward 5-GTT GGT ATT CGT TGG GCG C-3 , reverse 5-GCA CCA CGT ATA CGT AAC G -3 ( product size : 160 bp ) unmethylated , forward 5-GGT TGT ATT TGG TTG GAG TG-3 , reverse 5-CTA CAA ACC TTT ACA CAC AAC A-3 ( product size : 180 bp ) .
+3. Results3.1 .
+Establishment of novel human breast cancer cell lines .
+BCa ( Breast Carcinoma ) -11 was established from a 65 year female patient diagnosed with in situ ductal carcinoma of the breast .
+The patient had a family history of breast cancer .
+BCa ( Breast Carcinoma ) -15 derived from a 70 year female with Stage IIB invasive ductal carcinoma of the breast .
+Epithelial cells emerged from the tissue piece within 7 days of initiation of the culture ( Fig. 1A,C ) .
+After 14 days , the primary culture was confluent , fibroblasts were removed and epithelial cells were purified as described in Section 2 ( Fig. 1B,D ) .
+BCa-11 and BCa-15 cells showed epithelioid morphology when observed under the light microscope .
+BCa-15 cells grow rapidly in vitro .
+The confluent cells grew in multilayers , which is suggestive of a loss of contact inhibition , a characteristic of transformed cells .
+BCa-11 cells are in the 28th passage while , BCa-15 cells are in the 30th passage .
+Full-size image ( 144K )
+Fig. 1. Breast cancer cell lines BCa-11 and BCa-15 during establishment. ( A ) Breast cells emerging from the tissue chunk within 7 days of culturing BCa-11. ( B ) Population of BCa-11 cells after epithelial cell purification using MACS column. ( A and B : original magnification 40 ) . ( C ) BCa-15 culture on day 6 depicting emergence of different cell types from the tissue piece. ( D ) Population of BCa-15 cells after epithelial cell purification using MACS column .
+Note , that when allowed to grow to confluency , cells form multilayers indicating loss of contact inhibition. ( C and D : original magnification 20 ) .
+View Within Article .
+3.2. Characterisation of the cell lines3.2.1 .
+Ultrastructural analysis .
+To verify the epithelial characteristics of the established cells , ultrastructure analysis was carried out .
+Scanning electron microscopy revealed irregular cell surface morphology with tubular intercellular cell to cell connecting structures for both cell lines ( Fig. 2A,B ) .
+These cells also showed fusiform structures with long , slender cytoplasmic processes and microvilli on the cell surface ( Fig. 2A,B ) .
+Full-size image ( 216K )
+Fig. 2. Ultrastructural analysis of established breast cancer cell lines by electron microscopy .
+Scanning electron micrographs of ( A ) BCa-11 ( original magnification 1.25K ) and ( B ) BCa-15 ( original magnification 1.83K ) .
+These cell lines displayed irregular cell surfaces with intercellular connecting structures and few microvilli , as indicated by arrowheads in combination with the letters c and m , respectively .
+Transmission electron micrographs of ( C ) BCa-11 ( original magnification 2200 ) and ( D ) BCa-15 ( original magnification 880 ) revealed cytoplasmic filaments ( arrow , cf ) within the cells , cell to cell attachment by tight junctions ( arrow , tj ) and microvilli ( arrow , m ) on the cell surface .
+View Within Article .
+Transmission electron microscopic evaluation revealed polygonal BCa-11 cells connected to each other by tight junctions .
+Few microvilli were located on the cell surface .
+Furthermore , bundles of cytoplasmic tonofilaments were also observed .
+Electron micrographs of BCa-15 cells revealed few well-developed desmosomes and cytoplasmic filaments .
+3.2.2. Expression of epithelial markers .
+Epithelial membrane antigen ( EMA ) and cytokeratins are expressed by most epithelial cancer cells and serve as epithelial markers .
+Immunocytochemical analysis of BCa-11 and BCa-15 cells demonstrated the presence of epithelial membrane antigen ( EMA ) , ( Fig. 3A,B ) and pan-cytokeratins containing cytokeratins 4 , 5 , 6 , 10 , 13 and 18 ( Fig. 3C,D ) , confirming the epithelial origin of these cultures .
+Full-size image ( 167K )
+Fig. 3. Immunocytochemical analysis of established breast cancer cell lines .
+Epithelial membrane antigen ( EMA ) ( A,B ) ; Pancytokeratins ( C,D ) ; and vimentin ( E,F ) in BCa-11 and BCa1-15 cells respectively ( original magnification 200 ) .
+View Within Article .
+BCa-11 cells were immunonegative for vimentin .
+However , BCa-15 cells showed the presence of vimentin , a mesenchymal cell marker .
+The co-expression of markers of mesenchymal and epithelial lineage is suggestive of epithelial metaplastic transition ( EMT ) in BCa-15 cells  .
+3.2.3. Growth characteristics .
+Population doubling times of these cell lines were determined by the trypan blue exclusion method by counting cell numbers at different time periods .
+BCa-11 cells grow slowly in culture with a population doubling time of 96 h .
+BCa-15 cells grow more rapidly with a population doubling time of 60 h ( data not shown ) .
+Confluent BCa-15 cells grew in multilayers , suggestive of loss of contact inhibition , a characteristic of transformed cells .
+BCa-11 cells are in the 28th passage while , BCa-15 cells are in the 30th passage .
+Next , BCa-11 and BCa-15 cells were grown under substratum independent conditions to assess their growth potential in anchorage free environment .
+Both cultures grew in agar as progressively enlarging colonies demonstrating anchorage independent growth .
+The human breast cancer cell line MCF-7 , used as positive control , formed colonies in soft agar , while the human non-malignant breast cell line MCF10A , used as a negative control , did not form any colony in soft agar .
+BCa-15 formed larger colonies , as compared to that of BCa-11 , and the colonies formed by both these cultures contained on average 70 - 75 and 60 - 65 cells per colony , respectively , as compared to MCF7 colonies with 80 - 85 cells .
+Full-size image ( 57K )
+Fig. 4. Photomicrograph of colonies formed in soft agar .
+1105 cells were plated in soft agar and observed for colony formation .
+The experiments were done twice in triplicate .
+BCa-11 , BCa-15 and MCF7 ( positive control ) formed colonies in soft agar showing anchorage-independent growth characteristics of the cells , whereas the non-malignant breast cell line , MCF10A did not form colonies indicating anchorage dependent growth .
+View Within Article .
+3.2.4. Mutational analysis .
+Mutational analysis of TP53 gene exons 5 - 9 showed wild type sequence for both the cell lines , BCa-11 and BCa-15 .
+3.2.5. RT-PCR analysis of BRCA1 and BRCA2 transcripts .
+BRCA1 gene expression is reduced in many sporadic breast cancers ( [ Rice et al. , 1998 ] and [ Rice et al. , 2000 ] ) .
+Therefore , the mRNA levels were analysed to determine if there is any reduction in the levels of BRCA1 and BRCA2 transcripts by RT-PCR using gene specific primers .
+BRCA1 and BRCA2 transcripts were observed in both BCa-11 and BCa-15 cells .
+This suggests that alterations in BRCA1 and BRCA2 expression may not be critically involved in the tumourigenic process in these cell lines .
+Full-size image ( 18K )
+Fig. 5. BRCA1 and BRCA2 transcripts in breast cancer cell lines .
+Both BCa-11 and BCa-15 cell lines showed expression of BRCA1 and BRCA2 mRNA albeit at different levels. -Actin was used as an internal control in the respective cell lines .
+Lane NC , negative control ; lane L , 50 bp DNA ladder .
+View Within Article .
+3.2.6. Expression of biological markers .
+Expression of various cell cycle regulatory genes , cell surface receptors , oncogenes , tumour suppressor gene products , viz. , BRCA1 , ER , p53 , Her2 / neu , RAR , HOXA5 , Dab2 , p21cip1 / waf1 , CyclinD1 , p16Ink4a , pRb and Ki67 was analysed to gain insight into the molecular mechanism ( s ) involved in breast carcinogenesis in these cell lines .
+The expression status of these proteins in BCa-11 and BCa-15 cell lines is summarised in Table 1. .
+Table 1. .
+Immunocytochemical analysis of molecular markers .
+ProteinsCell lines BCa-11BCa-15MCF7 BRCA1Positive ( C ) + faint nuclearPositive ( C ) Positive p53NegativeNegativeNegative ERaNegativeNegativePositive Her2 / neuNegativeNegativePositive RARNegativePositiveNegative HoxA5NegativeNegativePositive Dab2ReducedNegativeNegative p21cip1 / waf1PositivePositiveNegative p16Ink4aNegativePositiveNegative PRbNegativeNegativeNegative Cyclin D1PositiveNegativePositive Ki67PositivePositivePositive .
+Full-size table .
+C , cytoplasmic .
+a ER was considered positive only when nuclear immunopositivity was observed .
+Cytoplasmic staining of ER was considered negative .
+View Within Article .
+3.2.7. Expression of DNA methyl transferases ( DNMTs )
+Expression of DNMTs is elevated in many cancers ( [ De Marzo et al. , 1999 ] , [ el-Deiry et al. , 1991 ] , [ Girault et al. , 2003 ] , [ Mizuno et al. , 2001 ] and [ Robertson et al. , 1999 ] ) .
+Hence we analysed expression of DNMTs in BCa-11 and BCa-15 , and their transcript levels were compared with those in the breast cancer cell line MCF7 and the non-malignant mammary cell line MCF10A .
+DNMT1 , DNMT3A and DNMT3B transcripts were amplified using gene specific primers .
+Housekeeping gene , -actin was used as control for normalisation .
+Both the cell lines showed expression of DNMT1 , DNMT3A and DNMT3B .
+DNMT1 and DNMT3B transcript levels are elevated in these cell lines ( similar to the breast cancer cell line MCF7 ) when compared with the non-malignant breast cell line , MCF10A .
+Full-size image ( 28K )
+Fig. 6. Expression of DNMTs transcripts in breast cell lines .
+DNMTs transcripts are over expressed in breast cancer cell lines MCF7 , BCa-11 and BCa-15 as compared to non-malignant cell line MCF 10A , particularly DNMT3B transcripts are elevated in breast cancer cell lines .
+Lane NC , negative control ; lane L , 50 bp DNA ladder .
+View Within Article .
+Table 2. .
+Relative ratios of Dnmts expression in the breast cancer cell lines .
+Cell lineDnmt1Dnmt3aDnmt3b MCF72.21.53.5 BCa-112.61.45.3 BCa-152.31.74.0 MCF10A111 .
+Full-size table .
+View Within Article .
+3.2.8. Epigenetic alterations .
+Promoter methylation is one of the mechanisms of silencing tumour suppressor genes that exist in neoplastic cells  .
+Therefore , we carried out promoter methylation analysis of BRCA1 , RAR2 , RASSF1A and HOXA5 genes which are commonly known to be methylated in breast cancer .
+Methylation specific PCR analysis of these gene promoters has shown that RAR2 and RASSF1A promoters are methylated in BCa-11 cells , while mono-allelic methylation of HOXA5 is observed in these cells .
+In BCa-15 both RASSF1A and HOXA5 gene promoters are methylated , while the RAR2 promoter is unmethylated .
+BRCA1 promoter and Dab2 exon 1 were unmethylated in both cell lines ( Fig. 7D,E ) .
+For comparison , breast cancer cell line , MCF7 , and the non-malignant cell line , MCF 10A , were also analysed .
+RASSF1A and RAR2 were methylated in the breast cancer cell line MCF7 , while the non-malignant breast cell line MCF-10A did not show promoter methylation of the genes analysed in this study .
+Full-size image ( 70K )
+Fig. 7. Promoter methylation status of breast cell lines. ( A ) RAR2 methylation ( product size : 145 bp M , 146 bp UM ) ; ( B ) RASSF1A methylation ( product size : 160 bp M , 180 bp UM ) ; ( C ) HOXA5 methylation ( product size : 183 bp M , 213 bp UM ) ; ( D ) BRCA1 methylation ( product size : 75 bp M , 86 bp UM ) ; ( E ) Dab2 methylation ( product size : 145 bp M , 153 bp UM ) .
+Lane NC , negative control ; lane L , 50 bp DNA ladder ; M , methylated ; U , unmethylated .
+View Within Article .
+4. Discussion .
+Two breast cancer cell lines , BCa-11 and BCa-15 , one with family history of breast cancer and the other from a sporadic breast carcinoma were established from oestrogen receptor negative tumours .
+To our knowledge , the familial breast cancer cell line we have established is one of the few in vitro models of familial origin to date .
+Therefore , these cell lines will provide new experimental models for studying hereditary breast cancer and also for understanding the molecular pathogenesis of ER negative breast cancers .
+Both cell lines BCa-11 and BCa-15 were established from post-menopausal patients and are of ductal origin .
+One of the cultures , BCa-11 , was established from a patient with ductal carcinoma in situ and a family history of breast cancer .
+Carcinoma in situ is an early stage cancer and , therefore , it is difficult to establish a cell line from this stage .
+Intriguingly , although this culture was established from an in situ ductal carcinoma , the cells lack oestrogen receptor , p16Ink4a and pRb .
+The epithelial nature of the cell lines was established by morphological characteristics and markers of epithelial origin such as epithelial membrane antigen ( EMA ) and cytokeratins .
+Cytokeratins are the intermediate filaments characteristically expressed in epithelial cells .
+The presence of intercellular connecting structures and well developed desmosomes , observed by electron microscopy , suggests the epithelial nature of these cell lines .
+The presence of intermediate filaments and tonofilaments further support their epithelial phenotype  .
+The interacting meshwork formed by keratin filaments and desmosomes on the plasma membrane produces an integrated network throughout the epithelial tissue .
+However , one of the cell lines , BCa-15 , also showed expression of the mesenchymal cell marker , vimentin , suggesting partial transition of epithelial to mesenchymal cell type called metaplastic transition ( [ Kiemer et al. , 2001 ] and [ Savagner , 2001 ] ) .
+Hence , this culture may be classified as a metaplastic cancer cell line .
+Vimentin expression in epithelial cells has been reported to be a marker of high grade malignancy  .
+Co-expression of vimentin with keratin is often seen in epithelial cancer cell lines  , where the two kinds of filaments segregate into distinct networks .
+Both cell lines established in this study showed an anchorage-independent growth pattern , a characteristic feature of transformed cells .
+Anchorage-independence is strongly correlated with tumourigenicity and invasiveness in several cell types  .
+Furthermore , these cells grow in multilayers , suggestive of a loss of contact inhibition .
+Taken together , these characteristic features are indicative of their malignant potential .
+The role of p53 / p21 and pRb/ p16Ink4a / cyclinD1 pathways in cell cycle regulation has been well established ( [ Sherr and McCormick , 2002 ] and [ Simin et al. , 2004 ] ) .
+Hence , we studied the expression of proteins involved in these pathways .
+Interestingly , we observed the loss of important target proteins of the cell cycle regulatory pathway , namely pRb , p16Ink4a , and increased expression of cyclin D1 in BCa-11 cells , suggestive of a deregulated pRb/p16 / cyclin D1 pathway which may give a growth advantage to these cells .
+BCa-15 cells show a defect in only one of the components of this pathway , i.e. , loss of pRb .
+Nevertheless , these results suggest that deregulation of the pRb / p16 pathway might account for , or at least contribute to , loss of growth control , thereby leading to neoplastic transformation of these two cell lines .
+TP53 is a key tumour suppressor gene involved in the regulation of many cellular pathways , such as cell cycle regulation DNA damage repair , and is mutated in many cancers including breast cancer  .
+Therefore , we additionally analysed TP53 mutations in the established cell lines .
+Sequencing TP53 exons 5-9 in BCa-11 and BCa-15 cells revealed that these cell lines harbour wild type TP53 sequence for these exons , which bear the vast majority of cancer-related mutations  .
+Mutations , if any , existing in the TP53 gene may lie outside this region .
+Furthermore , undetectable p53 protein expression by immunocytochemistry and expression of p21cip1 / waf1 protein , a downstream target of p53 , is suggestive of the existence of wild type p53 and the functionality of the p53 / p21 pathway in these cells .
+Both the cell lines showed no detectable expression of ER in the nucleus ; however , cytoplasmic accumulation was observed which is consistent with the characteristics of ER negative breast cancer cells reviewed by Putti_et_al.  .
+Furthermore , both cell lines showed cytoplasmic localisation of BRCA1 protein ; the non-availability of the protein in the nucleus of BCa-15 cells or reduced nuclear expression in BCa-11 cells could implicate defects in DNA repair pathways , which may eventually lead to accumulation of genetic defects in these cells .
+Overexpression of cytoplasmic BARD1 mediates the cytoplasmic sequestration of BRCA1 in breast cancer  .
+Furthermore , aberrant expression of BARD1 in breast and ovarian cancers has been correlated with poor prognosis  .
+Whether BARD1 is involved in the cytoplasmic sequestration of BRCA1 protein in BCa-11 and BCa-15 cells remains to be determined .
+DNA methylation patterns in mammalian cells are established during embryogenesis and are not altered upon differentiation into somatic cells ( [ Reik and Dean , 2001 ] and [ Surani , 2001 ] ) .
+However , these genome-wide methylation patterns are altered in cancer cells .
+Thus , hypomethylation of CpG repeats and hypermethylation of CpG islands are common phenomena occurring in most of the cancers ( [ Baylin et al. , 1998 ] and [ Jones and Laird , 1999 ] ) .
+DNA methylation is catalysed by the family of proteins called DNA methyltransferases ( DNMTs ) .
+DNMT1 is the maintenance enzyme that prefers hemi-methylated substrates and may be responsible for establishing methylation patterns in a template dependent manner during DNA replication  .
+DNMT3A and DNMT3B are considered de novo methyltransferases based on their ability to modify totally unmethylated DNA in vitro .
+Expression of these DNMTs is altered in different human cancers ( [ De Marzo et al. , 1999 ] , [ Eads et al. , 1999 ] , [ el-Deiry et al. , 1991 ] , [ Girault et al. , 2003 ] , [ Kanai et al. , 2001 ] , [ Lee et al. , 1996 ] , [ Lin et al. , 2001 ] , [ Mizuno et al. , 2001 ] , [ Robertson et al. , 1999 ] and [ Schmutte et al. , 1996 ] ) .
+We compared the expression of DNMTs in breast cancer cell lines of Indian origin .
+Transcript levels of all three DNMTs in these cancer cell lines were comparable with the malignant cell line MCF7 , and were high compared to the non-malignant cell line MCF10A .
+Most strikingly , we observed that DNMT1 and DNMT3B were substantially overexpressed in the malignant cell lines , compared to the non-malignant line .
+Increased expression of DNMT1 protein in different breast cancer cell lines has also been reported by Nass_et_al.  .
+Additionally , Girault_et_al.  and Claus and Lubbert noticed increased levels of DNMTs , particularly that of DNMT3B , in breast tumour specimens .
+In a parallel study , we observed that a high DNMT3B / 3A ratio associates with a high methylation index of a cell line ( unpublished data ) .
+Both cultures described in the present work showed a high DNMT3B / 3A ratio .
+These results further suggest deregulation of epigenetic pathways in these cells , similar to other cancer cell lines .
+Promoter hypermethylation of RASSF1A , RAR2 , HOXA5 and BRCA1 occurs frequently in breast cancer cells , but not in non-malignant mammary epithelial cells ( [ Issa , 2004 ] and [ Raman et al. , 2000 ] ) .
+Detailed analysis of the TP53 promoter has revealed the presence of several consensus binding sites for the homeobox protein HOXA5 , and these are responsive to HOXA5 .
+Expression of HOXA5 is significantly reduced in a high proportion of primary breast carcinomas , which is attributable to aberrant methylation of the HOXA5 promoter  .
+By limiting basal expression of TP53 mRNA , epigenetic silencing of HOXA5 thus represents a novel and important mechanism by which p53 signalling is attenuated in breast cancer .
+Hence we specifically analysed promoter hypermethylation of these genes in both BCa-11 and BCa-15 cells .
+Promoter hypermethylation of RASSF1A , RAR2 and HOXA5 genes found in these cells suggests firstly , the involvement of promoter hypermethylation mediated silencing of these genes in the neoplastic transformation of these cells and secondly , supports neoplastic origin of these cell lines .
+However , BRCA1 promoter hypermethylation could not be detected in these cells , which is compatible with detection of protein via immunohistochemistry .
+It has been suggested that culturing of cells with loss of BRCA1 may be extremely difficult  , which in part may explain the absence of BRCA1 promoter methylation in these cell lines .
+However , BRCA1 methylation has been observed in sporadic breast tumours ( [ Catteau et al. , 1999 ] , [ Esteller et al. , 2000 ] and [ Matros et al. , 2005 ] ) and in a parallel study in primary breast tumours in the author 's laboratory ( data not shown ) .
+Expression of BRCA1 may be essential for survival of the cells and hence its promoter is unmethylated in breast cancer cell lines  .
+Furthermore , disruption of the homologous mouse genes , Brca1 and Brca2 , by targeting showed that nullizygous embryos become developmentally retarded , disorganised , and die early in development suggesting that these genes are both indispensable during embryogenesis  .
+Dab2 methylation could not be observed in either of the cell lines established in the present study and MCF7 .
+In a parallel study carried-out in the author 's laboratory , Dab2 methylation was observed in a few established breast cancer cell lines , similar to that observed in the present study  .
+In conclusion , we report the establishment and characterisation of two cell lines that will serve as in vitro models for understanding mechanisms underlying familial and sporadic breast carcinogenesis .
+These cell lines also provide a model for designing and testing new drugs for a large proportion of breast tumours which are negative for ER and Her2 / neu and require novel drugs for effective management .
+Acknowledgements .
+The authors express their gratitude to Prof. Shashi Wadhwa and to the staff of the electron microscope facility at the All India Institute of Medical Sciences for their support and help in conducting the ultrastructural analysis .
+We are immensely grateful to Prof. Lisa Wiesmller from Ulm , Germany , for her expert advice and suggestions on preparing the manuscript .
+This study was supported by the Indo-German grant of the Indian Council of Medical Research , New Delhi , India , the DLR , Germany .
+S.A. Raju Bagadi is thankful to the Council for Scientific and Industrial Research for the award of the Junior Research Fellowship and Senior Research Fellowship .

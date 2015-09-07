@@ -1,0 +1,100 @@
+L' oncogène HER-2 est le Human Epidermal Growth Factor Receptor 2 , encore appelé erbB-2 ou HER-2 /neu ( homologue humain du gène Neu , isolé de cellules de neuroglioblastome induits chez le rat , et de l' oncogène v-erb-B du virus de l' érythroblastose aviaire ) .
+HER-2 / neu fait partie d' une famille de quatre gènes de récepteurs de facteurs de croissance , qui comprend également le récepteur de l' Epidermal Growth Factor Receptor ( R-EGF ou HER-1 )  .
+HER-2 est localisé sur le bras long du chromosome 17 ( 17q 21.1 ) , et code un récepteur transmembranaire à activité tyrosine kinase , la p 185 .
+On retrouve dans la circulation le domaine extracellulaire de cette protéine ( HER-ECD ou sHER-2 )  .
+In vitro , les cellules cancéreuses mammaires qui surexpriment HER-2 relarguent HER-2 ECD dans le milieu de culture .
+Ce fragment est aussi présent dans le sérum de patientes atteintes d' un cancer du sein .
+Il est associé à la diffusion métastatique et constitue un facteur pronostique péjoratif chez les patientes porteuses d' un cancer du sein  .
+Dans les cancers du sein , l' activation de l' oncogène HER-2 n' est pas due à une mutation ponctuelle , elle provient d' une amplification génique , c' est-à-dire d' une multiplication du nombre de copies du gène HER-2 normal ( proto oncogène ) dont la conséquence est la stimulation de sa transcription .
+Celle-ci aboutit à une surexpression de l' ARN messager de la p185 , une augmentation du nombre de récepteurs et une augmentation de la libération de HER-2 ECD .
+Au plan cellulaire , une surexpression de HER-2 induit une augmentation de la croissance cellulaire et du potentiel métastatique  .
+Les relations entre la surexpression de HER-2 et l' évolution des cancers du sein d'_une_part , et les possibilités thérapeutiques nouvelles par anticorps anti-HER-2 ont fait du statut HER-2 un élément déterminé de manière courante actuellement dans les cancers du sein .
+La détermination du statut HER-2 peut être effectuée soit par la recherche de l' amplification du gène soit par celle de la surexpression de la protéine codée par ce gène .
+Plusieurs méthodes peuvent être utilisées , seules les méthodes morphologiques font actuellement l' objet de recommandations par les instances internationales .
+Le niveau d' amplification du gène est étudié par FISH ( fluorescent in_situ hybridization ) .
+Le niveau d' expression du récepteur HER-2 peut être étudié au niveau de la protéine par immunohistochimie ( IHC ) sur fragment tumoral frais congelé ou sur coupes en paraffine .
+Les deux approches morphologiques ont chacune des avantages et des inconvénients .
+L' IHC conserve une information morphologique , en_revanche c' est une méthode subjective et elle manque de standardisation .
+La méthode par FISH est plus reproductible , en_revanche elle présente une complexité technique et peu d' information morphologique .
+La partie extracellulaire est dosée dans le sérum ou les tissus par méthode Elisa ( HER-2 / neu Manual Elisa , Oncogene Science , Cambridge , MA , États-Unis )  .
+La méthode Elisa , plus récente , se pratique sur sérum , elle est donc peu invasive , facile à obtenir , elle permet des analyses longitudinales , elle est standardisée et reproductible .
+Cette méthode utilise deux anticorps monoclonaux reconnaissant des épitopes spécifiques de HER-2 /Neu ECD , elle est standardisée par de la p105 ECD recombinante .
+C' est une technique manuelle ou automatique .
+Il n' y a pas d' interférence dans le dosage Elisa avec le trastuzumab utilisé en thérapie ou avec les anti-corps anti-souris .
+C' est une méthode approuvée par la FDA américaine pour les cancers du sein métastatiques .
+2. Expérience clinique avec HER-2 sérique dans les cancers du sein
+On a étudié une série consécutive de 701 patientes non métastatiques , diagnostiquées entre le 1/01 / 92 et mi-1994 et suivies au Centre René Huguenin pour lesquelles on disposait des prélèvements sanguins avant traitement initial et durant la surveillance biologique ultérieure  .
+Dans cette série de patientes l' âge médian était de 54 ans , 46 % étaient préménopausées et 53 % post-ménopausées .
+Les tumeurs étaient principalement des T2 avec une taille tumorale histologique de 2311 mm avec 2 4 ganglions envahis à l' histologie , et 3 % des cas étaient des cancers du sein inflammatoires .
+Les patientes ont toutes été opérées .
+Sur le plan histologique les tumeurs étaient principalement des carcinomes canalaires infiltrants avec une majorité de grade II .
+2.1. Relation de HER-2 avec les éléments du bilan initial
+La concentration de HER-2 sérique est fortement corrélée au statut ménopausique ( p = 0,0417 ) , à la taille clinique de la tumeur ( p 0,0001 ) et à sa taille histologique ( p = 0,0082 ) , au nombre de ganglions envahis ( p = 0,0981 ) , au grade histologique ( p = 0,0086 ) mais pas au type histologique ni à la présence ou a l' absence de récepteurs hormonaux .
+Dans notre série , nous n' avons pas trouvé de valeur prédictive de HER-2 sérique vis-à-vis_de la réponse au traitement adjuvant ou néoadjuvant .
+HER-2 sérique au diagnostic était supérieur à 12 ng / ml chez 6,7 % des patientes au diagnostic de cancer du sein .
+Après la fin du traitement initial , HER-2 sérique était supérieur à 12 ng /ml chez 5,6 % des patientes , ce qui laisserait supposer que le traitement aurait diminué le nombre de cellules métastatiques chez certaines patientes .
+Avant traitement , il y a une corrélation entre HER-2 sérique et la concentration de CA 15,3 , mais le coefficient de corrélation rho est faible ( 0,135 ) .
+2.2. Valeur pronostique de l' HER-2 sérique initial
+La médiane de survie avant le premier événement carcinologique était de 4,3 ans dans notre série .
+Au diagnostic , HER-2 sérique possède une valeur pronostique importante en analyse univariée chez les patientes avec invasion ganglionnaire ( N+ ) vis-à-vis du risque de cancer du sein controlatéral et de l' apparition d' une première métastase ( surtout vis-à-vis des métastases viscérales )  .
+Après traitement initial , HER-2 sérique a également une valeur pronostique importante chez les N+ en ce qui concerne l' apparition de la première métastase .
+En analyse multivariée selon le modèle de Cox , HER-2 sérique après traitement initial a une valeur pronostique importante et indépendante des autres facteurs pronostiques  .
+En ce qui concerne la survie globale , la concentration de HER-2 sérique , que ce soit avant ou après le traitement initial , possède une valeur pronostique importante chez les patientes N+ ( p = 0,002 pour HER-2 sérique avant traitement initial et p = 0,0212 après traitement initial ) .
+De plus , les cas avec HER-2 sérique élevé et récepteurs de l' estradiol ou de la progestérone négatifs dans la tumeur primitive ont un pronostic particulièrement péjoratif vis-à-vis_de la survie globale ( p 0,0001 ) .
+2.3. Patientes métastatiques
+Sur les 701 patientes suivies , 155 ont développé des métastases .
+La majorité des métastases se situent au niveau osseux ( 29 % ) ou synchrones multiples ( 34,8 % )  .
+Pour 128 de ces patientes on disposait de prélèvements sanguins 821 jours avant le diagnostic clinique de métastase .
+HER-2 sérique était 12 ng / ml chez 44,5 % de ces patientes .
+Nous n' avons pas trouvé de relation significative entre le nombre de sites métastatiques et la concentration d' HER-2 sérique , en_revanche avec le type de métastases la relation est hautement significative ( p = 0,0011 ) , en raison de concentrations de HER-2 sérique élevés relevées en présence de métastases viscérales .
+Pour 28 patientes , sélectionnées pour avoir élevé leur HER-2 sérique avant la première métastase ( 20 métastases étaient uniques et 8 multiples ) , nous avons pu étudier la cinétique d' élévation de HER-2 sérique .
+Dans 64,3 % des cas une élévation précoce ( lead time ) de HER-2 sérique était observée avec un délai médian de 254 jours .
+Tableau 1.
+Concentrations de HER-2 sérique selon le type de métastases
+Type de 1re métastase [ HER-2 sérique ] Foie87,3 196,6 ng / ml Poumons85,6 341,3 ng / ml Synchrones multiples71,3 167,3 ng / ml Os20,2 18,3 ng / ml Autres sites11,1 3,0 ng / ml
+Full-size table
+View Within Article
+La survie après la première métastase a été étudiée en divisant les patientes en quartiles correspondant à des concentrations d' HER-2 sérique 10 ng /ml ( 25 % ) , 10,01 à 16,43 ng / ml ( 26 à 75 % ) et 16 ng / ml ( 75 % ) .
+Les courbes de survie de Kaplan-Meier montrent que la survie des patientes métastatiques est d' autant meilleure que la concentration d' HER-2 sérique est basse .
+Full-size image ( 22K )
+Fig. 1. Survie après la première métastase en fonction de la concentration de HER-2 sérique avant la métastase .
+Courbe 1 = 1er quartile ( 25 % de l' effectif , HER-2 sérique 10 ng / ml ) , courbe 2 = 2e et 3es quartiles ( 26-75 % de l' effectif , HER-2 sérique entre 10,01 et 16,43 ng / ml ) , courbe 3 = 4e quartile ( 25 % de l' effectif avec HER-2 sérique 16,44 ng / ml ) .
+View Within Article
+3. HER-2 sérique et réponse au trastuzumab
+Le trastuzumab est un anticorps monoclonal humanisé qui bloque le fonctionnement du récepteur HER-2 pour limiter les effets de sa surexpression .
+Cet anticorps agit à différents niveaux : antagonisme de la transduction du signal de croissance cellulaire propre au statut HER-2+ , stimulation de l' internalisation et de la dégradation du récepteur HER-2 , recrutement et stimulation des cellules immunes responsables de la cytotoxicité cellulaire dépendante des anticorps ( antibody-dependent cell-mediated cytotoxicity , ADCC ) , diminution de l' expression du facteur de croissance vasculaire endothélial ( VEGF ) ainsi_que d' autres facteurs angiogéniques  .
+D' autres mécanismes d' action sont encore à l' étude .
+Nous avons étudié une série de 33 patientes porteuses d' un cancer du sein évolué dont l' âge moyen était de 4510 ans  .
+La moitié d' entre elles avaient une taille tumorale importante ( T2 et plus ) et 55 % présentaient plus de trois ganglions envahis .
+Toutes étaient métastatiques , dont 27 % dès le diagnostic .
+Les résultats histologiques montraient 84 % de carcinomes canalaires infiltrants , 51,6 % de grades II et 48,4 % de grades III avec 61 % de carcinomes intracanalaires .
+Les scores de l' expression de HER-2 en immunohistochimie étaient de 2+ et 3+ , les scores 2+ ayant été vérifiés par technique FISH .
+Cinquante-sept pour cent des tumeurs étaient négatives pour le récepteur de l' estradiol et 63 % négatives pour le récepteur de la progestérone .
+Le CA 15,3 au diagnostic initial était parfois très élevé ( 11 - 4720 U / ml ) , l' ACE également ( 1 - 1152 ng / ml ) ainsi_que HER-2 sérique ( 7,7 à 345,8 ng / ml ) .
+Le CA.15,3 , l' ACE et HER-2 sérique ont été dosés régulièrement tout_au_long du traitement et la corrélation a été étudiée avec la réponse clinique groupée en quatre catégories selon les recommandations de l' Organisation mondiale de la santé : progression , stabilité , réponse partielle et réponse complète .
+La concentration de HER-2 sérique s' est révélée être fortement corrélée à la réponse clinique , la moyenne observée était de 292586 ng / ml en cas de maladie progressive et de 11,5 4,6 ng / ml en cas de réponse complète .
+Les deux autres marqueurs CA.15,3 et ACE allaient dans le même sens , avec cependant 6 / 33 ( 18,2 % ) de patientes n' ayant jamais eu un CA 15,3 élevé au_cours_de leur évolution .
+Les variations de HER-2 sérique en cours de traitement permettent de prédire la réponse clinique , puisqu' un HER-2 sérique en croissance continue correspondait en_général à un échappement au traitement et , à l' inverse , un HER-2 sérique en décroissance continue correspondait à une réponse objective  .
+3.1. Délai jusqu' à progression en fonction de l' HER-2 sérique préthérapeutique
+En étudiant les délais jusqu' à progression des patientes par analyse de Kaplan-Meier , nous avons obtenu une différence significative prédictive de la durée de réponse au trastuzumab avec une valeur seuil de 30 ng / ml de HER-2 sérique , proche_de la médiane des concentrations avant traitement .
+Le sous-groupe de patientes qui présentent une concentration de HER-2 sérique 30 ng / ml montrait un délai jusqu' à progression significativement plus court que celui ayant un HER-2 sérique 30 ng / ml .
+Full-size image ( 17K )
+Fig. 2. Durée jusqu' à échappement au traitement par trastuzumab en fonction de la concentration préthérapeutique de HER-2 sérique .
+Valeur discriminante : 30 ng / ml .
+View Within Article
+3.2. Modèle prédictif de la réponse au trastuzumab en fonction de HER-2 sérique avant traitement
+Dans le but de définir les variables clinicobiologiques qui contribuent à la prédiction de la réponse au trastuzumab , nous avons au point un modèle mathématique ( méthode GEE , generalised estimate equations ) , émulant le comportement de l' ensemble des patients en introduisant dans ce modèle toutes les variables relevées au diagnostic et avant le traitement par trastuzumab .
+Les variables significatives qui entrent dans le modèle prédictif sont les suivantes : HER-2 sérique avant et en cours de traitement , ACE et CA15,3 , récepteurs de l' estradiol et de la progestérone , dose cumulée de trastuzumab , délai jusqu' à progression , présence de métastases hépatiques ou pulmonaires et enfin le score de la tumeur en IHC .
+Ce modèle montre que plus l' HER-2 sérique augmente , plus la probabilité de progression de la maladie augmente .
+Sur le plan pratique , l' échappement semble pouvoir être prédit très précocement , un mois environ après le début du traitement
+Full-size image ( 19K )
+Fig. 3. Modèle prédictif de la réponse au trastuzumab en fonction des caractéristiques cliniques et histologiques initiales , du type de métastases et des concentrations de HER-2 sérique , CA 15,3 , et ACE avant et pendant le traitement .
+View Within Article
+4. Conclusion
+Les dosages de HER-2 sérique représentent une évaluation en temps réel de l' évolution tumorale au moment de la décision de traitement .
+Cependant , en l' absence de validation internationale de l' usage des dosages de HER-2 sérique , la règle actuelle aussi_bien aux États-Unis qu' en Europe est toujours de se fonder sur la surexpression de HER-2 dans la tumeur initiale par immunohistochimie .
+Les données disponibles dans la littérature et nos résultats personnels montrent que le dosage de HER-2 sérique devrait prendre une place importante à l' avenir dans la surveillance des patientes porteuses de cancers du sein ayant une surexpression du récepteur HER-2  .
+De plus , alors quau début de la maladie environ 20 % des patientes ont une surexpression de HER-2 en IHC au niveau de la tumeur primitive , à la première métastase près_de la moitié des patientes montrent une élévation de HER-2 sérique , qui s' observe donc en l' absence de surexpression initiale de l' oncogène HER-2 .
+Dans ce contexte , les dosages de HER-2 sérique pourraient prendre une place plus importante et non limitée aux seul cas avec une surexpression initiale de HER-2 dans la tumeur primitive  .
+Des essais cliniques de traitement par trastuzumab comprenant une surveillance biologique par dosages de HER-2 sérique sont en cours .
+Ces résultats récents constituent , avec les récepteurs stéroïdiens et les traitements par antiestrogènes datant des années 1980 , le second exemple d' une approche thérapeutique ciblée des tumeurs solides

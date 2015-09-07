@@ -1,0 +1,129 @@
+Dans le cancer du sein , l' influence de l' envahissement ganglionnaire régional sur le pronostic des patientes est bien connue .
+Le risque d' envahissement des ganglions lymphatiques dépend des facteurs pronostiques comme le diamètre , le grade d' agressivité et la position de la tumeur primitive  .
+Le taux de risque d' envahissement axillaire varie d' environ 5 % pour des tumeurs classées T1 et de grade 1 ( G1 ) jusqu' à plus de 50 % pour des tumeurs classées T3 .
+Le risque d' atteinte des ganglions lymphatiques sus-claviculaires est influencé par le stade de la tumeur , y_compris le nombre des ganglions axillaires envahis .
+Le taux de risque est supérieur à 10 % chez les patientes atteintes de cancer de stade N2a .
+Pour la chaîne mammaire interne , la variation du risque d' envahissement est très large , allant de 3 % pour les patientes atteintes de tumeur supéro-externe et sans envahissement axillaire , jusqu' à 65 % pour celles atteintes de tumeur inféro-interne et avec envahissement axillaire  .
+Cet envahissement ganglionnaire est surtout observé au niveau microscopique .
+Quand les ganglions sont palpables , le_plus_souvent il s' agit d' un cancer évolué , sauf quand les ganglions palpables axillaires sont limités .
+Le traitement des régions lymphatiques est aujourd'hui un sujet à controverses  .
+D' une part , on pourrait considérer les ganglions envahis surtout comme un marqueur pronostique et la chirurgie axillaire comme une investigation avec un but seulement diagnostique , mais d' autre_part , le traitement régional pourrait influencer d' une manière importante non_seulement la qualité de vie par une baisse du risque de récidive locale et régionale , mais_aussi avec une amélioration de la survie à long terme .
+La méta-analyse récente , faite par le groupe EBCTCG ( Early Breast Cancer Trialists' Collaborative Group ) , des essais randomisés évaluant les effets des traitements locaux pour le cancer du sein localisé , a montré que la radiothérapie diminuait le taux de risque de rechute locale d' environ 70 % pour toutes les patientes , indépendamment de leur âge , des caractéristiques tumorales et de l' administration des traitements systémiques  .
+Ainsi , l' effet en chiffres absolus sur le contrôle local est surtout déterminé par le risque initial , avec un avantage plus marqué pour les patientes atteintes de cancer à haut risque de rechute locorégionale .
+Cela a comme conséquence que la radiothérapie postopératoire est considérée comme indiquée après mastectomie pour les patientes avec au moins quatre ganglions axillaires envahis , des tumeurs de stades T3 et T4 , l' envahissement du muscle pectoral ou des tranches de section .
+Environ trois quarts des rechutes surviennent dans les cinq premières années après le traitement initial .
+Environ un décès après 15 ans sera évité pour quatre rechutes locales après cinq ans .
+Ainsi , une baisse du taux de rechute locale de 2 % après cinq ans doit résulter en une amélioration du taux de survie globale après 15 ans de 5 % .
+Malheureusement , cette méta-analyse montrait également qu' avec les schémas anciens de radiothérapie , le risque de développer un cancer du sein controlatéral et / ou de mourir de causes indirectement liées au cancer du sein , était élevé .
+Cette toxicité , surtout observée au niveau du cardiopulmonaire , n' avait pas encore disparu , même 15 ans après la randomisation .
+Ainsi , l' effet net de la radiothérapie est fortement influencé par les risques individuels de la patiente et par la qualité technique de la radiothérapie au niveau de l' irradiation des organes qui sont proches du sein et des ganglions régionaux .
+L' effet de l' irradiation prophylactique après mastectomie pour les patientes avec des tumeurs précoces ( T1 - T2 , N0 - N1a , M0 ) n' est pas clair .
+Théoriquement , ce sont ces patientes-ci qui pourraient profiter le plus , au niveau de la survie , de ce traitement prophylactique parce_qu' elles ont un risque limité d' envahissement métastatique infraclinique au-delà_de la paroi thoracique et des ganglions régionaux  .
+La séparation étroite entre les avantages et les effets secondaires de l' irradiation prophylactique postopératoire , pour ces patientes avec une tumeur du sein limité , est en cours d' investigation par plusieurs essais prospectifs et randomisés : EORTC ( European Organization for Research and Treatment of Cancer ) 22922 / 10925 , NCIC CTG ( National Cancer Institute of Canada Clinical Trials Group ) MA.20 , SUPREMO et l' essai chaîne mammaire interne ( CMI ) de la Société française de radiothérapie oncologique ( SFRO )  .
+Un nombre important de patientes ainsi_qu' un suivi très long ( au moins dix ans ) seront nécessaires pour résoudre ces questions actuelles .
+Des travaux récents sur de nouveaux facteurs pronostiques , comme l' analyse de l' ADN par des techniques de microarrays et l' analyse des protéines ( proteomics ) ouvrent des chemins complètement nouveaux qui pourraient nous mener à juger les avantages et les risques des patientes individuellement d' une façon complètement différente d' aujourd'hui  .
+2. Irradiation de la paroi thoracique
+En cas d' indication d' irradiation , la paroi thoracique est quasiment toujours incluse dans la liste des volumes cibles .
+Parmi les indications d' irradiation pariétale exclusive , acceptées par la majorité des oncologues , sont retenues les patientes avec tranches de résection atteintes et celles avec un envahissement du muscle pectoral .
+Certains considèrent les patientes avec des carcinomes de type lobulaire comme candidates pour l' irradiation de la paroi thoracique après mastectomie , quel que soit le stade tumoral .
+L' analyse conjuguée des essais EORTC 10801 et DBCG ( Danish Breast Cancer Cooperative Group ) 82TM a montré que le taux de risque de rechute après mastectomie était de 18 % et , après un traitement conservateur , seulement de 10 % , à dix ans de suivi , pour des patientes atteintes d' un cancer localisé du type lobulaire  .
+Dans toutes ces indications , la peau ne fait pas partie du volume cible .
+Tous les départements de radiothérapie ont des protocoles établis pour l' irradiation de la paroi thoracique , qui est considérée comme étant simple .
+Aujourd'hui , la technique qu' on utilise , le plus fréquemment , est constituée de deux faisceaux tangentiels .
+Dans plus_ou_moins un quart des départements de radiothérapie , on préfère des faisceaux directs d' électrons avec une énergie adaptée aux patientes  .
+Tandis que ces traitements sont encore souvent préparés traditionnellement en deux dimensions au simulateur , de_plus_en_plus souvent on utilise des images scanographiques , en position de traitement pour individualiser les faisceaux en trois dimensions .
+Cela donne non_seulement la possibilité d' adapter les faisceaux au volume cible et de limiter l' irradiation des tissus sains comme le coeur et les poumons , mais_aussi de choisir la technique qui convient le mieux à l' anatomie spécifique de la patiente .
+De plus , les machines de traitement modernes offrent des possibilités de délivrer des traitements complexes avec plusieurs faisceaux et un collimateur microlame couplé automatisé .
+Par exemple pour les faisceaux d' électrons directs , nous sommes passés d' un grand faisceau direct à un traitement de deux et trois faisceaux jointifs alternativement un jour sur l' autre , et maintenant même à cinq faisceaux délivrés chaque jour .
+Comme les faisceaux d' électrons ont aujourd'hui un effet direct moins prononcé sur la peau , cette technique de traitement offre une solution excellente surtout pour les patientes dont la paroi thoracique est très courbée , pour lesquelles beaucoup de poumon ou même de coeur sont inclus dans des champs tangentiels .
+Les traitements avec modulation d' intensité ( RCMI ) ou guidés par l' image ( IGRT ) se développent et pourraient améliorer encore davantage le traitement , surtout dans les cas individuels avec une anatomie qui rend les autres techniques plus difficiles à délivrer sans risque excessif pour le coeur , les poumons ou le sein controlatéral .
+Avec ce développement , il faudra bien prendre soin de ne pas irradier plus de tissus normaux à une dose faible , en_particulier le sein controlatéral chez les patientes jeunes , ce qui augmenterait le risque des tumeurs secondaires .
+À part les effets secondaires au niveau du coeur et des poumons , il faut en optimisant les techniques éviter la fibrose ( sous- ) cutanée et les modifications cutanées telles_que l' hyperpigmentation et des télangiectasies .
+3. Région ganglionnaire axillaire
+En ce qui concerne la région ganglionnaire axillaire , Du et al. ont montré , en se fondant sur les données du SEER ( Surveillance , Epidemiology and End Results ) , que l' abstention de traitement axillaire mène à une augmentation du risque de la mortalité causée par le cancer du sein ( risque relatif = 1,76 ) , mais que les effets de la chirurgie seule , la radiothérapie seule ou la combinaison des deux sont probablement équivalents .
+Le taux de risque de rechute axillaire après chirurgie seule est inférieur à 6 % , à condition qu' au moins dix ganglions axillaires soient examinés  .
+L' irradiation postopératoire axillaire a comme effet secondaire une hausse importante du risque de développer un oedème lymphatique du bras et d' autres symptômes secondaires à une fibrose axillaire  .
+Les indications acceptées d' irradiation axillaire sont , entre autre , un ganglion sentinelle envahi sans chirurgie axillaire complète , les cas où le chirurgien juge que le risque d' envahissement tumoral axillaire est très élevé ; une intervention chirurgicale non carcinologique comme par_exemple , la biopsie d' un ganglion hypertrophié envahi , suivie d' une chirurgie axillaire par une incision différente et cancers du sein évolués lorsqu' une chimiothérapie ou une hormonothérapie ont précédé la chirurgie mammaire , mais sans chirurgie axillaire .
+Les aspects techniques de l' irradiation axillaire sont comparables à ceux de la région supraclaviculaire mais , pour atteindre une dose homogène dans la région axillaire , il faut ajouter un faisceau postérieur au faisceau antérieur qui n' inclue normalement non_seulement les ganglions axillaires , mais_aussi la région sus-claviculaire .
+Pour ne pas surdoser une partie de ces deux volumes cibles , plusieurs techniques qui mènent souvent à un surdosage de 20 - 30 % de la région antérieure de l' aisselle , ont été décrites .
+En utilisant un isocentre fixe sans déplacer la patiente , il est proposé de diviser le faisceau antérieur en deux : le grand faisceau couvrant les territoires sus-claviculaire et axillaire .
+Un faisceau plus petit , réduit sur son bord latéral , complète la dose dans la région sous-claviculaire .
+Ensuite , un faisceau axillaire postérieur , identique , est ajouté en prenant bien soin de joindre tous les faisceaux sans risque de surdosage ou de « sous-dosage » .
+Actuellement , on propose à la_plupart des patientes atteintes d' un cancer du sein limité la procédure du ganglion sentinelle .
+Si ce ganglion est envahi , le chirurgien continue avec un évidement axillaire complet .
+Une étude prospective randomisée de l' EORTC est en cours ( nommé AMAROS , « Adjuvant Management of the Axilla : Radiotherapy Or Surgery » ) comparant les résultats de la chirurgie axillaire et de la radiothérapie axillaire chez les patientes atteintes de cancer du sein avec un envahissement microscopique du ganglion sentinelle  .
+Les résultats ne seront connus que dans plusieurs années .
+Entre-temps , le curage axillaire restera le traitement de choix pour les patientes dont le ganglion sentinelle est atteint .
+4. Région ganglionnaire sus-claviculaire
+Le risque d' envahissement microscopique des ganglions sus-claviculaires , et donc les indications de la radiothérapie prophylactique dépendent surtout du niveau d' envahissement ganglionnaire axillaire .
+Avec quatre ganglions atteints , le taux de risque d' envahissement sus-claviculaire augmente jusqu' à 15 - 20 % ; il est encore_plus fort quand l' envahissement est plus étendu et surtout quand le premier niveau axillaire est atteint .
+Les effets secondaires d' une radiothérapie sus-claviculaire se situent surtout au niveau des poumons ( notamment si le sommet du poumon se situe postérieurement à cette région ganglionnaire ) , mais_aussi au niveau des vaisseaux et nerfs qui se trouvent à la base du cou .
+Avec des techniques appropriées d' irradiation et une fraction journalière n' excédant pas 2 Gy , ce risque reste limité pour des doses jusqu' à 50 Gy .
+D' un point_de_vue technique , le faisceau sus-claviculaire est jointif avec les faisceaux d' irradiation de la paroi thoracique et irradie parfois aussi la région axillaire et / ou la chaîne mammaire interne .
+Pour obtenir une jonction appropriée avec les faisceaux utilisés pour traiter la paroi thoracique , une solution facile est de placer l' isocentre près_de la jonction , ce qui facilite aussi le traitement par les différents faisceaux ( semi- ) automatiquement .
+Pour limiter l' irradiation de la moelle cervicale , l' oesophage et la trachée , le faisceau supraclaviculaire peut être incliné de 10 à 15 degrés .
+L' irradiation de la partie interne de la région sus-claviculaire est souvent conjuguée avec celle de la chaîne mammaire interne .
+Cette combinaison a fait partie des questions examinées dans l' essai de l' EORTC 22922 / 10925 terminé en janvier 2004 , dont les résultats seront probablement analysés en 2010 - 2011  .
+Surtout si une partie de l' irradiation de la chaîne mammaire interne est faite avec des électrons , il faut bien prendre soin d' éviter des zones de surdosage ou « sous-dosage » au niveau de la jonction avec le faisceau sus-claviculaire .
+Cela est encore_plus important pour la jonction avec des faisceaux d' électrons utilisés pour traiter la paroi thoracique , surtout dans le cas d' une irradiation de la région axillaire .
+Une façon d' améliorer l' homogénéité de la dose est de varier le niveau de la jonction des faisceaux d' un jour à l' autre sur au moins un centimètre , ce qui pourrait être exécuté assez facilement par un positionnement variable de l' isocentre .
+5. Région ganglionnaire de la chaîne mammaire interne
+Le taux de risque d' envahissement microscopique de la chaîne mammaire interne varie considérablement ; il est chez les patientes atteintes de petite tumeur d' environ 3 à 65 % , selon les facteurs pronostiques tumoraux , comme le diamètre de la tumeur primitive , l' envahissement ganglionnaire axillaire et la localisation de la lésion dans le sein  .
+En revanche , le taux de risque d' envahissement clinique est faible ( 2 % au maximum ) .
+Une étude ancienne comparant la chirurgie classique de type Halsted et une chirurgie encore_plus étendue , incluant la résection de la chaîne mammaire interne , a montré qu' il n' y avait pas d' avantage au traitement plus radical .
+De plus , la toxicité était plus élevée dans le bras chirurgie plus étendue  .
+Quant à la radiothérapie , aucune étude n' a inclus assez de patientes et n' a un suivi assez long pour juger avec certitude de la valeur de l' irradiation de la chaîne mammaire interne .
+Kaija et Mauna ont publié , en 1995 , une petite étude incluant 270 patientes traitées d' une façon conservatrice , qui a montré qu' après un suivi de seulement 2,7 ans la toxicité était comparable entre les deux bras  .
+Romestaing et al. ont présenté , mais n' ont pas encore définitivement analysé et publié , les résultats d' un essai français qui a inclus 1281 patientes après mastectomie , avec 5,4 ans de suivi et des résultats identiques entre les deux bras , notamment en termes de toxicité  .
+Stemmer et al. , en 2003 , ont publié les résultats d' un essai prospectif de phase II évaluant un schéma de chimiothérapie de haute dose chez 100 patientes atteintes de cancer à haut risque .
+Il n' a pas été possible d' utiliser des faisceaux d' électrons pour des raisons techniques , pendant une durée significative de l' étude .
+Ils ont décidé de ne pas irradier la chaîne mammaire interne durant cette période et l' évaluation après 6,4 ans montrait des taux de survie sans récidive et de survie totale significativement supérieurs chez les patientes irradiées sur la chaîne mammaire interne  .
+D' un point_de_vue technique , le programme d' assurance de qualité exécuté dans l' essai de l' EORTC 22922 / 10925 a montré qu' il existe plusieurs techniques qui peuvent être jugées appropriées pour le traitement des patientes , selon l' anatomie individuelle  .
+La plupart des départements utilisent encore la technique « standard » avec un faisceau sus-claviculaire et un faisceau mammaire interne jointifs avec ceux utilisés pour irradier le sein et / ou la paroi thoracique .
+L' inconvénient de cette technique est qu' au niveau de la jonction des différents faisceaux , il se trouve une zone de surdosage ou bien de « sous-dosage » , dépendant du niveau de chevauchement des champs et de l' anatomie individuelle de la patiente .
+Plusieurs départements ont alors développé une technique modifiée , fondée sur la technique standard pour améliorer l' homogénéité de la dose dans cette zone .
+Le plus important est l' adaptation individuelle en se fondant sur la position de la tumeur primitive et l' épaisseur de la paroi thoracique .
+Pour améliorer la distribution de dose , on peut également proposer une jonction mobile , entre les faisceaux de la paroi thoracique et de la chaîne mammaire interne , ainsi_qu' entre ceux de la région sus-claviculaire et de la paroi thoracique .
+Surtout si une partie de l' irradiation de la chaîne mammaire interne est réalisée avec un faisceau d' électrons , il faut bien prendre soin à éviter des zones de surdosage ou de « sous-dosage » au niveau de la jonction avec les autres champs .
+Environ un quart des centres qui ont participé à l' essai de l' EORTC , a développé une technique hautement individualisée , comme celle utilisée à Tilburg  .
+Avec toutes les variantes éventuelles , fondées sur l' information anatomique obtenue par une scanographie , l' homogénéité de la dose est meilleure qu' avec les techniques standard .
+Par ailleurs , souvent le volume du poumon inclus dans les volumes irradiés est un_peu plus grand qu' avec le traitement standard .
+Avec un recul de deux ans , le fait d' irradier ou non la chaîne mammaire interne et sus-claviculaire , ainsi_que la technique utilisée , n' ont pas d' influence sur la toxicité ( travail en cours ) .
+Les essais anciens ont montré que la radiothérapie postopératoire pouvait entraîner à long terme une augmentation du risque de décès causé par des maladies cardiaques et / ou pulmonaires .
+Dans les études plus récentes , cet effet n' a plus été montré , mais un suivi plus long est nécessaire pour l' évaluation définitive .
+Avec une amélioration continue de la technique , on peut s' attendre à_ce_que ce risque continue à diminuer .
+Dans cette intention , les techniques de RCMI et de radiothérapie guidée par l' imagerie ont été proposées par certains auteurs  .
+6. Aspects techniques variés
+Aujourd'hui , la_plupart des traitements sont préparés et fondés non_seulement sur l' information clinique , mais_aussi sur l' information anatomique obtenue par_exemple par la scanographie .
+Cela donne la possibilité d' individualiser les plans de traitement pour chaque patiente  .
+Néanmoins , dans la_plupart des départements , il n' est pas encore routinier de dessiner tous les volumes cibles , ce qui est nécessaire pour arriver à un niveau d' individualisation des plans de traitement encore_plus élevé .
+En effet , pour le sein et la paroi thoracique , ainsi_que pour le site de la tumeur primitive ( pour le boost ) , le volume cible n' est pas bien standardisé .
+Or , pour les territoires ganglionnaires , cette démarche pourrait être déjà introduite en_pratique .
+Comme l' anatomie varie énormément de patiente à patiente et comme la combinaison des différents volumes cibles influence de façon importante la technique thérapeutique optimale , chaque département de radiothérapie devrait avoir plusieurs techniques qui puissent être choisies en fonction de l' anatomie et de la distribution de la dose obtenue .
+7. Compte rendu
+Tableau 1.
+Les catégories des risques de rechute locorégionale après mastectomie et chirurgie axillaire
+Catégories de risqueBasseIntermédiaireÉlevée Risque 10 %10 - 20 % 20 % Stade TT1 - 2T1 - 2T3 - 4 Nombre de ggl ax +00 - 3 3 Grade1 - 23 Invasion vasculaire - + Type de tumeurCanalaireLobulaire
+Full-size table
+Le Tableau 1 propose schématiquement trois catégories selon le risque de rechute locorégionale après mastectomie et chirurgie axillaire .
+Un taux de risque bas est inférieur à 10 % , un taux intermédiaire se situe entre 10 et 20 % et un taux élevé est supérieur à 20 % .
+Ggl ax + : ganglions axillaires envahis .
+View Within Article
+Tableau 2.
+Proposition d' indications pour l' irradiation des différents volumes cible après mastectomie et curage ganglionnaire axillaire
+Catégories de risqueBasseIntermédiaireÉlevée Paroi thoraciqueNon ?Oui ?Oui SupraclaviculaireNon ?Oui ?Oui Chaîne mammaire interneNonOui ?Oui ?
+AxillaireNonNonNon
+Full-size table
+Fondé sur la division des patients en fonction de leur risque de rechute , le Tableau 2 est une proposition de l' auteur en vue de l' irradiation ou non des différents volumes cibles après mastectomie et curage ganglionnaire axillaire .
+View Within Article
+8. Conclusion
+Pour le cancer du sein , la radiothérapie mène à une forte baisse du risque de rechute locale et régionale .
+L' indication pour la radiothérapie et le choix des volumes cibles dépendent largement des facteurs pronostiques et de la chirurgie qui précède la radiothérapie .
+Surtout pour les patientes atteintes de cancer à haut risque de rechute , la radiothérapie augmente les chances de survie à long terme , à_condition_que les techniques appropriées soient utilisées .
+Le plus important est que les meilleurs résultats soient obtenus à tous les niveaux , prenant en compte le contrôle local , la qualité de vie , les résultats cosmétiques et la survie , avec une approche multidisciplinaire et orientée vers la patiente .
+Il faut se méfier que la délinéation des volumes cibles ne mène pas , après avoir ajouté les marges pour obtenir le volume cible anatomoclinique ( CTV ) et le volume cible prévisionnel ( PTV ) , à des champs d' irradiation considérablement plus larges que ceux utilisés aujourd'hui .
+Par exemple , pour la région sus-claviculaire , le risque après le traitement prophylactique est tellement bas que des champs d' irradiation plus larges pourraient bien mener à une augmentation de la toxicité aiguë et tardive , bien plus grande que le gain d' efficacité antitumoral .
+Remerciements
+Je tiens à remercier tous mes collègues du groupe de radiothérapie de l' EORTC ( European Organisation for Research and Treatment of Cancer ) et surtout Walter van den Bogaert , Bernard Davis , Harry Bartelink , Jean-Claude Horiot , Geertjan van Tienhoven , Henk Struikmans , Alain Fourquet , Vassilis Kouloulias , Fatma Ataman , Elena Musat , Laurence Collette et Marianne Pierart pour la coopération dans plusieurs études .
+Je remercie également plusieurs collaborateurs de Tilburg comme Vernon Vlaun , Jack Venselaar , Marleen van der Hulst et Karin De Winter pour leur aide dans l' assurance de qualité pour l' essai 22922 de l' EORTC .
+Finalement , j' exprime ma gratitude à Jean-Philippe Cambier qui m' a aidé à améliorer le texte en français

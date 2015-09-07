@@ -1,0 +1,108 @@
+Différents travaux se sont intéressés à l' étude du bénéfice de la radiothérapie après mastectomie chez les patientes atteintes de cancer du sein ayant envahi les ganglions axillaires afin_de limiter les territoires ganglionnaires irradiés et par_conséquent , la toxicité en optimisant le gain thérapeutique  .
+Dans le traitement du cancer du sein , l' indication de la radiothérapie après mastectomie , notamment de la paroi thoracique , reste matière de controverse en l' absence d' atteinte axillaire .
+L' envahissement ganglionnaire reste le facteur pronostique le plus important  .
+Des études rétrospectives ont démontré la présence d' autres facteurs prédictifs pour les récidives locales .
+La majorité de ces études concernaient des patientes atteintes de cancer du sein ayant envahi les ganglions axillaires .
+En l' absence d' atteinte axillaire , ces facteurs pronostiques restent mal étudiés .
+L' objectif de notre étude était d' étudier les facteurs de risque de récidive locale chez les patientes suivies pour un cancer du sein non évolué , de diamètre inférieur ou égal à 50 mm , respectant les ganglions axillaires , de siège central ou interne , et ayant reçu une radiothérapie de la chaîne mammaire interne seule , afin_de déterminer les sous-groupes de cancers à risque élevé pouvant justifier une radiothérapie locorégionale .
+2. Patientes et méthodes
+Il s' agit d' une étude rétrospective concernant 92 patientes traitées pour un cancer du sein de siège central ou interne sans envahissement axillaire après mastectomie et radiothérapie de la chaîne mammaire interne , entre janvier 1994 et décembre 1998 .
+L' âge médian des malades était de 50 ans ( 22 - 77 ans ) .
+Trente neuf patientes ( 42 % ) étaient ménopausées .
+Le siège de la tumeur était central dans 61 % des cas et les quadrants internes dans 39 % des cas .
+Le diamètre moyen de la tumeur était de 35,75 mm à l' examen clinique et de 29,5 mm à l' examen antomo-pathologique .
+Selon la classification TNM , le groupe T2 était le plus fréquent .
+Toutes les patientes ont eu un curage axillaire ramenant un nombre moyen de ganglions de 13 ganglions .
+Dix-huit tumeurs étaient de grade SBR I ( 22 % ) , 39 SBR II ( 48 % ) et 24 SBR III ( 30 % ) .
+La majorité des tranches de section étaient saines ( 99 % ) .
+La qualité de la résection n' a pas été dans un cas précisé .
+Des emboles vasculaires ou lymphatiques ont été notés dans six cas ( 7 % ) [ Tableau 1 ] .
+Tableau 1.
+Les caractéristiques des patientes
+Table 1. Clinical features
+CaractéristiquesNombre ge 40 ans66 40 ans26
+Ménopause39
+Taille ( mm ) 20192068 NP15
+SBR I18 II39 III24 NP11
+Récepteurs hormonaux Positifs26 Négatifs12 Inconnus54
+Chimiothérapie Oui41 Non51
+Tamoxifène Oui37 Non55
+Castration Oui18
+Full-size table
+View Within Article
+Toutes les patientes ont reçu une irradiation de la chaîne mammaire interne sans irradiation de la paroi thoracique étant donné que la taille tumorale était inférieure à 50 mm et que le taux de récidive locale est faible en l' absence d' atteinte axillaire .
+L' irradiation de la chaîne mammaire interne homolatérale a été délivrée chez 91 patientes avec une technique standard par un faisceau antérieur dans les quatre premiers espaces intercostaux .
+La limite supérieure du faisceau était le bord supérieur de l' articulation sterno-claviculaire , la largeur minimale du champ était de 5 cm .
+Une patiente a arrêté son traitement à 14 Gy .
+La dose totale a été de 50 Gy ( 24 Gy par électrons et 26 Gy par les photons d' un appareil de télécobalthérapie ) à_raison de cinq fractions de 2 Gy par semaine .
+Parmi les 92 patientes , seules 41 ( 45 % ) ont reçu une chimiothérapie adjuvante type CMF ( cyclophosphamide , méthotrexate , 5-fluoro-uracile ) dans 98 % des cas ( quatre à six cycles ) et FEC ( 5-fluoro-uracile , épiadriamycine , cyclophosphamide ) chez quatre patientes .
+Du tamoxifène a été prescrit chez 37 patientes , associé à une castration par irradiation dans 13 cas .
+Cinq autres patientes ont eu seulement une castration par irradiation .
+3. Résultats
+Après un suivi en médiane de 67 mois , le taux de rechute locale était de 5 % ( cinq cas ) .
+Trois récidives siégeaient sous la cicatrice et deux sur la paroi thoracique .
+Le taux de survie globale à cinq ans était de 94,5 % et celui survie sans récidive de 92,5 % .
+Trois patientes ont été opérées localement de la récidive , une patiente a reçu une radiothérapie et la dernière n' a pas eu de traitement après le diagnostic de la maladie et a été perdue de vue .
+Le risque de rechute locale a été étudié en fonction de plusieurs facteurs pronostiques selon le test statistique du Log-Rank : l' âge , le statut hormonal ( ménopause ou non ) , la taille tumorale , le grade histologique , l' existence d' emboles tumoraux lymphatiques ou vasculaires et le traitement systémique .
+Seuls l' âge inférieur ou égal à 40 ans et le diamètre tumoral supérieur à 20 mm semblaient être des facteurs pronostiques de rechute locale .
+Le taux de survie sans récidive à cinq ans était de 96,5 % pour les patientes âgées de plus de 40 ans et de 89,5 % pour les patientes de moins de 40 ans ( p = 0,121 ) .
+Lorsque le diamètre tumoral était inférieur à 20 mm , le taux de survie sans récidive à cinq ans était de 100 % .
+Il était de 93 % lorsque la tumeur mesurait plus de 20 mm ( p = 0,126 ) .
+Une atteinte ganglionnaire sus-claviculaire a été associée à la rechute locale chez trois patientes .
+Les métastases à distance ont été notées chez 15 patientes ( 16 % ) avec une atteinte osseuse dans sept cas ( 47 % ) .
+Aucun cas de décès par complications secondaire à la radiothérapie , maladie cardiaque ou cancer pulmonaire , n' a été observé .
+4. Discussion
+Le traitement optimal du cancer du sein est discuté en fonction des différents facteurs de risque de rechute locorégionale ou à distance .
+L' envahissement ganglionnaire reste jusqu' à ce jour le facteur pronostique le plus important .
+Cependant , 25 à 30 % des patientes indemnes d' envahissement ganglionnaire ( N- ) vont voir se développer une récidive et sont à risque de décéder de leurs cancers  .
+Le rôle de la radiothérapie après une chirurgie radicale a été étudié depuis 1949  .
+Vu le taux faible de récidive locorégionale en l' absence d' atteinte axillaire et le risque de complications , l' irradiation adjuvante n' a pas été fréquemment réalisée après mastectomie .
+Cependant , certains auteurs ont montré au sein de ce groupe de patientes que certaines tumeurs étaient à risque plus élevé de récidive locale  .
+D' après la méta-analyse du Early Breast Cancer Trialists' Collaborative Group ( ECTCG )  , le traitement local du cancer du sein diminuait le risque de récidive locorégionale et modifiait le risque de mortalité à long terme ( survie à 15 ans ) .
+Dans le groupe des patientes atteints de cancer du sein respectant les ganglions axillaires et traité par mastectomie , le taux de récidive locale à cinq ans était de 6 % en absence de radiothérapie .
+En cas d' irradiation , ce taux était seulement de 2 % et le gain absolu à cinq ans était de 4 % avec une différence non significative de réduction de la mortalité de cancer du sein à 15 ans .
+Cependant , la radiothérapie après mastectomie , surtout dans les séries anciennes , augmentait à long terme ( après cinq ans ) le risque de mortalité par des maladies cardiaques ou des cancers du poumon  .
+L' étude des sept essais du International Breast Cancer Study Group ( IBCSG )  a inclus 5352 patientes traitées par chirurgie radicale complétée par une chimiothérapie et / ou une hormonothérapie adjuvante , mais sans radiothérapie .
+Dans le groupe dans lequel l' aisselle était indemne , comprenant 1275 patientes , les facteurs associés à un risque élevé de rechute locorégionale étaient la taille tumorale supérieure à 20 mm et l' invasion vasculaire avant la ménopause , et l' invasion vasculaire après la ménopause .
+Les récidives étaient locales dans 53 % des cas .
+Pour les patientes atteintes de cancer à haut risque de récidive locorégionale , l' incidence à dix ans de récidive locorégionale était de 16 % chez les patientes non ménopausées et de 19 % chez les patientes ménopausées .
+Dans l' étude de Cheng_et_al.  , les résultats ont été évalués en fonction d' un score pronostique ( haut risque , risque intermédiaire et bas risque ) incluant les facteurs de rechute locorégionale : l' envahissement ganglionnaire , l' âge ( 40ans ) , les récepteurs hormonaux et l' invasion vasculaire lymphatique .
+La radiothérapie délivrée après la mastectomie améliorait le taux de contrôle locorégional dans tous les groupes mais significativement dans celui à haut risque .
+Une sélection des patientes en_dehors de l' atteinte ganglionnaire et l' identification du groupe à haut risque pour une irradiation après la mastectomie pourraient être justifiée .
+Jagsi_et_al.  , dans leur étude incluant 877 patientes atteintes de cancer respectant le ganglions axillaires n' ayant pas reçu une irradiation après mastectomie , le taux de récidive locorégionale à dix ans était de 6 % ( 80 % des récidives pariétales ) .
+La taille tumorale de plus de 20 mm , une marge de résection de moins de 2 mm , l' absence de ménopause , et l' invasion lympho-vasculaire étaient des facteurs pronostiques indépendants .
+Le taux de rechute locorégionale à dix ans était de 1,2 % chez les patientes avec zéro facteur de risque , de 10 % avec un facteur de risque , de 17,9 % avec deux facteurs de risques et 40,6 % avec trois facteurs de risque .
+Ces résultats sont en faveur d' une sélection des malades atteintes d' un cancer du sein sans envahissement axillaires et d' une irradiation pariétale pour le sous-groupe à haut risque de récidive locale .
+Dans l' étude de Floyd et al. ayant inclus 70 patientes atteintes d' un cancer mammaire de 50 mm ou plus respectant les ganglions axillaires qui ont reçu une chimiothérapie sans radiothérapie , le taux de rechute locorégionale après la mastectomie était de 7,6 % ( 4 / 5 des récidives locales étaient pariétales ) .
+L' invasion vasculaire était le seul facteur pronostique significatif de récidive locorégionale dans ce groupe de patientes atteintes d' un cancer de 50 mm ou plus , ce qui prouve que la radiothérapie doit être indiquée après la mastectomie lorsque plusieurs facteurs pronostiques sont associés  .
+L' irradiation pariétale et l' irradiation de la chaîne mammaire interne restent controversée en cas de tumeur centrale ou interne  .
+Dans notre série , les patientes n' ont reçu qu' une irradiation de la chaîne mammaire interne .
+L' irradiation pariétale a été indiquée pour les tumeurs évoluées de 50 mm ou plus à haut risque de récidive locale .
+Parmi les facteurs pronostiques étudiés , seuls l' âge inférieur ou égal à 40 ans et la taille tumorale supérieur à 20 mm semblaient être des facteurs pronostiques de rechute locale .
+Le taux de survie sans récidive à cinq ans était de 96,5 % pour les patientes âgées de plus de 40 ans et 89,5 % pour les patientes de moins de 40 ans ( p = 0,121 ) .
+En cas de tumeur de moins de 20 mm , le taux de survie sans récidive à cinq ans était de 100 % .
+Il était de 93 % si la tumeur excédait 20 mm ( p = 0,126 ) .
+L' irradiation pariétale pourrait être justifiée après chirurgie radicale avec un curage axillaire n' ayant pas montré d' atteinte axillaire pour les tumeurs de plus de 20 mm ( T2 ) chez les femmes jeunes , pour éviter des récidives parfois difficiles à rattraper ( Fig. 1 and Fig. 2 ) .
+Full-size image ( 34K )
+Fig. 1. .
+Récidive après mastectomie .
+Fig. 1. Recurrence after mastectomy .
+View Within Article
+Full-size image ( 35K )
+Fig. 2. .
+Récidive pariétale étendue .
+Fig. 2 Bulky parietal recurrence .
+View Within Article
+L' apport de la chimiothérapie dans la réduction des taux de récidive locorégionale a été rarement étudié .
+La plupart de ces études se sont déroulées avec une chimiothérapie de type CMF .
+Le taux de récidive locorégionale a parfois été rapporté après chirurgie radicale suivie de chimiothérapie à base d' anthracyclines  .
+Katz_et_al.  ont retrouvé un taux de récidive locorégionale de 4 % après traitement adjuvant par anthracyclines chez les femmes atteintes de cancer du sein respectant l' aisselle .
+Dans notre étude , seulement quatre femmes ont reçu des anthracyclines et parmi les patientes dont la tumeur a récidivé , trois patientes reçu une chimiothérapie de type CMF .
+Il semblerait que l' addition d' une chimiothérapie par les anthracyclines ne sursoit pas à la nécessité d' une radiothérapie en termes de récidive locorégionale  .
+Dans une étude rétrospective , Mersin_et_al.  ont montré qu' en addition de la taille tumorale et de l' âge , le nombre des ganglions axillaires indemnes est un facteur pronostique de survie sans maladie , dont le mécanisme reste non bien établi .
+Camp et al. ont trouvé une association entre un nombre élevé de ganglions prélevés indemnes et un pronostic défavorable et suggéré une corrélation probable entre la nécrose tumorale et l' hyperplasie ganglionnaire  .
+5. Conclusion
+L' irradiation de la paroi thoracique chez certaines patientes dont le cancer du sein respecte les ganglions axillaires reste à discuter .
+À côté des recherches actuelles des marqueurs biologiques prédictifs pour la rechute locorégionale  , une sous-classification des tumeurs respectant l' aisselle ( N- ) pourrait être recommandée pour mieux identifier les tumeurs à haut risque et choisir le traitement optimal .
+Le sous-groupe à haut risque de rechute locale reste encore mal défini .
+Cependant , la taille tumorale ( T2 ) , la résection tumorale limite , la présence d' emboles tumoraux vasculaires ou lymphatiques et la jeunesse de la patiente semblent être liés à un risque élevé de récidive justifiant l' indication de l' irradiation pariétale a près mastectomie

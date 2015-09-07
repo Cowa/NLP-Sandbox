@@ -1,0 +1,239 @@
+In many practical situations , the main objective is to understand the effect of p continuous predictors X= ( X1,,Xp ) on a binary response Y ( 0 / 1 ) .
+In some instances , however , the relationship between Y and each of the covariates , Xj , can vary according to the values taken by any of the remaining variables Xk ( kj ) .
+Moreover , the joint effect of each pair ( Xj,Xk ) on the response may vary , in turn , among subsets defined by the levels 1,,M} of a categorical covariate Z. In this regression framework , consideration might well be given to the logistic generalized additive model ( GAM ; Hastie and Tibshirani , 1990 ) including interactions , which expresses the conditional probability p ( Z,X ) =p ( Y=1|Z,X ) , as .
+( 1 )
+where is an unknown constant and a set of smooth ( unknown ) bivariate partial functions .
+Clearly , the representation given in Eq. ( 1 ) is not unique , and some restrictions have to be imposed in order to avoid different combinations of fjks and that could lead to the same model .
+To ensure identification of the model , the following two conditions are required : ( i ) zero-mean effect for each pair of continuous covariates and ( ii ) the sum of the specific effects across the levels must be zero .
+Specifically , for a given sample following the model in Eq. ( 1 ) , these two conditions are given by : ( i ) , and ( ii ) for 1jkp and 1in .
+Note that these conditions do not represent restrictions on our model , since it is possible to modify it so that it conforms to these same identifiably conditions .
+The only purpose of the constraints is to define clearly which part of a function fjk is the main effect and which part is the interaction .
+It should be noted that the model formulation in Eq. ( 1 ) is quite general , and nests some interesting regression models .
+For instance , if ( for l=1,,M ) , a logistic GAM including continuous-by-continuous interactions is obtained .
+If there are no continuous-by-continuous interactions , that is , for l=0,,M , then the factor-by-continuous interaction GAM is obtained .
+Moreover , if for l=1,,M and fjk ( Xj,Xk ) =fj ( Xj ) , the pure logistic GAM ( i.e. , without interaction terms )
+is then obtained .
+In recent years , a number of papers have appeared which address the problem of estimating and testing GAMs with interaction terms .
+Hastie and Tibshirani ( 1990 , pp. 265 - 266 ) discussed various approaches using smoothing splines .
+Sperlich_et_al.  presented methods based on marginal integration .
+Wahba ( 1990 ) and Guo ( 2002 ) , among others , proposed the use of smoothing spline ANOVA methods .
+Coull_et_al.  and Ruppert_et_al.  investigated alternative methods based on penalized splines .
+Marx and Eilers also proposed P-splines , and Wood ( 2003 ) used thin plate regression splines .
+Other works , such as the paper of Brezger and Lang , also used P-splines and developed Bayesian versions of GAMs and extensions to generalized structured additive regression .
+All the above-cited papers are mainly focused on GAMs including factor-by-curve and / or continuous-by-continuous interactions .
+Although we may find some statistical contributions to GAMs including factor-by-surface interactions ( see , e.g. , Wood , 2006 ) and several R packages ( like mgcv package written by S. Wood ) allowing for fitting this type of models in practice , the popularity of these models is still scarce .
+Main reasons for this are : ( a ) the lack of a close theory to address interesting inferential issues , such as either testing for interactions or constructing confidence intervals ; and ( b ) the practical difficulties in the final interpretation of the model .
+The main goal of this paper is to propose nonparametric methods for estimating and testing interactions in this type of models while retaining their interpretation from a practical point of view .
+For this aim , we propose ( i ) a generalization of the procedures suggested recently by  and  for estimating and testing in the general factor-by-surface model in Eq. ( 1 ) , and also ( ii ) the use of the odds-ratio ( OR ) curves to obtain a final ( biomedical ) interpretation of this model .
+The proposed estimation algorithm is an adapted version of the local scoring algorithm  based on bivariate local linear kernel smoothers  .
+For detecting which bivariate continuous effects depended on the groups associated with the factor , we have used the likelihood ratio-based test .
+Since no theory has been yet formulated in the field of hypothesis testing in this particular context , we therefore suggest the use of the bootstrap-based techniques to approximate the distribution of the proposed test .
+It is known , however , that the use of bootstrap resampling techniques involves estimating the model a great number of times , and it is also a time-consuming process .
+In this connection , reliance on the local linear bivariate kernel estimators has enabled us to use binning techniques ( [ Fan and Marron , 1994 ] and [ Wand , 1994 ] ) , which considerably reduced the computational time and render our procedures operational in practical situations , especially when the sample sizes are very large .
+The methodology developed in this work was employed in a computer-aided diagnosis ( CAD ) system  , dedicated to the early detection of breast cancer .
+Usually , these systems produce , as a result , suspicious areas extracted from the breast that may be recognized as true lesions or false detections .
+Characteristics of these areas , related with brightness , shape and texture could be extracted in terms of continuous variables ( features ) , employing different image processing algorithms  .
+However , the process of detecting structures within an image is always influenced by the contrast of the image .
+Contrast is one of the most important features of an image and can be defined as the difference in the image gray level scale between closely adjacent regions .
+Contrast has a large influence on the detectability of structures within a region , being harder for human eyes and computers to detect low contrast structures within a region of an image .
+Mammograms can be classified as dense ( high gray level values ) or fatty ( low gray level values ) in terms of breast tissue .
+Therefore , detection of suspicious areas ( usually represented by relative high level values ) will be influenced by the surrounding tissue of each area , because the contrast of those suspicious areas will be lower in dense mammograms .
+Although this work will be focused on regression models for binary response , all the procedures explained in this paper would be easily generalizable to any response belonging to the exponential family .
+The layout of this paper is as follows .
+A new procedure for testing factor-by-surface interactions in logistic GAM is suggested in Section 2 , and bootstrap techniques are used to approximate the distribution of the test statistic .
+In Section 3 we propose the nonparametric estimation algorithm and discuss the bandwidth selection procedure .
+To assess the validity of our test statistic , a simulation study is provided in Section 4. In Section 5 we apply the proposed methodology to a CAD system dedicated to the detection of masses on digital mammograms .
+Our approach yields immediately interpretable results by calculating the OR , one of the most widely used effect measure in biomedical research .
+Finally , we conclude with a discussion , in Section 6. .
+2. Testing factor-by-surface interactions in logistic GAM .
+In this section , the bootstrap resampling techniques are used for testing the factor-by-surface interactions model in Eq. ( 1 ) .
+For each pair of continuous covariates ( Xj,Xk ) , the interest centers on the null hypothesis , namely , the bivariate effect of ( Xj,Xk ) does not depend on the levels of factor .
+For this aim , we propose the use of the likelihood ratio test based on the statistic .
+where denotes the estimates of p ( Zi,Xi ) obtained under the null hypothesis , and the deviance d ( p,y ) is defined as d ( p,y ) =-2 [ ylog ( p ) + ( 1 y ) log ( 1 p ) ] .
+In other words , this test statistic represents the increment in the deviance from the null model .
+It must be remarked that , if the null hypothesis is verified , then T should be close to zero , but it will generally be positive .
+Thus , the test rule for checking , with asymptotic significance level 1- , is that the null hypothesis is rejected if TT , where Tp is the percentile 1 p of the distribution ( under the null hypothesis ) of T. The theory for ascertaining the asymptotic distribution of T is very difficult , which in turn renders it very difficult to calculate the critical values T. Binary bootstrap was thus used to calculate the critical values .
+This technique is an adapted version of the bootstrap considered in Yang_et_al.  and Hrdle_et_al.  , to obtain a response belonging to the exponential family .
+Specifically , the testing procedure consists of the following steps :
+Step 1 : Estimate the null regression model under the null hypothesis and obtain the bootstrap pilot estimates ( i=1,,n ) .
+For b=1,,B .
+Step 2 : Generate a sample with and calculate the bootstrap test statistic Tb in the same way as the original T was calculated .
+The test rule consists of rejecting the null hypothesis if TT ( ) , where T ( p ) is the empirical ( 1 p ) -percentile of the values T1,,TB .
+3. Estimation algorithm .
+In this paper , we have developed a new algorithm that enables Eq. ( 1 ) to be estimated .
+The proposed algorithm is a modified version of the local scoring algorithm with backfitting  .
+The backfitting algorithm cycles through each of the combinations , and the estimates , are obtained by applying two-dimensional local linear kernel smoothers  to the corresponding partial residuals .
+These residuals are obtained by removing the estimated effects of the other covariates .
+The steps of the estimation algorithm are as follows :
+Initialize .
+Compute the initial estimates , , , ( 1jkp;1lM ) and ( i=1,,n ) .
+Step 1 : Form the adjusted dependent variables and the weights , so that and , where .
+Step 2 : Fit an additive model ( with factor-by-surface interactions ) to , using backfitting , and compute the updates , as follows :
+Step 2.1 : Cycle 1jkp , calculating the partial residuals .
+and for i=1,,n and l=1,,M , compute the local linear polynomial estimator updates ( see Appendix A for details ) ,
+( 2 )
+( 3 )
+with , being the bandwidths associated with estimation of fjk , and the bandwidths associated with estimation of for each of the l=1,,M levels of the factor .
+Step 2.2 : This process is repeated , with being replaced by , and by , until , where bf is a small threshold and .
+Step 3 : Repeat Steps 1 - 2 , with being replaced by for i=1,,n , until , where is a small threshold and .
+It should be noted that in the case of only one continuous covariate , backfitting is avoided and only a local scoring procedure is used .
+The resulting estimates must satisfy the identification conditions explained in Section 1. In this way , for each ( j,k ) the estimates and must be considered as their centered versions in the form :
+with and the estimated constant should be considered as .
+In this way , the estimated model given by is equivalent to the original estimated model satisfying the identification conditions .
+3.0.1. Bandwidth selection .
+Computational aspects .
+It is well known that the probability estimates obtained for the model heavily depend on the bandwidths and used in the local linear kernel estimates of the partial functions fjk and , respectively .
+The bandwidths are a trade-off between the bias and the variance of the resulting estimates .
+Various proposals for an optimal selection have been suggested for the GAMs , yet the difficulty of asymptotic theory in a backfitting context means that nowadays optimal selection is still a challenging open problem .
+Moreover , a distinction should be drawn between the bandwidth choice for estimation and for testing .
+Our computational experience has shown that , whereas interaction terms tend to be smoothed out and the null hypothesis of no interaction never rejected in the case of large bandwidths , in the case of small bandwidths the interaction terms tend to prove significant .
+Cross-validation was used for the automatic choice of bandwidths .
+In each of the cycles of the algorithm , the bandwidths used to obtain the estimates in Eq. ( 2 ) were automatically selected by minimizing the following weighted cross-validation error criterion :
+where is obtained from the sample .
+Similarly , the bandwidths used to obtain the estimates in ( 3 ) are selected by minimizing .
+( 4 )
+where is again obtained leaving out the ith data point .
+In the implementation of the test previously explained , the estimates have been obtained employing the windows , ( 1jkp ) from the initial sample .
+These windows have been fixed through all the bootstrap procedure .
+In this way , the estimates ( b=1,,B ) were obtained with the same windows as the initial estimates .
+The bootstrap resampling techniques are time-consuming processes , because it is necessary to estimate the model a great number of times ( in our case B=1000 ) .
+Moreover , cross-validation implies a high computational cost , inasmuch as it is necessary to repeat the estimation operations several times in order to select the optimal bandwidths .
+To speed up this process , we used binning-type acceleration techniques ( [ Fan and Marron , 1994 ] and [ Wand , 1994 ] ) to obtain the binning approximations of and in each of the iterations of the estimation algorithm ( see Appendix A for details ) .
+Like in the estimation algorithm , with the binning technique the cross-validation error CVjk can be approximated by ( and similarly ) :
+where is obtained without the ( r,s ) element of the binning sample .
+In the previous expression , and are grids of equidistant points along the Xj and Xk direction , and .
+being the empirical covariance matrix obtained from the set , and j and k being the distance between consecutive grids in the jth and kth direction , respectively .
+This approximation reduces notably the computing time , because in the calculation of the CVjk errors it is only necessary to evaluate the kernel K in a maximum of NN different points for each choice of the bandwidths , and in these additions no account is taken of grid points having zero weight .
+4. Simulation study .
+In this section we describe a simulation study that was conducted to assess the validity of the proposed factor-by-surface interaction test in logistic GAMs .
+Given the Z factor ( 0 / 1 ) and the bivariate vector of continuous covariates X= ( X1,X2 ) , the binary outcome variable Y was generated according to YBernoulli ( p ( Z,X ) ) where .
+( 5 )
+The Z factor was selected according to Z1+Bernoulli ( 0.5 ) .
+The covariates X1 and X2 were chosen as independent random variables , uniformly distributed as Uniform [ -2,2 ] .
+One thousand independent samples were generated from the model in Eq. ( 5 ) under : , and .
+It must be remarked that the constant a controls the factor-by-surface interaction existing in the model ( 5 ) .
+If a=0 , this corresponds to the situation of no interaction , which means that .
+As the value of a increases , the degree of interaction of the model rises .
+Average results for n=1000 are shown in Fig. 1 for a=1 .
+In this figure , the true probability surfaces p ( 1,X ) and p ( 2,X ) , as well as the corresponding means based on a sample size of 400 repetitions , are shown .
+Full-size image ( 113K )
+Fig. 1. True probability surfaces p ( 1,X ) ( upper-left plot ) , p ( 2,X ) ( lower-left plot ) , and their mean estimates based on 400 repetitions ( upper-right plot ) , ( lower-right plot ) for a=1 and n=1000 .
+View Within Article .
+Regarding the issue of testing , we considered the null hypothesis ( or equivalently a=0 ) , using the test T explained in Section 2 above .
+For determining the critical values of the test T , we applied bootstrap as described above with a total of 1000 bootstrap samples .
+The type I error , as well as the power , have been calculated as the proportion of rejections of in 1000 runs .
+Size and power of the test have been determined for different levels ( 1% , 5% , 10% , and 15% ) and for different sample sizes n ( n=250 , 500 and 1000 ) .
+First , we study the type 1 error of our test .
+The results obtained ( expressed in % ) are shown in Table 1. .
+Table 1. .
+Estimated type I error ( in % )
+Leveln=250n=500n=1000 10.51.01.2 55.05.24.3 1011.79.510.5 1518.216.015.7 .
+Full-size table .
+View Within Article .
+As it can be observed from Table 1 , the test performed well in general , with type I errors relatively close to the nominal ones .
+Moreover , the differences among the obtained type I errors and the nominal levels decrease as the sample size increases .
+When the sample size are small , n=250 , the test rejects more than expected for 10% and 15% nominal levels .
+When the sample size increases , n=1000 , the obtained type I error is similar to the nominal level .
+The power curves shown in Fig. 2 display the expected behavior pattern .
+For a=0 the probability of rejection was approximately at the nominal level , and this probability rose to 1 as the value of a increased .
+However , we can see that the power of the tests strongly depends on the sample size considered .
+Thus , the power of the tests was very poor for reduced sample sizes , while the test registered a notable improvement in power as sample size grew .
+In our simulation study , we have considered only two continuous covariates and a factor with two levels .
+In more complex situations , it is clear that the power of the tests will strongly depend on the sample size considered .
+Thus , in practical situations dealing with several covariates and / or several levels of the factor , large simple sizes are recommended to ensure the validity of the mechanisms proposed in this paper .
+Full-size image ( 62K )
+Fig. 2. Percentage of rejection for increasing a for nominal level of 1% , 5% , 10% and 15% and sample sizes n=250 , 500 and 1000 .
+View Within Article .
+5. Application to the radiology data .
+The proposed methodology was applied over a CAD system dedicated to the detection of masses ( radio-opacities of small - medium size ) on digital mammograms .
+The database consisted of 580 mammograms selected from the files of patients who had undergone biopsy at the hospitals of the health district of Santiago de Compostela , Spain .
+From the total number of 580 mammograms , 190 corresponded to abnormal images ( lesion was present ) , the rest ( 390 mammograms ) being classified as normal images ( no lesion was present ) .
+The criterion employed by the radiologists for selecting malignant cases was that a biopsy proved malignant mass existed on the mammograms .
+The location of all biopsy-proven masses was marked on the original films by a radiologist .
+Moreover , each mammogram was classified as dense or fatty by the radiologist , based on the general appearance of the tissue of such mammogram .
+Briefly , fatty tissue ( FT=0 ) means high contrast between mass and surrounding tissue .
+Thereby the mass is relative easy to detect .
+Dense tissue ( FT=1 ) means low contrast and it represents a difficult detection task .
+The CAD scheme employed for this study has been described in Varela_et_al.  .
+Once the detection procedure was performed , a total of 1639 regions , suspicious of being a malignant mass , were detected from the 580 original mammograms , and a set of algorithms was applied over each region to reduce / eliminate the number of false positive detections .
+The result was a set of features extracted from each region that were employed as input of a classifier .
+Two of those features were associated with the maximum ( X1 ) and minimum ( X2 ) gray level value of the pixels belonging to each detected region , candidate to be a malignant mass .
+These gray level-based features play an important role for discriminating between breast masses and normal tissue .
+In fact , breast masses are usually homogeneous radio-opacities with relative high gray level values .
+Moreover , for dense breasts , the superimposed tissue reduces the contrast and makes difficult the detection of masses , even for radiologists .
+The main goal of the present analysis was to investigate if the relationship between the probability of the malignant masses and the continuous features X1 and X2 depended on the type of tissue .
+For this task , a total of n=1639 detected regions were provided .
+The data set consisted of the following information :
+where TP represents the true positive malignant masses .
+We have first analyzed the probability of being a TP for each value of X1 and X2 , without distinguishing the cases as fatty or dense tissue ( global analysis ) , by fitting a logistic GAM as follows :
+( 6 )
+with p ( X1,X2 ) =p ( TP=1|X1,X2 ) , is a fixed parameter and f12 is a bivariate ( X1,X2 ) function .
+The estimated probability surface is plotted in Fig. 3a .
+Full-size image ( 53K )
+Fig. 3. Estimated probability of being positive surfaces for ( a ) global analysis , ( b ) fatty tissue , and ( c ) dense tissue .
+Shaded regions represent high probability of being positive .
+View Within Article .
+To test if the interaction term f12 was significant , we have used the bootstrap-based likelihood ratio test , previously proposed in Roca-Pardias_et_al.  .
+Assuming the logistic GAM in ( 6 ) we have considered the null hypothesis of additivity :
+H0:f12 ( X1,X2 ) =f1 ( X1 ) +f2 ( X2 ) ,
+where f1 and f2 are univariate functions depending on X1 and X2 , respectively .
+By applying the likelihood ratio test to our data , the corresponding p-value was lower than 0.01 , rendering the X1-by-X2 interaction term statistically significant .
+We next investigated the possibility that the probability of being a TP associated with X1 and X2 might vary with the type of tissue .
+The corresponding surface interaction term was then added , and we have fitted the factor-by-surface logistic GAM , given by .
+( 7 )
+where p ( FT,X1,X2 ) =p ( TP=1|FT,X1,X2 ) , is a fixed parameter and f12 is a bivariate ( X1,X2 ) function .
+Moreover , f12 ( X1,X2 ) corresponds to the global surface , without discriminating among tissues , is the surface related with the fatty tissue , and corresponds to dense tissue .
+The corresponding estimated probability surfaces for both tissues are plotted separately in Figs. 3b and c .
+Applying the factor-by-surface interaction test ( outlined in Section 2 ) , we have obtained a p-value lower than 0.01. Thereby the interaction term was statistically significant .
+This means that the joint effect of the continuous covariates selected in this study behaved different for fatty and dense tissue , and the factor-by-surface interaction had to be included in the model .
+To assess the association between the probability of being a TP and the type of breast tissue , we have proposed the use of the OR , one of the most widely used effect measure in biomedical research .
+In accordance with the model presented in Eq. ( 7 ) , we defined the OR surface for each pair of values ( x1,x2 ) as .
+taking the dense tissue ( that is , FT=1 ) as the reference category .
+In accordance with the model presented in Eq. ( 7 ) , the OR expression is simplified in .
+( 8 )
+In our context , the use of the OR leads us to decide what type of tissue allows for a better discrimination between true detections ( i.e. , true positives ) and false detections ( i.e. , false positives ) .
+The estimated probability of being a true positive is shown in Fig. 3. The rough nature of the upper boundary reflects the absence of real data at those values .
+The shape of the three curves is quite similar .
+This reflects the complexity of the problem .
+However , the model can introduce clear differences at high probability levels ( shaded region of the curves ) .
+Probabilities are higher in Fig. 3b in comparison with Fig. 3c , as Fig. 3a represents a compromise between fatty and dense tissues ( Figs. 3b and c , respectively ) .
+Nevertheless , to ascertain more clearly how the functional form of the bivariate surface varied with the values of X1 and X2 , we decided to plot the cross-sections of the estimated surface separately .
+In this way , Fig. 4 ( left column ) shows cross-sections of the estimated surfaces of Figs. 3b and c , at four different values of X1 .
+In the same figure ( right column ) , we have also added the estimated OR curves with the corresponding 95% pointwise confidence bands .
+For the construction of such confidence intervals , the bootstrap resampling technique has been used .
+Specifically , given a point ( x1,x2 ) , the steps for construction of the confidence interval for the true OR ( x1,x2 ) are as follows :
+Full-size image ( 78K )
+Fig. 4. Cross-sections of the estimated surfaces of Fig. 3 , and associated OR curves ( with the corresponding 95% pointwise confidence bands ) at different values of X1 ( maxcdf ) : ( a ) X1=0.71 , ( b ) X1=0.78 , ( c ) X1=0.84 , and ( d ) X1=0 .
+View Within Article .
+Step 1 : Estimate the model ( 7 ) and obtain the bootstrap pilot estimates for i=1,,1639 , and then the pilot estimate .
+For b=1,,B .
+Step 2 : Generate a sample , with .
+Once this process has been completed , the 95% limits of the confidence interval for the true OR ( x1,x2 ) are given by .
+where is the estimate obtained with the original sample and represents the p-percentile of the differences ( b=1,,B ) .
+In Fig. 4 , we can see that , for X1=0.71 ( lower value ) , the probabilities of being a TP are small , and no statistically significant difference appears between tissues .
+As X1 increases ( X1=0.78 ) , the probabilities of being a TP increase only for dense tissue , with a difference that is statistically significant .
+For X1=0.84 , there are no significant differences , but the probabilities to be a TP are higher on both tissues , and finally , for X1=0.87 , higher probabilities are for fatty tissues , with a difference statistically significant for lower values of X2 .
+It can be observed that higher probabilities are related to higher values of X1 and X2 , as it can be expected , since higher values of X1 and X2 represent a high gray level value of the detected region and , thereby , a greater discrimination from the rest of the breast tissue .
+However , the surfaces have different behavior depending on the type of tissue ( Figs. 4a - d ) .
+For fatty tissue , the probability of a detected region being a TP is higher for values of X1 above 0.85 in the interval [ 0.75 , 0.80 ] .
+Moreover , the change from lower to higher probabilities in the fatty tissue surface is larger .
+For dense tissue , those values increase to X10.90 and X2 in the interval [ 0.78 , 0.82 ] .
+Thus , as the density of the breast tissue increases from fatty ( less dense ) to dense , the brightness of the mass has to rise ( higher values of X1 and X2 ) , because it is essential to preserve the contrast of the mass related to the surrounding tissue for detection .
+Those results are coherent with the fact ( observed by the radiologists ) that , for dense mammograms , the superimposed breast tissue reduces the visibility of the masses .
+6. Concluding remarks .
+In this work , logistic regression models , where the bivariate effect of pairs of continuous covariates on response may depend on the groups defined by the levels of a covariate factor , have been considered .
+The main goal has been the development of a statistical test for detecting this type of interactions , namely the factor-by-surface interactions .
+Local scoring with backfitting based on kernel smoothers has been used for estimating the model , and the smoothing windows were selected employing the cross-validation technique .
+Since backfitting theory is difficult in our GAM context , bootstrap-based procedures were used in the implementation of this test .
+The use of this technique involves estimating the model a great number of times ( in our case , 1000 bootstrap replicates were used ) , and we therefore have used binning acceleration techniques to speed up the process .
+Our GAM-based methodology is very flexible and extensions to more complex interaction models are possible .
+It should be noted , however , that introducing higher order interactions would gradually bring back problems of interpretation and the curse of dimensionality .
+We have applied this novel approach to the results yielded by a CAD system dedicated to the detection of breast masses , to differentiate lesion from nonlesion .
+Our results show different behaviors of the detected regions when the breast tissue was taken into account , thus indicating that the factor is relevant when performing discrimination studies of the breast regions .
+From a computational point of view , binning acceleration made it possible for estimation and the testing processes to be concluded in under 2 min , for a sample size of n=1639 ( using a 2000 MHz Pentium III , 128 MB RAM ) .
+In conclusion , the method developed in this paper , together with the OR curves , allows for the possibility of obtaining a model of the behavior of the features extracted from suspicious areas , which include the distortion introduced by the surrounding tissue .
+This result may help developers to improve the performance of CAD systems .
+A user-friendly FORTRAN program implementing the proposed methodology outlined in this paper can be obtained by contacting the first author at .
+Acknowledgments .
+The authors are grateful to the anonymous referees for their helpful comments that resulted in an improved version of the manuscript , and to Celia Varela for her technical assistance and comments .
+The work of Javier Roca-Pardias and Carmen Cadarso-Surezwas supported by Grant MTM2005-00818 ( European FEDER support included ) from the Spanish Ministry of Education , and by Xunta de Galicia , Grant PGIDIT06PXIC208043PN .

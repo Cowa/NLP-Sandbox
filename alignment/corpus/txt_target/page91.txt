@@ -1,0 +1,126 @@
+Papillary lesions of the breast encompass diverse of epithelial proliferations which include benign conditions ( papillary ductal hyperplasia as a component of fibrocystic change , solitary or multiple papillomas ) as well as malignant conditions such as in situ carcinoma ( micropapillary / cribriform , solid or intracystic papillary ) and invasive ductal adenocarcinoma ( typical papillary or as a component of invasive ductal carcinoma ) .
+With the widespread of screening mammography , more and more asymptomatic benign lesions are discovered and require specific management when diagnosed on biopsy .
+In case of atypical lesion , current recommendations involve excisional biopsy to rule out ductal carcinoma in situ and / or invasive carcinoma .
+Relatively few studies , each with a limited number of cases , have investigated the risk of carcinoma in patients with a diagnosis of papilloma of the breast made on ultrasound or vacuum-assisted biopsies .
+We conducted this study to quantify the risk and investigate the factors associated to the risk of cancer in patients with papilloma .
+Patients and methods Patients .
+A retrospective review of data records from January 2000 through March 2007 showed papillary lesions in 130 patients who underwent surgery in the department of Gynecology and Obstetrics at Tenon Hospital .
+Several clinical histories could be distinguished because the inclusion criteria were a papilloma lesion diagnosed on a histological report ( preoperative or surgical ) .
+The patients could be separated into patients with preoperative histology and patients without a preoperative histology .
+Most patients with papilloma diagnosed on preoperative histology had been referred for mammographic screening .
+Nipple discharge was the main clinical symptom in patients without preoperative histology .
+The mean patient age was 52 years ( range , 20 - 80 years ) .
+Clinically , only 2 patients had palpable lesions and 59 patients presented with nipple discharge .
+Benign papilloma had been identified by preoperative biopsies in 48 cases , by ductography in 34 cases and by cytology in 7 cases .
+Results from surgical excision were available for all 130 patients .
+Table 1. .
+Summary of the initial findings of the 130 patients diagnosed with papilloma .
+Full-size table .
+N : normal .
+View Within Article .
+Imaging .
+Bilateral two-views mammography ( craniocaudal and mediolateral oblique ) was performed in all 130 patients .
+Ultrasonography was performed by the radiologist in case of dense breasts or abnormality detected on the mammograms .
+It was systematic in case of symptomatic patients .
+Complementary ductography was indicated when a spontaneous , unilateral and uniductal nipple discharge was present .
+It was performed by injection of contrast media through a 26 gauge cannula inserted into the pathologic duct .
+Craniocaudal and lateral views were obtained .
+Then spot compression magnification views were realized on the area of concern .
+Papilloma was suspected when a regular intraluminar-filling defect was found .
+Information regarding the radial location and depth of any abnormalities was collected .
+Lesion size was based on the greatest lesion dimension ( mass or cluster of calcifications ) on imaging , using sonography size for most patients or using mammography if the lesion was a single cluster of calcifications .
+Biopsy of masses identified on ultrasonography was performed under sonographic guidance using a 14 gauge automated needle ( Bard , USA ) .
+Biopsy of microcalcifications was performed under stereotactic guidance using 11 gauge vacuum-assisted biopsy ( VAB ) probe ( Mammotome , Biopsy / Ethicon Endo-Surgery ) or a 10 gauge handheld vacuum-assisted biopsy probe ( Bard , USA ) .
+In cases of total excision of the targeted lesion , a localizing clip was placed ( MicroMark , Biopsy / Ethicon Endo-Surgery ) .
+Stereotactic sampling of microcalcifications was verified routinely with specimen X-ray .
+For each lesion , the imaging-histologic result concordance was discussed by the radiologist , the pathologist and the physician .
+Results were categorized as isolated benign papilloma , atypical papilloma , papilloma associated with high-risk lesions such as atypical ductal hyperplasia ( ADH ) , atypical lobular hyperplasia ( ALH ) , lobular carcinoma in situ ( LCIS ) , with malignancy such as ductal carcinoma in situ ( DCIS ) or invasive ductal carcinoma ( IDC ) , or with benign lesions such as fibrocystic mastosis and other benign lesions .
+Statistical analysis .
+Operative reports were obtained for all patients .
+The technique of the surgery was recorded with the histology of any abnormal breast tissue .
+All patients with papillary lesions were operated on and definitive histology was compared to preoperative diagnosis .
+Factors associated with underestimation of malignancy were evaluated in a univariate analysis ( Chi-square test or Student 's t-test ) and a multivariate analysis ( logistic regression analysis ) .
+Results Preoperative findings .
+The diagnostic , histologic and imaging findings in the 130 patients with papilloma on pathologic reports are given in Table 1. .
+The preoperative histology ( 21 VAB and 42 microbiopsies with ultrasonic guidance ) was available for 63 patients and was as follows : 48 benign papillomas , 8 mastosis and benign lesions , 3 papillomas associated to atypia , 2 papillomas associated to carcinoma in situ and 2 papillomas associated to invasive carcinoma .
+Table 2. .
+Summary of histologic findings at core biopsy and surgical excision .
+Histology at core biopsyHistology at surgical excision Typical papillomaBenign lesionPapilloma with AtypiaCarcinoma in situ ( DCIS / CLIS ) Invasive carcinomaTotal Typical papilloma30836 ( 3 / 3 ) 148 Benign lesion88 Papilloma with atypia1a1a ( 1 / 0 ) 1a3 Carcinoma in situ1a1a ( 1 / 0 ) 2 Invasive carcinoma1a ( 1 / 0 ) 1a2 .
+Total38949363 .
+Full-size table .
+a Associated to papilloma .
+View Within Article .
+Mammography was normal in 42 cases and showed microcalcifications in 25 cases and masses in 66 cases .
+Ultrasound was performed in all cases and confirmed the mammographic findings .
+Only 42 lesions were evaluated with ductography .
+The signs suggestive of papilloma were present in 34 cases .
+Two patients had a palpable mass at diagnosis and for 59 patients the clinical symptom was a nipple discharge .
+It was bloody in 30 cases and serous in 29 cases .
+Nipple discharge had been analyzed for patients who needed ductography and showed signs of papilloma in 7 cases .
+Histology of the operative specimens .
+Surgical excision was performed on the basis of diagnosis of suspected papilloma either clinical and / or histologic and / or radiographic ( clinical and radiographic diagnosis in 67 patients and biopsy in 63 patients ) .
+The histopathologic findings of the surgically excised lesions revealed benign papilloma in 84 patients , atypical papilloma in 3 patients , mastosis and benign lesions in 20 patients , ADH in 3 patients , ALH in 3 patients , LCIS in 3 patients , DCIS in 11 patients and IDC in 3 patients .
+Only 63 patients had core biopsy prior to surgery .
+Correlation between histological preoperative diagnosis and histological results on operative specimen are reported in Table 2. Malignancy was found on final histology in 2 of 3 patients with initial atypia , as well as in 4 of 48 patients with initial diagnosis of benign papilloma ( p = 0.08 , Fisher 's exact test ) .
+Of the 63 patients who had biopsies prior to surgery , residual lesions could not be found in 4 cases and were presumed to have been entirely excised at core biopsy .
+Thirty of the 48 lesions diagnosed as papilloma at core biopsy were papillomas at surgical excision , 3 were atypical lesions , 8 were mastosis , 6 were DCIS or LCIS and 1 was IDC .
+Eight lesions diagnosed as benign at core biopsy proved to be papillomas at surgery .
+One lesion originally diagnosed as atypical papilloma at core biopsy proved to be DCIS at excision .
+Another lesion of papilloma associated to ADH at core biopsy was found to be IDC at excision .
+Risk factors for malignancy .
+We analyzed risk factors for malignancy associated with papilloma firstly on the whole population then secondly on patients with preoperative histological diagnosis of typical papilloma .
+In the whole population , no patient aged less than 50 years was found to have carcinoma on final pathology .
+In contrast , of the 78 patients aged more than 50 years , 14 patients had carcinoma on final excisional pathology ( p = 0.001 ) .
+Nipple discharge and presence of microcalcifications were also found to be related to risk of malignancy ( p = 0.05 and 0.02 , respectively ) .
+In the multivariate analysis , there was a significant relationship between the presence of malignancy at excision and the age ( continuous variable ) as well as with the presence of microcalcifications ( p = 0.003 and 0.005 , respectively ) .
+The other factors studied showed no significant difference .
+In patients with atypical papilloma diagnosed by preoperative histology , no malignancy was present on surgical specimen in the 23 patients aged less than 50 years versus 4 cases in patients aged more than 50 years ( p = 0.11 , Fisher 's exact test ) .
+The other factors studied ( nipple discharge , microcalcifications , mass ) showed no significant difference .
+Table 3. .
+Risk factors for malignancy associated with papilloma .
+Benign ( n = 116 ) Malignant ( n = 14 ) RR univariate analysispHRp Age 50 Years5201.2 ( 1.1 - 1.2 ) 0.001 50 Years6414 Continuous1.2 ( 1.1 - 1.3 ) 0.003 .
+Nipple discharge Yes3070.88 ( 0.76 - 1.00 ) 0.05 - - No867 .
+Microcalcifications Yes1870.77 ( 0.62 - 0.93 ) 0.00212.2 ( 2.7 - 55 ) 0.005 No987 .
+Mass Yes5570.99 ( 0.89 - 1.10 ) 0.86 - - No617 .
+Full-size table .
+View Within Article .
+Discussion Findings .
+Papillary lesions of the breast are more often encountered with the widespread use of core biopsy in the initial diagnosis of mammographic and / or sonographic lesions .
+As malignancy may be underdiagnosed , most teams recommend excision of the papilloma .
+Our study is among the largest studies concerning surgical excision of papillary lesions .
+We report that preinvasive and / or invasive carcinoma was found in 8% of cases of isolated papilloma diagnosed on preoperative exams and that malignancy was associated with papilloma in 11% of cases .
+Age of more than 50 years and microcalcifications were associated with a higher risk of malignancy on definitive histology .
+Table 4. .
+Papillary lesions diagnosed with core biopsy and surgically excised : summary of the literature compared to our study .
+Author and reference numberNumber of patients surgically excised for papillomaaFindings at surgical excision Benign/papillomaAtypia / malignant Liberman et al.522175 Philpotts et al.616124 Puglisi et al.9493019 Renshaw et al.12402020 Mercado et al.10362610 Sydnor et al.1382414 Our study513912 .
+Full-size table .
+a Papilloma with and without atypia .
+View Within Article .
+Papillomas are found in the lactiferous ducts of the breast and are composed of fibrovascular layer , myoepithelial layer and epithelial layer .
+They are most often found in women between 30 and 50 years old.1 They may be identified only microscopically or may be extensively sclerotic , and some may demonstrate features of atypia .
+Tissue diagnosis is required since atypical hyperplasia or carcinoma may be present in the same way .
+Papilloma is the most common cause of significant nipple discharge.2 Ductography could be helpful to confirm the suspected diagnosis in cases of nipple discharge with normal mammographic and sonographic imaging .
+Impact of radiology .
+In the 20th century , mastectomy and then segmentectomy were the treatment of choice for bloody nipple discharge .
+Radiologists began percutaneous imaging-guided histologic needle sampling of the breast in the late 1980s.3 This procedure was followed by the development of vacuum-assisted instrument.4 In 1999 , Liberman et al. concluded in a study including 19 cases that percutaneously diagnosed benign intraductal lesions no longer required open surgical biopsy.5 In another study concerning benign histologic findings , Philpotts et al. showed the importance of surgical excision only if discordance between radiography and histology exists.6 The treatment of atypical hyperplasia diagnosed at core biopsies is described as requiring surgical excision to exclude an underestimated cancer .
+The treatment of papilloma diagnosed at core biopsy seems more controversial.  Few cases of malignant upgraded lesions at surgery ( 6% and 7% of patients ) were reported in 2 small studies concerning surgical excision and comparison to initial biopsy diagnosis.  In a recent study including papillomas and benign papillary lesions at core biopsy , Mercado et al. found 21% of patients with atypical ductal hyperplasia or DCIS at surgery and recommended surgery for patients with papilloma on biopsy.10 Sydnor et al. showed in a study that the underestimation rate in benign papilloma was of 3% and that the underestimation of carcinoma was not significantly related neither to needle type nor to number of samples.1 Other studies reported higher risk of underestimation of invasive carcinoma and indicate surgical excision for papillary lesion diagnosed on biopsy.  In our study , among the 48 patients with initial diagnosis of papilloma , atypia was found in 6% of patients , LCIS in 3% of patients , and malignancy ( DCIS and invasive carcinoma ) in 8% of patients .
+These contradicting reports emphasize the need for determining risk factor for underestimation .
+Risk factors for malignancy .
+Renshaw et al. as well as Page et al. found in their studies a higher risk of underestimation of malignancy when atypical papilloma or atypia associated to papilloma was found on initial core needle biopsies. 
+In our study , we tested the age of more than 50 years and the presence of nipple discharge , microcalcifications or masses as potential risk factors for malignancy .
+No other similar study concerning the age of patients and our studied factors was found in the literature .
+Not surprisingly , we found that the age of more than 50 years as well as the presence of nipple discharge and microcalcifications were significantly related to the risk of malignancy at surgical excision .
+The significance of nipple discharge did not persist in the multivariate analysis .
+It could be explained by the number of patients included in our study .
+It would be interesting to complete the study of these risk factors with a larger number of patients .
+Similarly , only 3 patients had atypia associated with papilloma on preoperative histology precluding any conclusion on the risk of malignancy if papilloma is associated with atypia .
+Conclusion .
+Benign papilloma can be associated to malignancy at excisional surgery .
+Given the rate of carcinoma found for patients with isolated papillary lesions in our study ( 8% ) , we recommend surgical excision for papilloma .
+We analyzed the risk factors for the association between malignancy and papillomas .
+Though microcalcifications and nipple discharge were found to be potential risk factors for malignancy in univariate analysis , they could not differentiate effectively between benign and malignant disease in multivariate analysis , probably because of the low number of patients in our study .
+The patient age of more than 50 years and the presence of microcalcifications were found to be independently related to the risk of malignancy .
+Conflict of interest .
+The authors have no conflict of interest to disclose .
+Acknowledgements .
+The authors thank Nicole Maurin , MD and Sabah Ghomrasseni .

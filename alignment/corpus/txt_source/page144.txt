@@ -1,0 +1,148 @@
+L' objectif de l' irradiation mammaire postopératoire est de diminuer au maximum le risque de récidive locale de la maladie et de permettre la conservation mammaire lorsqu' elle est souhaitée par la patiente dans des conditions permettant d' assurer un taux élevé de contrôle local et un taux de séquelles faible .
+L' irradiation du sein en place est désormais bien codifiée .
+Il faut rappeler qu' elle doit être conduite avec rigueur afin_d' optimiser les chances de conserver le sein à long terme , d' offrir les résultats esthétiques les meilleurs et de réduire l' apparition des séquelles éventuelles ( cutanées , pulmonaires , cardiaques ) , qui viennent compliquer à long terme cette stratégie thérapeutique .
+Il est établi depuis les travaux d' Arriagada et al. qu' une dose d' au_minimum 50 Gy en 25 fractions , à_raison de cinq fractions de 1,8 à 2 Gy par semaine , doit être délivrée à l' ensemble de la glande mammaire  .
+À partir des résultats des six essais prospectifs randomisés comparant tumorectomie plus radiothérapie à mastectomie dans les cancers du sein infiltrant , on peut estimer le taux de risque de récidive locale après l' association chirurgie conservatrice et radiothérapie , avec une durée minimale de six ans , entre 3 %  et 15 %  .
+Il varie selon la sélection des malades et la qualité de la chirurgie .
+Les résultats les meilleurs sont obtenus lorsque la chirurgie la plus large a été réalisée .
+Dans l' étude publiée par Veronesi et al. , les patientes étaient atteintes d' une tumeur de moins de 2 cm et la chirurgie comportait une quadrantectomie  .
+Dans le cadre des traitements conservateurs du sein , un complément d' irradiation du lit tumoral est alors discutée , pour une dose délivrée variant entre 10 à 30 Gy selon les expériences .
+La validité de cette approche a été établie par deux essais randomisés dont l' analyse doit être rigoureuse .
+Les conclusions ne peuvent être univoques , ce d' autant_que de nouvelles approches viennent bouleverser les idées reçues en relançant le concept des irradiations localisées .
+Ils font discuter la réalisation de complément d' irradiation dans des volumes réduits , par photons , par faisceau direct d' électrons , par curiethérapie ( avec différentes déclinaisons en fonction de la séquence par_rapport_à la chirurgie et du débit de dose ) ou par dispositif dédié , comme le Mammosite .
+2. Les essais de Phase III2.1 .
+Essai 22881 de l' European Organization for Research and Treatment of Cancer ( EORTC )
+Entre 1989 et 1996 , 5569 patientes , atteintes d' un cancer du sein de stade I et II , après exérèse chirurgicale macroscopiquement complète et dissection axillaire , ont été randomisées entre une irradiation du sein de 50 Gy et un traitement identique complété par une irradiation de 16 Gy du lit tumoral .
+Dans ce dernier bras , 2661 malades ont été traitées avec un boost localisé , 2657 patientes ont reçu la dose standard de 50 Gy en 25 fractions .
+Le protocole recommandait de marquer à l' encre de Chine la surface des pièces opératoires et la présence de cancer invasif à l' examen microscopique faisait considérer l' exérèse comme incomplète .
+Une marge macroscopique de 1 cm était demandée .
+La répartition des facteurs pronostiques était identique et symétrique entre les deux groupes .
+La durée moyenne d' observation est de 5,1 ans .
+Une récidive locale a été observée chez 182 malades sur 2657 ayant reçu l' irradiation de 50 Gy .
+Cent neuf patientes sur 2661 ayant reçu le complément d' irradiation de 16 Gy ont eu une récidive .
+Le taux actuariel de rechute locale à cinq ans chez les malades ayant reçu le complément d' irradiation était de 4,3 % , contre 7 % dans le cas contraire ( p 0,001 ) .
+Il est important de noter que 47 % des récidives locales ont été observées dans le lit tumoral initial , 9 % au niveau de la cicatrice et 29 % en_dehors du quadrant initial de la tumeur .
+Une récidive diffuse de toute la glande mammaire a été constatée pour 27 % des malades .
+Le sous-groupe ayant le plus bénéficié de cette augmentation de dose était constitué des patientes de moins de 40 ans .
+En analyse unifactorielle , les facteurs suivants ont eu un effet négatif sur le contrôle local : âge inférieur à 40 ans , statut préménauposé , taille tumorale supérieure à 2 cm , exérèse première incomplète de la tumeur , absence de récepteurs aux estrogènes et aux progestatifs et de traitement adjuvant systémique .
+L' analyse multifactorielle a retrouvé trois variables significativement liées à la survenue d' une récidive locale : la présence d' une tumeur palpable , l' absence de récepteurs à la progestérone ( liée au_risque_de récidive locale chez les jeunes patientes ) et l' âge de la malade .
+Chez les malades âgées de moins de 40 ans , le complément d' irradiation du lit tumoral a diminué le risque de récidive locale de 20 à 10 % ( p = 0,002 ) .
+Pour les patientes de 41 à 50 ans , ce risque a été réduit de 10 à 6 % ( p = 0,02 ) et chez les malades de plus de 50 ans de 4 à 3 % ( p = 0,10 ) .
+Il n' a pas été retrouvé d' effets adverses chez les patientes ayant reçu la dose additionnelle de 16 Gy .
+Aucun autre effet tardif n' a été observé .
+Les probabilités de dissémination métastatique et de survie globale étaient identiques entre les deux groupes  .
+2.2. Essai de Lyon
+De 1986 à 1992 , 1024 femmes atteintes d' une tumeur mammaire de moins de 3 cm , traitées par chirurgie conservatrice et curage ganglionnaire , ont reçu une radiothérapie complémentaire de 50 Gy en 20 fractions et cinq semaines .
+Il leur a été proposé une étude thérapeutique assignant par randomisation l' absence de traitement complémentaire du lit tumoral ou un complément d' irradiation du lit tumoral de 10 Gy délivrée par électrons .
+À cinq ans , avec un recul médian de 3,3 ans , il a été observé dix récidives chez les 521 malades qui ont reçu le traitement complémentaire contre 20 récidives chez les 503 patientes qui n' ont pas reçu complément d' irradiation .
+La différence était significative ( p = 0,044 ) .
+Il n' a pas été réalisé d' analyse multifactorielle permettant d' identifier les facteurs pronostiques liés à la survenue d' une récidive locale .
+L' appréciation des complications tardives , notamment esthétiques cutanées , n' a été rapportée que pour 702 malades avec un recul insuffisant de deux ans .
+Il a néanmoins été constaté une différence statistiquement significative concernant la survenue de télangiectasies de grade I - II , qui ont été rapportées chez 6 % des patientes dans le groupe contrôle et 12,4 % dans le bras comportant un complément d' irradiation par électrons de 10 Gy  .
+L' étude de l' EORTC vient apporter des éléments importants dans l' indication du boost .
+Elle sélectionne indiscutablement un groupe de malades atteintes de tumeur du sein à haut risque de récidive locale , avec l' âge comme facteur dominant .
+Elle indique surtout l' absence de bénéfice du complément d' irradiation chez les malades de plus de 50 ans .
+La taille de cet essai donne à cette information une puissance incontestable .
+Les deux essais convergent pour nous indiquer que les solutions proposées sont insuffisantes pour les malades atteintes de tumeur à haut risque , surtout les femmes jeunes .
+La communauté scientifique attend avec intérêt l' actualisation de ces données , qui souffrent d' un recul insuffisant ( 3,3 ans pour l' essai Lyon-Sud , 5,1 ans pour l' essai de l' EORTC ) pour_que les conclusions rapportées deviennent incontestables .
+3. Les autres facteurs pronostiques3.1 .
+Taille tumorale
+La taille tumorale est évidemment liée à la probabilité de récidive locale .
+Une tumeur palpable et / ou mesurant plus de 2 cm a été retrouvée significativement associée à une récidive locale dans l' essai 22881 de l' EORTC  .
+Ceci confirme ainsi une notion empirique et citée dans de nombreuses études  .
+Il faut garder la notion de tumeur palpable comme étant un facteur de prognostic défavorable .
+3.2. ge
+Il s' agit d' un facteur controversé mais essentiel .
+Quel seuil doit être retenu ?
+Dans l' expérience nord-américaine , l' âge de 35 ans est cité avec en référence les travaux de B. Fowble_et_al.  .
+Elle rapporte une série de 980 malades avec un taux de récidive locale de 24 % avant 35 ans contre 14 % pour les patientes de plus de 35 ans .
+La question de l' indépendance de ce facteur doit évidemment être posée .
+Est il le reflet de l' association à d' autres facteurs de pronostic défavorable , qui seraient plus fréquemment rencontrés chez ces malades , ou intervient il pour lui-même ?
+La première hypothèse est soutenue par Fowble et al. [ 10 and 9 ] et par Kurtz_et_al.  , la seconde par Haffty et al. [ 12 and 13 ] .
+Une analyse par classe d' âge de la distribution des facteurs liés au malade , aux caractéristiques du traitement et aux éléments de l' analyse anatomopathologique vient récemment d' être publiée comme analyse complémentaire de l' essai 22881 de l' EORTC  .
+Il se confirme en analyse unifactorielle que les malades de moins de 40 ans sont plus souvent atteintes de tumeur de plus grande taille , plus fréquemment palpable , sans récepteurs aux estrogènes .
+Elles ont malheureusement plus souvent un traitement chirurgical incomplet en première intention et sont plus souvent réopérées .
+Si la fréquence de l' association à un carcinome intracanalaire ne dépend pas de l' âge , il est retrouvé plus fréquemment une composante de haut grade dans cette population .
+L' analyse multifactorielle a confirmé l' indépendance de l' âge , qui est le seul facteur statistiquement lié à la récidive locale ( p = 0,01 et 0,001 ) .
+3.3. DCIS
+La présence de composante intracanalaire ( DCIS ) associée au contingent infiltrant est beaucoup discutée .
+La description même de ce critère a varié au cours du temps et selon les études .
+Il n' existe aucun consensus international sur la définition de ce facteur .
+Il est important de considérer historiquement que l' analyse de la qualité de l' exérèse a , dans un premier temps , pris en compte la composante infiltrante .
+Puis , la présence du DCIS a été étudiée dans les berges du lit tumoral et enfin son importance au sein de la tumeur a fait l' objet d' études plus précises .
+Holland et al. ont montré que lorsqu' une composante extensive du carcinome intracanalaire est retrouvée , des foyers de carcinomes résiduels sont présents dans 74 % des cas à plus de 5 mm de la tumeur , ce qui justifie pour les auteurs un geste chirurgical plus étendu  .
+Cette attitude est aussi proposée par Vicini et al. , qui ont montré une amélioration significative du taux de contrôle local grâce une excision large en cas de DCIS extensif  .
+Cet élément est intégré cliniquement par de nombreux auteurs .
+Il explique que des indications de complément d' irradiation en présence de DCIS étendu modifie des résultats cliniques , comme dans les séries d' Amsterdam .
+Une première publication retient ce facteur comme pronostique dans une analyse multifactorielle  .
+Il disparaissait dans la seconde analyse , mais les malades avaient entre-temps reçu un boost de 25 Gy par curiethérapie si un contingent de DCIS étendu était constaté sur la pièce opératoire  .
+Cette analyse suggère un effet dose dans cette circonstance .
+Or , il faut bien admettre que si de nombreuses études avaient montré que la présence d' une composante intracanalaire extensive était liée à un taux plus important de récidive locale après traitement conservateur , lorsque le statut des tranches de section d' exérèse est précisé par les pathologistes et pris en compte , la composante intracanalaire extensive n' est plus un facteur de récidive locale [ 11 , 20 and 23 ] , la qualité de l' exérèse , complète ou non , annulerait l' effet de la composante intracanalaire extensive .
+La notion de grade dans le DCIS est venue compléter la série des facteurs confondants .
+Dans l' analyse des malades traitées dans l' essai 22881 de l' EORTC , chez les malades qui avait un DCIS associé , il est observé significativement plus de lésions de haut grade chez les jeunes patientes .
+Cette variable restait significative dans l' analyse multifactorielle des facteurs liés à la récidive locale ( p = 0,05 )  .
+En complément de ces facteurs pronostiques cellulaires , il convient d' ajouter la notion d' invasion vasculaire .
+Elle a été mise en évidence comme un facteur indépendant par Voogd et al. , aussi_bien pour les malades ayant été traitées par mastectomie que par traitement conservateur dans une compilation de deux essais randomisés  .
+Il est évident que les récentes publications portant sur la reconnaissance d' altérations géniques associée à un pronostic péjoratif vont vraisemblablement radicalement modifier notre approche des facteurs pronostiques de la récidive locale et à distance  .
+Ils concernent des gènes impliqués dans la régulation du cycle cellulaire , l' invasion vasculaire , l' angiogénèse .
+Il n' est toutefois pas démontré qu' il existe une relation aussi étroite entre ces altérations et le pronostic locorégional qu' elle semble établie avec la survie globale .
+3.4. Dose et prescription
+Dans l' essai NSABP B-06 ( National surgical adjuvant breast and bowel project ) le taux d' incidence cumulée d' échec local après tumorectomie et radiothérapie postopératoire était de 14,3 % à 20 ans après 50 Gy en fractionnement classique sans boost  .
+La chirurgie était macroscopiquement et microscopiquement complète .
+C' est le seul des six essais randomisés comparant chirurgie conservatrice et radiothérapie à mastectomie qui ne recommandait pas de complément d' irradiation du lit tumoral .
+Force est de reconnaître qu' il existe de nombreux facteurs faisant varier la dose délivrée à la maladie microscopique résiduelle .
+Le premier réside en une définition exacte du lit tumoral .
+De nombreuses séries ont montré que ce volume pouvait être partiellement , voire complètement manqué , à_la_fois par le boost et par les faisceaux tangentiels , quand le lit tumoral n' est pas repéré par des clips [ 16 , 17 and 19 ] .
+Ces études sont particulièrement éloquentes quand il s' agit de vérifier la couverture du volume-cible par un champ direct d' électrons .
+Pour Machay et al. , l' erreur géométrique varie entre 10 et 88 %  .
+Pour Benda et al. , seulement 51 % du volume reçoit 90 % de la dose prescrite au volume cible prévisionnel ( PTV )  .
+Le second facteur doit tenir compte de la précision de la prescription .
+Il ne s' agit pas seulement de considérer le lit tumoral , mais de définir un volume cible anatomoclinique incluant la totalité du tissu où potentiellement la maladie microscopique réside .
+Il convient enfin de considérer autour_de ce volume une marge supplémentaire tenant compte de l' incertitude du positionnement et des mouvements respiratoires .
+Elle ne peut être inférieure à 1 cm .
+Ce volume cible prévisionnel est un volume en trois dimensions et de nombreux auteurs recommandent d' avoir recours aux clips chirurgicaux et à la scanographie pour planifier correctement ce traitement  .
+Le troisième facteur concerne la prescription .
+La technique doit permettre de couvrir le volume cible prévisionnel dans l' isodose 90 % .
+La couverture du volume précédemment défini nécessite d' adapter la technique à la profondeur de la lésion .
+Si l' utilisation des électrons reste adaptée au traitement des tumeurs superficielles , l' irradiation des lésions profondes requiert des énergies élevées et génère un gradient dans les premiers centimètres .
+3.5. Technique
+Le boost peut être délivré soit par radiothérapie externe ( les photons et les électrons peuvent être utilisés ) soit par curiethérapie ( de bas débit et maintenant de bas débit pulsé ou de haut débit de dose ) .
+Le choix de la technique reste controversé .
+En situation adjuvante , aucune étude randomisée ne permet de répondre clairement à la question .
+La seule étude randomisée disponible porte sur une série de malades traitées par irradiation exclusive .
+Elle montre un avantage à huit ans en faveur du bras curiethérapie en termes de taux de contrôle local ( 24 % de récidives locales contre 39 % après radiothérapie externe , p = 0,02 )  .
+Il faut enfin noter que dans les séries rétrospectives la répartition des âges , critère essentiel , n' est pas homogène et les malades bénéficiant d' une curiethérapie sont significativement plus jeunes que celles traitées par électrons [ 24 and 33 ] .
+Les doses délivrées varient entre 10 Gy et 25 Gy avec un débit horaire entre 0,40 et 0,60 Gy / heure .
+Le débat a été récemment relancé sur le sujet avec la diffusion des projecteurs de curiethérapie de haut débit de dose ( HDR ) et de bas débit pulsé ( PDR ) et la mise à disposition de dispositifs dédiés encore expérimentaux comme le Mammosite  .
+La curiethérapie de haut débit de dose est volontiers délivrée en mode bifractionné , parfois en ambulatoire , pour deux fractions de 5 Gy  .
+Une étude randomisée a comparé des boosts par curiethérapie de haut débit de dose ( 12 - 14,5 Gy ) et électrons ( 16 Gy )  .
+Elle ne montrait pas de différence dans un essai en plan factoriel testant l' efficacité du complément d' irradiation et la technique .
+Les résultats cosmétiques étaient équivalents mais le taux d' incidence des complications de grade 2 - 3 était supérieur dans le bras curiethérapie de haut débit de dose ( 17 % contre 8 % , p = 0,03 ) .
+3.6. Cosmétique et fibrose
+L' impact du complément d' irradiation du lit tumoral sur le résultat esthétique n' est pas négligeable .
+Il est souligné par de nombreux auteurs et les complications sont décrites comme des rétractions mammaires , une fibrose et des modifications cutanées dominées par les télangectasies .
+Ces évaluations sont difficiles à quantifier , sujettes à de nombreux biais d' interprétations inter- et intra-observateurs .
+Une méthode quantitative a été proposée au sein de l' EORTC , basée sur la mesure du déplacement de l' aréole  .
+Or , des séquelles comme une induration cicatricielle ou des altérations de la pigmentation cutanée ne sont pas évaluables par cette méthode .
+Un résultat cosmétique excellent ou bon a été obtenu chez 86 % des patientes traitées dans le bras à 50 Gy contre 71 % chez les patientes ayant reçu un complément d' irradiation du lit tumoral  .
+Enfin , l' opinion propre de la malade est capitale et doit être recueillie en parallèle .
+On notera que dans l' essai lyonnais , une dose de 50 Gy a été délivrée par fractions de 2,5 Gy .
+Ce fractionnement , associé à l' utilisation des électrons , peut contribuer à expliquer la différence rapportée en termes de télangectasies de grades 1 et 2 ( 6 contre 12 % ) en défaveur du bras recevant le complément d' irradiation .
+Néanmoins , la qualité du résultat esthétique évaluée par les malades était identique entre les deux bras ( 90 % bons ou excellents ) .
+3.7. Perspectives
+Elles se précisent désormais dans le contexte d' une meilleure définition des facteurs de risque de récidive locale .
+Un seuil est reconnu , celui des 50 ans .
+L' indication d' un complément d' irradiation du lit tumoral est discutable au-delà_de cet âge .
+Avant , il est raisonnable de considérer que l' on est au devant d' un risque plus important pour lequel nos efforts doivent se concentrer .
+Le Dutch Breast Cancer Research Group ( DBCRG ) doit proposer un essai randomisé comparant des compléments d' irradiation du lit tumoral de 16 Gy contre 26 Gy , qui peuvent être délivrés par radiothérapie externe ou par curiethérapie de bas débit ou de bas débit pulsé .
+L' objectif principal concerne le taux de contrôle local à dix ans .
+L' objectif secondaire est esthétique , reprenant les critères de l' essai 22881 , complétée par l' échelle de Aaronson et par une évaluation de la fibrose .
+Cette étude sera associée à une recherche de transfert portant sur le tissu tumoral utilisant les techniques du Tissu Micro Array afin_d' identifier les marqueurs géniques associés au pronostic locorégional .
+Cette étude doit être ouverte aux inclusions au_cours_de l' année 2004 .
+3.8. Conclusions
+Le complément d' irradiation du lit tumoral après irradiation de l' ensemble de la glande , en situation adjuvante , est désormais considéré comme un temps capital du traitement locorégional du cancer du sein de la femme jeune .
+Cette indication , chez la femme âgée de plus de 50 ans , devient beaucoup plus discutable et doit être confortée par un faisceau d' arguments de gravité locorégionale .
+Les modalités du complément d' irradiation se sont considérablement diversifiées au cours des dernières années .
+Si la radiothérapie externe conserve la faveur de la_plupart des praticiens , l' introduction des techniques modernes de curiethérapie devra être précisément réévaluée tant en termes d' efficacité que de résultats esthétiques .
+En effet , les conséquences de l' escalade de dose dans le lit tumoral proposée dans les futures études , devront être mesurées avec une rigoureuse évaluation du résultat cosmétique .
+Une nouvelle fois , l' accent doit être mis sur la complémentarité exemplaire qui doit régner entre le chirurgien , l' anatomopathologiste et le radiothérapeute afin_de définir avec rigueur et précision les meilleures options de prise en charge

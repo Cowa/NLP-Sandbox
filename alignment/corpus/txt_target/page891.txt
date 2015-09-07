@@ -1,0 +1,173 @@
+The present study initiated by the Norwegian Breast Cancer Group addresses aspects of endocrine therapy of breast cancer patients , after reports in the mid 1970s focused on systemic adjuvant treatment of patients with operable breast cancer.  These studies aimed at controlling or eliminating subclinical residual disease .
+In order to draw appropriate conclusions based on available clinical observations , data were collected from trial groups all over the world.4 An overall survival benefit was demonstrated for patients receiving either Tamoxifen ( Tam ) or polychemotherapy .
+Several studies on adjuvant endocrine therapy started in the late 1970s,  and adjuvant Tam treatment was shown to have a significant effect in postmenopausal patients ( 50 years of age ) , reducing the risk of death by approximately 20%. 
+A wide range of treatment policies were employed on early breast cancer patients at that time,10 mostly due to lack of evidence of any survival advantage between the various treatment policies .
+Better understanding the mechanism of action of endocrine treatment was achieved by the demonstration of the estrogen receptor ( ER ) in the tumour cells,11 and the possible importance of fluctuations in steroid receptor levels ( ER and progesterone receptor , PgR ) induced by treatment as Tam  and progestins.15 Using this information of possible steroid receptor modulation in treating advanced breast cancer patients by using cyclic Tam and high dose medroxyprogesterone acetate ( MPA ) a higher response rate in the cyclic arm ( 62% versus 41% , p = 0.02 ) versus the Tam alone treatment arm was found .
+No significant difference in duration of remission or survival could be proven.16 .
+To test the possible clinical effect of steroid receptor fluctuation and the theoretical assumption that combination of drugs with different mechanisms of action should be better than single drug therapy , the present multicenter randomized study in postmenopausal node positive breast cancer patients was designed to address the effects of cyclic use of Tam and megesterol acetate ( MA ) on recurrence-free survival ( RFS ) and overall survival ( OS ) to document a possible longer endocrine responsiveness .
+The hypothesis was that cyclic treatment would further reduce receptor activity resulting in better outcome .
+Due to the long half-life of Tam , a cycle of 8 weeks was used to reduce overlapping therapeutic action of the sequential therapy .
+MA was used instead of MPA due to documented effect and minor side effects in advanced situations. 
+Material and methods Patients .
+Between March 1989 and December 1994 , 489 postmenopausal ( defined as age at diagnosis 50 years up to 75 years ) women with operable breast cancer stage II ( pT1 and 2 , pN+ ) were included and randomized in this prospective adjuvant study .
+The study was recommended by the Regional Committee of Ethics and the Norwegian Medicines Agency .
+All patients were informed in writing , and gave their informed consent .
+Twenty-five of these patients were excluded from the study due to protocol violations .
+The exclusion criteria were concomitant or previous malignancy , or other illness seriously affecting life expectancy .
+Thirteen patients had T3 tumours , and six had another cancer at the time of randomization .
+Table 1. .
+Patients excluded due to protocol violation at the time of randomization .
+VariableTam / MATamTotal Randomized Exclusion245244489 Other cancer at randomization24 T3 tumour58 Node negative02 Metastatic disease10 Receptor negative11 Age10 .
+Total101525 Evaluable patients235229464 .
+Full-size table .
+View Within Article .
+Median age ( range ) of the study population was 62.5 ( 50 - 75 ) years , and the main clinical characteristics were well balanced in the two groups .
+Table 2. .
+Patient and tumour characteristics .
+VariableTam / MATamTotal No. of patients235229464 Age ( years ) , median ( range ) 62.4 ( 50 - 75 ) 62.5 ( 50 - 75 ) No. of patients 65 years136130 .
+pT stage T1 , n10289191 T2 , n125134259 T category missing8614 pT size , cm median ( range ) 2.2 ( 0.4 - 5.0 ) 2.5 ( 0.5 - 5.0 )
+pN stage 6 removed185185370 Median no. examined ( range ) 8 ( 2 - 34 ) 9 ( 2 - 32 ) 1 - 3 pN+167167 4 PN+6862 pN stage missing All patients were pN+00 .
+Full-size table .
+View Within Article .
+All patients had a normal chest X-ray and normal liver blood tests before inclusion in the study .
+Surgical treatment and adjuvant chemo- and radiotherapy .
+The surgical procedures were performed at 40 different hospitals .
+Fifteen of the participating hospitals treated at least 10 patients , and half of the study population was treated at six hospitals .
+Breast conservation surgery ( BCS ) was performed in 66 ( 14% ) patients , the rest ( n = 398 ) being mastectomy ( 86% ) .
+Axillary dissection ( levels I + II ) was performed in all but four patients , in whom a biopsy was performed .
+During the inclusion period , all patients 70 years of age were offered a standard adjuvant intravenous chemotherapy .
+Half of the patients ( n = 230 ) included in our study received peri- / postoperative i.v. chemotherapy : Vincristin ( 1 mg days 0 and 7 ) , Cyclophosphamide ( 400 mg day 0 ) , 5-Fluoruracile ( 500 mg days 0 and 7 ) and Methotrexate ( 50 mg day 7 ) .
+Twenty-five patients in each arm received postoperative standard CMF 9 , every third week ( C : Cyclophosphamide 600 mg / m2 , M : Methotrexate 50 mg / m2 and F : 5-Fluoruracile 750 mg / m2 ) as adjuvant treatment .
+Table 3. .
+Treatment .
+VariablesTam / MATam Surgery total235229 Breast conservation3630 Mastectomy199199 Postoperative radiotherapy7773 Chemotherapy Perioperativea115115b Postoperative CMF 92525 .
+Duration of study medication months , median ( range ) 24 ( 0 - 52 ) 24 ( 1 - 87 )
+Full-size table .
+a Chemotherapy given days 0 and 7 postoperatively .
+b Information missing in one patient .
+View Within Article .
+Radiotherapy was given to all BCS patients ( n = 66 , 14% ) and to patients with 4 metastatic axillary lymph nodes , in a total of 150 patients .
+Randomization and adjuvant endocrine treatment .
+Randomization was done by phone to the study center and performed as a block randomization ( block size 4 ) .
+Each of the five Health Regions in Norway represented a stratum .
+Patients were allocated to receive either Tam ( Nolvadex 20 mg daily ) or cyclic Tam / MA ( Nolvadex 20 mg daily for 8 weeks alternating with Megace 160 mg daily for 8 weeks ) .
+In both arms adjuvant treatment was continued for 2 years , or until first confirmation of recurrent disease , as standard length of treatment at that time , as opposed to present day 5 year treatment .
+Primary tumour , axillary nodal status and steroid hormone receptors .
+Classification of the tumours was done according to UICC : TNM classification of malignant tumours , 3rd edition , revised 1982 .
+The distributions of pT classification , size and axillary nodal status ( pN ) between the two treatment groups are shown in Table 2. Tumour grade was given in 137 cases , and missing in 327 cases .
+Hormone receptors ( HR ) were measured by the dextran coated charcoal method as reported previously.20 ER or PgR levels 10 fmol / mg protein were criteria for HR positivity , and levels 10 fmol / mg were regarded as HR negative .
+This study also included tumours with unknown receptor status , but patients with tumour known to be HR negative at the time of randomization were not included .
+HR status was equally distributed between the two arms , but the median levels of ER and PgR were higher in the Tam / MA group .
+Table 4. .
+Hormone receptors .
+VariableTam / MA ( n = 235 ) Tam ( n = 229 ) Total ( % ) ( n = 464 ) Receptor positive18518379 ER positive17417275 Median fmol / l ( range ) 108 ( 10 - 1871 ) 83 ( 10 - 1772 ) PgR positive13913659 Median fmol / l ( range ) 91 ( 10 - 2085 ) 76 ( 10 - 1320 ) ER and PgR unknown504621 ER unknown514721 PgR unknown545223 .
+Full-size table .
+View Within Article .
+Follow-up .
+Patients were followed-up by clinical examination every third month for 2 years , then every sixth month up to 3 years and thereafter on an annual basis until death or 96 months for nonrecurrent tumours and 66 months for tumours that recurred .
+A clinical follow-up form was completed on every visit .
+Initial sites of loco-regional recurrence or distant metastases were recorded when confirmed .
+Confirmation was made as follows:Chest wall or regional nodes : by cytology or histology whenever possible ;
+Bone : conventional radiology , or bone scan ;
+Lungs : chest X-ray , or computer tomography ( CT ) when appropriate ;
+Liver : ultrasound and / or CT , confirmed by cytology ( FNAC ) when necessary .
+A novel breast cancer was defined as a new malignant tumour in the contralateral breast , or a new malignant tumour located in a different quadrant of the ipsilateral breast in patients previously treated with breast conservation .
+A final follow-up was completed as of June 2002 .
+Statistics .
+The primary end point was RFS .
+To detect a 12% difference with a power of 0.80 and significance level of 0.05 , and given an estimated 5 year RFS of 50% in the Tam arm , it was estimated that 210 patients in each arm were needed .
+RFS was calculated from randomization to recurrence .
+Patients with no recurrence were censored at the time of death or at the end of observation alive .
+Secondary end points were OS and time to diagnosis of a novel malignant breast tumour .
+OS was calculated from randomization to death of any cause .
+In the analysis of time to a novel breast tumour , patients were treated as censored at the end of observation period ( dead or alive ) in the cases where this event did not occur .
+Survival / time to event ( as specified above ) was estimated by the Kaplan - Meier method , and the two treatment groups were compared by the log rank test .
+Due to similar results in the two treatment arms , a Cox proportional regression test was not performed .
+An interim analysis was performed 1 year after the end of inclusion , paying attention to the Pocock termination rules.21 No difference was found .
+Results Duration of medication .
+All analyses were done on an intention to treat basis .
+The compliance to take study medication was fairly good ( median 24 months in both arms ) , but the ranges were wide ( Tam / MA 52 months , Tam 86 months , Table 3 ) .
+In the Tam / MA arm 42 patients were treated less than 20 months and 44 more than 28 months .
+In the Tam arm 46 patients were treated less than 20 months , and 31 patients more than 28 months .
+Follow-up .
+The median ( range ) follow-up time for all eligible patients ( n = 464 ) was 7.4 ( 0.1 - 12.3 ) years , and for patients still alive the median ( range ) follow-up time was 8.6 ( 1.9 - 12.3 ) years .
+Survival and mortality .
+There was no difference in RFS ( Fig. 1 , p = 0.98 ) .
+Median RFS was 9.3 years for the Tam / MA arm , and was not reached in the Tam arm .
+From the figure it is seen that the Tam curve levels out just below 50% survival .
+Mean RFS was 7.3 and 7.3 years for Tam / MA and Tam groups , respectively .
+Five-year RFS rate was 55.7% and 55.5% for Tam / MA and Tam arms , respectively .
+Full-size image ( 21K )
+Figure 1. Time from start of treatment to first recurrence for the Tam group ( blue dashed line ) compared to the Tam / MA group ( green dashed line ) .
+Number of patients still at risk at 5 , 8 , and 10 years were 159 , 101 , and 33 ( Tam group ) and 161 , 97 and 36 ( Tam / MA group ) .
+View Within Article .
+OS was similar in the two treatment groups ( Fig. 2 , p = 0.8 ) , with median survival of 9.9 and 10.1 years in the Tam / MA and Tam group , respectively .
+Full-size image ( 20K )
+Figure 2. Overall survival for Tam group ( blue dashed line ) and Tam / MA group ( green dashed line ) .
+Number of patients still at risk at 5 , 8 , and 10 years were 159 , 101 and 33 ( Tam group ) and 163 , 98 and 37 ( Tam / MA group ) .
+View Within Article .
+Median time of cancer specific survival was 10.6 and 10.4 years ( p = 0.8 ) .
+A total of 24 patients , 12 in each group , had a new ( contralateral or other quadrant of ipsilateral breast ) breast cancer .
+A new ipsilateral breast cancer was diagnosed in 4 patients , 3 in Tam / MA group and 1 in the Tam group .
+Median time to new breast cancer was 3.4 and 3.0 years in Tam / MA and Tam groups , respectively .
+Five-year OS rate was 73.7% and 74.3% for Tam / MA and Tam groups , respectively .
+Table 5. .
+Status by allocated treatment .
+VariableTam / MA ( n = 235 ) Tam ( n = 229 ) Total ( n = 464 ) A. Main location of first recurrence Loco-regional recurrence Local301848 Ipsilateral axilla437 .
+Total342155 Supraclavicular fossae41115 Systemic recurrence Bone374380 Lung141832 Liver9716 Others9413 .
+Total6972141 Missing location134 .
+Total no. of recurrence108107215 .
+B. Contralateral breast New cancer121224 .
+C. Cause of death Breast cancer8580165 Other151530 Unknown8715 .
+Total108102210 .
+Full-size table .
+View Within Article .
+Breast cancer was the cause of death in 165 patients ( 35.6% of the study population , 78.6% of the deceased patients ) , and the total number of deaths was 210 ( 45.3% ) .
+The main locations of relapses were similar in the two treatment groups .
+Side effects .
+Side effects were assessed at every visit .
+As expected tromboembolic events and vaginal bleeding was slightly more common in the Tam / MA group .
+Side effects leading to cessation of medication were low , as only 31 patients ( 6.7% ) stopped the therapy during the whole treatment period .
+Table 6. .
+Side effects leading to cessation of medication .
+Tam / MATamTotal ( % ) Patient 's decision652.4 Tromboembolic310.9 Fluid retention100.5 Vaginal bleeding200.5 Other762.8 .
+Total19126.7 .
+Full-size table .
+View Within Article .
+Discussion Treatment background .
+In the mid 1970s the first reports appeared focusing on systemic adjuvant treatment of patients with operable breast cancer.  Systemic treatment strategy of breast cancer patients depends on the tumour extent , histological grade and steroid receptor levels ( ER and / or PgR ) , age of the patients i.e. pre- or postmenopausal , and axillary nodal status .
+Adjuvant treatment of postmenopausal breast cancer patients using Tam has been shown to improve OS and RFS compared to control groups,  but the optimal treatment of these cancer patients is still not established.  To further increase the treatment effect , different strategies have been used , i.e. prolonged treatment period from 1 year to 2 years , further up to 5 years and lately longer than 5 years.  We used 2 years of adjuvant treatment to all patients as this was standard at the time when this trial started , as opposed to 5 years at present.27 .
+ER levels in tumours predict response to endocrine treatment in patients with advanced breast cancer as well as in adjuvant early stage settings,  but the length of treatment response is difficult to predict as one of the major problems in medical cancer treatment is resistance .
+Sequential combination of drugs with different mechanism of action attempting to delay development of hormonal resistance has been tried to increase both RFS and OS .
+Combination treatment and hormone receptors .
+A combination frequently examined in the past has been Tam and the progestin MPA.  Adjuvant treatment with Tam has been shown to increase the level of PgR after a short time of therapy,  but no significant changes in the mean content were found for PgR  or androgen reseptor33 after 8 weeks of Tam treatment .
+A possible explanation of better response using cyclic treatment compared to single drug therapy is increased binding of MA to the assumed increased PgR amount.35 .
+Progestin , then will decrease the ER level as shown in breast cancer tissue,  thereby inducing a relative insensitivity to the tissue for endogenous estrogens .
+In advanced breast cancer patients cyclic Tam and MPA has shown a higher response rate in the cyclic arm ( 62% versus 41% , p = 0.02 ) versus the Tam alone treatment arm , but no difference in duration of remission or survival.16 In another study a longer median survival was found in the group given cyclic treatment ( 134 versus 90 weeks ) , but no significant difference in overall response ( CR + PR ) .37 This positive effect of cyclic treatment of Tam and MPA in advanced situation  was not found in the present study .
+In this adjuvant setting it was not possible to verify the possible fluctuation of tumour steroid receptors .
+We did not measure the serum content of Tam or MA .
+MA treatment could possibly reduce TAM serum level in the Tam / MA arm as this has been reported for MPA treatment,38 and possibly influence the response in the cyclic arm .
+We included patients with ER and / or PgR positive and HR status unknown tumours ( but not proven HR negative tumours ) in the study , as was the custom at that time .
+The end points were RFS and OS , hoping for an increase of end point parameters in the investigational arm of the study , due to possible different mechanism of action of the two drugs postponing the development of resistance .
+No crossover to MA in the Tam arm was planned in the study protocol .
+Treatment groups .
+Treatment groups were well balanced by randomization with regard to patient characteristics , pT classification and primary treatment as type of surgery and perioperative adjuvant chemotherapy .
+There was a small difference between the two groups in receptor level .
+For a number of patients receptor status was unknown .
+In a trial of this size , the randomization procedure is supposed to handle this kind of bias.21 All analyses were also performed on cases with known HR receptor positive tumours only , without any different outcomes ( data not shown ) .
+Relapse and mortality .
+No difference between treatment arms regarding RFS or OS was observed in our study .
+The observed median RFS of 9.3 years in our study population of pN+ patients compares well with other reports.39 The number and locations of first events and relapses are also as expected .
+There was no statistical significant difference between the two treatment groups regarding new ipsi- or contralateral cancers .
+A 5 year survival rate of 74% for our study population comprising high-risk node positive breast cancer patients is as expected. 
+A great proportion ( 41% ) of the eligible postmenopausal breast cancer patients in Norway during the recruitment period ( 1987 - 1994 ) were included in our study ( Cancer Registry of Norway , data not shown ) , as 40 of the 63 hospitals treating breast cancer patients entered patients to the trial.40 .
+Conclusion .
+This prospective randomized population based study of postmenopausal node positive women with ER and / or PgR positive or unknown operable breast cancer , with a rather long follow-up time of median 7.4 years did not reveal any statistically significant difference between 2 years of adjuvant cyclic Tam / MA treatment versus Tam monotherapy with regard to RFS and OS .
+To demonstrate an equivalence of the two treatment arms , however , a larger number of patients would have been needed in the trial .
+Conflicts of interest .
+The authors have no financial or personal relationships with other people or organisations that could inappropriately influence this work .
+Acknowledgements .
+This work was financially supported by The Norwegian Cancer Society .
+We want to thank Einar Hannisdal and Eva Skovlund at the Cancer Clinic Rikshospitalet-Radiumhospitalet Medical Center , Oslo , for important help in randomization , data handling and statistical analysis ; and Gry Skare at the Cancer Registry , Oslo , for estimating the amount of patients available to randomization in this trial , and all the physicians enrolling patients into this study .
+The following hospitals ( names in Norwegian as used in the study periode ) included patients ( n ) to the study :
+Det norske Radiumhospital HF ( 46 ) , Diakonissehjemmets sh ( 8 ) , Flekkefjord sh ( 2 ) , Fsh i Molde ( 21 ) , Fsh p Stord ( 1 ) , Fsh p Voss ( 6 ) , Fsh i Kristiansund ( 8 ) , Fsh i Volda ( 8 ) , Gjvik Fsh ( 24 ) , Hammerfest sh ( 2 ) , Harstad sh ( 11 ) , Haugesund Fsh ( 12 ) , Haukeland sh ( 46 ) , Indre stfold sh ( 1 ) , Innherred sh ( 4 ) , Kirkenes sh ( 1 ) , Kongsberg sh ( 3 ) , Larvik sh ( 3 ) , Lillehammer Fsh ( 3 ) , Moss sh ( 9 ) , Namdal sh ( 10 ) , Nordland ssh ( 8 ) , Orkdal Ssh ( 1 ) , RiT ( 25 ) , RiT ( 53 ) , Ringerike sh ( 5 ) , Sandnessjen Sh ( 8 ) , Ssh I Akershus ( 16 ) , Ssh i Mre og Romsdal ( 22 ) , Ssh i Rogaland ( 42 ) , Ssh i Sogn og Fjordane ( 3 ) , Telemark ssh ( 3 ) , Tynset sh ( 3 ) , Ullevl sh ( 41 ) , Vest-Agder Ssh ( 18 ) , and Vestfold Ssh ( 12 )

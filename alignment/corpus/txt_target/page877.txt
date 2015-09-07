@@ -1,0 +1,308 @@
+Breast cancer is the most common invasive cancer , and the second leading cause of cancer-related deaths among women in North America  .
+The etiology of breast cancer is complex , but several risk factors have been identified .
+Numerous epidemiological and laboratory studies have revealed the effects of dietary patterns , food groups as well as single nutrients and other nutritional determinants on sporadic breast cancer risk  .
+Most breast cancers are considered sporadic , with only 5 - 10% estimated to be due to inherited susceptibility  .
+Individuals who have sporadic breast cancer may not inherit cancer-causing mutations from their parents  .
+Instead , certain cells undergo mutations that lead to cancer .
+These mutations can be caused by sun  , exposure to radiation  , certain chemicals  , or other as yet unknown factors .
+In the case of hereditary cancer , tumor cells usually contain some mutations that are not found elsewhere in the body , but also harbor a critical mutation that every cell shares  .
+People born with a cancer-related mutation are more likely to develop cancer , especially at a young age , than those without an inherited mutation .
+Autosomal dominant alterations in two genes , BRCA1 on chromosome 17 and BRCA2 on chromosome 13 , are likely to account for familial cases of early-onset breast cancer  .
+Other suspected genetic factors are germ-line mutations in TP53 mutations in the cell cycle-checkpoint kinase gene ( CHEK2 ) as well as PTEN  .
+In general , the role of nutritional factors in the etiology of breast cancer remains controversial .
+A number of dietary factors , including the consumption of fruits and vegetables  , dairy products  , meat , poultry and fish  , dietary patterns featuring high intakes of fat  , or combination of essential fatty acids and antioxidant vitamins  , have been intensively assessed in relation to breast cancer risk .
+The objective of this paper is to provide an overview on the effect of consumption of certain food groups on breast cancer risk among gene mutation carriers ( women who inherited an altered form of a gene ) as well as those with sporadic breast cancer .
+Table 1 provides and overview to some studies that are representative of the reviewed literature in this paper .
+Table 1. .
+Selected studies representative of the literature reviewed .
+Nutritional factorsAuthorType of studyNumber of subjectsOutcome of breast cancer risk Fruits and vegetablesGandini_et_al.  Meta-analysis ( 5 cohorts + 21 case-controls ) 23,038RR = 0.75 ; 95% CI ( 0.66 - 0.85 ) Smith-Warner_et_al.  Meta-analysis ( eight cohorts ) 351,825RR = 0.93 ; 95% CI ( 0.86 - 0.1.00 ) van Gils_et_al.  Cohort ( EPIC ) 285,526RR = 0.98 ; 95% CI ( 0.84 - 1.14 )
+Dairy productsMissmer_et_al.  Eight large prospective studies351,041RR = 0.99 ; 95% CI ( 0.97 - 1.0 ) Boyd_et_al.  Meta-analysis ( papers published : 1966 - 2003 ) 25,015 cases over 580,000 controlsRR = 1.12 ; 95% CI ( 0.88 - 1.43 ) Parodi  No statistical analysis was shown in this study .
+MeatMissmer_et_al.  Eight large prospective studies351,041RR = 1.08 ; 95% CI ( 0.98 - 1.19 ) Cho_et_al.  Nurses Health Study II90,659RR = 1.97 ; 95%CI ( 1.35 - 2.88 ) Taylor_et_al.  Cohort35,372HR = 1.64 ; 95%CI ( 1.14 - 2.37 )
+PoultryToniolo_et_al.  Prospective cohort14,291OR = 0.70 ; 95% CI ( 0.40 - 1.10 ) Delfino_et_al.  Case-control study114 cases , 280 controlsOR = 0.46 ; 95% CI ( 0.24 - 0.90 )
+FishGago-Dominguez_et_al.  Prospective study35,298RR = 0.74 ; 95% CI ( 0.58 - 0.94 ) Stripp_et_al.  Prospective study23,693RR = 1.13 ; 95% CI ( 1.03 - 1.23 )
+Total energySilvera_et_al.  Cohort study ( National Breast Screening Study : NBSS ) 49,613HR = 1.08 ; 95% CI ( 1.13 - 1.85 ) Nkondjock_et_al.  Case-control study89 cases , 48 controlsRR = 2.76 ; 95% CI ( 1.10 - 7.02 )
+Total fatGhadirian_et_al.  Case-control study414 cases , 429 controlsOR = 0.91 ; 95% CI ( 0.61 - 1.37 ) Boyd_et_al.  Meta-analysis ( papers published from 1966 to 2003 ) 25,015 cases over 580,000 controlsRR = 1.13 ; 95% CI ( 1.03 - 1.25 )
+Saturated fatsHowe_et_al.  Meta-analysis12 case-control studiesOR = 1.57 ; p 0.0001 Wakai_et_al.  Prospective study26,291RR = 0.68 ; 95% CI ( 0.40 - 1.15 )
+MUFAsTrichopoulos_et_al.  Case-control study820 cases,1,548 controlsOR = 0.75 ; 95% CI ( 0.57 - 0.98 ) Boyd_et_al.  Meta-analysis17 case-control studies and 8 cohort studiesRR = 1.11 ; 95% CI ( 0.96 - 1.28 )
+PUFAsNkondjock_et_al.  Case-control study414 cases , 429 controlsOR = 0.90 ; 95% CI ( 0.61 - 1.34 ) Cho_et_al.  Prospective study ( Nurses Health Study II ) 90,655RR = 0.96 ; 95% CI ( 0.73 - 1.27 )
+Vitamins and mineralsCho_et_al.  Prospective study ( Nurses Health Study II ) 90,655Vitamin A : RR = 0.97 ; 95% CI ( 0.76 - 1.23 ) Vitamin C : RR = 0.96 ; 95% CI ( 0.75 - 1.21 ) Vitamin E : RR = 1.13 ; 95% CI ( 0.89 - 1.43 ) Berube_et_al.  Clinical study777 premenopausal and 783 postmenopausalPremenopausal women : Vitamin D and Calcium : 8.5% breast density ; p = 0.004 .
+PhytoestrogensKeinan-Boker_et_al.  Prospective study ( EPIC ) 15,555RR = 1.00 ; 95% CI ( 0.7 - 1.50 ) Piller_et_al.  Case-control study220 cases , 237 controlsOR = 0.38 ; 95% CI ( 0.17 - 0.85 ) Verheus_et_al.  Nested case-control study383 cases , 383 controlsOR = 0.68 ; 95% CI ( 0.47 - 0.98 )
+Full-size table .
+View Within Article .
+2. Methods .
+To identify studies on the relationship between nutrition and breast cancer among sporadic cases and gene mutation carriers , a literature search was conducted in the following electronic databases : Current Contents ( Institute for Scientific Information , Philadelphia , PA ) , and Medline ( National Library for Medicine , Bethesda , MD ) for the years 1999 - 2007 .
+The publications considered were those reporting on the consumption of fruits and vegetables , dairy products , meat , poultry , fish , total energy , total fats , fatty acids , vitamins , minerals and phytoestrogen in relation to breast cancer risk .
+Also , studies were chosen according to sample size , standard methodology and published from known institutions .
+Other papers cited in relevant articles were also examined .
+3. Dietary factors and breast cancer risk3.1 .
+Fruits and vegetables .
+Many fruits and vegetables contain protective substances , such as fiber , antioxidants , vitamins , minerals , and other potentially anticarcinogenic compounds , including dithiolthiones , isothiocyanates , indole-3-carbinol , flavonols , and ligans , among others  Associations between fruit and vegetable intake and breast cancer risk have been the subject of many case-control and a limited number of cohort studies .
+An extensive summary by the World Cancer Research Fund  concluded that vegetable intake and breast cancer risk had protective associations .
+In a meta-analysis of 23,038 women , a 25% lower breast cancer risk ( relative risk ( RR ) = 0.75 ; 95% CI ( 95% confidence interval ) 0.66 - 0.85 ) was found for high versus low consumption of vegetables , with a non-significant decreased risk  .
+In contrast , a recent prospective study of 285,526 women over 5 years showed no evidence of a protective effect of fruits and vegetables on breast cancer risk  .
+Pooled analysis of eight cohort studies including 351,825 women revealed only weak , non-significant associations between fruits and vegetables and breast cancer risk .
+No associations were established for green leafy vegetables , eight botanical groups , and specific fruits and vegetables .
+These results suggest that fruit and vegetable consumption is not significantly associated with reduced breast cancer risk  .
+Moreover , pooling projects are subject to publication bias  , a weakness often arising from heavy reliance on published studies showing only significant data , while non-significant findings are less likely to be published when interpreting the outcomes of meta-analysis .
+In addition , although statistical analysis is performed on the original data in a standardized way , the dietary assessment methodology applied may be different  .
+For instance , in the meta-analysis of Gandini_et_al.  all studies used a food frequency questionnaire ( FFQ ) .
+The FFQ is characterized by several inaccuracies , which will be discussed later in this overview  , but cohort studies that implement 24 h diet recall either overestimate or underestimate dietary intake  .
+It could be argued that the absence of any association of vegetable and fruit intake with cancer risk could be due to insufficiently-accurate methods for measuring diet .
+However , one of the advantages of meta-analysis and cohort studies in general is the large sample size .
+Even so , the strength of relationships could be diluted by looking at food groups as a whole  .
+In addition , there is some evidence that the protective effects of fruits and vegetables are stronger in women with a family history of breast cancer  or women with estrogen receptor ( ER ) -positive tumors  .
+3.2. Dairy products .
+Cohort studies of dairy foods and breast cancer have yielded conflicting results  with inverse associations between milk and breast cancer found in several recent investigations  .
+As part of a meta-analysis on dietary fat and breast cancer risk , Boyd_et_al.  concentrated on two dairy categories , milk ( 16 studies ) and cheese ( 12 studies ) , and detected no significant associations with breast cancer .
+Missmer_et_al.  conducted a pooled analysis on 351,041 subjects from the Pooling Project of Prospective Studies of Diet and Cancer .
+No relationship was noted between dairy products and breast cancer risk .
+Recently , Moorman and Terry  summarized the results of 10 cohort and 36 case-control studies that had evaluated the association between dairy product consumption and breast cancer risk .
+They concluded that the available epidemiological evidence did not support a strong association between the consumption of milk or other dairy products and the risk of breast cancer .
+In the Nurses Health Study II  , conducted among 90,655 premenopausal women, , their high consumption of low-fat dairy products had a non-significant inverse association with breast cancer risk ( RR = 0.6 ; 95% CI : 0.77 - 1.22 ) .
+However , while total dairy intake was not associated with the risk of breast cancer , high-fat dairy intake was positively associated with risk ( RR = 1.36 ; 95% CI : 1.06 - 1.75 , for 2.2 servings per day ) , complicating interpretation of the results .
+Another recent examination of the data from more than 40 case-control studies and 12 cohort studies also does not support an association between dairy product consumption and breast cancer risk  .
+In other research that addressed theories of an association between dairy product consumption and breast cancer via fat , insulin growth factor-1 ( IGF-1 ) , growth hormone ( GH ) and estrogens , the weight of evidence did not support the proposed link .
+Although estrogens and the GH / IGF-1 axis play a critical role in mammary gland development and breast cancer , the mechanisms are complex , and cancer is probably influenced more by autocrine / paracrine secretions than by circulating hormone levels , since it is believed that the daily contribution of these factors from dairy product consumption is far too small to exert a physiological effect compared to daily endogenous secretions .
+Both calcium and vitamin D are important in the regulation of cell growth .
+In addition , vitamin D , through its active metabolite 1,25 dihydroxy vitamin D3 , is essential for calcium homeostasis and absorption into cells  .
+Animal studies suggest that hyperproliferation and hyperplasia in mammary epithelial cells can be reduced by dietary calcium and vitamin D  .
+There are a number of possible mechanisms for the antiproliferative action of calcium .
+For example , calcium may neutralize fatty acids and mutagenic bile acids , which can rapidly pass from the intestine to the breast where they can affect ERs and induce estrogen-regulated protein in a manner similar to estradiol  .
+It is also known that increased breast density is strongly linked with breast cancer risk  , and recent research has revealed that augmented intake of calcium and vitamin D is associated with decreased breast density  .
+The presence of rumenic , vaccenic , butyric and branched chain fatty acids ( BCFAs ) , cysteine-rich whey proteins , calcium , and vitamin D in milk may reduce breast cancer risk  .
+Rumenic acid ( RA ) is the predominant natural isomer of conjugated linoleic acid , and milk fat is its richest natural source .
+Vaccenic acid ( VA ) , the major trans-monounsaturated fatty acid ( trans-MUFA ) in milk fat , can be converted to RA in animals and humans  .
+In normal rat mammary epithelial cells , RA has been observed to inhibit cell growth and induce apoptosis  .
+At physiological concentrations , RA , VA , and milk fat all stop cell growth in breast cancer cells  .
+The anti-tumor action of RA may be mediated by the induction of apoptosis and the inhibition of angiogenesis associated with decreased serum and glandular levels of vascular endothelial growth factor and its receptor Flk-1  .
+BCFAs are synthesized by rumen bacteria , and iso- and anti-iso-BCFAs , particularly those with a chain length of 13 - 17 carbon atoms , are found in milk fat  .
+Initially , Yang_et_al.  reported that 13 methyltetradecanoic acid also induced cell death in human breast cancer cells by the rapid induction of apoptosis .
+Recently , Wongtangtintharn_et_al.  tested the anti-tumor activity of a series of iso-BCFAs in two human breast cancer cell lines .
+They found that BCFAs slightly inhibited fatty acid synthetase and acetyl-CoA carboxylase , while significantly supressing glucose-6-phosphate dehydrogenase , the main NADPH-generating system in breast cancer cells .
+Thus , their study suggested that BCFAs synthetically lower fatty acid biosynthesis by reducing precursors , in addition to their direct inhibitory effect on fatty acid synthetase .
+Butyric acid ( BA ) , present only in milk fat , is a potent anti-cancer agent that induces differentiation and apoptosis , and inhibits proliferation and angiogenesis .
+In the case of milk fat , butyrate is esterified as a triacylglycerol , and about one-third of all milk fat triglycerides contain butyrate .
+Thus , although butyrate has a short half-life in the circulation , it can be increased when present as smaller compounds .
+Also , synergy with other dietary anti-cancer agents , like vitamin A , vitamin D , and resveratrol , reduces the plasma concentration of butyrate required to modulate cell growth  .
+Two studies showed that dietary butyrate significantly inhibited chemically induced mammary tumor development in rats  .
+Evidence from animal and in vitro studies of human breast cancer cells indicates that milk proteins , especially those associated with the whey fraction , have anti-carcinogenic properties  .
+Whey protein is a rich source of cysteine , which is essential for the synthesis of glutathione , a potent cellular antioxidant that acts on its own or as a detoxifying agent via its related enzymes , facilitating the elimination of mutagens , carcinogens , and other xenobiotics from the body  .
+The leading current hypothesis that dairy products may reduce breast cancer risk is based on their vitamin D content .
+Few foods naturally contain significant amounts of vitamin D , and vitamin D in dairy products is mostly the result of fortification  .
+Although the fortification of dairy products , cereals , and other foodstuffs is common , the types of products fortified and the amount of vitamin D added vary between countries  .
+These differences indicate that studies from countries with different regulations and practices regarding vitamin D fortification are not strictly comparable .
+If vitamin D is the component of dairy products that influences breast cancer risk , comparisons should take into account not only the specific dairy product but also the level of vitamin D fortification .
+Overall , the published studies reviewed here do not provide consistent evidence of an association between dairy product consumption and breast cancer risk .
+3.3. Meat , poultry and fish3.3.1 .
+Meat .
+Several studies have examined the relationship between meat and breast cancer risk , with conflicting results .
+In a meta-analysis  on 351,041 women , no significant associations were found between intakes of total meat , red meat , white meat , and breast cancer risk .
+On the contrary , a case-control study among Taiwanese women ( 250 cases and 219 controls ) disclosed an increased risk of breast cancer with an intake of more than 196 g of beef and pork per week ; the odd ratio ( OR ) was 1.9 and 95% CI : 1.1 - 3.3  .
+Moreover , a recent study was performed by Taylor_et_al.  in a cohort of 35,372 women revealed larger effect sizes in postmenopausal women for all meat types , with significant associations for total , processed and red meat consumption .
+Processed meat showed the strongest hazard ratio ( HR ) = 1.64 ( 95% CI : 1.14 - 2.37 ) for high consumption compared with none .
+Both pre- and postmenopausal women who consumed the most meat ( 103 g / day ) had the highest risk of breast cancer ; HR = 1.11 ( 95% CI : 1.04 - 1.18 ) .
+All meats are not only composed of fat and protein , but also contain essential nutrients ( vitamin A , vitamin B12 ) and micronutrients for which they are the major source ; this is due either to high concentrations or greater bioavailability ( folate , selenium , zinc )  .
+Regional differences have been discerned not only in meat components but also in their preparation .
+In Western countries , meats are mainly fried , grilled , or barbecued , whereas boiled or steamed meat preparation dominates in Asian and African countries  .
+During frying , the concentration of polycyclic aromatic hydrocarbons increases markedly .
+Therefore , a 200 g steak contains 10 g of benzopyrene whereas only 0.006 g of this compound is found in 200 g of boiled meat  .
+In the retrospective Iowa Women 's Health Study , an innovative method for determining meat-preparation techniques ( involving a series of color photographs that represented a range of meat cooking levels from extremely rare to very well-done ) , the risk of developing breast cancer was observed to be significantly greater in women preferring their meat well-done compared to those favouring medium cooked or raw meat  .
+Recent data indicate that heterocyclic amines from well-done steaks increase the breast cancer risk only in the presence of a genetic polymorphism with high activity N-acetyltransferases  or homozygous deletion of glutathione S-transferase ( MI or T1 ) genes  .
+Recently , Cho_et_al.  assessed red meat intake and breast cancer risk among premenopausal women in the Nurses Health Study II .
+During 12 years of follow-up of 90,659 premenopausal women , they noted that greater red meat intake was strongly related to an elevated risk of breast cancers that were estrogen and progesterone receptor-positive ( ER+ / PR+ ) , but not to those that were ER and PR .
+The RR for ER+ / PR+ breast cancer was 1.14 ( 95% CI : 0.90 - 1.45 ) for women eating more than 3 - 5 servings per week compared to those eating three or fewer servings per week of red meat .
+The RR was 1.42 ( 95% CI : 1.06 - 1.90 ) for more than five servings per week , and 1.20 ( 95% CI : 0.89 - 1.63 ) for 1 - 1.5 or fewer servings per day .
+Finally , the RR was , 1.97 ( 95% CI : 1.35 - 2.88 ) for more than 1.5 servings per day ( test for trend , p = 0.001 ) .
+There were no associations for ER / PR breast cancer .
+Several biological mechanisms may explain the positive association between red meat intake and hormone receptor-positive breast cancer risk .
+First , heterocyclic amines are estrogenic and can stimulate ER-dependent gene expression as well as PR expression in vitro  .
+Animal studies have shown that heterocyclic amines elevate serum prolactin levels  .
+Second , exogenous hormone treatment of cattle for growth promotion , which is banned in European countries but not in the United States , is a concern  .
+Although the long-term health effects of hormone residues in beef have not been investigated  , theoretically , they may preferentially affect hormone receptor-positive tumors .
+Third , red meat is a source of heme iron , a highly bioavailable form of iron and a major source of stored body iron  , which has been found to enhance estrogen-induced tumors  .
+Finally , it has been postulated that fat intake may highten breast cancer risk by augmenting circulating estrogen levels  .
+3.3.2. Poultry .
+Two published cohort studies have concluded that there is no association between poultry consumption and breast cancer risk  .
+On the other hand , a case-control study ( 114 cases and 280 controls ) noted a decreased breast cancer risk ( OR = 0.46 ; 95% CI : 0.24 - 0.90 ) ( 53 versus 21 g / day )  .
+The protective effect of white meat consumption may be that the amino acid content of white meat supports better immune function , thereby enhancing tumor surveillance at higher levels of intake .
+However , further studies are needed to confirm the protective effect of white meat .
+3.3.3. Fish .
+In vitro and animal studies have shown inhibitory effects of marine n-3 fatty acids on breast cancer growth  .
+Several epidemiological investigations have examined the association between fish consumption and breast cancer risk in humans .
+In a review of seven cohort and 19 case-control studies on fish consumption , marine n-3 fatty acids and breast cancer risk , Terry_et_al.  have reported inconsistent results .
+Some authors have found no association , while others have suggested a decreased risk with high consumption of fish or n-3 fatty acids , and still others have postulated an inverse association only for subgroups defined by menopausal and ER status  .
+One of the studies included in the review detected a slightly elevated risk of breast cancer ( RR = 1.09 ; 95% CI : 1.03 - 1.16 ) associated with higher dietary marine n-3 fatty acids in a cohort of 88,795 women  .
+Gago-Dominguez_et_al.  recorded a significantly reduced risk of breast cancer ( RR = 0.74 ; 95% CI : 0.58 - 0.94 ) with high consumption of fish and marine n-3 fatty acids .
+Similarly , a significant inverse association between fish intake and breast cancer risk was observed in Japanese women ( 2385 breast cancer cases , 19,013 in the reference group , OR = 0.75 ; 95% CI : 0.57 - 0.98 )  .
+Terry_et_al.  examined the association between fatty and lean fish and breast cancer risk in a large , nation-wide , case-control study in Sweden , finding only a weak and non-significant inverse association with fish and breast cancer , and no clear differences in outcome by fish species .
+In a study of Norwegian women  , there was no association between salmon consumption and breast cancer risk .
+Stripp_et_al.  noted a positive association with 25 g of daily total fish intake and breast cancer risk ( RR = 1.13 ; 95% CI : 1.03 - 1.23 ) , but no differences in association were detected by type of fish or preparation method , and it was suggested that factors in fish other than n-3 fats could be responsible for this observation .
+Recently , Engeset_et_al.  found no evidence of an association between fish intake and breast cancer risk ( RR = 1.01 ; 95% CI : 0.99 - 1.02 ) in a study sample of 310,671 women at recruitment into the European Prospective Investigation into Cancer and Nutrition with follow-up .
+A limitation of most studies on fish consumption and breast cancer risk is that they do not distinguish between lean and fatty fish .
+Lean fish contains only small amounts of n-3 fatty acids , since most of the fat is stored in the liver of these fish .
+If there is a beneficial effect of n-3 fatty acids , it may be that an association is only apparent for fatty fish consumption .
+Furthermore , if indeed there is a protective effect of fish consumption on breast cancer risk , it may also be counterbalanced by the harmful impact of contaminants .
+Fish may be contaminated with substances present in the environment , such as heavy metals and pesticides , which may have estrogenic effects .
+The influence of pesticides on breast cancer risk was evaluated in a recent review of human epidemiological studies  .
+A Limitation in this review was the differing levels of detail available from the questionnaires used to assess fish consumption in the different research centers or countries , which made it difficult to distinguish between different types of fish and fish products  .
+The same is true for cooking methods and the way fish is consumed ( i.e. , with sauce , breadcrumbs , smoked , salted , etc. ) .
+Moreover , there are additional considerations in fish intake .
+Fish is the best dietary source of vitamin D and a good source of other vitamins ( vitamins A and B ) , minerals ( calcium , phosphorus , iron ) and trace elements ( selenium , iodine , zinc ) .
+Any of these components could be associated with breast cancer risk .
+Vitamin D , calcium , and selenium are hypothesized to play a beneficial role in reducing breast cancer risk  Calcium and vitamin D have been shown to interact in promoting growth inhibition in breast cancer cells .
+Moreover , selenium is an antioxidant and , as such , is also effective in reducing breast cancer risk by inhibiting cancer-associated angiogenesis  .
+In view of these factors , clear evidence has not yet emerged for an association between fish consumption and breast cancer risk .
+3.4. Total energy .
+A number of experimental and epidemiological investigations have assessed the relationship between energy intake and breast cancer .
+In a cohort study in Canada , Silvera_et_al.  observed a 45% increased risk of breast cancer in premenopausal women who had a daily total energy intake of 2406 kcal or more .
+Based upon a case-control study in Shanghai , with 1459 cases and 1556 controls , Malin_et_al.  reported an 82% increase in premenopausal breast cancer risk among women who consumed total energy intake more than 2107 kcal per day compared to those who consumed 1540 kcal per day .
+Recently , in a case-control study among French - Canadians , with 89 cases and 48 controls , a positive association was found between total energy intake and BRCA-related breast cancer risk ( OR = 2.76 ; 95% CI : 1.10 - 7.02 ) among women consuming 2339 kcal / day compared to those who consumed 1724 kcal / day  .
+This result was independent of age , body mass index ( BMI ) , and physical activity .
+In addition consistent evidence from experimental animal studies indicates that energy restriction leads to in a highly-reproducible , and dose-response inhibition of induced breast cancer .
+A 30% restriction of energy intake can reduce mammary tumors by 90%  .
+Although both studies  mentioned above concentrated on different populations and different sample sizes , they detected a positive association between high energy intake and breast cancer risk .
+Several mechanisms have been proposed by which energy restriction can decrease breast cancer risk .
+There is evidence that the effects of dietary restriction are mediated via changes in the availability of IGF-1 that , in turn , inhibits tumor development by decreasing cell proliferation  .
+A low-energy diet has been shown to suppress estrogen secretion and therefore attenuate mammary tumor development  .
+Furthermore , it may lead to decreased free radical production in the mitochondria , and with reduced oxidative stress , inflammation is diminished  .
+Energy restriction also reduced the DNA replication and enhanced the rate of apoptosis thus diminishing tissue susceptibility to carcinogens  .
+3.5. Total fat .
+Preclinical and human ecological studies have suggested an association between increased dietary fat intake and breast cancer risk  , cohort studies revealed less consistent effects  .
+For instance , a case-control study ( 414 cases and 429 controls ) found no association between breast cancer and dietary fat intake  .
+Similarly , observational studies on the influence of dietary fat on breast cancer recurrence have produced mixed results  .
+The variable associations may be due to differences of fat intake in the study population , difficulty in accurately measuring fat intake with diet-assessment methods , and high correlation between dietary fat and other diet and lifestyle variables  .
+Most investigators assume that any observed tumor-enhancing effect of dietary fat needs to be adjusted statistically for energy intake .
+However , this is not a straightforward issue because a change in fat composition of the diet may cause alterations in energy intake .
+Thus , higher energy intake resulting from changes in fat intake may be considered as one of the mechanisms by which fat affects tumor development .
+Dietary fat may also play a role in the development of breast cancer via hormone metabolism .
+This may be particularly relevant for ER-positive cancers , as an elevation of endogenous estrogen levels with increased fat intake is thought to be related to breast cancer  .
+Alternatively , any role for dietary fat in breast cancer may be less direct .
+For example , high-fat diets may lead to greater body mass or obesity , a probable risk factor for postmenopausal breast cancer .
+In postmenopausal women , high-fat intake may increase levels of bioavailable estrogens , thus elevating the risk of breast cancer .
+Furthermore , higher-fat intake in childhood or adolescence may promote faster growth and earlier onset of menarche , both established risk factors for breast cancer  .
+3.6. Fatty acids3.6.1 .
+Saturated fat .
+Giving more weight to prospective studies , Wakai_et_al.  found no relationship between saturated fat intake and breast cancer risk in 26,291 subjects from the Japan Collaborative Cohort Study .
+On the other hand , combined analysis of 12 case-control studies revealed an increased risk of postmenopausal breast cancer with higher saturated fat intake , giving an overall OR of 1.57 ( p 0.0001 ) for the uppermost quintile of intake ; this estimate was adjusted for total fat intake , which was also associated with increased risk  .
+In view of the relationship between breast cancer and foods high in saturated fat , such as meat and dairy products  .
+It may be that the observed associations between breast cancer and saturated fat in some studies may be due to some component in meat other than saturated fat , or to risk-augmenting food preparation methods  .
+On the other hand , the observed associations for meat consumption may reflect a true effect of saturated fat  .
+3.6.2. MUFAs .
+Olive oil is a rich source of MUFAs , and in case-control studies , it has been shown that the risk of breast cancer is decreased with the consumption of more than 1 tsp of olive oil per day ( OR = 0.75 ; 95% CI : 0.57 - 0.98 )  .
+Antioxidants present in olive oil , such as vitamin E , have been suggested to be one of the protective constituents  .
+However , a meta-analysis of 17 case-control and eight cohort studies found no association between MUFAs and breast cancer risk  .
+The relationship between MUFAs intake and breast cancer risk appears to depend on the contributing foods .
+3.6.3. Polyunsaturated fatty acids ( PUFAs )
+Nkondjock_et_al.  conducted a case-control study of 414 cases and 429 population-based controls , and observed no overall association between PUFAs and breast cancer risk .
+Similarly , a combined analysis of 12 case-control studies indicated no statistically significant association between postmenopausal breast cancer risk and PUFA intake  .
+Moreover , another cohort study noted a similar absence of association  .
+Diets high in PUFAs may not be linked with breast cancer , risk independently of any contribution to total fat intake .
+Thus , contrary to data from animal experiments , human studies do not show an increase of breast cancer risk with PUFA intake .
+Estimating the risk associated with PUFA intakes remains difficult as food composition tables for these fatty acids are incomplete .
+3.7. Vitamins and minerals .
+Because of their antioxidant properties , dietary carotenoids and vitamins C and E can neutralize reactive oxygen species , reducing oxidative DNA damage and genetic mutations  , and may also enhance host immunological functions  .
+All these reactions could help to protect against breast carcinogenesis .
+Preformed vitamin A ( retinol and retinyl esters ) is involved in cell differentiation  , and certain carotenoids ( -carotene , -carotene , and -cryptoxanthin ) in fruits and vegetables can be metabolized to retinol  .
+Case-control studies of diet and breast cancer support a weak protective effect of carotenoids rather than preformed vitamin A  .
+In a cohort study of 83,234 women , Zhang_et_al.  demonstrated that consumption of fruits and vegetables high in specific carotenoids and vitamins A , C and E may reduce breast cancer ( RR = 0.77 ; 95% CI : 0.58 - 1.02 ) .
+On the other hand , a cohort study by Cho_et_al.  found no evidence that higher intakes of vitamins A , C and E diminish the risk of breast cancer .
+Vitamin D and calcium are emerging as promising chemopreventive and chemotherapeutic agents for breast cancer  .
+Aside from supplements , vitamin D is found in certain foods ( good natural sources are fish oil , egg yolks , liver , and vitamin D-fortified foods such as milk and some margarine ) , and obtained by exposure to UV light after conversion of 7 dehydrocholesterol in the skin  .
+Furthermore , recent data from the Nurses Health Study suggest that among premenopausal women , dietary vitamin D might protect against breast cancer independently of sun exposure and intake of milk and its constituents , including calcium  .
+Vitamin D also plays a major role in calcium homeostasis .
+Calcium is an important mineral found primarily in dairy products .
+Cellular proliferation and differentiation can be modulated by calcium , and these cell functions are also involved in carcinogenesis .
+Cohort  and case-control studies have suggested that calcium intake may be associated with decreased breast cancer risk  .
+On the other hand , Vachon_et_al.  found no associations with vitamin D and breast density , both among premenopausal and postmenopausal women .
+However , Bérubé_et_al.  noted that increases in vitamin D and calcium intake were associated with decreases in breast densities up to 8.5% ( p = 0.004 ) , suggesting that augmented dietary vitamin D and calcium could reduce breast cancer risk through changes in breast tissue morphology .
+However , this remains a controversial issue .
+3.8. Phytoestrogens .
+The intake of phytoestrogens is much higher among Asian women , compared with women living in the Western world .
+Hence , the role of genetics is probably relatively small compared to environmental and lifestyle factors , such as dietary habits .
+It has , therefore , been hypothesized that high phytoestrogen intake could protect against breast cancer  .
+Estrogens , and estradiol in particular , are known to have strong mitogenic properties  .
+Experimental and epidemiological studies on circulating estrogen levels and breast cancer have indicated increased risk with higher levels of both estrone and estradiol , although only in postmenopausal women  .
+They can , however , also compete with endogenous estrogens for ERs , and in this way inhibit binding of the more potent endogenous estrogens  .
+It has been postulated that in situations with low circulating levels of endogenous estrogens , phytoestrogens may act as weak estrogens , but have an antiestrogenic effect in environments with high circulating levels of endogenous estrogens .
+Hence , they could protect against premenopausal breast cancer and increase breast cancer risk after menopause  .
+Prospective studies on soy intake and breast cancer risk have found no significant protective effect of higher intake  .
+Enterolactone ( mammalian lignan ) and genistein ( isoflavone ) concentrations in plasma samples of 220 premenopausal cases and 237 age-matched controls from a population-based case-control study in Germany showed that median plasma enterolactone concentrations in cases and controls were 6.3 and 9.7 nmol / l , respectively , and median genistein concentrations were 4.5 and 3.7 nmol / l , respectively  .
+Premenopausal breast cancer risk decreased with increasing plasma enterolactone concentrations .
+Overall ORs were 0.42 ( 95% CI : 0.20 - 0.90 ) and 0.38 ( 95% CI : 0.17 - 0.85 ) ( p for trend 0.007 ) for women with the third and fourth quartile of plasma enterolactone compared to those in the lowest quartile .
+There was no association between plasma genistein concentration and premenopausal breast cancer risk  .
+No direct association was demonstrated either by den Tonkelaar_et_al.  in urinary isoflavone levels of postmenopausal women .
+Prospective epidemiological studies assessing circulating or urinary excretion levels of lignans also gave conflicting results , and in premenopausal women , both increased and decreased breast cancer risks were reported  .
+Recently , a nested case-control study with 383 cases and 383 controls showed that , for genistein , the OR was 0.68 ( 95% CI : 0.47 - 0.98 ) , indicating around 32% decreased risk  .
+Comparable protective effects , although not statistically significant , were seen for the other isoflavones , while lignan levels did not appear to be related to breast cancer risk .
+The results were similar in both premenopausal and postmenopausal women .
+Isoflavone and lignan levels in plasma were measured and isotope-dilution , liquid chromatography / tandem mass spectrometry incorporating triple 13C-labeled standards was performed for all analyses  .
+No clear explanation can be advanced for the opposing effects of isoflavones ( absence of association between isoflavones and breast cancer v / s 32% decreased risk of breast cancer with isoflavones ) in studies by Piller_et_al.  and Verheus_et_al.  .
+It may be that serum levels of isoflavones , aside from their own effects , are also markers for other dietary compounds ( soy protein and non-enzymatic antioxidants ) .
+In addition , variants of genes involved in the metabolism of sex steroid hormones may be important for the effects of phytoestrogens on breast cancer risk  .
+For example , decreased breast cancer risk in women with high dietary genistein intake and in women with high plasma concentrations of lignans was observed for a certain variant of cyp17 gene , in a case-control study of 267 premenopausal breast cancer patients and 573 controls  .
+The hypothesis that phytoestrogens protect against breast cancer in situations of high circulating levels of endogenous estrogens ( i.e. in premenopausal women ) , but increase risk in environments with relatively low levels of endogenous estrogens ( i.e. after menopause ) is not generally supported by the results of prospective studies published so far .
+Furthermore , because endogenous estrogen levels severely decrease after menopause , the excess circulating levels of phytoestrogens over circulating estradiol levels are much larger in postmenopausal compared to premenopausal women .
+Hence , competition between phytoestrogens and estradiol may be more effective after menopause .
+Moreover , in obese , postmenopausal women , estrogen is converted into its active form in body fat ; thus , there is a higher circulation of estrogen levels .
+However , phytoestrogens with antiestrogenic effects through competitive binding to ERs , consequently diminished the binding of stronger endogenous estrogens to ERs .
+Through this mechanism , dietary phytoestrogens may attenuate the adverse outcomes of obesity on the development of postmenopausal breast cancer  .
+Circulating levels of isoflavones in women living in Western countries are much lower than in Asian women  .
+However , comparing endogenous estrogen with phytoestrogen levels from Western women shows that phytoestrogen levels are 50 - 1000 times higher than endogenous estrogen  .
+Hence , an effect can be expected , even at low circulating levels of isoflavones , similar to that observed in European and American populations .
+Other proposed mechanisms of action of phytoestrogens , such as the scavenging of free radicals and the induction of apoptosis and tyrosine kinase activity , may also result in decreased breast cancer risk .
+However , some of these effects were only noted in in vitro experiments with much higher phytoestrogen levels than those reported in in vivo studies  .
+Inhibition of aromatic enzymes , however , was described with levels that can be reached on a phytoestrogen-enriched diet  .
+This effect is particularly interesting after menopause , when no estrogen is produced by the ovaries , and the aromatic conversion of androgens in fat tissue is the main pathway of estrogen synthesis .
+According to the National Cancer Institute 's Surveillance , Epidemiology and End Results registries , evidence for the potential health benefits of phytoestrogens is increasing as the use of hormone replacement therapy has decreased .
+4. Discussion of methodological issues .
+Epidemiological studies may harbor biases that could influence their outcome .
+Bias could result from the dietary assessment methods employed  .
+While cohort and prospective studies have typically employed 24 h recall , diet records or FFQs , most case-control studies have administered FFQs to retrospectively assess dietary patterns or consumption frequency of foods , nutrients , or food groups believed to be related to the etiology of the disease under investigation .
+When interpreting these data , several factors must be considered .
+Most importantly , the assessment of diet and its outcome in relation to cancer risk is subject to biases ; for example , subjects may not accurately report their food consumption or a FFQ food list may be missing key dietary elements .
+Moreover , different dietary assessment methods may yield different results , and no standard has been developed which permits the detection of associations between the consumption of food products and breast cancer risk with certainty .
+Methods used in epidemiological studies , including FFQs and dietary records or food diaries , have achieved only modest validity , and some misclassification of intake is unavoidable  .
+However , the results are generally taken to be indicative of dietary patterns , and FFQs , diet recall and food records remain reliable methods in epidemiological studies  .
+Another challenge when evaluating which foods or nutrients are related to disease risk is the high co-linearity among foods and nutrients in the diet , resulting from typically-observed food combinations .
+For instance , persons with a high consumption of butter , cheese , and other high-fat dairy products may also be more likely to consume large amounts of meat or other high-fat foods that could contribute to an increased risk of breast cancer  .
+Even when total energy intake is controlled in the analysis , it may be impossible to completely separate the effects of dairy intake , for example , from those of other dietary factors , including the intake of various types of fat .
+Conversely , persons may consume low-fat milk and other dairy products as part of an overall healthier diet that is also high in fruit and vegetables and low in fat  .
+Once again , it may be difficult to separate the effects of a particular food product from those of other food groups that alter breast cancer risk .
+It is noteworthy that relatively few studies have adjusted for dietary factors other than alcohol consumption and total energy intake in their analyses of fruits and vegetables , dairy products , meat , poultry and fish , fatty acids , vitamins , minerals , and phytoestrogens as risk or protective factors in breast cancer etiology .
+This adds to the difficulties inherent in comparing studies according to the dietary variables considered in the analysis .
+Nonetheless , the results of studies that have adjusted their estimates for a wide range of potentially-confounding variables , including alcohol consumption , cigarette-smoking , oral contraceptive use , parity , family history of breast cancer , age at menopause , age at first birth , BMI , and parity  , did not differ systematically from those of studies that did not adjust for many or all of these factors .
+Adjustment for covariates within studies often does not appreciably alter the crude estimates for consumption of a particular food  .
+However , adjustment is necessary to confirm the significance of the results .
+Variations in the levels of food consumption reported by different populations are another important consideration when evaluating epidemiological data .
+No standard method is currently available for categorizing intake levels of a particular food product ( e.g. types of fruits and vegetables , cheese , meat , fish , oil ) .
+Average intake varies considerably between populations , such that a level of consumption that is considered high in one population might be low in another .
+Consequently , many researchers have very understandably made comparisons based on quintiles of intake within their specific study populations .
+On the other hand , approaches taken in epidemiological investigation may affect findings linking breast cancer and nutrition .
+For example , as stated earlier , a major limitation of case-control studies is the recall bias of exposure among cases who may over-report foods that they believe may have contributed to their diagnosis , and under-report healthier foods that they believe may have prevented their disease  .
+This biases RRs further from the null value than would be observed in prospective studies of the same relationship .
+Selection bias may result from distortions of evidence or data that arise from the way that they are collected .
+Such bias may be driven by the eagerness of cases to find the cause of their disease , and likely contributes to their higher participation rates than controls in epidemiological studies  .
+In addition , controls who participate may be more health-conscious , and perhaps consume more fruits and vegetables and less fat than those who refuse to take part in such studies .
+The effect of recall and selection bias is not trivial and could lead to apparent inverse associations with fruits and vegetables and positive associations with dietary fat .
+Finally , differences in findings from epidemiological studies may be due to dissimilarities in study populations , follow-up duration , the choice of nutrient database , and the range of nutrient intakes captured by FFQs .
+Moreover , identifying the role and extent of dietary habits in the development of disease is usually easier and more efficient when comparing and contrasting culturally-heterogeneous populations ( e.g. ethnic groups ) with lifestyle differences  .
+However , this is rarely done because of logistical or practical issues among groups with wide variations in the food they eat .
+5. Conclusion .
+Since breast cancer may have latent initiation , genetics , environment , diet and lifestyle , therefore , should be considered as potential factors in its etiology .
+Numerous studies have tested theories of associations between dairy product consumption and breast cancer risk via the role played by fat from the dairy product in relation to IGF-1 , GH and estrogens .
+Although estrogens and the GH / IGF-1 axis play a critical role in mammary gland development , the mechanisms are complex , and cancer is probably influenced more by autocrine / paracrine secretions than by circulating levels .
+Nevertheless , the daily contribution of these factors from dairy product consumption is far too small to exert a physiological effect compared to daily endogenous secretions .
+The presence of RA , VA , BA and BCFAs , cysteine-rich whey proteins , calcium and vitamin D in milk has the potential to help prevent breast cancer .
+Although an omnivorous diet per se does not elevate breast cancer risk , broiled or deep-fried meats cannot be ruled out as risk factors in genetically-susceptible individuals .
+While the evidence does not point to an overall protective effect of high fruit and vegetable consumption , speculation remains over potentially anticarcinogenic agents present in fruits and vegetables , including numerous micronutrients , such as carotenoids , vitamins C and E , and flavonoids .
+In essence , regional differences in breast cancer incidence are likely to be partially attributable to environmental risk factors , particularly life-long dietary habits .
+It does not appear advisable at this time to counsel women to adopt a dietary pattern from a low-risk region in the world ( e.g. the Mediterranean diet ) to protect themselves against breast cancer .
+Traditional Western diets also have their beneficial ingredients that should be regular constituents in meals .
+From this overview , it can be concluded that fruits and vegetables , low-fat dairy products , fish , MUFAs , PUFAs , vitamin D , calcium and phytoestrogens may protect against the risk of breast cancer .
+However , further research is needed to better understand dietary contributions and the underlying nutrient constituents in this disease .
+The ultimate goal of such research is to contribute to novel prevention strategies and to decrease the number of women at risk for developing breast cancer .
+Conflict of interest .
+None declared .
+Acknowledgments .
+Funding for this study was received from the Montreal Cancer Institute .
+The authors acknowledge the editorial assistance of Ovid Da Silva , Research Support Office , Research Centre , CHUM , Montreal , Quebec , Canada .

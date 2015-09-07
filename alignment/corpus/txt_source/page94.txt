@@ -1,0 +1,130 @@
+Chez la femme non ménopausée , les estrogènes sont essentiellement produits par les ovaires .
+Georges Beatson , en 1896 , a été le premier à décrire le rôle de la castration chirurgicale dans la prise en charge palliative des cancers du sein métastatiques  .
+Depuis la méta-analyse de Peto  , l' intérêt de la castration dans le traitement des patientes atteintes de cancer du sein est démontré .
+Celle-ci permet , en situation adjuvante , d' obtenir une diminution annuelle du risque de rechutes de 25 % et une diminution du taux de mortalité de 24 % .
+Cette efficacité est comparable à celle observée avec l' utilisation d' une polychimiothérapie .
+Tableau 1.
+Résultats de la méta-analyse de Peto
+Réduction du risque annuel de rechutesRéduction du risque annuel de décès ( a ) SO versus placebo25 % ( 7 ) 24 % ( 7 ) ( b ) SO versus CTnsns ( c ) CT versus CT + SOnsns
+Full-size table
+SO : suppression ovarienne ; CT : chimiothérapie ; ns : différence statistiquement non significative .
+View Within Article
+La suppression des fonctions ovariennes peut être réalisée selon trois méthodes : - la castration chirurgicale ( ovariectomie ) ;
+- la radiothérapie ovarienne ;
+- et enfin , l' utilisation plus récente des analogues de la LHRH .
+Les analogues de la LHRH agissent par le biais de récepteurs hypophysaires .
+À la phase initiale du traitement , on observe une stimulation de la sécrétion des hormones gonadotropes , celle-ci entraînant ainsi une augmentation des taux sériques de FSH , LH , estradiol et dihydrotestostérone .
+Puis , en deux à quatre semaines , la saturation des récepteurs hypophysaires va inhiber cette sécrétion aboutissant alors à un hypogonadisme par arrêt des fonctions ovariennes .
+Cet hypogonadisme persiste pendant toute la durée du traitement , mais il a l' intérêt d' être réversible après arrêt de l' hormonosuppression dans un délai d' environ quatre semaines .
+Les analogues de la LHRH sont donc responsables d' une castration pharmacologique réversible .
+Cela explique pourquoi ils sont aujourd'hui préférés à l' ovariectomie ou l' irradiation ovarienne , parmi une population de femmes jeunes et non ménopausées .
+Dans cet article , nous examinons la place des analogues de la LHRH dans le traitement des cancers du sein en situation métastatique et en situation adjuvante .
+2. Place des analogues de la LHRH en situation métastatique2.1 .
+Comparaison des méthodes de suppression ovarienne
+Différents essais de phase II ont permis de démontrer que les trois méthodes de suppression ovarienne ont une efficacité similaire sur l' évolution des patientes atteintes de métastases de cancer du sein .
+Le taux de réponse objective obtenu avec les analogues de la LHRH est globalement de 30 à 36 %  .
+La comparaison directe de la suppression ovarienne chirurgicale et des analogues de la LHRH a été faite par Taylor et al. Les taux de réponses objectives pour ces deux méthodes sont respectivement de 27 et 31 % , la différence étant non significative  .
+Une méta-analyse comparant le tamoxifène aux analogues de la LHRH  a permis de constater l' absence de différence significative entre ces deux traitements .
+2.2. Association analogues de la LHRH et tamoxifène
+En 1995 , l' essai randomisé de Jonat_et_al.  portant sur 318 patientes métastatiques compare une monothérapie par analogues de la LHRH ( goséréline ) à l' association analogues de la LHRH - tamoxifène .
+Les taux de réponse objective sont de 31 et 38 % , en_faveur_de l' association mais la différence est non significative ( p = 0,24 ) .
+La méta-analyse de Klijn  a permis de reprendre les données de quatre essais randomisés , menés chez 506 patientes non ménopausées , et comparant la monothérapie par analogues de la LHRH à l' association avec le tamoxifène  ( également , un essai japonais non publié ) .
+La posologie de la goséréline était fixée à 3,6 mg par voie sous-cutanée , et ce toutes les quatre semaines , à_l'_exception_de l' essai italien  qui utilisait la buséréline 6,6 mg toutes les six semaines pendant douze semaines , puis toutes les huit semaines .
+Avec un suivi médian de 6,8 ans , les résultats ont permis de constater la supériorité de l' association analogues de la LHRH - tamoxifène .
+Il a été retrouvé une réduction du risque relatif de décès de 22 % ( RR = 0,78 ; IC 95 % 0,63 - 0,96 ) , et une diminution du risque relatif de progression de 30 % ( RR = 0,70 ; IC 95 % 0,58 - 0,85 ) .
+Tableau 2.
+Analogues de la LHRH seuls ou en association avec le tamoxifène , chez la femme non ménopausée
+LHRHLHRH + tamoxifènep ( n = 256 ) ( n = 250 ) Réponse objective29,7 %38,8 %0,03 Survie médiane ( ans ) 2,52,90,02 Survie sans récidive84,8 %89,1 % 0,001 Médiane ( mois ) 5,48,70,0003
+Full-size table
+View Within Article
+En pratique , l' hormonothérapie de référence pour les patientes non ménopausées , ayant un cancer du sein métastatique est l' association d' une suppression ovarienne ( chirurgicale ou médicamenteuse ) au tamoxifène .
+2.3. Association des analogues de la LHRH avec les antiaromatases
+Les antiaromatases ( anastrazole , létrozole et aromasine ) ont démontré leur intérêt en terme de survie sans rechute .
+Les études des groupes ATAC , MA-17 et celle de l' Intergroup Exemestane Trial  ont ainsi servi de base aux autorisations de mise sur le marché ( AMM ) pour le traitement adjuvant des patientes ménopausées .
+Leur utilisation en situation métastatique est de fait logique mais toujours en situation postménopausique chez des patientes RH+ ayant une atteinte métastatique réputée hormonosensible ( atteintes pulmonaire , cutanée ou osseuse exclusives ) et , en tout état de cause , en_dehors d' un contexte d' urgence thérapeutique .
+Leur association aux analogues de la LHRH chez des patientes non ménopausées semble logique mais aucune étude portant sur ce type d' association n' a été publiée à ce jour .
+Par ailleurs , faut il contrôler l' efficacité biologique de la castration ?
+Cependant , chez des patientes présentant une contre-indication absolue à l' utilisation du tamoxifène ( notamment d' ordre thromboembolique ) , il est tout_à_fait possible de proposer un traitement associant une antiaromatase à un analogue de la LHRH .
+Enfin , chez des patientes exprimant à_la_fois des récepteurs hormonaux et l' oncogène Cerb-B2 , il n' est pas démontré que les antiaromatases sont supérieurs au tamoxifène en cas d' adjonction systématique de trastuzumab .
+3. Place des analogues de la LHRH en situation adjuvante3.1 .
+Suppression ovarienne après chimiothérapie adjuvante
+Il est difficile d' apprécier le bénéfice réel en terme de survie sans rechute et de survie globale apportée par la suppression des fonctions ovariennes chimio-induites par_rapport_à l' impact direct de la chimiothérapie cytoréductrice .
+Cette aménorrhée chimio-induite est fréquente , et l' on sait que le risque d' aménorrhée augmente avec l' âge , la durée de la chimiothérapie et l' utilisation de certains agents cytotoxiques tels_que le cyclophosphamide .
+Si l' on se réfère à la méta-analyse de Peto  , la castration utilisée seule est très efficace ; en_revanche , utilisée après chimiothérapie , elle n' apporte qu' un bénéfice faible , voire nul , comparativement à un traitement par chimiothérapie seule .
+La réduction du risque relatif observée est de 10 % pour les décès , de 8 % pour les rechutes avec un intervalle de confiance trop important pour être statistiquement significatif .
+Cependant , il est probable , même si cela n' est pas clairement spécifié , que la chimiothérapie administrée a entraîné une castration chez une grande partie de ces patientes .
+De plus , certains essais incluaient des patientes avant la fin de la chimiothérapie , ce qui ne permettait pas de connaître le statut ovarien castré - non castré de ces malades .
+Dans cette méta-analyse , on gardera à l' esprit les trois points clés suivants : - la suppression ovarienne diminue le risque annuel de rechutes et de décès ( a ) ;
+- en situation adjuvante , la suppression ovarienne a une efficacité similaire à la chimiothérapie , chez les patientes non ménopausées ( b ) ;
+- en_revanche , il n' y a pas de bénéfice attendu lorsque la suppression ovarienne est réalisée après chimiothérapie ( c ) .
+Les essais ACO 5 et ZEBRA  ont comparé une chimiothérapie de type CMF ( Cyclophosphamide - Méthotrexate - 5-Fluorouracile ) à une hormonothérapie par goséréline et tamoxifène ( ACO 5 ) ou goséréline seule ( ZEBRA ) .
+Près de 60 % des patientes ont développé une aménorrhée chimio-induite après CMF .
+Pour ces patientes , la réduction du risque de rechute a été , respectivement , de 47 % pour l' essai ACO 5 et de 36 % pour l' essai ZEBRA .
+En 2003 , l' essai randomisé de l' International Breast Cancer Study Group  a comparé chez 1063 patientes dont 68 % avait une tumeur RH+ ( présence de récepteurs hormonaux ) , quatre bras de traitement : - analogues de la LHRH seuls pendant 24 mois ;
+- six cycles de CMF suivis d' analogues de la LHRH pendant 18 mois ;
+- six cycles de CMF seuls , sans analogues de la LHRH ;
+- observation enfin pour les patientes RH+ .
+Il existe une tendance en faveur du bras chimiothérapie associée aux analogues avec augmentation de la survie sans récidive non significative ( 86 contre 81 % pour les deux autres bras de traitement ) .
+Enfin , l' essai de la FNCLCC  a comparé chez 926 patientes non ménopausées l' effet de la castration par radiothérapie ou par analogues de la LHRH au décours d' un programme de chimiothérapie à une chimiothérapie utilisée seule .
+Soixante-dix-sept pour cent des schémas de chimiothérapie utilisés comportaient une anthracycline , les autres étaient de type CMF ; la castration était réalisée par irradiation ( 45 % des cas ) ou analogues de la LHRH ( triptoréline pour 48 % ) .
+Il faut noter que seulement 63 % des patientes incluses dans l' étude avaient des récepteurs hormonaux positifs , et 72 % étaient en aménorrhée après , au décours de leur programme de chimiothérapie .
+À dix ans , la survie globale et la survie sans récidive étaient identiques dans les deux bras de traitement .
+Si l' on considère le sous-groupe de patientes âgées de moins de 40 ans , RH+ , la castration a permis de diminuer le risque de rechute de façon significative ( p = 0,01 ) .
+Enfin , une étude rétrospective  portant sur 130 patientes non ménopausées ayant des récepteurs hormonaux positifs , montre une corrélation entre la survenue d' une aménorrhée chimio-induite précoce ( délai de survenue inférieur à un an après le début de la chimiothérapie ) et la survie sans récidive .
+L' âge supérieur à 40 ans semble être un facteur prédictif déterminant ( âge médian de survenue de cette aménorrhée : 46 ans ) .
+Il est difficile d' établir avec précision le rôle de l' aménorrhée chimio-induite .
+L' aménorrhée chimio-induite semble diminuer le risque de récidive pour les patientes RH+ .
+La différence attendue dans les essais comparant la chimiothérapie à la suppression ovarienne est donc diminuée , puisque le bras chimiothérapie est en fait un bras mixte : chimiothérapie associée à castration .
+3.2. Suppression ovarienne sans chimiothérapie adjuvante
+De nombreuses questions restent sans réponse .
+3.2.1. Durée de la suppression ovarienne ?
+Il est habituel de prescrire des analogues pour une durée de deux ou trois ans  .
+On sait que les tumeurs RH+ ont un profil de rechute différent de celui des tumeurs RH - , avec en_particulier des rechutes plus tardives après tamoxifène , entre cinq et dix ans  .
+Faut il chez ces patientes , prolonger la durée de l' hormonothérapie à cinq ans voire au-delà ?
+3.2.2. Monothérapie par analogues ou association au tamoxifène ?
+Aucun essai publié ne répond à cette question en situation adjuvante .
+Cependant , les données dont nous disposons en situation métastatique laissent penser que l' association analogues et tamoxifène pourrait être un traitement optimal en alternative à la chimiothérapie .
+De même , la supériorité des inhibiteurs de l' aromatase ( IA ) sur le tamoxifène en situation métastatique et adjuvante , chez des patientes ménopausées , fait espérer un bénéfice chez les patientes non ménopausées , à condition de les associer bien sr à un analogue de la LHRH .
+Les effets secondaires d' une telle association sont encore mal connus .
+Une étude de phase III portant sur 1800 patientes hormonosensibles comparant une association goséréline - antiaromatases à l' association goséréline - tamoxifène a permis de constater que la perte osseuse induite par les traitements est plus importante avec les antiaromatases  .
+3.2.3. Quand débuter la castration ?
+S' il est démontré que le tamoxifène doit être prescrit à la fin de la chimiothérapie et de la radiothérapie , on ne sait pas en_revanche à quel moment de la prise en charge induire la suppression ovarienne ( SO ) .
+Chez la souris , le nombre de follicules ovariens primordiaux est trois fois plus élevé après chimiothérapie en cas de traitement par antagonistes de la LHRH .
+Cela suggère que les antagonistes de la LHRH pourraient avoir un rôle protecteur sur les gonades .
+Aucune étude ne permet d' affirmer à l' heure actuelle si un tel phénomène existe chez les patientes traitées  .
+Enfin , on ne sait pas quelle est la conduite à adopter dans le cas des aménorrhées chimio-induites transitoires .
+La reprise de cycles menstruels réguliers doit elle faire débuter une suppression ovarienne par analogues ?
+Devant ces interrogations , et en raison des effets secondaires et du retentissement de tels traitements sur la qualité de vie de nos patientes souvent jeunes , il est important de bien cibler les indications thérapeutiques .
+À l' heure actuelle , on peut raisonnablement conseiller un traitement hormonal optimal par analogues et tamoxifène aux patientes qui en tireront un bénéfice maximal , c' est-à-dire celles dont la tumeur exprime fortement les récepteurs hormonaux , et / ou celles qui ne sont pas éligibles pour une chimiothérapie .
+Par ailleurs , il faut également prendre en compte le désir des patientes d' être traitées de façon maximaliste .
+À l' inverse , certains profils , clinique ou biologique , peuvent inciter à ne pas prescrire de suppression ovarienne : un âge supérieur à 40 ans ( aménorrhée chimio-induite fréquente ) , tumeur RH - ou surexpression de C-erbB-2 .
+Là encore , le refus des patientes parfois motivé par le désir de préserver leur qualité de vie doit être pris en compte dans cette décision de « non-traitement » .
+Tableau 3.
+Principaux effets secondaires des analogues de la LHRH 
+Bouffées de chaleur60 - 91 % Sécheresse vaginale26 % Syndrome dépressif34 % Vertiges33 % Prurit18 % Nausées / Vomissements8 - 12 % à l' instauration du traitement 5 % à deux ans Alopécie5 - 10 % Diarrhée1 - 3 %
+Full-size table
+View Within Article
+Tableau 4.
+Indications de la suppression ovarienne
+Suppression ovarienne recommandée - Demande de la patiente - Forte hormonosensibilité , et / ou pas d' indication à une chimiothérapie adjuvante Suppression ovarienne non recommandée - Refus de la patiente - Profil tumoral RH - et HER2+++ - Aménorrhée chimio-induite hautement probable ( âge 40 ans , hautes doses de chimiothérapie type intensification )
+Full-size table
+View Within Article
+4. Conclusion
+La suppression ovarienne est la thérapeutique médicale la plus ancienne dans le traitement des tumeurs du sein .
+Longtemps obtenue de façon irréversible par la chirurgie dans un premier temps puis l' irradiation ovarienne dans les années 1960 - 1980 , elle fait appel depuis vingt ans aux analogues de la LHRH qui permettent d' obtenir une suppression ovarienne potentiellement réversible .
+En situation métastatique , le blocage estrogénique complet par analogues de la LHRH associés aux antiestrogènes a une efficacité thérapeutique supérieure aux monothérapies chez les patientes RH+ .
+En situation adjuvante , le blocage estrogénique complet offre une efficacité comparable à une combinaison de type CMF chez les patientes non ménopausées et RH+ .
+Il semble que les patientes les plus jeunes qui n' ont pas été ménopausées par le CMF bénéficient du blocage estrogénique complet .
+De nombreuses questions demeurent cependant : rôle des trithérapies par chimiothérapie , tamoxifène et analogues de la LHRH , durée optimale des traitements par analogues de la LHRH en situation adjuvante , conséquences à long terme du blocage estrogénique complet , définition des populations les plus à_même de bénéficier de la suppression ovarienne , intérêt de l' association des agonistes de la LHRH aux antiaromatases .
+Les nombreux essais thérapeutiques en cours aujourd'hui pourraient permettre de répondre à ces questions .
+Tableau 5.
+Schémas des trois essais en cours de l' IBSCG
+SOFT ( IBSCG 24-02 ) TAM seul / cinq ans - Triptoréline : 3,75 mg IM / mois ou , ovariectomie bilatérale , ou irradiation ovarienne versus SO + TAM / cinq ans versusTAM : 20 mg / jour PO SO + Exe / cinq ansExe : 25 mg / jour PO TEXT ( IBSCG 25-02 ) SO + TAM / cinq ans - Triptoréline ou Goséréline versus SO + Exe / cinq ans PERCHE ( IBSCG 26-02 ) SO + Exe ou TAM / cinq ans - Triptoréline : 3,75 mg IM / mois ou , ovariectomie bilatérale , ou irradiation ovarienne versusTAM : 20 mg / jour PO SO + Exe ou TAM / cinq ans + chimiothérapieExe : 25 mg / jour PO
+Full-size table
+TAM : tamoxifène ; SO : suppression ; Exe : exemestane ; IM : intramusculaire ; PO : per os .
+View Within Article
+Dans l' attente des résultats de ces études , il est tout_à_fait possible de se fonder sur les conclusions de la conférence de Saint-Paul-de-Vence ( janvier 2005 ) pour l' utilisation des analogues de la LHRH  : - malgré l' absence de données en traitement adjuvant , la suppression ovarienne transitoire par analogues de la LHRH peut-être considérée comme une alternative à la suppression ovarienne définitive ;
+- la durée de la prescription des analogues de la LHRH n' est pas définie ;
+- chez une femme présentant une aménorrhée chimio-induite , il n' y a pas d' indication à instituer un analogue de la LHRH ;
+- le tamoxifène seul ou associé à une suppression ovarienne reste l' hormonothérapie de référence chez la femme non ménopausée ;
+- en l' absence de données , l' association inhibiteurs de l' aromatase - suppression ovarienne n' est pas indiquée

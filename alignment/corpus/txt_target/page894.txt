@@ -1,0 +1,313 @@
+In this paper , we describe a knowledge based system ( KBS ) intended to assist clinicians in the assessment and management of patients with suspected breast cancer .
+The system has been built as part of the CREDO project ( Fox , Patkar , Thomas , 2006 ) , which is designed to support the entire journey of breast cancer patients , from initial presentation and diagnosis through to treatment and follow-up .
+As part of the CREDO project a formal model of a breast cancer care pathway has been developed ( Fox , Alabassi , Patkar , Rose , Black , 2006 ) , which shows that there may be as many as 52 separate decision points in the breast cancer journey at which there is significant potential for patient harm , or at least failure to achieve the best outcome , unless clinicians apply best evidence-based practice .
+The system described here , the Triple Assessment Decision Support system ( TADS ) is designed to assist breast clinicians at four decision points : genetic risk assessment , selection of imaging technique , choice of biopsy modality , and final management decision .
+The system has been created using the Tallis implementation of the PROforma knowledge representation language , with a user interface implemented using Java Server pages , Servlets , Javascript and Cascading Style Sheets .
+We describe and analyse the system using the CommonKADS methodology  .
+The first section of the paper provides background information about Triple Assessment , CommonKADS , PROforma , and Tallis .
+The next three sections use the CommonKADS methodology to analyse and describe the system : this analysis first examines the organisational context in which the system would be used , then describes the requirements which it must meet , and finally outlines its design .
+The final sections of the paper discuss the analysis performed , and outline our conclusions .
+2. Background2.1 .
+Triple assessment of breast cancer .
+Breast cancer is the most commonly diagnosed cancer in women , accounting for about 30% of all such cancers .
+One in nine women will develop breast cancer at some point in their lives .
+In the year 2003 a total of 36,500 women were newly diagnosed with breast cancer in the England ( UK Office for National Statistics , 2003 ) .
+In the UK , women with breast related symptoms that raise suspicion of breast cancer are referred by their GP to designated breast clinics in local hospitals .
+In a single year , the average GP , with a patient list of 2000 , could expect to see one or two new cases of breast cancer , but will see considerably more patients with benign breast problems .
+A hospital responsible for a population of 300,000 will deal with perhaps 40 new GP referrals each week , plus maybe two women referred after screening mammography .
+Over the period of one year a typical breast clinic will have approximately 2200 breast referrals , out of which approximately 200 patients will be diagnosed with breast cancer .
+To increase the accuracy of diagnosis , a combination of clinical examination , imaging and biopsy - known together as triple assessment - is recommended for qualifying women .
+Imaging is achieved either by mammography or ultrasound ; biopsy may take the form of core biopsy or fine needle aspiration ( FNA ) .
+2.2. CommonKADS .
+CommonKADS  provides a complete methodology for the development of knowledge based systems ( KBS ) .
+The methodology describes principles , techniques , modelling languages , and document structures to assist in three phases of the construction of a KBS .
+The contextual analysis phase focuses on the organisation that will eventually use the system , describing the business processes , resources , and knowledge assets of the organisation , as well as describing the impact that the KBS will have on the system .
+One of the aims of contextual analysis is to demonstrate that the proposed KBS is feasible and that it brings benefits to the organisation that outweigh the costs of implementing and adopting it .
+In the second conceptual analysis phase the methodology is used to clarify the knowledge that the KBS will be required to represent , the reasoning that it will be required to perform on that knowledge , and the interactions that it will be required to perform with users and other external agents .
+In the third design phase the methodology is used to create a design for the KBS that can easily be translated into code in some appropriate programming language .
+The analysis produces a set of models as illustrated in Fig. 1. The contextual analysis phase produces the organisation model which is a first cut description of the organisation using the system .
+It also produces the task and agent models , which provide more detail about the tasks that the organisation performs , and the people , or systems , that perform these tasks .
+The conceptual analysis phase produces the knowledge model , which describes the knowledge representation and reasoning requirements of the system , and the communication model , which describes the required information flow between the system and the various agents that interact with it .
+The design phase produces the design model .
+Some of these models may be omitted if they are inappropriate to the system being analysed .
+Full-size image ( 15K )
+Fig. 1. CommonKADS models .
+View Within Article .
+2.3. PROforma and Tallis .
+PROforma is a knowledge representation language that can be used to create process descriptions , i.e. descriptions of processes that unfold over time and require the cooperation of various actors , such as clinicians or other medical personnel .
+The language benefits from an easy-to-use graphical editor , which can be obtained by agreement with the research team developing the language .
+A PROforma process description is composed of objects drawn from the classes set out as a UML class diagram in Fig. 2. Each class of object has a set of named properties ( to avoid clutter , properties are not shown in Fig. 2 ) .
+Each instance of a given class will have different values for these properties .
+If one class of object is connected to another by a kind of relationship then the more specific class inherits all the properties of the more general class , for instance a PROforma Component has a property named description and hence Tasks , Data Items and all other kinds of PROforma Component will also have this property .
+Full-size image ( 25K )
+Fig. 2. Proforma components .
+View Within Article .
+A PROforma process description is a set of interlinked PROforma Components .
+A PROforma Component can be , among other things , a Task or a Data item .
+A Task can be an Action , an Enquiry , a Decision or a Plan .
+An Action generally represents a request for an external actor to do something ( e.g. prescribe a drug , or perform some other clinical intervention ) .
+An Enquiry represents a request to an external actor to provide values for data items ( the Sources of the Enquiry ) .
+A Decision represents a choice between one or more Candidates .
+The choice of Candidate ( s ) may be performed by an external actor or it may be made automatically by the system .
+The engine keeps a record of which Candidate ( s ) have been chosen in which Decisions , and this information can be used to control the subsequent execution of the Process .
+Each Candidate is associated with one or more Arguments , these being logical expressions whose truth or falsity influences the choice of Candidate that will be recommended to an external actor ( or made by the engine if no external actor is involved ) .
+PROforma includes an expression language that is used to define , among other things , the preconditions that must be true in order for a task to be activated and the criteria that must be fulfilled in order for an Argument to be true .
+The PROforma expression language includes the usual logical , arithmetic , and comparison operators , as well as functions that evaluate the values of data items and the execution states of tasks ( i.e. whether they have been , or need to be , performed ) .
+The PROforma language has been given a precise syntax and semantics ( Sutton Fox , 2003 ) .
+The semantics defines the value that is returned when an expression is evaluated as well as the operations that can be performed on a running process and the changes that occur in the process state when these operations are performed .
+Two implementations of a PROforma engine exist : the Arezzo implementation , which is available commercially from InferMed Ltd. ( London , UK ) ; and the Tallis implementation from Cancer Research UK .
+3. Contextual analysis .
+A CommonKADS contextual analysis describes the effect that a proposed KBS will have on the organisation that uses it , and provides a means of judging the improvements that the KBS will bring as well as the costs of implementing and adopting it .
+An essential part of contextual analysis is the development of an organisation model .
+This model has five sections : in the first section , problems that the organisation faces are set out and solutions to these problems involving the use of a KBS are briefly outlined .
+In the second the variant aspects of the organisation such as its organisational structure , business processes and knowledge assets are outlined .
+The third section describes the individual tasks that are performed as part of the organisation 's business processes ; the fourth identifies , describes , and evaluates the knowledge assets used in these processes .
+The fifth section sets out an initial judgement of the feasibility of the proposed KBS .
+3.1. Problems and opportunities3.1.1 .
+Problem statement .
+In the case we consider here the main problem faced is to make sure that the assessment techniques available to clinicians are used appropriately .
+Under-use or overuse of any of the techniques that form part of the triple assessment process may risk harm to patients in terms of in missed cancers and / or resource exhaustion .
+Recent policy documents and audits have emphasised the importance of using evidence based guidelines to ensure the consistency and quality of cancer care , and have expressed concerns about the extent to which this policy is followed in a transparent and demonstrable manner ( [ Audit Commission , 2002 ] and [ Calman and Hine , 1995 ] ) .
+The proposed KBS aims to provide assistance to clinical staff involved in triple assessment .
+This assistance is intended to accord with evidence based guidelines and ensure consistent and safe practice .
+This problem is to be examined in the context of a wider project ( CREDO ) whose aim is to provide support to breast cancer patients at all stages of their management .
+3.1.2. Proposed solution .
+The proposed solution is to use the PROforma language and the Tallis toolset to implement a distributed computerised decision support system to assist in the triple assessment process .
+The primary users of the system will be breast surgeons , radiologists , and nurse practitioners .
+The system will make use of data provided by cytologists and pathologists .
+3.1.3. Organisational context .
+An essential part of a CommonKADS organisational model is a description of those aspects of the organisational context that are likely to affect a decision whether or not to adopt a proposed KBS .
+These include the overall goals and principles of the organisation , the strategies that it adopts in order to achieve those goals , and the external factors that it is obliged to consider .
+The reason for including such information in the model is that any proposed KBS must conform to and respect these aspects of the organisational context in order to be successfully adopted .
+In this section , we set out the goals and principles underlying the provision of cancer care in England and Wales , the strategies employed in order to achieve these goals , and the external factors affecting the provision of such services .
+4. Mission , goals , and principles .
+The Expert Advisory Group on Cancer ( Calman Hine , 1995 ) recommended that the following principles should govern the provision of cancer care in England and Wales : - Care should be of uniformly high quality and should be provided as close to the patient 's home as is compatible with high quality , safe , and effective treatment .
+- Early recognition of symptoms should be encouraged through public and professional education programs and screening programs .
+- Patients , families and carers should be given clear information and assistance at all stages in diagnosis and treatment of cancer .
+- Care should be patient centred and should take account of patients , families and carers views .
+- The primary care team should continue to provide a central role in the provision of care to patients and their families .
+- Psychosocial aspects of cancer care should be considered at all stages .
+- Cancer registration and careful monitoring of treatment and outcomes are essential .
+Principles specific to the diagnosis of breast cancer have been set out by the National Institute for Health and Clinical Excellence ( NICE , 2002 ) .
+These include : - Increase in the speed and accuracy of breast disease diagnosis .
+- Reduction of costs ( by reducing unnecessary open biopsy rates ) .
+- Exploitation of the survival and quality of life benefits associated with appropriate treatment by adequate and early diagnosis .
+- Improvement of patient 's experience by minimising the time and number of visits required for getting diagnosis .
+5. Strategies .
+Strategies adopted to achieve the above goals include the provision of paper guidelines on care , see for example ( [ BASO , 2005 ] and [ SIGN , 2005 ] ) ; encouragement of the use of written protocols ; concentration of resources into centres and units that are large enough to ensure a sufficient volume of work to maintain expertise ; professional training ( including training of nurse practitioners ) ; and the introduction of an audit cycle .
+The Expert Advisory Group ( NICE , 2002 ) note that , although there will be some variations in patterns of practice across the country , cancer units or cancer centres that use different methods of treatment should be expected to justify them on scientific or logistical grounds .
+6. External factors .
+Breast cancer diagnosis and treatment is , unsurprisingly , a subject of considerable interest to the public , the press , government and political organizations , and the pharmaceutical industries .
+External factors affecting the provision of cancer care therefore include lobbying by patient groups and industry bodies , political and journalistic campaigns , and government policies and commitments .
+6.1. Variant aspects .
+The goals and strategies that are set out in the first section of the organisation model are assumed to be invariant in the sense that they will not change as the result of the adoption of a proposed KBS .
+In the second section of the model we set out aspects of the organisation that are , at least potentially , subject to change .
+These variant aspects include the structure of the organisation concerned , its business process , the agents involved in those processes , and the resources and knowledge assets that they use .
+6.1.1. Structure .
+The structure of the organisations providing care to suspected breast cancer patients in the United Kingdom is outlined in Fig. 3. A patient 's first point of contact with the system is likely to be through a visit to their GP or through a screening programme .
+If this contact gives reasons for concern then the patient will be referred to a specialist breast clinic in a local hospital managed by an NHS Acute Trust .
+The acute trust provides services that are commissioned by a Primary Care Trust , which operates under strategic directions provided by its local Strategic Health Authority .
+Full-size image ( 40K )
+Fig. 3. Organisational structure .
+View Within Article .
+The breast clinic will have facilities for examination , biopsy procedures , reporting and consultations .
+Radiology resources such ultrasound and mammography should be close at hand for easy access and reporting .
+Breast clinics work very closely with a designated multidisciplinary team ( MDT ) , which discusses the cases and recommends further course of actions .
+6.1.2. Process .
+The primary business process is set out in Fig. 4. The figure illustrates the various tasks that are performed during an individual patient 's progress from diagnosis to treatment .
+The process is set out as a UML activity diagram , in which round-edged rectangles represent tasks that are performed and sharp-edged rectangles represent information objects that are produced during these tasks .
+Solid lines between tasks are used to indicate control flow , whereas dashed lines represent data flow ( if control flow follows the same path as data flow then it is not shown separately ) .
+Full-size image ( 45K )
+Fig. 4. Overall business process .
+View Within Article .
+The patient 's initial point of contact with the system will be through a visit to her GP or via screening .
+If this initial contact gives cause for concern then the patient will be referred for triple assessment ( the triple assessment process is set out in more detail in Fig. 5 ) .
+Full-size image ( 60K )
+Fig. 5. Triple assessment process .
+View Within Article .
+Triple assessment produces a provisional diagnosis , which will be examined by the multidisciplinary team who will arrive at a definitive diagnosis .
+Fine needle aspiration or core biopsy may be performed as part of the triple assessment process where appropriate .
+However , in some cases the MDT may request that a more extensive open biopsy be performed .
+Patients whose history indicates a high genetic risk of cancer may be referred to a geneticist .
+In addition to the primary process set out in Fig. 4 there are secondary business processes designed for quality assurance , peer review , public education , professional training , and management coordination .
+The triple assessment process is outlined in Fig. 5. The first element of assessment consists of clinical examination and the gathering of patient history and demographic data .
+If this initial examination reveals an abnormality then the patient will be referred for imaging ( ultrasound , mammography , or both ) and needle biopsy .
+Biopsy may be by fine needle aspiration ( FNA ) or a larger sample may be obtained by core biopsy .
+In some cases the patient will initially be referred for FNA biopsy but inconclusive results from this procedure will necessitate her receiving a core biopsy as well .
+Mammograms are generally taken by a radiographer and later interpreted by a radiologist .
+Ultrasound images are taken by a radiologist who will interpret them at the same time .
+The triple assessment workflow may differ from that shown in Fig. 5 as a result of availability or non-availability of data or resources .
+For instance image data may already be available to the surgeon at the time of the first visit allowing imaging tasks to be omitted .
+6.1.3. Integration of the KBS into business processes .
+The KBS will be used to provide decision support at four points in the business process .
+It will be used to assist in the determination of the risk category during the Genetic Risk Assessment task ; it will assist in the choice of imaging modalities ( mammography or ultrasound , or both , or neither ) which is performed during the Clinical Assessment task ; it will also be used in the Biopsy Decision task to assist in the decisions as to the nature of biopsy to perform ; and finally it will be used in the Management Decision task in order to decide how to manage the patient .
+6.1.4. People .
+Triple assessment is a collaborative activity involving the following participants ( BASO , 2005 ) . - Surgeon : the primary care of patients with breast cancer is currently the responsibility of surgeons .
+- Radiologist : part of diagnostic team and involved in decision-making about appropriate imaging , and reporting .
+- Radiographer : has joint responsibility for monitoring and maintaining standards of procedures , equipment and reporting as set out in NHSBSP ( 2006 ) .
+- Cytologist : is part of diagnostic team and works closely with breast surgeon .
+Reports results of Fine Needle Aspiration ( FNA ) biopsies and maintains standards set out by the NHS Breast Screening Programme ( NHSBSP ) .
+- Pathologist : works closely with breast surgeon and radiologist and reports on core biopsies as per NHSBSP standards .
+- Breast Care Nurse : should be present at the time of giving positive results to the patient and discussing treatment options .
+- General Nurse : may act as chaperone .
+- Geneticist : part of cancer treatment team ( rather than breast cancer team ) .
+Has no direct involvement in day to day activities of breast team .
+- Clinical Admin Staff : adequate clerical support is required to maintain good communication with patients , GPs and other members of the breast team .
+6.1.5. Resources .
+Setting up a dedicated diagnostic service which can offer triple assessment in a single visit involves capital and human resource costs including : equipment ( dedicated mammotome machine , ultrasound machines , etc. ) ; space ; extra man hours for immediate reporting of images , Cytology , etc. ; audiovisual equipment to assist the multidisciplinary team in their discussion of individual cases ; and administrative support .
+Additional resources will be required for setting-up computerised decision support .
+These include data capture and storage facilities such as an electronic patient record ( EPR ) , and a picture archiving system ( PACS ) for image and pathology data .
+6.1.6. Knowledge .
+Knowledge is a resource which , because of its particular importance in a KBS is described separately from all other resources .
+The principal knowledge assets used in the business processes described here are guidelines set out by organisations such as the National Institute for Health and Clinical Excellence ( NICE ) and various tacit skills involved in surgical tasks and in communication with patients .
+These knowledge assets are described and evaluated the following two sections .
+6.2. Process breakdown .
+The organisation model includes a breakdown of the tasks involved in the business processes outlined in the previous section .
+For each task we identify who performs the task and where , within the organisational structure , it is performed .
+We also identify the knowledge assets used in the task , determine whether the task can be described as knowledge intensive and give a rough indication of its significance .
+The term significance is left deliberately vague in the specification of the CommonKADS methodology , as different definitions may be appropriate in different cases .
+In the present case we take the significance to be a subjective measure of the likelihood that physical patient harm would arise if the task were performed incorrectly .
+The significance is expressed as a rough numerical estimate on a scale from 0 ( least risk ) to 5 ( greatest risk ) .
+The tasks involved in the triple assessment process itself are described in Table 1. .
+Table 1. .
+Process breakdown for the triple assessment process .
+TaskPerformed byWhereKnowledge assetsKnowledge intensive?Significance Clinical examinationSurgeonBreast clinicTacit skills and , BASO , SIGN GuidelinesYes5 HistorySurgeonBreast clinicBASO , SIGN GuidelinesYes4 Genetic risk assessmentSurgeonBreast clinic ( NICE , 2004 ) 5 DemographicsBreast care nurse or surgeonBreast clinicNoneNo2 Clinical assessmentSurgeonBreast clinic ( [ BASO , 2005 ] , [ SIGN , 2005 ] , [ NCCN , 2007 ] and [ ACR , 1996 ] ) Yes5 MammographyRadiographerMammography clinic ( Breast clinic ) ( NHSBSP , 2005b ) , tacit skillsYes3 Mammo interpretationRadiologistBreast clinic ( [ NHSBSP , 2001 ] and [ NHSBSP , 2005a ] ) , tacit skillsYes5 UltrasoundRadiologistUltrasound clinic ( Breast clinic ) Tacit knowledgeYes5 US interpretationRadiologistUltrasound clinic ( Breast clinic ) ( NHSBSP , 2005a ) Yes5 Biopsy assessmentRadiologist and surgeonBreast clinic or Mammography clinic or ultrasound clinic ( [ BASO , 2005 ] , [ NCCN , 2007 ] , [ NHSBSP , 2001 ] and [ SIGN , 2005 ] ) Yes5 FNARadiologist , cytologist , or surgeonBreast clinicTacit skillsYes5 FNA interpretationCytologistCytology labTacit skills ( NHSBSP , 2001 ) Yes5 Core biopsySurgeon or radiologistBreast clinicTacit skillsYes5 Management decisionSurgeonBreast clinic ( [ BASO , 2005 ] , [ SIGN , 2005 ] and [ NCCN , 2007 ] ) Yes5 .
+Full-size table .
+View Within Article .
+6.3. Knowledge assets .
+The knowledge assets involved in the business processes are resources of such importance that they are given a section to themselves in the organisation model .
+A complete analysis lists all the knowledge assets involved in the business processes , describes which tasks they are used in , who owns them and identifies any limitations in their availability or quality .
+In particular it evaluates whether the form in which knowledge asset is provided ( e.g. paper , digital , etc. ) is appropriate to the tasks in which it is used , whether the knowledge is made available at the right places and the right times , and whether its quality is sufficient .
+The knowledge assets used in the triple assessment process have already been identified in Table 1. We shall not list them separately because very similar comments can be made about all of them .
+All of these knowledge assets are all of high quality and available at the right times and places , those assets used in the tasks for which the KBS provides support must be converted into a suitable digital form .
+6.4. Feasibility analysis .
+The Organisation model concludes with a set of initial observations on the feasibility of the proposed KBS .
+Feasibility is assessed along three axes : business feasibility , which concerns itself with the benefits , costs and business risks resulting from adoption of the KBS ; technical feasibility , which expresses the technical difficulties and risks involved ; and project feasibility which deals with the possible problems involved in acquiring the necessary commitment and resources to implement the KBS , and with the internal and external communication that will be necessary to the development process .
+In the case concerned here we might make the following initial observations .
+6.4.1. Business feasibility .
+The principal benefit resulting from adoption of the KBS proposed here would be a reduction in the number of errors arising during triple assessment .
+Garg_et_al.  have demonstrated that , in general , computerised decision support systems improve practitioners compliance with guidelines for disease management .
+A prototype implementation of the triple assessment KBS has been created , and initial trials using this implementation on paper patients have indicated that its use results in a significant reduction in the number of errors made in the triple assessment process  .
+It is likely that the business feasibility of the proposed system would depend on an electronic patient record ( EPR ) system being in existence as otherwise the costs of the data entry would be prohibitive .
+6.4.2. Technical feasibility .
+A considerable body of experience has been built up on the computerised representation of medical guidelines and many frameworks have been designed for creating such representations ( [ Hripcsak et al. , 1994 ] , [ Miksch et al. , 1997 ] , [ Musen et al. , 1996 ] , [ Ohno-Machado et al. , 1998 ] , [ Peleg et al. , 2003 ] , [ Quaglini et al. , 2000 ] and [ Sutton and Fox , 2003 ] ) .
+The PROforma language and its associated Tallis toolset have been used to encapsulate clinical guidelines in a variety of settings ( [ Bury et al. , 2004 ] , [ Humber et al. , 2000 ] and [ Sutton et al. , 2006 ] ) .
+The technical feasibility of the system is strongly linked to existence of EPR systems , as is its business feasibility .
+Trials and pilot studies are possible without such a system but comprehensive deployment of the KBS described here is likely to be impractical .
+6.4.3. Project feasibility .
+Initial consultations with clinicians participating in the first trial of the system  revealed a number of factors that would be likely to favour acceptance of the system and a number that would mitigate against such acceptance .
+There was a general agreement was that the use of the KBS would improve patient care ( 16 clinicians responded positively to this question after the trial , and 11 had become more confident after the trial ) .
+The Clinicians felt that a KBS would definitely reduce variation in practice .
+They also felt that a KBS would be helpful from medico-legal point of view , as it documents the decisions as well and underlying medical evidence .
+However some clinicians felt that the use of the KBS might slow down the process of assessment , particular if clinical staff involved were not comfortable with the use of computers , and others questioned the need for a KBS , arguing that the assessment pathways involved have already been given adequate paper definitions .
+Some clinicians also pointed out that the use of a KBS can affect the doctor - patient relationship .
+The system generally fits well with the mission , goals , principles , and strategies outlined in previous sections of the paper .
+An effective KBS has the potential to facilitate early diagnosis , uniformity in standards of care , monitoring of treatment .
+A KBS may also provide a more effective way of disseminating guidelines than a paper-based method .
+The comments elicited from clinicians however highlight the need to consider the psychosocial effects of the use of a KBS , because of the effect on the doctor - patient relationship .
+They also raise the possibility that a KBS may conflict with the aim of minimizing the time required for diagnosis , particularly if staff were not trained effectively in its use .
+6.4.4. Required changes to variant aspects .
+If the KBS is to be used the following changes would be necessary to the variant aspects identified in the preceding sections :
+People : no new roles would be created , but clinicians would need to be trained in the use of the KBS .
+Processes : the structure of the business processes would be unchanged , but the KBS would be used to provide decision support at various points , as previously described .
+Knowledge assets : the knowledge assets used during triple assessment must be analysed , and suitable PROforma Process Descriptions created from them .
+This has already been done during the creation of the KBS used in the initial trial  , and domain experts have checked that the resulting process descriptions are consistent with the original paper guidelines .
+Resources : for reasons previously mentioned , the KBS would need to be integrated with an EPR if it was to be used in a routine manner .
+7. Conceptual analysis .
+In the conceptual modelling stage of CommonKADS analysis , a knowledge model is created that describes the knowledge that the system will be required to represent and the reasoning that it will need to perform .
+The CommonKADS methodology divides knowledge intensive tasks into a number of basic types and describes a template knowledge model for each type , which can be adapted to create a knowledge model specific to the particular task ( s ) that a system must perform .
+The task to be performed by the system we consider here can be described , in CommonKADS terminology as a compound of four separate assessment tasks .
+An assessment task is one in which a case has to be assessed against a number of criteria and then placed into one of a number of categories .
+The first of the four assessment tasks that the system performs is an assessment of the patient 's genetic risk of breast cancer , classified as high ( greater than 25% lifetime risk ) , medium ( 17 - 25% lifetime risk ) , or low ( less than 17% lifetime risk ) .
+The second assessment task is the choice of appropriate imaging modalities ( mammography or ultrasound , or both , or neither ) .
+The third task is to choose what type of biopsy , if any , is appropriate .
+The final task is to choose how to manage the patient ; the options include referral to geneticist and / or referral to a multidisciplinary team meeting .
+A CommonKADS Knowledge Model has three components .
+The first component , the domain knowledge consists of a domain schema , which describes the types of knowledge that the KBS must represent , and a knowledge base describing particular instances of those knowledge types .
+The second component , the inference knowledge describes the reasoning that the KBS must be capable of performing with its knowledge .
+The third component the task knowledge describes how the system uses its reasoning and representation capabilities in order to perform the knowledge intensive task ( s ) for which it is designed .
+7.1. Domain schema .
+Each of the four assessment tasks performed by the system can be modelled using the domain schema set out in Fig. 6 , which is a simple adaptation of the schema proposed in the CommonKADS template model .
+In this model the patient state is decomposed into a set of separate patient data .
+These data can be interpreted as providing a set of Arguments for or against various decision candidates .
+Full-size image ( 21K )
+Fig. 6. Domain schema .
+View Within Article .
+An Argument includes a warrant , which describes the reasons for applying the argument ; a backing , which identifies research findings or guidelines supporting the argument ; an evidencegrade that indicates the strength of the evidence in favour of the argument ; and a weight that describes the importance to be given to the argument when choosing a Decision Candidate ( for instance some arguments may be sufficient by themselves to require or to rule out a particular candidate , others need to be considered alongside other arguments ) .
+As an example , an Argument against performing mammography applies if a patient 's age is less than 30. The warrants for this argument are the increased risk of radiation hazards and the very low sensitivity of mammography in this age group .
+The backing is a British Association of Surgical Oncology ( BASO ) guideline document which makes this recommendation .
+The evidence grade is III ( meaning that it is supported by well designed , non-experimental descriptive studies , e.g. case control studies , or correlation studies ) .
+The weight of the argument is that it is an absolute contraindication .
+The schema shown in Fig. 6 uses CommonKADS graphical language , which is an extension of the Unified Modelling Language ( UML ) ( Rumbaugh , Jacobson , Booch , 2001 ) .
+The principal extension made to the UML is the introduction of rule types , which are represented as ovals .
+A rule type represents a set of constraints that exist on the relationships between instances of classes in the schema .
+The rule type argumentation rules represents the set of constraints that determine whether a given argument is relevant , given the patient state .
+The decision rules are the set of constraints that determine whether a given decision candidate should be adopted given the arguments for and against that candidate .
+7.2. Knowledge base .
+The knowledge base for the KBS consists of instances of the Argument and Decision Candidate classes , along with instances of the two rule types in the diagram .
+As an example , the knowledge base for the second of the two assessment tasks that the system must perform , that of choosing an appropriate imaging modality , includes the following instances ( among many others ) : - An instance of the Decision Candidate class representing the option of performing a mammography on both breasts .
+- An instance of the argument class that would become relevant if the woman was at high genetic risk of breast cancer , and over 30 years old .
+- An instance of the decision rules type indicating that the argument above would be sufficient for the aforementioned candidate to be recommended , so long as there were no countervailing arguments such as the possibility of the patient being pregnant .
+7.3. Inference knowledge .
+The inference knowledge section describes the reasoning steps that the KBS must be able to perform .
+The inference knowledge for the system considered here can be described using the inference structure described in Fig. 7 , which is adapted from the CommonKADS template model for assessment tasks .
+Full-size image ( 15K )
+Fig. 7. Inference structure .
+View Within Article .
+The ovals in the figure represent the inferences that the system must be capable of performing .
+Specifically : - Given a patient state , the system must be capable of working out which arguments need to be evaluated .
+This is represented by the Specify inference .
+- The system must be capable of evaluating those arguments to see if they are true or not .
+This is represented by the Evaluate inference .
+- The system must be capable of using the evaluated arguments to arrive at appropriate decision candidate ( s ) , as represented by the Match inference .
+7.4. Task knowledge .
+The task knowledge section of the knowledge model describes the goals of the tasks that the KBS is required to perform , and the methods that it is required to adopt in order to achieve these goals .
+The goals of the four tasks performed by the triple assessment system have already been outlined .
+They are to make evidence-based assessments of the genetic risk that the patient runs , the appropriate imaging and biopsies to perform , and the strategy for managing the patient .
+These tasks can each be achieved by a straightforward combination of the inferences described in Fig. 7 , in which appropriate arguments are specified and then evaluated until sufficient data is available for the Match inference to arrive at a decision candidate for the task being performed .
+8. Design .
+The CommonKADS methodology describes a strategy for transforming the requirements identified in the conceptual modelling phase into a design for a KBS .
+We first identify the general software architecture for the system , and the hardware and software on which this architecture is to be implemented .
+Then we decompose the architecture into separate components and describe how the elements identified during conceptual analysis ( e.g. domain schemata , and inferences ) can be implemented within this architecture .
+The methodology includes worksheets that can be used to control the various phases in this process .
+For the prototype version of the system a Model-View-Controller architecture has been adopted , with the model implemented using the Tallis implementation of PROforma and the view and controller implemented using Java Server Pages , Servlets , Javascript and Cascading Style Sheets. Fig. 8 shows a screenshot of the system .
+Full-size image ( 46K )
+Fig. 8. Screenshot of prototype system .
+View Within Article .
+In order to construct the system it is necessary to translate the elements identified during conceptual modelling ( domain schemata , knowledge bases , inferences , and task methods ) into PROforma tasks , candidates , and arguments .
+For the most part this is a straightforward exercise since the four assessment tasks , the decision candidates , and the arguments identified in conceptual analysis can be mapped fairly directly into PROforma tasks arguments and candidates .
+However , some problems occur when translating CommonKADS rules into PROforma due to limitations in the way that PROforma uses arguments to arrive at decisions .
+For instance PROforma does not allow an argument to be associated with more than one candidate , which means that it is difficult to represent cases where an argument in favour of one candidate is an argument against another .
+9. Discussion .
+We have used the CommonKADS methodology to analyse the requirements and design of a KBS that was implemented using the PROforma knowledge representation language .
+This exercise reveals some strengths and weaknesses of both the methodology and the knowledge representation language .
+A major advantage to the use of the CommonKADS methodology lies in the emphasis that it places on analysis of the organisation that will use a KBS , and the clear picture that is generated of the aims , strategies , business processes , and knowledge assets of the organisation .
+This allows knowledge engineers and project managers to arrive at well informed judgements of the feasibility of a KBS and of the best way of integrating it into the organisation 's operations .
+This is of particular importance in cases , such as that considered here , where the KBS will form a part of a much larger process involving many separate participants .
+However , the methodology is not specifically designed for medical systems and may require some extension if it is to deal with them .
+In particular , when intervening medically it is necessary to produce hard evidence for the efficacy of such an intervention , usually in the form of a clinical trial .
+This means that the feasibility analysis that takes place during contextual analysis should , ideally , include an analysis of whether such a trial is in fact possible , dealing with questions such as whether it is feasible to recruit sufficient numbers of patients into a trial .
+In general the PROforma language proved well-adapted to the project described in this paper .
+The tasks that the KBS is required to perform are assessment tasks that involve a choice between a set of pre-determined candidates .
+PROforma is well suited to such tasks because they can be directly represented using the Argument , Candidate , and Decision classes , as described in Fig. 2. .
+Some problems occur when PROforma is used to represent operations that require the examination of sets of complex entities .
+An example of this can be seen if we consider the knowledge representation requirements for the first of the assessment tasks which the KBS must perform - that of assessing the patient 's genetic risk .
+The arguments and argumentation rules for this task require examination of the medical histories of the patient 's relatives .
+For example if a patient has two second degree relatives who were diagnosed with breast cancer before the age of 50 then this would be considered as an argument for assessing her to be at medium risk ( provided that there were no arguments for assessing the degree of risk to be higher ) .
+PROforma 's data structure allows for data items with simple scalar values ( e.g. integers , real numbers , or text strings ) .
+It also allows for data items whose values are sets of simple values ( e.g. sets of integers , etc. ) .
+However , when we consider a patient 's relatives it is natural to regard each relative as a complex entity , that is to say an entity with properties such as date of birth , date of diagnosis ( if any ) and so on .
+The risk can be most easily calculated by evaluating a set of such entities to determine how many of them possess particular properties .
+Because PROforma lacks facilities to represent such sets of entities the representation of the argumentation involved in genetic risk assessment is somewhat clumsy .
+A similar problem arises when it is necessary to represent the lesions revealed during examination of the patient .
+A lesion would naturally be represented as a complex entity and the patient might have a set of such lesions .
+The resultant complexity of the PROforma expressions used to reason over collections of entities creates difficulties when one attempts to verify that the implementation correctly implements the requirements of the system .
+However , there is no inherent reason why the PROforma language could not be extended to represent sets of complex entities and expressions that involve querying such sets .
+The weaknesses discussed in this section might therefore best be considered as signs that PROforma requires further development rather than as evidence of any basic structural problem .
+10. Conclusions .
+The CommonKADS analysis of the KBS described in this feature has clarified its reasoning and knowledge representation requirements .
+It has also enabled a clear picture to be built up of the manner in which the KBS would fit in to existing business processes , and allows us to reason about the feasibility of adopting it .
+The feasibility of the system is dependent on the availability of suitable EPR systems .
+It is also necessary to address the training of users and the usability of the interface in order to ensure that its use does not slow down the assessment of patients .
+There are limitations in the expressiveness of the PROforma language that may create problems in ensuring that a PROforma implementation correctly implements the reasoning requirements of the system .
+If the problems described in the previous paragraph can be overcome , a KBS along the lines described in this paper could provide useful assistance in meeting the stated objectives of early diagnosis , uniformity in standards of care , and monitoring of treatment .

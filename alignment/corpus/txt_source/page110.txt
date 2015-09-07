@@ -1,0 +1,88 @@
+Le cancer du sein représente en France , comme dans tous les pays occidentaux , la première cause de mortalité par cancer chez la femme ( 28 / 100 000 habitants ) , soit 19,7 % des décès par cancer .
+Les facteurs de pronostic du cancer du sein sont nombreux , complexes et souvent liés entre eux .
+Le dépistage et le diagnostic sont rendus plus précoce d'_une_part grâce_à l' information et à l' éducation du public , et d' autre_part en raison des progrès de l' imagerie , en_particulier pour les tumeurs de petite taille et les récidives précoces .
+Mais , les cancers du sein ont une évolution souvent déroutante : il existe des formes qui évolueront de façon très favorable et , au_contraire , certaines qui seront rapidement métastatiques .
+Il est donc intéressant de mettre en évidence des critères cliniques et histopathologiques qui permettront de distinguer les patientes à pronostic très favorable , qui bénéficieront de thérapeutiques « allégées » , des patientes à pronostic d'_emblée défavorable qui devront être « lourdement traitées » .
+2. Circonstances de découverte et diagnostic du cancer du sein
+Les circonstances de diagnostic d' une tumeur sont le_plus_souvent le fait de la découverte d' un nodule par la patiente ou lors d' un examen médical systématique .
+Le dépistage des cancers du sein a pour objectif de permettre que soient découvertes les tumeurs à un stade infraclinique ( taille 10 mm ) .
+Le rythme admis en France est d' une mammographie tous les deux ans après 50 ans .
+Pour les tumeurs palpables , le diagnostic est fait par le triplet : clinique , mammographie , microbiopsie .
+Pour les tumeurs non palpables , la biopsie par mammotome permet le_plus_souvent le diagnostic .
+Au terme du bilan préthérapeutique , le cancer du sein doit être classé dans un système qui permette de constituer des groupes de pronostic homogène .
+Cette classification conditionnera les séquences thérapeutiques optimales ainsi_que la prise en charge des patients .
+L' examen anatomopathologique est primordial puisqu' il est le seul qui permette d' affirmer avec certitude le diagnostic de malignité d' une tumeur .
+À partir d' une biopsie et / ou de la pièce d' exérèse chirurgicale , la classification dans le système TNM ( T : tumeur primitive , N : adénopathies régionales , M : métastases à distance ) est la plus couramment utilisée .
+Les facteurs pronostiques principalement retenus sont : - la taille anatomique de la tumeur selon son plus grand diamètre ;
+Taille de la tumeur ( cm ) Survie à 10 ans ( % ) 275 2 - 367 4 - 546641
+Full-size table
+View Within Article
+- le nombre de ganglions envahis : la_plupart des auteurs admettent un seuil au-delà_de trois ganglions permettant de classer les patientes à pronostic de_plus_en_plus péjoratifs : N - , N+ ( 1 à 3 ganglions ) , N+ ( 3 ganglions ) ;
+- le grade histopronostique le plus utilisé est celui de Scarff et Bloom qui tient compte de la différenciation tumorale , de l' anisocaryose et de l' activité mitotique .
+Survie à cinq ans en fonction du grade histopronostic et de l' envahissement ganglionnaire
+GradeN- ( % ) N+ ( % ) I8668 II6833 III6419
+Full-size table
+View Within Article
+La présence de récepteurs hormonaux ( aux estrogènes et à la progestérone ) ainsi_que la surexpression de HER2 , permettront d' élargir l' arsenal thérapeutique disponible grâce_à l' utilisation de molécules cibles que sont l' hormonothérapie et le trastuzumab .
+La biologie n' est réalisée qu' au moment du diagnostic , puisqu' elle n' a aucune valeur en dépistage , le taux initial de CA 15,3 est un facteur pronostique reconnu .
+Un taux de CA 15,3 50 UI / L est un bon indicateur du risque métastatique motivant une exploration ciblée du bilan d' extension initial .
+À ces critères reconnus et validés viennent s' ajouter d' autres marqueurs en cours d' évaluation clinique et biologique tels_que des témoins de prolifération ( Mib1 ou Ki67 ) , la présence de gènes de susceptibilité ( BRCA1-BRCA2 ) , d' oncogènes , de facteurs de croissance , de marqueurs de la néoangiogenèse ( uPA , PAI1 ) , de marqueurs de chimiorésistance ( hmdr1 )
+C' est dans ce cadre là que le c-erbB2 ou HER2 / neu , récepteur transmembranaire de la famille des récepteurs des facteurs de croissance ( EGFR ) , trouve toute sa place  .
+3. Rôle de cerb-B2 ou HER2
+Le cerb-B2 est présent à la surface des cellules normales où il participe à la croissance et à la différenciation cellulaire .
+La protéine cerb-B2 de 185 KDa ou p185 est codée par le gène cerb-B2 ou HER2 / neu , proto oncogène situé sur le bras long du chromosome 17 ( 17q21.1 )  .
+Des études in_vitro et in_vivo ont démontré le rôle de HER2 à différents niveaux du processus tumoral : - la prolifération cellulaire ;
+- la transformation maligne de lignées cellulaires en culture ;
+- la mobilité cellulaire ( élément déterminant dans le potentiel métastatique des cellules tumorales ) .
+L' amplification et / ou la surexpression de HER2 serait une des causes de transformation cancéreuse des cellules par un mécanisme de potentialisation de la croissance cellulaire .
+HER2 se comporterait donc comme un amplificateur de signaux de la croissance cellulaire par l' intermédiaire de son activité tyrosine kinase intrinsèque lors d' une liaison avec un autre récepteur de la famille HER ou lors_de sa surexpression , par la formation possible de dimères HER2 - HER2  .
+L' intérêt de HER2 est de disposer d' un anticorps thérapeutique , appelé trastuzumab et commercialisé par le laboratoire Roche sous le nom d' Herceptin .
+Le trastuzumab est un anticorps monoclonal dirigé contre le domaine extracellulaire du récepteur HER2 utilisé dans le cancer du sein métastatique avec surexpression tumorale de HER2 , surexpression classée +++ en immunohistochimie ( IHC )  .
+4. Détection anatomopathologique
+La détection de l' amplification et / ou la surexpression de HER2 fait appel à deux méthodes : l' IHC ( immunohistochimie ) et la FISH ( hybridation in_situ par fluorescence ) qui permettent l' orientation thérapeutique .
+L' IHC est une technique rapide et peu onéreuse qui est effectuée sur une partie de la pièce tumorale après biopsie .
+Cette technique présente comme inconvénient d' être opérateur dépendant .
+Malgré les contrôles externes , la reproductibilité est faible .
+Il existe également des problèmes de standardisation du fait que de nombreux anticorps sont disponibles sur le marché avec des protocoles différant notamment quant_à la fixation de l' échantillon .
+L' expression du résultat est semi-quantitative .
+Seule une surexpression classée +++ , permet de bénéficier de la thérapeutique ciblée .
+Le signal immunohistochimique spécifique est un marquage membranaire des cellules néoplasiques par un anticorps couplé à un chromogène .
+Le test reconnu par la FDA ( Food and Drug Administration ) pour évaluer la surexpression de HER2 est l' Herceptest commercialisé par le laboratoire Dako  .
+La technique FISH quant_à elle , est très sensible , elle utilise des sondes antisens marquées et spécifiques d' une séquence du gène HER2 .
+Le marqueur est lui-même reconnu par un anticorps spécifique permettant de visualiser sa fixation .
+On parle d' amplification pour un nombre de copies de gène supérieur à 5 ou 10. Cette technique est délicate , longue , nécessite un appareillage spécifique et coteux .
+Elle permet cependant de lever l' ambiguïté lorsqu' il y a un doute entre une surexpression ++ et +++ en IHC .
+L' amplification et / ou la surexpression du récepteur HER2 est retrouvée dans 15 à 30 % des cancers du sein .
+Toutefois , elle n' est pas spécifique du cancer du sein , puisqu' on la retrouve dans le cancer de la prostate , de l' ovaire , de l' estomac , de l' endomètre , et dans l' adénome non à petites cellules du poumon .
+Plusieurs études ont montré que la présence d' une surexpression et / ou d' une amplification de HER2 dans les cancers du sein est un signe de mauvais pronostic .
+En effet , les tumeurs qui surexpriment initialement HER2 sont plus agressives , douées d' un potentiel métastatique plus important et sont moins sensibles aux traitements hormonaux et / ou à la chimiothérapie  .
+Dans le cancer du sein de nombreux facteurs de mauvais pronostics ont ainsi été mis en évidence .
+La taille importante de la tumeur initiale , l' invasion ganglionnaire , la présence dès le diagnostic initial de métastases , un haut grade histologique , l' absence de récepteurs hormonaux ou encore le jeune âge de la patiente ( 35 ans au diagnostic ) en font partie .
+HER2 est corrélé statistiquement à tous ces facteurs .
+5. Détection périphérique
+L' élévation des marqueurs tumoraux apparaît dès_que la tumeur compte environ 106 cellules alors_que les signes en imagerie conventionnelle n' apparaîtront qu' autour_de 109 à 1012 cellules .
+Une amplification ou une surexpression de HER2 au niveau du sein précancéreux , c' est-à-dire dans les cas de carcinomes in_situ peu différenciés a été montrée  .
+Le dosage sérique du domaine extracellulaire de HER2 ( ECD ou p105 ) représente un potentiel supplémentaire dans la prise en charge de la patiente .
+Le domaine extracellulaire serait clivé par des protéases puis libéré au niveau de la circulation sanguine  .
+Il faut toutefois noter qu' il n' a pas été démontré de corrélation entre l' expression de HER2 au niveau de la tumeur et la libération du fragment extramembranaire dans la circulation sanguine , ce qui expliquerait en_partie les divergences observées entre l' IHC ou la FISH et le dosage sérique .
+Ce nouvel outil biologique reste actuellement en cours d' évaluation  .
+Cette approche présente l' avantage de pouvoir effectuer un suivi des patientes grâce_à des prélèvements itératifs tout au_long_de l' évolution de la maladie et ne donne pas uniquement comme l' IHC une indication du statut de la patiente à un instant « t » .
+Son intérêt semblerait résider surtout dans le monitoring du suivi de l' efficacité thérapeutique .
+En effet , parmi les patientes sélectionnées en fonction du critère de surexpression de HER2 sur la pièce d' exérèse initiale , seules 20 à 30 % vont répondre au traitement  .
+Il pourrait donc permettre d' évaluer la qualité de la réponse à la thérapeutique , de prédire rapidement une résistance à la thérapeutique et d' informer de manière précoce sur les rechutes  .
+De plus , l' action de l' Herceptin est potentialisée par l' association avec d' autres chimiothérapies ( Taxol , Navelbine , Carboplatine , Gemzar , Méthotrexate ) .
+L' échappement thérapeutique peut donc concerner l' Herceptin mais_aussi l' association .
+Le dosage sérique de HER2 pourrait également permettre de moduler l' alternative thérapeutique en fonction du profil biologique du patient .
+Par ailleurs , il a été rapporté dans la littérature des cas de tumeurs primitives ne surexprimant pas HER2 en IHC , qui ont développé ultérieurement , concomitamment à l' apparition de métastases , une augmentation du taux circulant du HER2 .
+Ce statut pourrait donc évoluer avec la progression de la maladie .
+Nous avons à notre disposition des techniques immunoenzymatiques pour évaluer la concentration sérique de HER2 .
+Mais actuellement , il n' existe pas de technique de référence .
+Les techniques Elisa utilisent des anticorps monoclonaux ou polyclonaux dirigés contre différents épitopes de la protéine p185 .
+Le domaine extracellulaire comporte cinq épitopes différents et on note qu' il existe quatre sub-domaines pour le domaine extracellulaire L1 , CDR1 , L2 et CRD2  .
+6. Conclusion
+Dans la mesure où la seule surexpression de HER2 sur la pièce tumorale n' est pas suffisante pour prédire l' efficacité de la thérapeutique plusieurs alternatives sont proposées .
+Parmi elles , l' association de plusieurs anticorps pour cerner la progression tumorale , tels le pertuzumab commercialisé sous le nom d' Omnitarg , qui est également un Ac monoclonal anti-HER2 mais qui n' inhibe pas le clivage du récepteur car son site de fixation est différent de celui de l' Herceptin .
+Ce type d' approche est certes satisfaisant mais à quel cot surtout dans le contexte actuel .
+La recherche d' outils diagnostiques susceptibles d' optimiser la sélection du patient sensible au traitement doit être développée et encouragée .
+L' évaluation de la cible biologique est tout_à_fait pertinente dans la mesure où de nombreuses thérapeutiques voient actuellement le jour fondées sur ce ciblage de molécules biologiques impliquées dans la progression tumorale .
+Ce type d' approche doit se répandre et les biologistes doivent s' impliquer pour mettre à la disposition des cliniciens de nouveaux outils diagnostiques validés

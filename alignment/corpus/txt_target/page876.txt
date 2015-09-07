@@ -1,0 +1,191 @@
+Few published studies provide information on breast cancer screening practices with respect to Chamorros , the indigenous population of Guam .
+However , the behavioral risk factor surveillance system , initiated by the centers for disease control , has tracked female cancer screening tests on Guam since l991 .
+This information indicates that mammography use has increased steadily with women over 50 years of age reporting the highest rate ( 80.9% within the previous two years ) in 2003 ( Naval CL. Guam behavioral risk factor surveillance system. Agana : Guam Department of Public Health and Social Service , Unpublished 2003 ) .
+Elsewhere in this issue , Balajadia and colleagues found that 83.3% of Chamorro women over the age of 50 years on Guam reported mammography use within the previous two years .
+These rates are higher than in other Pacific Islander populations .
+For example , only 59% of native Hawaiians  and 16.9% of American Samoans  over the age of 40 years reported receiving mammograms within that time frame .
+However , little is known about breast cancer screening practices among Chamorro women who live on the US mainland .
+This is an important research question because breast cancer is the leading cause of death for Chamorro women on Guam between the ages of 20 and 59  and because immigration patterns to the US mainland warrant attention to this question .
+Since 1950 and the signing of the Guam organic Act , which bestowed US citizenship to residents of Guam , there has been a continuing migration of Chamorros and their families to the US mainland , particularly to California and other western states  .
+The migration has been stimulated by many factors including the depressed economy of Guam and a government sponsored attrition program that offered early retirement and buy-out options to employees .
+In addition , a large number of Chamorros relocated to the San Diego area , with its numerous military facilities , due to military relocation and base closures .
+This city has been a desirable location because of the existing Chamorro population , nearby military installations , and proximity to international airports for return flights to Guam .
+Indeed , San Diego is home to the largest group of Chamorros on the mainland ( 4,875 of the 49,345 Chamorros living on the mainland )  .
+An estimated 50% of Chamorros in San Diego are associated with the military as active duty , reserve , retired , spouse or dependent .
+Pertinent to the current study , the military provides excellent health insurance coverage and its medical centers and clinics conduct breast health seminars and monitors use of mammograms , factors that could encourage breast cancer screening .
+Based on the relatively high rates of screening mammography and the strong affiliation with the military among Chamorros , our research group postulated that these factors could be connected .
+Therefore , the purpose of the present study is two fold : ( 1 ) to assess knowledge , attitudes , and breast cancer screening behaviors among Chamorro women in San Diego and ( 2 ) to determine whether affiliation with the military as well as knowledge , attitudes , and behaviors related to breast cancers were associated with the use of mammograms .
+2. Methods .
+We conducted a self-administered survey among 110 self-reported Chamorro women in San Diego , California to achieve the study objectives .
+In preparation for the survey , we conducted two focus groups to determine knowledge and attitudes about cancers that might be unique to Chamorro women .
+Participants responses were used as a supplement in developing culturally relevant questions for the survey .
+The University of California Irvine human subjects review committee approved the protocol for the study .
+2.1. Research design and sampling strategy .
+Using the snowball sampling method  , the participants were recruited through the sons and daughters of Guam club ( SDGC ) as well as the Fiesta groups .
+The SDGC participated in the Pacific Islander cancer control network ( PICCN )  which provided support for this pilot research project .
+Inclusion criteria included being self-reported Chamorro female over the age of 40 years with no history of breast cancer .
+They were also asked whether they were associated with the military in order to recruit an even number of participants with and without military affiliation based on a priori assumption that access to breast cancer screening may differ between the two groups .
+Women who were interested in participating were invited to social gatherings where they completed the survey .
+Written informed consent was obtained prior to questionnaire administration .
+2.2. Survey instrument .
+The survey instrument contained questions derived from the national health interview survey ( NHIS ) , the NHIS cancer control supplement  , and focus group results .
+The survey included knowledge , attitude and behavior questions specific to breast cancer , in addition to mammography utilization and demographic information .
+Each knowledge question was scored on a 5 point Likert-type scale where 1 = Strongly disagree , 2 = Somewhat disagree , 3 = Somewhat agree , 4 = Strongly agree , and 88 = Don't Know .
+The attitudinal questions measured important concepts in cancer control such as beliefs about the importance of early detection and prevention of cancer and fear of the disease .
+The attitudinal questions employed a 4 point Likert-type scale including Don't Know .
+Questions of cancer-related knowledge and attitudes were dichotomized ( i.e. , Disagree versus Agree ; Important versus Not important ) .
+The five-level outcome variable assessing most recent mammogram was dichotomized to Yes or No with respect to having had a mammogram in the past 2 years .
+The Don't Know response was included in all bivariate analyses since in this context this response option likely reflects the true status of the respondents knowledge or attitudes for those who actually have no knowledge or attitudes about a given issue  .
+2.3. Statistical analysis .
+Descriptive statistics were calculated for participants socioeconomic variables , health status , access to medical care and breast cancer related knowledge , attitudes and screening behaviors .
+An initial analysis revealed that only minor differences in these variables existed between respondents with and without military affiliation .
+Therefore , we combined the responses for presentation in the results section , pointing out differences when they existed .
+The bivariate associations between the aforementioned variables and the use of mammography within the past two years were examined using 2. For predictor variables that have more than two levels , a series of post-hoc analyses of 2 2 contingency tables were conducted to examine the source ( s ) of difference for all combinations of the levels .
+To guard against type I error inflation , we adapted Bonferroni correction by setting the significant level at = /n , where n is the number of post-hoc analyses  .
+Results for bivariate associations were based upon different sample sizes as varying number of respondents answered different survey items .
+3. Results .
+Table 1 presents the sociodemographic characteristics of 110 Chamorro females residing in San Diego country .
+By design , approximately half ( 50.9% ) of the women had been affiliated with the military .
+Among those , most had affiliation through their spouses ( 37.5% ) , and very few were on active duty ( 7.1% ) .
+The majority of respondents ( 86.4% ) were born in Guam .
+More than half of the women were less than 60 years old and had at least some college education ( 42.2% ) .
+The majority were married ( 55.5% ) and not currently employed ( 55.6% ) .
+Over 87% reported that they had some form of health insurance .
+Table 1. .
+Sociodemographic characteristics ( N = 110 )
+VariableN ( % ) Totala Place of birthGuam95 ( 86.4 ) 110 US mainland12 ( 10.9 ) Other3 ( 2.7 ) Age ( yrs ) 5032 ( 29.4 ) 10950 - 5930 ( 27.5 ) 6047 ( 43.1 ) EducationLess than high school21 ( 19.3 ) 109 High school graduate42 ( 38.5 ) Some college +46 ( 42.2 ) Household income $25 K22 ( 25.2 ) 87 $25 K - $49,99920 ( 23.0 ) $50 K45 ( 51.7 ) Ever been affiliated with militaryYes56 ( 50.9 ) 110 Active duty4 ( 7.1 ) Reserve / Active duty2 ( 3.6 ) Served in the military3 ( 5.4 ) Spouse served in the military21 ( 37.5 ) Dependent12 ( 21.4 ) Did not list type of affiliation14 ( 25.0 ) No54 ( 49.1 ) Employment statusCurrently employed48 ( 44.4 ) 108 Not employed60 ( 55.6 ) Marital statusMarried / common law61 ( 55.5 ) 110 Separated/divorced / widowed45 ( 40.9 ) Never married4 ( 3.6 ) Any language spoken other than EnglishYes71 ( 66.4 ) 107 No36 ( 33.6 ) In general what language do you read and speak?Only Chamorro0 ( 0.0 ) 109 Chamorro better than English8 ( 7.3 ) Both equally43 ( 39.1 ) English better than Chamorro26 ( 23.6 ) Only English32 ( 29.1 ) Any form of health insuranceYes96 ( 87.3 ) 110 No14 ( 12.7 ) Type of health insuranceGovernment sponsored program11 ( 10.0 ) 110 Military ( CHAMPUS , VA , Tricare ) 15 ( 13.6 ) Private insurance32 ( 29.1 ) More than one kind38 ( 34.5 ) No insurance14 ( 12.7 )
+Full-size table .
+a The totals indicate the number of respondents who answered the question for each variable .
+Some percentages may not total to 100% due to rounding errors .
+View Within Article .
+The levels of access to medical care were notable .
+Specifically , 91.7% indicated that they had a regular source of medical care , and 86.1% reported that they visited the place of their usual source of care less than a year ago .
+The most common site of usual source of care was a doctor 's office .
+Table 2. .
+Health status and access to medical care ( N = 110 )
+VariableN ( % ) a Health status109 Poor3 ( 2.7 ) Fair19 ( 17.4 ) Good37 ( 33.9 ) Very good34 ( 31.2 ) Excellent16 ( 14.7 )
+General access to medical care110 Excellent50 ( 45.5 ) Very good27 ( 24.5 ) Good29 ( 26.4 ) Fair2 ( 1.8 ) Poor2 ( 1.8 )
+Have a usual source of medical care109 Yes100 ( 91.7 ) No9 ( 8.3 )
+Type of usual source of care109 Doctor 's office66 ( 60.5 ) Hospital emergence room7 ( 6.4 ) Hospital outpatient clinic10 ( 9.2 ) Health center3 ( 2.7 ) Health maintenance organization18 ( 16.5 ) Other5 ( 4.6 )
+Last time visited usual source of care108 Less than one year ago93 ( 86.1 ) 1 - 2 Years ago7 ( 6.5 ) 2 - 3 Years ago5 ( 4.6 ) More than 3 years ago3 ( 2.8 )
+Full-size table .
+a The totals indicate the number of respondents who answered the question for each variable .
+Some percentages may not total to 100% due to rounding errors .
+View Within Article .
+Specific to participants knowledge about cancer in general , about 85% reported that if cancer is detected early , the cure is likely .
+Likewise , the large majority ( 83.3% ) would undergo painful or unpleasant treatment if it would improve her chances of living longer .
+Of note , few respondents believed that cancer is caused by taotaomonas ( spirits ) ( 4.6% ) or that a suruhano ( traditional healer ) can treat cancer ( 16.7% ) .
+However over one third ( 34.6% ) believed that cancer is Inaen Yu'us ( God given ) .
+Table 3. .
+Knowledge and attitudes about cancer in general ( N = 110 )
+VariableN ( % ) a If cancer was detected early , how likely can it be cured109a Likely93 ( 85.3 ) Not likely2 ( 1.8 ) Do not know14 ( 12.8 )
+I would rather not know if I had cancer110 Agree16 ( 14.5 ) Disagree90 ( 81.8 ) Do not know4 ( 3.6 )
+Cancer is caused by taotaomonas ( spirits ) 109 Agree5 ( 4.6 ) Disagree92 ( 84.4 ) Do not know12 ( 11.0 ) Getting cancer is Nina'in Yu'us ( God given ) 107 Agree37 ( 34.6 ) Disagree61 ( 57.0 ) Do not know9 ( 8.4 )
+One can get cancer because of past deeds106 Agree11 ( 10.4 ) Disagree89 ( 84.0 ) Do not know6 ( 5.6 )
+At my age I do not need to worry about cancer108 Agree11 ( 10.2 ) Disagree92 ( 85.2 ) Do not know5 ( 4.6 )
+Cancer is spread through the air108 Agree17 ( 15.7 ) Disagree79 ( 73.1 ) Do not know12 ( 11.1 )
+A suruhano ( traditional healer ) can treat cancer108 Agree18 ( 16.7 ) Disagree69 ( 63.9 ) Do not know21 ( 19.4 )
+My faith in God will cure my cancer104 Agree61 ( 58.6 ) Disagree36 ( 34.6 ) Do not know7 ( 6.7 )
+Cancer is brought to the Chamorro by foreigners110 Agree10 ( 9.1 ) Disagree89 ( 80.9 ) Do not know11 ( 10.0 )
+My faith in God will help me not get cancer109 Agree40 ( 36.7 ) Disagree62 ( 56.9 ) Do not know7 ( 6.4 )
+People get cancer because they neglect their health107 Agree50 ( 46.7 ) Disagree53 ( 49.5 ) Do not know4 ( 3.7 )
+God gives power to medical doctors to treat cancer108 Agree55 ( 50.9 ) Disagree44 ( 40.7 ) Do not know9 ( 8.3 )
+I would undergo painful or unpleasant treatment if it would improve my chances of living longer108 Agree90 ( 83.3 ) Disagree15 ( 13.9 ) Do not know3 ( 2.8 )
+Cancer is caused by environmental factors107 Agree68 ( 63.5 ) Disagree20 ( 18.7 ) Do not know19 ( 17.7 )
+Cancer is caused by smoking110 Agree84 ( 76.4 ) Disagree19 ( 17.3 ) Do not know7 ( 6.4 )
+Cancer is caused by diet110 Agree68 ( 61.8 ) Disagree30 ( 27.3 ) Do not know12 ( 10.9 )
+Full-size table .
+a The totals indicate the number of respondents who answered the question for each variable .
+Some may not total to 100% due to rounding errors .
+View Within Article .
+The majority of the Chamorro women agreed that aging ( 52.9% ) , diet high in fat ( 65.4% ) , and having a blood relative with breast cancer ( 68.5% ) increased a woman 's risk of getting breast cancer .
+Furthermore , most of the women agreed that using birth control pills ( 37.4% ) and being exposed to medical X-ray ( 47.2% ) increased a woman 's risk of getting breast cancer .
+In contrast , the majority of Chamorro women disagreed that giving birth to first child after age 30 ( 25.0% ) or starting menses before age 12 ( 14.6% ) were related to increased risk of breast cancer .
+Approximately one third ( 34.9% ) of respondents believed that trauma to the breast increased the risk of breast cancer .
+Table 4. .
+Knowledge and attitudes about breast cancer risk factors ( N = 110 )
+VariableN ( % ) a Getting older increases risk of getting breast cancerb106 Agree55 ( 52.9 ) Disagree36 ( 34.6 ) Do not know13 ( 12.3 )
+Diet high in fat increases risk of getting breast cancerb107 Agree70 ( 65.4 ) Disagree20 ( 18.7 ) Do not know17 ( 15.9 )
+Giving birth to the first child after age 30 increases risk of getting breast cancerb104 Agree26 ( 25.0 ) Disagree56 ( 53.8 ) Do not know22 ( 21.1 )
+Having a blood relative with breast cancer increases risk of getting breast cancerb108 Agree74 ( 68.5 ) Disagree25 ( 23.1 ) Do not know9 ( 8.3 )
+Using birth control pills increases risk of getting breast cancerb107 Agree40 ( 37.4 ) Disagree36 ( 33.6 ) Do not know31 ( 29.0 )
+Being exposed to medical X-rays increases risk of getting breast cancerb106 Agree50 ( 47.2 ) Disagree35 ( 33.0 ) Do not know21 ( 19.8 )
+Starting menstruation before age 12 increases risk of getting breast cancerb103 Agree15 ( 14.6 ) Disagree54 ( 52.4 ) Do not know34 ( 33.0 )
+Trauma to breast increases risk of getting breast cancerc106 Agree37 ( 34.9 ) Disagree37 ( 34.9 ) Do not know32 ( 20.2 )
+Active / excessive sexual stimulation of breastc106 Agree16 ( 15.1 ) Disagree63 ( 59.4 ) Do not know27 ( 25.5 )
+Full-size table .
+a The totals indicate the number of respondents who answered the question for each variable .
+Some percentages may not total to 100% due to rounding errors .
+b Accepted as a risk factor by the biomedical community .
+c Not accepted as a risk factor by the biomedical community .
+View Within Article .
+Table 5 presents the results regarding breast cancer screening knowledge and behaviors .
+The prevalence rate for mammogram use ( i.e. , ever having a mammogram ) was 92.7% and the rate for having the most recent mammogram within the past two years was 75.9% .
+Of those 50 years and older ( N = 76 ) , 79% reported having had the most recent mammogram within the past two years .
+The large majority believed that a mammogram could detect breast cancer in its early stages ( 93.1% ) and that a mammogram is very accurate or somewhat accurate in finding a lump ( 89.6% ) .
+Table 5. .
+Knowledge and behaviors regarding breast cancer screening ( N = 110 )
+VariableN ( % ) a Ever heard of mammogram110 Yes108 ( 98.2 ) No2 ( 1.8 ) Ever had mammogram110 Yes102 ( 92.7 ) No8 ( 7.3 )
+Most recent mammogram108 Within the last 12 months61 ( 56.5 ) 1 - 2 years ago21 ( 19.4 ) 2 - 5 years ago13 ( 12.0 ) 5 or more years ago5 ( 4.6 ) Never8 ( 7.4 )
+Who made the decision of having mammogram98 On my own36 ( 36.7 ) Doctor 's order28 ( 28.6 ) Both me and my doctor34 ( 34.7 )
+How frequently should a woman without symptoms have mammogram?109 Every 6 months6 ( 5.5 ) Every year68 ( 62.4 ) Every 2 - 3 years20 ( 18.3 ) Every 3 years or more6 ( 5.5 ) Do not know8 ( 7.4 )
+The age doctors recommend a woman should start having mammogram107 20 - 3016 ( 14.9 ) 31 - 4058 ( 54.2 ) 41 - 508 ( 7.5 ) When she starts having periods4 ( 3.7 ) After giving birth1 ( 0.9 ) Do not know20 ( 18.7 )
+A mammogram can detect breast cancer in its early stages102 Agree95 ( 93.1 ) Disagree7 ( 6.9 )
+How accurate is a mammogram in finding breast cancer106 Very accurate43 ( 40.6 ) Somewhat accurate52 ( 49.0 ) Not accurate3 ( 2.8 ) Do not know8 ( 7.5 )
+Full-size table .
+a The totals indicate the number of respondents who answered the question for each variable .
+Some percentages may not total to 100% due to rounding errors .
+View Within Article .
+In the bivariate analysis , the difference between the rates of mammography use among women with and without affiliation with the military was not statistically significant ( 84.6% versus 71.7% ; p = 0.11 ) .
+On the other hand , women who had military insurance ( 94.7% ) were more likely than others ( 74.4% ) to have a mammography within that time frame ( p = .05 ) .
+None of the other sociodemographic characteristics were associated with mammogram use .
+Likewise , knowledge about risk factors for breast cancer was not correlated with the outcome variable .
+However , several other important factors were shown to correlate with mammography utilization .
+General access to medical care was significantly related to the likelihood of having had a mammogram within the past two years ( p = .03 ) .
+Post-hoc analyses showed that Chamorro women who rated general access to medical care as good ( 81.5% ) or very good / excellent ( 79.7% ) were significantly more likely to have had a mammogram than were those who reported access to medical care as poor / fair ( 25.0% ) ( p = .02 and p = .01 , respectively ) .
+Furthermore , the use of mammogram differed between Chamorro women who indicated that they visited their regular source of care less then one year ago , 1 - 2 years ago , 2 - 3 years ago or more than 3 years ago ( p .001 ) .
+Post-hoc analyses showed that those who visited the source of care within the past year ( 83.0% ) were more likely to have had a mammogram than were those who visited the source 2 - 3 years ago ( 25.0% ) or more than 3 years ago ( 0% ) ( p = .004 and p .001 , respectively ) .
+In addition , women whose doctors or nurses recommended a mammogram ( 83.3% ) were significantly more likely to have had a mammogram within the past two years than were those whose doctors or nurses did not recommend it ( 46.2% ) ( p = .002 ) .
+Participants perception of the likelihood that cancer can be cured if detected early was also related to mammogram use .
+Post-hoc analyses showed that women who reported that cancer was likely to be cured if detected early were more likely to have had a mammogram within the past two years than were those who reported that cancer was unlikely to be cured if detected early ( p = .01 ) .
+Finally , participants perception of the frequency that a woman should get a screening mammogram was related to the mammogram use ( p = .01 ) .
+Specifically , compared to women who reported that they did not know how frequently they should have a screening mammogram ( 42.9% ) , those who reported that they should have one annually ( 88.2% ) were more likely to have had the test ( p = .002 ) .
+4. Discussion .
+Compared with other Pacific Islanders  and certain Asian populations , the screening rates within this self-selected San Diego cohort of Chamorros exceeded those of others .
+Approximately 76% of the Chamorro women age 40 and older reported having received a mammogram within the preceding two years .
+This figure is higher than the 70% listed as one of the health objectives by the Healthy People 2010  .
+However , additional studies and interventions to promote the utilization of mammograms are necessary to meet the recommendation by the NCI that every woman age 40 and older should receive a mammogram at least every 1 - 2 years .
+We did not determine why Chamorros in this study had better rates of mammography use than other Pacific Islander populations .
+However , the participants had relatively high socioeconomic status with 42.2% having at least some college education and 51.7% having a household income of at least $50,000 .
+Moreover , 87.3% reported some form of health insurance and 96.4% perceived at least good access to medical care .
+These findings are consistent with previous studies  and may , in part , explain the relatively large proportion of Chamorro women who are up to date on breast cancer screening  .
+A number of factors were associated with mammography use within our study population .
+There was a statistically insignificant trend toward increased mammography use by those affiliated with the military .
+However , having military insurance at the time of the interview was significantly associated with mammography use .
+The difference in the utilization of mammography between those who had and those who had no military insurance could not be due to the mammogram coverage because both military insurance and non-military insurance cover mammography use .
+One possible explanation is that military health providers may be more proactive in soliciting their insured individuals to have mammograms ( e.g. , mailing brochures about the benefits of mammogram ) .
+Future targeted research should empirically investigate this possibility .
+Not surprisingly , those whose doctors or nurses recommended mammograms were more likely to have had a mammogram than were those whose doctors or nurses did not recommend it .
+Furthermore , Chamorro women who possessed knowledge of how often a woman should get a mammogram were more likely to have had one as compared to those who did not have any knowledge of the frequency .
+On the other hand , none of the sociodemographic characteristics were associated with mammogram use .
+Taken together , these results suggest that although socioeconomic status may increase Chamorro women 's access to mammography services , it may not be sufficient to ensure the actual use of mammogram .
+Furthermore , knowledge about the risk factors of breast cancer was not related to the likelihood of getting a mammogram .
+This may suggest that while possessing knowledge about the risk factors may modify individuals health behaviors that are more directly linked to the chance of getting breast cancer , this knowledge may not affect one 's utilization of mammography .
+For example , knowing that diet in high fat increases the risk of breast cancer may motivate individuals to change eating behaviors ( e.g. , consuming food that is low in fat ) .
+Tanjasiri and Sablan-Santos  conducted the only other study to date of Chamorro women on the US mainland to examine breast cancer risk , knowledge , and screening behaviors .
+That study , conducted in Los Angeles and Orange country , CA , found that 25% of the 227 Chamorro women surveyed reported a screening mammogram within the past year and 63% of women over age 50 years reported having mammography within the past two years .
+Of note , over 92.4% of the women had some form of health insurance , slightly higher than the 87.3% rate in our study .
+In a bivariate analysis , having health insurance , older age , greater income , being married , and use of traditional healers were associated with higher screening rates in Tanjasiri and Sablan-Santos study .
+There are several limitations to the present study .
+First , results obtained from this self-selected sample cannot be generalized to other Chamorro women , although trends in the data may well represent the San Diego Chamorro perspective .
+Second , biases inherent in the cross-sectional self-report design are subject to reporting error .
+Future longitudinal studies should examine the trend in mammogram utilization and explore predictors of compliance and noncompliance in this underrepresented population .
+In conclusion while there remains room for improvement , Chamorro women in San Diego have relatively high rates of breast cancer screening with mammography .
+This finding may be due , in part , to relatively high rates of health insurance coverage ( particularly military insurance ) and good access to medical care among Chamorros compared with other Pacific Islander populations .
+Based upon our results , educational efforts should be targeted toward assuring that all women know that breast cancer can be cured if detected early and that screening mammograms are recommended for women 40 years of age and older .
+The Pacific Islander cancer control network has begun to address these issues through publication of culturally appropriate breast cancer educational brochures and by focusing on breast health through Chamorro community based organizations , health fairs , and other venues  .
+Conflict of interest .
+There is no conflict of interest .
+Acknowledgements .
+Sources of support : Supported by grants from the National Cancer Institute ( U01 CA 86073 ) and ( P30 CA 62203 ) .
+The contents of the manuscript are solely the responsibility of the authors and do not necessarily represent the views of the funding agency .

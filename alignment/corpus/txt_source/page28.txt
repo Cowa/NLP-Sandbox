@@ -1,0 +1,166 @@
+On estime qu' il y a en France plus de 40000 nouveaux cas de cancer du sein par an , sans compter les lésions in_situ dont l' évolution en nombre a suivi celle du dépistage .
+Le nombre de femmes surveillées après traitement d' un cancer du sein a considérablement augmenté , parallèlement_à l' augmentation régulière de l' incidence depuis plusieurs dizaines d' années , en raison , également , de l' efficacité croissante des thérapeutiques adjuvantes .
+Si l' on accepte un rapport de dix entre incidence et prévalence  , il y aurait dans notre pays environ 400000 femmes suivies après traitement d' un cancer du sein .
+Ce nombre devrait continuer à augmenter .
+Cependant , Ravdin a rapporté au dernier congrès de San Antonio une diminution de près_de 7 % de l' incidence des cancers du sein en 2003 aux États-Unis  en relation , semble -t il , avec la réduction brutale aux États-Unis de la prescription et de la consommation des traitements substitutifs de la ménopause .
+Quoi qu' il en soit , le nombre des femmes concernées , souvent inquiètes , demandeuses d' une surveillance médicale facilement associée dans leur esprit à la sécurité est inversement proportionnel à l' évolution du nombre des cancérologues qui avaient pris l' habitude d' une surveillance systématique et organisée .
+Cette surveillance reste de ce fait d' une grande actualité d' autant_que les questions sont loin d' être résolues : qui surveiller ? par quels examens ? à quel rythme ? par qui ?  .
+Une femme qui a eu un cancer du sein est schématiquement confrontée à trois sortes de risque : - un risque de récidive dans le sein traité ;
+- un risque de rechute dans l' autre sein ;
+- un risque de métastase à distance .
+Il n' est pas si facile de trouver dans la littérature des chiffres précis concernant l' évolution dans le temps des risques de rechute après le traitement initial .
+La distinction entre récidive intramammaire après traitement conservateur , récidive pariétale après mastectomie totale , récidive ganglionnaire , tumeur controlatérale , métastase ou encore leur association n' est pas toujours claire .
+Ces risques dépendent évidemment des caractéristiques de la tumeur , de l' importance de l' atteinte ganglionnaire , de l' âge de la patiente et du traitement réalisé .
+Ils sont donc extrêmement variables selon les situations .
+Face à une patiente , il est pourtant crucial pour le médecin qui assure la surveillance de connaître le niveau de risque local , controlatéral ou à distance .
+Intuitivement , on sait que l' on ne va pas s' attacher de la même façon à une douleur osseuse si le risque de métastase est considérable ou insignifiant .
+Dans la théorie bayésienne , une estimation de la probabilité a_priori de rechute est nécessaire à l' interprétation correcte des symptômes et des résultats des examens ( les valeurs prédictives positive et négative dépendent de cette probabilité ) .
+Globalement , on peut dire que le risque de rechute est plus important dans les premières années .
+Il diminue progressivement avec le temps sans jamais disparaître complètement  .
+Le risque annuel de rechute diminue avec le temps alors_que le risque annuel de décès reste stable dans les dix premières années avant_de diminuer lui aussi  .
+En cas de chirurgie conservatrice , le risque de récidive dans le sein traité dépend surtout de l' âge , il est autour_de 0,5 - 1 % l' an et reste relativement stable dans le temps  .
+Le risque de cancer controlatéral est de l' ordre de 0,5 - 1 % l' an  , mais il est particulièrement élevé dans les situations de risque héréditaire  .
+On peut désormais avoir une idée assez précise de la probabilité de rechute et de décès à dix ans dans un cas défini avec un logiciel facilement disponible sur Internet  .
+Cet outil peut être utilisé à titre indicatif par les médecins pour situer le niveau du risque dans un cas donné .
+Comme toutes les estimations pronostiques , il reste cependant incomplet : par_exemple , il ne tient pas encore compte de l' expression de HER2 .
+Il a été créé à_partir_d' une base de données nord-américaine et les pratiques différentes , en_particulier pour le traitement local , peuvent également conduire à des différences du risque de rechute .
+Les objectifs de la surveillance sont non_seulement le dépistage , le diagnostic et la prise en charge précoce des récidives locales , du cancer controlatéral et des métastases , mais_aussi l' évaluation des résultats , la prise en charge des complications iatrogènes , le dépistage des difficultés psychologiques et la réinsertion des patientes dans la vie socioprofessionnelle  .
+Dans une enquête récente faite au Royaume-Uni auprès_de spécialistes , les trois premières raisons de la surveillance sont dans l' ordre : - le diagnostic et le traitement des séquelles thérapeutiques ;
+- le dépistage des récidives locales et controlatérales ;
+- le diagnostic et la prise en charge des problèmes psychologiques  .
+La surveillance organisée et systématique après traitement concerne uniquement les patientes asymptomatiques , la présence d' un symptôme oriente évidemment différemment la prise en charge .
+Nous n' abordons pas ici les pathologies intracanalaires qui ne confrontent pas , du moins en_principe , la patiente à un risque vital , la situation est donc très différente .
+2. Études randomisées
+Deux grandes études italiennes publiées en 1994 ont comparé les modalités de la surveillance , son intensité , la qualité de vie des patientes , leur satisfaction des soins et surtout la survie .
+L' étude prospective randomisée du GIVIO ( Gruppo Italiano Valutazione Interventi in Oncologia )  a comparé une surveillance intensive à une surveillance minimaliste chez 1320 femmes de moins de 70 ans , opérées entre 1986 et 1988 dans 26 hôpitaux .
+La surveillance intensive comprenait des consultations tous les trois mois , une radiographie de thorax et des tests biologiques ( phosphatases alcalines et GT ) tous les six mois , une scintigraphie osseuse et échographie hépatique annuelles .
+La surveillance minimaliste consistait en un examen clinique tous les trois mois .
+La mammographie est annuelle dans les deux groupes .
+Le délai moyen avant la détection des métastases est de 53 mois dans le groupe surveillance intensive contre 54 mois dans le groupe surveillance minimaliste .
+Les rechutes sont , pour la moitié d' entre elles , des métastases à distance .
+On retrouve davantage de patientes ( 31 % versus 21 % ) asymptomatiques au moment du diagnostic de métastase dans le groupe surveillance intensive et elles sont plus nombreuses ( 41 % versus 32 % ) à devenir symptomatiques dans l' intervalle des visites dans le groupe surveillance minimaliste .
+Cependant , l' anticipation du diagnostic de métastase dans le groupe surveillance intensive est inférieure à un mois .
+Aucune différence n' a été retrouvée en terme de survie ni en terme de qualité de vie à 71 mois .
+La deuxième grande étude randomisée italienne a concerné 1243 femmes opérées d' un cancer du sein localisé ( 1985 - 1986 ) dans 12 centres  .
+La surveillance intensive comportait une radiographie de thorax et une scintigraphie osseuse tous les six mois .
+Un plus grand nombre de métastases à distance a été diagnostiqué à cinq ans dans le groupe surveillance intensive ( 164 versus 125 ) .
+Le taux de survie sans rechute est plus élevé dans le groupe surveillance simple .
+L' anticipation du diagnostic de métastases n' a permis aucun impact sur la survie à cinq et à dix ans  , mais les traitements mis en oeuvre lors_de l' apparition des métastases n' ont pas été détaillés .
+Le cot de la surveillance est lié à la fréquence des visites , au nombre d' examens complémentaires , à la nature de ces examens .
+Le cot de la surveillance varie , par_exemple , du simple au double dans une étude finlandaise randomisée ( 472 patientes ) sans modifier l' intervalle sans récidive ou la survie  .
+Pour le CA 15.3 , par_exemple , le même auteur avait préalablement montré que le test est spécifique mais sa valeur prédictive positive est relativement faible pour les patients de bon pronostic .
+Dans cette étude , sur 243 patientes , le CA 15.3 est élevé dans 50 % des cas de métastases osseuses et dans les quatre cas de métastases hépatiques isolées ; globalement , le marqueur n' a permis de détecter que 24 % des récidives  .
+Le retentissement d' une surveillance intensive sur l' anxiété et la qualité de vie des patientes ont été également évalués .
+Dans une étude randomisée entre une surveillance conventionnelle ( examen clinique tous les trois mois pendant un an , tous les quatre mois jusqu' à deux ans , tous les six mois entre deux et cinq ans , puis annuelle ) versus une surveillance clinique uniquement lors des mammographies ( tous les ans ou tous les deux ans ) , plus de la moitié des femmes dans les deux groupes préférait la surveillance conventionnelle  .
+De plus , la qualité de vie semble similaire , que la surveillance soit assurée par l' hôpital ou par le médecin traitant  .
+Dans une étude sur 296 patientes anglaises , Grunfeld_et_al.  ont montré que la moitié ( 7 / 16 ) des récidives dans le groupe suivi à l' hôpital est d'_abord vue par le généraliste et que la médiane avant confirmation de la rechute était de 21 jours pour le groupe médecin hospitalier contre 22 pour le groupe médecin généraliste .
+La même étude a été reproduite plus_tard , par le même auteur au Canada chez 968 patientes traitées dans six centres .
+La surveillance était assurée soit au centre anticancéreux , soit par le généraliste .
+L' évaluation a porté sur les accidents graves liés à la récidive ( compression médullaire , fracture pathologique , hypercalcémie , récidive locale incontrôlable , Karnofsky inférieur ou égal à 70 lors du diagnostic de rechute ) .
+À trois ans et demi de la randomisation , il n' était pas noté de différence entre les deux groupes en terme de taux de rechute , du nombre de décès , de la qualité de vie  .
+Enfin , il est impossible de savoir si la détection précoce d' une récidive locale a une quelconque influence sur la survie ou la qualité de vie .
+Dans la méta-analyse publiée par De Bock_et_al.  comportant les données de 12 études regroupant les données de 5000 patientes , 40 % des récidives locales ont été diagnostiquées chez des patientes asymptomatiques pendant les contrôles .
+3. Revues systématiques
+Les études sur ce sujet ont fait l' objet de nombreuses revues générales et systématiques  .
+Au total , trente-huit études sur la surveillance des cancers du sein ont été identifiées en 2004 et peu ont été randomisées .
+Pourtant , le risque de biais est tel qu' il serait hasardeux de vouloir tirer des conclusions solides à_partir_d' études non randomisées .
+Globalement , il est difficile d' établir un lien quelconque entre les éléments suivants : - le rythme des consultations ;
+- le nombre d' examens complémentaires ;
+- la répartition des rechutes locales , régionales , controlatérales et métastatiques ;
+- la répartition des symptômes signalés par la patiente et des signes découverts par le médecin .
+Il est également impossible de corréler la répartition des symptômes et signes entre les consultations et les intervalles des examens .
+La plupart des études montre cependant_que les rechutes sont le_plus_souvent détectées lors des consultations  .
+Une seule étude permet une détection plus précoce des rechutes  , ce qui montre bien les limites des examens alors utilisés dans les essais randomisés .
+La survie des patientes et la qualité de vie ne sont apparemment pas affectées par l' intensité ou les modalités de la surveillance .
+Globalement , les patientes ont un regard positif sur leur surveillance mais restent anxieuses .
+Les données sont encore manifestement insuffisantes pour en tirer des conclusions définitives , en_particulier en ce qui concerne l' investissement de la patiente dans sa prise en charge , les éventuelles réductions des morbidités et le rapport cot / efficacité de la surveillance  .
+4. Limites des études publiées
+Le plus haut niveau de preuve dont nous disposons actuellement repose sur les deux grandes études italiennes randomisées .
+Mais ces deux études sont anciennes et ne rendent pas compte des progrès réalisés depuis 20 ans aussi_bien dans les performances des examens complémentaires , que dans l' efficacité des traitements médicaux systémiques en cas de maladie métastatique .
+Le marqueur CA 15.3 , le plus utilisé en_pratique courante n' a , par_exemple , jamais été évalué de façon prospective comparative .
+Les quelques semaines d' avance au diagnostic de rechute ne pouvaient probablement pas objectiver une différence sur la survie avec les thérapeutiques de l' époque .
+Il est avéré que les traitements systémiques modernes ont allongé la survie moyenne des situations métastatiques  mais il n' est pas acquis que ces traitements , chimiothérapie ou traitements ciblés , soient capables de changer davantage l' évolution de la maladie prise à un stade asymptomatique .
+Comme souvent en médecine , les nouveaux traitements ont rendu plus complexes les prises en charge , y_compris la surveillance .
+Les anti-aromatases ont progressivement pris une place prépondérante dans le traitement à visée hormonale des femmes ménopausées .
+Ces produits s' accompagnent d' effets secondaires osseux qui , à eux seuls , demandent une attention particulière , des mesures de la densité osseuse , voire des thérapeutiques spécifiques .
+Le trastuzumab ( Herceptin ) est le premier traitement ciblé du cancer du sein .
+Des effets secondaires cardiaques sont identifiés et justifient une surveillance régulière , pendant et après la fin du traitement .
+L' utilisation de cette molécule en situation adjuvante est récente ( 2005 ) ; le recul est donc insuffisant pour juger des effets à long terme .
+Pour le traitement adjuvant après la ménopause , les attitudes thérapeutiques ne sont pas nécessairement tranchées entre un traitement initial par le tamoxifène , une anti-aromatase d'_emblée , un switch vers une anti-aromatase après deux ou trois ans de tamoxifène ou un relais après cinq années de tamoxifène .
+Les traitements à visée hormonale des femmes avant la ménopause ne sont pas bien codifiés , particulièrement chez celles dont la tumeur surexprime HER2 .
+Pour toutes ces considérations , il est sans_doute prudent de garder un contact avec les femmes antérieurement traitées et a_fortiori celles qui sont en cours de traitement prolongé pendant plusieurs années .
+Le moment d' un changement de traitement est souvent l' occasion de nouvelles explications , de_même que l' interruption du traitement .
+Par exemple , lors_de l' arrêt du tamoxifène après cinq ans d' administration , il est très important d' expliquer que le nombre d' études disponibles et leur recul nous permet d' affirmer qu' il n' y a pas d' augmentation du risque de rechute à l' arrêt du traitement adjuvant et que le bénéfice du tamoxifène est encore bien réel dans les dix années qui suivent l' interruption du traitement  .
+Les études publiées sur la surveillance des cancers du sein ont concerné des objectifs classiques .
+Les plaintes récurrentes des femmes vues en consultation concernent les points suivants : - les difficultés psychologiques liées à l' image corporelle après une mastectomie ;
+- les douleurs , souvent de type neuropathique ;
+- les symptômes de la ménopause ;
+- les douleurs osseuses ;
+- la crainte de l' ostéoporose ;
+- les troubles des règles liés aux traitements ;
+- les possibilités de grossesse ;
+- les syndromes dépressifs ;
+- les dysfonctionnements sexuels .
+Il est impossible de connaître la fréquence réelle de ces symptômes ni l' efficacité en_pratique de leur prise en charge  .
+La situation d' ancien patient atteint de cancer ( survivorship ) pour qui le cancérologue prudent prononcera exceptionnellement le mot « guéri » n' est pas facile à vivre au quotidien , particulièrement à la fin des traitements actifs , période où est fréquemment rapporté un sentiment d' abandon  .
+On trouve dans la littérature peu d' appréciations chiffrées , encore moins d' évaluation objective , de la prise en charge médicale , psychologique ou sociale de la surveillance .
+5. Recommandations
+Il est exceptionnel en médecine que des recommandations aient une telle durée de vie et fassent autant l' unanimité .
+Toutes les sociétés savantes recommandent une surveillance clinique et par les mammographies  mais ne précisent pas les modalités .
+Aucune ne recommande une surveillance intensive .
+Une société savante ne peut évidemment pas recommander une pratique donc l' efficacité n' est pas avérée .
+De plus , il est paradoxal que les données soient si pauvres pour un sujet qui concerne autant de femmes dans le monde .
+En France et en Europe , plusieurs tentatives de mise en oeuvre d' études comparatives se sont malheureusement soldées par des échecs .
+Les recommandations sont donc restées remarquablement stables depuis 20 ans et reposent essentiellement sur les deux grands essais randomisés italiens  .
+Elles ont été régulièrement actualisées depuis 1997 par la société américaine du cancer ( American Society of Clinical Oncology , ASCO ) sans modification de fond , compte tenu sans_doute de l' absence d' élément nouveau  .
+La priorité est donnée à la surveillance clinique .
+5.1. Examen clinique
+Interrogatoire et examen clinique sont recommandés tous les trois à six mois les trois premières années après le traitement , puis tous les six à 12 mois pendant deux ans , puis de façon annuelle .
+Les Standards , Options : Recommandations ( SOR )  préconisent un examen clinique et la mammographie au sixième et douzième mois après la fin de la radiothérapie , l' examen clinique tous les six mois jusqu' à cinq ans , puis annuel au-delà , sans interruption .
+Le panel de l' ASCO propose de tenir compte du risque héréditaire par mutation délétère des gènes BRCA1-BRCA2 et d' informer les femmes sur la possibilité de tests génétiques s' il existe un antécédent familial de cancer de l' ovaire , ou d' autres cancers du sein dans la même branche d' hérédité , particulièrement s' il s' agit d' une forme précoce et / ou bilatérale  .
+La présence d' un cancer du sein chez l' homme ou un type histologique médullaire doit faire également penser à un risque héréditaire .
+Compte tenu de la fréquence des rechutes symptomatiques dans l' intervalle des consultations de surveillance , le panel insiste sur l' importance de l' éducation du patient qui doit être informé des éventuels signes d' appel qui doivent attirer l' attention sans attendre .
+5.2. Autoexamen des seins
+Une grande étude chinoise ( plus de 260000 femmes ) n' a pas montré de bénéfice de survie lié à l' autopalpation régulière sans mammographie  .
+Nous n' avons pas d' information claire sur le bénéfice de l' autopalpation en_plus_de la mammographie .
+L' autopalpation fait souvent partie des recommandations nord-américaines , alors_que les SOR la recommande au cas par cas en France .
+La mammographie uni- ou bilatérale en cas de traitement conservateur est préconisée six mois après la fin de la radiothérapie , pas avant du moins , et_ensuite le_plus_souvent à un rythme annuel .
+Nous ne disposons cependant pas d' étude qui permette de mesurer exactement le bénéfice de cette attitude .
+L' examen clinique pelvien est recommandé à un rythme régulier pour les femmes qui n' ont pas eu d' hystérectomie et particulièrement pour les femmes sous tamoxifène .
+Toutes ces recommandations concernent bien sr les patientes asymptomatiques et ont pour but de déceler précocement les récidives locales ou controlatérales .
+En 2007 , les cancers du sein métastatiques restent des maladies d' évolutivité très variable mais incontestablement incurables .
+En l' absence d' évidence de bénéfice thérapeutique lié au diagnostic précoce , aucun examen à la recherche de métastase infraclinique n' est recommandé , même s' il est clair que certains de ces examens sont capables d' anticiper le diagnostic de métastase et donc , d' apporter une information importante pour la personne concernée .
+Il est certain par_exemple qu' une augmentation progressive du marqueur CA 15.3 chez une femme antérieurement traitée pour un cancer du sein a une très forte valeur prédictive positive , autrement dit signe une reprise évolutive métastatique de la maladie .
+Mais l' impact éventuel d' un traitement spécifique précoce sur l' évolution de la maladie est totalement inconnu .
+Une attitude prudente est donc recommandée d' autant_que les traitements systémiques ont des effets secondaires non négligeables et risquent de transformer en vraie malade une personne asymptomatique .
+6. Coordination des soins
+Le risque de rechute d' un cancer du sein et particulièrement , le risque de récidive locale existe très longtemps après le traitement initial .
+Une recommandation récurrente est que la surveillance soit organisée par une personne qui a l' expérience des seins irradiés et de la pathologie mammaire .
+La surveillance à l' hôpital par le cancérologue est coteuse , sans_doute redondante par_rapport_à la surveillance par le généraliste ou le médecin gynécologue .
+En tout cas , les études comparatives n' ont pas montré de bénéfice lié à la surveillance spécialisée , y_compris au sujet de la satisfaction des patientes  .
+Il reste un travail à faire non_seulement d' information des patientes à l' aide de documentation papier ou multimédias , mais_aussi de transfert des informations importantes vers les médecins qui suivent éventuellement ces patientes , gynécologues ou généralistes  .
+7. L' explication à la patiente
+Les patientes traitées connaissent évidemment le risque de rechute et demeurent inquiètes .
+Une explication chiffrée rapportée à une unité de temps peut dans les formes de bon pronostic les rassurer .
+Il est important de distinguer le risque de rechute locale , controlatérale et métastatique qui n' ont pas la même répartition dans le temps et n' ont pas la même gravité ( Annexe A ) .
+Les patientes ( parfois même les médecins ) ne peuvent pas comprendre la réticence des experts , qui n' a rien d' une préoccupation économique , à prescrire des examens systématiques aux femmes asymptomatiques .
+Cependant , elles sont souvent prêtes à entendre les arguments de ces experts  .
+Il faut expliquer deux choses : les limites actuelles des examens disponibles et l' incertitude quant au bénéfice d' un traitement précoce .
+Cette explication ne prend pas plus de six minutes en moyenne , le problème serait moins le temps passé que la difficulté de l' explication si le sujet n' est pas parfaitement maîtrisé  .
+Il est facile de faire comprendre que les examens complémentaires sont loin d' être parfaits et peuvent induire en erreur par excès ou par défaut .
+Beaucoup de patientes en ont d'_ailleurs fait l' expérience , à titre personnel ou non .
+La probabilité qu' un examen soit vraiment révélateur d' une rechute dépend de la probabilité de rechute avant l' examen , probabilité que le médecin doit bien avoir en tête pour relativiser un résultat ou au_contraire pour être attiré par un symptôme a_priori peu significatif .
+Il est un_peu plus compliqué d' expliquer que nous ne savons pas si un traitement médical précoce , c' est-à-dire instauré avant l' apparition des symptômes cliniques , est plus efficace qu' un traitement commencé lors des signes cliniques .
+Chacun a , en_effet , tendance à généraliser les messages de santé publique concernant le diagnostic précoce et la prévention .
+Comment admettre qu' un traitement précoce n' est pas toujours synonyme de plus grande efficacité ?
+Pourtant , les cancérologues qui connaissent bien les effets secondaires des médicaments anticancéreux ne sont pas très pressés de les prescrire sur la seule fois d' un marqueur élevé ou d' une image , témoins d' une évolution tumorale infraclinique .
+Il est vrai qu' il sera difficile , voire impossible de ne pas traiter une rechute asymptomatique lorsqu' elle sera diagnostiquée .
+8. Conclusions
+Il est évident que l' époque est à la rationalisation .
+Compte tenu de la pénurie prévisible des médecins et particulièrement , de certaines spécialités concernées par cette surveillance , compte tenu de l' évolution du nombre de femmes atteintes d' un cancer du sein et compte tenu du cot , il devient impératif de concentrer les efforts sur les situations pour lesquelles le service médical rendu est identifiable  .
+La surveillance systématique , organisée , institutionnalisée , presque obligatoire , comme nous l' avons connue il y a quelques décennies n' est plus d' actualité .
+Aux États-Unis , le nombre de tests non recommandés a diminué de 1999 à 2001 chez les femmes d' au moins 65 ans après cancer du sein stade I ou II  .
+Il peut sembler paradoxal dans cette étude que les femmes qui ont consulté les oncologues médicaux ont eu davantage de prescriptions que les autres , particulièrement pour les marqueurs et les scintigraphies osseuses  .
+Mais l' actualité concerne l' organisation de la surveillance entre les acteurs , adaptée au niveau du risque et à la demande individuelle .
+À l' avenir , l' un des enjeux sera la formation continue de ces différents acteurs .
+Étant donné l' importance pratique et économique de cette situation , des évaluations du service rendu sont éminemment souhaitables

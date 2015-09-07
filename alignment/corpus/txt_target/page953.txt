@@ -1,0 +1,119 @@
+Interval cancers ( IC ) , i.e. cancers occurring after a negative screening episode and before further planned screening , are a relatively common event , accounting for about a quarter or more of all breast cancers occurring in screened subjects .
+Their frequency and radiological features are used as a measure of screening performance and may allow comparison between different programmes , although this requires the adoption of agreed criteria for IC definition , identification , and quantification.1 Radiological review of screening mammograms reported as negative , in women who subsequently develop an IC , is considered a quality control aspect of screening.  As recommended in European and UK guidelines for quality assurance  and advocated for screening practice,6 mammograms of IC should be reviewed and classified into defined categories.  Recommended classification varies but generally comprises ( a ) true IC ( not visible on the screening mammogram but visible on mammography at diagnosis ) , ( b ) false negative IC with minor abnormalities possibly worth diagnostic assessment ( also called minimal signs ( MS ) ) , ( c ) false negative IC with clear / definite abnormalities which should have prompted diagnostic assessment ( also called screening error ( SE ) , or missed ) , and ( d ) occult IC ( not visible at screening nor at time of diagnosis ) .
+According to European guidelines , good screening performance is achieved when 20% of reviewed mammograms are classified as SE ( or missed cancer ) .4 The MS category is not strictly considered a missed cancer because the mammography findings are subtle and may not have prompted recall from screening , and it is possible that these cancers are largely identified only with knowledge of the subsequently detected IC.6 .
+A few studies have explored the effect of mammography review methodology on classification of IC  and different review methodologies are currently employed , which does not allow valid comparisons within or between programs.6 Optimal review processes are not defined in the European or UK guidelines , although , depending on the adopted method , the reviewer may be facilitated to identify the IC in the screening mammogram , thus review methods will impact classification of the IC.6 Several aspects of the review process may potentially affect reviewers classification  including case mix , extent of information provided versus blinding , and the number of reviewers and consensus method.6 Yet , little of this has been directly evaluated in studies that compare review methods and how this may impact classification of MS relative to missed IC .
+We present a retrospective study of mammographic review of interval breast cancers , using a validated set of screening mammograms , and comparing review methodology using multiple reviewers .
+The aim of the study is to assess the influence of review methods , including the extent of information available at time of review , on classification of IC , particularly those within the false negative spectrum , and to estimate associated variability in classification .
+We use the evidence from this work to discuss the implications of radiological review in screening and the importance of defining and standardising review methodology as a quality control measure in screening practice .
+Material and methods .
+The set of mammograms employed in this study consisted of 80 screening cases ( negative screens ) , reported as negative and confirmed as such at repeat screening , seeded with 20 screening cases reported as negative and followed by an IC within 2 years .
+Ten MS and 10 SE IC cases were chosen randomly from cases previously reviewed by three experienced radiologists2 not involved in reviewing films in this study , to ensure consensus in categorisation .
+All screening mammograms ( N=100 ) included in this study related to the same period and screening centre .
+Subjects identification data were concealed on all films .
+Original conventional screen film mammograms were digitized and a DVD was prepared to display each de-identified case in the following sequence : ( a ) the two adjacent oblique views , followed by full screen 2:1 magnification of ( b ) upper half , and ( c ) lower half .
+The same sequence was shown for craniocaudal views , simulating that currently adopted for reporting at full-field digital mammography workstation .
+Six radiologists ( with no prior knowledge of the study 's films ) were involved in film reading for this study .
+They had different experience in reading mammograms , from 5 to 20 years , and a total caseload between 10,000 to over 100,000 mammograms read .
+To compare the effect of review method , all film reading was performed in three independent phases separated in time .
+A first phase ( review method 1 ) simulated blinded or masked review : radiologists were invited to look at the whole set , unaware as to which were the IC and of case / control mix ratio , and to report their opinion based on three options ( a ) negative , return to screening ( review=negative screen ) , ( b ) no need for referral to assessment , but minor abnormality seen ( review=MS ) , or ( c ) abnormality seen , definitely worth of diagnostic assessment ( review=SE ) .
+Reporting was given on a predefined form , indicating on a scheme of the two mammography views the exact side and site of the abnormality noted , if any .
+After approximately 2 weeks , a second phase of reviewing ( review method 2 ) was performed , simulating a partially informed review : the set now included only the IC , displayed as previously described , but the radiologists were aware that these were all IC .
+Reporting was based on the same approach as for phase 1. For the final review phase ( review method 3 ) , after approximately 2 weeks , the DVD provided simulated a fully informed review , including only interval cases together with the diagnostic mammograms .
+Display and reporting approaches remained constant .
+Each report for all review phases was checked by one radiologist ( not involved in film reading for the study set ) ( SC ) to verify if IC had been exactly identified by the reviewers .
+We describe the distribution of classification of cases by reviewer and by review method .
+The probability of IC being reported as SE or minimal sign was determined according to reading radiologist and review method by multivariate analysis ( logistic regression with extra binomial variation ) using STATA.9 package .
+Inter-observer variation in reporting IC and negative controls with review method 1 was determined according to kappa statistic .
+Kappa is designed to adjust for expected chance agreement .
+By convention , values of 0.00 - 0.20 , 0.21 - 0.40 , 0.41 - 0.60 , 0.61 - 0.80 , and 0.81 - 1.00 are respectively , indicative of slight , fair , moderate , substantial , and almost perfect concordance in reporting.8 .
+Results .
+Table 1 shows the distribution of classification of 20 IC by reviewer and by review method .
+IC reported as SE in the average was 24% at review method 1 ( range by radiologist 10 - 40% ) , 33% at review method 2 ( range 20 - 55% ) , and 42% at review method 3 ( range 30 - 50% ) , respectively .
+IC reported as MS in the average were 6% at review method 1 ( range by radiologist 5 - 15% ) , 10% at review method 2 ( range 0 - 20% ) , and 20% at review method 3 ( range 15 - 30% ) , respectively .
+Table 2 shows the results of multivariate analysis of the probability of IC classification as SE or minimal sign for reader ( radiologist ) and reading modality effect .
+No significant association was evident as to reader , whereas a significantly higher probability of IC classification was evident for review method 2 ( OR=1.78 , p=0.033 ) and for review method 3 ( OR=3.91 , p=0.000 ) compared to review method 1. .
+Table 1. .
+Distribution of classification of 20 interval cancers according to review method for six radiologists .
+Review phaseRadiologistTotal readings ( % ) ABCDEF Review method 1 Negative11141513141784 ( 70 ) Minimal signs1011317 ( 6 ) Screening error86463229 ( 24 )
+Review method 2 Negative1191114121168 ( 57 ) Minimal signs40222212 ( 10 ) Screening error511746740 ( 33 )
+Review method 3 Negative977810445 ( 37 ) Minimal signs43434624 ( 20 ) Screening error7109961051 ( 42 )
+Full-size table .
+View Within Article .
+Table 2. .
+Radiologist and review method effect on the classification of interval cancers as screening error or minimal sign .
+VariableOdds ratioStandard errorZP95% confidence interval Radiologist 11.00 - - - - 21.070.410.180.850.50 - 2.30 30.860.330.370.700.40 - 1.85 40.740.290.740.460.34 - 1.62 50.690.270.910.360.31 - 1.51 60.930.340.190.840.44 - 1.94 .
+Review method 11.00 - - - - 21.780.482.130.0331.04 - 3.05 33.911.084.940.0052.27 - 6.73 .
+Full-size table .
+reference category .
+View Within Article .
+Table 3 shows the classification of negative or normal screens as reported at review method 1. Average reporting of MS or SE rate was 21% ( range by radiologist 11 - 32% ) or 16% ( range 5 - 41% ) , respectively .
+Distribution by reporting category was similar for all but one reader ( D : minimal sign 32% , SE 41% ) , who clearly adopted too a low threshold for suspicion .
+The average PPV for IC of a MS report at first reading was 7% ( range by radiologist 0 - 16% ) and that of a SE report was 33% ( range 17 - 42% ) .
+Table 3. .
+Distribution of classification of 80 negative screening cases for review method 1 by radiologist .
+ClassificationRadiologistTotal readings ( % ) A ( % ) B ( % ) C ( % ) D ( % ) E ( % ) F ( % ) Negative52 ( 65 ) 55 ( 69 ) 60 ( 75 ) 21 ( 26 ) 56 ( 70 ) 57 ( 71 ) 301 ( 63 ) Minimal signs17 ( 21 ) 9 ( 11 ) 14 ( 18 ) 26 ( 32 ) 15 ( 19 ) 19 ( 24 ) 100 ( 21 ) Screening error11 ( 14 ) 16 ( 20 ) 6 ( 7 ) 33 ( 41 ) 9 ( 11 ) 4 ( 5 ) 79 ( 16 )
+Full-size table .
+View Within Article .
+Inter-observer consistency in reporting IC and negative controls at review method 1 is shown in Table 4. Overall reproducibility was slight ( kappa=0.20 ) , being lowest ( kappa=0.06 ) for minimal sign and fair ( kappa=0.25 ) for negative and SE reporting .
+Table 4. .
+Inter-observer concordance ( kappa statistic ) for classifying interval cancers and negative controls at review method 1. .
+Review classificationkappa ( average : six reviewers ) Z statisticP Negative0.259.700.0005 Minimal sign0.062.700.0035 Screening error0.259.810.0005 Overall0.2010.500.0005 .
+Full-size table .
+View Within Article .
+Discussion .
+European guidelines rightly focus on IC frequency , rather than IC review , to asses the quality of a screening programme.4 Radiological review of IC , however , is important to evaluate ( and potentially improve ) the performance of radiologists involved in a programmefurthermore , it provides information on clinical quality that cannot be gathered from epidemiological surveillance.6 While it may be argued that radiological review of IC may not be a worthwhile approach from a programme 's perspective , a strong case has been made for its potential ability to guide clinical and research priorities in improving screening.6 .
+If radiological surveillance of interval breast cancers is adopted as part of clinical quality assurance , then two issues should be pointed out .
+First , it currently lacks standardisation and evidence on how review methods may impact classification of interval cases.6 Second , it has medico-legal implications in some settings and should be done in a valid and fair manner that approximates reasonable practice .
+The extent to which the film-reading process is informed or blinded is expected to have an effect on classification , and in reality one cannot replicate the exact conditions of screening practice in an experimental design , so we do not claim to have replicated real screening , and instead we have used comparative phases of reading .
+This allows valid evaluation of differences in classification between phases within the study .
+In brief , our work provides further evidence on two aspects of radiological review of interval breast cancers .
+First , the extent of information provided to film readers at time of review influences their classification of IC ( and screening mammograms in general ) .
+The more informed ( the less blinded ) the reviewer , the more likely that a screen will be classified as showing an abnormality .
+This association was strongly evident for both categories ( MS and missed ) of IC .
+Second , we have shown substantial variability between readers in classification of IC for both blinded and informed review methods .
+We simulated blinded review in phase 1 ( reviewers are unaware which are the interval cases , and unaware of the case-mix ratio for intervals and normal screens ) .
+Phase 2 was semi-informed ( reviewers are only aware they are studying interval cases ) , and phase 3 was fully informed ( reviewers are aware they are studying interval cases and have the diagnostic mammograms showing the IC ) .
+Our phase 1 or blinded review is not comparable with reality since the reader is aware of performing a review of a series seeded with cancer cases , with a much higher cancer prevalence than in current screening ( 0.6 - 0.8% ) .
+The most common reaction to such a condition , even for an expert reader , is to reduce the threshold for suspicion to maximize sensitivity , as missing a cancer is usually perceived as a greater fault than unnecessary recall of a negative case .
+This is the most likely reason for having a fair proportion of our normal screens classified as abnormal in the first phase of the study .
+The reality of screening , where the reader is not prompted to cases which will subsequently develop an IC , and is faced with a large majority of negative screens , is that some cancers will either not be perceived , or perceived but judged as not warranting recall .
+Adopting a radiological review method that is closest to screening practice as possible is extremely important , to avoid overestimation of false negative missed classification , and more so when the review is performed for medico-legal purposes .
+The latter is seldom performed , in practice , using a blinded approach , which might have major medico-legal implications if the review outcome or conclusions set unrealistic standards for radiologists performance , or indeed for that of the screening process in general .
+As the international screening environment raises increasing litigation issues for its clinical staff , understanding the relevance of a standard blinded review method are expected to be of broad interest in service screening .
+This work , as well as other studies ( see Table 5 ) show that informed relative to blinded review will lead to more IC being classified as missed .
+Our study differs in the design we used , which allowed us to compare phases of increasing extent of information , and to quantify relative differences in classification of interval cases .
+A similar study design was used by Duncan and Wallis,10 but that study failed to demonstrate increasing false negative rate when comparing blinded ( IC only ) to informed review with knowledge of cancer side , site and pattern .
+Table 5. .
+Summary of studies that compare blinded and informed interval cancer ( IC ) review methods , including the present study ( proportions of cases review as screening errors are calculated ) .
+StudyICReviewersIC / negative controls ratio% reviewed as screening errors Blinded ( mixed ) reviewSemi-informed ( IC only ) reviewFully informed review Present study2061:424%33%42% Hofvind et al.,  23161:1.6119.9% - 35.9% Moberg et al.,  5931:814.1% - 27.1% Duncan Wallis,  5061:326%36%34% De Rijke et al.,  9221:5018.4% - 25.0% Amos et al.,  8051:0.7645.0% - 48.7% .
+Full-size table .
+Current screening readings ( 60 per day , per 15 weeks ) were blindly seeded with cases from a review set with 92 interval cancers and 47 negative controls .
+IC / negative controls ratio in the review set was 1:0.51 , while the overall blind reading ratio was 1:50 .
+View Within Article .
+The aim of blinded review with interval cases seeded in a screen negative series is to reproduce screening conditions where cancer prevalence is very low and may ( in addition to fatigue , loss of attention ) lead to a false negative report .
+Of course , the current screening cancer / negative ratio ( 1% cancer prevalence ) cannot be reproduced , and a compromise must be found between the number of IC in the set , allowing sensitivity estimates , and the size of the set to be reviewed .
+In our study we choose a 1:4 ratio and 20 IC with 6 readers , allowing for a total of 120 IC readings to assess average sensitivity .
+The ratio with which IC were mixed with negative controls at blinded review varied in different studies ( see Table 5 ) , and is higher than ours in the study of Moberg et al.9 ( 1:8 ratio ) , and in the study of de Rijke et al.11 ( 1:50 ratio ) .
+It might be expected that an excess concentration of cancers in the set might influence the reviewer to adjust threshold for suspicion towards higher sensitivity , but hypothesis remains unproven .
+The compromise between a high cancer to control cases ratio and a reasonable set size explains why , despite its relatively small sample size , our study allowed us to show significant differences in IC reporting according to review methodology .
+We focused on IC within the false negative spectrum , to assess whether mammography review methods had a differential effect on the more subtle cancers ( MS ) or the more obvious cancers ( missed or SE ) .
+Although more informed review methods increased classification within both categories of IC , this was in fact more evident ( and more significant ) for the MS category .
+We feel that it is reasonable to have treated repeated measurements ( three readings of the same film per reviewers ) as independent measurements in the analysis .
+It may be argued that some of the changes in classification of cases in our study related to a learning effect ( i.e. that the reviewers were more likely to identify cases as a result of the sequential phases of film reading , having kept some memory of previous readings ) .
+Although this is theoretically possible , it is unlikely to account for the highly significant differences shown in our data , which are more likely due to the impact of the extra information provided at review method 2 or 3 relative to method 1. In addition , we separated the film reading phases by a 2 week period , during which each of the reviewing radiologists will have read a large volume ( at least 500 ) of screening and diagnostic mammograms .
+Our study design might be criticised for lack of comparison with previous mammograms , or for using old screen film mammograms instead of more recent cases or digital mammograms .
+Comparison with previous mammograms is common practice in a screening program when prior films are available .
+We did not include this aspect to avoid complexity in identifying a true effect of the review method , and for reasons of efficiency ( considering several reading phases were done , and previous mammograms are not always routinely displayed in current screening reading in our service ) .
+Had we included previous mammograms where available , this would ( perhaps ) have shown a slight increase of true positive abnormalities recalled for investigation ( particularly minimal sign ) and a slight decrease in false positive recalls , but would not have substantially changed the overall findings and conclusions of this work .
+We used this particular set of mammograms , since it is a standardised set ( with known outcomes ) used in a previously published study13 with films digitised for soft copy reading on DVD .
+We intentionally did not use digital mammograms for several reasons : digital mammography has not yet been convincingly shown to be superior to screen film mammography , it is still not widely adopted in Europe ( where review of most incident intervals still deals with screen film mammograms ) , and a proper evaluation of digital mammograms would require the set to be displayed on a dedicated workstation .
+Irrespective of these reasons , we compared phases of reading within the same set , so the findings are valid whether more recent films or more sophisticated technology were used .
+In conclusion , we provide evidence on the effect of mammography review methodology on classification of IC .
+The more informed the review of mammograms ( of cases that are subsequently identified as having an IC ) , the more likely that the screening mammogram will be classified in the MS or SE ( missed ) categories .
+Due to the subjective nature of mammography interpretation , there is substantial variability in radiological classification of IC , but this should not deter from standardising mammography review methods to ensure validity relative to reasonable screening practice .
+Inter-observer variability in classification suggests that multiple reviewers should be employed with a consensus approach where there is disagreement .
+If radiological review of IC is to be performed as part of quality assurance in screening , then our data support the use of blinded review methods , since informed review significantly increases the frequency of an IC being classified as a false negative .
+Whenever possible , the proportion of negative controls seeded with IC should be as high as possible , since this is more representative of the screening scenario .
+This reduces the increased perception bias that might occur when the prevalence of IC in the set is high , and allows for a more realistic classification of interval breast cancers .
+Conflict of interest statement .
+All authors declare the absence of any financial and personal relationship with other people or organisations that could inappropriately influence ( bias ) their research .

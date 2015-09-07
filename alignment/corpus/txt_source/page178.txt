@@ -1,0 +1,109 @@
+Le cancer du sein est une affection rare , elle représente moins de 1 % des cancers chez l' homme , son incidence étant de l' ordre de 1 pour 100000 , c' est-à-dire moins de 1 % de l' incidence du cancer du sein chez la femme 1. Aucune étude prospective n' étant de ce fait envisageable , le seul moyen d' étudier les caractéristiques de cette maladie chez l' homme est l' analyse rétrospective de plusieurs petites séries sur plusieurs années .
+Un certain nombre de facteurs de risque ont été incriminés , comme les antécédents familiaux directs , certains troubles métaboliques et endocriniens , en_particulier l' hyperestrogénisme , réel ou relatif 2. Cependant aucun lien n' a pu être clairement démontré , étant donné le faible nombre de cas .
+La prise en charge diagnostique et thérapeutique est donc calquée sur celle du cancer du sein chez la femme .
+La plupart des études montrent un stade plus avancé et un pronostic moins bon chez l' homme 2 and 3 , souvent lié à un diagnostic et une prise en charge plus tardifs .
+Le but de notre étude était d' analyser de façon rétrospective les caractéristiques épidémiologiques , cliniques , histologiques , thérapeutiques et pronostiques du cancer du sein chez 19 hommes traités entre 1989 et 2000 .
+2. Patients et méthodes
+De janvier 1989 à décembre 2000 , 22 hommes atteints d' une tumeur maligne du sein ont été étudiés .
+Seuls 19 cas où le diagnostic de carcinome mammaire était confirmé histologiquement ont été retenus , deux cas de lymphome malin du sein et un cas de carcinome épidermoïde du mamelon étant exclus de la série .
+La classification utilisée était la TNM et le regroupement par stades de l' American Joint Comitee on Cancer ( AJCC ) , et le grading histopronostic de Scarff Bloom and Richardson ( SBR ) .
+3. Résultats
+L' âge moyen était de 65,3 ans ( extrêmes : 41 - 84 ans ) .
+Quatre patients ( 21 % ) avaient une gynécomastie confirmée histologiquement .
+Trois patients ( 16 % ) avaient des antécédents familiaux au premier degré de cancers du sein .
+Les autres antécédents personnels sont repris dans le Tableau 1. La tumeur se présentait dans la_plupart des cas sous forme de nodule dur palpable rétro-aréolaire .
+Les signes cutanés étaient fréquents : rétraction du mamelon dans neuf cas ( 47 % ) , écoulement mamelonnaire dans deux cas ( 10,5 % ) , ulcération dans un cas .
+La latéralité de la lésion était identique : sein droit dix cas , sein gauche neuf cas .
+Une mammographie était réalisée dans 13 cas , une échographie mammaire dans 12 cas , une cytoponction dans sept cas , et une biopsie dans un cas .
+Le carcinome canalaire infiltrant était nettement prédominant : 16 cas ( 89 % ) .
+Les autres types observés étaient un cas de carcinome intracanalaire ( 5,5 % ) et un cas de carcinome infiltrant composite mucineux et solide ( 5,5 % ) .
+Dans un cas , le type histologique précis n' a pas été déterminé ( malade non opéré ) .
+Tableau 1. Principaux antécédents personnels des patients
+Full-size table (
+( BMI : body mass index = ( poids ) [ sup2 ] /taille )
+View Within Article
+Tableau 2. Manifestations cliniques de la tumeur
+Full-size table ( 4K )
+View Within Article
+Les patients présentaient le_plus_souvent une tumeur T1 ( 44 % ) ou T2 ( 28 % ) .
+Le stade II A était prédominant ( 41 % ) .
+Les ganglions axillaires homolatéraux étaient envahis dans six cas ( 35 % ) .
+Ils n' ont pas été explorés dans deux cas .
+Au moment du diagnostic , le bilan d' extension était positif chez un patient qui présentait des nodules hépatiques et une adénopathie médiastinale .
+Le grading était précisé dans 16 cas : SBR I dans un cas ( 6 % ) , SBR II dans 11 cas ( 69 % ) , SBR III dans quatre cas ( 25 % ) .
+Tableau 3. Classification TNM
+Full-size table ( 7K )
+( n.d. : non déterminés )
+View Within Article
+Tableau 4. Groupement par stades
+Full-size table ( 3K )
+( n.d. : non déterminés )
+View Within Article
+Les récepteurs hormonaux n' étaient recherchés que dans 13 cas .
+Les récepteurs aux estrogènes étaient positifs dans 12 cas ( 92 % ) , ceux à la progestérone étaient positifs dans tous les cas .
+Ces récepteurs n' étaient pas recherchés chez le patient non opéré , les trois patients opérés avant 1991 , le cas du carcinome in_situ , et dans un cas sans raison particulière ( T1 No Mo ) .
+Dix-huit patients ont été traités chirurgicalement .
+Un patient n' a pas été opéré en raison de lourds antécédents cardiovasculaires et est décédé quatre mois après le diagnostic , la cause du décès n' était pas précisée .
+Une exérèse galactophorique a été réalisée suite à une cytoponction orientant vers un papillome intracanalaire , l' examen histologique concluant à un carcinome intracanalaire , une mastectomie avec curage axillaire était réalisée dans un second temps .
+Une mastectomie simple , associée à un curage axillaire homolatéral a été réalisée en première intention dans 15 cas .
+Une mastectomie totale élargie sans curage ganglionnaire a été réalisée dans le cas d' une tumeur classée T4c infiltrant la peau et le muscle grand pectoral , associée à une biopsie d' adénopathie axillaire controlatérale qui s' était révélée négative .
+Une tumorectomie avec curage axillaire a été réalisée pour une petite tumeur classée T1 No Mo en 1989 , elle a été complétée par une mastectomie dix ans plus_tard pour une récidive locale .
+Une radiothérapie externe postopératoire a été réalisée chez 14 patients ( 74 % ) .
+Elle n' a pas été faite dans les cas suivants : une tumeur classée Tis No Mo , une tumeur T1 No Mo de 10 mm de grand axe , une récidive locale T1 No Mo et pour une tumeur multifocale .
+Une chimiothérapie postopératoire a été réalisée dans cinq cas ( 26 % ) : quatre fois pour des ganglions axillaires envahis , une fois pour une tumeur T1 No Mo , de grade SBR III .
+Elle a été également réalisée pour les trois cas métastatiques .
+Une hormonothérapie a été réalisée dans huit cas ( 42 % ) : les deux tumeurs T4 , le cas de récidive locale , une tumeur T1 No Mo et une T2 No Mo de grade SBR III , la tumeur multifocale , et deux des trois cas métastatiques .
+Les récepteurs hormonaux étaient positifs dans sept cas .
+Le seul patient chez lequel l' hormonothérapie a été instituée sans recherche de récepteurs hormonaux était celui de la récidive locale , dix ans après le premier traitement .
+4. Suivi à distance
+La durée du suivi était de 4 à 132 mois avec une moyenne de 52 mois .
+Deux patients sont décédés : un patient aux lourds antécédents cardiovasculaires qui n' avait pas pu être opéré et décédait quatre mois après le diagnostic , la cause précise du décès n' était pas connue .
+Le deuxième décès était d à une insuffisance respiratoire directement liée à des métastases pulmonaires .
+Le taux de survie à un an était de 94 % , à deux ans 93 % , à cinq ans 86 % , et à dix ans 50 % , tous stades confondus .
+Le taux de rémission complète à deux ans était de 87,5 % , à cinq ans de 75 % et à dix ans de 0 % .
+Les taux de survie et de rémission complète des cas N0 , à un , deux et cinq ans étaient de 100 % .
+Pour les stades N1 Mo , les taux de survie à un , deux et cinq ans étaient de 100 % et à dix ans de 0 % .
+Leur taux de rémission complète était de 100 % à un et deux ans , et de 66 % à cinq ans .
+Une seule récidive locale était observée , dix ans après la première tumeur qui avait été traitée par une tumorectomie , curage axillaire et radiothérapie .
+Des métastases à distance étaient découvertes chez trois patients : un cas dont la tumeur était classée T3 N1 , grade SBR III , des nodules hépatiques et une adénopathie médiastinale étaient découverts d'_emblée lors du bilan d' extension systématique .
+Le traitement institué était une mastectomie avec curage axillaire , suivie d' une radiothérapie et d' une hormonothérapie , des métastases osseuses ( lombosacrées ) étaient apparues à deux ans , traitées par une irradiation locale .
+Dans le deuxième cas , des métastases pulmonaires puis hépatiques étaient découvertes lors du bilan d' une toux dix ans après une mastectomie curage pour un carcinome canalaire infiltrant , une biopsie pulmonaire pour preuve histologique était réalisée suivie d' une chimiothérapie palliative .
+Des métastases osseuses apparaissaient un an plus_tard .
+Dans le troisième cas , il s' agissait d' un patient atteint d' une tumeur T1N1 ( avec 17 ganglions envahis sur les 27 prélevés ) , de grade SBR III , traitée par mastectomie curage puis radiothérapie et chimiothérapie adjuvante , chez lequel des métastases pulmonaires et osseuses étaient apparues à cinq ans .
+Une nouvelle radiothérapie et deux lignes de chimiothérapie étaient faites , suivies d' une hormonothérapie .
+Le décès survenait à neuf ans , directement lié aux métastases pulmonaires .
+Trois patients avaient une nouvelle intervention chirurgicale mammaire pour un nouveau nodule : dans un cas il s' agissait d' une récidive locale à dix ans , dans un cas d' un foyer de cytostéatonécrose à un an , dans un cas d' un nodule de gynécomastie dans le sein controlatéral à deux ans .
+Chez un patient , un deuxième cancer ( adénocarcinome de la tête du pancréas ) se déclarait deux ans après son cancer du sein .
+Les complications postopératoires étaient un lymphoedème persistant du membre supérieur dans cinq cas après curage axillaire , un lymphocèle du creux axillaire nécessitant des ponctions répétées dans quatre cas , et des douleurs chroniques dans deux cas .
+5. Discussion
+Le cancer du sein chez l' homme est rare et représente moins de 1 % des cancers chez l' homme1 and 4. L' âge moyen auquel est fait le diagnostic varie entre 59 et 66 ans , environ dix ans plus_tard que chez les femmes 1 ; 3 ; 4 ; 5 and 6.
+La présentation clinique la plus fréquente est un nodule dur rétroaréolaire .
+Les signes cutanés cliniques sont fréquents , par_contre l' atteinte cutanée histologique l' est beaucoup moins 7.
+Le carcinome canalaire infiltrant est le type histologique prédominant : 89 % dans notre série , plus de 80 % dans d' autres études 1 ; 4 ; 5 and 6. Le carcinome intracanalaire est au deuxième rang .
+Le carcinome lobulaire n' existe pratiquement pas chez l' homme , car les lobules ne se développent normalement pas dans le sein masculin .
+Quelques cas ont été décrits dans les syndromes de Klinefelter 5 , et chez quelques hommes ayant un caryotype normal , en_particulier après exposition importante aux estrogènes 2 and 8.
+L' étiopathogénie du cancer du sein chez l' homme reste assez obscure , le nombre de cas étant très limité et ne permettant pas d' étude prospective .
+Cependant certains facteurs de risque semblent pouvoir être incriminés .
+Les antécédents familiaux directs de cancers du sein 1 ; 2 ; 4 ; 5 ; 6 ; 9 ; 10 and 11 , un lien avec le gène BCRA2 12 and 13. La gynécomastie 4 ; 5 and 9 , ainsi_que les médicaments impliqués dans la gynécomastie , tels_que la cimétidine , la ranitidine , le captopril , la digoxine , le vérapamil ou les antidépresseurs tricycliques 9 ont été incriminés .
+Toutefois la relation causale n' est pas bien établie ; et une étude canadienne 2 montre même une incidence plus faible de gynécomastie chez les hommes atteints de cancer du sein ( 25 % ) que dans la population masculine générale ( 36 % ) .
+Un déséquilibre hormonal tel un hyperestrogénisme réel ou relatif ou des anomalies du métabolisme et de l' excrétion des stéroïdes endogènes semblent influer 2 ; 4 ; 5 and 6 , en_particulier dans les dysfonctionnements hépatiques tels_que dans les cas de malnutrition , de schistosomiase ou de cirrhoses .
+En effet , il y a 30 ans en Afrique , l' incidence du cancer du sein chez l' homme était beaucoup plus élevée qu' elle ne l' est actuellement 5 ; 12 ; 13 and 14. De plus , l' effet de l' alcool semble également être incriminé , une consommation régulière d' alcool étant retrouvée dans une étude chez 55 % des patients atteints de cancer du sein 9 , mais la quantité d' alcool ingérée n' est pas précisée .
+Une autre étude retrouve une consommation excessive d' alcool chez 9,6 % de leurs patients atteints de cancer du sein 2 , mais là non plus la quantité n' est pas précisée .
+Dans notre étude , on note une incidence élevée de troubles métaboliques tels_que le diabète ( 32 % ) , l' hypercholestérolémie ( 37 % ) , l' obésité ( 37 % ) ainsi_que l' hypertension artérielle ( 37 % ) .
+Chez les femmes atteintes de cancer du sein , on constate également environ 1 / 3 d' obésité , le diabète semble moins fréquent ( 6 - 7 % ) 15.
+Une hormonodépendance a bien été établie , les récepteurs hormonaux sont positifs dans 65 à 90 % des cas selon les séries , ceux aux estrogènes dans 65 à 86 % et ceux à la progestérone dans 67 à 80 % 4 ; 6 ; 13 ; 16 and 17. Dans notre série , chez les 12 patients où ils ont été recherchés , les taux sont nettement plus élevés ( 91 et 100 % ) .
+La plupart des auteurs ont montré que l' hormonothérapie adjuvante améliorait le pronostic de survie et le taux de rémission complète et préconisent une hormonothérapie systématique pour tous les stades N1 et les métastases 1 ; 2 ; 3 ; 4 ; 6 ; 16 and 17. Dans notre série , sur les six patients dont les ganglions axillaires étaient envahis , seuls deux patients ont reçu une hormonothérapie complémentaire , dont un avait des métastases à distance .
+Le patient décédé de métastases pulmonaires avait une tumeur classée T1 N1 Mo avec 17 ganglions envahis sur 27 prélevés , des récepteurs hormonaux positifs et un grade SBR III .
+L' hormonothérapie adjuvante aurait été peut-être bénéfique chez ce patient si elle avait débuté dans les suites opératoires immédiates , elle a été associée à la radiothérapie et à la chimiothérapie lorsque des métastases se sont déclarées cinq ans plus_tard .
+Le cancer du sein chez l' homme semble avoir un pronostic plus péjoratif que chez la femme , mais ceci est d à une découverte plus tardive donc à un stade plus avancé chez l' homme 1 and 2. Une comparaison entre hommes et femmes présentant des tumeurs à un stade et à un grade identiques , ne montre pas de différences de taux de rémission complète et de survie 3. Un fait inquiétant dans beaucoup d' études est que , le délai de consultation est assez long , avec une moyenne de 6 à 22 mois après l' apparition des premiers symptômes selon les séries , les hommes semblant consulter plus rapidement pour des problèmes de gynécomastie que pour l' apparition d' un nodule 1 ; 6 ; 7 and 18. Des formes très précoces sont détectées chez les femmes par la mise en place du dépistage systématique dans tous les pays industrialisés .
+Celui-ci n' étant pas réalisable chez l' homme , et la possibilité d' un cancer du sein chez l' homme étant souvent inconnue des patients non avertis , celui-ci se présente à un stade plus avancé .
+La survie globale à cinq ans varie selon les études entre 43 et 79 % et à 10 ans entre 10 et 56 % .
+Notre série montre des chiffres plus optimistes ( 86 et 50 % respectivement ) , mais le recul n' est pas assez important et le nombre de cas trop limité ( seulement quatre patients avec un recul de plus de 10 ans ) .
+Le curage ganglionnaire axillaire est compliqué de lymphoedème du membre supérieur invalidant dans 10 à 25 % des cas .
+La biopsie du ganglion sentinelle est une technique largement utilisée pour évaluer le statut ganglionnaire axillaire chez les femmes atteintes d' un cancer du sein à un stade peu avancé , évitant ainsi un curage ganglionnaire inutile .
+Le traitement du cancer du sein chez l' homme a été extrapolé de celui de la femme , et une série de 15 patients opérés d' un cancer du sein chez lesquels une biopsie du ganglion sentinelle a été réalisée , montre son application possible chez l' homme 19. Il semble donc que ce soit une alternative possible du curage axillaire et une prévention de sa morbidité spécifique , que des chirurgiens habitués à la technique pourraient proposer pour les stades peu avancés .
+6. Conclusion
+Le cancer du sein existe chez l' homme , présentant des caractéristiques et une prise en charge diagnostique et thérapeutique similaires au cancer du sein chez la femme , et à stade égal , les taux de survie et de rémission complète sont les mêmes chez l' homme que chez la femme .
+La particularité du CSH étant sa découverte à un stade tardif .
+Le diagnostic et le dépistage sont donc les points les plus importants à développer pour en améliorer le pronostic .
+Il est donc très important que l' examen des seins et des aires axillaires fassent partie , comme chez la femme , de façon systématique de l' examen clinique général de l' homme , en_particulier chez les patients atteints de troubles métaboliques et endocrinologiques tels_que le diabète , l' obésité , l' hypercholestérolémie

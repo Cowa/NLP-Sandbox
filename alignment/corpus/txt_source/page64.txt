@@ -1,0 +1,98 @@
+Chez la femme , le cancer du sein reste la première cause de mortalité entre 35 et 55 ans et son incidence ne cesse d' augmenter .
+Compte tenu de l' amélioration des techniques d' imagerie , de la sensibilisation des patientes et de la généralisation du dépistage mammographique , ces cancers sont découverts à des stades de_plus_en_plus précoces .
+Les thérapeutiques proposées pour ces petits cancers doivent être le plus conservatrices possible en évitant au maximum la morbidité liée aux traitements .
+Le ganglion sentinelle ( GS ) est le premier ganglion qui draine le flux lymphatique provenant de la tumeur .
+S' il n' est pas envahi , il a été établi que les autres ganglions du territoire de drainage sont dans la très grande majorité des cas indemnes de métastases .
+Le curage ganglionnaire n' apporte dès_lors aucun bénéfice .
+La technique du GS a été évaluée dans plusieurs essais internationaux , montrant que la procédure sentinelle permet d' éviter environ 70 % des curages axillaires et ainsi de réduire significativement la morbidité associée au curage ganglionnaire systématique ( lymphoedème , troubles de la mobilité de l' épaule , diminution de sensibilité , douleurs ) .
+Actuellement , après la réalisation d' une courbe d' apprentissage incluant environ 30 à 50 patientes , la procédure sentinelle est réalisée en routine par de nombreuses équipes pour les cancers T1N0M0 unifocaux indemnes de traitements préalables  .
+L' identification des GS repose sur deux méthodes : d'_une_part le radiomarquage des macrophages ganglionnaires par une molécule technétiée ( sulfure de rhénium ou albumine associé au 99mTc émetteur monophotonique ) et d' autre_part le marquage visuel par un colorant bleu lymphophile .
+L' association des deux techniques est actuellement recommandée  .
+L' utilisation d' un radio-isotope permet en_outre l' imagerie préopératoire des GS par lymphoscintigraphie dans un service de médecine nucléaire .
+Toutefois , même dans les équipes les plus entraînées , l' identification des GS reste impossible pour 2 à 10 % des patientes  , conduisant à la réalisation d' un curage ganglionnaire classique .
+Par ailleurs , des récidives ganglionnaires sont décrites dans 0,25 à 1 % des cas  , sans_que l' on puisse savoir si elles sont liées à des GS laissés en place en raison de leur difficulté d' identification ( GS faiblement radioactifs ou situés dans une région anatomique difficile d' accès , tel que l' espace de Rotter ) ou à la présence de cellules cancéreuses dans un ganglion non sentinelle ( GNS ) alors_que le GS est indemne de cellules cancéreuses .
+Les faux-négatif sont définis par la présence d' une atteinte métastatique dans le reste du curage ganglionnaire tandis_que le ou les ganglions identifiés comme sentinelles sont indemnes de lésion cancéreuse .
+Dans les séries anciennes , ce taux de faux-négatifs , établi en comparant les GS et les ganglions du curage complémentaire réalisé dans le même temps opératoire , était en moyenne compris entre 5 et 10 % .
+Cette valeur était probablement surestimée en raison de l' insuffisance de finesse d' analyse histologique du GS ( absence de coupes sériées et d' immunohistochimie )  .
+En plus du risque de récidive axillaire , ces faux-négatifs sont source de sous-évaluation de la maladie et de sous-traitement , avec des conséquences éventuelles sur la survie .
+Bien que le principe du GS soit celui d' une chirurgie sélective , le taux de faux-négatifs est anticorrélé avec le nombre de GS prélevés  .
+Ainsi , pour vérifier si l' optimisation du matériel utilisé permettrait d' accroître les performances de la procédure sentinelle , plusieurs équipes travaillent actuellement sur l' amélioration des sondes opératoires  et la mise au point de gamma-caméras utilisables au bloc opératoire pendant l' exérèse des GS .
+2. Les sondes opératoires
+Deux types de sondes sont utilisables pour la détection des GS : les sondes à semi-conducteurs et les sondes à cristaux scintillants , dont il existe plusieurs modèles sur le marché  .
+Toutes deux ont pour objectif de convertir les photons gamma de 140 keV émis par le 99mTc marquant le GS en électrons par effet photoélectrique ou effet Compton et d' en extraire un signal exploitable .
+La qualité du blindage , la collimation et la production du signal électrique varient pour chaque sonde .
+La performance des sondes peut être évaluée en tenant compte d' un certain nombre de paramètres , tels_que le pouvoir séparateur ou résolution spatiale ( LTMH : largeur totale à mi-hauteur en millimètres de la réponse impulsionnelle ) d' importance pour la sélection des GS parmi l' ensemble des ganglions axillaires , la sensibilité ( fraction des photons gamma détectés par la sonde qui s' exprime en cps.kBq-1 , cps : coups par seconde ) et la maniabilité de l' instrument  .
+2.1. Sondes à semi-conducteurs
+Les électrons produits par les photons gamma dans le cristal semi-conducteur créent par ionisation des charges électriques sous forme de paires électron-trou , qui sont collectées par deux électrodes de polarisation .
+Les matériaux semi-conducteurs couramment utilisés sont ceux qui fonctionnent à température ambiante : le tellurure de cadmium ( CdTe ) et le tellurure de zinc et cadmium ( CdZnTe ) .
+La principale caractéristique des détecteurs fondés sur ces matériaux est une excellente résolution en énergie ( 5 % LTMH à 140 keV ) , qui n' est cependant pas une qualité indispensable pour la technique du GS .
+L' avantage de l' utilisation des semi-conducteurs réside dans le fait que l' information peut être traitée électroniquement sans l' association d' un dispositif additionnel , facilitant leur miniaturisation .
+Néanmoins , une épaisseur de 6 mm de CdZnTe serait nécessaire pour convertir 90 % des photons gamma du 99mTc .
+Or , pour des raisons technologiques , le bon fonctionnement de ces détecteurs ne peut être assuré que pour des épaisseurs de quelques millimètres .
+Il s' ensuit que la perte subie en probabilité d' interaction des photons gamma demande à être compensée par une surface de détection élevée , au prix d' une augmentation du bruit et au détriment du pouvoir séparateur .
+2.2. Sondes à cristaux scintillants
+Elles fonctionnent sur le principe suivant : un cristal transparent joue le rôle de convertisseur des photons gamma en électrons dont l' énergie déposée est restituée sous forme de photons de scintillation détectés par un photomultiplicateur ( PM ) générateur d' un courant électrique .
+Jusqu' alors les principaux cristaux utilisés étaient le germanate de bismuth ( BGO ) , l' iodure de césium ( CsI ( Tl ) ) et l' iodure de sodium ( NaI ( Tl ) ) activés au thallium , qui sont des cristaux à temps de décroissance long pour lesquels une électronique avait été développée en raison de leurs multiples applications en physique nucléaire .
+Ces cristaux , étant pour la majorité hygroscopiques , nécessitent un encapsulage protecteur .
+Le Tableau 1 présente les principales caractéristiques physiques des cristaux scintillants cités dans cet article .
+Les propriétés importantes sont la longueur d' interaction ( ou longueur d' atténuation ) , le rendement lumineux et la longueur d' onde d' émission .
+Tableau 1.
+Caractéristiques physiques des cristaux scintillants à temps de décroissance lents et rapides cités dans cet article
+NaI ( Tl ) CsI ( Tl ) BGOYAP:CeGSO:CeLSO:CeLYSO:Ce NaICsBi4 ( GeO4 ) 3YAlO3Gd2SiO5Lu2SiO5Lu1,8Y0,2SiO5 Densité ( g.cm - 3 ) 3,674,517,135,376,717,407,1 / ( cm2.g - 1 ) 0,660,721,460,3190,8541,251,442 Longueur d' interaction à 140 keV ( cm ) 0,410,280,0850,580,170,1080,10 Zeff50547436586565 Indice de réfraction n1,851,782,151,951,851,821,81 Temps de décroissance ( ns ) 23090030025564048 Longueur d' onde d' émission ( nm ) 415550480370430420430 Rendement lumineux ( photons.MeV - 1380005200090001800090003000032000 HygroscopiqueOuiOuiNonNonNonNonNon
+Full-size table
+View Within Article
+L' IPHC ( institut pluridisciplinaire Hubert Curien ) de Strasbourg a développé au sein du projet ImaBio ( interface physique biologie et médecine ) une sonde de reconnaissance de GS appelée CarolIReS  .
+L' originalité du système réside dans le couplage d' un PM et d' un cristal scintillant inorganique non hygroscopique à temps de décroissance rapide , l' yttrium aluminium perovskite dopé au cérium ( YAP:Ce ) .
+Les propriétés du YAP:Ce décrites dans le Tableau 1 ont permis de réduire le diamètre utile de la tête de détection à 4 mm , dimension inférieure à la taille courante d' un GS .
+Le cristal est protégé contre le bruit de fond extérieur par un blindage de tungstène de 3 mm d' épaisseur pouvant également faire office de collimateur à deux positions .
+Dans sa conception actuelle , la sonde est équipée d' un cristal de 12 mm de longueur assurant une probabilité d' interaction des photons de 87 % avec une résolution en énergie de 56 % LTMH à 140 keV .
+La combinaison d' un faible diamètre d' ouverture et d' un blindage efficace confère à la sonde une sensibilité ( 18 cps.kBq-1 ) et un pouvoir séparateur ( LTMH = 10 mm ) élevés  .
+Le boîtier électronique qui gère les informations électriques reçues de la sonde , se connecte sur un ordinateur via un lien USB ( Universal Serial Bus ) .
+Cette particularité permet le contrôle , voire le réajustement , des constantes d' étalonnage à la suite d' une prise de données réalisées à_partir_de la radioactivité du site d' injection dans le sein de la patiente .
+L' électronique développée pour cette sonde permet d' envisager de l' équiper de cristaux tels_que l' oxyorthosilicate de lutécium ( LSO:Ce ) ou l' orthosilicate de lutécium et yttrium ( LYSO:Ce ) dopés au cérium , bien adaptés à la détection de photons gamma de 511 keV provenant de radio-isotopes émetteurs de positons , tels_que le fluorodésoxyglucose marqué au fluor 18 ( 18 F - FDG ) , pouvant révéler la présence de cellules cancéreuses dans le GS .
+2.3. Répercussions des paramètres physiques des sondes sur la qualité de la procédure sentinelle
+La sensibilité élevée d' une sonde , autrement dit son seuil de détection , est probablement le paramètre le plus important dans la procédure sentinelle .
+En effet , il a été démontré que ce n' est pas toujours dans les ganglions les plus radioactifs que sont situées les cellules cancéreuses  .
+Lorsqu' un GS est massivement métastasé , sa population macrophagique est parfois très réduite , et par_conséquent l' activité du GS peut être très faible .
+Si la sonde utilisée possède une sensibilité médiocre , les GS faiblement radioactifs peuvent ainsi échapper à leur identification isotopique .
+La palpation minutieuse du creux axillaire permet toutefois de retrouver ces ganglions massivement métastasés lorsqu' ils sont d' une certaine taille et situés au niveau anatomique I et II de Berg .
+En revanche , ils sont plus difficiles à identifier lorsqu' ils sont très petits , situés dans l' espace de Rotter ou de localisation intramammaire .
+Une sonde ayant une bonne sensibilité peut alors présenter une aide potentielle .
+L' utilisation d' une sonde à pouvoir séparateur élevé permet d' éviter l' exérèse inutile de GNS , la morbidité postopératoire étant liée au nombre de ganglions prélevés .
+Enfin , l' utilisation d' une sonde bien blindée permet la recherche des GS intramammaires ( GSIM ) , qui peuvent être situés dans l' environnement immédiat des points d' injection des radiocolloïdes .
+Or , l' envahissement de ces GSIM a un impact pronostique important .
+Dans l' étude de McSweeney et Egan , la survie à dix ans est de 33 % en cas d' atteinte du ganglion intramammaire et de 76 % lorsque ce ganglion est indemne  , ce qui justifie pleinement son exérèse lorsqu' il a été identifié sur la lymphoscintigraphie  .
+3. Les gamma-caméras opératoires
+Plusieurs laboratoires ont mis au point des gamma-caméras opératoires  .
+Ces appareils contribuent au dénombrement des GS .
+En effet , sachant que l' efficacité de la lymphoscintigraphie effectuée la veille de l' intervention quelques heures après l' injection n' atteint que 85 à 90 % , il est utile de disposer d' un cliché pour la détection préopératoire immédiate des GS qui se révèlent après l' obtention du cliché scintigraphique de la veille .
+Pour les services de chirurgie qui sont éloignés des services de médecine nucléaire , les gamma-caméras opératoires peuvent alors représenter une aide .
+Ces gamma-caméras opératoires sont particulièrement utiles pour contrôler la qualité de l' exérèse des GS .
+Après excision des GS diagnostiqués par la lymphoscintigraphie , la recherche d' éventuels GS surnuméraires est à l' heure actuelle réalisée à l' aide d' une sonde opératoire .
+Cette investigation accroît le temps opératoire et la morbidité chirurgicale .
+La réalisation d' une lymphoscintigraphie du creux axillaire pendant le temps consacré à l' examen extemporané des GS extraits , permet de mettre en évidence la présence de GS non détectés en raison de leur faible marquage ou de leur situation anatomique particulière , parce_que masqués par la contribution radioactive des GS extraits .
+De plus , l' image scintigraphique réalisée à la fin de l' intervention chirurgicale et montrant l' absence de radioactivité résiduelle peut tenir lieu de document de contrôle de qualité .
+Pour que de telles caméras puissent être utilisées au bloc opératoire , leur volume doit être réduit afin_qu' elles puissent être positionnées au contact du creux axillaire , la patiente étant allongée , le bras en abduction à 80. Leur maniabilité doit être telle qu' elles puissent permettre également la réalisation d' une iconographie de la glande mammaire ( recherche des GSIM ) .
+Le temps d' obtention des images ne doit pas dépasser la durée moyenne des examens extemporanés afin_de ne pas prolonger le temps opératoire .
+Enfin comme pour les sondes , leur sensibilité et pouvoir séparateur doivent être élevés .
+On trouve sur le marché de tels dispositifs fonctionnant sur la base de détecteurs à semi-conducteurs .
+L' argumentation développée plus haut à_propos des sondes peropératoires vaut aussi pour les caméras opératoires .
+De plus le champ de vue de ces imageurs est limité à 5050 mm2 .
+Parallèlement à la réalisation de la sonde opératoire , l' IPHC développe une gamma-caméra opératoire à collimateur parallèle CarolIReS  , d' une surface utile de détection de 100100 mm2 bien adaptée à l' examen du creux axillaire .
+Elle est constituée de quatre modules de détection associant un cristal scintillant inorganique à temps de décroissance rapide , le silicate de gadolinium dopé au cérium ( GSO:Ce ) et un PM de type multianode 64 voies ( 5,6 5,6 mm2 ) pour obtenir une image pixellisée à partir du calcul des coordonnées du centre de gravité de l' interaction du photon gamma dans le cristal plan .
+Le dispositif électronique de traitement des signaux a été entièrement réalisé à l' IPHC avec en_particulier l' utilisation d' un circuit intégré développé au sein de l' IN2P3 ( Institut national de physique nucléaire et de physique des particules ) .
+Full-size image ( 56K )
+Fig. 1. Représentation schématique de l' utilisation de la gamma-caméra pour l' imagerie du creux axillaire .
+View Within Article
+Un prototype réalisé sur la base d' un module élémentaire ( 5050 mm2 ) est en cours d' évaluation clinique .
+Néanmoins , les études préliminaires menées au laboratoire avec des sources radioactives et des fantômes de GS montrent que sa sensibilité est de l' ordre de 1 cps.kBq-1 avec une résolution spatiale de 10 mm pour un GS situé à une distance de 30 mm de la face d' entrée du collimateur .
+L' image scintigraphique , réalisable en deux minutes est présentée en ligne , après traitement informatique , sur l' écran d' un ordinateur .
+La Fig. 2 présente l' image ( pixels 1 1 mm2 ) de deux fantômes de GS d' activité 3,2 et 1,7 kBq , distants de 18 mm .
+Full-size image ( 61K )
+Fig. 2. Image de deux fantômes de GS d' activité 3,2 et 1,7 kBq , distants 18 mm ( temps d' acquisition : deux minutes ) .
+View Within Article
+4. Conclusion
+L' utilisation combinée de deux dispositifs opératoires de hautes performances devrait conduire à la réduction significative de la morbidité de l' acte chirurgical , du taux de faux-négatifs et par_conséquent du risque de récidive axillaire .
+Remerciements
+Les auteurs tiennent à remercier le Pr D. Huss , Directeur de l' IPHC , pour son soutien constant dans le développement des dispositifs médicaux CarolIReS .
+La réalisation de la gamma-caméra opératoire a été rendue possible grâce au soutien financier du Comité du Bas-Rhin de la Ligue contre le Cancer et du laboratoire Pfizer

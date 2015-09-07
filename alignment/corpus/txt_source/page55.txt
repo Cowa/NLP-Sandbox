@@ -1,0 +1,240 @@
+Malgré deux décennies de recherches intensives , le cancer du sein reste la première cause de mortalité féminine entre 35 et 55 ans et son incidence ne cesse d' augmenter à_la_fois dans les pays industrialisés et dans les pays en voie de développement  .
+En 2000 , 41845 nouveaux cas de cancer du sein ont été rapportés chez les femmes françaises et environ 11000 décès lui ont été attribués .
+Les progrès thérapeutiques récents ont diminué les taux de mortalité à 15 ans .
+Néanmoins , ces taux varient de 30 à 50 % selon l' âge des patientes , le type et la taille du cancer et les thérapeutiques choisies  .
+Des méthodes de prévention primaire sont à l' étude  mais aucune n' a été validée .
+Encore aujourd'hui , le diagnostic des cancers du sein repose dans plus de la moitié des cas sur la perception par la patiente elle-même d' une anomalie mammaire .
+Or , lorsqu' une tumeur est perçue à l' examen clinique , sa taille est généralement supérieure à un centimètre  .
+Dans les autres cas , c' est l' imagerie qui conduit à la découverte du cancer .
+Mais là encore , les opacités tumorales ne sont visibles qu' au-delà d' un diamètre de cinq millimètres .
+Or , la taille du cancer au moment de sa détection influence le pronostic  .
+De nombreux travaux ont montré qu' un cancer millimétrique a un risque métastatique extrêmement faible et que ce risque croît avec l' augmentation du volume de la tumeur .
+Il est donc fondamental de dépister les cancers le plus précocement possible .
+La prise en charge actuelle des patientes est fondée sur des données cliniques ( âge , stade d' extension , signes inflammatoires , vitesse d' évolution tumorale ) , anatomiques et morphologiques ( taille de la tumeur , atteinte ganglionnaire , grade ) et moléculaires ( récepteurs hormonaux , HER-2 ) qui appréhendent déjà l' hétérogénéité des tumeurs et qui influencent l' élaboration d' une stratégie thérapeutique .
+Néanmoins , il est fréquent de constater que certaines patientes dont le pronostic était favorable connaissent une évolution péjorative , témoignant des limites des outils disponibles à ce jour .
+À l' inverse , il est possible de s' interroger sur l' excès de traitements adjuvants subis par d' autres patientes .
+Ces traitements , peu spécifiques et potentiellement toxiques sont délétères à la qualité de vie des patientes .
+Une caractérisation moléculaire plus approfondie des tumeurs paraît donc indispensable pour améliorer le diagnostic précoce , établir plus finement le pronostic et par_là même la séquence thérapeutique .
+À terme ces progrès feront progresser les chances de survie et la qualité de vie des patientes .
+Depuis quelques années , bénéficiant des connaissances issues du séquençage du génome humain et des progrès technologiques , notamment en informatique , se développent de nouveaux outils permettant une analyse moléculaire à l' échelle pangénomique .
+Les études les plus avancées concernent le décryptage du transcriptome .
+Le transcriptome est l' ensemble des ARN messagers produits à partir du génome d' un tissu à un moment donné .
+C' est en_quelque_sorte l' instantané du génome actif .
+Des études rétrospectives comparant les transcriptomes issus de cancers du sein ont identifié , grâce_à la technologie des micropuces à ADN , des groupes de gènes ayant une valeur pronostique potentielle  .
+Ces signatures génétiques pourraient surpasser l' utilisation combinée des éléments pronostiques traditionnels  .
+Bien qu' encore préliminaires  , ces résultats sont prometteurs quant_à une meilleure sélection des patientes réellement à risque , avec en_conséquence , moins de sous- ou surtraitements .
+Full-size image ( 63K )
+Fig. 1. Représentation schématique d' une cellule avec les différentes étapes aboutissant à la synthèse protéique .
+Le cytoplasme est coloré en ocre , le noyau en gris .
+Les gènes sont situés au niveau des chromosomes contenus dans le noyau .
+Les gènes sont transcrits en ARN messagers ( ARNm ) , eux-mêmes traduits en protéines .
+View Within Article
+À l' instar du transcriptome , le protéome représente l' ensemble des protéines synthétisées à partir du génome dans un tissu et à un moment donné  .
+Bien que dépendant du transcriptome , le protéome est notablement plus vaste car un gène peut coder pour plusieurs protéines et les protéines peuvent subir des modifications post-traductionnelles fonctionnellement cruciales .
+En effet , on estime que les 30000 gènes répertoriés chez l' homme sont traduits en un million de protéines .
+L' étude à grande échelle du protéome est plus récente que celle du génome et transcriptome , car contrairement à l' ADN et l' ARN qui sont respectivement les molécules supports du génome et du transcriptome , les protéines sont méthodologiquement plus difficiles à étudier car plus complexes et fragiles .
+En cancérologie , il est possible d' explorer le protéome tumoral et le protéome circulant .
+L' exploration du protéome tumoral se fait directement sur la tumeur .
+En conséquence , elle s' applique aux tumeurs détectées par les approches conventionnelles .
+Elle vise à mieux classer les tumeurs en établissant des profils d' expression protéiques ayant une valeur pronostique et à comprendre la maladie dans sa globalité .
+L' exploration du protéome circulant est plutôt dédiée à la recherche de nouveaux marqueurs circulants caractéristiques d' un type de cancer .
+Les marqueurs circulants offrent en_théorie la possibilité de détecter un cancer par l' examen d' un fluide biologique comme le sang ou les urines .
+Ils sont soit dérivés de protéines secrétées ou libérées par les cellules cancéreuses dans la circulation sanguine , soit traduisent au niveau sanguin des modifications engendrées par la présence d' une tumeur dans un organe .
+Actuellement , un seul marqueur de cancer du sein est utilisé en clinique .
+Il correspond à la protéine MUC1 ( CA 15.3 ) .
+Son dosage ne permet pas le dépistage ou le diagnostic précoce mais il est utile au suivi évolutif de la maladie générale  .
+L' exploration du protéome circulant par des techniques à grande échelle , utilisant notamment des puces à protéines , devrait engendrer la découverte de nouveaux marqueurs circulants permettant le diagnostic précoce , l' évaluation du pronostic et la surveillance des cancers mammaires .
+Les premiers travaux montrant l' intérêt clinique de la protéomique dans les domaines du cancer de l' ovaire et de la prostate furent ceux du groupe de Petricoin et Liotta qui montrèrent qu' à_partir_d' un simple échantillon sanguin , une combinaison de plusieurs marqueurs sériques ( la signature protéique ) permettait de dépister les cancers  .
+Des résultats prometteurs ont été rapportés par_la_suite pour les cancers du sein  , du rein  , du pancréas  , de la vessie  ou du foie  .
+Ces résultats ont suscité un immense intérêt pour la protéomique clinique .
+Celui-ci a toutefois été pondéré par de nombreuses critiques sur les limitations de ces nouvelles approches .
+Ainsi , une méta-analyse réalisée à partir des données issues de laboratoires différents a révélé le manque de reproductibilité de ces approches  .
+Il a été démontré que l' établissement des signatures protéiques sériques était très dépendant du protocole de recueil des échantillons , des méthodes de préparation et d' analyse des échantillons et des outils informatiques utilisés .
+Les travaux plus récents prennent maintenant en compte ces paramètres de validation et de standardisation .
+Ainsi , une étude multicentrique sur le cancer de l' ovaire  a impliqué cinq laboratoires différents avec un protocole standardisé .
+Elle a permis une validation croisée et indépendante des résultats d' un laboratoire à l' autre .
+De plus , lors_de ces travaux , l' identification des protéines candidates a permis de réaliser une étape de validation supplémentaire par des méthodes indépendantes  .
+La caractérisation de ces marqueurs potentiels devrait permettre , à terme , de mieux comprendre les bases moléculaires de la progression tumorale et même d' imaginer des nouveaux traitements ciblés .
+Dans cette revue nous présentons les principales méthodes d' études protéomiques appliquées en cancérologie mammaire et nous discutons les avancées les plus récentes de ce domaine .
+2. Principales techniques de protéomique
+Les différentes technologies utilisées actuellement pour l' étude du protéome font appel aux techniques de séparation et d' identification des protéines .
+La caractérisation débute par une séparation des différentes protéines du mélange étudié .
+Les méthodes les plus courantes sont l' électrophorèse bidimensionnelle sur gel ou la chromatographie .
+Ensuite les protéines d' intérêt sont identifiées grâce aux méthodes de spectrométrie de masse et par comparaison des échantillons témoins et des échantillons pathologiques .
+Des logiciels informatiques ont été développés pour repérer les différences et établir les signatures protéiques .
+2.1. Électrophorèse bidimensionnelle
+L' électrophorèse bidimensionnelle ( encore appelée électrophorèse 2D ) est une méthode de séparation protéique utilisant deux dimensions .
+La première dimension sépare les protéines selon leur point isoélectrique ( pI ) dans un gel de polyacrylamide comportant un gradient de pH .
+La deuxième dimension utilise l' électrophorèse en conditions dénaturantes en présence de SDS , qui sépare les protéines selon leur masse moléculaire .
+Les protéines présentes sur ces gels sont visualisées par différentes méthodes comme la coloration au bleu de Coomassie et l' image obtenue est enregistrée .
+Des logiciels performants comparent et analysent les images répertoriées .
+Un profil de référence est constitué et les taches correspondant à des protéines différentiellement exprimées sont identifiées .
+Les protéines repérées sont alors digérées par la trypsine à_l'_intérieur même du gel de polyacrylamide et les peptides générés sont étudiés par spectrométrie de masse telle_que le MALDI-TOF ( Matrix Assisted laser Desorption Ionization-Time Of Flight ) qui permet leur identification en fonction du rapport de leur masse et de leur charge ( m / z ) .
+L' ensemble des masses des peptides générés par la trypsine constitue la carte peptidique massique de la protéine .
+Des logiciels permettent d' identifier la protéine digérée en comparant la carte peptidique massique obtenue aux cartes peptidiques théoriques déduites des séquences de chaque protéine présente dans les banques de données .
+Cette approche permet d' identifier les protéines quand elles sont recensées .
+Lorsque la protéine n' est pas présente dans ces banques , il est possible d' obtenir des informations sur la séquence en acides aminés des peptides obtenus par protéolyse à la trypsine en mesurant les masses des produits de fragmentation de ces peptides en mode MS / MS ( double spectrométrie ) .
+Ainsi , l' électrophorèse 2D permet d' analyser , simultanément et de façon semi-quantitative , l' expression d' un millier de protéines .
+Cette technique permet d' identifier des protéines variant en quantité ou présentant différentes modifications post-traductionnelles .
+Elle a cependant des limites qualitatives et quantitatives .
+C' est pourquoi d' autres méthodes ont été développées .
+2.2. Puces à protéines
+Pour des raisons de miniaturisation , les techniques chromatographiques se sont développées sous forme solide comme des surfaces d' adsorption planes ( Proteinchip array ) ou de billes ( Autoflex )  .
+Les sociétés Ciphergen ( Biosystems , Inc. Fremont , CA États-Unis ) et Brucker ( Brucker Daltonics , Bremen , Germany ) ont respectivement développé ce type de technologie .
+Le Proteinchip Biology System couple la chromatographie en phase solide réalisée sur des puits ou puces à la spectrométrie de masse .
+Ainsi , la séparation des protéines d' un mélange se fait par rétention sélective sur des surfaces chimiquement actives , puis la masse des protéines fixées est mesurée par spectrométrie de masse .
+Le principe consiste à déposer un échantillon complexe ( quelques microlitres de sérum , urine , extrait tissulaire ) sur une puce d' un millimètre de diamètre recouverte d' une surface active .
+Les puces sont au nombre de 8 ou 16 sur une barrette .
+Ainsi , plusieurs échantillons indépendants peuvent être analysés simultanément .
+Les puces de chaque barrette sont identiques et possèdent une surface chromatographique relativement sélective .
+Seules les protéines dont les propriétés physicochimiques sont compatibles avec cette surface se fixent .
+Ainsi , une fraction du protéome est retenue et analysée sur chaque puce .
+Mais , elle est la même pour les différents échantillons et ils sont ainsi directement comparables .
+Plusieurs surfaces chromatographiques permettant de retenir des protéines ayant des caractéristiques distinctes ( hydrophiles , hydrophobes , anioniques , cationiques , affinité pour des métaux ) ont été développées .
+Leur utilisation combinée permet en_théorie de couvrir l' ensemble du protéome .
+La masse des protéines immobilisées sur la puce est déterminée par SELDI-TOF MS ou Surface Enhanced laser Desorption Ionization Time-Of-Flight Mass Spectrometry  .
+L' analyse informatique comparative des différents profils permet d' identifier les protéines discriminantes de chaque sous-groupe étudié ( par_exemple cancer et non cancer , cancer in_situ et infiltrant ou encore cancer localisé et généralisé ) .
+3. Protéome et cancer du sein3.1 .
+Protéome tissulaire
+Ces études sont menées sur des cellules cancéreuses en culture ou sur les tumeurs elles-mêmes .
+L' étude des tumeurs est compliquée par l' hétérogénéité cellulaire des cancers du sein .
+Une aide méthodologique existe comme la microdissection par capture laser ( LCM ) .
+En effet , la LCM permet de sélectionner les populations cellulaires d' intérêt à_partir_de coupes de tissus observées au microscope .
+Elle permet ainsi de séparer les cellules cancéreuses et / ou le stroma tumoral et d' étudier ainsi le microenvironnement tumoral .
+Les cellules microdisséquées sont ensuite lysées pour libérer les protéines .
+3.1.1. Protéome et cancer in_situ du sein
+Le cancer canalaire in_situ ( CCIS ) est une lésion où les cellules cancéreuses sont confinées à_l'_intérieur d' un canal galactophorique intact .
+Des études ont montré que ces lésions étaient des précurseurs des formes invasives puisqu' elles possédaient des altérations génétiques et épigénétiques comparables à celles trouvées dans les cancers invasifs  .
+Une étude protéomique a comparé , chez les mêmes patientes atteintes de CCIS , les protéomes des CCIS à celui du tissu normal prélevé à distance  .
+La méthodologie des gels 2D couplée à l' identification des protéines par spectrométrie de masse a été appliquée à six cas de CCIS .
+De plus , pour quatre de ces cas , l' étude a été menée en employant des cellules épithéliales cancéreuses et normales microdisséquées .
+Cinquante-sept protéines dont l' expression varie ont été identifiées .
+Elles sont , pour la_plupart , plus abondantes dans le cancer par rapport au tissu normal , toutefois 16 d' entre elles varient inversement .
+Quarante-neuf , sept et une protéines ne varient respectivement que dans un , deux et trois cas sur les six étudiés , attestant de l' hétérogénéité des CCIS .
+Des différences quantitatives ainsi_que des modifications post-traductionnelles ont été relevées .
+Les protéines identifiées sont impliquées dans des fonctions cellulaires diverses comme l' architecture du cytosquelette , la signalisation , le trafic vésiculaire intracellulaire , le métabolisme des ARN et celui des protéines .
+De manière assez surprenante , la majorité des protéines identifiées n' avaient pas été incriminées dans la pathologie auparavant .
+Cependant , l' expression modifiée de dix protéines sur les 15 testées a été retrouvée par immunohistochimie sur des cas indépendants .
+Cet exemple illustre l' intérêt de cette approche dans la mise en évidence de nouvelles protéines potentiellement importantes dans les cancers du sein  .
+3.1.2. Protéome et cancer infiltrant du sein
+Le cancer infiltrant ( CI ) , quel que soit son type architectural ( canalaire , lobulaire , tubuleux ) , est caractérisé par la rupture de la membrane basale et la présence de cellules cancéreuses dans le tissu conjonctif .
+Une étude protéomique ayant employé la technologie des gels 2D couplée à l' identification des protéines par spectrométrie de masse a été appliquée à quatre cas de CI  .
+Le protéome de chaque cas a été comparé au même échantillon de référence , un prélèvement d' une réduction mammaire .
+Chacun des CI exprime des protéines différentes du tissu normal .
+Leur identification a montré peu de recoupement entre les cancers au niveau qualitatif et quantitatif .
+Au total 737 protéines furent observées et 41 varient de manière similaire dans les quatre cas de CI .
+Seules , quatre protéines , la protéine heat-shock 70 ( HSP70 ) , la proapolipoprotéine , l' alpha-1 antitrypsine et la peroxiredoxin 2 sont modifiées avec une différence supérieure à trois fois dans les quatre cas  .
+Les auteurs ont choisi quatre cas de CI ayant des caractéristiques histopathologiques très différentes .
+Cela se traduit par le faible recoupement entre les protéines trouvées dans les différents cas .
+Ces données attestent de l' hétérogénéité des CI .
+Une autre étude protéomique visant à mettre en évidence les signes distinctifs de l' expression de l' oncogène HER-2 dans les CI a été réalisée récemment  .
+Dans cette étude , les tumeurs ont été soigneusement sélectionnées afin_de comparer des tumeurs ne différant que pour l' expression d' HER-2 parmi les critères habituellement pris en compte .
+Six tumeurs ayant des caractéristiques clinicopathologiques très proches ont été choisies .
+Les cellules épithéliales cancéreuses des trois tumeurs HER-2 positives et celles des trois tumeurs HER-2 négatives ont été respectivement isolées par LCM puis mélangées avant l' extraction des protéines .
+Vingt et une protéines dont l' expression variait de plus de cinq fois entre les deux groupes ont été trouvées après gel 2D et identification par MALDI-TOF MS .
+Dix-neuf protéines connues et quatre inconnues ont été répertoriées .
+Les protéines connues participent à différentes fonctions biologiques comme l' architecture du cytosquelette , le stress cellulaire et le métabolisme intermédiaire .
+De plus plusieurs protéines ayant des fonctions antioxydantes ou de détoxification ont été isolées .
+La même équipe a validé certains des marqueurs potentiels trouvés par protéomique par immunoblot et immunohistochimie sur des lignées cellulaires ou d' autres tumeurs  .
+Les protéines testées comme la cytokératine 19 , la phosphoglycerate kinase 1 , la fatty acid synthase , la protéine heat shock 27 ( HSP27 ) et la glyoxalase 1 se sont retrouvées surexprimées de manière significative dans les tumeurs HER-2 positives  .
+Récemment , Ricolleau_et_al.  ont appliqué la méthode des puces à protéines à la caractérisation de marqueurs utiles au pronostic des tumeurs sans envahissement ganglionnaire .
+Les profils protéiques de 60 tumeurs N0 ( sans atteinte ganglionnaire ) , provenant de 30 patientes en rémission complète et ceux de 30 patientes ayant présenté une évolution métastatique ont été comparés .
+Parmi 73 pics protéiques identifiés , deux se sont révélés significatifs à l' établissement du pronostic .
+La nature des protéines correspondant à ces pics a été recherchée .
+Il a été démontré qu' ils correspondaient à l' ubiquitine et à la chaîne légère de la ferritine ( FLC ) et qu' un niveau cytosolique élevé d' ubiquitine et / ou un faible niveau de FLC était associé à un bon pronostic des tumeurs N0 .
+Certaines protéines trouvées dans ces différentes études de protéomique sont déjà connues et leur rôle dans le cancer du sein est établi .
+À l' inverse , d' autres protéines sont méconnues et leur implication dans la cancérogenèse mammaire reste à déterminer .
+Bien qu' encourageants ces résultats montrent que d' autres études portant sur un plus grand nombre d' échantillons tumoraux seront nécessaires pour affiner la classification protéomique de ce type de lésion .
+3.1.3. Modèles cellulaires
+La protéomique appliquée à des modèles cellulaires est plus aisée car les populations cellulaires sont pures et homogènes .
+Elle vise plutôt à répondre à des questions précises ou à vérifier des hypothèses .
+Cette approche est un outil pour décrypter les voies de signalisation cellulaire impliquées par la présence ou la sécrétion d' un facteur particulier .
+Un modèle cellulaire mimant des cellules cancéreuses surexprimant HER-2 a été construit à_partir_d' une lignée parentale de cellules épithéliales mammaires humaines normales , la lignée HB4a  .
+Les protéomes des cellules parentales et celui des cellules surexprimant HER-2 ont été comparés par la technologie des gels 2D suivie de l' identification par MALDI-TOF MS .
+Trente-cinq protéines dont 18 furent identifiées sont exprimées de manière différentielle entre les deux échantillons  .
+Les différences d' expression varient entre 18 et 1,4 fois .
+Il est intéressant de noter que la protéine dont l' expression varie le plus est la HSP27 une protéine retrouvée par_ailleurs dans l' étude protéomique consacrée aux CI surexprimant HER-2  .
+La protéomique appliquée aux modèles cellulaires permet aussi d' étudier l' effet d' agents thérapeutiques .
+Un travail original a étudié les modifications de l' expression protéique de différentes lignées cellulaires sensibles ( MCF-7 , T47D ) ou résistantes ( MCF-7 / ADR ) à des cytotoxiques ( doxorubicine ou paclitaxel ) en utilisant une approche combinée MALDI-TOF et SELDI-TOF MS .
+Cette étude n' est pas allée jusqu' à l' identification des protéines différentielles mais elle les a répertoriées en fonction de leur masse .
+C' est un premier pas démontrant qu' il est possible d' établir une signature de plusieurs marqueurs permettant de différencier des cellules chimiosensibles ou chimiorésistantes  .
+3.2. Protéomique circulant
+Ces études sont menées sur des fluides biologiques .
+En cancérologie mammaire deux sources sont privilégiées , il s' agit des liquides d' aspiration mamelonnaire et du sang .
+La technologie SELDI-TOF MS domine ce champ de recherche car elle est plus adaptée à l' étude comparative de grandes séries de patientes .
+Néanmoins , certaines études ont utilisé les gels 2D couplés au MALDI-TOF MS .
+Ces études visent plutôt à établir des signatures protéiques qui serviront de base à l' élaboration de dosages de nouveaux marqueurs prédictifs ou pronostiques .
+3.3. Protéome et écoulement mamelonnaire
+L' analyse protéomique des liquides d' aspiration mamelonnaire offre de nombreux avantages .
+Les liquides d' aspiration mamelonnaire peuvent être obtenus de manière non invasive avec des tire-laits électriques et il est possible de comparer chez la même patiente le liquide provenant du sein atteint à celui du sein témoin .
+De plus , ce liquide est en contact direct avec les cellules mammaires normales et / ou cancéreuses .
+Plusieurs études ont été publiées employant des protocoles et des méthodes différentes .
+Cela se traduit par des résultats peu comparables  .
+Plusieurs études ont comparé les protéomes de patientes à celui de contrôles sains et ont trouvé des signatures protéiques corrélées à la maladie  .
+D' autres études ont comparé les protéomes de liquides d' aspiration mamelonnaire issus du sein atteint à ceux issus du sein controlatéral servant de contrôle  .
+De manière intéressante , ces études montrent qu' il existe peu de variations entre les protéomes issus des deux seins  .
+Cependant , un profil protéique a pu être corrélé à la présence et au nombre de ganglions axillaires contenant des cellules cancéreuses  .
+L' intérêt potentiel de ces études est certain ; cependant il est nécessaire de conduire des études employant des méthodes similaires et des cohortes de patientes plus importantes afin_d' identifier de nouveaux marqueurs .
+3.4. Protéome sérique
+Là encore , la technologie des puces à protéines ( SELDI-TOF ) domine le champ de recherche de nouveaux marqueurs circulants car elle est particulièrement adaptée à l' étude comparative de grandes séries cliniques et relativement simples à mettre en oeuvre dans des projets de recherche clinique .
+Quelques études ont toutefois utilisé les gels 2D couplés au MALDI-TOF MS .
+Tous ces travaux ont pour but l' établissement de signatures protéiques dont les fins sont multiples : diagnostic des cancers mammaires à différents stades , suivi post-thérapeutique , appréciation de l' efficacité de certaines thérapeutiques , évaluation du pronostic ou bien encore identification d' un risque individuel en cas de mutation d' un gène de susceptibilité au cancer mammaire .
+Dans une étude visant à optimiser le diagnostic de cancer mammaire et employant les gels 2D couplés au MALDI-TOF MS , les sérums de 54 contrôles et de 76 patientes atteintes d' un cancer mammaire ont été comparés .
+Deux protéines , HSP27 et 14-3-3 sigma , ont permis de discriminer les deux groupes , HSP27 augmentant et 14-3-3 sigma diminuant dans le sérum des patientes atteintes d' un cancer mammaire .
+Ces deux marqueurs ont ensuite été testés sur 104 sérums tout-venant .
+Leur association a permis d' identifier correctement les 69 cas de cancers mammaires .
+Parmi les 35 cas de pathologies non cancéreuses , 34 ont été identifiés correctement  .
+D' autres études ayant également un but diagnostique ont utilisé la technologie SELDI-TOF MS  .
+En comparant le protéome de contrôles à celui de patientes atteintes d' un cancer mammaire , un panel de marqueurs a pu être identifié dans chaque étude avec une sensibilité variant de 80 à 93 % et une spécificité de 77 à 93 % .
+La nature des marqueurs diffère selon le protocole choisi , la surface chromatographique choisie étant le critère le plus important .
+Tableau 1.
+Principaux travaux concernant l' étude de marqueurs circulants sériques dans les cancers mammaires par la technologie SELDI-TOF MS
+Auteurs AnnéeObjectifPopulation totale ( nombre ) Sous-populations ( nombre ) Marqueurs ( nombre ) m / z ( kDa ) BarretteSensibilité ( % ) Spécificité ( % ) Li 2002  D169103 cancers66 contrôles3 ( 4.3 ; 8.1 ; 8.9 ) IMAC Ni9391 Vlahou 2003  D13445 cancers89 contrôles4 ( 2.95 ; 3.94 ; 3.9 ; 4.03 ) IMAC Cu , SAX9093 Li 2005  D17693 cancers83 contrôles2 ( 8.1 ; 8.9 ) IMAC Ni - - Hu 2005  D13349 cancers84 contrôles4 ( 17.3 ; 26.2 ; 5.7 ; 8.9 ) H48077 Mathelin 2006  D8949 cancers40 contrôles4 ( 4.286 ; 4.302 ; 8.919 ; 8.961 ) IMAC Ni - - Laronga 2003  S9827 N+71 N - 6 IMAC Cu , SAX8177 Heike 2005  T101 cancer ( intolérance au docétaxel ) 9 cancers ( tolérance au docétaxel ) 2 ( 7.790 ; 9.285 ) IMAC Cu , SAX , WCX2 - - Goncalves 2006  P8148 cancers avec métastase ultérieure33 cancers sans métastase ultérieure40 IMAC Cu , CM108776 Becker 2004  R3015 BRCA-1 avec cancer ultérieur15 BRCA-1 sans cancer ultérieur107 IMAC Cu8787
+Full-size table
+m / z : masse / charge ; D : diagnostic ; S : stadification ; T : thérapeutique ; P : pronostic ; R : risque individuel .
+View Within Article
+Ainsi , dans l' étude rétrospective de Li  portant sur 169 sérums ( 103 cancers mammaires et 66 contrôles ) , trois marqueurs sériques appelés Breast Cancer Protein 1 ( BC1 ; 4,3 kDa ) , Breast Cancer Protein 2 ( BC2 ; 8,1 kDa ) et Breast Cancer Protein 3 ( BC3 ; 8,9 kDa ) ont été repérés par l' emploi d' une surface chromatographique présentant une affinité pour des métaux ( IMAC Ni ) .
+Dans l' étude prospective de Vlahou  portant sur 134 sérums ( 45 cancers mammaires et 89 contrôles ) , quatre marqueurs sériques ( 2,95 , 3,94 , 3,9 et 4,03 kDa ) ont été révélés par l' emploi de deux types de surfaces chromatographiques distinctes , celles présentant une affinité pour des métaux ( IMAC Cu ) et celles permettant les échanges d' anions ( SAX ) .
+De même , Hu_et_al.  ont sélectionné un panel de quatre marqueurs ( 17,3 , 26,2 , 5,7 et 8,9 kDa ) à_partir_d' une série de 133 sérums ( 49 cancers mammaires et 83 contrôles ) , en utilisant des surfaces permettant la rétention de protéines hydrophobes ( H4 ) .
+Reprenant la même méthodologie que celle de Li_et_al.  , Mathelin_et_al.  a mené une étude prospective portant sur 89 patientes , réparties en deux groupes ( 49 cancers mammaires et 40 contrôles ) .
+Cette étude a été centrée sur les trois marqueurs rapportés par Li_et_al.  .
+L' analyse précise des pics dans les régions concernées a montré la présence d' un pic unique de 8129 Da pouvant correspondre à BC2 ainsi_que celle de deux pics doubles qui furent nommés BC1a ( 4286 Da ) et BC1b ( 4302 Da ) , BC3a ( 8919 Da ) et BC3b ( 8961 Da ) pouvant correspondre respectivement à BC1 et BC3 .
+Chaque marqueur a été analysé séparément et contrairement a l' étude de Li_et_al.  , BC2 n' a pas été significatif pour discriminer les contrôles des cancers ( p = 0,51 ) .
+En revanche , les deux autres marqueurs se sont révélés significatifs , BC1a et BC1b sont diminués en cas de cancer alors_que BC3a et BC3b sont augmentés  .
+Récemment , Li_et_al.  ont mené une seconde étude prospective en utilisant d' autres échantillons ( 176 sérums comprenant 93 cancers mammaires et 83 contrôles ) mais en conservant le protocole cité plus haut  .
+La présence et la valeur pronostique des trois marqueurs potentiels BC1 , BC2 et BC3 a été étudiée .
+Cette fois , BC1 n' a pas été significatif dans la discrimination entre les contrôles et les cancers alors_que BC2 et BC3 le furent  .
+La nature exacte des marqueurs a été identifiée par des expériences complémentaires .
+BC1 est un fragment de la chaîne lourde H4 de l' inhibiteur inter-alpha de la trypsine et BC2 et BC3 dérivent tous deux d' une même protéine du complément , la protéine C3a .
+BC2 représente une forme clivée de C3a alors_que BC3 est la protéine C3a , délestée d' une arginine en position carboxyterminale  .
+À côté des études diagnostiques , l' approche par puces à protéine couplée à la spectrométrie de masse a été appliquée au pronostic et au suivi thérapeutique .
+Laronga_et_al.  ont utilisé cette technologie pour prédire l' envahissement des ganglions au moment de la chirurgie .
+Cette étude , portant sur 98 patientes ( 27N+ et 71N0 ) atteintes d' un cancer mammaire a permis de classer correctement 22 / 27 sérums de patientes N+ et 55 / 71 sérums de patientes N0  .
+Cette classification fut fondée sur une signature composée de six pics indépendants obtenus à_partir_de deux surfaces chromatographiques distinctes ( IMAC-Cu et SAX )  .
+Pour affiner le pronostic des cancers mammaires , Goncalves_et_al.  ont étudié rétrospectivement une série de 81 sérums postopératoires provenant de patientes à haut risque dont l' évolution clinique a été opposée : 48 patientes ayant présenté une évolution métastatique et 33 patientes en rémission complète .
+Une signature protéique complexe constituée de 40 pics a permis l' appréciation du pronostic .
+La nature de protéines correspondant à certains pics a été identifiée ; il s' agissait de l' haptoglobine , la fraction C3a du complément , la transferrine , l' apolipoprotéine C1 et A1 .
+Cette technologie a également été utilisée pour l' identification du risque individuel .
+Un travail très original a été conduit par Becker_et_al.  sur des populations à très haut risque de cancer mammaire .
+Des sérums provenant de patientes porteuses d' une mutation du gène BRCA1 ont été obtenus d' une sérothèque ( Hereditary Cancer Institute , Creighton University , 1987 - 2001 ) .
+Trente sérums provenant de patientes dont l' évolution a été opposée ont été choisis pour cette étude rétrospective .
+Ces sérums provenaient , d'_une_part de 15 patientes ayant développé un cancer du sein dans les trois ans et , d' autre_part de 15 patientes n' ayant pas développé de cancer sept ans après le prélèvement .
+Une signature constituée de 107 pics , obtenue à_partir_d' une surface chromatographique IMAC-Cu , a été discriminante et certains pics ayant une masse de 4285 et 4306 Da pourraient correspondre aux marqueurs BC1a et BC1b trouvés dans d' autres études  .
+Le travail de Heike  , utilisant trois types de surfaces chromatographiques distinctes , ayant une affinité pour les métaux ( IMAC Cu ) , permettant les échanges d' anions ( SAX ) ou de cations ( WCX2 ) et portant sur dix patientes traitées pour un cancer mammaire par docétaxel a souligné l' intérêt de la protéomique sérique dans l' appréciation de l' intolérance à cette chimiothérapie .
+Les profils protéiques de plusieurs prélèvements sanguins précédant et suivant le traitement par chimiothérapie ont été analysés et comparés et deux pics correspondant au kininogène et à l' apolipoprotéine A2 ont augmenté de manière similaire chez toutes les patientes à l' exception d' une seule patiente , chez qui une chute brutale de la concentration sérique de ces deux protéines a été corrélée à la survenue d' un choc sévère .
+Ce travail suggère que le suivi des profils protéiques sanguins pourrait permettre d' identifier les patients susceptibles de présenter une intolérance à ce type d' antimitotiques .
+De manière intéressante lorsque ces méthodes d' analyse des profils protéiques sont réalisées dans des conditions comparables , il apparaît de fortes similitudes dans les résultats .
+À titre d' exemple , un pic correspondant probablement à BC1 a été retrouvé dans quatre études  et BC3 a également été retrouvé dans quatre études  .
+Il reste tout de_même une importante variabilité entre les résultats provenant d' études dont la méthodologie est identique mais différant par le recrutement et la conservation des échantillons .
+Cela traduit vraisemblablement la labilité des protéines marqueurs présentes dans le sérum .
+À titre d' exemple , Li_et_al.  ont identifié BC2 et BC3 comme étant respectivement une partie tronquée de la fraction C3a du complément sérique et la fraction entière de C3a .
+En utilisant une méthodologie identique , notre équipe a retrouvé des pics pouvant être BC2 et BC3 mais BC2 n' était pas un marqueur significatif .
+Comme BC2 dérive de BC3 par clivage protéolytique , sa présence est probablement largement tributaire des conditions de prélèvement et de conservation des échantillons .
+Il sera intéressant de déterminer la valeur pronostique de la protéine C3a et de ses dérivés par un autre dosage de type immunologique .
+Il est clair que des étapes d' identification , de validation et surtout de standardisation seront nécessaires pour rendre ces différents marqueurs utilisables pour la pratique clinique journalière , à_l'_instar_de ce qui a été fait pour les marqueurs biologiques classiques .
+Ainsi , les puces à protéines constitueront probablement à l' avenir un outil de recherche visant à l' identification de protéines d' intérêt qui pourront être analysées plus simplement avec l' émergence de techniques de dosage plus robustes , de type immunologique par_exemple .
+4. Conclusion
+Les avancées technologiques dans les méthodes d' analyse du protéome permettent d' entrevoir une nouvelle ère dans la prise en charge des cancers du sein , avec une approche plus individualisée , patiente par patiente , fondée notamment sur l' identification du risque individuel de développer un cancer , l' évaluation plus précise du diagnostic , du stade et du pronostic de la maladie ainsi_que la mise en oeuvre de thérapeutiques plus ciblées et d' un suivi mieux adapté .
+Même s' ils doivent être validés sur de plus grandes séries cliniques et standardisés , les résultats obtenus sont extrêmement encourageants pour optimiser la prise en charge des patientes d' une manière plus rationnelle .
+Cependant , il faut garder en mémoire que les outils , les méthodes d' analyse des échantillons biologiques et l' exploitation de l' information générée par ces approches sont encore en plein développement .
+L' utilisation du protéome est appelée à se généraliser , en complémentarité avec le transcriptome , tant en recherche fondamentale qu' en médecine , où il pourrait constituer désormais un outil puissant pour l' identification de marqueurs associés à une pathologie et de cibles thérapeutiques

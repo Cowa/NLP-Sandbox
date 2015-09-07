@@ -1,0 +1,310 @@
+The final step in cancer progression is metastasis , according to the prevailing view based on several clinical and experimental observations .
+First , most cancer patients die from metastases and not from their primary disease .
+Second , early surgery is often the only cure .
+Third , somatic genetic changes accumulate during local progression  , which was extrapolated to systemic progression since only rare variant cells within the tumor gave rise to metastases  .
+Fourth , repeated rounds of in vivo selection led to cell lines with increased metastasis formation ( [ Kang et al. , 2003 ] and [ Minn et al. , 2005 ] ) .
+However , several clinical and experimental observations are inconsistent with this model .
+For example , metastasis can develop from small cancers or even in the absence of detectable primary tumors ( so-called cancer of unknown primary , which ranks among the 10 most frequent cancer diagnoses )  .
+Furthermore , epidemiological analysis of more than 12,000 breast cancer patients indicated that metastasis might be initiated already 5 - 7 years before diagnosis of the primary tumor  , suggesting that cancer cells capable to metastasize do not necessarily develop within large tumors .
+Also , the notion of early metastasis is indirectly supported by gene expression studies ( van't Veer et al. , 2002 ) , revealing that patients with poor prognosis can be identified before manifestation of metastasis .
+Thus , while metastatic spread seems to be somehow genetically predetermined , the time point of metastatic dissemination is not resolved .
+There is no doubt that a deeper understanding of metastasis is critical for designing more effective therapies for systemic cancer .
+For example , if metastatic spread occurs late in progression , inhibitors of invasion should be able to prevent it .
+This , however , was not observed in several clinical trials testing inhibitors of matrix-metalloproteinases  .
+If , however , tumor cell dissemination occurs early , the question needs to be addressed how tumor cells can survive in a quiescent state for years at ectopic sites and how tumor dormancy and metastatic outgrowth are regulated .
+Last but not least , if disseminated tumor cells ( DTCs ) develop parallel to the primary tumor over a prolonged time , molecular targets on those DTCs need to be urgently identified .
+We previously addressed the issue of early versus late metastatic spread by analyzing DTCs in bone marrow of breast cancer patients years before metastatic manifestation  .
+Such cells displayed different and fewer aberrations than their matched primary tumors , a finding suggestive of early dissemination  .
+Among those DTCs , we identified cancer cells that spread before onset of chromosomal instability  .
+Though chromosomal instability has been observed before histological cancer invasion  , breast cancer cells may still disseminate before they become chromosomally instable and prior to microscopic invasion .
+Interestingly , a subpopulation of these karyotypically normal cancer cells in bone marrow displayed HER-2 amplification  , a marker of particularly aggressive disease ( [ Al-Kuraya et al. , 2004 ] and [ Kronqvist et al. , 2004 ] ) .
+Therefore , we thought to search for DTCs in a transgenic HER-2 model of breast cancer at the earliest time point of atypical epithelial transformation .
+For direct comparison , we report on findings of DTCs in 600 breast cancer patients , including patients with in situ carcinomas .
+Results Epithelial Cells Disseminate in the Premalignant Phase of Murine Breast Cancers .
+To study tumor progression more closely , we chose BALB / c mice transgenic for the activated rat HER-2 / neu gene ( BALB-NeuT mice ) ( Di Carlo et al. , 1999 ) , a model that mimics progression and gene expression profiles of human breast cancer  .
+Females of this strain , which are hemizygous for the constitutively activated rat HER-2 gene under control of the MMTV promoter  , develop invasive mammary cancers , while their HER-2 negative siblings ( wild-type BALB / c mice ) remain tumor free  .
+In BALB-NeuT females , mammary epithelia start to express the oncogene at the onset of puberty ( weeks 3 to 4 of age ) when the mice become responsive to steroid sex hormones .
+Epithelial hyperplasia can be detected microscopically in the mammary glands at weeks 7 - 9 ( Di Carlo et al. , 1999 ) .
+Progress to in situ carcinomas occurs between weeks 14 and 18. Around week 18 tumors of the mammary glands become palpable or visible , and at weeks 23 - 30 , invasive cancers become apparent .
+Mice have to be euthanized between weeks 27 and 33 when primary tumors exceed the size of 1.5 cm in diameter and lung metastases are macroscopically detectable .
+Full-size image ( 89K )
+High-quality image ( 953K )
+Figure 1. Tumor Progression of Systemic Disease in BALB-NeuT .
+( A ) Left panel : Whole mount of the mammary gland of a BALB-neuT mouse at week 9 showing the absence of tumor in the branching ductal tree .
+N indicates lymph node , arrow points to the nipple , and arrowheads show side buds into and around the mammary ducts .
+Middle panel : Histological section of mammary gland at week 9 showing that side buds display the morphology of atypical ductal hyperplasia ( ADH ) with epithelial cells arranged in small , well-defined nodules around the duct .
+Right panel : Histology of invasive cancer in week 30. The neoplastic epithelial cells form pseudoalveolar and scarcely defined solid nests invading the surrounding fibroadipose stroma .
+( B ) Left panel : Detection of micrometastases by anti-HER-2 antibodies in lung of a 27 week-old mouse .
+Right panel : Eight HER-2+ ( micro ) metastasis in the lungs from three transgenic mice ( week 27 ) and two samples of normal lung tissue were microdissected and analyzed for the mammary-gland-specific transcripts lactalbumin and alpha-casein. + , microdissected tissue of normal mammary gland ; , mock-control .
+( C ) Progression of local and systemic disease in BALB-neuT mice over time .
+Left panel : Increase of tumor area ( triangles indicate mean values , whiskers 95% confidence interval with solid line between triangle indicating best fitted curve ) .
+Right panel : number of CK+ ( red dots ) and HER-2+ ( blue dots ) cells per 500000 bone marrow cells ( whiskers indicate 95% confidence interval , dashed red or blue line depicts results from nontransgenic control mice for CK or HER-2 , respectively ) .
+( D ) Immunofluorescent double staining of bone marrow cells for CK ( red ) and HER-2 ( green ) expression .
+Left to right : CK+ / HER-2 small two-cell-aggregate ; CK / HER-2+ single cell ; CK+ / HER-2+ small aggregate ( 3 cells ) .
+Table summarizes the results of all analyzed cells .
+View Within Article .
+The principal goal of the study was to find out when cells expressing the HER-2 transgene disseminate and how they emigrate from the dysplastic breast epithelia .
+Since the HER-2 receptor is expressed neither in normal lung tissue nor in bone marrow , we concentrated on these organs as preferred sites of metastasis in breast cancer patients .
+In addition , for the detection of early human cancer spread in bone marrow , staining with anti-cytokeratin ( CK ) antibodies is specific and sensitive as demonstrated by numerous studies ( [ Braun et al. , 2005 ] and [ Klein , 2003 ] ) , including simultaneous staining with anti-CK and anti-CD45 panhematopoietic antibodies , which showed CD45-negativity of the cells  .
+Surprisingly , in BALB-NeuT mice , cytokeratin positive ( CK+ ) cells and HER-2 expressing cells ( HER-2+ ) became detectable in bone marrow at as early as 4 - 9 weeks of age when the most meticulous analysis of the mammary gland could detect areas of atypical ductal hyperplasia ( ADH ) solely ( Figure 1C and Figures S1A - S1C available with this article online ) .
+In lung tissue , single HER-2+ tumor cells became detectable from week 9 on , and micrometastases were first visible around week 20 ( Table S1 and Figure 1B ) .
+Furthermore , the descent of lung micrometastases from mammary tissue was confirmed by the demonstration of mammary-specific alpha casein and lactalbumin transcripts .
+The specificity of tumor cell detection by antibodies directed against HER-2 and cytokeratin was further controlled using samples of nontransgenic siblings .
+Despite exponential growth at the primary sites ( which is depicted as sum of the total tumor area of the ten mammary glands of BALB-NeuT mice in Figure 1C ) , the number of CK+ and HER2+ cells in bone marrow rose marginally over the course of time ( 4 / 500,000 to 17 / 500,000 and 1 / 500,000 to 7 / 500,000 , respectively ; Figure 1C ) .
+As the total number of cells singly positive for HER-2 and CK were not congruent , we performed double staining for the two antigens .
+Indeed , not all tumor cells expressed both markers , suggesting either the existence of heterogeneous tumor cell populations that disseminated to distant sites or different cellular states of the disseminated tumor cells ( DTCs ) .
+Interestingly , the majority of all detected DTCs ( n = 35 cells in 7 mice ) were CK+ ( 71% ) , while HER-2 was expressed in less than 50% .
+Similar data were obtained from blood samples ( Table S2 ) , although the detection rate of DTCs was lower than in bone marrow .
+To test whether early dissemination is only characteristic for BALB-NeuT mice , we also screened bone marrow samples from MMTV-polyomavirus-middle T transgenic mice  .
+Though we were unable to establish immunohistological detection of tumor cells by antibodies directed against the PyMT antigen , tumor cells were detected at weeks 4 - 6 in bone marrow by anti-CK staining ( Figures S2C and S2D ) when only ADH or DCIS was found in mammary tissues ( Figure S2A ) .
+Lung micrometastases , although difficult to detect by hematoxylin / eosin ( HE ) staining alone , were found starting from 14 weeks of age ( Figure S2B ) .
+As in the BALB-NeuT mice , we observed no significant increase in numbers of DTCs in bone marrow during tumor growth ( Table S3 ) .
+Tumor Cells Emigrate from Transgenic Mammary Gland Transplants in Wild-Type Siblings .
+Although cytokeratin expression in bone marrow provided strong evidence that the cells were indeed derived from epithelia , we sought direct evidence that the HER-2+ and CK+ cells had disseminated from the transformed breast tissue and that the detection of positive cells was not due to extramammary transgene expression .
+Therefore , we transplanted mammary gland fragments from 3- to 12-week-old transgenic mice ( n = 8 ) orthotopically onto 3-week-old wild-type siblings ( n = 16 ) .
+Each recipient received in one cleared fat pad one tissue fragment of one donor gland .
+Bone marrow of the recipients was then screened for CK+ and HER-2+ cells 7 - 26 weeks later .
+In all recipients of BALB-NeuT mice transplants , we found the HER-2 transgene to be expressed in the grafts at dissection .
+Full-size image ( 65K )
+High-quality image ( 584K )
+Figure 2. CK+ and HER2+ DTCs Are Derived from Transformed Mammary Tissue .
+( A ) HER-2 staining of grafted tissue at autopsy 14 weeks after transplantation of transgenic tissue into wild-type mice .
+Numerous epithelial cells in the atypical ductal hyperplasia ( ADH ) focus express HER-2 ( in brown ) .
+( B and C ) CK+ and HER-2+ cells in bone marrow of recipient wild-type mouse , respectively .
+( D ) Box plot displaying numbers of CK+ and HER-2+ cells per 500,000 bone marrow cells of BALB-NeuT , wild-type Balb / c mice , and wild-type recipients of transplanted transgenic mammary tissue ( transplant ) .
+( E ) Box plot displaying numbers of CK+ and HER-2+ cells per 500,000 bone marrow cells of wild-type recipients of transplanted transgenic mammary tissue .
+IC , invasive cancer .
+( F ) Representative results of CGH analysis of isolated single cells from different models .
+Only chromosomal regions ( designated according ) with aberrations are shown .
+Left column depicts identifiers of the mice with the letters C and H indicating the antigen used for detection ( C , cytokeratin ; H , HER2 ) ( 281-9-C9 to 281-9-H6 , CK+ and HER-2+ cells isolated at week 9 from BALB-NeuT mice ; 158-29-C31 to 102-27-H1 , CK+ and HER-2+ cells isolated at week 27-29 from BALB-NeuT mice ; MT10-C229 to MT16-H301 , CK+ and HER-2+ cells isolated from bone marrow of wild-type mice after mammary tissue transplantation ; BMT5-C119 to BMT3-H61 , CK+ and HER-2+ cells isolated from bone marrow of wild-type mice after bone marrow transplantation. )
+View Within Article .
+In transplanted wild-type animals , the number of CK+ or HER-2+ cells per 500,000 bone marrow cells was lower than in BALB-NeuT mice ( p 0.0001 and p = 0.002 , respectively ; Mann-Whitney-test ; Figure 2D ) but significantly above very rare false-positive cell numbers in control mice ( on average 4 in 107 bone marrow cells for CK and 6 in 107 for HER-2 ; p 0.0001 for CK+ and HER-2+ cells , Mann-Whitney-test ; Figure 2D ) .
+Most likely this reflects the reduced total number of transgenic mammary cells in recipient mice carrying a single transgenic gland compared to BALB-NeuT mice carrying ten transgenic mammary glands .
+In the transgenic mice , we had analyzed the histology of the largest tumor only , ignoring the remaining 9 mammary glands , while in transplant recipient mice , we scrutinized the single tumor arising from the transgenic mammary graft for signs of invasiveness ; the exact staging of the transplant was based on histology after complete serial sectioning .
+Again , no increase of DTCs in bone marrow was observed from the stage of ADH on up to the stage of invasive cancer ( p = 0.26 for CK+ cells and p = 0.83 for HER-2+ cells ; Mann-Whitney-test ; Figure 2E ) .
+The malignant origin of the CK+ or HER-2+ disseminated cells detected in bone marrow was established by single-cell comparative genomic hybridization ( CGH )  .
+Both CK+ and HER-2+ cells isolated from bone marrow displayed multiple chromosomal aberrations in contrast to single leukocytes with normal CGH profiles ( Figure 2F and Figure S3 ) .
+Thus , CGH ascertained the malignancy of the cells , which unambiguously originated from the single transplanted mammary glands .
+Gene Expression Programs Associated with Early Tumor Spread .
+In the BALB-NeuT and the PyMT tumor models , dissemination begins shortly after expression of the oncogenic transgene without histologically detectable signs of invasion .
+By light microscopy , the underlying basement membrane showed no gross interruptions .
+This raised the question of how transformed epithelial cells get out of the atypical hyperplastic areas .
+However , when examined by electron microscopy , epithelial cells crossing the basement membrane were clearly identified ( Figures 3B and 3C for BALB-NeuT mice and Figures S2E and S2F for MMTV-PyMT ) .
+In wild-type siblings , neither basement membrane lesions nor emigrating cells were discerned .
+The observation that the basement membrane underlying hyperplastic epithelia appeared to be disrupted in BALB-NeuT mice begged the question whether a local activation of proteolytic enzymes could be verified there .
+We , therefore , applied cDNA array analysis of laser microdissected samples to assess the expression of invasion-associated proteases in ADH at week 9 and large carcinomas at week 27 using a recently established mRNA amplification method ( [ Klein et al. , 2002a ] and [ Klein et al. , 2002b ] ) and hybridized the samples onto a small , dedicated cDNA array .
+This array comprised 41 cDNAs encoding matrix-metalloproteases ( MMPs ) and cathepsins that have earlier been implied in invasion and metastasis ( [ Egeblad and Werb , 2002 ] and [ Turk et al. , 2002 ] ) .
+A higher expression of cathepsins Ctsz , Ctsb , Ctsf , Ctsl , Ctsd , and Ctsh ; metalloproteases Mmp2 , Mmp14 , Mmp11 , and Timp3 ; and caspases Casp2 and Casp9 was observed in the early lesions ( false discovery rate q = 4.7% for week 9 compared to week 27 ) .
+The increases in Ctsz ( p = 0.0046 ) , Ctsd ( p = 0.0046 ) , Mmp2 ( p = 0.009 ) , Ctsh ( p = 0.0132 ) , and Ctsb ( p = 0.0215 ) expression were significant in a one-sided Wilcoxon test ( corrected according to Hochberg ) .
+The gene expression patterns at week 9 could be separated from those at week 27 by cluster analysis ( cluster robustness index = 0.901 ; Figure 3D ) , except for a few outliers .
+For Mmp2 , we found by immunohistochemistry that the protein is not expressed in normal tissue of young mice ( week 9 , Figure 3E ) while strongly expressed in ADH at week 9 in transgenic mice .
+Full-size image ( 102K )
+High-quality image ( 1129K )
+Figure 3. Electron Microscopical Analyses of Mammary Tissue and Activation of Invasive Properties during ADH .
+( A - C ) Electron microscopical analyses of mammary tissue. ( A ) Mammary duct of a 9-week-old wild-type sibling BALB / c mouse lined by polygonal large dark and light cells with luminal microvilli and dark myoepithelial cells ( M ) located at the basal surface without luminal contact .
+Throughout , the duct is surrounded by a well-defined basal membrane ( arrowheads ) , which continuously outlines the basal borders of the epithelial and myoepithelial cells. ( B and C ) Mammary duct of a 9-week-old BALB-NeuT mouse lined by polygonal , irregularly arranged cells. ( B ) Indifferent small- and medium-sized cells without luminal contact frequently show aspects of stromal invasiveness disrupting the basal membrane .
+Myoepithelial cells are scarcely present. ( C ) Higher magnification of the cell-disrupting basal membrane ( arrowheads , intact basal membrane ; arrows , disrupted basal membrane ) .
+( D ) Cluster analysis of expression data from the cDNA array dedicated to molecules from the proteolytic system .
+Sample identifiers on the right consist of age in weeks , the number of the mouse from which the sample was taken , and the sample number ; individual samples from one animal were isolated from different mammary glands .
+Note clustering of samples from 9-week-old mice in the lower third of the figure displaying upregulation of various proteolytic enzymes .
+( E and F ) Immunohistochemistry with anti-MMP2 antibody showing scarce MMP2 expression in wild-type BALB / c mice at 9 weeks of age ( E ) , while strong expression ( in brown ) in side buds and ducts with ADH of 9-week-old BALB-NeuT mice ( F ) .
+( G ) Quantitative RT-PCR of Twist mRNA .
+Microdissected tissue samples isolated from transgenic animals at week 9 ( ADH ) and 27 ( tumor edge and center ) and wild-type BALB / c-mice ( normal ) .
+Asterisks indicate significant upregulation of Twist in ADH samples .
+View Within Article .
+Abundant protease expression in hyperplastic lesions may provide a mechanism for early tumor spread and may be part of a gene regulatory program .
+We , therefore , determined the expression of the transcription factor Twist , which is a morphogenetic regulator affecting cell migration , a marker of undifferentiated mammary cells , and apparently plays a role in metastasis by regulating both cell invasion and intravasation ( [ Howe et al. , 2003 ] and [ Yang et al. , 2004 ] ) .
+We compared mRNA expression from several glands from wild-type mice ( n = 10 ) , lesions with ADH ( n = 16 ) , and areas of invasive cancers dissected from central parts ( n = 19 ) or the invasion front ( n = 12 ) by quantitative PCR .
+More than 90% of samples from normal mammary glands , central tumor areas , and microdissected areas from the invasion front displayed no or very low levels of Twist mRNA .
+In contrast , ADH lesions expressed Twist mRNA significantly more often at medium or high levels ( p = 0.02 , Pearson Chi-square , df = 6 , two-sided ; Figure 3G ) , which is in keeping with the notion that the genetic program governing cell dissemination is activated during early transformation .
+Evidence that Early-Disseminated Cells Grow into Metastases .
+The intriguing finding of tumor cells disseminating from preinvasive mammary lesions raised the question of whether they also may grow into metastases .
+Although the time point of dissemination of metastatic founder cells cannot be determined directly in vivo , we obtained evidence of early systemic spread of founder cells from the following different types of experiments .
+We assessed the onset of metastasis relative to primary tumor growth .
+Histological sections of the lungs were therefore taken to detect the presence of micrometastases and to measure their increase over time .
+These could be detected from weeks 20 to 21 onward , a time point at which mostly in situ carcinomas are present at the primary sites .
+Since metastases need time to grow , their increase in size paralleling that of the primary lesions supports the conclusion that , at least in some cases , founder cells of metastases had disseminated there earlier and had started to proliferate .
+Full-size image ( 69K )
+High-quality image ( 689K )
+Figure 4. Progression of Lung Metastasis in Balb-NeuT Mice and Wild-Type Recipients of Transgenic Mammary Tissue .
+( A and B ) Progression of lung metastasis in BALB-NeuT mice with and without removal of primary tumors .
+Increase of tumor area over time ( [ A ] , same as Figure 1C ) is plotted next to the sizes of the largest lung metastases ( note logarithmic scale ) detected in individual mice ( B ) .
+Blue squares indicate average size of metastases from nonoperated mice at various time points , red triangles indicate the average size of metastases from operated animals at 10 - 15 weeks after surgery , and whiskers indicate 95% confidence interval .
+( C - H ) Tumor progression after transplantation of noncancerous mammary tissue from BALB-NeuT mice into wild-type siblings. ( C and D ) Histology of graft tissue at surgery 26 weeks after transplantation resembling ADH ( C ) and small invasive carcinoma ( D ) .
+HE- ( E ) and HER-2 staining ( F ) of lung micrometastasis 13 weeks after surgery. ( G ) Experimental design to assess tumor progression in wild-type recipients of mammary glands after surgery .
+Primary tumors were analyzed after 26 weeks in euthanized and operated mice .
+Asterisks indicate time points when lung and bone marrow samples were analyzed. ( H ) Results of transplantation experiments of mice treated with curative intention by surgery ( ADH , atypical ductal hyperplasia ; IC , invasive carcinoma ) .
+Note the small size of resected tumors when compared to tumors of BALB-NeuT mice in ( A ) and the unusually high number of HER2-positive cells in BM of MT1 diagnosed with ADH .
+View Within Article .
+To address this point more directly we performed surgery on BALB-NeuT mice and tried to remove the entire milk line .
+Only mice older than 18 weeks survived this radical procedure .
+However , for none of the four 18-week-old mice displaying in situ carcinomas only , we could prevent or reduce the number or size of lung metastases at 27 - 33 weeks of age .
+To test whether DTCs from large tumors differ from early-disseminated tumor cells , we compared their chromosomal aberrations .
+We reasoned that , while dissemination occurs early , only genetically further-progressed cancer cells would be able to grow into metastases .
+We , therefore , analyzed the CGH profiles from tumor cells isolated from bone marrow of mice at week 9 and older than week 27 by hierarchical cluster analysis and support-vector-machine classification ( Figure S4 ) .
+We could not separate the tumor cells from young and old animals and could not detect a significant increase of aberrations from young to old animals ( p = 0.3485 , exact Wilcoxon rank sum test ) .
+A final set of experiments was directed at tumor progression in wild-type females that had received orthotopic grafts of mammary glands from their 3- to 4-week-old transgenic siblings .
+In these mice , lung ( micro ) metastases became detectable at about 40 weeks of age while BALB-NeuT females with autochthonous primary cancers developed lung metastases at 30 weeks on average .
+Next , we excised the engrafted glands again at various time points and followed the operated recipients .
+In recipients ( n = 8 ) from which the grafted glands had been excised 23 - 26 weeks after primary transplantation , the mammary tissue was diagnosed with atypical ductal hyperplasia ( ADH ) in two recipients , with small invasive cancers of 9 mm2 in four recipients , and with invasive cancers measuring between 30 - 35 mm2 in the remaining two recipients ( tallying with tumors of BALB-NeuT females before week 18 and at week 22 , respectively ; Figure 4A ) .
+After an additional 11 - 13 weeks , the operated recipients were sacrificed and screened for local relapse and for tumor cells in bone marrow and lungs .
+In none of the animals did we observe a local relapse , but all displayed signs of either minimal residual disease or lung metastasis .
+Even animals with very small primary lesions in the resected glands carried HER-2+ micrometastasis in their lungs ( Figures 4C - 4F ) .
+We then compared the incidence of lung ( micro ) metastases between animals that had been diagnosed with invasive cancer and either sacrificed ( n = 10 ) or operated ( n = 6 ) about 26 weeks after mammary tissue transplantation .
+Of the 10 animals that were sacrificed at this time point , only one mouse harbored lung micrometastasis .
+In contrast , of the six animals with resection of the transplanted mammary tissue by surgery at week 26 , four of them were diagnosed with metastatic growths ( micrometastasis or metastases ) in the lungs 11 - 13 weeks later ( p = 0.036 ; Fisher 's exact test , Figures 4G and 4H ) .
+This finding indicates that disseminated cancer cells continued to progress and underscores that the single case with ADH and lung micrometastasis indeed represents progressive minimal residual disease .
+Early DTCs Can Be Released from Growth Arrest .
+Obviously , tumor cell dissemination occurs early but additional mechanisms regulate outgrowth .
+For example , at no time point could we observe manifest bone metastasis or a frequency of tumor cells of more than 104 in bone marrow of BALB-NeuT mice .
+Therefore , we asked whether DTCs in bone marrow of young mice could proliferate and generate progeny after stimulation with endogenous growth factors and chemokines as a consequence of irradiation .
+We transplanted bone marrow from transgenic mice into lethally irradiated nontransgenic siblings .
+Three transgenic donors ( 11 weeks old ) were euthanized , and 7 to 10106 bone marrow cells were transplanted i.v. into 11 wild-type littermates .
+The bone marrow of one wild-type BALB / c mouse was transplanted into three siblings as control .
+Staining with CK antibodies revealed the presence of 4 - 12 positive cells per 0.5 106 bone marrow cells in the inoculum of transgenic mice , indicating a total of 80 - 240 CK+ cells per recipient mouse .
+Nineteen to 22 weeks later , all bone marrow transplant recipients became moribund ( four animals were found dead before their bone marrow could be analyzed ) , and autopsy showed massive infiltration of bone marrow by CK+ cells comprising 10% - 31% of all nucleated cells .
+Irradiated mice receiving bone marrow from wild-type BALB / c siblings ( n = 3 ) were healthy until they were sacrificed ( weeks 19 , 28 , and 43 , respectively ) and harbored no CK+ cells in their bone marrow .
+So far , all isolated single CK+ and HER-2+ cells from recipient animals displayed CGH abnormalities , demonstrating their malignant origin .
+Interestingly , no metastases were detected at other sites .
+The experiments demonstrate that bone-marrow-derived tumor cells disseminated during ADH and can establish bone marrow carcinosis upon transplantation .
+Full-size image ( 34K )
+High-quality image ( 409K )
+Figure 5. DTCs from 11-Week-Old Transgenic Mice Form Bone Marrow Carcinosis in Wild-Type Recipients .
+( A ) Bone marrow sample full of CK+ cells ( dark blue-black cells ) indicating bone marrow carcinosis .
+( B ) Summary of bone marrow transplantation experiments from HER-2 transgenic or control mice into wild-type sibling BALB / c mice .
+View Within Article .
+Dissemination of Tumor Cells Is Not Associated with Tumor Size in Human Breast Cancer .
+One provocative finding of our study is that , in mouse models of breast cancer , large tumors seed neither more nor genetically further-advanced cancer cells than do small lesions ( Figure 1C and Figure S4 , respectively ) .
+Thus , the ability of metastatic dissemination does not appear to be the result of selection of tumor cells within the tumor .
+Rather , the data suggest that tumor cells disseminate early and will be selected for outgrowth at distant sites .
+We analyzed samples from breast cancer patients to test this hypothesis .
+From 607 breast cancer patients , we screened bone marrow samples for the presence of DTCs and assessed the number of DTCs for the different sizes of primary tumors .
+We found no association between the tumor stage and the presence of disseminated cells ( p = 0.38 , Pearson 's chi-square , df = 6 , two-sided ; Figure 6A ) and specifically , the finding of CK+ cells in patients with ductal carcinoma in situ ( DCIS ; 13% ) and T1-stage patients ( 22% ) was statistically not different ( p = 0.093 , Pearson 's chi-square test ) .
+However , the number of CK+ cells seeded to bone marrow in DCIS patients is significantly higher than observed in control patients  , which were stained using the same antibody ( mab A45 B / B3 ; p = 0.001 , Pearson 's chi-square test , 2 sided ) .
+Full-size image ( 20K )
+High-quality image ( 124K )
+Figure 6. Number and Karyotype of DTCs Detected in Bone Marrow of Breast Cancer Patients .
+( A ) Number of detected CK+ cells per 2106 bone marrow cells in patients with different tumor stages ( DCIS , n = 39 ; T1 , n = 328 ; T2 , n = 202 ; and T3 / 4 , n = 38 ) .
+( B ) Karyotypes of CK+ cells in bone marrow of breast cancer patients .
+Patients harboring DTCs with only normal , with only abnormal , and with normal and abnormal karyotypes are not differentially distributed between tumor stages. ( T1 , 27 patients with 49 DTC ; T2 , 23 patients with 39 DTC ; and T3 / 4 , 6 patients with 17 DTC ) .
+View Within Article .
+Finally , as in the BALB-NeuT model , we ruled out that tumor cells in bone marrow of patients with large primary tumors are genetically further advanced than disseminated cancer cells of patients with small tumors .
+We had previously shown that bone marrow samples of breast cancer patients contain CK+ tumor cells without chromosomal aberrations , while the matched primary tumors displayed abnormal karyotypes  .
+Such cells apparently disseminated before the onset of chromosomal instability at the primary site , which is thought to occur before stroma invasion  .
+Furthermore , the malignant origin of cytokeratin-positive cells with normal karyotypes was established by demonstration of loss of heterozygosity  .
+We concluded that such cells represent the earliest stages of genetic tumor development .
+In following up this lead , we examined the chromosomal aberrations of DTCs in bone marrow taken from patients in various tumor stages .
+Patients were classified into those harboring only cells with CGH abnormalities , only cells without CGH abnormalities , and those harboring both types of tumor cells in bone marrow .
+We analyzed 105 single cells isolated from 56 patients and could not observe a significant difference between patients with small and large cancers ( Figure 6B ; p = 0.17 , Pearson 's chi-square , df = 4 ) , indicating that the well-known association of large tumor size and development of manifest metastasis is not explained by an increased frequency of genetically progressed cancer cells in bone marrow .
+Discussion .
+Here , we provide evidence that dissemination of tumor cells in mouse models of breast cancer as well as in the human disease can occur in preinvasive stages of tumor progression and that the number and genotype of seeded tumor cells is not associated with tumor size .
+Both findings should modify the prevailing view that metastatic dissemination is a late event and that the association of tumor size and risk for metastasis reflects a higher frequency of tumor cell seeding .
+Implicit in this view is the surmise that extended periods of genetic progression within the primary tumor are required for metastatic dissemination , which our findings do not support .
+Chromosomal aberrations in DTCseither of the BALB-neuT mouse model or of human breast cancersare not associated with increased tumor size though they accumulate over time in human cancer as amply shown by Mitelman and Heim  .
+Mouse models and human samples , therefore , concurred on the observation that relative to the total number of tumor cells in the primary lesion , dissemination is highest early after transformation .
+Interestingly , in the BALB-NeuT model , activation of the proteolytic system in breast epithelia was associated with young age and ADH .
+Moreover , a quantitative analysis of Twist expression , comparing lesions with ADH , central and peripheral regions of a large tumor , and normal samples , revealed a significant upregulation in early-transformed breast cancer cells , exceeding even expression levels of the so-called invasion front of the primary tumor .
+Twist expression has been associated with epithelial-mesenchymal transition , migration , invasion , and cell-cycle deregulation ( [ Stasinopoulos et al. , 2005 ] and [ Yang et al. , 2004 ] ) .
+The activation of a specific genetic program early after sex-hormone-induced expression of the transforming oncogene HER-2 may , thus , initiate microinvasion , which can be detected by transmission electron microscopy in breast lesions as early as in the stage of ADH .
+These lesions are defined as noninvasive , and no evidence of invasion was detected after careful light-microscopic inspection by an experienced pathologist ( P.M. ) .
+Yet , both the BALB-NeuT and the PyMT mice harbored HER+ DTCs in lung and bone marrow and CK+ cells in bone marrow during ADH .
+Evidence for their malignant origin was provided by comparative genomic hybridization .
+An ectopic transgene expression at these sites could be excluded by the transplantation experiments where mammary grafts grew on wild-type background .
+Also here , epithelial cells disseminated to bone marrow and lungs at the stage of ADH and displayed genetic aberrations .
+The existence of a genetic program associated with dissemination but only transiently activated in early lesions might explain why in human breast cancer Twist expression was rarely found in invasive ductal carcinomas  .
+We performed several experiments to assess whether in mouse models , early-disseminated cancer cells may give rise to metastasis .
+First , growth of metastasis occurs during transition of primary lesions from noninvasive to invasive , which indicates that tumor cells had disseminated much earlier and started to grow at the distant site .
+Second , at week 18 , when only in situ carcinomas were present , resection of the glands neither prevented nor reduced the number of lung metastases .
+Third , dissemination and early lung colonization were found also in wild-type females that had only transiently carried a single transgenic mammary graft .
+At resection , most grafts displayed only very small invasive cancers .
+In one of two cases where the transplant was surgically removed at the stage of ADH , the cells had started to form metastatic colonies when analyzed 10 - 13 weeks after surgery .
+Thus , while the number of experiments is currently too low to quantify the frequency of manifest metastasis as consequence of ADH , it is safe to state that early-disseminated tumor cells occasionally have metastatic potential .
+However , we noted that the course of the disease in the transplanted wild-type siblings was prolonged as compared to the transgenic animals with autochthonous tumors .
+While in BALB-neuT females metastases are regularly present at week 30 , in wild-type mice ( micro ) metastases appeared only more than 40 weeks after transplantation of a transgenic gland .
+At least two possibilities may account for this observation : Although we transplanted the mammary tissue before expression of the transgene into recipient mice , which should result into peripheral immunological tolerance , we cannot exclude that immunosurveillance against the rat transgene product slowed down systemic cancer progression .
+Alternatively , surgical removal of the primary lesions at very early time points may deprive early-disseminated cancer cells from systemically acting factors important for outgrowth .
+Such factors secreted from the primary tumor may prepare the metastatic niche and foster early cancerous colonies as recently suggested  .
+Thus , large primary breast cancers in patients may support metastasis not by seeding more cancer cells , but by providing unknown systemically acting factors that stimulate colonization of previously disseminated tumor cells at the ectopic site .
+This reasoning is backed by findings that patients with small ( T1-stage ) tumors harbor similar numbers of disseminated cancer cells as patients with late stage tumors ( T3 to T4 ) present in our cohort of 607 patients .
+In a meta-analysis of several studies on DTCs in breast cancer , employing , however , rather different techniques for DTC detection but totaling more than 4700 patients , Braun and coworkers observed an increase of positive bone marrow samples from 22% in stage T1 to 34% in stage T3  .
+These data give further support to the conclusions that large tumors in relation to small tumors seed far less tumor cells to bone marrow : On average , primary T3 tumors comprise about 350 times more cancer cells than T1-stage tumors , but the percentage of patients with DTCs in bone marrow increases only marginally .
+Thus , the poorer prognosis of patients with T3-stage breast cancers cannot be explained by increased DTC numbers , but so far unknown external triggers may be responsible for metastatic outgrowth that currently are rather underestimated .
+In this context , it is noteworthy that while the highest number of DTC in bone marrow during the lifetime of BALB-neuT mice never exceeds 104 bone marrow cells , transplantation of transgenic bone marrow containing a total of about 80 tumor cells per inoculum taken from 11-week-old BALB-neuT mice and injected into irradiated wild-type animals resulted in bone marrow carcinosis with more than 30% of all cells being of cancerous origin .
+Since the donor bone marrow had been taken from mice with ADH , this suggests that the tumor cells may be released from dormancy or some type of quiescencepossibly as consequence of the stimulatory microenvironment during repopulation of the irradiated bone marrow compartmentand eventually grow out .
+Though the finding of microinvasion at the stage of ADH may not apply to all patients with breast cancer , the detection itself of disseminated cancer cells in DCIS suggests that conventional histopathological analysis may miss tumor spread in human cancer as well .
+Although very rare , metastasis in DCIS patients has been observed despite complete resection of their mammary tissue  .
+Other well-known clinical findings , such as cancer of unknown primary  as well as inadvertent transfer of cancer with organ transplants from donors with small undiagnosed malignant lesions  , are equally consistent with early dissemination and potential metastatic outgrowth .
+Taken together , our findings suggest a concept of cancer progression according to which metastatic dissemination is a distinct early step in cancer progression being necessary , but not sufficient , for metastatic outgrowth .
+The interactions of early-disseminated cancer cells with their ectopic microenvironment leading to selection or adaptation within an early metastatic niche are ill understood at present and may require different experimental approaches than the frequent use of cell lines derived from late stage tumors .
+Previous work and the present work demonstrate that essential steps of genetic progression take place at the ectopic site and not within the primary tumor .
+The understanding of which mechanisms promote the outgrowth of DTCs often after extended periods of cancer latency might be key to the prevention of the lethal metastases .
+Experimental Procedures Mice .
+BALB-NeuT and MMTV-PyMT mice transgenic mice were maintained in our facilities according the European Union guidelines .
+All animal experiments were performed according to the EU and national institutional regulations .
+Mice were screened at 3 to 4 weeks of age for hemizygosity ( neuT+ / neuT ) , and negative littermates served as wild-type BALB / c mice controls .
+Mammary glands of BALB-NeuT female mice were inspected twice a week and arising tumors were measured with calipers in two perpendicular diameters  .
+Tissue samples from transgenic MMTV-PyMT mice ( FVB strain ) were obtained from Christoph Peters and Thomas Reinheckel ( Institute for Molecular Medicine , University of Freiburg ) .
+Bone Marrow Preparation .
+After sterile preparation of both femurs , bone marrow was rinsed with a 26-G needle in 1 ml of PBS .
+After density gradient centrifugation , 5105 interphase cells were dropped on adhesion slides ( Menzel , Germany ) .
+At least 106 cells per mouse were stained , and positive cells were isolated using a micromanipulator .
+Immunostaining .
+For the detection of disseminated cells , anti-CK 8 and 18 ( GP11 , Progen , Germany ) and anti-HER-2 ( c-erbB2 , Dianova , Germany ) antibodies were used in a concentration of 5 g / ml and visualized by ABC complex / AP ( Dako , Denmark ) using the AP substrate BCIP / NBT ( Biorad , Germany ) .
+For HER-2 immunohistochemistry of solid tissues , 5 m cryosections of primary tumors or lung tissue were stained .
+For MMP2 immunohistochemistry , formaldehyde-fixed tissues were embedded in paraffin wax .
+Rabbit polyclonal anti-MMP-2 ( Chemicon International , AB809 ) was applied in a 1:250 dilution .
+Laser Microdissection , DNA , and mRNA Preparation .
+Laser microdissection , single-cell isolation , and nucleic acid preparation for DNA and mRNA was performed as described previously ( [ Klein et al. , 2002a ] , [ Klein et al. , 2002b ] and [ Schmidt-Kittler et al. , 2003 ] ) .
+Small pieces summing up to 100,000 m2 for each sample were catapulted into a cap with 6 l PCR oil and centrifuged into a 200 l reaction tube ( for DNA ) while for mRNA analysis the tissues were catapulted into reaction tubes containing 10 l paramagnetic oligo-dT bead suspension and lysis buffer ( Dynal ) .
+Quantitative PCR .
+Real-time PCR was performed using a LightCycler ( Roche ) and Fast Start Master SYBR Green Kits ( Roche ) .
+Analysis was done using the RelQuant software ( Roche ) with PCR efficiency normalization and a reference sample included in every run .
+Pooled mRNA from TUBO cells  served as positive control .
+Measurements showing unspecific products in the melting curve analysis were discarded from further analysis .
+All expression levels are given relative to Gapdh ( primer sequences are provided in Table S4 ) .
+Comparative Genomic Hybridization , Image Acquisition , and Analysis .
+Murine control DNA and tumor DNA were labeled with biotin-16-dUTP and digoxigenin-12- dUTP ( Roche Germany ) , respectively , and detected after hybridization to metaphase chromosomes using anti-DIG-FITC Fab Fragments ( 200 g / ml , Roche , Germany ) and biotinylated normal DNA by avidin-Cy 3.5 ( Rockland , USA ) .
+Images were recorded by a Leica DMXA-RF8 microscope ( Leica acquisition program QFISH ) equipped with a Sensys CCD camera ( Photometrics , USA ) .
+Processing and karyotyping was done using the Leica software package Q-CGH .
+Array Hybridization and Analysis .
+After global mRNA amplification , PCR-amplified cDNA fragments were digoxigenin labeled and nonradioactively hybridized to nylon filters  .
+Scanning and significance analysis ( SAM ) was performed as published ( [ Tusher et al. , 2001 ] and [ Zohlnhofer et al. , 2001 ] ) .
+The clustering of proteases was done for the Euclidean distances , complete linkage for proteases , and average linkage for cases .
+Cluster assessment was performed using BRB ArrayTools developed by Dr. Richard Simon and Amy Peng  .
+Calculation of Tumor Progression over Time .
+Tumor areas were calculated from 407 mammary glands of 41 mice assuming the shape of an ellipse / circle for each tumor .
+The tumor size / area of a mammary gland without a tumor was set to zero .
+The curve was fitted using Friedman 's scatterplot smoother .
+HER-2+ cells from 31 samples ( 28 mice ) and CK+ cells from 33 samples ( 31 mice ) were calculated as the sum of single disseminated cells and the number of aggregates .
+Measurements from similar time points ( 1 week ) were consolidated .
+An offset of 0.3 weeks was used to draw HER-2+ ( 0.3 ) and CK+ ( +0.3 ) cells in one plot .
+The number of CK+ and HER-2+ cells from nontransgenic BALB / c mice were measured in 25 mice ( CK ) and 24 mice ( HER-2 ) at five time points ( weeks 4 , 9 , 18 , 22 , and 29 ) and connected by a dotted line .
+The area of lung metastases was measured using the PALM Robo V1.2.3 software and calculated as sum of all metastases found .
+Values were averaged over two tissue sections .
+The size of metastases was measured from four mice with and 14 mice without surgery , and measurements from similar time points ( 2 week ) were consolidated .
+Surgery of Mammary Tumors .
+Mice were anaesthetized with ketamin 80 - 120 mg i.p. and xylazin 5 mg i.p sufficient for 90 - 120 min .
+Thorax and abdomen were shaved , skin was incised from caudal to cranial in the midline , and subcutaneous tissue was prepared , i.e. , the breast glands together with fatty tissue , and resected in toto after coagulation of vessels .
+The skin was closed by a suture using prolene , 4-0 , Ethicon , Germany .
+Surgery took usually 30 - 60 min and mice were kept under a warming lamp until awakening .
+Postoperative analgesia was achieved by 25 mg metamizol every 4 hr p.o .
+After 8 days , sutures were removed .
+Tissue Transplantation .
+Surgical techniques and the transplantation procedure has been previously described ( [ Daniel et al. , 1968 ] and [ Deome et al. , 1959 ] ) .
+Briefly , the nipple region from the fourth fat pad on the right side of 3-week-old recipient BALB / c mice was removed under anesthesia .
+Then , a piece of donor mammary tissue ( approximately 1 to 2 mm in size ) from 3- to 12-week-old BALB-neuT mice was implanted in the cleared mammary fat pad of recipient mice .
+Bone Marrow Transplantation .
+Eleven week-old BALB-NeuT mice were euthanized and bone marrow was harvested from femurs and tibiae .
+7-9 X 106 bone marrow cells injected into the tail vein of 11 week-old lethally irradiated ( split dose day 2 and day 0 : 550 rad ) wild-type siblings .
+From the remaining bone marrow , slides were prepared as described above to determine tumor load by CK staining .
+Analysis of Breast Cancer Patients .
+From our previous study on disseminated breast cancer cells , we included all 270 nonmetastatic patients ( T1-4 , N0-2 , M0 ) for which information on T-stage was available and four patients with DCIS .
+Cytokeratin-positive cells were detected and isolated for genetic analysis , and their DNA was amplified for comparative genomic hybridization as described before  .
+In addition , 298 breast cancer patients with unilateral primary breast cancer ( T1 - T4 , N0 - N2 , M0 ) and 35 patients with DCIS undergoing surgery at the Department of Oncology and Obstetrics , University of Tbingen , Germany , were included .
+Bone marrow sampling , preparation , staining , and screening were performed according to the consensus protocol for the detection of disseminated cancer cells  applying the mab A45-B / B3 antibody ( Micromet , Germany ) .
+All bone marrow samples were taken with the approval of local ethics committees and after obtaining informed consent of the patients .
+Data for the control group of normal individuals , including 191 patients with nonmalignant disease ( 153 patients with benign lesions of the breast , such as fibroadenomas , mastitis , abscesses , and cysts ; 11 with simple cysts ; 10 with cystadenoma of the ovaries ; and 17 with cervical intraepithelial neoplasms of grade I or II ) , was taken from the study of Braun_et_al.  .
+Acknowledgments .
+We gratefully acknowledge the generous help of Bernd Wiederanders for providing us the mouse cDNA array , and Thomas Reinheckel and Christoph Peters for help with the PyMT mice .
+We thank Andrea Bol for excellent animal care and Melanie Werner-Klein for help with bone marrow transplantation experiments .
+This work was supported by grants from the Deutsche Forschungsgemeinschaft ( Kl-1233 ) ; the Wilhelm-Sander Stiftung ( 1999.047.2 ) ; the German Federal Ministry for Education and Science ( BioFuture Grants 0311884 and 0311880 ; NGFN 01GR0101 ) ; the Bavarian State Ministry of Sciences , Research and the Arts ; the EU-FP6 ( MCSC ) ; the Italian Association for Cancer Research ; the Italian Ministry for Education , University and Research ; and a scholarship from the Jung-Stiftung , Hamburg ( J.B.G. )

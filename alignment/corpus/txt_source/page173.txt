@@ -1,0 +1,61 @@
+Male breast cancer ( MBC ) is infrequent , usually presented as a late disease with a poor prognosis .
+Information regarding the results of modern treatment is limited .
+The aim of this paper is to present the results of a retrospective study including 71 cases of male breast cancer treated at the National Institute of Oncology in Rabat , Morocco , over a 14-year period .
+2. Patients and methods
+Seventy one male patients with breast cancer were treated at our institute between the years 1985 and 1998.This sample represents 0.94% of all breast cancers reported during this period .
+The median age was 60 years ( range 32 - 97 years ) .
+Full-size image ( 5K )
+Fig. 1. Frequency distribution by age at diagnosis .
+View Within Article
+The recorded history has been characterized by traumatism in two cases , cirrhosis in one case and a family history of breast cancer ( sister died of breast cancer ) in one case .
+The average duration of symptoms was 35 months ( range : 3 - 240 months ) .
+The principal clinical complaint was retroareolar lump in 86% of cases ( 61 patients ) .
+The tumour was associated with breast ulceration in 18% of cases ( 13 patients ) .
+Nipple discharge was found in 5.6% of cases ( four patients ) .
+Symptoms related to the presence of metastases were observed in 4% of cases ( three cases ) .
+The diagnosis work included mammography in 13 cases , breast ultrasonography in five cases , biopsy in 60 cases and positive needle aspiration in three cases .
+According to the TNM classification , patients were categorized as T4 and T3 in , respectively , 52% and 13% of the cases .
+Patients were classed as N1 and N2 , respectively , in 34% and 24% of the cases .
+Eighteen percent of the cases initially had metastases .
+Full-size image ( 5K )
+Fig. 2. TNM classification .
+View Within Article
+The treatment consisted of radical mastectomy in 80% ( 48 cases ) , modified radical mastectomy in seven cases , total mastectomy without axillary node dissection in four cases and lumpectomy in one case .
+Pathological analysis of the specimens revealed infiltrating ductal carcinoma in 91.5% ( 65 cases ) , infiltrating ductal carcinoma with Paget' s disease of the nipple in one case and other carcinoma in five cases .
+According to the Scarff - Bloom - Richardson grading , grade II was predominant ( 82% of the cases ) .
+Axillary lymph nodes contained metastasis ( N+ ) in 65% of the cases ( 39 patients ) .
+Twenty-six percent of the cases ( 10 patients ) had less than three lymph nodes involved .
+Seventy-four percent of the cases ( 29 patients ) had more than four lymph nodes involved .
+Fifty-nine percent of the cases ( 23 patients ) had positive lymph nodes with extra-capsular extension .
+Examination of the hormone receptors was done in five cases .
+Four patients had positive hormone receptors , and one patient had negative hormone receptors .
+Adjuvant radiation therapy was given to the chest wall and regional lymph nodes in 44 cases , with a mean dose of 50 Gy .
+Fifty-three patients received hormonal therapy as adjuvant situation : Tamoxifen in 46 cases , Tamoxifen with castration in four cases and castration in three cases .
+Seven patients received it in palliative situation .
+Chemotherapy was given in neoadjuvant situation in five cases , in adjuvant situation in 12 cases ( advanced stage , N+ ) and in palliative situation in three cases .
+3. Results
+Thirteen patients were lost to follow-up .
+Fifty-eight patients were followable ( 82% of the cases ) .
+The median of follow-up was 30 months ( range : 3 - 168 months ) .
+After a median of 36 months ( range : 9 - 156 months ) of delay , local recurrence occurred in five cases .
+Fourteen patients developed metastasis .
+The median delay of metastasis was 12 months ( range : 4 - 72 months ) .
+The site of metastasis was the bone in six cases , the lung in five cases , the liver in one case , the liver and skin in one case and the pleura and skin in one case .
+The evolution has been characterized by progression in one case .
+Three patients died , the death being related to lung metastases in one case and to comorbid disease ( cardiovascular disease ) in the other two cases .
+4. Discussion
+MBC is an uncommon disease ; it represents less than 1% of all malignancies in men and is responsible for 0.1% of male cancer death 1 and 12.
+The prevalence of MBC increases with age , with a mean age of 60 - 65 years at presentation 2. The higher rates of this disease occurs in Africa ( Egypt , Zambia , etc. ) , North America and Great Britain 3. Risk factors are represented by advanced age , previous chest wall irradiation , a family history of breast cancer in males or females and relative hyperoestrogeny due to testicular abnormalities , exposure to exogenous oestrogens , liver dysfunction and Klinefelter' s syndrome 14.
+Familial susceptibility to MBC has been linked to the BRCA2 locus on chromosome 13q .
+BRCA1 on chromosome 17q , which is linked to female breast cancer , has shown no linkage to MBC 4 and 13.
+MBC is usually diagnosed at an advanced stage , with a typical subareolar mass associated with nipple involvement and axillary lymph nodes 5 and 6.
+Because the male breast contains only ductal tissue , most MBCs are ductal type , predominantly invasive ductal carcinoma .
+Molecular markers for oestrogen receptor positivity occur in up to 86% of the cases 7.
+The most common surgical procedure is modified radical mastectomy with axillary node dissection .
+Adjuvant radiotherapy has an important role in reducing the risk of local recurrence in large tumours , lymph node and muscle involvement 10. Tamoxifen is the most widely used adjuvant therapy , because it improves survival .
+But it may be associated with more limiting side effects in men than in women , like decreased libido , weight gain , hot flushes , mood alterations , depression , insomnia and deep vein thrombosis 8. There is no evidence confirming that chemotherapy improves long term survival .
+Nonetheless , in some studies , the survival curves suggested a temporary benefit to patients with positive lymph nodes 6 ; 7 and 9.
+The most important prognostic indicators of breast cancer are tumour size and axillary node status .
+Poor prognosis is attributed to old age at diagnosis , association with a high comorbidity ( 30% of patients died of causes unrelated to their history of breast cancer ) , late stage of the disease at presentation , axillary lymph node metastases ( 4 N+ ) and negative hormone receptors 2 ; 6 ; 10 and 11. It is now beyond any doubt that , with the consideration of prognostic factors , the overall survival rate for men and women is nearly identical 9.
+5. Conclusion
+Because of the small sample size and the non-randomized nature of the series , no firm conclusion can yet be drawn regarding adjuvant therapy in male breast cancer

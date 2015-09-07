@@ -1,0 +1,122 @@
+Over the past few years , increased knowledge of molecular alterations involved in the development and dissemination of tumours has described new targets and new drugs that are effective , at least in vitro .
+However , their character , more cytostatic than cytotoxic , has made their clinical development difficult .
+The use of these new drugs under the classical clinical trial design based on the objective of decreasing tumour size has failed .
+Several authors have advised on the need for change in the design of these trials .
+The concepts of minimum inhibitory dose or efficacy and maximum tolerable dose , of molecular activity , serum and histological markers , or of clinical data such as rate of progression and improvement in the quality of life are currently being introduced into the methodology of clinical trials. 
+From among all these changes , perhaps what is considered the most relevant is evaluation of the time variable in clinical trials.2 However , the limitation of its usefulness , in whatever version of its expression ( overall survival , disease-free survival , time-to-progression ( TTP ) , survival following relapse , etc. ) , lies in the high variability of measurement and which is a consequence of the interaction of factors that are tumour-dependent and those that are patient-dependent .
+In breast cancer , the time of clinical evolution of the disease is very heterogeneous and , as is well known , for the same metastatic stage there are patients who succumb within a very few months and others who survive for several years.  This clinical observation has been confirmed in studies of tumour growth.5 .
+For several years , there have been very specific evaluations of the clinical evolution of breast cancer .
+Clinical factors , histological and , more recently , molecular biology factors have been shown to predict the time of survival following relapse.  The disease-free interval , histology grade , disease site , number of metastases and the adjuvant treatment received are some of the variables highlighted in these studies. 
+Some of the factors known to be predictive of the clinical evolution of the disease are employed in the design of clinical trials , essentially in the stratification stage10 ; the objective being to eliminate , or minimise , the effect of these known predictive factors prior to the randomisation of the patients into the various treatment arms .
+However , there is a need to highlight that even within trials with the same objective , the variables selected for stratification purposes are different  and , further , these factors are often considered as independent variables despite inter-relationships among them being well documented.13 .
+Hence , our objective of the present study was to create a model that takes into account all these inter-related predictive variables , and to apply the model in grouping patients with respect to similar disease-progression times .
+Patients and methods Data collection and characteristics of the patients .
+Patient data were obtained from the database ( el Alamo ) of the Spanish Group for the Investigation of Breast Cancer ( Grupo Espaol de Investigacin en Cncer de Mama ; GEICAM ) which holds the data from 32 participating Spanish hospitals .
+Access to the data was with permission of the Spanish Agency for Personnel Data Protection , and commitment to maintain anonymity of data .
+We selected 1504 patients , diagnosed via histology , as having metastatic breast cancer and who had received first-line treatment for advanced disease .
+Cancer of the contra-lateral breast was not considered in this series of patients .
+The quality of the collated data was confirmed using an extensive randomised audit program .
+For the statistical analyses , we collected the demographic data and variables that are potentially predictive of survival following relapse and TTP .
+These were age , hormonal status ( pre or post menopausal ) at the time of initial diagnosis and at the time of recurrence , type of histology ( grade of differentiation ) , expression of hormonal receptors , tumour size ( in cm ) , the number of metastatic axillary nodes , adjuvant treatment received ( with or without anthracyclines ) , disease-free interval , number and sites of metastases .
+Table 1. .
+Clinical data derived from the patient database .
+CharacteristicN Age Mean55.96 Q25 - Q7546 - 66 .
+Stage I104 II749 IIIa173 IIIb179 IV288 Not known11 .
+Axilla node involvement Yes930 No328 Not known246 .
+N / T ratio 28612278 Not known470 .
+Histology grade GI62 GII422 GIII258 Gx755 .
+Hormonal receptors Positive527 Negative182 Not known644 .
+Hormonal status at diagnosis Premenopausal486 Postmenopausal974 Not known44 .
+Hormomal status at relapse Premenopausal289 Postmenopausal1118 Not known97 .
+Disease-free interval 24 months744 24 months757 Not known3 .
+Adjuvant chemotherapy With anthracyclines401 Without anthracyclines372 No chemotherapy376 Not known355 .
+Sites of recurrence Bone667 / 44.3% Lung ( nodule ) 274 / 18% Liver211/14% Mastectomy bed247 / 16.4% Pleura155/10% Supraclavicular165 / 11% Other ganglia126 / 8.4% Skin and sub-cutaneous105 / 7% CNS46/3.1% Carcinomatous lymphangitis35 / 2.3% Peritoneum18/1.2% Others121 / 5.7% .
+Involvement Visceral287 Non-visceral1183 Not known34 Single421 Multiple700 Not known383 .
+Full-size table .
+View Within Article .
+Dependent variable .
+The time-to-first progression ( TP1 ; in months ) is that between the initial date of therapeutic intervention for the metastatic disease ( include local and distance recurrence ) and the date of the progression from this treatment .
+Statistical analyses .
+Univariate analysis was performed in which all possible variables predictive of TP1 were included ; the survival curves being evaluated according to the procedures of Kaplan - Meier.14 Comparisons of the curves were performed using the log-rank test.15 All variables that had a statistical value of p0.2 were introduced into the subsequent multivariate analysis which was performed using Cox 's regression analysis of proportional risk.16 .
+We established a system of scoring taking into account the value of the coefficient obtained for the variables that reached statistical significance in the regression model .
+Each of these scores for each of the variables was established by dividing each coefficient by the lowest of the coefficients ( see Table 4 ) .
+The validation of the model scoring procedure was performed on the overall patient sample for which all the relevant data were available .
+For the calculation of the probability of progression following the first-line treatment , we constructed a table to establish a principal variable ; the event of progression to the first therapy line .
+The period of time selected was the first 2 years in intervals of 3 months.14 .
+The SPSS package ( version 10.0 ) for Windows ( Chicago , IL ) was used throughout .
+Role of the funding source .
+GEICAM group has acted as sponsor in the study design ; in the collection , analysis , and interpretation of data ; in the writing of the report ; and in the decision to submit the paper for publication .
+Results .
+The analysis involves a mature patient series .
+Up to the time of the current analysis , there has been a total of 1270 ( 84.4% ) events of first-line progression to first-line therapy with a median follow-up of 24.80 months ( 95% CI : 22.65 - 26.95 ) of the metastatic disease .
+Univariate analysis .
+The univariate analysis was performed according to the method of Kaplan - Meier for each of the variables and the TP1 .
+The variables that reached statistical significance were age , hormonal status at the time of relapse , disease-free interval , axilla node involvement , tumour treatment , presence of hormonal receptors , tumour size , N / T ratio ( the number of affected lymph nodes divided by the tumour size , in cm ) , grade of differentiation , receipt of anthracyclines as adjuvant treatment , presence of loco-regional relapse , single metastases , non-visceral site , and the response to the first-line treatment .
+Table 2. .
+Univariate analysis of time-to-first progression ( TP1 )
+VariableNMedian TP1 ( 95% CI ) p Hormonal status at diagnosis Premenopause4777.73 ( 7.11 - 8.56 ) Postmenopause9627.83 ( 6.70 - 8.73 ) 0.82 .
+Ganglion involvement 032010 ( 8.42 - 11.58 ) 1 - 33358.43 ( 6.82 - 10.05 ) 4 - 93307.40 ( 6.49 - 8.31 ) 102086.70 ( 5.51 - 7.89 ) 0.001 .
+Tumour size 3 cm6588.70 ( 7.70 - 9.70 ) 3 cm5487.40 ( 6.67 - 8.13 ) 0.0039 .
+Ratio N / Ta 28488.53 ( 7.67 - 9.40 ) 22777.73 ( 6.7 - 8.77 ) 0.001 .
+Differentiation grade G16210.73 ( 5.77 - 15.69 ) G24228.33 ( 7.14 - 9.53 ) G32556.53 ( 5.42 - 7.65 ) 0.01 .
+Hormonal receptors Positive5178.43 ( 7.47 - 9.40 ) Negative1795.83 ( 4.63 - 7.04 ) 0.007 .
+Adjuvant Chemotherapy Anthracyclines +3977.90 ( 7.06 - 8.74 ) Anthracyclines 3667.67 ( 6.5 - 8.84 ) 0.13 .
+Disease-free interval 24 months7346.53 ( 5.97 - 7.10 ) 24 months7469.80 ( 8.63 - 10.97 ) 0.001 .
+Hormonal status at relapse Premenopause2848.60 ( 6.87 - 10.33 ) Postmenopause11027.77 ( 7.12 - 8.41 ) 0.56 .
+Metastatic site Visceral2854.80 ( 4.09 - 5.51 ) Non-visceral11658.93 ( 8.20 - 9.67 ) 0.001 .
+Single metastasis41712.07 ( 10.13 - 14.01 ) Multiple metastases6915.90 ( 5.46 - 6.34 ) 0.001 .
+Response to first-line therapy Complete21330.83 ( 22.63 - 39.04 ) Partial3189.17 ( 8.24 - 10.10 ) Stable disease2549.27 ( 7.77 - 10.69 ) Progression5164.07 ( 3.69 - 4.44 )
+Not evaluable or not known1529.20 ( 6.49 - 11.91 ) 0.001 .
+Full-size table .
+a Ratio of number affected lymph nodes / size of the tumour in cm .
+View Within Article .
+Multivariate analysis .
+Cox 's regression model was used and , in which , all those variables that reached a statistical probability of p0.2 in the univariate analysis were included .
+The variables that were shown to have independent predictive value for the TTP were : metastatic site ( visceral vs. non-visceral and local recurrence vs. at distance ) , disease-free interval , hormonal receptors and the N / T ratio26 .
+Table 3. .
+Multivariate Cox 's regression analysis .
+VariableS.E.Walddfp Metastases non-visceral0.8480.14918.77110.0001 Metastases single0.7820.16113.09110.0001 Hormonal receptor positive0.4140.1596.79910.009 N / T ratio 20.4010.1348.98710.003 Disease-free interval ( DFI ) 24 months0.7310.11720.73110.0001 .
+Full-size table .
+View Within Article .
+Model scores .
+We assigned a score to each variable taking into account the absolute value of in the equation obtained using the Cox regression model .
+Hence , with the least value of as reference ( N / T : 0.401 ) and assigned the value of 1 point , the rest of the scores were obtained by dividing the value for each variable by the reference , e.g. for the non-visceral involvement the score would be 0.848 / 0.401=2 points .
+Table 4. .
+Construction of the model of scoring as a function of the value obtained from the Cox 's regression analysis ( see text for details )
+VariableQuotientScore Metastases non-visceral0.8480.848 / 0.4012 Single metastases0.7820.782 / 0.4012 Hormonal receptor positive0.4140.414 / 0.4011 N/T ratio 20.4010.401 / 0.401=1 Disease-free interval ( DFI ) 24 months0.7310.731 / 0.4012 .
+Full-size table .
+View Within Article .
+To test the usefulness of the scoring system , the model was applied to all the patients in whom all the relevant data were available ( 461 patients ) .
+There were three classes established : 0 - 3 , 4 - 6 , and 7 - 8 points .
+While calculating , de novo , the TTP for each of these classes , we observed the following median TTP for each of the score scales : score 0 - 3 was 4.03 months ; score 4 - 6 was 7.89 months , and score 7 - 8 was 18.50 months ( log-rank : 75.59 ; p0.0001 ) .
+Full-size image ( 38K )
+Fig. 1. Validation of the scoring model on the same patient sample used for the time-to-first progression ( TP1 ) analysis .
+The scores were segregated into three categories 1-3 , 4-6 and 7-8 points .
+There were statistically significant differences between the three categories .
+In the Table below the Figure are the percentage probabilities of progression in the first 2 years ( presented in 3 monthly intervals ) for each of the three categories .
+View Within Article .
+Survival tables .
+Survival tables were employed to calculate the probability of progression following first-line treatment at intervals of 3 months over the 24 month period .
+Discussion .
+To date , the development of the anti-tumour agents and the demonstration of their activity has been based on their capacity , more or less , to reduce tumour size .
+One important consequence of such phase II clinical trials has been to proceed to phase III with a large and costly sample of study subjects .
+With the arrival of drugs devoid of cytoreductive capacity , the methodology of a trial based on an intended response , such as the reduction of the tumour size , becomes less than satisfactory .
+Some authors have highlighted the need for changes in methodology so as to evaluate more effectively the utility of these new drugs .
+One of the changes proposed as a fundamental objective for these new trials15 is to clarify the time variable in all of its variations ( survival following relapse , TTP , etc. ) .
+However , phase II and phase III clinical trials with this variable as the single objective of evaluation of effectiveness , need the tools that would determine , a priori , those increments in the time variable that would be considered beneficial .
+This requires that there be clear knowledge of the factors that predict the time-course of the natural history of the disease .
+In breast cancer , the time variable is subject to wide variation .
+It has been well documented  that clinical factors ( metastatic site , disease-free interval , presence of symptoms related to the metastatic disease , adjuvant treatment with anthracyclines , etc. ) and histological factors ( hormonal receptors , grade of differentiation , etc. ) have the capacity to predict the TTP.  Some of these factors are used in the process of stratification of the patients introduced into phase III clinical trials.16 However , employing them as independent variables without taking into account the inter-relationships that exist between them reduces the validity of the trial 's outcomes.17 .
+The methodology of scoring that we employed has been applied to other situations by other authors and , as such , is already known.  In the present study , the model was applied to an extended series of patients derived from 32 different hospitals and with a long period of follow-up .
+The characteristics we observed in relation to the frequency of the site of metastatic disease are similar to those published by other authors.  All the variables that reached statistical significance are available in the majority of our patients undergoing intervention for breast cancer , thus endowing the model with an ease of applicability .
+It is possible that at the time of evaluating the TP1 , different clinical guidelines were operating in the different hospitals and , as such , different TP1 values would have been derived .
+However , when we randomly compare data from the different hospitals , or groups of hospitals , we do not find such differences .
+Indeed , the moment of progression ( limiter of the time variable ) was well recognised in the clinical history while the frequency of clinical visits and the evaluation of disease stage were homogeneous in any one hospital compared to any another .
+The congruence between our findings and those published for other patient series with regard to the median time-to-first progression  confirms that our patient series is sufficiently representative of the real situation .
+Some authors have highlighted the need for extensive historical controls25 and measuring tools that take into account the inter-relatedness of the predictive factors .
+As such , the present study provides a solution to the problem of reliably predicting the clinical evolution of the disease .
+This clinical predictive model must incorporate in the futures analyses new predictive response factors as HER-2 and new concepts in breast cancer disease as different phenotypes ( p.e : basal like ) .
+Conclusion .
+Using our new scoring model , it is possible to group patients with metastatic breast cancer according to the predicted TTP .
+This can be a useful tool at the time of selecting and stratifying patients on entry into new randomised clinical trials .
+Further studies are currently underway to determine the sensitivity and specificity of the model , as well as its usefulness in clinical trials that evaluate new drugs .

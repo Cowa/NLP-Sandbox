@@ -1,0 +1,96 @@
+L' examen extemporané est un examen macroscopique et microscopique qui se déroule dans des conditions particulières peropératoires en raison de la nécessité d' un diagnostic immédiat  .
+La réponse rapide est destinée à modifier le déroulement de l' intervention et donc à adapter le geste chirurgical en le complétant si besoin .
+Cette réponse préliminaire doit être confirmée par une étude définitive du reste de la pièce opératoire , selon les techniques d' anatomopathologie habituelles ( inclusion en paraffine )  .
+Les indications principales de l' examen extemporané en chirurgie mammaire sont : fournir un diagnostic histologique rapide de la tumeur afin_de réaliser un curage axillaire en cas de nature néoplasique infiltrante et élargir éventuellement le geste mammaire .
+La place de l' examen extemporané en pathologie mammaire s' est modifiée depuis quelques années pour diverses raisons : - le changement de mode de présentation des lésions mammaires qui sont identifiées à un stade de_plus_en_plus précoce grâce au dépistage mammographique  .
+Les lésions infracliniques ainsi dépistées se caractérisent par une petite taille souvent infracentrimétrique dont le risque est de détruire définitivement la partie la plus caractéristique de la lésion par le procédé de congélation .
+Ainsi , il est communément admis de ne pas réaliser d' examen extemporané pour les tumeurs mammaires inférieures à dix millimètres  ;
+- le développement des méthodes de microprélèvements cellulaires ( cytoponctions ) et tissulaires ( macro- ou microbiopsies ) permettant d' obtenir un diagnostic préopératoire dans un nombre croissant de cas  .
+Depuis ces dernières années , la technique du ganglion sentinelle a totalement modifié la prise en charge des tumeurs mammaires invasives inférieures à trois centimètres  .
+Un diagnostic histologique préopératoire obtenu dans la_plupart des cas grâce_à la micro- ou macrobiopsie  semble actuellement préférable pour l' application de cette procédure qu' elle fasse appel à la technique isotopique et / ou colorimétrique .
+Pour certaines équipes , cette méthode d' exploration du creux axillaire implique un examen cytologique extemporané par l' anatomopathologiste du ou des ganglions prélevés lors_de l' acte chirurgical pour savoir s' il faut poursuivre ou non la dissection axillaire .
+Le but de cette étude est de comparer l' évolution qualitative des examens extemporanés en pathologie mammaire entre l' année 1996 ( avant l' acquisition en avril 1997 du premier appareil permettant les prélèvements stéréotaxiques percutanés  ) et l' année 2004 ( après la phase d' apprentissage de la technique du ganglion sentinelle et son application en routine ) afin_de savoir si l' examen extemporané trouve encore sa place dans la prise en charge diagnostique et thérapeutique du cancer du sein .
+2. Patientes et méthodes2.1 .
+Sélection des patientes
+L' étude rétrospective menée ici a été réalisée à partir des données recueillies au centre Jean-Perrin pour les années 1996 et 2004 .
+L' ensemble des dossiers de patients a été répertorié dans un programme informatique utilisé par le service d' anatomopathologie .
+Grâce à ce logiciel informatique , les banques de données pour les deux années sélectionnées ont été établies en utilisant plusieurs mots clés .
+Les mots « sein » , « examen extemporané » et « ganglion axillaire » ont permis d' obtenir un listage par année .
+Les critères d' inclusion étaient : - examen extemporané concernant un tissu mammaire ou un ganglion axillaire confirmé par l' examen histologique définitif ;
+- périodes du 2 janvier 1996 au 31 décembre 1996 inclus et du 2 janvier 2004 au 31 décembre 2004 inclus .
+Un examen macroscopique sans examen histologique ou cytologique était le seul critère d' exclusion .
+Dans le cas de lésions multifocales , seul l' examen extemporané de la lésion dont la taille était la plus grande a été retenu .
+Dans le cas de lésions bilatérales , les deux examens extemporanés ont été pris en compte .
+Au total 318 dossiers anatomopathologiques pour l' année 1996 et 329 pour l' année 2004 ont été retenus en respectant les critères d' inclusion et d' exclusion .
+2.2. Recueil des données
+Une base de données créée à l' aide d' un logiciel Excel fut établie pour chaque année avec les critères suivants : nom , prénom , âge , date de chirurgie , côté lésionnel , taille de la lésion , motif de l' examen extemporané , diagnostic ( bénin , malin , non contributif ) , nombre de techniques du ganglion sentinelle ( année 2004 ) .
+2.3. Analyse statistique
+Les tests statistiques ont été réalisés à l' aide du logiciel Excel .
+Un test de Chi2 a été utilisé pour les variables qualitatives : effectifs pour chaque population .
+Le test fut considéré comme significatif lorsque p 0,05 .
+Pour les comparaisons de moyennes , un test de Student bilatéral a été utilisé .
+Le test fut considéré comme significatif lorsque p 0,05 .
+3. Résultats
+En 1996 , 307 examens extemporanés sur tumeurs du parenchyme mammaire ont été effectués dont 19 examens microscopiques sur les limites d' exérèse , alors_que pour l' année 2004 , seuls 168 examens histologiques peropératoires ont été pratiqués sur des tumeurs mammaires dont 11 seulement avec étude des limites d' exérèse associée ( p 0,0001 ) .
+Une différence significative ( test t de Student bilatéral ) a été retrouvée entre les moyennes des tailles tumorales ( p = 0,03 ) avec une moyenne moins importante pour l' année 2004 par_rapport_à l' année 1996 : 1,75 versus 1,94 cm .
+Tableau 1.
+Caractéristiques et résultats des deux populations étudiées
+19962004P Nombre total de patients318329NS ge60,760,2NS Nombre total des examens extemporanés en chirurgie mammaire ( % ) 307 ( 96,5 ) 168 ( 51 ) 0,0001 Dont nombre total des examens extemporanés en chirurgie mammaire pour examen histologique des berges d' exérèse.1911 Taille tumorale ( cm ) moyenne1,941,750,031 Ecart type1,070,82 Extrêmes0,4 - 90,5 - 5 Diagnostic Bénin n ( % ) 111 ( 34,9 ) 70 ( 41,6 ) 0,25 ( NS ) Malin n ( % ) 193 ( 60,7 ) 97 ( 57,7 ) Non contibutif n ( % ) 3 ( 4,4 ) 1 ( 0,7 ) Nombre total des examens extemporanés sur les ganglions sentinelles ( % ) 11 ( 3,5 ) 161 ( 49 ) 0,0001
+Full-size table
+cm = centimètres ; % = pourcentage ; n = nombre .
+View Within Article
+La répartition des tailles tumorales des deux années étudiées est reportée sur l' histogramme ci-dessous .
+Full-size image ( 24K )
+Fig. 1. Répartition des tailles tumorales pour les années 1996 et 2004 .
+View Within Article
+Il n' y a pas de différence significative entre le nombre de pathologies bénignes et malignes étudiées en extemporané ( p = 0,25 ) .
+Onze ganglions ( soit 3,5 % de la totalité des examens extemporanés ) ont été étudiés en extemporané en 1996 .
+Il s' agissait de ganglions macroscopiquement suspects en peropératoire , sans repérage isotopique ou colorimétrique préopératoire .
+En 2004 , 161 ganglions ont fait l' objet d' un examen cytologique extemporané ( soit 49 % de l' ensemble des examens peropératoires ) .
+Il existait une différence significative entre les pourcentages de ganglions examinés par empreinte cytologique pendant l' intervention chirurgicale au cours des deux années étudiées ( p 0,001 ) .
+Concernant le diagnostic lésionnel , les quatre examens extemporanés non contributifs pour 1996 et 2004 , correspondaient à quatre carcinomes micropapillaires lors_de l' examen histologique définitif .
+Les résultats étaient en faveur d' une diminution des examens extemporanés sur tumeur mammaire et une augmentation des examens extemporanés cytologiques ganglionnaires .
+4. Discussion
+L' examen extemporané est une technique anatomopathologique à_part entière dans la stratégie de prise en charge du cancer du sein .
+Depuis son essor , il permet d' éviter plusieurs interventions chez une même patiente par un diagnostic anatomopathologique peropératoire  .
+Cela réclame une information préalable de la patiente car le résultat de l' examen extemporané peut alourdir le geste opératoire et donc les séquelles esthétiques et fonctionnelles potentielles .
+Aucune publication confrontant l' activité des examens extemporanés en pathologie mammaire de deux années , avant et après l' essor des diagnostics préopératoires , n' a été retrouvée dans la littérature .
+Notre étude semble à ce titre originale puisque c' est l' une des premières à comparer l' évolution qualitative des examens extemporanés dans le cancer du sein .
+L' analyse qualitative de nos résultats montre : - une diminution très significative des examens extemporanés histologiques entre les deux années ( 307 en 1996 versus 168 en 2004 avec p 0,001 ) ;
+- une forte augmentation des examens cytologiques des ganglions axillaires peropératoires ( 11 en 1996 versus 161 en 2004 avec p 0,001 ) .
+Cette décroissance du nombre d' examens extemporanés en chirurgie mammaire entre 1996 et 2004 traduit une chute des indications des examens extemporanés en_partie liée à l' augmentation des diagnostics préopératoires .
+Cette tendance pourrait s' accentuer si la sénologie interventionnelle continue à étendre son activité .
+En effet , la moyenne de la taille tumorale et la répartition de ces tailles pour l' année 2004 montrent que plus de la moitié des tumeurs mesure moins de trois centimètres et pourrait faire l' objet d' un diagnostic préopératoire afin_de bénéficier de la technique du ganglion sentinelle en cas de néoplasie invasive avérée .
+Dans notre série , certaines tumeurs de moins d' un centimètre ont fait l' objet d' un examen extemporané .
+Cette pratique semble acceptable si du matériel permet une analyse histologique définitive qui reste la priorité .
+Certaines équipes peuvent effectuer des diagnostics extemporanés de tumeurs mammaires de diamètres inférieurs à un centimètre grâce_à l' utilisation d' un cryostat qui permet de réaliser des coupes sériées de l' ordre 10 à 15 microns rendant l' analyse peropératoire possible sans compromettre l' interprétation histologique définitive  .
+Cependant , cette méthode n' est pas recommandée par la Société française d' anatomopathologie et son indication ne doit être qu' exceptionnelle  .
+De plus , la diminution de la moyenne des tailles tumorales témoigne d' une prise en charge thérapeutique plus précoce des tumeurs mammaires en_partie liée à la participation des patientes au dépistage de masse organisé en région Auvergne  .
+Le rôle du dépistage de masse dans la précocité des diagnostics de tumeur mammaire a été bien mis en évidence par de nombreuses études comparant les examens extemporanés en pathologie mammaire avant et après l' introduction du dépistage national de masse du cancer du sein  .
+Cette tendance au dépistage des lésions non palpables augmente donc le nombre des tumeurs accessibles au diagnostic préopératoire et à la technique du ganglion sentinelle .
+L' examen histologique peropératoire des berges chirurgicales permet également l' évaluation des limites d' exérèse afin_d' orienter d' éventuelles recoupes chirurgicales .
+Cependant , des erreurs d' échantillonnage sont possibles car il est difficile de multiplier les prélèvements qui doivent être ciblés par l' étude macroscopique du pathologiste .
+Notre équipe privilégie la réalisation de recoupes systématiques mais l' intérêt de cette pratique n' est pas validé .
+Devant l' émergence de la méthodologie du ganglion sentinelle dans le traitement du creux axillaire pour les tumeurs invasives de moins de trois centimètres , l' examen cytologique extemporané trouve sa place .
+En effet , l' intérêt de l' étude peropératoire du ganglion sentinelle réside en la limitation des gestes chirurgicaux secondaires et notamment les reprises chirurgicales du creux axillaire afin_de compléter le curage en cas de métastases à l' examen histologique définitif de ce ganglion sentinelle .
+La récente méta-analyse de Cserni retrouve un taux de réinterventions à 20,2 % ( indice de confiance : 15,5 - 24,9 ) pour complément de curage en cas d' absence d' examen cytologique peropératoire du ganglion sentinelle  .
+Mais , toutes les équipes ne réalisent pas cette analyse cytologique peropératoire sur le ganglion sentinelle  .
+Cette pratique n' est pas recommandée en raison de sa mauvaise sensibilité estimée à 56 % .
+Ce faible taux est en_partie lié à la difficulté de détection des micrométastases ( métastases dont la taille est comprise entre 0,2 et 2 mm ) par l' empreinte cytologique en comparaison avec la détection des macrométastases ( taille supérieure à deux millimètres ) dont les sensibilités respectives sont de 22 et 87 % dans une récente étude américaine portant sur 133 cas  .
+Car l' examen cytologique du ganglion sentinelle par apposition est effectué après la réalisation de deux à trois coupes sériées pouvant engendrer des erreurs d' échantillonnage .
+L' équipe milanaise  avait résolu cette difficulté en réalisant un examen histologique peropératoire très complet du ganglion sentinelle multicoupes .
+Mais la réalisation de cette technique est longue et coteuse et peu de laboratoires d' anatomie pathologique ont la capacité et les moyens de mettre en oeuvre une telle procédure en routine .
+De plus , la signification et l' attitude thérapeutique devant la découverte de micrométastases restent controversées  .
+Certaines équipes  réalisent un complément de curage ganglionnaire lorsqu' il existe au moins une micrométastase bien_que cette attitude ne soit pas validée  .
+L' intérêt d' une prise en charge chirurgicale active des micrométastases n' est en_effet pas démontré même si leur présence semble avoir un impact négatif sur la survie globale des patientes  .
+Enfin , l' examen cytologique extemporané nécessite une formation spécifique avec un encadrement adapté .
+Ainsi , certaines équipes fixent le ( s ) prélèvement ( s ) ganglionnaire ( s ) en paraffine afin_de rendre un résultat histologique définitif en l' absence de tout examen extemporané  .
+Finalement , une histologie préopératoire a l' avantage de permettre l' élaboration d' un programme thérapeutique par une équipe multidisciplinaire et d' en informer la patiente avant le début du traitement .
+L' examen extemporané n' aurait plus qu' une place restreinte dans la prise en charge diagnostique et thérapeutique des tumeurs mammaires .
+Ainsi , le comportement du chirurgien vis-à-vis_de l' anatomopathologiste se modifie et la demande chirurgicale ne se conçoit alors qu' après une entente préalable au_cours_de la réunion de concertation pluridisciplinaire .
+5. Conclusion
+L' examen extemporané dans le cancer du sein au centre Jean-Perrin reste un maillon clé de la prise en charge diagnostique et thérapeutique des tumeurs mammaires .
+Il existe cependant une redistribution de l' activité avec une chute des examens extemporanés histologiques sur tissu mammaire par augmentation du diagnostic préopératoire et une émergence des examens extemporanés cytologiques pour le ganglion sentinelle .
+Un équilibre , en terme de volume d' activité , est ainsi maintenu .
+Si l' individualisation du ganglion sentinelle comme alternative au curage axillaire représente une avancée majeure dans la prise en charge du cancer du sein , son analyse histologique peropératoire est un sujet qui reste controversé .
+Devant l' augmentation des diagnostics histologiques préopératoires des tumeurs mammaires et l' absence de consensus validé concernant l' examen anatomopathologique extemporané du ganglion sentinelle , l' examen extemporané n' aura plus qu' une place limitée dans le cancer du sein

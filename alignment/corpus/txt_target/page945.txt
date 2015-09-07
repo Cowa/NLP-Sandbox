@@ -1,0 +1,226 @@
+Breast cancer is the second most frequent cause of cancer-related deaths among women in the Western world  .
+The deregulation of genes involved in cell cycle , extracellular matrix remodelling , cell adhesion , and motility has been reported in the most invasive stage of the disease  .
+Although early detection and effective treatment modalities for oestrogen-dependent breast cancers improve the overall cure rate , the prognosis for oestrogen-independent breast cancers is poor .
+The primary treatment modality of this phenotype , which constitutes more than 60% of all cases , is cytoreductive surgery followed by adjuvant chemotherapy , radiotherapy , or both  .
+However , there is a need to develop additional modes of treatment for this important group of patients .
+Angiogenesis , the process by which new blood vessels are formed from an existing vascular network , is an essential requirement for tumour growth and metastasis  .
+This intricate process involves proteolysis of basement membrane , endothelial cell migration , proliferation and matrix remodelling  .
+The disruption of the vascular basement membrane may facilitate extravasation of endothelial cells , leading to the formation of neovascular sprouts , as well as intravasation of tumour cells into the vessels affecting the metastatic spread of malignant cells .
+Thus , the critical event in cancer progression is the development of the ability to invade surrounding tissues .
+Vascular endothelial growth factor ( VEGF ) , the main positive regulator of angiogenesis , binds to its receptor resulting in endothelial cell activation , proliferation , migration , invasion , and survival  .
+There are six glycosylated isoforms of VEGF : VEGF-A , VEGF-B , VEGF-C , VEGF-D , VEGF-E , and placenta growth factor-1 ( PlGF-1 ) .
+VEGF-A , which is the most extensively studied , has been implicated in tumour-induced angiogenesis  .
+Two of the multiple mature molecules of VEGF-A , VEGF121 , and VEGF165 , are the main soluble and biologically active forms .
+The signal transduction of VEGF is mediated through the tyrosine-kinase domain of intracellular portion of the receptor  .
+VEGF initiates an intracellular signalling cascade which leads to changes in expression of the gene promoting endothelial cell migration and proliferation , as well as producing an increase in the permeability of capillaries  .
+Angiogenesis is a key for the growth and metastasis of solid tumours such as breast cancer  .
+High levels of VEGF have been shown to correlate with poor prognosis and decreased overall survival for both node-positive and node-negative breast cancer patients  .
+In addition , VEGF may function as an autocrine factor on breast carcinoma cells to maintain their survival  .
+Vasoactive intestinal peptide ( VIP ) is a 28 amino acid neuropeptide that belongs to a large family of structurally-related peptides including pituitary adenylate cyclase-activating peptide ( PACAP ) , glucagon , secretin , and other molecules  .
+VIP is a pleiotropic peptide since it is expressed in distinct subpopulations of neurons in most major structures of both the central and peripheral nervous systems , as well as in endocrine - paracrine cells  .
+This neuroendocrine peptide exerts a wide array of biological effects including those on exocrine and endocrine secretions , immunomodulation , muscle relaxation , and cell proliferation and differentiation  .
+VIP and PACAP bind with high affinity to VPAC1 and VPAC2 receptors whereas PAC1 receptors bind PACAP with high affinity and VIP with low affinity  .
+These receptor subclasses are coupled to stimulatory guanine nucleotide binding proteins ( Gs ) resulting in adenylate cyclase activation and , less commonly , to IP3 / Ca2+ and other signalling pathways .
+The increase in cAMP causes protein kinase A ( PKA ) activation , which may phosphorylate protein substrates leading to increased oncogene expression  .
+In many human cancer cell systems studied , VIP behaves as trophic factors and exerts actions such as protection from apoptosis  .
+In this regard , several evidence indicate that VIP may play an important role in growth , differentiation , and function in normal and neoplastic breast  .
+Thus , VIP has been considered as an additional breast cancer growth factor  .
+In this context , a high occurrence of VPAC1-receptor gene expression has been reported in human breast cancer cell lines , carcinomas , and metastasis  .
+The aim of the present report was to evaluate the possible implication of VIP in the angiogenesis of breast cancer .
+Previous in vitro studies from our laboratory have shown that VIP increases VEGF expression and secretion in the androgen-responsive prostate tumour cell line LNCaP .
+This fact suggests an important role for VIP as a proangiogenic factor , which contributes to the regulation of the tissue vascularization in prostate cancer  .
+Breast and prostate cancers are hormone-related cancers that possess similar pathological entities and exhibit similar epidemiological patterns  .
+On the other hand , VIP regulates VEGF expression and secretion in lung cancer cells  , causes intense neovascularization in a rat sponge model  , and induces angiogenesis in lactotrophs by autocrine / paracrine mechanisms  .
+The present study investigates VIP effects upon VEGF expression as well as the mediated signalling pathways involved in both oestrogen-dependent ( T47D ) and -independent ( MDA-MB-468 ) breast cancer cell lines .
+It is a contribution to the understanding of the underlying pathogenesis of disease progression which is the main prerequisite for developing effective preventive and therapeutic strategies for breast cancer .
+2. Materials and methods2.1 .
+Reagents .
+Synthetic VIP was purchased from NeoMPS ( Strasbourg , France ) , N- [ 2- ( p-bromocinnamylamino ) ethyl ] -5-isoquinolinesulfonamide ( H89 ) from Alexis ( Grnberg , Germany ) , and wortmannin from Calbiochem ( Schwalbach , Germany ) .
+Other reagents were obtained from Sigma ( Alcobendas , Spain ) .
+2.2. Cell lines .
+Oestrogen-dependent ( T47D ) and oestrogen-independent ( MDA-MB-468 ) breast carcinoma cell lines were obtained from the American Type Culture Collection ( Manassas , VA , USA ) .
+The MDA-MB-468 cell line was cultured in Roswell Park Memorial Institute ( RPMI-1640 ) medium ( Life Technologies , Barcelona , Spain ) supplemented with 1% antibiotic / antimycotic and 10% foetal bovine serum ( FBS ) .
+The T47D cell line was cultured in the same medium containing 8 g / ml insulin .
+The cells were grown at 37 C in a humidified 95% air / 5% carbon dioxide atmosphere and split weekly with 0.5% trypsin / 0.02% EDTA .
+All culture media components were purchased from Invitrogen ( Barcelona , Spain ) .
+2.3. RNA extraction and reverse transcription polymerase chain reaction ( RT-PCR )
+Total RNA was extracted from cultured T47D and MDA-MB-468 cancer cells using TRIR reagent ( Biotech Labs , Houston , TX , USA ) , according to the manufacturer 's instructions .
+Two g ( 8 g for VPAC2 receptor ) of total RNA was reverse-transcribed into complementary DNA ( cDNA ) by Moloney murine leukaemia virus reverse transcriptase , according to the manufacturer 's guidelines ( Life Technologies ) .
+In order to rule out genomic DNA contamination , the RT was also performed without reverse transcriptase .
+Two l ( 8 and 10 l for VIP and VPAC2 receptor , respectively ) of the RT reaction was used for each PCR amplification with a primer set which amplifies cDNAs for human VIP , VPAC1 and VPAC2 receptors , VEGF isoforms , or -actin  .
+The number of cycles was determined in preliminary experiments to be within the exponential range of PCR amplification .
+Negative controls with water instead of cDNA were run in parallel to exclude different contaminations .
+The PCR amplification was performed in a termocycler ( Perkin Elmer Applied Biosystems , Foster City , CA , USA ) with the cycle profiles previously reported  .
+After the last cycle , there was a final extension for 10 min at 72 C. PCR products were electrophoresed on a 2% agarose gel stained with ethidium bromide and visualised under UV light .
+Bands of PCR-amplified products were scanned and analyzed semiquantitatively , using an Imaging System ( Gel Doc XR , Bio-Rad , Madrid , Spain ) .
+All the experiments were repeated at least three times and similar results were obtained .
+The mRNA levels of the studied genes were normalized vs. those for -actin .
+Table 1. .
+Oligonucleotide primers used in RT-PCR analysis for VIP , VPAC1 and VPAC2 receptors , -actin , and VEGF165 expression in oestrogen-dependent ( T47D ) and oestrogen-independent ( MDA-MB-468 ) breast cancer cells .
+mRNAPrimersSequence ( 5 3 ) Product size ( bp ) Used in:Reference Semiquantitative RT-PCRQuantitative real-time RT-PCR VIPSenseACG TCA CTC AGA TGC AGT CTT CAC101XX  AntisenseTGC TCC TCT TTC CAT TCA GAA TTXX VEGFSenseATC TTC AAG CCA TCC TGT GTG C391 , 365 , 231X  AntisenseTCA CCG CCT CGG CTT GTC ACA TX VEGF165SenseGAC AAG AAA ATC CCT GTG GGC101X  AntisenseAAC GCG AGT CTG TGT TTT TGCX VPAC1-RSenseATG TGC AGA TGA TCG AGG TG324X  AntisenseTGT AGC CGG TCT TCA CAG AAX SenseCTG GGT CAG TCT GGT GGG AG101X  AntisenseTCC GAG ACC TAG CAT TCG CTX VPAC2-RSenseTAC AGA GCT TCT GAG GTC TC519X  AntisenseTAC TGC AGG AAG ACC AGG CX SenseTCA GTG CTG GTC AAG GAC GAC101X  AntisenseAAG ACC AGG CTC AGC TTG CAX -actinSenseAGA AGG ATT CCT ATG TGG GCG101XX  AntisenseCAT GTC GTC CCA GTT GGT GACXX .
+Full-size table .
+View Within Article .
+2.4. Single-step quantitative real-time RT-PCR .
+Quantitative real-time RT-PCR analysis was carried out using 90 ng of RNA for each sample and SYBR Green PCR master mix ( Applied Biosystems ) in one-step RT-PCR protocol according to the manufacturer 's instructions .
+The thermal cycling conditions were 30 min at 48 C for RT and 10 min at 95 C to activate MultiScribe Reverse Transcriptase , followed by 50 cycles of 95 C for 15 s and 60 C for 1 min .
+All PCR reactions were performed in an Applied Biosystems PCR system ABI-Prism 7000 SDS with the specific primers shown in Table 1. The relative quantification was normalized to -actin .
+Results of real-time PCR were represented as Ct values , where Ct was defined as the threshold cycle number at which product is first detected by fluorescence .
+The amount of target was normalized to an endogenous reference , the housekeeping gene for -actin .
+Ct was the difference in Ct values derived from the corresponding gene in each sample assayed , and -actin gene .
+Ct represented the difference between the paired samples .
+The n-fold differential ratio was expressed as 2 Ct  .
+2.5. Quantification of VIP and VEGF .
+T47D and MDA-MB-468 cells were placed in 100 mm cell culture dishes at a density of 2 - 2.5 106 cells in complete medium for 24 h .
+Controls received medium only .
+Cells were washed once with ice-cold PBS and then harvested , scraped into ice-cold PBS , and then pelleted by centrifugation at 500 g for 5 min at 4 C. For preparation of cytosolic extracts the packed cells were resuspended into 10 mM HEPES ( pH 7.9 ) , 10 mM KCl , 0.1 mM EDTA , 0.1 mM EGTA , 1 mM dithiothreitol ( DTT ) , 0.5 mM phenyl methylsulfonylfluoride ( PMSF ) , 10 g / ml aprotinin , 10 g / ml leupeptin , 10 g / ml pepstatin , 5 mM NaF , 1 mM Na3VO4 , and 1 mM NaN3 .
+Cells were kept on ice for 15 min , then 0.5% Nonidet P-40 was added and the cytosolic extract was pelleted by centrifugation at 25,000 g for 40 s at 4 C. The supernatants were stored at 80 C in order to perform further assays .
+VIP levels in the cytosolic fraction were determined by an enzyme immunoanalysis ( EIA ) with a commercially available kit according to manufacturer 's instructions ( Phoenix Pharmaceutical , Karlsruhe , Germany ) .
+The antiserum had 100% cross-reactivity with human VIP and VIP ( 10 - 28 ) .
+T47D and MDA-MB-468 cells were placed in 24 well plates at a density of 80 - 100,000 cells / well in complete medium for 24 h .
+Controls received medium only .
+After an incubation period of 4 - 24 h for T47D cells and 4 - 72 h for MDA-MB-468 cells with 0.1 M VIP , the medium was removed and kept at 80 C for ELISA assays .
+VEGF was analyzed using human VEGF DuoSet ( RD Systems , Minneapolis , MN , USA ) .
+2.6. Cyclic AMP .
+The ability of VIP and forskolin ( Fsk ) to cause elevation of cAMP levels was determined in human breast cancer cells .
+T47D or MDA-MB-468 cells ( 300,000 - 500,000 cells ) in 6 well plates were treated with 750 l of medium containing 1% bovine serum albumin ( BSA ) , 1 mg / ml bacitracin , 0.05 mM PMSF and 0.4 mM 3-isobutyl-1-methylxanthine ( IBMX ) .
+After 30 min of treatment , the media were removed .
+In order to measure intracellular cAMP , 70% ethanol was added and then , transferred to fresh tubes and evaporated at 60 C. Dried samples were dissolved in 0.2 M phosphate buffer and stored at 20 C until further assays .
+Afterwards , cAMP levels were measured by means of a competitive binding assay  .
+2.7. Statistical analysis .
+Data are expressed as the mean S.EM .
+Statistical analysis was performed as appropriate using the Student 's two tailed t test or the Bonferroni 's test for multiple comparisons after one-way analysis of variance ( ANOVA ) .
+P 0.05 was considered to be significant .
+3. Results3.1 .
+VIP mRNA and peptide levels .
+Oestrogen-responsive ( T47D ) or oestrogen-independent ( MDA-MB-468 ) cancer cells were investigated for the expression of VIP at mRNA level by both semiquantitative and real-time quantitative RT-PCR , and at protein level by immunochemical experiments .
+Photomicrographs are shown in Fig. 1A to illustrate the morphological appearance of the human breast cell lines used , T47D or MDA-MB-468 cells .
+Semiquantitative RT-PCR analysis of mRNA expression in control samples for VIP yielded a product of the expected size in both cell lines .
+The expression of -actin mRNA was used as internal control .
+Quantitative real-time RT-PCR showed that mRNA levels for VIP in MDA-MB-468 cells were significantly lower than those in T47D cells .
+The evaluation of the cytosolic extracts for mRNA translation into the corresponding peptide by means of EIA revealed similar levels of immunoreactive VIP in the two cell lines studied .
+Full-size image ( 31K )
+Fig. 1. A ) Morphological images of oestrogen-dependent ( T47D ) or oestrogen-independent ( MDA-MB-468 ) breast cancer cells .
+B ) Left : expression of VIP mRNA in T47D ( lane 1 ) and MDA-MB-468 ( lane 2 ) cells as studied by semiquantitative RT-PCR .
+All preparations were normalized according to the expression of mRNA for -actin .
+PCRs yielded products of the expected size of 101 bp for VIP and -actin .
+Lane M , 100 bp molecular DNA marker .
+Lane N , negative control .
+Right : real-time RT-PCR quantification of VIP mRNA .
+C ) Expression of VIP at the peptide level .
+Quantification of VIP was performed by EIA .
+Data in each bar are the mean S.E.M .
+Student 's t test , P 0.05 ( n = 3 ) .
+View Within Article .
+3.2. Expression of VIP receptors .
+Semiquantitative RT-PCR analysis demonstrated that both T47D and MDA-MB-468 breast cancer cells expressed VPAC1-receptor mRNA but not VPAC2-receptor mRNA .
+The LNCaP human prostate cancer cell line was used as a positive control since it has been shown to express mainly VPAC1 but also VPAC2 receptors  .
+The expression of -actin mRNA was used as internal control .
+In order to measure VPAC1-receptor mRNA levels , quantitative real-time RT-PCR was also performed .
+They were significantly higher in oestrogen-independent MDA-MB-468 cells as compared to T47D cells .
+Full-size image ( 16K )
+Fig. 2. A ) Semiquantitative RT-PCR study of the expression of mRNA for VPAC1 and VPAC2 receptors in T47D ( lane 1 ) and MDA-MB-468 ( lane 2 ) human breast cancer cells .
+Lane 3 , positive control for both receptors ( human prostatic LNCaP cancer cells ) .
+All preparations were normalized according to the expression of mRNA for -actin .
+PCRs yielded products of the expected size of 324 , 519 , and 101 bp for VPAC1 and VPAC2 receptors , and -actin , respectively .
+Lane M , 100 bp molecular DNA marker .
+Lane N , negative control .
+B ) Real-time RT-PCR quantification of VPAC1-receptor mRNA .
+Data in each bar are the mean S.E.M .
+Student 's t test , P 0.01 ( n = 3 ) .
+View Within Article .
+3.3. Coupling of VIP receptors to the cAMP system .
+The functionality of VIP receptors in breast cancer cells was assessed by the ability of VIP in the stimulation of cAMP production .
+The response was dose-dependent and qualitatively similar in both cell lines .
+However , VIP treatment resulted in maximal cAMP levels in T47D cells that were about 8 times higher than those in MDA-MB-468 cells .
+Forskolin , a diterpene that interacts with adenylate cyclase in a direct manner , also increased cAMP levels by a dose-dependent mechanism .
+In this case , both cell lines exhibited similar patterns of adenylate cyclase stimulation .
+Full-size image ( 33K )
+Fig. 3. Adenylate cyclase stimulation in T47D and MDA-MB-468 breast cancer cells .
+Dose-dependent effects of VIP ( A ) and forskolin ( B ) .
+Data are the mean S.E.M .
+ANOVA / Bonferroni 's test , P 0.01 , P 0.001 , #P 0.05 , ##P 0.01 , ###P 0.001 vs. the corresponding control ( n = 6 ) .
+View Within Article .
+3.4. Effects of VIP on VEGF mRNA and protein levels .
+T47D and MDA-MB-468 cells were stimulated with 0.1 M VIP for 15 - 120 min and 4 - 24 h , respectively .
+VEGF mRNA expression was investigated with specific primers on total RNA extracted from cells by means of RT-PCR .
+The -actin transcript was also analyzed as a control .
+Amplification of the RT reaction of RNA from non-stimulated cells gave three products of 391 , 365 and 231 bp that were sequenced and shown to correspond to VEGF189 , VEGF165 and VEGF121 , respectively .
+RT-PCR analysis revealed the increased expression of VEGF mRNA in response to 0.1 M VIP in a time-dependent manner .
+VIP effect on VEGF165 mRNA expression was further assessed by real-time quantitative RT-PCR .
+Both control and VIP-stimulated cells were studied at increasing time periods up to 2 h and 24 h in T47D and MDA-MB-468 cells , respectively. Fig. 4B shows that VEGF165 mRNA expression reached maximal ( and similar ) levels after 45 min and 16 h of 0.1 M VIP stimulation in T47D and MDA-MB-468 cells , respectively .
+Full-size image ( 35K )
+Fig. 4. Time-dependent effect of 0.1 M VIP on the expression of VEGF mRNAs in T47D oestrogen-dependent or MDA-MB-468 oestrogen-independent breast cancer cells .
+A ) Semiquantitative RT-PCR products of the VEGF mRNA isoforms and -actin mRNA .
+M ( 100 bp marker ) , C ( control ) , N ( no template ) .
+The sizes of the products were as expected and corresponded to VEGF189 , VEGF165 and VEGF121 .
+B ) Real-time RT-PCR quantification of VEGF165 mRNA .
+Data in each bar are the mean S.E.M .
+ANOVA / Bonferroni 's test , P 0.001 vs. control group ( n = 3 ) .
+View Within Article .
+In order to investigate whether the VIP-increased expression of VEGF165 mRNA was accompanied by an enhancement in VEGF165 protein production , an ELISA was performed in T47D and MDA-MB-468 cells .
+VEGF165 levels were measured in the medium of T47D and MDA-MB-468 cells treated with 0.1 M VIP for 4 - 24 and 4 - 72 h , respectively .
+Results indicated that VEGF levels were maximal at 8 h and 24 h for oestrogen-dependent and oestrogen-independent cells , respectively .
+Full-size image ( 19K )
+Fig. 5. Time-dependent effect of VIP on extracellular VEGF levels for T47D and MDA-MB-468 cells .
+The incubation of cells was performed in the absence ( ) or presence ( ) of 0.1 M VIP .
+At the indicated times , culture media were taken for measurement of VEGF165 levels by ELISA .
+Data are the mean S.E.M .
+Student 's t test , ###P 0.001 vs. control group ( n = 4 ) .
+View Within Article .
+3.5. Involvement of phosphoinositide 3 kinase ( PI3K ) and PKA pathways in VIP effect on VEGF165 production .
+The protein kinase inhibitors wortmannin ( PI3K ) and H89 ( PKA ) were used in order to determine whether PI3K and / or PKA signalling pathways mediate the stimulatory effect of VIP on VEGF165 synthesis in T47D and MDA-MB-468 breast cancer cells .
+Both inhibitors were able to decrease VIP effect on VEGF165 levels .
+The involvement of the cAMP / PKA pathway was further confirmed by the observation of the stimulatory effect of forskolin upon VEGF165 secretion in both cell lines .
+Full-size image ( 38K )
+Fig. 6. Involvement of PI3K and PKA pathways in VIP effect on VEGF165 production by both T47D and MDA-MB-468 cells .
+Cells were cultured with VIP in the absence or the presence of PKA ( H89 ) and PI3-K ( wortmannin ) inhibitors .
+Culture media were taken at 8 and 24 h , respectively , and VEGF165 levels were measured by ELISA .
+The effect of forskolin was also evaluated .
+Data are the mean S.E.M .
+ANOVA / Bonferroni 's test , #P 0.05 , ##P 0.01 and ###P 0.001 vs. control ; P 0.05 , P 0.01 and P 0.001 vs. VIP ( n = 3 ) .
+View Within Article .
+4. Discussion .
+The present study reveals that VIP induces VEGF expression at both mRNA and protein levels in human breast oestrogen-dependent ( T47D ) and -independent ( MDA-MB-468 ) cancer cell lines .
+These proangiogenic VIP actions are initiated by peptide interaction with VPAC1 receptors leading to the activation of both classical PKA and PI3K signalling pathways .
+Tumour growth and dissemination are dependent on angiogenesis , a process that broadly refers to the formation of new capillary blood vessels from preexisting vessels  .
+Studies of the molecular mechanisms of angiogenesis have shown that it depends on the dynamic balance between various regulatory proangiogenic and antiangiogenic factors .
+Among them , VEGF is the main positive regulator of angiogenesis as shown in many tumours  including breast cancer  .
+VEGF expression can serve as a prognostic criterion in breast cancer  and recent data indicate that various direct and indirect antiangiogenic methods can be used for the therapy of patients with breast cancer as complementary to standard therapy  .
+Interestingly , VEGF acts in patients with breast cancer not only by the stimulation of angiogenesis but also as an autocrine / paracrine stimulator of cell proliferation as well as an antiapoptotic factor in tumour cells via the induction of Bcl-2 expression  .
+VEGF is overexpressed at both mRNA and protein levels in many human tumours as well as in immortalized and transformed cell lines .
+VEGF expression is regulated by several factors including hypoxia , cytokines , hormones , and modulators of PKC acting via intracellular signalling pathways  .
+However , hormonal regulation of VEGF synthesis in breast cancer cells by sex steroids ( particularly by oestrogens ) is still a controversial subject  .
+Although oestrogens induce VEGF-mediated angiogenesis in the endometrium  , there is no evidence for the existence of this mechanism in breast cancer .
+Our data allows the inclusion of VIP among that complex array of factors that exhibit proangiogenic activity resulting from the stimulation of VEGF expression .
+First of all , we demonstrated the expression of VIP at both mRNA and peptide levels in breast cancer cells .
+Whereas VIP mRNA levels were higher in oestrogen-responsive ( T47D ) than in oestrogen-independent ( MDA-MB-468 ) cells , the corresponding peptide levels were similar in the two cell lines .
+This apparent discrepancy may be explained in terms of some degree of VIP mRNA instability in oestrogen-responsive cells  .
+Present data on VIP significance in breast cancer cells extend previous observations on VIP presence in the human normal mammary gland where it appears to have a role in regulating milk secretion  .
+VIP may act in the breast cancer cells studied by autocrine / paracrine mechanisms since they express VPAC1 receptors as shown at the mRNA level .
+The lower values observed in oestrogen-responsive cells could be related to the previous observation of oestrogen downregulation of VPAC1-receptor expression in breast cancer cell lines  .
+The overexpression of VPAC1 receptors in breast cancer tissue  and cell lines  has been well established .
+The lack of detection of VPAC2-receptor mRNA expression in the two cell lines studied agrees with the poor or null expression of this VIP-receptor subclass in the great majority of frequently occurring carcinomas  .
+The detected VPAC1 receptors were functional as shown by their ability to stimulate cAMP production conceivably through activation of Gs-coupled adenylate cyclase , i.e. the most frequent signalling pathway for VIP  .
+The efficiency of coupling of VPAC1 receptors to the signal transduction machinery must be better in oestrogen-dependent T47D cells since they were highly responsive to VIP for cAMP production .
+Semiquantitative RT-PCR analysis of T47D and MDA-MB-468 breast cancer cells served to identify three products of 391 , 365 and 231 bp that were sequenced and shown to correspond to the VEGF isoforms of 189 , 165 and 121 amino acids , in agreement with previous observations in lung  and prostate  cancer cells .
+The addition of 0.1 M VIP led to time-dependent increase of the expression of VEGF mRNAS .
+Quantitative real-time RT-PCR analysis gave maximal VEGF165 mRNA levels after 45 min of VIP addition in oestrogen-dependent cells whereas 16 h was necessary in oestrogen-independent cells to obtain a similar response .
+A previous study in androgen-dependent prostate cancer LNCaP cells  showed a time-dependent VIP effect on VEGF mRNA expression that was compatible with present results in oestrogen-dependent breast cancer T47D cells by using similar experimental conditions .
+The differential time-dependent responses in breast cancer progression could be related to the observed differences in VIP-induced cAMP production in the two cell lines studied .
+This is applicable not only to VEGF expression at mRNA level but also at protein levels since VIP increased in a time-dependent manner the levels of extracellular VEGF165 secreted from T47D and MDA-MB-468 cells with maximal responses at 8 and 24 h , respectively .
+Thus , these data indicate that the stimulatory effect of VIP on VEGF165 protein production results from increased VEGF gene transcription possibly as a consequence of direct actions on the promoter region of VEGF gene that exhibits several potential transcription factor binding sites  .
+Multiple regulatory pathways of VEGF expression have been reported in different tumours  including breast cancer  .
+The observed VIP-induced upregulation of VEGF expression in breast cancer cells appears to be initiated at the VPAC1 receptor which results in adenylate cyclase stimulation and PKA activation .
+It is supported by observations that other cAMP stimulus such as the diterpene forskolin also increased VEGF expression whereas the PKA inhibitor H89 completely blocked that VIP effect .
+PI3K signalling may be also involved since the corresponding kinase inhibitor wortmannin behaved as a potent blocking agent upon VIP activity .
+Previous results showed that VIP upregulated VEGF expression in a PKA-dependent manner in lung  and prostate  cancer cells .
+In addition , the involvement of the PI3K and the mitogen-activated protein kinase MEK1 / 2 systems has been observed in prostate cancer cells  .
+In this context , it is interesting to note the proposed relevance of the PI3K signalling pathway not only in the regulation of VEGF expression in breast cancer cells  but also in the development of this breast disease  .
+In this study , we have found that VIP stimulates VEGF expression in breast cancer cells acting through VPAC1 receptors and involving at least cAMP / PKA and PI3K signalling pathways .
+The two cell lines chosen represent two different stages of the disease since breast cells loose the ability to respond to oestrogens during cancer development and progression  .
+T47D cells , which are oestrogen-dependent , represent an early stage of breast cancer whereas MDA-MB-468 cells , which are oestrogen-independent , reflect an advanced stage of the disease .
+Present data on the potential proangiogenic role of VIP at this level should be continued by additional studies on the ability of VIP to induce angiogenesis in breast tumours as well as on the antiangiogenic activity of available VIP-receptor antagonists and VIP chemotherapeutic conjugates  .
+It could contribute to a better knowledge of breast cancer progression as well as to the developing of more effective therapeutic approaches to this extremely important disease .
+Acknowledgements .
+This study was supported by a grant from the Ministerio de Educacin y Ciencia ( SAF2004-4933 ) .
+A.V. is a fellow from the Universidad de Alcal .

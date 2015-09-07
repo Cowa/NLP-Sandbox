@@ -1,0 +1,173 @@
+Neoadjuvant chemotherapy ( NAC ) is the current standard form of treatment for the management of locally advanced breast cancer .
+NAC has led to increases in the rate of breast-conserving surgery ( BCT ) among patients with breast cancer.  However , several groups have reported unacceptably high recurrence rates in patients treated with BCT after NAC.  Preoperative planning , such as determination of the incision line , is often more difficult after tumour down-staging by NAC .
+The position of the lesion on images obtained by prone MRI differs from that in the operative position due to mammary deformation under the effect of gravity , and it is difficult to confirm the tumour spread precisely in the operative position.  We acquired MR images in the operative position for tumours that responded well to NAC and devised a procedure designated the naked image projection and reproduction method ( NIPR ) to project the initial tumour image onto the skin of the breast during the operation .
+Patients and methods Patients .
+Between January 2005 and March 2007 , 35 breast cancer patients underwent supine oblique MRI of the operative position for BCS at Chiba Foundation for Health Promotion .
+Twenty of these patients had ductal carcinoma in situ ( DCIS ) , while the remaining 15 had invasive ductal carcinoma .
+In the same period , 20 patients underwent conventional BCS after NAC .
+Twenty DCIS patients were diagnosed by vacuum-assisted core needle biopsy ( VACNB ) , and metallic markers were put in place as landmarks before supine MRI and subsequent BCS .
+In all cases , disease was staged according to the 2003 American Joint Committee on Cancer clinical staging guidelines , and the National Comprehensive Cancer Network ( NCCN ) tumour/node / metastasis ( TNM ) classification was used .
+Here , we report initial tumour size in cm as determined by X-ray mammography ( MMG ) , ultrasound ( US ) , and computed tomography ( CT ) as initial T-stage .
+In cases in which regional lymph nodes were swollen , nodal involvement was assessed by US-guided fine-needle aspiration biopsy .
+Patients with metastases and inflammatory tumours were excluded from the study .
+Core biopsy of the tumour was performed prior to NAC to obtain adequate tumour tissue for histological diagnosis and determination of histological grade , hormone receptor status , and overexpression of human epidermal growth factor receptor type-2 .
+The intended treatment for patients with invasive ductal carcinoma was four cycles of a combination of doxorubicin and cyclophosphamide every 3 weeks , followed by weekly paclitaxel 12 times at a dose of .
+The tumour responses to NAC were assessed , according to the guidelines of the Response Evaluation Criteria in Solid Tumours ( RECIST ) group.9 The response to therapy was measured and classified as follows : complete reduction of the enhanced lesion within the breast was termed a complete response ( CR ) ; a partial response ( PR ) was deemed to have occurred if the tumour was reduced in size by at least 30% ; progressive disease ( PD ) was defined as an increase in tumour size of at least 20% .
+In all cases , surgery was performed within 21 - 28 days after the last cycle of chemotherapy .
+Guidelines for BCT remained uniform during the study period : lack of extensive microcalcifications and an initial tumour size larger than one quadrant , and absence of collagen vascular disease or other contraindications for radiation therapy .
+Fifteen patients underwent BCS by NIPR after treatment with NAC .
+Conventional BCS was performed by US-guided dye application for the same protocol of NAC .
+Informed consent was obtained from all patients prior to participation in the study .
+Oblique supine MRI in the NIPR procedure .
+In our procedure , the patient lies on a ramp at an incline of 10 ( equivalent position ) .
+The patient raises the arm on the surgical side to adopt the same posture as that during the operation , and we record the site to which the nipple moves as a result of raising the arm .
+To create a coordinate axis on the MRI images centred on the nipple , we fix oral medicine capsules by a tape at the nipple and at four sites 5 cm from the nipple in vertical and horizontal directions on the skin surface .
+In the NIPR procedure , all MR examinations are performed using 1.5-T MR units ( NT Intera ; Philips Medical Systems , Best , The Netherlands ) with a flex-M coil .
+MRI was performed three different times : before induction of chemotherapy , after treatment with the anthracycline-containing regimen , and just before the operation .
+In all sequences , SENSE ( sensitivity encoding ) technology was used with a SENSE factor of 2. T1-weighted images ( 205 / 4.2 [ repetition time ( ms ) /echo time ( ms ) ] ) of the transverse plane , diffusion-weighted images ( b factors of 0 and of the transverse plane , and fat suppression ( selective partial inversion recovery , SPIR ) T2-weighted TSE ( turbo spin echo ) images ( 3887 / 100 ) of the same transverse plane were obtained at a section thickness of 5 mm , intersection gap of 1 mm , acquisition matrix of 256256 , and field of view ( FOV ) of 220 mm .
+Dynamic contrast-enhanced MR images were obtained by three-dimensional fat suppression ( selective partial inversion recovery , SPIR ) T1WI ( 9.1 / 4.9 [ repetition time ( ms ) /echo time ( ms ) ] ) .
+Contrast material injection was started immediately after the first set was obtained .
+Meglumine gadopentetate ( Magnevist ; Nihon Schering , Osaka , Japan ) was administered ( 0.2 ml / kg body weight ) at a rate of 3.0 ml / s followed by a 20 ml saline flush into the antecubital vein .
+Two sets of dynamic contrast-enhanced images were obtained serially at 30 and 90 s .
+Mnemonic system for MRI mnemonic images and projection method .
+The maximal intensity procedure ( MIP ) images of the MR images of the five oral capsules ( markers ) and initial tumour spread ( or metallic clips ) were generated at 60% of full-size on a transparent sheet , on which a radial coordinate axis centred on the nipple was drawn to match the markers .
+The initial tumour spread images before NAC are shown in Fig. 1. The metallic clip after VACNB presents no signal on the MR images .
+On the day of surgery , the patient reproduces the same posture as that adopted during the MR scans in the treatment planning room .
+The mnemonic images are projected on the skin of the breast by backlighting the transparent sheet .
+At this time , the projection table is positioned at a location where the mnemonic images are displayed at actual size .
+Full-size image ( 55K )
+Fig. 1. Maximum intensity images of the initial tumour lesion scaled to 60% of full size on a transparent sheet .
+View Within Article .
+Full-size image ( 26K )
+Fig. 2. Oblique supine position reproducing the same posture as that adopted during MRI scan and surgery in the treatment planning room .
+View Within Article .
+Full-size image ( 19K )
+Fig. 3. Mnemonic initial tumour images projected at full size on the skin of the breast .
+View Within Article .
+Verification of the reproducibility of MRI scan positions .
+First , we performed NIPR in DCIS with microscopically localized calcification and evaluated the reproducibility of MR imaging position and operative position .
+A metallic clip was inserted as a landmark for later BCS in 20 DCIS patients .
+The metallic clip was visualized using the NIPR technique and reproduced by projection on the skin of the patient 's breast .
+The signal site was marked on the skin of the breast , and a metallic mapping button was placed on the projection site .
+Subsequently , X-ray of the operative position was obtained to confirm deployment of the metallic clip and mapping button .
+Discrepancies in the positions of the metallic button and metallic clip placed on the reproduced site were measured on X-ray scans .
+The linear distance was measured to calculate the projection discrepancy of the metallic clip .
+Full-size image ( 40K )
+Fig. 4. ( a ) X-ray image of the metallic clip and mapping button used for verification of the reproducibility of the MRI scan position and operative position. ( b ) An enlarged X-ray image showing metallic clip and mapping button .
+View Within Article .
+Verification of the utility of NIPR .
+The surgical resection line was established according to the contours of the initial tumour , which were projected and reproduced in the NIPR technique .
+In the conventional method ( CM ) , the initial tumour lesion is estimated from the residual tumour detected by US , and the surgical resection line is determined with reference to US-guided dye application , and prone MRI and CT images .
+Specimens extracted during surgery were subjected to X-ray scans or US .
+The radiologist or breast surgeon checked the resected specimens with US in the operating room , and additional excisions were performed during the operation in cases in which a calcified lesion or tumour was observed within 1 cm of the excision margin or rapid cytological examination of the cut-end of the mammary gland was positive for cancer cells .
+The specimens were photographed and digitized , and the area of the resected specimen was calculated using NIH image .
+The excision specimen area and additional excision rate were analysed .
+The initial and any additional specimens were subjected to pathological examination .
+Additional excision was defined as over-treatment if the additional specimen obtained during the operation was found to be composed of healthy breast tissue .
+Following definitive surgeries , the excised specimens were fixed in 10% formalin , cut into multiple serial sections approximately 5 mm in thickness , embedded in paraffin as tissue blocks , and stained with hematoxylin and eosin , and were then evaluated by our pathologist .
+Positive margin was defined as the presence of an invasive or intraductal carcinoma within 1 mm of the excision margin .
+No additional excision was considered under-treatment if the pathological margin status was positive in the initial specimen .
+The excision specimen area and additional excision rate in patients undergoing NIPR were compared with the results in patients undergoing CM .
+When final pathological examination indicated positive margins , patients routinely underwent re-excision in an attempt to obtain negative margins .
+Statistical comparisons between groups were performed using Welch 's t-test or the Mann - Whitney U-test .
+All comparisons were two-tailed , and P0.05 was considered statistically significant .
+Results .
+All metallic clips of VACNB were detected as no-signals on MIP images of supine MRI and were detected by X-ray .
+In all cases , it was possible to measure the distance between the mapping button and the metallic clip on X-rays .
+As shown in Table 1 , the median distance between the VACNB metallic clip and the mapping buttons for the 20 DCIS patients was 2.6 mm .
+According to location , the median distances were as follows : upper inner quadrant , 2.9 mm , lower inner quadrant , 1.0 mm , upper outer quadrant , 3.2 mm , lower outer quadrant , 2.5 mm , and the central position , 0 mm ( n=1 ) .
+NIPR demonstrated the location of metallic clips within less than 5 mm in 18 of the 20 cases ( 90% ) .
+Our observations confirmed that there is a high degree of reproducibility of the MRI scan positions and position during the operation .
+Table 1. .
+Difference between mammotome metallic markers and mapping buttons .
+LocatedNo.Xp difference ( mm ) Z ( direct ) XY Mean ( Range ) Mean ( Range ) Mean ( Range ) UIQ42.9 ( 1 - 4.2 ) 1.5 ( 1 - 3 ) 2.3 ( 0 - 3 ) LIQ31 ( 0 - 2 ) 1 ( 0 - 2 ) 1 ( 0 - 2 ) UOQ93.2 ( 0 - 7.2 ) 2.2 ( 0 - 6 ) 1.9 ( 0 - 5 ) LOQ32.5 ( 0 - 4 ) 2 ( 0 - 4 ) 1 ( 0 - 3 ) CP1000000 .
+Total202.6 ( 0 - 7.2 ) 1.7 ( 0 - 5 ) 1.5 ( 0 - 5 )
+Full-size table .
+The transparent sheet that the coordinate axis was described is centred on nipple .
+Therefore , the image projection of a lesion near the nipple ( central position ) has few errors .
+DCIS , ductal carcinoma in situ ; LIQ , lower inner quadrant , LOQ , lower outer quadrant , UIQ , upper inner quadrant , UOQ , upper outer quadrant , CP , central position .
+View Within Article .
+Table 2 lists the clinical characteristics of the patients receiving NAC in both NIPR and CM groups .
+The NIPR group included four cases of T3 - 4 disease , while there were no T3 or 4 cases in the CM group .
+After NAC , clinical CR and PR were observed in 8 and 7 patients , respectively , in the NIPR group and in 8 and 12 patients , respectively , in the CM group .
+The median follow-up period for NIPR vs. CM was 18 vs. 33 months ( range : 13 - 24 months vs. range : 24 - 46 months ) .
+There were no cases of local relapse or distant metastasis in either group .
+Table 2. .
+Pretreatment clinical characteristics and response to neoadjuvant chemotherapy .
+CharacteristicsNIPRCM N1520 Age mean ( yr ) 4454 Range ( yr ) 29 - 5536 - 71 Follow up ( mo ) 13 - 2424 - 46 Median ( mo ) 1833 .
+Tumour category T135 T2815 T3 / 440 .
+Clinical response SD00 PR712 CR88 .
+Full-size table .
+SD , stable disease ; PR , partial response ; CR , complete response .
+View Within Article .
+The average areas of the excised specimens in T1 and T2 cases were ( range : 14.43 - and ( range : 17.89 - , respectively , in the NIPR group , while these values were ( range : 27.22 - and ( range : 22.12 - , respectively , in the CM group ( Welch 's t-test : p0.05 ) .
+Full-size image ( 20K )
+Fig. 5. Average areas of the excised specimen in the naked image projection and reproduction method ( NIPR ) and conventional method ( CM ) .
+View Within Article .
+The re-excision rates were 6.7% and 5.0% in the NIPR and CM groups , respectively , and each specimen was shown to have residual DCIS .
+None of the 15 cases in the NIPR group required additional excision based on US , X-ray , and scrape cytology during the initial operation , while additional excision was required in 6 of 20 cases in the CM group ( the Mann - Whitney U-test : P=0.011 ) .
+Of the 6 cases with additional excision in the CM group , 5 ( 83.3% ) had negative margins on the initial specimen on permanent sectioning , and there was no residual tumour in the additional specimens .
+The pathological margin status was positive in 1 of the 15 cases ( 6.7% ) in the NIPR group , and 1 of the 20 cases ( 5.0% ) in the CM group ; the difference between groups was not significant ( the Mann-Whitney U-test : P=0.8358 ) .
+Table 3. .
+Comparison of additional intraoperative excision between CM and NIPR .
+NoYesTotal CM14620 NIPR15015 .
+Full-size table .
+. .
+Sequential additional excision was performed in cases where a tumour or calcified lesion was detected within 10 mm of the cut-end .
+CM , conventional method ; NIPR , naked initial image projection and reproduction method .
+View Within Article .
+Table 4. .
+Comparison of pathological margin status between CM and NIPR .
+Negative ( % ) Positive ( % ) Total CM19 ( 95.0 ) 1 ( 5.0 ) 20 NIPR14 ( 93.3 ) 1 ( 6.7 ) 15 .
+Full-size table .
+. .
+Positive margin was defined as the presence of an invasive or intraductal carcinoma within 1 mm of the surgical margin .
+CM , conventional method ; NIPR , naked initial image projection and reproduction method .
+View Within Article .
+Discussion .
+Due to the simultaneous use of NAC , BCS has been widely performed in patients with breast cancer .
+However , increases in the rates of positive margins and re-excision due to focus on minimizing residual cancer have been reported in BCS after NAC , especially in cases in which the tumour responded well to NAC.10 Tumour shrinkage is uneven and viable tumour foci may remain some distance from the central residual tumour site.11 Preoperative planning , such as determination of the optimal incision line is more difficult after down-staging of the tumour by NAC .
+To overcome the difficulty in localization of the tumour site in patients who responded well to NAC resulting in a non-palpable tumour , it is necessary for the surgeon to accurately recognize both the residual tumour and the initial tumour site .
+Breast MRI has been reported to have higher sensitivity rates in identification of residual tumour tissue , particularly compared to other imaging techniques , such as US , CT , and MMG , in patients studied preoperatively after NAC.  Enhanced MRI often uses contrast media and the rate of uptake of contrast enables suspicious areas in the breast to be further distinguished .
+Synchronous tumours show hypervascular uptake of contrast material , and breast MRI may improve preoperative evaluation of the extent of disease in such cases.  Accurate preoperative measurement of tumour size using MRI can limit the rate of positive margins and the re-excision procedures .
+However , one problem associated with the use of MR images of the breast for planning of BCS is the deformation of the breast caused by placing the patient in the prone position .
+Tozaki et al. suggested that the supine oblique position MRI is more useful for surgical planning than the prone position.20 Kaufmann et al. emphasized that a schematic drawing and photography of the mass localization at the beginning of NAC would be very helpful for localization of the initial tumour site.21 Other methods have been reported such as the placement of a metallic marker or platinum embolization coils or tattooing the position and size of the tumour on the skin of the breast , and preparing a transparent grid on the breast and tumour location. 
+We feel that it is necessary to excise the initial tumour lesion prior to NAC to avoid the risk of residual tumour cells .
+We have developed a new BCS procedure called the NIPR in which MRI scans are performed prior to NAC with the patient in the same position as adopted during surgery .
+In this procedure , the initial images are projected and reproduced on the skin of the breast just before the operation , and the projected images are then used to set the surgical excision line .
+When the BCS is performed , the cylindrical mammary resection vertical to the mammary surface about the lesion is usually performed because the three-dimensional reconstruction of the lesion during the operation is often difficult .
+Therefore , an image of a tumour is projected on breast in two dimensions by our methods .
+Success of this procedure depends on reproducibility of posture between the MRI position and intra-operative position .
+NIPR showed reproducibility of posture between the MRI position and intra-operative position .
+NIPR was useful in 20 patients with DCIS because it facilitated detection of the metallic clip for surgical treatment .
+All the cases were also confirmed by MMG and US , which was concordant with NIPR .
+Discrepancies in the relative positions of the mapping button and the metallic clip placed on the reproduced site were measured on X-ray scansthe median discrepancy ( linear distance ) between the mapping button and metallic clip was 2.6 mm .
+Sibylle et al. reported a re-excision rate of 21.1% after BCS in patients treated with NAC.25 This higher rate of re-excision compared to that in the present study of 7% using NIPR may be explained to the differences in preoperative planning ; Sibylle et al. performed resection of tumours down-staged by NAC , while we treated the initial tumour site before NAC .
+The selection criteria remain controversial , and at present there are no standardized protocols for the type and extension of BCS after NAC .
+In cases of clinical CR and negative imaging of the residual tumour by MMG or US , the placement of a metallic marker at the primary tumour site facilitates localization at surgery .
+The metallic clip indicates the location of the tumour but does not reveal the initial tumour extent , and it is therefore difficult to determine the extent of the excision accurately .
+In addition , the metallic clip was detected at a rate of only 50% on US and was separated and removed during NAC.  .
+Several authors  have reported that US is a very useful tool in the operative setting , not only for non-palpable but also for poorly palpable breast tumours .
+However , US may not be able to clearly distinguish chemotherapy-induced fibrosis from residual tumour.30 .
+The CM involves excision of an unnecessarily large volume of breast tissue .
+In our study of CM , we found five cases of over-treatment among six additional excision specimens .
+In addition , there was no additional excision with NIPR .
+The NIPR procedure enables precise excision of an adequate amount of breast tissue compared to CM .
+This success depends on identification of the initial tumour location and the reproducibility of the patient 's posture during surgery .
+NIPR significantly reduced the excision specimen area as compared with CM , facilitated resection of an adequate amount of tissue with preoperative planning , and has superior cosmetic outcome .
+This is considered to be a factor in both reducing the resection area and in improving cosmetic results as resected tissue volume and cosmetic outcome are inversely related.31 Moreover , our procedure may enable the operation faithful to an MRI image .
+Therefore , if MR imaging improves , a residual tumour detected by MR imaging after chemotherapy may be resected and NIPR procedure may decrease the mammary resection area .
+The aim of our MRI studies is to project the extent of the initial tumour as compared to the size of the post NAC tumour onto the breast in the operative position at the time of surgery .
+For the aim of the estimation of NIPR , the surgical excision line was assessed only with supine MRI .
+The combination of NIPR and other modalities such as , US , MMG would be useful in determining surgical resection line in the near future .
+Unfortunately , our analysis was focused on the practical procedure of surgery after NAC , and data regarding local failure and disease-free survival were not discussed because of the short period of the study .
+The procedure reported here does not involve the use of a dedicated breast coil .
+In our study , there was only one case of under-estimation , in which the initial tumour had spread before NAC and was not detected on supine MRI , US , CT , or MMG .
+Prone MRI with a breast coil may have detected this disease .
+For use of supine MRI , direct comparison of the diagnosis of spread between oblique supine and prone MRI scans with a breast coil in the same patient is required .
+NIPR with supine MRI is a safe and simple technique that is useful in the localization of tumour spread prior to BCS as well as initial non-palpable lesions .
+Furthermore , this procedure may relieve stress from a surgeon performing an operation of the breast cancer patients after NAC .
+However , due to the small number of cases included in the present study it is not possible to come to any definitive conclusions regarding the management of BCS after NAC .
+Further prospective studies in larger numbers of patients are required to clarify the results in greater detail .
+Conflict of interest statement .
+None declared .

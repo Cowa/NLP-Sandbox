@@ -1,0 +1,208 @@
+Depuis la fin des années 1960 , le traitement conservateur radiochirurgical est devenu le traitement standard de première intention des adénocarcinomes du sein unifocaux de diamètre inférieur à 3 cm [ 50 , 51 , 52 and 53 ] .
+Différentes études rétrospectives et randomisées ont montré des courbes de survie comparables à celles obtenues avec les traitements radicaux , avec un taux de rechute locale plus élevé , de l' ordre de 10 % à dix ans [ 8 , 10 , 18 , 23 , 27 , 43 , 48 , 49 and 55 ] .
+L' impact de la rechute locale après traitement radiochirurgical conservateur sur la survie globale reste controversé .
+Nous rapportons une étude rétrospective sur 57 patientes ayant souffert d' une rechute locale isolée après traitement conservateur radiochirurgical pour un adénocarcinome mammaire localisé de petit volume. L' objectif de cette étude était d' essayer d' isoler des facteurs pronostiques après le traitement de la rechute locale , afin_de dégager une stratégie thérapeutique adaptée après une rechute tumorale locale isolée .
+2. Patientes et méthodes
+De novembre 1986 à mai 2002 , 57 patientes ont eu une rechute tumorale locale isolée après un traitement conservateur radiochirurgical , pour un carcinome mammaire invasif non métastatique .
+Ces patientes ont été traitées au moment de leur rechute dans le service d' oncologie radiothérapie de l' hôpital Tenon et / ou de chirurgie gynécologique de l' hôpital de la Pitié-Salpêtrière , à Paris .
+L' âge moyen lors du diagnostic de la tumeur primitive était de 47 ans [ extrêmes : 29 - 69 ans ] .
+La majorité des patientes étaient ménopausée : 67 % .
+Les tumeurs étaient histologiquement de petite taille ( moyenne : 15 1 mm , médiane : 15 mm [ extrêmes : 3 - 32 mm ] , classées T1 ( 74 % des cas ) et N0 ( 80 % des cas selon la classification TNM ( AJCC 2002 )  .
+Les tumeurs étaient des carcinomes canalaires infiltrants dans 79 % des cas , étaient associées dans 60 % des cas à du carcinome canalaire in_situ , dont 17,5 % correspondaient à un carcinome canalaire in_situ étendu .
+Les tumeurs étaient estrogénodépendantes chez 23 patientes ( 42 % ) .
+Le statut cerbB2 a été analysé rétrospectivement par immunohistochimie chez 40 patientes .
+Il était positif à trois croix pour huit patientes ( 14 % ) .
+Dans 54,4 % des cas , les berges de la pièce de tumorectomie étaient saines .
+Toutes les patientes ont eu une tumorectomie et 50 d' entre elles un curage ganglionnaire axillaire ramenant en moyenne dix ganglions .
+Vingt-six pour cent des patientes avaient entre un et trois ganglions envahis .
+Une patiente a eu une chimiothérapie première , 16 une chimiothérapie adjuvante et une chimiothérapie première et adjuvante .
+Parmi ces patientes , huit ont eu une chimiothérapie sans anthracycline .
+Les critères de choix pour une chimiothérapie étaient la jeunesse de la patiente et / ou un envahissement ganglionnaire axillaire .
+Huit patientes ont eu une manipulation hormonale adjuvante par tamoxifène ( n = 7 ) ou par ovariectomie ( n = 1 ) .
+Trois patientes ont reçu une chimiothérapie puis une hormonothérapie adjuvante par tamoxifène .
+Cinquante-cinq patientes ont eu une irradiation postopératoire selon une technique précédemment décrite [ 7 and 47 ] .
+L' irradiation mammaire externe a été réalisée par des rayons X d' un accélérateur linéaire de 6 MV ou par des rayons d' un appareil de télécobalthérapie .
+Une dose moyenne de 45,9 Gy a été délivrée en 20 fractions et 32 jours , suivie pour 52 patientes d' un complément dans le lit de tumorectomie de dose moyenne de 15,5 Gy , soit par curiethérapie interstitielle de bas débit de dose ( 0,5 à 0,60 Gy / heure sur l' isodose de référence ) par iridium 192 ( n = 49 ) , soit par électrons , dont l' énergie était adaptée à la profondeur ( n = 3 ) .
+Trente-neuf patientes ont eu une irradiation de la chaîne mammaire interne homolatérale ( dose médiane : 48,8 Gy en 20 fractions et 32 jours ) , 21 une irradiation sus-claviculaire homolatérale ( dose médiane : 46,4 Gy en 20 fractions et 32 jours ) et 39 une irradiation axillaire homolatérale de dose médiane de 48,8 Gy en 20 fractions et 32 jours , motivée par l' absence de curage ganglionnaire axillaire , un curage insuffisant ou un envahissement ganglionnaire axillaire .
+Au moment du diagnostic de la rechute locale , les patientes avaient un âge moyen de 54,7 ans [ extrêmes : 32 - 78 ans ] .
+La taille tumorale histologique moyenne de la rechute locale était de 19,3 1,6 mm ( médiane : 15 mm [ extrêmes : 2 - 80 mm ] ) et il s' agissait le_plus_souvent d' un carcinome canalaire infiltrant ( 89,5 % ) , associé dans 47 % des cas à du carcinome canalaire in_situ , étendu dans 16 % des cas .
+Globalement , la rechute était plus souvent moins différenciée que la tumeur primitive : 10,5 % des tumeurs primitives étaient classées SBRIII contre 20,6 % des rechutes locales ( p = 0,03 ) .
+Des emboles tumoraux intravasculaires ont été observés dans 16 % des cas .
+Les tumeurs étaient bi- ou plurifocales dans 21 % des cas .
+Les récepteurs aux estrogènes étaient présents chez 32 % des patientes .
+La rechute est survenue dans le lit de tumorectomie dans 26 cas .
+Le délai moyen de l' apparition de la rechute tumorale locale à partir du début de traitement de la tumeur primitive était de 897,2 mois [ médiane : 84 mois , extrêmes : 6,5 à 218 mois ] .
+Les caractéristiques tumorales ( Tableau 1 and Tableau 2 ) des rechutes dans le lit de tumorectomie étaient comparables à celles de la tumeur primitive en ce qui concerne le type histologique , le degré de différenciation , le statut cerbB2 et l' estrogénodépendance .
+Les rechutes en_dehors du lit de tumorectomie étaient plus souvent de grade SBR 3 ( tumeur initiale primitive contre rechute locale en_dehors du lit de tumorectomie : 10,5 contre 30 % , respectivement , p = 0,009 ) .
+Tableau 1. Caractéristiques anatomopathologiques des patientes lors du diagnostic de la tumeur primitive et de la rechute locale ( Clinical features at the of time of primary tumour and local failure )
+Full-size table (
+SBR : Scarf , Bloom et Richardson ; CCI : carcinome canalaire in situ
+View Within Article
+Tableau 2. Caractéristiques de la rechute locale en fonction de la topographie de la rechute ( characteristics of local failure according to site )
+Full-size table (
+SBR , Scarf , Bloom et Richardson ; CCI , carcinome canalaire in_situ ; RO , récepteur aux estrogènes
+View Within Article
+Vingt-deux rechutes locales ont été considérées comme de vraies rechutes locales ( apparaissant dans le lit de tumorectomie et ayant la même histologie que la tumeur primitive ) et les 35 restantes comme des nouvelles tumeurs .
+La présence d' un contigent de carcinome canalaire in_situ étendu ou d' emboles tumoraux intravasculaires n' a pas été influencée par le type de rechute locale .
+La proportion de cancer du sein controlatéral était également comparable : quatre carcinomes mammaires controlatéraux en cas de nouvelles tumeurs et un carcinome mammaire controlatéral en cas de rechute vraie ( p = 0,68 ) .
+Tableau 3. Comparaison des caractéristiques des rechutes locales vraies ( dans le lit de tumorectomie et de_même histologie que la tumeur primitive ) et des nouvelles tumeurs ( en_dehors du lit de tumorectomie et / ou d' histologie différente par_rapport_à la tumeur primitive ) ( comparison of characteristics of true local failures ( in tumorectomy bed and same histological type as primary tumour ) and new cancers ( outside of tumorectomy bed and / or other histological type )
+Full-size table ( 30K )
+CCI : carcinome canalaire in situ
+View Within Article
+Les délais moyens d' apparition de la rechute locale étaient de 84,2 mois pour les nouvelles tumeurs , et de 92,2 mois pour les vraies rechutes ( p = 0,6 ) .
+Aucune différence significative de survie globale , de survie sans rechute ni de survie sans métastase n' a été mise en évidence entre rechute vraie et nouvelle tumeur .
+Le traitement de la rechute tumorale a consisté en une mastectomie dans 50 cas , une pariétectomie dans trois et une tumorectomie dans quatre .
+Un curage ganglionnaire axillaire a été réalisé chez neuf patientes .
+L' examen anatomopathologique des pièces de curage axillaire n' a pas montré d' envahissement ganglionnaire .
+Pour une patiente , la tumorectomie a été suivie d' une curiethérapie interstitielle de bas débit de dose de 30 Gy .
+Une patiente a eu une irradiation adjuvante de la paroi et une autre une irradiation sus-claviculaire et de la chaîne mammaire interne .
+Une patiente n' a reçu qu' une chimiothérapie , 20 patientes ont reçu une chimiothérapie adjuvante et cinq patientes ont reçu une chimiothérapie néo-adjuvante et adjuvante .
+Les patientes qui ont reçu une chimiothérapie étaient plus jeunes ( 51 contre 57 ans , p = 0,035 ) , avaient des rechutes moins différenciées ( taux de tumeurs SBRIII : 11 contre 3 % , p = 0,007 ) .
+Les récepteurs à estrogène lors_de la rechute étaient plus souvent absents ( 7 contre 13 % , p = 0,02 ) .
+Trente-six patientes ont reçu une hormonothérapie adjuvante comprenant : tamoxifène seul ( n = 26 ) , tamoxifène suivi d' une anti-aromatase ( n = 1 ) ou associé à un analogue de la LH-RH ( n = 1 ) ou à une ovariectomie ( n = 1 ) , analogue de la LH-RH seul ( n = 1 ) ou anti-aromatase seul ( n = 4 ) .
+Dix-huit patientes ont reçu une hormonothérapie sans chimiothérapie et 18 patientes ont reçu une chimiothérapie et une hormonothérapie .
+3. Méthode statistique et recul
+Les distributions et les moyennes ont été comparées respectivement par le test du 2 et par le test t .
+Les taux de survie et de rechute locale ont été calculés à partir du début du traitement de la tumeur primitive et de la rechute locale selon la méthode de Kaplan et Meier  .
+Les résultats ont été donnés avec la déviation standard et le nombre de patientes à risque mis entre parenthèse .
+Le test du log rank  a été utilisé pour les comparaisons unifactorielles entre taux de survie .
+Les analyses de régressions multifactorielles des risques relatifs ont été conduites en utilisant le modèle de Cox  .
+Le recul moyen était de 151 7 mois ( médiane : 157 mois , extrêmes : 42 à 257 mois ) pour la tumeur primitive et de 626,6 mois ( médiane : 49 mois , extrêmes : 0,7 à 188 mois ) pour la rechute locale .
+4. Résultats4.1 .
+Survie après la rechute locale isolée
+Le taux de survie globale après la rechute locale isolée était de 87,5 % 5,4 ( 24 ) à cinq ans et de 82,5 7 % ( 11 ) à dix ans .
+Le taux de survie sans évènement après la rechute locale isolée était de 58,5 7,7 % ( 18 et 6 ) à cinq et à dix ans ( Fig. 1 ) .
+Full-size image ( 5K )
+Fig. 1. Courbes de survie globale et sans récidive après traitement de la rechute ( overall and N.E.D. survival after treatment of local failure )
+View Within Article
+4.2. Contrôle local après traitement de la rechute locale isolée
+Nous avons observé 15 nouvelles rechutes locales après le traitement de la rechute tumorale locale après un délai moyen de 367,4 mois .
+Les taux de contrôle tumoral local à cinq et à dix ans étaient , respectivement de 687,6 % ( n = 18 ) et 5510,2 % ( n = 7 ) .
+Après analyse unifactorielle , aucune des caractéristiques de la tumeur primitive n' était significativement associée au contrôle local de la rechute .
+Seuls l' histologie de la rechute locale isolée et le type de traitement chirurgical de rattrapage ont significativement influencé le taux de contrôle local à cinq ans après le traitement de la rechute locale isolée .
+Le taux de contrôle local à cinq ans était de 100 % en cas de carcinome lobulaire infiltrant , de 69 % en cas de carcinome canalaire infiltrant et de 22 % pour les autres types histologiques ( p = 0,01 ) .
+Cependant , les effectifs étant faibles , il est difficile d' évaluer de façon formelle le rôle de l' histologie dans le risque de 2e rechute locale .
+Tableau 4. Taux de contrôle local cinq ans après le traitement de la rechute tumorale locale , en fonction des caractéristiques de la rechute locale .
+Étude unifactorielle ( 5-year local control after after treatment of local failure according to characteristics of local failure : univariate analysis )
+Full-size table ( 7K )
+SBR , Scarf , Bloom et Richardson ; CCI , carcinome canalaire in_situ ; RE , récepteurs aux estrogènes ; RP , récepteurs à la progestérone
+View Within Article
+Après traitement chirurgical conservateur de la rechute locale isolée , le taux de contrôle local à cinq ans était de 29 contre 70 % en cas de mastectomie ou pariétectomie de rattrapage ( p = 0,04 ) .
+Après analyse multifactorielle , seul le type de traitement chirurgical de rattrapage avait une influence statistiquement significative sur le taux de contrôle local ( mastectomie ou pariétectomie de rattrapage contre traitement conservateur : p = 0,04 , RR = 2,79 , IC95 = 0,42 ) .
+4.3. Rechute locorégionale ganglionnaire axillaire et sus-claviculaire
+Une patiente a eu une rechute axillaire isolée , 19 mois après le traitement de la rechute locale isolée , quatre patientes une rechute sus-claviculaire isolée après en moyenne 51 mois et une patiente une rechute axillaire et sus-claviculaire homolatérale synchrone quatre mois après le traitement de rattrapage .
+Après analyse unifactorielle prenant en compte les caractéristiques de la tumeur locale et celles de la rechute locale , seule la présence d' emboles tumoraux dans la rechute locale isolée ont significativement influencé le taux de survie sans rechute ganglionnaire ( 59 % en présence d' emboles tumoraux contre 96 % en l' absence d' emboles tumoraux , p = 0,016 ) .
+C' est également le seul facteur ayant une incidence sur la rechute locorégionale ganglionnaire axillaire et sus-claviculaire après analyse multifactorielle ( p = 0,02 , RR = 3,83 , IC95 = 0,58 ) .
+4.4. Rechute métastatique
+Douze patientes ont eu une rechute métastatique , en moyenne 36 mois après le traitement de la rechute locale isolée .
+Les taux de survie sans métastase à cinq et à dix ans après la rechute locale étaient respectivement de 80 6 % ( n = 25 ) et de 678,7 % ( n = 10 ) .
+Après analyse unifactorielle , trois caractéristiques de la tumeur initiale primitive ont significativement diminué le taux de survie sans métastase : la présence de récepteurs à la progestérone , l' existence de tranches de section saines et la prise d' une hormonothérapie adjuvante .
+En revanche , la présence d' emboles tumoraux intravasculaires était la seule caractéristique de la rechute tumorale locale qui a significativement diminué le taux de survie sans métastase .
+Tableau 5. Facteurs pronostiques de la survie sans métastase à cinq ans après la rechute locale isolée en fonction des caractéristiques tumorales initiales : étude unifactorielle ( prognosis factors of 5-year survival after isolated local failure according to characteristics of primary tumour : univariate analysis )
+Full-size table ( 28K )
+SBR , Scarf , Bloom et Richardson ; CCI , carcinome canalaire in_situ ; RE , récepteurs aux estrogènes ; RP , récepteurs à la progestérone
+View Within Article
+Tableau 6. Facteurs pronostiques de la survie sans métastase à cinq ans après la rechute locale isolée en fonction des caractéristiques tumorales de la rechute locale : étude unifactorielle ( prognosis factors of 5-year survival after isolated local failure according to characteristics of local failure )
+Full-size table ( 23K )
+SBR , Scarf , Bloom et Richardson ; CCI , carcinome canalaire in_situ ; RE , récepteurs aux estrogènes ; RP , récepteurs à la progestérone
+View Within Article
+Après analyse multifactorielle , la présence d' emboles tumoraux intravasculaires au moment de la rechute locale isolée a été le seul facteur qui a eu un impact significatif sur le taux de survie sans métastase ( p = 0,0052 , RR = 2,78 , IC95 = 0,37 ) .
+Le contrôle régional a eu un impact sur la survenue de métastases à distance .
+Une rechute métastatique a été observée dans 22 % des cas après une rechute sus-claviculaire et dans 19 % des cas après une rechute axillaire homolatérale , contre respectivement 5,5 et 5 % en l' absence de rechute sus-claviculaire ( p = 0,018 ) ou axillaire ( p = 0,005 ) .
+Une 2e rechute locale isolée n' a pas augmenté le taux de risque métastatique à cinq ans : 11 % en cas de 2e rechute locale , contre 7 % en l' absence de 2e rechute locale isolée ( p = 0,8 ) .
+5. Discussion
+Le taux de rechute locale après traitement radiochirurgical conservateur d' un cancer du sein invasif varie entre 4 et 20 % à cinq ans selon les séries [ 2 , 5 , 13 , 14 , 18 , 19 , 25 , 27 , 28 , 31 , 32 , 33 , 34 , 36 , 38 , 42 , 44 and 47 ] , en fonction de l' âge de la patiente , de l' état des berges de la pièce de tumorectomie , de la focalité de la tumeur , de la présence d' emboles tumoraux intravasculaires , et de la présence d' une composante canalaire in_situ étendue .
+Les deux conséquences principales de la rechute tumorale locale après traitement conservateur sont d'_une_part , d' ordre psychologique et d' autre_part , pronostique .
+En effet , elle peut être considérée comme une reprise évolutive d' une maladie qui était considérée pour la patiente comme guérie et qui aboutit dans la majorité des cas à une amputation mammaire .
+De plus , certaines rechutes locales isolées ont un pronostic réservé .
+Plusieurs auteurs considèrent qu' elle est liée ou favorise la dissémination métastatique à distance .
+Après une rechute locale , même isolée , ou survenant après des tumeurs de petite taille et sans envahissement ganglionnaire initial , les taux de survie sont significativement diminués en cas de [ 3 , 4 , 5 , 9 , 10 , 11 , 12 , 13 , 15 , 18 , 36 , 47 , 54 and 56 ] .
+Dans une étude portant sur 756 tumeurs traitées de manière conservatrice ( tumorectomie et radiothérapie ) , avec berges saines , sans envahissement ganglionnaire , et ne recevant pas de chimiothérapie , Cowen_et_al.  ont rapporté une réduction du temps médian d' apparition de métastase après rechute locale , avec un taux de risque de survenue de métastase 4,4 fois plus élevé en cas de rechute locale .
+Dans une autre étude sur 152 tumeurs traitées selon les mêmes modalités mais avec des berges d' exérèse envahies , les mêmes auteurs ont observé un taux de risque métastatique 2,5 fois plus élevé après rechute tumorale locale  .
+Engel_et_al.  ont montré un taux de risque métastatique à 30 mois après rechute locale trois fois plus élevé .
+Méric_et_al.  ont également trouvé que la rechute locale était un facteur indépendant de rechute systémique , avec un taux de risque 6,2 fois plus élevé .
+Vicini_et_al.  ont montré une augmentation du taux de mortalité de 2,69 et de dissémination métastatique de 2,67 après rechute locale .
+Le taux de survie à 12 ans était diminué de 81 à 71 % .
+D' après Vicini_et_al.  , l' impact de la rechute locale sur la diffusion métastatique était évident pour les petites tumeurs ( 2 cm ) et / ou sans envahissement ganglionnaire .
+Pour Fortin_et_al.  , la rechute locale était la cause d' apparition des métastases .
+Dans une étude que nous avons précédemment publiée  , portant sur 528 patientes traitées par association radiochirurgicale conservatrice pour un cancer du sein de stade I ou II , la rechute locale isolée était également un facteur indépendant de risque de rechute métastatique ( RR = 9,9 ) , au même titre que le nombre de ganglions axillaires envahis lors du traitement de la tumeur primitive ou du grade histopronostique SBR de la tumeur primitive .
+Pour Van Tienhoven_et_al.  ou Fisher_et_al.  , la rechute locale n' est qu' un témoin de l' agressivité de la tumeur initiale .
+Fisher_et_al.  , à partir des études du NSABP ( National surgical adjuvent breast and bowel project ) B-04 et B-06 ont montré que les patientes ayant une rechute locale avaient 3,41 fois plus de diffusions métastatiques que celles dont la tumeur n' a pas rechuté localement .
+La rechute locale est un marqueur de risque et non une cause de métastase .
+Van Tienhoven_et_al.  sont arrivés aux mêmes conclusions après avoir analysé 133 cas de rechutes locales issues de deux études randomisées ( EORTC , European Organization for research and treatment of cancer ) 1081 et DBCG 82-TM , soit 1807 patientes incluses ) .
+La survie après rechute locale est influencée par les pT et pN de la classification TNM , ainsi_que par la présence d' emboles tumoraux vasculaires lors_de la tumeur initiale .
+Ces deux auteurs n' ont pu montrer une différence de survie après rechute locale , en fonction du traitement local de la tumeur primitive initiale ( tumorectomie ou tumorectomie + irradiation ou mastectomie pour Fisher_et_al.  , traitement conservateur ou mastectomie radicale pour Van Tienhoven_et_al.  ) .
+De même , pour d' autres auteurs [ 21 and 36 ] , la rechute locale n' a pas d' impact sur la survie .
+Mc Bain_et_al.  ont montré un taux de survie globale à cinq ans après la rechute locale identique à ceux observés sans rechute locale , dans une série de 161 patientes souffrant de rechute locale .
+Cependant , à huit ans , ce taux devenait significativement différent en faveur des patientes dont la tumeur n' a jamais rechuté ( 80 contre 61 % , p 0,001 ) .
+Horigushi_et_al.  ont étudié le devenir de 215 patientes ayant un / des carcinome ( s ) mammaire ( s ) ( soit 217 tumeurs ) de stade I ou II et traitées de manière conservatrice .
+Avec un taux de rechute locale à cinq ans de 6,6 % , ils n' ont pu observé d' effet négatif de la rechute locale sur la survie .
+De nombreux auteurs différencient la rechute locale en fonction du site de rechute : dans le lit de tumorectomie ou en_dehors de celui-ci .
+Pour certains , la rechute en_dehors du lit de tumorectomie correspondrait à un nouveau cancer [ 18 , 22 , 27 , 28 , 29 , 46 and 56 ] .
+Son pronostic en termes de survie globale , spécifique ou sans métastase , serait plus favorable qu' en cas de rechute dans le lit de tumorectomie et de_même type histologique que la tumeur initiale primitive , la faisant alors considérer comme une rechute vraie .
+Pour Haffty_et_al.  dans une étude analysant 50 rechutes locales , le site de rechute dans le sein ( dans le lit tumoral contre en_dehors du lit de tumorectomie ) est un facteur pronostique de survie globale ( p 0,01 ) .
+Huang_et_al.  ont également observé des taux de survie globale à dix ans meilleurs en cas de nouvelle tumeur : 77 contre 46 % en cas de rechute vraie , dans une série de 139 patientes atteintes de rechute locale .
+Le taux de survie en rémission complète était diminuée en cas de rechute vraie ( 26 contre 77 % ) .
+Le taux de contrôle local est également meilleur en cas de nouvelles tumeurs : 98 % de rechutes contre 82 % en cas de vraie rechute .
+Kurtz_et_al.  ont étudié l' évolution de 178 rechutes locales .
+Celles survenant au moins cinq ans après la tumeur primitive initiale sont le_plus_souvent situées à distance de la tumeur primitive : 32 contre 14 % en cas de rechute survenant avant 60 mois , et sont de pronostic plus favorable , avec un taux de survie globale à cinq ans après la rechute de 84 % contre 61 % en cas de rechute plus précoce .
+Cependant , le pronostic des rechutes tardives n' est pas modifié par le site de rechute dans le sein , contrairement aux rechutes précoces .
+Smith_et_al.  ont analysé 136 rechutes locales dont 70 nouvelles tumeurs , 60 vraies rechutes et six rechutes inclassables .
+Les nouvelles tumeurs sont apparues plus tardivement , 7,3 contre 3,7 ans pour les vraies rechutes , et touchaient des patientes plus jeunes , 48,9 contre 54,5 ans en moyenne .
+À noter que les patientes ayant une mutation BRCA1 / 2 ( 17 % de la population dans sa série ) n' ont eu que des nouvelles tumeurs , tandis_que les autres patientes pouvaient avoir les deux types de rechute .
+Les patientes atteintes d' une nouvelle tumeur ont eu un taux de survie globale à dix ans supérieur , 75 contre 55 % en cas de rechutes vraies ( p 0,0001 ) , un taux de survie sans métastase plus élevé , 85 contre 41 % ( p 0,0001 ) .
+Dans une série de 1169 patientes traitées de manière conservatrice et qui avaient un taux de rechute locale à 12 ans de 11 % , Vicini_et_al.  n' ont pas rapporté un effet négatif sur la survie quand la rechute a lieu hors du lit de tumorectomie .
+Dans notre étude , nous n' avons pu distinguer ces deux types de rechute .
+Cependant , dans les séries publiées , les taux de « vraie rechute » étaient plus élevés ( supérieurs à 60 % ) que dans la notre ( près_de 39 % ) .
+Contrairement à Huang_et_al.  , nous n' avons pas observé un risque plus élevé de cancer dans le sein controlatéral en cas de nouvelle tumeur .
+Dans la_plupart des séries , l' intervalle entre tumeur primitive et rechute locale était inférieur à cinq ans en cas de vraie rechute et supérieur à cinq ans dans le cas de nouvelle tumeur [ 15 , 27 and 29 ] .
+Nos délais étaient respectivement de 84 et 92 mois ( p = 0,6 ) .
+Dans notre série , le délai de survenue de la rechute locale était plus long que celui habituellement retrouvé dans la littérature : 87 mois contre 34 à 53 mois pour d' autres auteurs [ 13 , 15 , 18 and 43 ] .
+Nous avons observé un_peu moins de rechutes dans le lit de tumorectomie qu' en_dehors de celui-ci ( 45 contre 55 % respectivement ) .
+D' autres auteurs ont rapporté des proportions plus importantes de rechute locale vraie : 60 à 80 % dans le lit de tumorectomie contre 20 à 40 % en_dehors de celui-ci [ 15 , 18 , 22 and 27 ] .
+En étudiant le devenir de ces patientes ( contrôle tumoral local , survenue de métastase , survie spécifique ) , peu de facteurs pronostiques ont été mis en évidence .
+Notre taux de contrôle local à cinq ans après la première rechute était de 67 % , en accord avec les chiffres de la littérature qui se situent entre 61 et 95 % [ 15 , 27 , 41 , 49 and 57 ] .
+Après analyse multifactorielle , seul le traitement chirurgical de la rechute a influencé le contrôle local après le traitement de la rechute locale isolée .
+La forme histologique lobulaire n' a pas eu d' impact sur la rechute locale , mais notre effectif était faible .
+Comme dans notre série , Schnitt_et_al.  n' ont pu mettre en évidence plus de rechutes dans les formes lobulaires infiltrantes que dans les formes canalaires infiltrantes dans le cadre d' une première rechute locale .
+Dans la littérature , le délai d' apparition de la rechute locale est le facteur pronostique le plus fréquemment rapporté pour le contrôle tumoral local après traitement de la rechute locale [ 30 and 49 ] , tout comme le degré d' extension de la rechute locale ( taille , invasion ou non du derme )  .
+Dans une étude de 50 rechutes locales , Kurtz_et_al.  ont rapporté un taux de contrôle local à cinq ans après traitement conservateur de la rechute de 62 % et montré que ce taux était meilleur ( 92 % ) en cas de rechute après un intervalle d' au moins cinq ans qu' en cas de rechute plus précoce ( 49 % ) .
+Ils ont également noté le rôle des berges de résection de la tumorectomie après rechute locale , avec un taux de contrôle local à cinq ans de 73 % en cas de berges saines , contre 36 % en cas de berges atteintes ou indéterminées .
+Dans une série de 133 patientes issues de deux études randomisées européennes , Van Tienhoven_et_al.  ont retrouvé comme facteurs pronostiques de contrôle local après traitement de la rechute locale , le statut pN lors_de la tumeur primitive initiale , un intervalle libre court ( 2 ans ) et l' extension de la rechute locale .
+Le traitement de rattrapage local standard de la rechute locale isolée après traitement conservateur reste la mastectomie  .
+Après analyse anatomopathologique des pièces de mastectomies de rattrapage pour rechute locale , Fowble_et_al.  ont observé des foyers micro-invasifs à distance de cette rechute dans 22 % des cas .
+Dans notre série , un traitement conservateur d' une rechute locale isolée diminue le taux de contrôle local à cinq ans après la rechute , mais il n' altère pas le contrôle métastatique : le taux de survie sans métastase à cinq ans après le traitement de la rechute locale isolée était 100 % ( 2 ) après tumorectomie contre 796,3 % ( 24 ) après traitement chirurgical radical ( p = 0,2 ) .
+Aucun auteur n' a pu constaté un impact négatif d' un deuxième traitement conservateur après une première rechute locale sur la survie ou le contrôle local [ 16 , 26 , 27 , 28 and 29 ] .
+Dans une série de l' institut Curie de 154 rechutes locales après traitement conservateur , Giard_et_al.  n' ont pu constater d' effet sur la survie en fonction du traitement de rattrapage .
+Dans leur série de 178 rechutes locales , Kurtz et al. [ 27 , 28 and 29 ] ont montré que pour des rechutes tardives après cinq ans , le pronostic n' était pas modifié par le type de traitement chirurgical de rattrapage ( taux de contrôle local à 5 ans après mastectomie de rattrapage : 88 % , après tumorectomie : 64 % , p non significatif ) .
+Un traitement local de rattrapage conservateur ne peut être réalisé qu' en observant des critères stricts : petite tumeur unifocale pouvant bénéficier d' une exérèse avec des tranches de section saines , sans emboles tumoraux ou envahissement ganglionnaire .
+Kurtz_et_al.  ont rapporté un taux de contrôle local à cinq ans après tumorectomie pour rechute locale de 73 % en cas de berges saines contre 36 % en cas de berges positives ou indéterminées .
+Dans notre série , la 2e rechute locale n' a pas influencé le taux de survie sans métastase .
+Celui-ci était de 846,7 % ( 18 ) en l' absence de 2e rechute locale isolée , et de 7012,4 % ( 8 ) en cas de 2e rechute locale isolée ( p = 0,71 ) .
+D' autres auteurs [ 13 , 17 and 42 ] ont confirmé ce résultat .
+Cependant , dans notre série , comme dans celles de la littérature , les reculs et les effectifs étaient faibles , empêchant de conclure de manière formelle .
+Après une rechute locale , les taux de survie globale à cinq ans sont compris entre 54 et 84 % [ 13 , 15 , 16 , 18 , 27 , 29 , 30 , 38 , 47 and 49 ] , avec des taux de survie spécifique à cinq ans entre 59 à 78 % [ 15 , 18 and 47 ] et des taux de survie en rémission complète à cinq ans de 47 à 77 % [ 15 , 18 , 22 and 57 ] .
+Cependant , ces séries sont hétérogènes , incluant à_la_fois des rechutes locales isolées et des rechutes locales et ganglionnaires ou même métastatiques .
+Les principaux facteurs pronostiques de la survie globale après la rechute locale isolée sont l' intervalle libre entre la tumeur initiale primitive et la rechute ( un intervalle court étant de pronostic moins favorable ) [ 13 , 16 , 18 , 27 , 29 , 36 , 38 , 39 and 54 ] , la taille de la tumeur primitive [ 15 and 49 ] , l' extension de la rechute ( taille et / ou extension au derme ) [ 18 and 38 ] , le statut ganglionnaire axillaire au moment de la tumeur primitive [ 38 and 49 ] ou à la rechute  , la présence d' emboles tumoraux intravasculaires lors_de la tumeur primitive  .
+Dans leur série de 56 rechutes locales , Fourquet_et_al.  ont trouvé un taux de survie globale plus faible en cas de rechute avant trois ans : 44 contre 87 % ( p 0,01 ) .
+Dans une série de 1593 cancers du sein de stade I ou II traités de manière conservatrice , Kurtz et al. [ 27 and 29 ] ont observé des taux de rechute à cinq ans et 20 ans respectivement de 7 et 20 % .
+Le taux de survie globale était meilleur en cas de rechute tardive , avec un taux d' opérabilité plus élevé .
+Le taux de survie globale à cinq ans chez les patientes bénéficiant d' un traitement chirurgical de rattrapage pour rechute localisée passait de 61 % en cas de rechute précoce à 84 % en cas de rechute tardive .
+Dans une série de 51 rechutes locorégionales isolées ( 25 patientes avaient eu initialement un traitement conservateur ) , Molitor_et_al.  ont également rapporté un taux de survie globale à cinq ans de 40 % en cas de rechute précoce avant deux ans , contre 68 % en cas de rechute après deux ans .
+Pour Haffty_et_al.  , dans une étude concernant 433 patientes traitées initialement de manière conservatrice pour un carcinome mammaire localisé , le taux de survie globale des 50 patientes ayant eu une rechute locale avec un délai médian de huit ans était significativement meilleur en cas de rechute inférieure ou égale à 3 cm , sans extension au derme , d' intervalle libre de survenue long , et d' une rechute hors du lit de tumorectomie .
+Dans une étude de 161 rechutes , Mc Bain_et_al.  ont montré un taux de survie meilleur en cas de rechute après un intervalle d' au moins quatre ans , par_rapport_à une rechute survenant avant deux ans ( taux de survie globale à 5 ans : 57 contre 23 % respectivement , p = 0,008 ) .
+Moran_et_al.  ont analysé une série de 213 rechutes , dont 119 rechutes après traitement conservateur .
+Ils ont observé un taux de survie sans métastase meilleur en cas de rechute tardive après cinq ans ( 80 contre 61 % ) .
+Dans la littérature , les taux de survie sans métastase cinq ans après la rechute locale varie de 47 à 62 % [ 5 , 16 and 57 ] .
+Voogd_et_al.  ont rapporté que l' extension dermique de la rechute , la taille tumorale de la rechute supérieure à 10 mm , le statut ganglionnaire axillaire lors_de la tumeur primitive et la différenciation SBR de la tumeur primitive influençaient le taux de survie sans métastase .
+Dans notre série , la survie sans métastase après le traitement de la rechute locale isolée paraissait significativement influencée par la présence d' emboles tumoraux intravasculaires lors_de la rechute .
+En revanche , les facteurs de risque de métastase classiquement retenus , comme la taille de la tumeur initiale primitive , l' envahissement ganglionnaire axillaire initial n' ont pas eu d' impact significatif sur la survie sans métastase .
+D' après nos données et celles de la littérature , il est par_conséquent difficile de déterminer avec certitude des facteurs de risque métastatique et de survie globale après rechute locale .
+6. Conclusion
+Bien qu' il soit admis qu' un traitement conservateur pour carcinome mammaire de petit volume ne diminue pas les chances de survie globale par rapport au traitement radical , une rechute locale paraît grever cette survie .
+En effet , de_plus_en_plus d' études publiées paraissent montrer qu' une rechute locale isolée après traitement conservateur radiochirurgical aurait un impact significatif sur la survie sans métastase .
+D' après l' analyse de notre série , il semble que la présence d' emboles tumoraux intravasculaires lors_de la rechute locale isolée diminue le taux de contrôle régional ganglionnaire et altère la survie sans métastase .
+D' après les études publiées , il semble qu' une rechute précoce ou , une « vraie rechute » locale , soit de pronostic moins favorable .
+Il est par_conséquent capital d' assurer le meilleur contrôle local possible dans le cadre d' un traitement conservateur : berges chirurgicales saines , qualité de l' irradiation Il semble également qu' un traitement adjuvant augmente le taux de contrôle local .
+Bien qu' aucune étude publiée n' ait permis d' évaluer l' intérêt d' une chimiothérapie adjuvante systémique après le traitement local d' une rechute tumorale locale isolée , celui-ci doit être envisagé d'_autant_plus_que la rechute locale est associée à des caractéristiques de pronostic défavorable , comme ceux établis habituellement en cas de tumeur primitive .
+Le traitement local standard de la rechute locale isolée reste la mastectomie , mais un traitement conservateur peut être envisagé dans certaines formes sélectionnées : lésion tumorale inférieure ou égale à 1 cm , bien limitée , bien différenciée , à distance du lit initial de tumorectomie , avec des recoupes saines et une marge de tissu sain d' au moins 5 mm

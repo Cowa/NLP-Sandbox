@@ -1,0 +1,189 @@
+Diabetes mellitus ( DM ) is associated with the development and progression of pathological changes in various organ systems including the central nervous system .
+However , the specific effects of diabetes on blood - brain barrier ( BBB ) remain controversial .
+Studies utilizing the STZ-induced model of diabetes to assess its effect on the BBB have indicated that the physical barrier remains intact  , whereas recent studies  indicated that BBB permeability to some substances is increased in STZ-induced diabetes .
+However , there are some reports that showed contradictory outcome  .
+Explanation for these conflicting results is that both barrier and transport components of the BBB function can be attributed to dysfunction of cerebral microvasculature .
+Paracellular and transcellular permeability of the BBB is differentially regulated in diabetes .
+Permeability to macromolecules and most small , water-soluble molecules is limited through the paracellular pathway by epithelial-like tight junctions  and transcellular movement of lipid-soluble molecules and organic ions is highly regulated by numerous transporters including efflux transporters  .
+The efflux transporters mainly belong to the ABC superfamily including P-glycoprotein ( P-gp ) and breast cancer resistance protein ( BCRP ) .
+P-gp was first described as a component of the acquired multidrug resistance ( MDR ) mechanism of tumor cells , but it is now known to be present physiologically at the luminal membrane of the brain capillary endothelial cells .
+P-gp actively expels a wide spectrum of amphiphilic drugs from brain into blood , leading to a decrease in their uptake by the brain .
+Bcrp , which was first called MXR and is now designated ABCG2 on nomenclature , confers resistance to many drugs , including mitoxantrone , prazosin and some camptothecin derivatives , and its range may overlap with the substrates of other P-gp and / or multidrug resistance-associated proteins ( MRPs )  .
+BCRP / ABCG2 was identified in human and porcine brain capillary endothelial cells and found to be responsible for the in vitro export of daunorubicin from porcine brain capillary endothelial cells .
+That ABCG2 is present in brain endothelial cells indicated that Bcrp may influence the efflux of drugs at the BBB  .
+In vivo studies on Bcrp1 knockout mice have shown that Abcg2 is involved in brain penetration of imatinib  .
+A series of studies showed that some diseases including diabetes mellitus could affect expression and function of these efflux transporters , resulting in change of BBB permeability .
+Our previous study  showed that expression and function of P-gp in brain of STZ-induced diabetic rats were damaged , accompanied by increase of brain penetration of its substrates rhodamine 123 and vincristine without marked change of BBB integrity .
+Similar down-regulation was also found in diabetic mice induced by STZ  .
+In contrast , expression and function of MRP-2 was found to be up-regulated in brain of diabetic rats induced by STZ , accompanied by decrease of fluorescein brain penetration  .
+Bcrp was one of the important efflux transporters which restricted entrance of some substances into brain .
+However , little is known about its regulation of expression and function in diabetes mellitus .
+The purposes of this study were , firstly , to investigate whether DM changed the Bcrp function and expression in brain cortex of streptozotocin-induced diabetic rats , using western blot and two typical substrates prazosin and cimetidine both of which as typical substrates of Bcrp were widely used to evaluate the Bcrp function  ; secondly , to clarify whether agent treatment reversed the change of Bcrp expression and function induced by DM ; thirdly , to study which factors may contribute to change of function and expression of Bcrp in brain cortex .
+2. Materials and methods2.1 .
+Animal preparation .
+Male Sprague - Dawley rats ( 180 - 220 g ) , purchased from Center of Experimental Animal , China Pharmaceutical University were used in the study and housed under controlled room of humidity ( 50 5% ) and temperature ( 23 1 C ) .
+The rats fasted for 6 h prior to intraperitoneal ( i.p. ) injection of 65 mg / kg STZ dissolved in 0.1 M sodium citrate buffer at pH 4.5. Following injection , animals were returned to their cages , maintained under standard 12 h light:12-h dark conditions , and given food and water ad libitum for the remainder of the study .
+Age-matched normal rats only received the citrate buffer .
+Development of diabetes was confirmed by blood glucose analysis using reagent kit ( Jiancheng Biotech Co. , Nanjing , China ) .
+Rats with serum glucose level higher than 11.1 mM were considered to be diabetic rats and included in the study .
+All animal experiments were performed under a license granted by Jiangsu Science and Technology Office ( China ) , with approval from Animal Ethics Committee of China Pharmaceutical University .
+Every effort was made to minimize stress to the animals .
+2.2. Experimental protocol .
+The diabetic rats were randomly divided into 4 groups .
+Group I were served as diabetic control ( model ) and received only saline solution .
+Group II were served as insulin treatment and subcutaneously injected 5 U / kg of insulin ( twice a day ) .
+Group III were served as metformin treatment and received orally 250 mg / kg of metformin ( Jiangsu Suzhong Pharmaceutical Group Co. Ltd. ) twice a day .
+And group IV were served as aminoguanidine ( an inhibitor of advanced glycation end product ) treatment and orally received 300 mg / kg of aminoguanidine hydrogen carbonate ( Aldrich-Chemie GmbH Co. KG , Steinheim , Germany ) twice a day .
+The age-matched normal rats only received saline solution .
+After a 5 week treatment , some rats from each group were randomly chosen for evaluation of the function and expression of Bcrp in brain cortex .
+And rest of rats continued to be treated for another 3 weeks .
+2.3. Distribution of prazosin and cimetidine .
+To elucidate the effect of DM on Bcrp function at BBB , two typical substrates of Bcrp prazosin and cimetidine , were given intravenously ( i.v. ) to experimental rats and normal rats .
+For prazosin , at 40 min after the injection 1 mg / kg of prazosin hydrochloride ( National Institute of Control Pharmaceutical and Biological Products , Beijing , China ) , the rats were sacrificed under light ether anesthesia and blood and brain samples were immediately collected for analysis .
+For cimetidine , at 30 min after the injection 50 mg / kg of cimetidine ( National Institute of Control Pharmaceutical and Biological Products , Beijing , China ) , the rats were sacrificed under light ether anesthesia , and blood and brain samples were immediately collected for analysis .
+Blood samples were immediately centrifuged to yield plasma .
+Cerebral cortex was obtained and weighed .
+All plasma and brain samples were stored at 80 C until analysis .
+The brain-to-plasma concentration ratios of prazonsin and cimetidine were calculated and served as brain penetration of the drugs .
+2.4. Western blot analysis .
+Rats were sacrificed under light ether anesthesia and the brain cortex was quickly removed .
+The brain cortex was homogenated and lysed in lysis buffer containing 150 mM NaCl , 1% NP-40 , 0.02% sodium azide , 100 g / ml PMSF , 50 mM Tris - HCl ( pH 8.0 ) .
+The lysate was incubated on ice for 30 min and centrifuged at 12,000 g for 2 min at 4 C. The supernatant was collected , and protein concentration was determined by using Bradford assay ( Bio-Rad , Hercules , CA , USA ) protein assay reagent .
+After addition of sample loading buffer and 5 min at 100 C denatured , protein samples were electrophoresed on a 10% SDS-PAGE and subsequently transferred to PVDF membrane ( Roche ) .
+The membrane was incubated in fresh blocking buffer ( 0.1% Tween 20 in Tris-buffered saline , pH 7.4 , containing 5% nonfat dried milk ) at room temperature for 30 min and then probed with the goat polyclonal anti-ABCG2 antibody ( D-20 , sc-25156 , Santa Cruz , USA ) in blocking buffer at 4 C overnight .
+After washing the membrane with PBST ( PBS and 0.1% Tween 20 ) three times for 5 min each , it was incubated in the appropriate HRP-conjugated donkey anti-goat secondary antibody at room temperature for another 1 h and washed again three times in PBST buffer .
+The transferred proteins were incubated with ECL substrate solution ( Cell Signaling , USA ) for 5 min according to the manufacturer 's instructions and visualized with autoradiography X-film .
+All blots were stripped and reprobed with polyclonal anti--actin antibody ( Boshide Biotech Co.,Wuhan , China ) to ascertain equal loading of protein .
+2.5. Drug assays .
+The concentrations of prazosin and cimetidine in plasma and brain cortex were measured by HPLC .
+Shimadzu LC-10Avp system ( Shimadzu , Japan ) and Diamonsil C18 , 150 mm 4.6 mm i.d. , 5 m particle size column ( Richmond Hill , ON , USA ) were selected .
+For the determination of prazosin , 0.2 ml of plasma or 1 ml purified water containing 0.3 g homogenized brain cortex was mixed with 10 l of terazosin solution ( 800 ng / ml ) and alkalized with 0.2 ml of 0.1 M sodium carbonate solution .
+After extraction with 5 ml dichlormethane , 3.5 ml of organic layer was transferred to a clean tube and evaporated to dryness under nitrogen gas stream at 45 C. The residue was reconstituted in 0.2 ml of methanol and 20 l of the sample was injected into HPLC system .
+The mobile phase consisted of 0.02 M NaH2PO4 - acetonitrile ( 80:20 , pH 5 ) at flow rate 1.0 ml / min .
+The concentration of prazosin was measured with a fluorescence detector ( RF-10AXL ) set at an excitation wavelength of 250 nm and an emission wavelength of 390 nm  .
+The lowest limits of quantitation of prazosin in brain cortex and plasma were 5.2 ng / g brain cortex and 7.8 ng / ml , respectively .
+The concentration quantified using the area ratio of prazosin over the internal standard terazosin .
+The standard curves were linear over the concentration range of 5.2 - 150 ng / g brain cortex and 7.8 - 250 ng / ml plasma , respectively .
+The recoveries were higher than 85% and relative standard derivations of intraday and interday were lower than 10% .
+For the determination of cimetidine , 0.2 ml of plasma or 1ml purified water containing 0.3 g homogenized brain cortex was mixed with 10 l of famotidine ( 500 g / ml , internal standard ) and alkalized with 0.2 ml of 0.1 M sodium carbonate solution .
+After extraction with 5 ml ethyl acetate , the mixture was then centrifuged at 4000 rpm / min for 10 min .
+3.5 ml of organic layer was collected and evaporated to dryness under a gentle stream of nitrogen gas at 45 C. The residue was reconstituted in 0.2 ml of methanol .
+20 l of the sample was injected into HPLC system which had a SPD-10Avp ultraviolet detector set at the wavelength of 228 nm  .
+The HPLC assay utilized a mobile phase of 0.03 M NaH2PO4-acetonitrile ( 88:12 , v / v ) containing 0.2% triethylamine with pH of 6 and a flow rate of 1.0 ml / min .
+The lowest limits of quantitation of cimetidine in brain cortex and plasma were 0.13 g / g brain cortex and 0.195 g / ml , respectively .
+The recoveries were higher than 85% and relative standard derivations of intraday and interday were lower than 10% .
+The linear ranges of cimetidine in brain cortex and plasma were 0.13 - 33 g / g brain cortex and 0.195 - 50 g / ml , respectively .
+2.6. Measurement of physiological and biochemical parameters .
+Blood samples were taken from orbital vein fasted overnight , and after centrifuged at 8000 rpm / min for 5 min serum samples were obtained .
+The serum glucose levels and the insulin levels were measured using reagent kit and ELISA kit ( Jiancheng Biotech Co. ) , respectively .
+The serum advanced glycation end products ( AGEs ) was measured using method described previously  .
+In brief , the fluorescence measurement of the 50 fold saline diluted serum was performed in triplicate on RF-PC5309 spectrofluorometer ( Shimadzu , Japan ) at an excitation wavelength of 370 nm and emission wavelength of 420 nm .
+The fluorescence intensity of sample was expressed as AU / mg protein .
+And protein was measured with protein assay kit ( Jiancheng Biotech Co. ) .
+2.7. Statistical analysis .
+Results were expressed as mean standard deviation ( S.D. ) .
+The overall differences among groups were determined by one-way of analysis of variance ( ANOVA ) .
+If analysis was significant , the differences between groups were estimated using Student - Newman - Keuls multiple comparison post hoc test .
+A p-value of less than 0.05 indicated a significant difference .
+3. Results3.1 .
+Physiological and biochemical parameters of experimental rats .
+The physiological parameters of body weight , blood glucose level , insulin level and serum AGEs level in 5 week and 8 week experimental rats were measured and listed in Table 1. Compared with aged-matched normal rats , lower level of insulin , higher level of blood glucose and AGEs were found ( p 0.01 ) in serum of diabetic rats induced by STZ , accompanied by lower body weight .
+The treatment of insulin could reverse these changes of physiological and biochemical parameters in diabetic rats .
+Metformin treatment could only partly reverse these changes of physiological and biochemical parameters in diabetic rats .
+Aminoguanidine , an inhibitor of advanced glycation , could significantly decrease AGEs in serum of diabetic rats , and had no effects on other physiological and biochemical parameters .
+Table 1. .
+Biochemical parameters of the 5 week and 8 week rats .
+ControlDMDM + insulinDM + AGDM + MET Week 5 Body weight ( g ) 35421.9245.4 26.5337.5 22.8#236.3 18.2229 24.1 Serum glucose ( mmol / L ) 5.6 0.722.9 1.76.2 1.0#24.7 1.414.6 3.3,# Serum AGEs ( AU / mg protein ) 24.8 5.957.2 13.829.6 10.0#31.6 6.8#29.0 3.2# Serum insulin ( mU / L ) 513.241.1 1.854.9 6.9#41.3 2.641.9 3.7 .
+Week 8 Body weight ( g ) 354.4 32.4244.4 16.3357.5 36#253 21.4232.8 28 Serum glucose ( mmol / L ) 4.7 0.932.2 0.034.23 1.27#32.2 0.0315.7 7.7,# Serum AGEs ( AU / mg protein ) 34.4 22.056.5 14.038.8 16.0#34.7 16.0#46.3 13.0,# Serum insulin ( mU / L ) 55.9 3.139.0 2.759.5 2.6#42.6 5.148 1.6,# .
+Full-size table .
+DM : diabetes mellitus , AG : aminoguanidine , MET : metformin .
+Each value represents the mean S.D. of 4 - 6 rats .
+p 0.05 versus control .
+# p 0.05 versus diabetes .
+View Within Article .
+3.2. The brain distribution of prazosin and cimetidine .
+This experiment was designed to investigate whether DM affected function of Bcrp at brain using two typical substrates of Bcrp , prazosin and cimedine .
+Since the brain concentrations of prazosin and cimetidine were affected by their plasma concentrations , the brain-to-plasma concentration ratios of prazosin and cimetidine were calculated and served as brain penetration .
+Significant ( p 0.05 ) higher brain-to-plasma concentration ratios of the two substrates in diabetic rats were found , to be compared with normal rats .
+The brain-to-plasma concentration ratios of prazosin increased 24% in 5 week diabetic rats and 48% in 8 week diabetic rats compared with those of age-matched normal rats , respectively .
+Similarly , brain-to-plasma concentration ratios of cimetidine increased 61% in 5 week diabetic rats and 85% in 8 week diabetic rats compared with those of age-matched normal rats , respectively .
+It was reported that the physical structure of BBB remained intact in diabetic rats induced by STZ  .
+The results indicated that the increase of brain-to-plasma ratios of both typical substrates may result from damage of Bcrp function induced by DM .
+The impairment of Bcrp function was dependent on duration of diabetes .
+Table 2. .
+Effect of DM and drug treatment on distribution of prazosin in brain cortex of 5 week and 8 week rats .
+ControlDMDM + insulinDM + AGDM + MET Week 5 Plasma level ( ng / ml ) 275.45 45.57140.34 10.30237.66 28.12,#168.00 35.23168.82 23.15 Brain level ( ng / g brain cortex ) 80.28 6.6450.49 3.8963.01 2.81,#53.20 4.8653.85 4.95 Kp value ( ml / g brain ) 0.29 0.0400.36 0.0260.2651 0.030#0.32 0.0470.32 0.039 .
+Week 8 Plasma level ( ng / ml ) 251.08 57.80126.10 6.22194.79 22.38,#140.71 28.19134.46 24.08 Brain level ( ng / g brain cortex ) 58.28 10.3143.49 2.1850.84 9.28,#44.18 3.4043.17 4.65 Kp value ( ml / g brain ) 0.23 0.0280.34 0.0190.26 0.041,#0.31 0.0450.32 0.034 .
+Full-size table .
+Changes in distribution of prazosin in brain cortex of STZ-induced diabetic rats and drug treated diabetic rats .
+Prazosin ( 1 mg / kg ) was administered into 5 week and 8 week nontreated diabetic rats , drug treated diabetic rats and age-matched control rats , respectively .
+Blood and whole brain cortex samples were collected and measured following 40 min after prazosin injection .
+The brain-to-plasma concentration ratio of prazosin was calculated .
+Each value represents the mean S.D. of 4 - 6 rats .
+DM : diabetes mellitus , AG : aminoguanidine , MET : metformin , Kp : brain-to-plasma ratio .
+p 0.05 versus control .
+# p 0.05 versus diabetes .
+View Within Article .
+Table 3. .
+Effect of DM and drug treatment on distribution of cimetidine in brain cortex of 5 week and 8 week rats .
+ControlDMDM + insulinDM + METDM + AG Week 5 Plasma level ( ug / ml ) 19.28 1.7910.00 1.6615.19 2.47,#8.82 0.928.95 1.94 Brain level ( ug / g brain cortex ) 0.98 0.0510.76 0.0580.84 0.045,#0.74 0.0220.79 0.063 Kp value ( ml / g brain ) 0.051 0.00400.082 0.00690.057 0.011#0.084 0.00740.091 0.013 .
+Week 8 Plasma level ( ug / ml ) 18.10 3.448.07 1.0113.54 1.98#7.92 1.167.56 1.23 Brain level ( ug / g brain cortex ) 1.15 0.050.96 0.0651.09 0.110.91 0.0530.87 0.077 Kp value ( ml / g brain ) 0.065 0.0110.12 0.0240.081 0.0080#0.12 0.0210.12 0.023 .
+Full-size table .
+Changes in distribution of cimetidine in brain cortex of STZ-induced diabetic rats and drug treated diabetic rats .
+Cimetidne ( 50 mg / kg ) was administered into 5 week and 8 week nontreated diabetic rats , drug treated diabetic rats , and age-matched normal rats , respectively .
+Blood and whole brain cortex samples were collected and measured following 30 min after cimetidine injection .
+The brain-to-plasma concentration ratio of cimetidine was calculated .
+Each value represents the mean S.D. of 4-6 rats .
+DM : diabetes mellitus , AG : aminoguanidine , MET : metformin , Kp : brain-to-plasma ratio .
+p 0.05 versus control .
+# p 0.05 versus diabetes .
+View Within Article .
+In order to investigate whether drug treatment could attenuate the impairment of Bcrp function induced by DM , the diabetic rats were treated with insulin , metformin and aminoguanidine , respectively .
+As shown in Table 2 and Table 3 , insulin treatment may attenuate the impairment of Bcrp function in brain cortex of diabetic rats , accompanied by increase of serum insulin level and decrease of blood glucose level .
+Metformin , although significantly decreased glucose and AGEs level in serum , did not show improvement on Bcrp function following 5 week and 8 week treatment .
+Similarly , aminoguanidine , which was an inhibitor of advanced glycation end product and significantly decreased AGEs level in serum , did not reverse the decrease of Bcrp function induced by diabetes .
+All results indicated that the impairment of Bcrp may partly result from lower insulin level , not higher AGEs or higher glucose level .
+3.3. Bcrp expression at brain cortex .
+This experiment was designed to investigate whether DM affected the expression of Bcrp in brain cortex .
+Bcrp level in cerebral cortex was measured using western blot .
+The result revealed a band of 72 kDa identified by Bcrp antibody , corresponding to Bcrp .
+Bcrp level in cerebral cortex of diabetic rats was significant ( p 0.05 ) lower than that in normal rats .
+The Bcrp levels in brain cortex of 5 week and 8 week diabetic rats were only 56% and 50% of Bcrp levels in corresponding age-matched control rats , respectively .
+The results indicated that DM may down-regulate the expression of Bcrp in brain cortex of STZ-induced diabetic rats and that the impaired expression of Bcrp in BBB of diabetic rats was dependent on the duration of diabetes .
+Full-size image ( 79K )
+Fig. 1. Changes of Bcrp expression level in brain cortex of rats. ( A and B ) represent western blot of Bcrp in brain cortex of 5 week and 8 week rats , respectively .
+Ratios of relative staining intensity for Bcrp of 5 week and 8 week rats are described in ( C and D ) , respectively .
+The data represent the mean S.D. from three independent experiments .
+DM : diabetes mellitus , AG : aminoguanidine , MET : metformin ; p 0.05 versus control ; #p 0.05 versus diabetes .
+View Within Article .
+In order to investigate whether drug treatment could attenuate the impairment of Bcrp expression induced by DM , the diabetic rats were treated with insulin , metformin and aminoguanidine , respectively .
+It was found that insulin reversed the decreased expression of Bcrp in 5 week and 8 week diabetic rats .
+On the contrary , aminoguanidine and metformin showed no effect on restoration of Bcrp expression in 5 week and 8 week diabetic rats .
+4. Discussion .
+The present study was first designed to explore whether DM affected the Bcrp function and expression in brain cortex of STZ-induced diabetic rats using typical substrates prazosin and cimetidine and western blot analysis .
+Lower levels of Bcrp in brain cortex of diabetic rats were paralleled with increase of brain-to-plasma ratios of prazosin and cimetidine .
+Prazosin as a typical substrate of Bcrp was widely used to evaluate the Bcrp function  .
+Cimetidine was initially recognized as an inhibitor of organic cation transporter  , recently many reports also identified cimetidine as a novel efficiently transported substrate for murine Bcrp  .
+As the brain concentrations of drugs were affected by the plasma concentrations , the brain-to-plasma ratios were used in this study .
+Though it was noted that the concentrations of cimetidine and prazosin in the cerebral cortex and plasma of diabetic rats were lower than those of age-matched control rats , we had identified higher brain-to-plasma ratios of prazosin and cimetidine in diabetic rats compared to age-matched control rats .
+The previous studies showed that DM did not destroy the integrity of BBB in murine  and human with diabetes  , and that the tight interendothelial junctions did not appear to be altered  .
+The previous studies also showed that there was no significant difference in the brain cortex concentrations of Evans blue in the diabetic rats and age-matched control rats and the histopathological examination showed no marked changes in the apical membranes of the brain microvessel endothelium under the same experimental conditions  .
+These results suggested that the increased brain-to-plasma ratios of prazosin and cimetidine in brain cortex may result from impairment of Bcrp in brain neither the impairment of BBB integrity nor the damaged brain microvessel endothelium induced by DM .
+Cimetidine and prazosin were reported to undergo significant metabolism in male rats via handful of CYPs in liver .
+The induction of hepatic CYP3A , CYP1A and CYP2B was recognized in experimental diabetes , which may partly contribute to the decrease of cimetidine and prazosin plasma concentrations  .
+To further investigate whether the decreased Bcrp function in brain cortex of diabetic rats was due to the altered expression of Bcrp , western blot was accomplished with protein extracts from brain cortex .
+This study had confirmed that Bcrp expression was significantly decreased in cerebral cortex of the 5 week and 8 week diabetic rats compared with that of age-matched control rats , respectively .
+The results were correspondent with the impairment of Bcrp function .
+The results above clearly demonstrated that DM increased the brain-to-plasma ratios of cimetidine and prazosin via impairing the expression and function of Bcrp in brain .
+Lower level of insulin , higher level of AGEs and higher level of blood glucose are significant features of DM .
+In order to investigate whether these factors impaired Bcrp function and expression in brain cortex , diabetic rats were treated with aminoguanidine , metformin and insulin , respectively .
+The previous studies showed that AGE-BSA could decrease ABCG1 protein levels  and AGEs impaired the expression of organic cation transporter in kidney of experimental DM  .
+However , it was found that treatment of aminoguanidine reduced serum AGEs level but did not improve the impaired Bcrp function and expression in diabetic rats .
+Although metformin could modify the high blood glucose and AGEs level , treatment of metformin still did not improve the function and expression of Bcrp in diabetic rats .
+All the results indicated that both high levels of AGEs and blood glucose may play a minor role in regulating Bcrp function and expression in brain .
+Treatment of insulin reversed the impaired expression and function of Bcrp in brain cortex associated with normalized level of insulin , serum AGEs and blood glucose in serum of diabetic rats .
+Considering the poor effect of high blood glucose and AGEs on regulating Bcrp expression and function , we deduced that the lower insulin level as an important influential factor was associated with the impairment .
+In conclusion , our experiment confirmed that function and expression of Bcrp in brain cortex of STZ-induced diabetic rats were impaired .
+Lower level of insulin may contribute to the pathophysiological mechanisms of DM-related brain cortex Bcrp dysfunction , and AGEs and hyperglycemia may play minor role in this alteration .
+Acknowledgements .
+This work was supported by the National Science foundation of China ( no. 30672499 ) and the Project of Innovation in Graduate Education , Jiangsu Province ( no. 2006 )

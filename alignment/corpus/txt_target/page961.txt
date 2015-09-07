@@ -1,0 +1,237 @@
+Breast cancer is most the common cancer in women worldwide .
+Most epidemiological studies of the aetiology of breast cancer have focused on events during women 's reproductive years .
+However , observations of the association between intrauterine exposure to radiation and leukaemia and other tumours in childhood,1 and the association between intrauterine exposure to diethylstilbestrol and vaginal adenocarcinoma in adolescence2 suggested that the stage for carcinogenesis might be set as early as the perinatal period .
+Trichopoulos and colleagues3 postulated that in-utero exposure to high amounts of endogenous oestrogen might contribute to the development of breast cancer , and that perinatal factors might be surrogate measures of intrauterine oestrogen exposure .
+Other factors , including high intrauterine exposure to growth factors,4 loss of imprinting of the insulin-like growth factor 2 ( IGF2 ) gene , and formation of cancer stem-cells have also been suggested to have a role in mammary carcinogenesis.5 .
+Perinatal factors that have been studied in association with risk of breast cancer include birthweight and other measures of birth size , parental age at delivery , gestational age , twin membership , radiation , other pregnancy-related complications , and maternal characteristics .
+Most of these perinatal factors ( such as pre-eclampsia , infection , twin membership , birthweight , maternal use of diethylstilbestrol , and maternal age ) are associated with altered concentrations of maternal endogenous oestrogen.  Some perinatal factors might be associated with intrauterine exposure to growth hormoneseg , birthweight and birth length.5 We have previously published a systematic review of all studies on the association between birthweight and risk of breast cancer published between April 1 , 1998 , and Dec 31 , 2005 .
+We noted that high birthweight was associated with a relative risk ( RR ) of 123 ( 95% CI 112 - 134 ) for breast cancer.5 In the current study , we summarise the available evidence on the association between risk of breast cancer and maternal age , paternal age , gestational age , birth length , maternal treatment with diethylstilbestrol , twin membership , pre-eclampsia or eclampsia , and other intrauterine factors .
+Methods Search strategy and selection criteria .
+We searched PubMed for studies published up to June 21 , 2007 .
+The search strategy used the following search terms : breast cancer in combination with birthweight , maternal age , paternal age , gestational age , birth length , diethylstilbestrol , twin or multiple birth , radiation , infection , neonatal jaundice , pre-eclampsia or eclampsia , maternal diet or maternal weight gain .
+We included all studies that provided original analyses on the association between perinatal factors and invasive breast cancer and excluded reviews , case reports , or studies on other factors or outcomes .
+All identified studies were cross-referenced for studies missed by the PubMed search .
+We used the software Revman 4.2  to generate forest plots and summary effect estimates for each perinatal factor .
+We used a fixed-effects model and weighed each study by the inverse of its variance .
+Because we inputted the RR and SE into the Revman software on the log scale , RR and 95% CI might differ slightly from those in the published paper because of rounding errors .
+For the summary of each total or subtotal , we provide the 2 test statistic for heterogeneity across studies with its degrees of freedom and p value , the statistic I2 that measures the extent of inconsistency in findings , and the test for overall effect ( Z statistic with p value ) .
+If there was significant heterogeneity across studies ( ie , when p005 ) , no summary effect estimate was calculated .
+We attempted to include data from all identified papers on each perinatal factor in the meta-analysis .
+Studies which were not included in the meta-analysis were still listed in the review tables .
+If populations overlapped but one was not contained in the other , both studies were included .
+For studies in which categorical exposure variables were used , we compared the highest with the lowest category , unless indicated otherwise .
+A meta-analysis combining published studies faces the challenge that different studies on the same topic might provide different comparisons ; for example , cut-off points to define extreme categories might be chosen differently .
+A recalculation of comparisons is generally not possible without knowledge of the variance-covariance-matrix .
+Therefore , we combined comparisons of extreme categories across studies if their definition was similar .
+Michels10 and Greenland11 have warned of the inappropriate use of meta-analysis to produce a single estimate of effect from disparate study findings .
+The forest plots and summary effect estimates provided in this report should be interpreted as a representation of potential sources of disparity and conflict between reviewed studies instead of a simplified study synthesis .
+For each prenatal factor , we did an overall meta-analysis for women of all ages regardless of menopausal status , and sub-group meta-analyses by menopausal status at diagnosis .
+In the overall meta-analyses , we did not include studies that only included premenopausal or postmenopausal women , or studies that only presented sub-group analysis findings by menopausal status .
+These studies were only included in the sub-group meta-analyses by menopausal status .
+Role of the funding source .
+The project was supported by funds from the Susan G Komen for the Cure .
+The funding source had no involvement in data collection , analysis , interpretation , or overall study design .
+FX and KBM had access to the raw data .
+FX had the final responsibility to submit for publication .
+Results .
+57 published studies that assessed association between perinatal factors and the risk of breast cancer were identified and 52 were included in the analysis .
+Three studies were excluded from the analysis on maternal age because no RR estimates  or 95% CI on the RR were provided;14 one study15 was excluded from the analysis of maternal age stratified by menopausal status because of absence of 95% CI on the RR ; one study16 was excluded from the analysis on gestational age because the study population was contained in another updated paper;17 three studies  on diethylstilbestrol treatment were excluded because the study population was the same as that used in the most recent paper;21 and one study22 on twin membership was excluded because the RR was not provided .
+However , some of the findings of the meta-analyses have not been reported here because of substantial heterogeneity between studies .
+In these cases , only the p value for heterogeneity has been reported .
+Publication bias was assessed by use of funnel plots ( figure 1 ) , which suggested that small studies with null results might be missing on birth length and dizygotic twin membership in relation to the risk of breast cancer .
+Full-size image ( 58K )
+High-quality image ( 363K )
+Figure 1. Funnel plots showing publication bias for meta-analyses of paternal age , birth length , twin membership , dizygotic twin membership , and pre-eclampsia or eclampsia in relation to risk of breast cancer in daughters .
+View Within Article .
+Since the completion of our review on birthweight and breast cancer,5 five additional studies have been published on this topic , including three cohort studies  and two case - control studies.  Findings from these five studies suggested an increased risk of breast cancer in women with higher birthweight , and the association was significant in three of the studies.  Birthweight was more strongly associated with premenopausal breast cancer in two studies,  whereas a strong association with postmenopausal breast cancer was noted in the other study.26 Findings from these studies are mostly consistent with previously published studies that lend support to high birthweight as a risk factor for breast cancer , especially in premenopausal women.5 An updated meta-analysis after integrating the newly published studies  generated a summary RR associated with higher birthweight of 115 ( 95% CI 109 - 121 , p for heterogeneity=005 , degrees of freedom=18 ) for breast cancer regardless of menopausal status .
+The most plausible mechanism underlying a positive association between maternal age and risk of breast cancer in the daughter is high intrauterine exposure to endogenous oestrogens .
+Concentrations of oestrogen in maternal blood during pregnancy have been shown to be higher in older women.  We identified 15 case - control studies that assessed association between maternal age at delivery and daughter 's risk of breast cancer  and seven cohort studies  ( table 1 ) .
+Of 11 studies that assessed associations between maternal age and risk of breast cancer in daughters regardless of menopausal status of daughters at diagnosis,  increased maternal age was found to be associated with increased risk of breast cancer in daughters in nine studies,  and the association was statistically significant in four of the studies.  The summary RR of all of the cohort studies  was 113 ( 95% CI 102 - 125 ) ( p for heterogeneity=068 , degrees of freedom=2 ) .
+The summary effect estimate was not calculated for case - control studies  because of significant heterogeneity ( p=0006 , degrees of freedom=6 ) .
+Findings from studies that separately assessed premenopausal breast cancer  ( summary RR 111 [ 099 - 124 ] , p for heterogeneity=012 , degrees of freedom=7 ) and postmenopausal breast cancer  ( summary RR 115 [ 105 - 126 ] , p for heterogeneity=069 , degrees of freedom=5 ) have also suggested that higher maternal age is associated with increased risk of breast cancer in daughters .
+The cut-off above which there is an increased risk of breast cancer ranged from middle-to-late third decade ( 25 - 30 years ) of life  to early fourth decade ( 31 - 35 years ) of life. 
+Table 1. .
+Published studies on maternal age at delivery and daughter 's risk of breast cancer .
+p for trendDaughters with breast cancer , nAge at diagnosis , yearsControls or population , n Case - control studies Rothman et al14000034339NA12 760 Le Marchand et al3006715342461 Age 33 years at diagnosis0086033186 Janerich et al31NA801NA1573 Thompson et al32NA299120 - 543114 Parous daughters , yearsNA2492NA2687 Nulliparous daughters , yearsNA499NA457 Parous and nulliparous daughters pooled for each 15 years of increase in maternal ageNA2991NA3144 Sanderson et al34 Overall study 1NA74621 - 45960 Overall study 2NA40150 - 64439 Ekbom et al70081068Mean 50 , 582 women aged 502727 Newcomb et al350381253Mean 32 for patients and 32 for controls ( premenopausal and postmenopausal ) 1121 Weiss et al36NA2202552009 Innes et al380011484Mean 30 , range 14 - 372870 Titus-Ernstoff et al39004155550 - 792029 Mellemkjaer et al40NA881403423 Hodgson et al41NA26318 - 74235 Choi et al4209981011Mean 48 , SD 111011 Barba et al27NA82635 - 80913 Premenopausal womenNA259NA296 Postmenopausal womenNA567NA617 Park et al26076238620 - 742505 Patient age 50 years090689NA717 Patient age 50 years0871688NA1720 Cohort studies Colditz et al15016179930 - 55 at baseline ( 10 years follow-up ) 118309 Premenopausal018NANANA Postmenopausal015NANANA Zhang et al33NA14929 - 62 at first examination ( 38 years follow-up ) 2662 Hemminki et al37NA887715 - 5337877 Mogren et al2201157NA152 590 ( including men ) Hilakivi-Clarke et al12NA177135 patients aged 503447 McCormack et al13NA35963 patients aged 50 , 296 patients aged 505358 Xue et al430008682730 - 55 at baseline ( 26 years follow-up ) 109773 .
+Full-size table .
+NA=not available .
+For OR , RR , HR , SIR , and 95% CI see webtable 1. .
+View Within Article .
+We noted that daughters born to older mothers were more likely to have older fathers and less likely to be the first-born of the mother .
+Therefore , the association mentioned above might be confounded if paternal age and birth order were not controlled for .
+An association between higher maternal age and increased risk of breast cancer in daughters persisted in all seven studies that included paternal age as a potential confounder,  and the association remained statistically significant in three of the studies.  In all 11 studies  that studied birth order as a potential confounder , a positive association persisted in ten of the studies,  and remained statistically significant in four studies.  Many other early-life exposures , including gestational age , birthweight , pregnancy-related complications , parental socioeconomic factors , year of birth , parental smoking , twin membership , and maternal hormone use have been adjusted for , and adjustment for these factors often did not affect appreciably the effect estimate of maternal age at delivery and risk of breast cancer .
+A higher incidence of autosomal dominant disorders has been noted in children born to older fathers ; more frequent single-base substitutions and a higher number of structural chromosomal anomalies in spermatozoa have been suggested as possible mechanisms.  Since the number of cell divisions in spermatogenesis is much larger than that in oogenesis , and all spermatogenesis-related cell divisions , unlike those in oogenesis , continue after birth,44 errors in DNA copying are more likely to occur in the paternal than in the maternal germ line .
+Furthermore , the DNA-repair activity and apoptosis of germ cells in response to mutagens decline with paternal age,  while the DNA repair system of oocytes is more efficient and independent of maternal age.48 Previous studies have suggested that advanced paternal age at delivery might increase cancer risk in offspring because of accumulation of germ-cell mutations. 
+We identified six case - control studies  and four cohort studies  ( table 2 ) that assessed the association between paternal age and risk of breast cancer in daughters .
+Older paternal age at delivery was associated with a higher risk of breast cancer in daughters in five  out of seven studies regardless of menopausal status of daughters with breast cancer,  and the association was statistically significant in three of the studies  ( figure 2 ) .
+The summary RR was 112 ( 105 - 119 , p for heterogeneity=012 , degrees of freedom=6 ) .
+Findings from two studies  that assessed separately the risk for premenopausal breast cancer suggested a positive association and a larger summary RR of 148 ( 108 - 203 , p for heterogeneity=081 , degrees of freedom=1 ) .
+Findings for risk of postmenopausal breast cancer were not reported separately in the studies .
+Table 2. .
+Published studies on paternal age at delivery and daughter 's risk of breast cancer .
+p for trendDaughters with breast cancer , nAge of daughter at diagnosis , yearsControls or population , n Case - control studies Le Marchand et al3001615342461 Janerich et al31NA801NA1573 Newcomb et al350981253Mean 319 for cases and 318 for controls ( premenopausal and post menopausal ) 1121 Innes et al380043484Mean 30 , range 14 - 372870 Hodgson et al41NA26318 - 74235 Choi et al4200901011Mean 48 , SD 111011 Cohort studies Colditz et al15076179930 - 55 at baseline ( 10 years follow-up ) 118309 Premenopausal028NANANA Postmenopausal038NANANA Zhang et al33NA14929 - 62 at first assessment ( 38 years follow-up ) 2662 Hemminki et al37NA887715 - 5337877 Xue et al43003682730 - 55 at baseline109 773 .
+Full-size table .
+NA=not available .
+For OR , RR , HR , SIR , and 95% CI see webtable 2. .
+View Within Article .
+Full-size image ( 35K )
+High-quality image ( 287K )
+Figure 2. Meta-analysis of studies on paternal age and daughter 's risk of breast cancer .
+SIR=standardised incidence ratio .
+Squares represent HR , OR , or SIR .
+Diamonds represent summary HR , OR , or SIR .
+Lines represent 95% CI .
+HR , OR , SIR , and 95% CI were generated by Revman through generic inversed variance method and used in this analysis .
+RR of breast cancer for continuous increment of paternal age provided by these studies were consistently transformed into RR for each increase of 15 years in paternal age to make it comparable to other studies that used categorical data .
+View Within Article .
+In eight studies that controlled for maternal age as a potential confounder,  advanced paternal age remained positively associated with risk of breast cancer in six of the studies  and the association was significant in two studies.  Adjustment for maternal age substantially attenuated the association between paternal age and daughters risk of breast cancer in three studies.  Because maternal age and paternal age were closely associated , adjustment might introduce collinearity and consequently underestimate the effect of maternal and paternal age .
+Three studies attempted to resolve this underestimation by cross-stratifying the analysis by maternal and paternal age and comparing risk of breast cancer across combinations of parental age.  The independent effect of maternal age remained in all three studies,  and this effect was stronger in studies with adequate sample size for each combination , while the independent effect of paternal age was suggested by one study31 and was less clear in the other two studies.  Further adjustment for birth order and other early-life exposures was made in most studies , and the adjustment did not seem to substantially change the effect estimate of paternal age .
+The extent of increase in postnatal gonadotropin depends on the extent of hypothalamic maturation in utero , and therefore on the gestational age .
+Compared with full-term female infants , female infants born before the 33rd week of gestation have serum follicle-stimulating hormone ( FSH ) concentrations ten to 20 times higher and serum luteinising hormone three to four times higher in the first 10 postnatal weeks.51 The raised postnatal serum concentrations of gonadotropins in preterm female infants might lead to ovarian hyperstimulation , which has been postulated to increase oestradiol concentrations and increase the risk of breast cancer.16 Additionally , female infants who survived premature birth have been shown to be more likely to have accelerated prenatal growth and enhanced mitotic divisions , which might be associated with a higher risk of breast cancer later in life.52 .
+Gestational age or preterm delivery and risk of breast cancer later in life has been studied in eight case - control studies  and four cohort studies  ( table 3 ) .
+Regardless of age of cancer onset , shorter gestational age or premature birth was associated with a higher risk of breast cancer in four studies  and a decreased risk of breast cancer in four studies,  but the association with increased risk7 or decreased risk55 attained statistical significance in only two studies .
+The summary RR for cohort studies suggested no association between gestational age and risk of breast cancer ( RR 095 [ 071 - 126 ] ) , p for heterogeneity=053 , degrees of freedom=2 ) , and findings from case - control studies were significantly heterogeneous ( p for heterogeneity=001 , degrees of freedom=7 ) .
+Data for lower gestational age or premature birth suggested that the risk of breast cancer was in opposite directions in studies that assessed premenopausal women separately  ( summary RR 117 [ 093 - 148 ] , p for heterogeneity=096 , degrees of freedom=4 ) and studies that assessed postmenopausal women separately  ( summary RR 089 [ 064 - 122 ] , p for heterogeneity=073 , degrees of freedom=1 ) , but these findings were not significant .
+Table 3. .
+Published studies on gestational age at delivery and risk of breast cancer .
+p for trendWomen with breast cancer , nAge at diagnosis , yearsControls or population , n Case - control Le Marchand et al30NA15342461 Ekbom et al7NA1068Mean 50 , 582 women 502727 Sanderson et al34 Study 1NA74621 - 45960 Study 2NA40150 - 64439 Innes et al38NA484Mean 30 , range 14 - 372870 Park et al26NA238620 - 742505 Nested case - control Michels et al53NA582202 women aged 45 ; 178 women aged 45 - 50 ; 169 women aged 501569 Case - control of opposite-sex twins Kaijser et al540489055 of 90 women aged 5090 Case - control of like-sex twins Hubinette et al55NABetween-pair comparison 8736 women aged 50Between-pair comparison 87 Cohort Mogren et al22NA57NA152 590 ( including men ) Ekbom et al16 OverallNA127 of 12 women aged 50273 Patient age 50 yearsNA7NANA Kaijser et al17NA3919 of 39501483 Early onset ( 50 years ) NA19NANA Troisi et al2306697NA5847 .
+Full-size table .
+NA=not available .
+For OR , SIR , RR , or 95% CI see webtable 3. .
+View Within Article .
+Since birthweight has been positively associated with risk of breast cancer later in life5 and is negatively associated with premature birth , birthweight is probably a negative confounder of the association between lower gestational age and risk of breast cancer .
+Findings from studies that controlled for birthweight as a potential confounder  did not differ substantially from findings of studies that did not consider birthweight.  Further adjustment for birth order , family history , and other early-life exposures were also accounted for without appreciably affecting the findings .
+The studies reviewed used cut-off points for gestational age that ranged from 32 weeks or less  to under 39 weeks.23 Since gestational age is highly correlated with cumulative intrauterine exposure to oestrogen , growth hormones , and other factors , stratifying studies by gestational age and assessing studies in each stratum would be preferable .
+However , the small number of available studies did not allow this approach .
+Birth length is strongly associated with birthweight.5 Therefore , mechanisms that explain the association between birthweight and the risk of breast cancer might also account for any effect of birth length .
+Similar to birthweight , birth length has been positively associated with oestrogen concentrations in maternal blood.  Nonetheless , findings from a study58 based on the Danish Medical Birth Register suggested that birth length was positively associated with height in adulthood , even after adjusting for birthweight , whereas an association between birthweight and height disappeared after adjusting for birth length .
+The association between birth length and heightheight is an established risk factor for breast cancer  suggests that birth length might affect risk of breast cancer through pathways independent of birthweight that are more closely involved in regulating growth and anthropometric factors throughout life .
+The association between longer birth length and higher breast-cancer risk was assessed in four case - control  and four cohort studies  ( table 4 ) .
+Meta-analyses of studies in premenopausal and postmenopausal women  provided a summary RR of 128 ( [ 111 - 148 ] , p for heterogeneity=025 , degrees of freedom=6 ; figure 3 ) .
+Findings from all reviewed studies suggested that longer birth length was associated with increased risk of breast cancer ; in two studies  this association was statistically significant ( figure 3 ) .
+Two studies separately assessed this association in premenopausal and postmenopausal breast cancer;  the findings suggested a larger association in premenopausal women with breast cancer ( summary RR 202 [ 121 - 337 ] , p for heterogeneity=013 , degrees of freedom=1 ) than in postmenopausal women with breast cancer ( summary RR 138 [ 100 - 192 ] , p for heterogeneity=030 , degrees of freedom=1 ) .
+Table 4. .
+Published studies on birth length and risk of breast cancer .
+p for trendWomen with breast cancer , nAge at diagnosis , yearsControls or population , n Case - control Ekbom et al70451068Mean 50 , 582 women aged 502727 Vatten et al62002373Mean 50 , range 27 - 831150 Nested case - control Ekbom et al6012458212 women aged 50 , 168 women aged 50 - 64 , 78 aged 651197 Case - control of same-sex twins Hubinette et al55 Between-pair comparisonNA8736 of 96 women aged 5087 Within-pair comparisonNA96NA96 Cohort Andersson et al61008762Age range for study population 28 - 841080 Hilakivi-Clarke et al12013177135 women aged 503447 McCormack et al13NA35963 of 359 women aged 505358 Premenopausal000163505185 Postmenopausal038294505153 Vatten et al63002312167 of 312 women aged 50 , median 49 , range 25 - 7616016 Patient age 50 yearsNA167NANA Patient age 50 yearsNA145NANA .
+Full-size table .
+NA=not available .
+For OR , HR , or 95% CI see webtable 4. .
+View Within Article .
+Full-size image ( 36K )
+High-quality image ( 294K )
+Figure 3. Meta-analysis of studies on birth length and risk of breast cancer .
+SIR=standardised incidence ratio .
+Squares represent HR , OR , or SIR .
+Diamonds represent summary HR , OR , or SIR .
+Lines represent 95% CI .
+HR , OR , SIR , and 95% CI were generated by Revman through the generic inversed variance method and used in this analysis .
+View Within Article .
+The effect estimate of the association between birth length and risk of breast cancer was similar to that of birthweight and risk of breast cancer.5 When birthweight was included as a potential confounder in two studies,  the association between birth length and breast-cancer risk remained statistically significant in one of these studies.13 Conversely , the association between birthweight and breast cancer was removed after birth length was taken into account .
+Adjustment for head circumference in one study13 only slightly attenuated the association between birth length and risk of breast cancer .
+Adjustment for other perinatal factors and family history of breast cancer did not appreciably change the effect estimate .
+None of the available studies assessed the role of height as an intermediate variable .
+Diethylstilbestrol is a synthetic oestrogen developed to support a pregnancy threatened by miscarriage or premature labour .
+According to the Centers for Disease Control and Prevention , Atlanta , GA , USA , an estimated 5 - 10 million pregnant women and their fetuses were exposed to diethylstilbestrol between 1938 and 1971.64 Because of the association between intrauterine exposure to diethylstilbestrol and adenocarcinoma of the vagina in adolescence,2 in 1971 the US Food and Drug Administration issued a Drug Bulletin advising physicians to stop prescribing diethylstilbestrol to pregnant women.64 Prenatal exposure to large amounts of oestrogen might be associated with an increased risk of breast cancer later in life.  As an oestrogen supplement , diethylstilbestrol use during pregnancy provided the opportunity to study the association between exogenous oestrogen exposure in utero and subsequent risk of breast cancer .
+Few case - control  and cohort studies  have been undertaken to assess this association ( table 5 ) .
+Of these , four studies  were based on three existing cohorts : the National Cooperative Diethylstilbestrol Adenosis Project,68 the Dieckmann randomised clinical trial of diethylstilbestrol undertaken at the University of Chicago in 1951 - 1952,69 and a large private infertility practice in Massachusetts , USA.70 Findings from all four studies did not find a significant increase in breast-cancer risk in women who were exposed to diethylstilbestrol in utero , but a statistically significant increase in breast-cancer risk after the age of 40 years was associated with exposure to diethylstilbestrol .
+Since we excluded the two earlier studies  and the study that assessed cancer in general20 from our meta-analysis , no overall analysis could be done .
+The remaining study21 had an overall RR of 140 ( 086 - 228 ) and an RR of 187 ( 072 - 483 ) for diagnosis of breast cancer in postmenopausal women .
+From three studies that separately assessed premenopausal breast cancer,  the summary RR was 137 ( [ 086 - 218 ] , p for heterogeneity=007 , degrees of freedom=2 ) .
+Table 5. .
+Published studies on diethylstilbestrol exposure in pregnancy and daughter 's risk of breast cancer .
+p for trendDaughters with breast cancer , nAge at diagnosis , yearsControls or population , n Case - control study Weiss et al36NA53445497 Sanderson et al67NA51045436 Cohort studies Hatch et al18NA3820 of 38 women aged 406080 Patient age 40 yearsNA20NANA Patient age 40 yearsNA18NANA Palmer et al19NA5824 of 58 women aged 406916 Patient age 40 yearsNA24NANA Patient age 40 yearsNA34NANA Palmer et al21NA102NA6890 PremenopausalNA47NANA PostmenopausalNA24NANA Troisi et al20NA101NA6873 .
+Full-size table .
+NA=not available .
+For OR , RR or 95% CI see webtable 5. .
+View Within Article .
+Several important early-life exposures have been suggested to be potential confounders in published studies ; the association between diethylstilbestrol and risk of breast cancer did not seem to be substantially changed by adjustment for such factors , including gestational age at first exposure to diethylstilbestrol.18 .
+Compared with singleton pregnancies , twin pregnancies might involve the release of almost twice the concentrations of pregnancy-related hormones , including oestrogen,  human chorionic gonadotropin,73 and human placenta lactogen.73 Dizygotic twins might be exposed to larger amounts of pregnancy-related hormones than monozygotic twins74 because of the presence of two placentas as opposed to the sharing of one placenta .
+Furthermore , oestrogen is lipophilic and consequently can pass into the placenta and enter fetal circulation .
+Therefore , the co-twin of a dizygotic twin pregnancy might be exposed to higher amounts of oestrogen than a singleton or co-twin of a monozygotic twin pregnancy .
+However , twins might be exposed to hormones for shorter times than singletons because twins are usually delivered after a shorter gestation to avoid pregnancy-related complications .
+The association between twin membership and risk of breast cancer has been assessed in eight case - control studies  and six cohort studies  ( table 6 ) .
+Five of these studies assessed this association regardless of menopausal status at diagnosis of breast cancer ; but both positive associations  and inverse associations  were noted .
+The summary RR estimate suggested that twin membership was associated with a decreased risk of breast cancer that was of marginal statistical significance ( summary RR 093 [ 087 - 100 ] , p for heterogeneity=009 , degrees of freedom=4 ; figure 4 ) .
+No association was recorded by studies that assessed premenopausal breast cancer separately  ( summary RR 091 [ 070 - 118 ] , p for heterogeneity=010 , degrees of freedom=4 ) .
+Of these , neither the cohort studies79 nor the case - control studies  noted a significant association between twin membership and breast cancer ( RR 078 [ 056 - 109 ] , degrees of freedom=1 ; summary RR 113 [ 076 - 169 ] , p for heterogeneity=012 , degrees of freedom=3 , respectively ) .
+We also undertook a separate meta-analysis on studies that assessed monozygotic twins  and we noted no association between twin membership and breast cancer ( summary RR 093 [ 082 - 105 ] , p for heterogeneity=093 , degrees of freedom=4 ) and no association was recorded in cohort studies  ( summary RR 094 [ 083 - 106 ] , p for heterogeneity=017 , degrees of freedom=2 ) or case - control studies  ( summary RR 082 [ 050 - 135 ] , p for heterogeneity=027 , degree of freedom=1 ) .
+Findings from cohort studies  ( summary RR 106 [ 100 - 114 ] , p for heterogeneity=005 , degrees of freedom=3 ) and case - control studies  ( summary RR 148 [ 101 - 216 ] , p for heterogeneity=017 , degrees of freedom=3 ) that analysed dizygotic twins separately suggested a modest , but significant , increased risk of breast cancer associated with this type of twin membership ( figure 5 ) ; although , combination of cohort and case - control studies suggested significant heterogeneity of findings ( p for heterogeneity=003 , degrees of freedom=7 ) .
+Table 6. .
+Published studies on twin membership and risk of breast cancer .
+p for trendWomen with breast cancer , nAge at diagnosis , yearsControls or population , n Case - control Hsieh et al75NA870 ( 17 twins ) 352641 ( 33 twins ) PremenopausalNA248 ( 7 twins ) NA782 ( 10 twins ) PostmenopausalNA622 ( 10 twins ) NA1859 ( 23 twins ) Sanderson et al34 Study 1NA74621 - 45960 Study 2NA40150 - 64439 Swerdlow et al77NA15544155 co-twins Co-twin same sexNA105NA105 co-twins Co-twin opposite sexNA50NA50 co-twins Ekbom et al7NA1068Mean age 50 , 582 women aged 502727 Swerdlow et al78NA50045All national twin births Weiss et al36NA2150551961 Innes et al38NA484Mean age 30 , range 14 - 372870 Park et al26NA238620 - 742505 Age of patient 50 yearsNA691NA722 Age of patient 50 yearsNA1647NA1754 Cohort Braun et al76NA254 monozygotic twins , 486 dizygotic twins209486 monozygotic twins , 16055 dizygotic twins Mogren et al22No association57NA152 590 ( including men ) Verkasalo et al79NA66 monozygotic twins , 179 dizygotic twins184308 monozygotic twins , 8868 dizygotic twins Cerhan et al80NA123055 - 6929197 Iversen et al81NA376NA23 334 Hemminki et al82NA276 same-sex twins , 165 opposite-sex twins0 - 6662574 .
+Full-size table .
+NA=not available .
+For OR , HR , or 95% CI see webtable 6. .
+View Within Article .
+Full-size image ( 30K )
+High-quality image ( 250K )
+Figure 4. Meta-analysis of studies on twin membership ( including monozygotic and dizygotic ) and risk of breast cancer .
+View Within Article .
+Full-size image ( 35K )
+High-quality image ( 283K )
+Figure 5. Meta-analysis of studies on dizygotic twin membership and risk of breast cancer .
+HR , OR , SIR , and 95% CI were generated by Revman through the generic inversed variance method and used in this analysis .
+Summary estimate is not provided because of statistically significant heterogeneity .
+View Within Article .
+Two other studies attempted to assess the role of zygosity of twins in breast-cancer development .
+One of these studies compared risk of breast cancer in dizygotic twins with that in monozygotic twins,78 and the other study compared the risk in opposite-sex twins with same-sex twins to estimate zygosity when this was not assessed.77 The findings did not show a difference in risk of breast cancer according to zygosity .
+Apart from the concentrations of hormones during pregnancy , monozygotic twins and dizygotic twins might differ in other aspects .
+For example , dizygotic twins are more often conceived by taller women , overweight women , older women , or non-Hispanic black women.  Since risk of breast cancer has also been associated with ethnicity,86 maternal age,31 and anthropometric factors59 ( that are partly heritable ) , these factors , which were not adjusted in the reviewed studies , might confound the association between dizygotic twin membership and risk of breast cancer .
+In the past 20 years , the number of multiple births has increased because of the use of assisted reproductive technology.87 This phenomenon might be too recent to assess as a risk factor for breast cancer in daughters , but future studies might also question the potential effect of in-vitro fertilisation and relevant parental characteristics as potential confounders in analysing the association between multiple births and risk of breast cancer , especially in young women .
+The etiology of pregnancy-induced hypertension with oedema , proteinuria , and seizures ( eclampsia ) , or without seizures ( pre-eclampsia ) , is unclear , but in women with eclampsia and pre-eclampsia , blood88 and urine89 oestrogen concentrations are lower than in those with normal pregnancies .
+Similar to twin pregnancies , labour might be induced for women with eclampsia or pre-eclampsia to decrease maternal and fetal morbidity and mortality .
+Therefore , daughters born to women with pre-eclampsia or eclampsia are more likely have shorter gestational ages and lower cumulative exposures to pregnancy hormones than those born after normal pregnancies .
+Maternal pre-eclampsia or eclampsia during pregnancy was assessed as a risk factor for breast cancer in daughters in five case - control studies  and one cohort study22 ( table 7 ) .
+Of these , three studies  assessed the association regardless of menopausal status , and of these , two studies  recorded decreased risk for pre-eclampsia or eclampsia and breast cancer ( summary RR 048 [ 030 - 078 ] , borderline significant heterogeneity p=004 ; figure 6 ) .
+Findings from studies that analysed premenopausal breast cancer separately  suggested no overall association ( summary RR 100 [ 061 - 165 ] , p for heterogeneity=017 , degrees of freedom=2 ) .
+None of the studies studied postmenopausal breast cancer separately .
+Table 7. .
+Published studies on pre-eclampsia or eclampsia and daughter 's risk of breast cancer .
+OR or SIR ( 95% CI ) Daughters with breast cancer , nAge at diagnosis , yearsControls or population , n Case - control studies Le Marchand et al30 Yes vs noOR 346 ( 086 - 1390 ) 15342461 Ekbom et al7 Yes vs noOR 041 ( 022 - 079 ) 1068Mean 50 , 582 women aged 502727 Sanderson et al67 Yes vs noOR 08 ( 04 - 15 ) 51045436 Innes et al38 Yes vs noOR 090 ( 036 - 227 ) 484Mean 30 , range 14 - 372870 Nested case - control studies Ekbom et al6 Yes vs noOR 024 ( 009 - 070 ) 458212 aged 50 , 168 aged 50 - 64 , 78 aged 651197 Cohort Mogren et al22NA57NA152 590 ( including men ) NoSIR 096 ( 072 - 125 ) 52NA. .
+YesSIR 140 ( 045 - 328 ) 5NA. .
+Full-size table .
+NA=not available .
+SIR=standardised incidence ratio .
+Comparison between actual and expected number of daughters with cancer was based on an external reference .
+View Within Article .
+Full-size image ( 27K )
+High-quality image ( 225K )
+Figure 6. Meta-analysis of studies on maternal pre-eclampsia or eclampsia and daughter 's risk of breast cancer .
+HR , OR , SIR , and 95% CI were generated by Revman through the generic inversed variance method and used in this analysis .
+View Within Article .
+Since mothers with pre-eclampsia or eclampsia during pregnancy are more likely to have multiple pregnancies , higher body-mass index before pregnancy , and be older,90 these factors need to be controlled in the analysis because they might also affect their daughters risk of breast cancer .
+The two studies that provided the strongest support for an inverse association between pre-eclampsia and risk of breast cancer are from Sweden  but these study populations partly overlap .
+Further research is warranted to confirm this association .
+The effect of several other perinatal factors on risk of breast cancer have also been studied .
+However , the currently available evidence is sparse .
+Fetuses are especially sensitive to exposure to ionising radiation.91 The effect of in-utero exposure to ionising radiation from the atomic bombings of Hiroshima and Nagasaki in Japan on risk of cancer later in life has been assessed ; however , findings on breast cancer were not reported separately.  Researchers of these studies reported higher incidences of cancer in Japanese womenup to the age of 38 yearswho were exposed in-utero , especially for childhood cancers , than in women who were not exposed.92 However , the increase did not persist after another 5 years of follow-up , possibly because background cancer incidence increased as the population aged.93 Data on early-life exposure and breast-cancer risk from these populations are available ; the RR of breast cancer was higher for women who were exposed to radiation from atomic-bomb explosions up to about 20 years of age compared with women who were exposed at older ages , and the risk of breast cancer increased with younger age at exposure.94 .
+Neonatal jaundice has also been associated with a higher risk of breast cancer ( odds ratio [ OR ] 216 [ 127 - 367 ] ) ;7 however , data are only available from one study .
+Jaundice onset within the first 24 h after birth is mainly caused by in-utero infection .
+Although more research is needed to establish whether neonatal jaundice is associated with increased risk of breast cancer , some studies suggest that oestrogen exposure might have a role because high concentrations of oestrogen have been measured in infants with jaundice,  probably due to impaired liver function .
+The role of maternal diabetes on the risk of breast cancer in daughters has been assessed in one study,22 but no association was noted ( standardised incidence ratio [ SIR ] 099 [ 075 - 128 ] ) .
+Sanderson and co-workers67 reported an increased risk of breast cancer in daughters of mothers who had high weight gain during pregnancy compared with those who gained less than 7 kg ( OR 15 [ 11 - 21 ] for a gain of 11 - 15 kg , and OR 12 [ 08 - 17 ] for a gain of 16 kg ) .
+Since high weight gain during pregnancy is associated with high birthweight,  this finding is consistent with that of increased risk of breast cancer in women with higher birthweight.5 Sanderson and colleagues67 also assessed maternal coffee consumption and alcohol intake and reported no association with risk of breast cancer in daughters .
+Discussion .
+Our review of 57 studies suggests that increased birthweight , birth length , maternal age , and paternal age are positively associated with an increased risk of breast cancer , while maternal pre-eclampsia and twin membership are associated with a decreased risk of breast cancer .
+The association might be modified by menopausal status for some factors , and birthweight and birth length seem to be more closely associated with premenopausal breast cancer .
+Findings for several factors remain inconclusive and provide questions for further research .
+Neonatal jaundice was suggested to be associated with breast cancer , but current data are too sparse to draw any conclusion .
+Monozygotic twin membership and dizygotic twin membership seemed to be associated with different risks for developing breast cancer ( ie , no risk for monozygotic twins and modest increased risk for dizygotic twins ) , but the findings were inconsistent and the underlying mechanisms remain unclear .
+Although gestational age was not associated with risk of breast cancer overall , premenopausal and postmenopausal breast cancer might be affected differently by gestational age , although our findings for risk were not significant .
+Furthermore , the role of some of the most modifiable perinatal factors , such as maternal weight gain , maternal pre-pregnancy weight , and maternal diet , requires further study .
+One of the major challenges of the assessment of intrauterine factors and risk of chronic disease later in life is the collection of reliable data for the perinatal period .
+Some of the studiesespecially those from Scandinavian countriesused data from birth registries and birth records , which should keep misclassification at a minimum , and other studies used personal interviews or mailed questionnaires .
+Data from birth records have been used to validate self-reports .
+The underlying mechanisms of associations between perinatal factors and risk of breast cancer in later life still need to be elucidated , but if intrauterine concentrations of endogenous oestrogen and other pregnancy hormones are involved in these associations , separate assessment of breast cancer according to oestrogen receptor and progesterone receptor status might provide additional data .
+Such data are currently sparse .
+Although several risk factors for breast cancer have been identified , only a restricted number of breast cancers are attributable to recognised risk factors.100 Broadening the scope of research might yield additional important information on the aetiology and of ways to prevent breast cancer .
+Findings from this meta-analysis suggest that the entire lifecourse of a woman 's life , including her prenatal experience , might be relevant for her future breast-cancer risk .
+Research efforts might focus on ascertaining the most important windows of susceptibility to identify new opportunities for prevention .
+Future studies need to confirm the importance of early-life exposures for the risk of breast cancer and identify underlying mechanisms .
+Contributors .
+KM designed the study , sought funding , reviewed the report , and provided statistical advice .
+FX did the data analysis , reviewed published studies , and wrote the report .
+Conflicts of interest .
+The authors declared no conflicts of interest .
+Acknowledgments .
+Preparation of this report was supported by Susan G Komen for the Cure , as part of the Environmental Factors and Breast Cancer Science Reviews project led by Silent Spring Institute with collaborating investigators at Harvard Medical School , Roswell Park Cancer Institute , and University of Southern California .

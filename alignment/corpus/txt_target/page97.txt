@@ -1,0 +1,238 @@
+Breast-conservation therapy is the preferred management strategy for appropriately selected patients with ductal carcinoma in situ ( DCIS ) ( 1 ) and early-stage invasive breast cancer ( IBC ) ( 2 ) .
+Multiple randomized controlled trials established the importance of adjuvant breast radiotherapy ( RT ) after conservative surgery for DCIS ( 3 ) or IBC ( 4 ) .
+Conventional breast RT ( 2 ) and ( 5 ) is delivered to the whole ipsilateral breast through two tangential fields with the use of megavoltage photons , usually with wedges to improve dose homogeneity ( 6 ) .
+Conventional breast RT results in a moderate degree of acute skin toxicity in approximately one third to one half of patients .
+This usually is limited to brisk erythema or patchy moist desquamation of the breast , whereas more severe acute toxicity is exceedingly uncommon ( 7 ) and ( 8 ) .
+Late toxicity may include telangiectasias , fat necrosis , lymphedema , and skin fibrosis , but moderate or worse grade late toxicity is uncommon ( 9 ) .
+Increased frequency of both acute and late skin effects is associated with increased breast dose inhomogeneity and resultant hot spots ( 10 ) and ( 11 ) .
+With conventional breast RT , a significant portion of the breast tissue may receive 110% of the prescription dose , with potential hot spots of up to 120% ( 11 ) and ( 12 ) .
+Intensity-modulated RT ( IMRT ) was explored as a technique to improve breast dose homogeneity by decreasing hot spots and dose to normal tissues .
+IMRT is a treatment technique driven by computer-optimized planning that allows modulation of beam intensity within treatment fields to obtain highly conformal dose delivery .
+Breast IMRT is an area of active research , and in recent years , several publications showed feasibility , dosimetric superiority to conventional plans ( 13 ) , ( 14 ) and ( 15 ) , and decreased acute side effects with breast IMRT compared with conventional RT ( cRT ) ( 16 ) , ( 17 ) and ( 18 ) , with the potential for decreased late complications ( 19 ) , ( 20 ) and ( 21 ) .
+However , published long-term clinical outcomes for patients treated with breast IMRT have been sparse .
+At The Emory Clinic , Atlanta , GA , we began using IMRT in adjuvant breast RT in 1999 , using a forward planned treatment with two tangential fields with a combination of dynamic multileaf collimators ( DMLCs ) and enhanced dynamic wedges ( EDWs ) .
+In 2003 , we changed to a multibeam inverse planned IMRT technique using a simultaneous integrated boost to the resection cavity .
+We report clinical outcomes of patients treated with our initial IMRT technique used from 1999 - 2003 and a comparison cohort of patients treated during the same period using cRT with EDWs .
+Methods and Materials Patient evaluation .
+Treatment records of The Emory Clinic were evaluated to identify patients with Stages 0 - III breast cancer receiving adjuvant breast RT after conservative surgery between January 1999 and December 2003 .
+Men , patients with distant metastatic disease at presentation , and those treated after mastectomy were not included .
+Institutional review board approval was obtained for this retrospective analysis .
+Patients in the cRT cohort were treated at the same institution during the same period , both before and during the transition to breast IMRT .
+Breast IMRT was adopted in mid-1999 by one physician and by all physicians by the end of 2001 as IMRT treatment planning capacity increased .
+After being adopted by a physician , breast IMRT became the standard treatment for all their patients .
+In the cRT cohort , 29% were treated before the first institutional use of breast IMRT , whereas 6% received cRT after 2001 at the discretion of the attending radiation oncologist based on non - patient-related factors , including treatment planning capacity .
+All patients underwent standard staging evaluation after diagnosis .
+Surgical and pathological reports were reviewed to verify staging , which was standardized to the sixth edition of the American Joint Committee on Cancer ( 22 ) .
+Patients had routinely scheduled multidisciplinary follow-up with interval history and physical examinations and breast imaging according to nationally recognized schedules ( 1 ) and ( 2 ) .
+Surgery .
+Patients underwent conservative surgery according to the standard practice of the surgical oncologist .
+Re-excision for close or positive margins was performed in accordance with patient and surgeon preferences .
+Margins were categorized as positive if the pathology report noted the presence of tumor cells at the inked margin of the specimen , close if tumor cells were present within 0.2 cm of the inked margin , and negative if tumor cells were at least 0.2 cm from the inked margin .
+Chemotherapy .
+Patients at sufficient risk of distant metastasis were offered adjuvant chemotherapy , generally doxorubicin and cyclophosphamide ( AC ) , in accordance with consensus guidelines at the time ( 23 ) and ( 24 ) .
+Preoperative chemotherapy generally was offered to facilitate breast conservation in patients with tumors of a size or in a location that made breast-conserving surgery unlikely without a decrease in tumor size .
+For patients with clinically uninvolved lymph nodes , sentinel lymph node biopsy and / or axillary nodal dissection generally was performed before initiation of neoadjuvant chemotherapy .
+Radiation .
+Radiation therapy typically was initiated 4 weeks after completion of all surgery and chemotherapy .
+A computed tomography ( CT ) scan was obtained for treatment planning in all patients , with 0.25 cm slices from the midneck to several centimeters caudal to the breasts .
+Patients underwent scanning in the supine position with the ipsilateral arm abducted , using a T stabilization bar .
+For larger breasted women , a slant board generally was used at the discretion of the attending radiation oncologist .
+At the time of simulation , a radiopaque wire was placed to mark the tangential field borders .
+The superior and inferior field borders were placed 2 cm beyond clinically palpable breast tissue .
+The medial border was set in the midline of the sternum , and the lateral border , along the mid-axillary line .
+Radiopaque wire also was used to cover the surgical scar to assist in planning the boost .
+cRT .
+For cRT , medial and lateral tangential fields were created to encompass the entire breast following standard techniques .
+Field collimation was adjusted to follow the slope of the chest wall .
+Gantry angles were adjusted to make the deep tangential borders coplanar to eliminate divergence into the lung .
+The deep edges of the tangential beams passed through the medial and lateral borders set at simulation , and the cranial and caudal tangent field borders of the tangents were set to the cranial and caudal wire markers .
+Additional adjustments in collimator and gantry rotation were made as necessary to limit the volume of lung in the field .
+The anterior border of the tangents gave 2 cm of flash beyond the breast .
+When a supraclavicular field was prescribed , the match line was set at the level of the caudal edge of the sternoclavicular junction .
+Adjustments in the couch position for the tangential fields were made , and multileaf collimators were used to create superior tangential blocks at the match line to prevent divergence of the tangents into the supraclavicular field .
+To treat the supraclavicular field , an anterior half-beam blocked field was set at the match line and angled 10. This field was treated with 6-MV photons to a dose of 45 - 50 Gy in 1.8 - 2-Gy fractions , typically prescribed to a depth of 3 - 4 cm .
+Posterior axillary fields were rarely used , reserved for node-positive patients with an incomplete axillary dissection or gross extranodal disease .
+The ipsilateral internal mammary nodes were not electively treated .
+CadPlan treatment planning software ( Varian Medical Systems , Palo Alto , CA ) was used to plan a dose of 44 - 50.4 Gy to the tangential fields in standard fractionation of 1.8 - 2-Gy / fraction using photons of 6 MV , 18 MV , or mixed-beam energy .
+EDWs , typically with a wedge angle of 15 or 30 , were used for every patient to optimize dose homogeneity .
+The EDWs were used in both the medial and lateral tangent fields for nearly every patient .
+No correction for tissue inhomogeneity was made .
+A boost was used according to the treating physician 's preference .
+The target for the boost was the surgical cavity with a 2 cm margin , defined on the simulation CT and correlated with physical examination and location of the surgical scar .
+The boost was delivered with electrons of sufficient energy for the 90% isodose line to cover the depth of the cavity defined on CT , using an appositional technique .
+The boost dose was 10 - 20 Gy in 2 - 2.5-Gy fractions , for a cumulative total dose of 60 - 64 Gy .
+IMRT .
+For patients treated with IMRT , tangential fields identical to those described for breast cRT were used , except that the field collimation was rotated to allow for DMLC movement in the longitudinal plane of the patient .
+Using CadPlan software , a forward-planned IMRT treatment using a pencil-beam algorithm was developed to account for the irregular breast surface in the plane of the isocenter , generating fluence maps that were converted to leaf sequence files for delivery by DMLCs .
+The software accounted for contour irregularity in the longitudinal plane .
+In most patients , after generation of the IMRT plan , EDWs were used with identical tangential fields to deliver a portion of the dose ( 30% ) without IMRT compensation to further improve dose homogeneity .
+The combination of DMLCs and EDWs effectively considered surface contour irregularity in both the anteroposterior ( EDWs ) and craniocaudal ( DMLCs ) planes .
+As with cRT plans , no correction for tissue inhomogeneity was made .
+The same dose and fractionation schedules were used for IMRT plans as for cRT plans .
+The same treatment policy was applied , with rare use of a posterior axillary field and no elective treatment of internal mammary nodes .
+When a supraclavicular field was prescribed , the same technique was used as for cRT .
+A boost was prescribed according to the treating physician 's preference in the same manner used for patients treated with conventional tangents .
+Initial evaluation of this IMRT technique involved qualitative comparison of isodose distributions in multiple axial CT slices compared with the isodose distribution of conventional RT using tangents with EDWs only .
+Because the IMRT technique was judged superior to cRT , only one plan later was run on the majority of patients treated with IMRT .
+Assessment of toxicity .
+During treatment , acute toxicity was assessed by the physician at on-treatment checks at least weekly .
+Documentation of acute radiation toxicity was the focus of these weekly on-treatment notes , the final treatment summary , and the first follow-up visit , which occurred 1 month after completion of treatment .
+All these notes were reviewed for descriptions of patient-reported pain and physical examination findings , including skin erythema , dry or moist desquamation , and breast edema .
+Acute toxicity was retrospectively graded according to Radiation Therapy Oncology Group ( RTOG ) criteria based on the worst toxicity described in the interval from start of treatment to 4 weeks after completion ( 25 ) .
+Individual scoring of such toxicity components as erythema , desquamation , and edema was not performed .
+Separate note was made of any occurrence of breast cellulitis for which antibiotic therapy was prescribed .
+Table 1. .
+RTOG and CTC grading criteria for acute radiation dermatitis .
+RTOG acute radiation morbidity criteria for skin ( 25 ) NCI CTC Version 2 acute radiation dermatitis criteria ( 29 ) GradeDescriptionGradeDescription 0No change over baseline0None 1Follicular , faint , or dull erythema ; epilation ; dry desquamation ; decreased sweating1Faint erythema or dry desquamation 2Tender or bright erythema , patchy moist desquamation , moderate edema2Moderate to brisk erythema or a patchy moist desquamation , mostly confined to skin folds and creases ; moderate edema 3Confluent , moist desquamation other than skin folds , pitting edema3Confluent moist desquamation 1.5 cm diameter and not confined to skin folds ; pitting edema 4Ulceration , hemorrhage , or necrosis4Skin necrosis or ulceration of full thickness dermis ; may include bleeding not induced by minor trauma or abrasion 5Death5Death .
+Full-size table .
+Abbreviations : RTOG = Radiation Therapy Oncology Group ; NCI CTC = National Cancer Institute Common Toxicity Criteria .
+View Within Article .
+Patient charts also were reviewed for reported late toxicities potentially related to RT , including radiation pneumonitis , clinically appreciable fat necrosis , lymphedema , and the development of a second malignancy .
+Statistical analysis .
+Follow-up time was calculated from the onset of definitive therapy , either the date of first definitive surgery or the start date of neoadjuvant chemotherapy for those treated with preoperative chemotherapy .
+Only the site of first failure was considered for analysis , using one of the following categories : ipsilateral breast tumor recurrence ( IBTR ) , contralateral breast tumor recurrence ( CBTR ) , or distant metastasis ( DM ) .
+Overall survival ( OS ) , disease-specific survival ( DSS ) , and freedom from IBTR , CBTR , and DM were calculated by using the Kaplan-Meier method ( 26 ) .
+Comparisons between treatment groups were made using the log-rank test .
+Estimates are reported with their standard errors ( SEs ) .
+Patients with synchronous bilateral breast cancers were not scored as having CBTR or included in the number at risk of CBTR .
+Similarly , for patients with metachronous bilateral breast cancer , the later breast cancer was scored as CBTR , but not included in the number at risk of subsequent CBTR .
+Patients with synchronous or metachronous bilateral breast cancer were included only once in analyses of OS , DSS , freedom from DM , and second malignancy .
+A two-tailed Fisher 's exact test or chi-square test was used for comparison of categorical variables between treatment groups and for univariate analysis of variables associated with IBTR and DM , whereas the Mann-Whitney U test was used to test for differences between continuous variables .
+A value of p 0.05 was considered statistically significant .
+Statistical analysis was performed using Stata , version 9.2 , software ( StataCorp , College Park , TX ) .
+Results Patient characteristics .
+From 1999 to 2003 , a total of 245 breasts were treated in 240 patients : 121 with IMRT and 124 with cRT .
+Included in analysis were 4 patients with synchronous and 1 patient with metachronous bilateral breast cancers .
+Patient characteristics are listed in Table 2. During this period , evaluation of estrogen and progesterone receptor status was performed infrequently for patients with DCIS , and hormonal receptor status was known in only 3 of 46 patients with DCIS .
+In patients with DCIS , those treated using cRT more often received adjuvant hormonal therapy ( HT ) than those treated with IMRT ( 67% vs. 35% ; p = 0.008 ) .
+Otherwise , patient characteristics were well balanced between groups .
+Table 2. .
+Patient characteristics .
+IMRTcRT Patients with DCIS ( n = 34 ) ( n = 112 ) p Age ( y ) Median5455 Range23 - 8424 - 91 Premenopause18 ( 21 ) 28 ( 25 ) 0.5 Postmenopause69 ( 79 ) 84 ( 75 ) Breast Right42 ( 48 ) 50 ( 45 ) 0.67 Left45 ( 52 ) 62 ( 55 ) Stage I54 ( 62 ) 69 ( 62 ) 0.35 II31 ( 36 ) 36 ( 32 ) III2 ( 2 ) 7 ( 6 ) Grade 132 ( 37 ) 37 ( 33 ) 0.68 230 ( 34 ) 46 ( 41 ) 320 ( 23 ) 29 ( 26 ) Unknown5 ( 6 ) 0 ( 0 ) Estrogen receptor Positive68 ( 78 ) 88 ( 78 ) 1 Negative17 ( 20 ) 22 ( 20 ) Unknown2 ( 2 ) 2 ( 2 ) Progesterone receptor Positive52 ( 60 ) 59 ( 53 ) 0.38 Negative33 ( 38 ) 50 ( 45 ) Unknown2 ( 2 ) 3 ( 3 ) HER2 Positive31 ( 36 ) 44 ( 39 ) 0.45 Negative49 ( 56 ) 55 ( 49 ) Unknown7 ( 8 ) 13 ( 12 ) Lymphovascular invasion Positive14 ( 16 ) 23 ( 21 ) 0.46 Negative62 ( 71 ) 76 ( 68 ) Unknown11 ( 13 ) 13 ( 12 ) Margin Negative70 ( 80 ) 92 ( 82 ) 0.45 Close13 ( 15 ) 16 ( 14 ) Positive3 ( 3 ) 1 ( 1 ) Unknown1 ( 1 ) 3 ( 3 ) pLNs ( + ) 055 ( 63 ) 81 ( 72 ) 0.06 1 - 322 ( 25 ) 16 ( 14 ) 4+1 ( 1 ) 7 ( 6 ) No evaluation9 ( 10 ) 8 ( 7 ) ENE5 / 23 ( 22 ) 6 / 23 ( 26 ) 1 NA CTX10 ( 11 ) 15 ( 13 ) 0.83 pCR rate4 / 10 ( 40 ) 3 / 15 ( 20 ) 0.38 Adj CTX25 ( 29 ) 43 ( 38 ) 0.18 Adj HT Yes56 ( 64 ) 80 ( 71 ) 0.52 No26 ( 30 ) 30 ( 27 ) Unknown5 ( 16 ) 2 ( 2 ) Breast dose ( Gy ) Median5050 Range37 - 6844 - 50.4 Boost Yes79 ( 91 ) 105 ( 94 ) 0.40 No8 ( 9 ) 6 ( 5 ) Unknown0 ( 0 ) 1 ( 1 ) Total dose ( Gy ) Median6060 Range37 - 6845 - 66.6 Age ( y ) Median6150 Range33 - 8245 - 85 Premenopause10 ( 29 ) 4 ( 33 ) 1 Postmenopause24 ( 71 ) 8 ( 67 ) Breast Right16 ( 47 ) 6 ( 50 ) 1 Left18 ( 53 ) 6 ( 50 ) Tumor size ( cm ) Median0.70.8 Range0.1 - 2.20.1 - 2.3 Grade 15 ( 15 ) 1 ( 8 ) 0.41 214 ( 41 ) 3 ( 25 ) 315 ( 44 ) 8 ( 67 ) Necrosis present24 ( 71 ) 10 ( 83 ) 0.47 Margin Negative28 ( 82 ) 8 ( 67 ) 0.19 Close4 ( 12 ) 4 ( 33 ) Positive2 ( 6 ) 0 ( 0 ) Adj HT Yes12 ( 35 ) 8 ( 67 ) 0.008 No21 ( 62 ) 1 ( 8 ) Unknown1 ( 3 ) 3 ( 25 ) Breast dose ( Gy ) Median47.550 Range6 - 5245 - 50.4 Boost Yes29 ( 85 ) 9 ( 75 ) 0.41 No5 
+( 15 ) 3 ( 25 ) Total dose ( Gy ) Median62.560 Range6 - 6650 - 61.8 .
+Full-size table .
+Abbreviations : IMRT = intensity-modulated radiotherapy ; cRT = conventional radiotherapy ; IBC = invasive breast cancer ; DCIS = ductal carcinoma in situ ; HER2 = HER2 / neu gene amplification or protein overexpression ; pLNs ( + ) = number of pathologically involved lymph nodes ; no evaluation = no pathologic lymph node evaluation ; ENE = extranodal extension in involved lymph nodes ; NA CTX = neoadjuvant chemotherapy ; pCR rate = pathologic complete response to neoadjuvant chemotherapy ; Adj CTX = adjuvant chemotherapy ; Adj HT = adjuvant hormonal therapy .
+Values expressed as number ( percent ) unless noted otherwise .
+View Within Article .
+Chemotherapy .
+Of 199 patients with IBC , 13% received preoperative and 34% received adjuvant chemotherapy .
+There was no statistically significant difference in the use of chemotherapy between the cRT and IMRT patient groups .
+In both groups , the most common adjuvant chemotherapy regimen was four cycles of AC , and the second most common regimen was four cycles of AC followed by four cycles of a taxane .
+Among patients treated with preoperative chemotherapy , four cycles of AC was the most common regimen used in both groups .
+Radiation therapy .
+Median dose to the whole breast was 50 Gy , and median total dose was 60 Gy for both IMRT and cRT patient groups .
+Most patients received a boost to the tumor cavity ; there was no significant difference in the use of a boost between patients treated with IMRT or cRT ( 89% vs. 93% ; p = 0.38 ) .
+Follow-up .
+Median follow-up was 6.3 years ( range , 3.7 - 104 months ) for patients treated with IMRT and 7.5 years ( range , 4.9 - 112 months ) for those treated with cRT .
+Of patients alive at last follow-up , 43% had more than 7 years of follow-up ( 30% of patients treated with IMRT , 56% of patients treated with cRT ) .
+Fifty-three patients were lost to follow-up , representing , of patients alive at last follow-up , 20% of patients treated with IMRT and 27% of patients treated with cRT ( p = 0.27 ) .
+These patients were censored at last follow-up .
+Acute toxicity .
+Ninety-six percent of patients had sufficient data to permit grading of acute toxicity .
+The acute skin toxicity reported in patients treated with IMRT was Grade 0 in 1% , Grade 1 in 60% , and Grade 2 in 39% , with no case of Grade 3 dermatitis .
+For patients treated with cRT , there were no cases of Grade 0 dermatitis , 48% had Grade 1 , 50% had Grade 2 , and 2% had Grade 3 dermatitis .
+There were no cases of Grade 4 or greater acute toxicity in either treatment group .
+Use of IMRT was associated with a statistically significant decrease in acute skin toxicity RTOG Grade 2 or 3 compared with cRT ( 39% vs. 52% ; p = 0.047 ) .
+Breast cellulitis occurred in 2% of patients treated with IMRT and 4% treated with cRT ( p = 0.45 ) .
+Late toxicity , second malignancy .
+Radiation pneumonitis developed in 1% of those treated with IMRT and 2% of those treated with conventional RT ( p = 1 ) .
+Ipsilateral extremity lymphedema was not seen in patients treated with IMRT , but was described in 4% after cRT ( p = 0.06 ) .
+Some degree of clinically appreciable fat necrosis was noted in 2% of patients treated with cRT , but not in patients treated with IMRT ( p = 0.5 ) .
+One patient treated with cRT underwent mastectomy for extensive fat necrosis 3.5 years after RT .
+No instance of rib fracture was noted in any patient .
+Assessments of posttherapy breast cosmesis were insufficient for grading or comparison between treatment arms .
+The 7 year Kaplan-Meier rate of second malignancies , excluding nonmelanomatous skin cancers , was 3% 1.7% ( SE ) in patients treated with IMRT and 4% 2.0% in patients treated with cRT ( p = 0.84 ) .
+Survival , local and distant failure .
+Kaplan-Meier curves for patients with IBC are shown in Fig. 1. SEs are noted throughout the text .
+In patients with IBC , 7 year OS rates were 91% 4.0% for the cohort treated with IMRT and 91% 3.0% for the cohort treated with cRT ( p = 0.86 ) .
+The 7 year DSS rates were 97% 2.2% for patients treated with IMRT and 95% 2.4% for those treated with cRT ( p = 0.42 ) .
+The 7 year rates of freedom from IBTR were 95% 2.9% for IMRT and 90% 3.3% for cRT ( p = 0.36 ) .
+All ipsilateral recurrences were infiltrating cancers .
+At 7 years , rates of freedom from CBTR were 96% 2.7% for IMRT and 98% 1.6% for cRT ( p = 0.99 ) .
+Of the six instances of CBTR , five were infiltrating cancers and one was in situ .
+At 7 years , rates of freedom from DM were 95% 2.7% in those treated with IMRT and 88% 3.5% for those treated with cRT ( p = 0.18 ) .
+Full-size image ( 45K )
+Fig. 1. Kaplan-Meier curves for patients with invasive breast cancer ( IBC ) show ( A ) freedom from ipsilateral breast tumor recurrence ( IBTR ) and ( B ) freedom from contralateral breast tumor recurrence ( CBTR ) .
+The number of patients remaining at risk is reported at yearly intervals for both treatment groups .
+IMRT = intensity-modulated radiotherapy .
+View Within Article .
+Kaplan-Meier curves for patients with DCIS are shown in Fig. 2. For patients with DCIS , 7 year OS rates were 97% 3.2% for those treated with IMRT and 100% 0% for cRT ( p =0.55 ) .
+The 7 year rates for freedom from IBTR were 92% 5.4% for patients treated with IMRT and 81% 11.9% for cRT ( p = 0.29 ) .
+Two of four instances of IBTR were infiltrating cancers .
+At 7 years , rates of freedom from CBTR were 88% 6.9% for IMRT and 100% 0% for cRT ( p = 0.28 ) .
+All contralateral recurrences were infiltrating cancers .
+There was no instance of DM , and the DSS rate for all patients with DCIS was 100% .
+Full-size image ( 44K )
+Fig. 2. Kaplan-Meier curves for patients with ductal carcinoma in situ ( DCIS ) show ( A ) freedom from ipsilateral breast tumor recurrence ( IBRT ) and ( B ) freedom from contralateral breast tumor recurrence ( CBRT ) .
+The number of patients remaining at risk is reported at yearly intervals for both treatment groups .
+IMRT = intensity-modulated radiotherapy .
+View Within Article .
+Univariate analysis .
+Univariate analysis of multiple variables was performed for patients with IBC and DCIS .
+For patients with IBC , variables assessed were age , stage , grade , estrogen receptor status , progesterone receptor status , Her2 / neu status , lymphovascular invasion , qualitative margin ( negative , close , positive ) , number of positive lymph nodes , menopausal status , extranodal extension , use of preoperative chemotherapy , pathologic tumor response to preoperative chemotherapy , use of adjuvant chemotherapy , use of adjuvant HT , dose to the whole breast , boost dose , total dose , and RTOG grade of acute skin toxicity .
+For those with IBC , only negative progesterone receptor status ( p = 0.03 ) and use of adjuvant chemotherapy ( p = 0.02 ) were associated with the development of IBTR , whereas only increasing number of positive lymph nodes was associated with the development of DM ( p = 0.019 ) .
+In patients with IBC with acute skin toxicity of RTOG Grades 0 and 1 , the Kaplan-Meier 7 year risk of IBTR was 3% 2.1% , which was not significantly different from the 10.7% 4.0% estimated for those with toxicity of RTOG Grades 2 and 3 ( p = 0.13 ) .
+For patients with DCIS , variables assessed were age , tumor size , presence of necrosis , qualitative margin , menopausal status , use of adjuvant HT , breast dose , boost dose , total dose , and RTOG grade of acute skin toxicity .
+For patients with DCIS , only the presence of a close ( 0.2 cm ) or positive margin was associated with greater risk of IBTR ( p = 0.0013 ) .
+The Kaplan-Meier 7 year risk of IBTR in patients with DCIS with acute skin toxicity of RTOG Grades 0 and 1 was 9.3% 6.3% , which was not significantly different from the 12.6% 8.5% risk of IBTR estimated for those with Grades 2 and 3 toxicity ( p = 0.86 ) .
+Discussion Acute toxicity .
+Adjuvant breast RT is an established and efficacious treatment that generally is well tolerated .
+However , even moderate acute skin toxicity seen with breast RT negatively impacts on patients quality of life and provides impetus for improved techniques that may decrease toxicity ( 7 ) and ( 27 ) .
+One randomized trial and two retrospective analyses showed the ability of breast IMRT to decrease acute skin toxicity compared with cRT ( 16 ) , ( 17 ) and ( 18 ) .
+Our own experience confirms a significant decrease in acute toxicity of RTOG Grade 2 or 3 with the use of breast IMRT .
+As with many other early breast IMRT reports ( 12 ) , ( 13 ) , ( 14 ) and ( 21 ) , our technique used two tangential fields identical to those used for cRT ; therefore , the decrease in acute toxicity can be attributed to the use of IMRT rather than differences in target definition and beam geometry .
+The mechanism for decreased acute skin toxicity with breast IMRT likely is a combination of treatment planning and delivery factors .
+IMRT planning using similar tangential beams previously was shown by several investigators to improve dose homogeneity and decrease hot spots , especially in the inframammary fold ( 13 ) , ( 14 ) and ( 15 ) , whereas IMRT treatment delivery , especially with DMLCs , results in a modest decrease in the surface buildup dose ( 28 ) .
+Limitations in the planning software used during the period of this report preclude rigorous quantitative dosimetric comparison between cRT and our IMRT planning technique .
+Previous studies evaluating acute toxicity from breast RT used a variety of scoring systems , including the RTOG criteria used in our study and the National Cancer Institute Common Toxicity Criteria ( CTC ) for radiation dermatitis ( 29 ) .
+For radiation dermatitis , there is little substantive difference between these two scoring systems , both listed in Table 1. Limitations of these scoring systems in elucidating clinically meaningful differences in toxicity was discussed by Freedman et al. ( 17 ) , but their continued use facilitates comparisons among studies .
+We used the RTOG criteria for acute skin reaction , which , in addition to physical examination findings , incorporates a component of patient-reported pain , scoring tender erythema as Grade 2. This potentially results in more Grade 2 events in patients for whom physical examination findings would otherwise be coded Grade 1. By incorporating pain , the RTOG criteria arguably better reflect the severity of radiation dermatitis in a single assessment , whereas the CTC evaluates pain and skin reaction separately .
+The magnitude of absolute decrease in moderate or worse acute skin toxicity with IMRT ranged from 13% in our series to 44% reported by Harsolia et al. ( 18 ) .
+In their consecutive cohort study , 79 patients were treated with cRT with wedges and 93 patients were treated with IMRT .
+Using CTC Version 2 , acute radiation dermatitis of Grade 2 or higher significantly decreased from 85% with cRT to 41% with IMRT ( p 0.001 ) .
+The frequency of Grade 2 or higher toxicity in their cRT cohort was exceptionally high and may be related to the use of two-dimensional planning in those patients .
+In our series , all cRT patients underwent CT simulation and three-dimensional treatment planning .
+The decrease in acute toxicity with IMRT seen in our analysis is closer to the 17% absolute decrease in moist desquamation reported by other investigators ( 16 ) and ( 17 ) .
+Late toxicity .
+There were no differences in the reported occurrence of radiation pneumonitis , lymphedema , or fat necrosis between treatment arms .
+Our analysis did not find sufficiently descriptive or consistent assessment of late cosmesis to make a further comparison between treatment arms .
+Retrospective toxicity scoring is a recognized limitation of this study .
+Data were available for nearly every patient to permit scoring of several important categories of both acute and late toxicity , including radiation dermatitis , cellulitis , lymphedema , pneumonitis , and fat necrosis , because the presence or absence of these were routinely noted in follow-up .
+However , documentation often did not consistently describe other possible side effects of treatment , including overall cosmesis , chronic breast pain , hyperpigmentation , and fibrosis , precluding a confident assessment of the frequency and severity of these effects .
+It is assumed that decreases in late toxicity will parallel the decreases in acute toxicity achieved with IMRT .
+Results from a randomized controlled trial comparing IMRT and cRT for moderate- to large-breasted women showed a significant decrease in late changes in breast appearance assessed by using serial photography through 5 years of follow-up .
+Change was noted in 40% treated with IMRT vs. 58% treated with cRT ( p = 0.008 ) , and there was a significant association between the development of late changes and increased dose inhomogeneity ( 19 ) .
+Clinical outcomes .
+In the absence of altered fractionation , dose escalation , or other therapeutic changes , the use of IMRT by itself would not be expected to improve local control outcomes for patients with adjuvant breast RT .
+However , the possibility of some unforeseen decrement in outcome with IMRT cannot be ignored .
+IMRT has unique potential pitfalls , including greater difficulty verifying treatment delivery , potentially increased effects of interfraction and intrafraction motion and setup error , and theoretical concerns for increased risk of radiation-induced malignancy ( 30 ) .
+The use of DMLCs and other IMRT treatment delivery techniques results in a modest decrease in surface buildup dose compared with conventional fields ( 28 ) .
+It is possible that the decreased dose to superficial subcutaneous breast tissue could adversely affect local control , as others have theorized ( 18 ) .
+This study reports clinical outcomes for both the largest number and the longest follow-up to date of patients treated with breast IMRT and found no significant difference in OS or DSS and no difference in rates of IBTR , CBTR , DM , or second malignancy between patients treated with IMRT and cRT .
+There was no evidence that patients with less severe acute skin toxicity experienced a greater rate of local failure .
+It should be noted that the absence of a difference in this study is not proof of treatment equivalence .
+Because the two techniques share identical treatment fields and used the same dose and fractionation , any difference in local control would likely be less than the power of this study to detect .
+Similarly , if IMRT increases the risk of second malignancy or contralateral breast cancer , such an increase would be expected to be small and require a much larger study with longer follow-up to potentially detect .
+However , with few randomized studies of breast IMRT and conventional treatments , we must look to maturing experiences with IMRT to find long-term clinical outcomes and evaluate for possible untoward effects .
+Future directions .
+One advantage of the breast IMRT technique described here is the preservation of conventional treatment fields and volumes , which decreases but does not eliminate the possibility of a difference in treatment efficacy .
+Newer breast IMRT techniques , including our current institutional technique , often use CT-based volume contours , which show considerable variability among individuals and institutions ( 31 ) .
+Our early IMRT technique was designed to improve breast dose homogeneity , but made no direct contribution to normal tissue avoidance because of limitations with the treatment planning software .
+Using current software , such relatively simple breast IMRT techniques as this can also incorporate normal tissue avoidance .
+A breast IMRT technique similar to our initial technique was shown to achieve homogenous target coverage and equivalent or better normal tissue sparing in one third the planning time of more complicated IMRT techniques ( 32 ) .
+Advantages of more sophisticated breast IMRT techniques include superior dosimetry when inclusion of internal mammary nodes is desired and the ability to shorten the treatment course with delivery of a simultaneous integrated tumor bed boost or further hypofractionation ( 33 ) , ( 34 ) , ( 35 ) , ( 36 ) and ( 37 ) .
+These breast IMRT techniques offer the possibility of more convenient and even better tolerated treatment with a lower risk of late toxicity .
+However , it remains to be seen whether such changes in target delineation , fractionation , or both will affect long-term outcomes for patients with adjuvant breast RT .
+Long-term follow-up of our own initial breast IMRT technique found no difference in clinical outcomes compared with a cohort treated with cRT .
+By improving the therapeutic ratio , breast IMRT may remove many existing barriers to proper use of adjuvant breast RT without compromising the fundamental principles of whole-breast irradiation .
+Conclusions .
+Patients treated with forward-planned tangential breast IMRT using DMLCs and EDWs experienced a decrease in significant acute skin toxicity , and long-term follow-up shows excellent outcomes , with OS , DSS , IBTR , CBTR , DM , and second malignancy rates similar to those in a contemporaneous cohort treated with cRT .
+In the absence of randomized data , long-term follow-up of patients treated with newer breast IMRT techniques is indicated .
+Uncited Table .
+Table 3. .
+Table 3. .
+Toxicity .
+IMRTConventionalp Acute ( % ) Dermatitis RTOG Grade 0 - 161480.047 Dermatitis RTOG Grade 2 - 339520.047 Breast cellulitis240.45 Late ( % ) Radiation pneumonitis121.0 Lymphedema040.06 Fat necrosis020.5 Second malignancy340.84 .
+Full-size table .
+Abbreviations : IMRT = intensity-modulated radiotherapy ; RTOG = Radiation Therapy Oncology Group .
+View Within Articl .

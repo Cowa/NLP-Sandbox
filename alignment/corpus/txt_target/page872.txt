@@ -1,0 +1,410 @@
+Drug efflux transporters of the ATP binding cassette ( ABC ) family of proteins play a critical role in determining the pharmacokinetic and pharmacodynamic properties of drugs , in particular those for the treatment of cancers.  Multidrug resistance ( MDR ) in which tumor cells become resistant to different anti-cancer drugs has been attributed in part to the over-expression of efflux transporters such as P-glycoprotein ( Pgp , ABCB1 ) , MRP1 ( ABCC1 ) and breast cancer resistance protein ( BCRP , ABCG2 ) .
+These proteins actively efflux anti-cancer drugs out of the target cells and thus limit their therapeutic efficacies .
+Several compounds have been evaluated as inhibitors of ABC transporters in recent years.  It is anticipated that co-administration of these inhibitors and anti-cancer drugs will improve the oral bioavailability and tumor-targeting of the anti-cancer agent .
+Recently , a proof-of-concept study showed that the co-administration of an anti-cancer drug topotecan with elacridar , an inhibitor of Pgp and BCRP , significantly increased the bioavailability of topotecan and reduced inter-patient variability.5 Recent transport inhibitors like elacridar and biricodar inhibited multiple ABC transporters .
+Since most cells express a host of transporters and not just a specific member , dual or broad spectrum inhibitors may offer advantages not found in compounds that target a single transport protein .
+On the other hand , broad spectrum inhibitors may give rise to more side effects.6 Hence , the relative merits of specific versus multiple inhibitors are still widely debated.1 .
+Flavonoids and its derivatives have received considerable attention as ABC transporter inhibitors.  The flavonol quercetin potentiated the action of doxorubicin on a multidrug resistant cell line8 and this led to the proposal that it might be an inhibitor of Pgp-ATPase.9 Growing interest in the potential of flavonoids as Pgp inhibitors led to the synthesis of flavonoid derivatives with N-benzylpiperazine side chains10 and C-isoprenyl substituents,11 as well as investigations on flavonoid subfamilies like aurones  and chalcones.  More recently , several flavonoids were found to be inhibitors of the breast cancer resistance protein BCRP.  A comparison of the structural requirements for flavonoid - BCRP interactions showed that they were similar but not identical to those established for flavonoid - Pgp interactions.19 Boumendjel and co-workers proposed that active flavonoids had a strong affinity for the nucleoside binding domain of Pgp because their chromenone ring bore some similarity to the adenine moiety of ATP .
+7 But their efforts to enhance the resemblance to adenine by replacing the intracyclic oxygen of the chromenone ring with nitrogen resulted in compounds with diminished activity.7 It may be that the nitrogen atom in the resulting compounds was not extensively protonated at physiological pH .
+The importance of a cationic centre like a protonated tertiary amino function had been emphasized in several structure activity relationship ( SAR ) studies. 
+In this investigation , several chalcones with basic functionalities were evaluated as inhibitors of Pgp and BCRP .
+Chalcones are bioprecursors of flavonoids and have been associated with Pgp inhibitory activity.  One chalcone was reported to inhibit BCRP as well .
+19 Lipophilicity of chalcones is commonly cited as an important parameter for Pgp inhibitory activity.  In comparison , little is known of the inhibitory potential of chalcones with cationic functionalities , in spite of the acknowledged importance of this motif for activity .
+The structural requirements for BCRP inhibitory activity have received even less attention .
+Thus , our objective is to assess how cationic functionalities in the chalcone template will affect the ability of these compounds to inhibit Pgp and BCRP and to show if different structural requirements are required for the inhibition of these functionally related proteins .
+To achieve these objectives , a library of chalcones with basic functionalities were evaluated for the inhibition of Pgp by the in vitro calcein-AM assay carried out on Mardin - Darby canine kidney ( MDCK ) cells that were transfected with human MDR1 cDNA .
+Compounds found to have promising inhibitory activities were further evaluated for their abilities to increase doxorubicin accumulation in a human breast cancer cell line ( MCF-7 ) selected for over-expression of the Pgp protein .
+Finally , the same compounds were tested for BCRP inhibition by the mitoxantrone accumulation assay carried out on MCF-7 cells selected for over-expression of BCRP .
+2. Results2.1 .
+Chalcones tested for inhibitory activities .
+The synthesis of the library of chalcones has been described in an earlier report.  Briefly , their synthesis was achieved by the base-catalyzed Claisen - Schmidt condensation of appropriately substituted benzaldehydes and acetophenones .
+Compounds were characterized and purified to 95% purity ( confirmed by HPLC analysis ) for biological testing .
+The structures of the library members are given in Table 1. Except for compound 13 , the other compounds are arranged in Groups ( 1 - 7 and 10 ) based on the substitution pattern on ring A. Compound 13 and members in Group 5 have no basic functionalities on ring A , unlike the compounds in the other groups .
+For some compounds , ring B is substituted with a basic group ( 4-methylpiperazin-1-yl ) or is replaced by the basic pyridine ring .
+Chalcones with basic groups on either one ( ring A or B , monobasic chalcone ) or both rings ( dibasic chalcones ) are represented in this library .
+Table 1. .
+Structures of chalcones investigated for inhibition of Pgp and BCRP efflux activities .
+CompoundaRing AbR1 1 - 120Group 14 pyridinylc 1 - 1213 pyridinylc 1 - 1222 pyridinylc 1 - 1234-MPd 2 - 124Group 24-MPd 3 - 100Group 32,4- ( OCH3 ) 2 3 - 1012-Cl 3 - 1024-Cl 4 - 105Group 44-Cl 4 - 106H 4 - 1072,4- ( OCH3 ) 2 5 - 14Group 54-Cl 5 - 184-CF3 5 - 192,4- ( OCH3 ) 2 5 - 1134-MPd 6 - 130Group 62-Cl 6 - 131H 6 - 1324-Cl 6 - 1334 pyridinylc 6 - 1344-MPd 7 - 140Group 72-Cl 7 - 142H 7 - 1434-MPd 10 - 10Group 10H 132 , 3,4- ( OCH3 ) 3 phenyl2 , 4- ( OCH3 ) 2
+Full-size table .
+a Syntheses of compounds are described in Refs.  .
+b Groups have the following substituents on ring A :
+Full-size image ( 26K )
+c Pyridine was substituted in place of ring B. .
+d 4-MP = 4- ( 4-Methylpiperazin-1-yl ) .
+View Within Article .
+2.2. Effects on calcein-AM uptake in MDCKII / MDR1 cells .
+Calcein acetoxymethyl ester ( calcein-AM ) is a substrate of Pgp .
+It is non-fluorescent , extremely lipid soluble and gains rapid entry into cells .
+Once in the cell , calcein-AM is hydrolyzed by endogenous esterases to give the hydrophilic and intensely fluorescent calcein , which is not a substrate of Pgp and is thus retained in the cytosol .
+Cells expressing high levels of Pgp rapidly extrude non-fluorescent calcein-AM from the plasma membrane , leading to reduced accumulation of fluorescent calcein in the cytosol.25 On the other hand , cells that do not over-express Pgp accumulate high levels of fluorescent calcein .
+In this way , the ability of a compound to inhibit Pgp activity can be assessed by measuring the increase in intracellular calcein fluorescence when incubated with a Pgp over-expressing cell line as compared to the parental , non-over-expressing cell line .
+The two cell lines used in this assay were the parental MDCKII / WT and its transfected clone MDCKII / MDR1 which expressed higher levels of Pgp .
+The expression of Pgp in these cell lines wes determined by Western blotting .
+Constitutive levels of Pgp were detected in the parental cell line but a stronger band was observed in the MDCKII / MDR1 cells for the same protein load .
+Thus , MDCKII / MDR1 cells had higher levels of Pgp and would accumulate less calcein-AM than the parental cells .
+Full-size image ( 5K )
+Figure 1. Western blot analyses of Pgp expression in MDCKII / WT and MDCKII / MDR1 cells .
+The protein loading for each sample was 40 g as determined by protein assay .
+Actin was used as positive control .
+View Within Article .
+Figure 2 shows the output from a representative assay in which calcein-AM accumulation was concurrently monitored in MDCKII / WT cells and MDCKII / MDR1 cells over a period of 40 min .
+Linear increases in fluorescence were noted over this time period .
+A faster rate of increase was observed for the parental MDCKII / WT cells ( average of 8.3 fluorescent units / min from all runs ) as compared to the transfected MDCKII / MDR1 cells ( average of 1.5 fluorescent units / min from all runs ) , which was in keeping with the over-expression of Pgp in the transfected cells .
+Two known Pgp inhibitors , verapamil and cyclosporin A , were used as positive controls for both cell lines .
+Both inhibitors increased calcein-AM accumulation in the two cell lines , but in general , greater increases were observed in the transfected cell line compared to the parental cell line .
+These control determinations were routinely carried out in each 96 well plate , along with the test compounds , which for screening purposes , were tested at a fixed concentration of 10 M. The effect of the test compound on the transfected cell line was monitored over 40 min and two parameters were determined from the plot : ( i ) % accumulation of calcein-AM after 40 min using Eq .
+1 , and ( ii ) the rate of uptake over the 40 min time interval .
+Results are given in Table 2. These two parameters were found to be significantly correlated to each other ( Pearson correlation coefficient r = 0.848 , p 0.05 , n = 25 ) .
+( 1 )
+Only three compounds ( 6 - 130 , 6 - 131 , 6 - 132 ) were found to increase calcein-AM accumulation to a significantly greater degree than verapamil .
+Two of these compounds ( 6 - 130 and 6 - 131 ) were further investigated for their concentration dependent effects on the accumulation process , and their ability to increase doxorubicin ( DOX ) levels in human breast cancer cells ( MCF-7 ) selected for over-expression of Pgp .
+They were also tested for inhibition of BCRP as described in the following sections .
+Compound 6 - 132 was not included in spite of its good activity because it is structurally similar to the other two compounds .
+Instead , we included 3 - 100 which is comparable to verapamil in terms of ability to accumulate calcein-AM , as one of the compounds for further investigation .
+Ring A of 3 - 100 has a basic ring only and no methoxy group .
+Thus it is different from the other compounds and it would be of interest to see if this difference affects activity .
+Full-size image ( 24K )
+Figure 2. Calcein-AM accumulation in MDCKII / WT and MDCKII / MDR1 cells over 40 min with or without the presence of cyclosporin A ( CSA ) and verapamil ( VER ) .
+View Within Article .
+Table 2. .
+Effects of test compounds on % calcein-AM accumulation in MDCKII / MDR1 cells and their ClogP values .
+Compound% Calcein accumulationaRate of calcein-AM uptakebClogPc 1 - 1201171.742.45 1 - 1211702.482.45 1 - 1221642.962.45 1 - 1231020.983.85 2 - 1241181.533.78 3 - 100216 ( 13 ) 3.96 ( 0.55 ) 3.39 3 - 1011392.114.09 3 - 1021351.964.09 4 - 1051031.345.49 4 - 1061121.664.77 4 - 107178 ( 25 ) e3.514.78 5 - 14101 ( 8 ) 0.91 ( 0.11 ) 4.58 5 - 18103 ( 4 ) 1.054.75 5 - 19172 ( 10 ) e2.923.88 5 - 113159 ( 16 ) 2.603.77 6 - 130280 ( 25 ) d5.32 ( 0.97 ) 5.36 6 - 131256 ( 14 ) d4.43 ( 0.71 ) 4.65 6 - 132247 ( 23 ) d4.39 ( 0.49 ) 5.36 6 - 133151 ( 6 ) 2.26 ( 0.09 ) 3.15 6 - 1341201.40 ( 0.12 ) 4.55 7 - 140222 ( 45 ) 4.26 ( 1.38 ) 4.56 7 - 142176 ( 31 ) e3.04 ( 0.87 ) 3.84 7 - 143107 ( 2 ) 1.163.74 10 - 10178 ( 32 ) 1.90 ( 0.91 ) 5.03 13174 ( 23 ) e3.413.13 Verapamil188 ( 18 ) 3.34 ( 0.46 ) 4.47 Cyclosporin A437 ( 57 ) 9.68 ( 0.71 ) 14.57 .
+Full-size table .
+a Compounds were tested at 10 M. % Calcein-AM accumulation = [ FMDCK / MDR1 + test compound/FMDCK / MDR1 ] 100 , where F is fluorescence of calcein at 40th minute .
+Values are mean of 2 or more separate determinations .
+SD in brackets for n 3 determinations .
+b Rate of uptake was assessed from the plot of calcein fluorescence versus time .
+Values are means SD , with SD given for 3 determinations .
+c ClogP was determined from Sybyl 7.0 ( Tripos Inc. , St. Louis , MO ) .23 .
+d Significantly different from verapamil , ANOVA , 1 way , post-hoc Tukey ( Origin 7.5 , OriginLab , MA ) .
+e No significant difference in uptake in calcein-AM among the indicated compounds ( 4 - 107 , 5 - 19 , 7 - 142 , 13 ) , ANOVA , 1 way , post-hoc Tukey ( Origin 7.5 , OriginLab , MA ) .
+View Within Article .
+2.3. Concentration dependent effect of selected compounds on calcein-AM accumulation .
+Figure 3 shows the effect of different concentrations of promising compounds ( 3 - 100 , 6 - 130 , and 6 - 131 ) on the accumulation of calcein-AM .
+The latter is expressed using Eq .
+2 , which measures the extent to which the test compound increases calcein-AM uptake in the transfected cell line , compared to the maximum increase in uptake that can be expected from the assay system .
+( 2 )
+The denominator ( FMDCKII / WT without drug FMDCKII / MDR1 without drug ) was determined on the parental and transfected cell lines and represented the maximum difference ( 100% ) in calcein fluorescence ( F ) under the prevailing experimental conditions .
+The numerator represented the increase in calcein fluorescence in MDCKII / MDR1 cells due to the inhibitory effect of the test compound .
+Measurements were made at the 40th minute .
+Full-size image ( 22K )
+Figure 3. % Increase in calcein-AM accumulation in MDCKII / MDR1 cells at the 40th minute in the presence of test compounds .
+View Within Article .
+Figure 3 shows fairly linear increases in fluorescence with increasing concentrations of compounds 3 - 100 , 6 - 130 , and 6 - 131 .
+The sustained rise in fluorescence associated with compound 6 - 130 ( 100% at 50 M ) suggests that it is more potent than 6 - 131 and 3 - 100 .
+Two less active compounds ( 4 - 107 , 7 - 142 ) were included for comparison and they showed gradual increases with concentration .
+2.4. Effect of compounds 3 - 100 , 6 - 130 , and 6 - 131 on the accumulation of doxorubicin in MCF-7 cells that over-expressed Pgp ( MCF-7 / Adr )
+The cell line MCF-7 / Adr was selected for over-expression of Pgp by continuous exposure to doxorubicin .
+Western blot analyses confirmed the presence of Pgp , but not BCRP in this cell line .
+The parental cell line had no detectable levels of Pgp and BCRP .
+These results served to confirm the appropriateness of these cell lines as models to assess the effects of the compounds on the Pgp transporter .
+Full-size image ( 7K )
+Figure 4. Western blot analyses of Pgp and BCRP expression in MCF-7 / WT , MCF-7 / Adr , and MCF-7 / MX cells .
+The protein loading for each sample was 20 g as determined by protein assay .
+Actin was used as positive control .
+View Within Article .
+In Section 2.2 , the compounds were tested at 10 M for their effects on calcein-AM uptake in MDCKII / MDR1 cells .
+Since a different cell line ( MCF-7 / Adr ) and reporter molecule ( DOX instead of calcein-AM ) were used in this section , a different concentration may be required .
+Hence , we determined the anti-proliferative IC50 values of the test compounds and doxorubicin , to arrive at the concentration to be used .
+DOX is a substrate of Pgp , and its IC50 on the MCF-7 / Adr cells was approximately 150 fold higher ( p 0.01 ) than its IC50 on the parental cell line .
+On the other hand , the IC50 values of the test compounds on the two cell lines did not differ significantly , implying that they were not likely to be substrates of Pgp .
+Based on the IC50 determinations , a low concentration of 1 M was used in the subsequent experiments .
+Full-size image ( 42K )
+Figure 5. ( a ) IC50 of test compounds on MCF-7 / Adr and MCF-7 / WT. ( b ) Uptake of doxorubicin in MCF-7 / Adr and MCF-7 / WT cells in presence of test compounds at 1 M : 3 - 100 , 6 - 130 , 6 - 131 , verapamil ( VER ) , cyclosporin A ( CSA ) .
+CTR , control cells exposed to DOX in absence of test compound. ( a ) Significant difference ( p 0.01 ) between IC50 of DOX in MCF-7 / WT and MCF-7 / Adr cells ( One-way ANOVA followed by Tukey ) .
+IC50 of test compounds on the two cell lines was not found to differ significantly. ( b ) Significant difference in uptake of DOX in MCF-7 / Adr cells treated with test compound , as compared to untreated control ( CTR ) MCF-7 / Adr cells ( One-way ANOVA followed by Tukey ) .
+Bars represent mean SD for 3 determinations .
+View Within Article .
+The uptake of DOX into cells was readily monitored by measuring its intrinsic fluorescence in the intracellular compartments .
+Using a calibration curve , the level of fluorescence was correlated to the amount of DOX taken up into the cells .
+As shown in Figure 5b , about five times more doxorubicin was accumulated in the parental MCF-7 / WT cells than in MCF-7 / Adr cells .
+When the cells were pre-incubated with cyclosporin A or verapamil ( 1 M ) for 1 h , and then exposed to DOX for another hour , uptake of DOX increased significantly in the MCF-7 / Adr cells and was almost comparable to levels in the parental cells .
+Similar observations were made for cells pre-incubated with test compounds 3 - 100 , 6 - 130 , and 6 - 131 tested at 1 M. These results further confirmed the Pgp inhibitory properties of the chalcones .
+2.5. Effect of compounds 3 - 100 , 6 - 130 , and 6 - 131 on the accumulation of mitoxantrone ( MX ) in mitoxantrone resistant MCF-7 cells ( MCF-7 / MX )
+MCF-7 / MX cells were selected for over-expression of BCRP by continuous exposure to mitoxantrone .
+Western blot analysis confirmed the BCRP expressing status of MCF-7 / MX .
+No detectable level of Pgp was observed in this cell line .
+As stated earlier , neither Pgp nor BCRP was detected in the parental cell line .
+Mitoxantrone ( MX ) is a substrate of BCRP .
+Its cellular accumulation was determined by a semi-quantitative method involving flow cytometry using a fluorescence-activated cell sorter .
+In a typical experiment , the following were monitored : ( i ) autofluorescence of the MCF-7 / WT cells ( curve D ) , ( ii ) MX fluorescence in MCF-7 or MCF-7 / MX cells , exposed to MX ( curves A and B , respectively ) , ( iii ) MX fluorescence in MCF-7 / MX cells , in the presence of the BCRP inhibitor ( fumitremogin , FTC ) which was used as a positive control ( curve C ) , and ( iv ) similar to ( iii ) , but in the presence of test compound ( not depicted ) .
+Full-size image ( 24K )
+Figure 6. Flow cytometry analysis of MX in MCF-7 / WT and MCF-7 / MX cells : ( A ) MCF-7 / WT + MX ; ( B ) MCF-7 / MX + MX ; ( C ) MCF-7 / MX + MX + FTC 10 M ; ( D ) MCF-7 / WT .
+R2 is the vertical marker and area to the right of it is defined as the % area of defined region .
+View Within Article .
+As shown in Figure 6 , a vertical marker was arbitrarily set on the autofluorescence curve of MCF-7 / WT cells ( curve D ) in the FACS plot .
+The marker was adjusted so that the area to the right of it was 5% .
+This area is referred to as the area of defined region .
+The parental cells ( MCF-7 / WT ) accumulated more MX than MCF7 / MX cells , resulting in a stronger fluorescent signal , and thus a larger area of defined region .
+This is shown for curves A and C. FTC caused more MX accumulation in MCF-7 / MX cells ( curve C ) and this caused a right hand shift in the position of the fluorescent peak compared to curve B. .
+Table 3 lists the % area of the defined region for the accumulation of MX by MCF-7 / MX cells in the presence of compounds 3 - 100 , 6 - 130 , 6 - 131 , and 5 - 14. The data were analyzed for significant difference from the control untreated MCF-7 / MX cells by 1 way ANOVA followed by post-hoc Tukey .
+No statistical difference was observed for compounds 6 - 130 and 6 - 131 .
+A marginally greater uptake was detected for 3 - 100 compared to the control ( p = 0.058 ) .
+Only the non-basic chalcone 5 - 14 and FTC caused significant increases in MX accumulation compared to control untreated cells ( p 0.05 ) .
+The chalcone 5 - 14 increased accumulation to 348% of the control , as compared to 275% for FTC .
+Table 3. .
+Accumulation of mitoxantrone ( MX ) in MCF-7 / MX cells in the presence of test compounds .
+Cell line + test compoundaArea of defined region ( % ) b% Accumulation of mitoxantronec MCF-7 / WT ( no MX ) 2.47 0.7416.1 MCF-7 / WT + MX67.47 15.64439.2 MCF-7 / MX + MX15.36 1.78100 MCF-7 / MX + MX + 3 - 10028.94 5.80188.4 MCF-7 / MX + MX + 6 - 13021.00 6.29136.7 MCF-7 / MX + MX + 6 - 13118.12 5.27118.0 MCF-7 / MX + MX + 5 - 1453.54 9.96348.6d MCF-7 / MX + MX + FTC42.16274.5d .
+Full-size table .
+a Concentrations used were MX 3 M ; test compound 5 M ; FTC 10 M. .
+b The area of defined region is that part of the curve on the right of the vertical marker on the autofluorescence curve of MCF-7 / WT cells ( no MX ) .
+Values are mean SD for n = 4 , except for FTC ( n = 2 ) .
+c Given by Eq .
+3 : .
+d MX uptake in presence of test compound was significantly different from uptake in untreated MCF-7 / MX cells ( p 0.05 ) when tested by ANOVA , 1 way , post-hoc Tukey ( Origin 7.5 , OriginLab , MA ) .
+View Within Article .
+3. Discussion3.1 .
+Pgp inhibitory properties of the chalcone library .
+Of the chalcones investigated for enhancing calcein-AM accumulation , only three compounds ( 6 - 130 , 6 - 131 , 6 - 132 ) significantly increased calcein-AM uptake to a greater degree than the known inhibitor verapamil .
+These compounds belonged to Group 6 in which ring A was substituted with two methoxy groups and a 1-ethylpiperidin-4-yl ring .
+Since there were also less active compounds ( 6 - 133 , 6 - 134 ) in Group 6 , the presence of this ring A motif per se did not ensure good inhibitory activity .
+Both 6 - 133 and 6 - 134 had basic substituents ( 4-methylpiperazin-1-yl or pyridine in place of phenyl ) on ring B. A check on other compounds in Table 2 showed that having basic groups on ring B consistently led to poor activity irrespective of the substitution on ring A. On the other hand , the role of the basic functionality on ring A was less clear-cut .
+The present findings showed that it was a necessary , but not sufficient , feature for Pgp inhibitory activity .
+For example , there were more active compounds in Groups 6 and 7 than Groups 3 and 4 , although they were all basic chalcones .
+In addition , non-basic chalcones like compounds 5 - 19 and 13 had uptake levels that were not significantly different from basic chalcones like 4 - 107 and 7 - 142 .
+To have a better understanding of the differences exhibited in the library , we considered the lipophilicity of these compounds since this property has been widely cited as an important requirement for Pgp inhibitory activity.  The Clog P values of the compounds were determined in silico and the correlation between ClogP and rates of uptake was assessed .
+We found no significant correlation ( Pearson correlation r = 0.101 , p 0.05 , n = 25 ) but noted that compounds with basic groups on both rings were among the least lipophilic in their respective Groups , which may account in part for their poor Pgp inhibitory activities .
+We also considered a proposal by Seelig28 that Pgp inhibitors were characterized by electron donor ( hydrogen bond acceptor ) groups that were separated by defined distances , namely 0.25 nm ( 0.03 , Type I ) or 0.46 nm ( 0.06 , Type II ) .
+In addition , compounds with a larger number of these Type I and II recognition patterns were generally associated with greater inhibitory potencies .
+The compounds were examined for the presence of these recognition patterns and two Type II recognition patterns in ring A of Groups 1 , 2 , 6 , and 7 were found .
+These involved the 2,4 dimethoxy groups ( 0.48 nm between the oxygen atoms ) and the carbonyl oxygen and 2 methoxy oxygen ( 0.39 - 0.41 nm ) .
+The nitrogen atoms in the piperidine or piperazine rings are not electron donors because they are protonated at pH 7.4 or their electrons are delocalized into the adjoining aromatic ring A. No Type I or II recognition pattern was found in Groups 3 and 4 , except for compounds 3 - 100 and 4 - 107 which had 2,4 dimethoxy groups on ring B. Coincidentally or otherwise , both compounds had the fastest rates of calcein-AM uptake in their respective groups .
+Compounds 13 and 5 - 19 also illustrated the importance of the Type II recognition pattern .
+Both compounds had three Type II distances because they had methoxy groups on both rings A and B. Yet again , they caused the greatest degree of calcein-AM accumulation among the non-basic chalcones .
+A qualitative picture of the structural requirements for Pgp inhibitory activities among the basic chalcones may be summarized as follows .
+First , there is a clear indication that basic groups should be present on only one ring of the chalcone template , and this is preferably ring A. Basic groups on both rings adversely affected activity , possibly because the resulting compounds had lower lipophilicities .
+Second , the meta-dimethoxy motif on either ring A or B is an important feature for activity because they are electron donors and comply with the Type II spatial distance for Pgp inhibitors proposed by Seelig .
+28 When this motif was present on ring A , the distance between the oxygen atoms of the carbonyl moiety and the 2 methoxy group also fell within the required Type II spatial distance .
+For non-basic chalcones , having two such features was not sufficient to ensure good inhibitory activity as seen from the poor activities of the Group 5 compounds ( 5 - 14 , 5 - 18 ) , but those with three Type II features like compounds 5 - 19 and 13 were comparable in activity to verapamil .
+In contrast , basic chalcones required only one or two Type II features for good calcein-AM accumulation , as evident from compounds 6 - 130 , 6 - 131 , and 6 - 132 ( significantly better than verapamil ) and compound 3 - 100 ( comparable to verapamil ) .
+However , at this stage , it is not clear why Type II requirements should differ for basic and non-basic chalcones .
+3.2. BCRP inhibitory properties of the chalcone library .
+Only four compounds were tested for BCRP inhibitory activity on the MX accumulation assay .
+These compounds were 3 - 100 , 6 - 130 , 6 - 131 which had good Pgp inhibitory profiles and a non-basic chalcone 5 - 14 which had poor Pgp inhibitory activity .
+The results showed that in contrast to their marked effects on Pgp efflux activity , compounds 3 - 100 , 6 - 130 , and 6 - 131 did not increase MX accumulation in the BCRP over-expressing cell line .
+Rather , it was compound 5 - 14 which significantly increased MX accumulation .
+There is keen interest in developing BCRP inhibitors because not many compounds are known to inhibit this transporter.4 Moreover , inhibitors of BCRP and the other ABC transporter proteins seemed to have different structural requirements.29 This was also observed in this study , based on the contrasting activities of the basic chalcones ( 6 - 130 , 6 - 131 ) and the non-basic chalcone 5 - 14. However , more examples are required for further confirmation .
+Notwithstanding these observations , compound 3 - 100 may offer some potential as a dual inhibitor of Pgp and BCRP .
+It was comparable to verapamil in increasing calcein-AM uptake and nearly as efficient as FTC in increasing MX accumulation .
+In order to develop a molecule of pharmaceutical interest , it is desirable that the candidate compound should not present significant cytotoxicity .
+Compound 3 - 100 has IC50 values of 16.3 and 13.4 M against MCF-7 and HCT116 cells,23 and was able to increase DOX accumulation in MCF-7 / Adr cells at a low concentration of 1 M. In comparison , compounds 6 - 130 and 6 - 131 were associated with greater cytotoxicities ( IC50MCF-7 10 M ) .23 .
+4. Conclusion .
+In conclusion , we have identified several basic chalcones that exhibited promising reversing effects on the transport properties of Pgp .
+SAR showed that the basic group was a necessary but not sufficient feature for inhibitory activity .
+The presence of the meta-dimethoxy motif on the chalcone framework was also required , presumably because it introduced electron donor atoms with optimal spatial distances postulated to be important for activity .
+The main difference between basic and non-basic chalcones was that when a basic group was present , fewer of these electron donor groups were required and greater inhibition of Pgp efflux activity was noted .
+One advantage associated with fewer electron donor groups may be improved permeability and oral bioavailability , as stated in Lipinski 's Rule of Five.30 According to this mnemonic , compounds with more than 10 hydrogen bond acceptors ( equivalent to electron donor groups ) are likely to have poor oral absorption .
+We also found that chalcones that were good Pgp inhibitors were generally poor BCRP inhibitors .
+The converse may be true but more compounds are needed to confirm this trend .
+In spite of these contrasting structural requirements , one compound ( 3 - 100 ) inhibited both transport proteins , suggesting that with careful structural manipulation , dual inhibitors of Pgp and BCRP may be developed from the chalcone template .
+5. Experimental5.1 .
+Chalcone library .
+The synthesis of the chalcones has been reported in the literature.  Compounds were characterized by 1H NMR and 13C NMR , and purified to 95% , as confirmed by HPLC analysis , by column chromatography and crystallization .
+Details are provided in the cited papers. 
+5.2. Materials .
+Calcein acetoxymethyl ester ( calcein-AM ) , doxorubicin , mitoxantrone , verapamil , cyclosporin A , 3- ( 4,5-dimethylthiazol-2-yl ) -2,5-diphenyltetrazolium bromide ( MTT ) and fumitremorgin C ( FTC ) were purchased from Sigma - Aldrich Chemical Co , Singapore .
+Mouse monoclonal antibodies for Western blot analyses of Pgp and BCRP were from Signet Laboratories Inc , Dedham , MA .
+Other reagents were of analytical grade .
+5.3. Cell lines .
+Parental Mardin - Darby canine kidney cells ( MDCKII / WT ) and MDCKII / MDR1 cells transfected with human MDR1 cDNA were generous gifts from Dr Anton Berns of the Netherlands Cancer Institute , Antoni van Leeuwenhoek Hospital , Amsterdam , Netherlands .
+MDCKII / MDR1 and MDCKII / WT cells were grown in DMEM containing 10% fetal bovine serum ( FBS ) and 0.1 g / L penicillin G / streptomycin sulfate .
+Cells were subcultured when they reached 80 - 90% confluency and were used at passages 8 - 17 for the calcein-AM assay .
+Human breast cancer MCF-7 cells were purchased from American Type Cell Culture ( Manassas , VA , USA ) , while the drug selected doxorubicin ( Adriamycin ) resistant ( MCF-7 / Adr ) and mitoxantrone resistant ( MCF-7 / MX ) cell lines were obtained from Dr. Rachel Ee , Department of Pharmacy , National University of Singapore .
+The cells were cultured in RPMI 1640 media supplemented with 10% FBS and 0.1 g / L penicillin G / streptomycin sulfate .
+The media for MCF-7 / Adr and MCF7 / MX cells contained 10 M doxorubicin and 250 nM mitoxantrone , respectively .
+Western blot analyses were used to determine Pgp levels in MDCKII / WT , MDCKII / MDR1 , MCF-7 , MCF-7 / Adr , and MCF-7 / MX cells .
+BCRP levels were similarly determined in parental and drug selected MCF-7 cells .
+5.4. Western blot analyses .
+Western blot analyses of Pgp were carried out on MDCKII / WT , MDCKII / MDR1 , MCF-7 , MCF-7 / Adr , and MCF-7 / MX cells .
+BCRP levels were similarly determined in parental and drug selected MCF-7 cells .
+Each cell line was grown to confluence , trypsinized , transferred to Eppendorf tubes and rinsed with ice-cold PBS .
+The contents of each tube were suspended in 100 l lysis buffer ( PhosphataseTM extraction buffer , Novagen ) in the presence of protease inhibitors ( 15 l , Protease inhibitor cocktail , Roche ) .
+The cell suspension was incubated for 20 min ( 4 C ) and centrifuged ( 20 min , 10 K rpm ) to give a clear supernatant .
+Aliquots were prepared from the different cell lines in this way .
+Protein content of each aliquot was determined by a commercial reagent ( Dye Reagent Concentrate , Bio-Rad ) .
+For Western blot analysis , the protein extract was diluted with Laemmli buffer ( 4 ) and analyzed by SDS gel electrophoresis on appropriate polyacrylamide gels ( 6.5% ) with 20 or 40 g of protein loaded on each lane .
+The proteins on the gels were then transferred to polyvinylidene diflouride ( PVDF ) membranes ( Bio-Rad ) by a semi-dry transfer method .
+After blocking with Tris buffered saline containing 5% low-fat milk and 0.1% Tween 20 , the membranes were probed with primary antibodies against Pgp ( Signet C219 mouse monoclonal antibody , Cat No 8710-01 , ABCB1 ) and BCRP ( Signet mouse monoclonal antibody ( Cat No : 8822-01 , clone BXP-21 , ABCG2 ) .
+The antibodies were purchased from Signet Laboratories Inc , Dedham , MA , and were used at a dilution of 1:1000 .
+The membrane blots were then reacted ( 1 h ) with secondary antibodies ( horseradish peroxidase anti-mouse IgG or horseradish peroxidase anti-rabbit IgG ) , washed extensively with Tris buffered saline ( 0.1% Tween 20 ) and submerged ( 5 min ) in a mixture of horse radish peroxidase substrate ( Luminol , Supersignal West Pico , Pierce , IL ) .
+Membranes were lightly hand-blotted to dry , exposed for varying periods ( 10 s to 5 min ) to an autoradiography film and developed to visualize the antibody - antigen complexes .
+5.5. Determination of growth inhibitory IC50 values by the microculture tetrazolium assay .
+A previously described method was followed.22 Briefly , MCF-7 / WT and MCF-7 / Adr cells were incubated with the test compound for 72 h , after which the medium was decanted , replaced with MTT solution and incubated for another 3 h .
+The cells were washed with phosphate-buffered saline ( PBS ) and DMSO was added to lyze the cells and to dissolve the purple formazan crystals .
+Absorbances were read at 590 nm on a microplate reader , with 3 determinations made for each concentration of test compound .
+IC50 values were determined with Prism Graph Pad ( San Diego , CA , USA ) .
+5.6. Uptake of calcein-AM in MDCKII / MDR1 cells .
+A previously described method was followed with some modifications.26 Briefly , MDCKII / MDR1 and MDCKII / WT cells at 80 - 90% confluency were trypsinized , seeded in 96 well plates at a cell density of 5.0 104 cells / well , and incubated at 37 C , 24 h , 5% CO2 atmosphere .
+The cell monolayer in each well was carefully washed with PBS , followed by incubation with test compound ( 10 M , prepared in DMSO - Hank 's Buffered Saline Solution ) for 30 min ( 37 C , 5% CO2 atmosphere ) .
+After 30 min incubation , an aliquot of calcein-AM in DMSO - HBSS was added to each well to give a final concentration of 2 M. The maximum concentration of DMSO per well was 1% v / v .
+After incubation ( 10 min ) , the fluorescence of each well was measured at 10 min intervals for 40 min on a microplate reader with excitation of 485 nm , emission of 535 nm .
+Concurrent determinations were made with positive controls verapamil and cyclosporin A at 10 M. The accumulation of calcein-AM was calculated at the 40th minute using Eq. 3. .
+The rate of calcein-AM accumulation in the presence of test compound was also determined from the gradient of the linear increase in calcein fluorescence with time ( Microsoft Office Excel 2003 ) .
+5.7. Doxorubicin accumulation in MCF-7 / Adr cells .
+A previously described method was followed.27 Briefly , MCF-7 / Adr ( passage 5 - 15 ) and MCF-7 / WT ( passage 20 - 30 ) were grown in 75 cm2 flasks to 90% confluency .
+Cells were trypsinized , resuspended in RPMI 1640 at a cell density of 106 cells / ml , seeded into 6 well plates and incubated for 12 h ( 37 C , 5% CO2 ) for attachment as a monolayer .
+The test compound was added ( 1 M in 2 ml of 0.1% v / v DMSO in FBS-free RPMI 1640 incubation ) to the well , incubated for 1 h ( 37 C ) , followed by DOX ( 10 M in 5.8 l of distilled water ) and incubated for another hour .
+Uptake was stopped by washing each well with ice-cold PBS ( 3 ml , thrice ) and solubilizing the cells with 1% v / v Triton X100 and 0.2% v / v SDS in PBS .
+After incubation ( 30 min ) , an aliquot ( 200 l ) from each well was transferred into a 96 well plate and the intracellular level of DOX was determined by analyzing the cell lysate on a fluorescence plate reader at wavelengths excitation 485 nm and emission 535 nm .
+To obtain the DOX standard curve , cell lysates were prepared as described above in the absence of test compound .
+The lysates were transferred to 96 well plates to which were added aliquots of freshly prepared doxorubicin in distilled water to give final concentrations ranging from 0.02 g / ml to 2.0 g / ml .
+The fluorescence intensities of the solutions were determined as before .
+Calibration curves were constructed with fluorescence intensity ( y-axis ) and DOX concentration expressed as g doxorubicin / 106 cells ( x-axis ) .
+Good linearity ( r2 = 0.995 ) was obtained and the plot was used to determine the intracellular levels of DOX .
+5.8. Mitoxantrone accumulation in MCF-7 / MX cells .
+The method described by Zhang et al.19 was followed .
+The accumulation of mitoxantrone ( MX ) was investigated on MCF-7 / WT and MCF-7 / MX cells by flow cytometry .
+Briefly , cells were grown in 75 cm2 flasks to about 90% confluence , trypsinized , washed twice with ice-cold PBS and resuspended in serum-free RPMI 1640 medium at a cell density of 106 cells / ml .
+The accumulation of MX was investigated by incubating 1 ml of cells with the test compound or the vehicle ( 0.5% v / v DMSO in RPMI ) in a Falcon tube for 37 C , 15 min , followed by addition of MX .
+The final concentrations of test compound and MX were 5 and 3 M , respectively .
+After incubation for 30 min , uptake was stopped by adding 5 ml of ice-cold PBS and centrifugation at 2000 rpm , 5 min , 4 C. The cells were washed twice with ice-cold PBS and the intracellular concentration of MX was determined using a FACScan flow cytometer ( Coulter EPICS Elite ESP ) equipped with a solid state argon laser for excitation at 488 nm and a bandpass filter at 670 nm to detect MX fluorescence .
+Data were processed with Summit version 4.2 software .
+The accumulation of MX was expressed by Eq .
+3 ( Footnote to Table 3 ) .
+( 3 )
+5.9. Molecular modeling .
+Chem 3D Pro 10.0 ( CambridgeSoft , MA ) and Sybyl 7.0 ( Tripos Inc. , St. Louis , MO ) were used to determine intramolecular distances and ClogP of the test compounds , respectively .
+Measurements were made from geometry optimized conformations of the compounds using the standard force fields of the software .
+5.10. Statistical analysis .
+Data were analyzed for significant differences using one-way ANOVA followed by post-hoc Tukey 's test ( Origin 7.5 , OriginLab , MA ) .
+Acknowledgments .
+This work was made possible by funding ( R 1480000042112 ) to GML and a research scholarship to LXL by the National University of Singapore .
+References and notes .
+1 P. Breedveld , J.H. Beijnen and J.H.M .
+Schellens , Trends Pharmacol .
+Sci .
+27 ( 2006 ) , p. 17. Article | PDF ( 154 K ) | View Record in Scopus | Cited By in Scopus ( 37 )
+2 M.M. Gottesman , T. Fojo and S.E. Bates , Nat .
+Rev .
+Cancer 2 ( 2002 ) , p. 48. Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 752 )
+3 J. Robert and C. Jarry , J. Med .
+Chem .
+46 ( 2003 ) , p. 4805 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 82 )
+4 A. Ahmed-Belkacem , A. Pozza , S. Macalou , J.M. Perez-Victoria , A. Boumendjel and A. Di Pietro , Anti-cancer Drugs 17 ( 2006 ) , p. 239 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 9 )
+5 C.M.F .
+Kruijtzer , J.H. Beijnen , H. Rosing , W.W. ten Bokkel Huinink , M. Schot , R.C. Jewell , E.M. Paul and J.H.M .
+Schellens , J. Clin .
+Oncol .
+20 ( 2002 ) , p. 2943 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 142 )
+6 G. Szakacs , J.K. Paterson , J.A. Ludwig , C. Booth-Genthe and M.M. Gottesman , Nat .
+Rev .
+Drug Discov .
+5 ( 2006 ) , p. 219 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 128 )
+7 A. Boumendjel , A. Di Pietro , C. Dumontet and D. Barron , Med .
+Res .
+Rev .
+22 ( 2002 ) , p. 512 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 39 )
+8 G. Scambia , F.O. Ranelletti , P.B. Panici , R. DeVincenzo , G. Bonanno , G. Ferrandina , M. Piantelli , S. Bussa , C. Rumi , M. Cianfriglia and S. Mancuso , Cancer Chemother .
+Pharmacol .
+34 ( 1994 ) , p. 459 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 127 )
+9 A.B. Shapiro and V. Ling , Biochem .
+Pharmacol .
+53 ( 1997 ) , p. 587 .
+Article | PDF ( 1208 K ) | View Record in Scopus | Cited By in Scopus ( 95 )
+10 J. Ferte , J.M. Kuhnel , G. Chapuls , Y. Rolland , G. Lewin and M.A. Schwaller , J. Med .
+Chem .
+42 ( 1999 ) , p. 478 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 54 )
+11 G. Comte , J.B. Daskiewicz , C. Bayet , G. Conseil , A. Viornery-Vanier , C. Dumontet , A. Di Pietro and D. Barron , J. Med .
+Chem .
+44 ( 2001 ) , p. 763 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 53 )
+12 A. Boumendjel , C. Beney , N. Deka , A. Mariotte , M.A. Lawson , D. Trompier , H. Baubichon-Cortay and A. Di Pietro , Chem .
+Pharm .
+Bull .
+50 ( 2002 ) , p. 854 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 9 )
+13 R. Vaclavikova , A. Boumendjel , M. Ehrlichova , J. Kovar and I. Gut , Bioorg .
+Med .
+Chem .
+14 ( 2006 ) , p. 4519 .
+Article | PDF ( 166 K ) | View Record in Scopus | Cited By in Scopus ( 2 )
+14 M. Hadjeri , M. Barbier , X. Ronot , A. Mariotte , A. Boumendjel and J. Boutonnat , J. Med .
+Chem .
+46 ( 2003 ) , p. 2125 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 25 )
+15 F. Bois , C. Beney , A. Boumendjel , A. Mariotte , G. Conseil and A. Di Pietro , J. Med .
+Chem .
+41 ( 1998 ) , p. 4161 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 36 )
+16 F. Bois , A. Boumendjel , A. Mariotte , G. Conseil and A. Di Pietro , Bioorg .
+Med .
+Chem .
+7 ( 1999 ) , p. 2691 .
+Article | PDF ( 125 K ) | View Record in Scopus | Cited By in Scopus ( 26 )
+17 A. Ahmed-Belkacem , A. Pozza , F. Munoz-Martinez , S.E. Bates , S. Castanys , F. Gamarro , A. Di Pietro and J.M. Perez-Victoria , Cancer Res .
+65 ( 2005 ) , p. 4852 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 34 )
+18 Y. Imai , S. Tsukahara , S. Asada and Y. Sugimoto , Cancer Res .
+64 ( 2004 ) , p. 4346 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 58 )
+19 S. Zhang , X. Yang , R.A. Coburn and M.E. Morris , Biochem .
+Pharmacol .
+70 ( 2005 ) , p. 627 .
+Article | PDF ( 322 K ) | View Record in Scopus | Cited By in Scopus ( 21 )
+20 J.M. Zamora , H.L. Pearce and W.T. Beck , Mol .
+Pharmacol .
+33 ( 1988 ) , p. 454 .
+View Record in Scopus | Cited By in Scopus ( 224 )
+21 A. Seelig and E. Landwojtowicz , Eur .
+J. Med .
+Chem .
+12 ( 2000 ) , p. 31. Article | PDF ( 348 K ) | View Record in Scopus | Cited By in Scopus ( 108 )
+22 X.L. Liu and M.L. Go , Bioorg .
+Med .
+Chem .
+14 ( 2006 ) , p. 153 .
+Article | PDF ( 359 K ) | View Record in Scopus | Cited By in Scopus ( 5 )
+23 X.L. Liu and M.L. Go , Bioorg .
+Med .
+Chem .
+15 ( 2007 ) , p. 7021 .
+Article | PDF ( 286 K ) | View Record in Scopus | Cited By in Scopus ( 1 )
+24 M. Liu , P. Wilairat and M.L. Go , J. Med .
+Chem .
+44 ( 2001 ) , p. 4443 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 73 )
+25 L. Homolya , Z. Hollo , U.A. Germann , I. Pastan , M.M. Gottesman and B. Sarkadi , J. Biol .
+Chem .
+268 ( 1993 ) , p. 21493 .
+View Record in Scopus | Cited By in Scopus ( 272 )
+26 N. Shiraki , K. Okamura , J. Tokunaga , T. Ohumura , K. Yasuda , T. Kawaguchi , A. Hamada and M. Nakano , Jpn .
+J. Cancer Res .
+93 ( 2002 ) , p. 209 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 4 )
+27 L.W. Fu , Y.M. Zhang , Y.J. Liang , X.P. Yang and Q.C. Pan , Eur .
+J. Cancer 38 ( 2002 ) , p. 418 .
+Article | PDF ( 223 K ) | View Record in Scopus | Cited By in Scopus ( 38 )
+28 A. Seelig , Eur .
+J. Biochem .
+251 ( 1998 ) , p. 252 .
+View Record in Scopus | Cited By in Scopus ( 242 )
+29 S.E. Bates , R. Robey , K. Miyake , K. Rao , D.D. Ross and T. Litman , J. Bioenerg .
+Biomembr .
+33 ( 2001 ) , p. 503 .
+Full Text via CrossRef | View Record in Scopus | Cited By in Scopus ( 68 )
+30 C.A. Lipinski , J. Pharmacol .
+Toxicol .
+Methods 44 ( 2000 ) , p. 235 .
+Article | PDF ( 530 K ) | View Record in Scopus | Cited By in Scopus ( 374 )
+Corresponding author .
+Tel. : +65 65162654 ; fax : +65 67791554 .
+Bioorganic Medicinal Chemistry .
+Volume 16 , Issue 1 , 1 January 2008,Pages 171-180 .
+Nucleic Acid Modification for Fluroescence-Based TechnologiesResult list | previous < 936 of 1,019 > next .
+Home .
+Browse .
+Search .
+- selected .
+My Settings .
+Alerts .
+Help .
+About ScienceDirect | Contact Us | Terms & Conditions | Privacy PolicyCopyright 2008 Elsevier B.V. All rights reserved .
+ScienceDirect® is a registered trademark of Elsevier B.V .
+var t;t=101000;collabTimer=setTimeout ( hideDiv ( " CollabBoxContent " ) , t ) ;collabKeyEventURL='http://www.sciencedirect.com/science / collab?targetURL= .

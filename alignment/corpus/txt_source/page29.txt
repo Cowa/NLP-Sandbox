@@ -1,0 +1,91 @@
+L' hormonoradiothérapie concomitante est utilisée depuis plusieurs années en_pratique clinique quotidienne dans les cancers localement évolués de la prostate .
+Le transfert de ce concept en pathologie mammaire a été très peu rapporté dans la littérature , mais semble pourtant licite devant l' hormonodépendance fréquente des cancers du sein et la synergie potentielle des différents agents à action locorégionale et systémique  .
+En situation adjuvante , le tamoxifène est depuis 25 ans la molécule de référence du traitement antihormonal avec un avantage significatif en termes de contrôle local et de survie globale  .
+Les résultats des études Arimidex , Tamoxifen alone or in combination ( ATAC ) et Breast International Group ( BIG ) 1-98 comparant le tamoxifène à un inhibiteur de l' aromatase non stéroïdien d'_emblée , respectivement anastrozole / Arimidex et letrozole / Femara , ont confirmé un avantage significatif sur la survie sans maladie des inhibiteurs de l' aromatase non stéroïdiens  , notamment sur la survie sans évènements métastatiques précoces avec le letrozole  .
+Une seconde stratégie , dite de switch , ( introduction des inhibiteurs de l' aromatase non stéroïdiens après du tamoxifène ) apporte un gain significatif d' indice thérapeutique , mais après sélection des patientes atteintes de cancer n' ayant pas rechuté sous tamoxifène les deux à trois premières années  .
+L' impact de la radiothérapie externe adjuvante sur le taux de récidive locale et sur la survie spécifique a été récemment confirmé par l' actualisation de la méta-analyse  .
+L' objectif de cet article est de détailler les avantages et les risques de l' utilisation concomitante de la radiothérapie et de l' hormonothérapie adjuvantes des cancers localisés du sein .
+2. Association concomitante tamoxifène - radiothérapie
+Le tamoxifène est un antiestrogène compétitif au niveau des récepteurs aux estrogènes des cellules cancéreuses mammaires bloquant ainsi les effets stimulants mitogéniques des estrogènes circulants .
+Son impact sur la réduction du taux de récidive locale et sur l' augmentation de celui de survie globale n' est plus controversé  .
+Son association concomitante avec la radiothérapie en situation adjuvante est discutée depuis des années , mais les données publiées sont peu nombreuses .
+2.1. Données précliniques
+Le tamoxifène semble exercer son activité cytostatique en_partie par inhibition compétitive des récepteurs aux estrogènes .
+Il en résulte à un arrêt des cellules en phase G0 / G1 du cycle cellulaire  .
+Cet arrêt préférentiel en phase G1 précoce du cycle cellulaire est reconnu comme une phase de radiosensibilité intermédiaire  et peut expliquer une hypothétique radioprotection des colonies en culture par le tamoxifène  .
+Ces premières données ont été infirmées par_la_suite  .
+Plus récemment , certains auteurs ont montré qu' une diminution des taux des récepteurs aux estrogènes et à la progestérone dans le cytosol entraînerait une diminution de la radiosensibilité cellulaire  .
+De plus , les ARN messagers et les protéines des récepteurs aux estrogènes semblent diminuer de deux tiers après une irradiation fractionnée de lignées cellulaires du cancer du sein ( MCF-7 ) , réduisant ainsi l' action inhibitrice du tamoxifène  .
+In vivo , Kantorowitz_et_al.  ont montré la capacité de la combinaison d' une radiothérapie de 45 Gy en 25 fractions de 1,8 Gy et de tamoxifène à la dose de 500 mg / kg par injection sous-cutanée chaque jour de l' irradiation de ralentir la progression de tumeurs mammaires de rats induites par du 1-méthyl-1-nitrosourée .
+De plus , la repopulation de cellules cancéreuses d' origine mammaire ( MCF-7 ) estrogénodépendantes est fortement diminuée entre deux fractions de radiothérapie en condition de restriction estrogénique  .
+Contrairement aux données in_vitro , ces résultats renforcent l' idée que la capacité des antiestrogènes à inhiber la repopulation tumorale entre les fractions de radiothérapie permettrait une radiosensibilisation relative .
+2.2. Résultats cliniques
+Plusieurs essais randomisés ont rapporté l' intérêt de l' association de la radiothérapie et du tamoxifène par_rapport_à la radiothérapie ou au tamoxifène utilisé seul en situation adjuvante dans le cancer du sein ( revue dans  ) .
+Cependant , aucun essai n' a comparé en phase 3 la séquence de ces deux armes thérapeutiques .
+Les études rétrospectives récemment publiées n' ont pas mis en évidence de différence significative sur l' incidence des évènements , notamment locorégionaux , de l' association concomitante ou séquentielle du tamoxifène à la radiothérapie ( revue dans  ) .
+Le seul point de discussion concerne la majoration potentielle de la toxicité d' une telle association .
+Des fibroses sous-cutanée et pulmonaire ont été les plus souvent rapportées dans la littérature .
+Cependant , les données restent très contradictoires .
+Trois essais  n' ont pas retrouvé de majoration significative de la fibrose sous-cutanée avec un traitement concomitant .
+Dans notre expérience  , sur 147 patientes traitées par chirurgie conservatrice et irradiation adjuvante , 90 ont débuté le tamoxifène à la dose de 20 mg / j avant le début de la radiothérapie .
+Le taux de survie sans fibrose à deux ans était de 51 % dans le groupe radiothérapie et tamoxifène contre 80 % dans le groupe sans tamoxifène ( p = 0,029 ) .
+De plus , cette différence était très nette chez les patientes à risque de développer des effets secondaires tardifs .
+En effet , ces 147 patientes correspondent à un sous-groupe de l' étude prospective KFS 00539-9-1997 / SKL 00778-2-1999 portant sur 399 patients atteints de cancers du sein , ORL , pelviens et digestifs  .
+Dans cette étude , nous avons montré qu' un taux ( bas ) d' apoptose lymphocytaire radio-induite ( ALRI ) CD4 et CD8 inférieur à 16 % prédisait un taux plus élevé de toxicité tardive de grade 2 ou plus .
+Ainsi , tous les patients soufrant d' effets tardifs de grade 2 ou plus avaient un taux d' apoptose lymphocytaire radio-induite inférieur à 16 % .
+Dans le sous-groupe des 147 patientes , celles dont le taux de survie sans fibrose était nettement moins élevé étaient aussi celles qui avaient également un taux d' apoptose lymphocytaire radio-induite bas .
+La Fig. 1 montre les différents taux de survie sans fibrose en fonction de la prise ou non de tamoxifène et du taux d' apoptose lymphocytaire radio-induite .
+Seulement 20 % des patientes dont le taux d' apoptose lymphocytaire radio-induite était de moins de 16 % et qui ont reçu du tamoxifène en_même_temps que la radiothérapie étaient en vie sans fibrose .
+En revanche , les patientes dont le taux d' apoptose lymphocytaire radio-induite était élevé ont été très peu sensibles à la prescription concomitante du tamoxifène et de la radiothérapie .
+Full-size image ( 14K )
+Fig. 1. Probabilité de survie sans fibrose en fonction du taux d' apoptose lymphocytaire radio-induite et de la prise ou non de tamoxifène chez 147 patientes traitées par chirurgie et irradiation adjuvante d' un cancer du sein ; TAM : pas de tamoxifène ; TAM+ : tamoxifène concomitant avec la radiothérapie .
+View Within Article
+Très peu d' articles ont décrit un risque majoré de fibrose pulmonaire lors_de l' administration concomitante du tamoxifène et de la radiothérapie .
+L' article de référence est de celui de Bentzen_et_al.  .
+Ces auteurs ont montré avec le tamoxifène une majoration de la fibrose pulmonaire dans le segment de poumon irradié après mastectomie totale .
+Cependant , l' analyse n' a concerné que 38 patientes évaluées par clichés radiologiques classiques .
+Plus récemment , Koc_et_al.  ont confirmé par tomodensitométrie le risque majoré de fibrose pulmonaire après tamoxifène et radiothérapie chez 74 patientes traitées par mastectomie et irradiées par un appareil de télécobalthérapie .
+In vitro , le tamoxifène a été rapporté comme un stimulateur de la sécrétion du transforming growth factor ( TGF- ) par les fibroblastes  .
+Il y a aussi des arguments en_faveur_de la participation du TGF- dans les modifications fibrotiques postradiques du tissu sain  .
+Les modifications radio-induites pourraient être majorées par le tamoxifène par cette voie .
+Cependant , comme les modifications fibrotiques du sein mettent des années pour se stabiliser , les populations à risque élevé de lésions postradiques tardives souffriront d' une aggravation des lésions même si le tamoxifène est prescrit après la radiothérapie .
+Il semble exister un effet additif de la sécrétion de TGF-  .
+Ces patientes pourraient bénéficier d' un traitement adjuvant par les inhibiteurs de l' aromatase  .
+3. Association concomitante des inhibiteurs de l' aromatase et de la radiothérapie
+Parmi les traitements en cours d' évaluation dans le traitement adjuvant du cancer du sein , les inhibiteurs de l' aromatase de troisième génération semblent les plus prometteurs .
+Ces agents font suite à une série de molécules inhibant l' enzyme de l' aromatase et ont montré préalablement leur efficacité en situation métastatique évoluée .
+Les inhibiteurs de l' aromatase ne fixent pas les récepteurs aux estrogènes , mais inhibent l' aromatase , enzyme active dans le tissu adipeux et dans le sein chez les patientes ménopausées , bloquant ainsi la conversion de l' androstènedione et de la testostérone en estrogènes actifs .
+Les inhibiteurs de l' aromatase de troisième génération sont hautement sélectifs et puissants .
+Ils n' altèrent pas la fonction corticosurrénalienne .
+Depuis les premiers résultats positifs de l' étude BIG 1-98  qui a comparé le letrozole au tamoxifène selon quatre bras : tamoxifène , letrozole , tamoxifène ( 2 - 3 ans ) suivi par letrozole ( 2 - 3 ans ) et letrozole ( 2 - 3 ans ) suivi par tamoxifène ( 2 - 3 ans ) , l' association concomitante adjuvante avec la radiothérapie s' est légitimement posée .
+Malheureusement , il n' existe actuellement aucune donnée clinique en_faveur_de la synergie de ces deux traitements , mais il existe un rationnel préclinique pour leur association .
+Nous avons récemment rapporté les effets de l' association radiothérapie - letrozole dans un modèle de cancer du sein  .
+Les tests de clonogénicité ont montré des fractions de survie à 2 Gy de 0,66 et de 0,38 , respectivement après irradiation seule et association irradiation et letrozole .
+La croissance cellulaire a été réduite de 76 % avec l' association par_rapport_à l' irradiation seule dès le douzième jour après l' exposition .
+Au bout de 18 jours , 85 % d' inhibition était observée .
+Full-size image ( 11K )
+Fig. 2. Numération cellulaire .
+La prolifération des MCF-7CA a été inhibée respectivement de 76 % et de 85 % avec letrozole plus 2 Gy par comparaison à l' irradiation seule après 12 et 18 jours après irradiation .
+Les traits pleins ( ) et ( ) représentent respectivement l' irradiation seule à 2 Gy et 4 Gy .
+Les traits en pointillé ( ) et ( ) représentent respectivement l' irradiation plus letrozole à 2 Gy et à 4 Gy .
+View Within Article
+En clinique , une étude de phase 2 randomisée ( CO - HO - RT ) multicentrique et internationale a évalué la toxicité aiguë et tardive de l' association de radiothérapie et de letrozole .
+Le letrozole était débuté trois semaines avant ou trois semaines après la radiothérapie .
+Des tests biologiques ( taux d' apoptose lymphocytaire radio-induite et mutation hétérozygote du gène ATM ) ont été utilisés en stratification afin_de cibler les patientes dont la radiosensibilité intrinsèque était accrue .
+Cent cinquante patientes ont été randomisées sur 18 mois .
+Les résultats préliminaires sur la toxicité aiguë seront présentés prochainement .
+Aucune donnée préclinique ou clinique n' est disponible avec l' anastrozole ou l' exemestane .
+Dans l' étude ATAC , le début de l' hormonothérapie était autorisé avant le premier jour de la radiothérapie .
+Certaines patientes ont probablement reçu les deux traitements en concomitance , mais aucune donnée n' a été analysée en ce qui concerne la toxicité et l' efficacité dans ces sous-groupes .
+L' étude randomisée Tamoxifen Exemestane Adjuvant Multicentre ( TEAM ) a comparé cinq ans d' exemestane à cinq ans de tamoxifène .
+Dans cet essai , la randomisation de l' hormonothérapie était faite à la fin de la radiothérapie .
+Aucun patient n' aura donc été traité par l' association concomitante d' exemestane et de radiothérapie .
+4. Conclusion
+L' effet radioprotecteur du tamoxifène in_vitro ne semble pas être démontré .
+En clinique , il existe un effet complémentaire de la radiothérapie et du tamoxifène en situation adjuvante dans les cancers du sein opérés .
+La toxicité de l' association reste discutable en termes de fibroses sous-cutanée et pulmonaire .
+Il semblerait que le tamoxifène aggraverait les séquelles postradiques uniquement chez les patientes prédisposées à souffrir d' effets tardifs radio-induits et identifiés par un test prédictif biologique .
+La prudence reste donc encore de mise , du moins pour ces patientes .
+L' effet radiosensibilisant du letrozole a été récemment démontré in_vitro .
+Aucune donnée sur l' association concomitante de la radiothérapie et des autres inhibiteurs de l' aromatase n' est encore disponible .
+Les résultats de l' essai de phase 2 randomisé ( CO - HO - RT ) sont en attente

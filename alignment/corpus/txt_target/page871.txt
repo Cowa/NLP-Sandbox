@@ -1,0 +1,172 @@
+Tumor suppressor gene ( p53 ) is localized on short arm of chromosome 17 and plays a critical role in prevention of onset and progression of breast cancer .
+The expression of p53 is induced upon cellular stresses that include DNA damage and oncogene activation .
+Overexpression of p53 arrests the cell cycle and induces DNA repair and apoptosis ( 1 ) .
+Germ line mutations in p53 lead to the development of cancer at an early stage , and inactivating mutations in p53 are associated with the initiation and progression of more than 50% malignancies in humans ( 2 ) , ( 3 ) , ( 4 ) and ( 5 ) .
+Mutation in p53 gene inhibits its activity and increases breast cancer incidences .
+Single nucleotide polymorphism at codon 72 in p53 gene that replaces arginine with proline ( G with C ) also alters p53 protein activity ( 6 ) .
+Similarly , G to A substitution in intron-6 at 61 bp downstream to exon-6 may also alter p53 activity ( 7 ) .
+A close functional relationship between murine double minute-2 ( MDM-2 ) , an oncogene , located on the long arm of chromosome 12 and p53 gene is well known ( 8 ) .
+MDM-2 protein negatively regulates p53 function in multiple independent ways , that is , by binding to transcription activation domain , inhibiting acetylation , promoting nuclear export , and most importantly , promoting proteasomal degradation through ubiquitination ( 9 ) , ( 10 ) , ( 11 ) and ( 12 ) .
+The p53 activates MDM-2 transcription and MDM-2 inhibits p53 function .
+MDM-2 and p53 interaction and relative ratio regulates cell division ( 13 ) , ( 14 ) and ( 15 ) .
+Overexpression of MDM-2 enables damaged cells to escape the cell cycle checkpoint and become carcinogenic ( 16 ) .
+Naturally occurring sequence variation in MDM-2 promoter results in an altered MDM-2 protein expression leading to the alteration in p53 mediated tumor suppression activity .
+T to G polymorphism at position-309 in MDM-2 promoter increases its affinity with stimulatory protein Sp1 and subsequently attenuates p53 pathway ( 17 ) .
+Few studies on the association of MDM-2 polymorphism with breast cancer risk have shown positive results , whereas most of the investigators demonstrated lack of such association ( 18 ) , ( 19 ) and ( 20 ) .
+Because MDM-2 SNP 309 regulates p53 expression and codon 72 is critical for p53 function , the combination of these polymorphisms is expected to determine the risk of breast cancer more accurately than alone .
+The polymorphism in p53 and MDM-2 genes and its relationship with breast cancer susceptibility could vary from one population to another or one ethnic group to another , depending upon the residential localities it occupies and the level of environmental exposures .
+The present investigation was therefore undertaken to investigate the association between the polymorphisms in MDM-2 SNP309 , p53 Arg72Pro , and p53 intron-6 and breast cancer risk in Indian women .
+Materials and Methods Chemicals .
+Agarose , acrylamide , N,N methylene bisacrylamide , boric acid , bromophenol blue , chloroform , ethylene-diamine-tetra-acetic acid , formamide , glycerol , magnesium chloride , sodium chloride , sodium carbonate , sucrose , trisodium citrate , Tris base , Triton X-100 , xylene cyanol , and phenol were purchased from Sigma - Aldrich ( St. Louis , MO ) .
+Polymerase chain reaction ( PCR ) purification kits were procured from Qiagen ( Cologne , Germany ) and acetic acid , formaldehyde , Taq polymerase , Hot start Taq polymerase , proteinase-K , dNTPs , PCR primers , PCR reaction kits , and other chemicals required for the study were procured locally either from Bangalore Genei or from Sisco Research Laboratory ( SRL ) India .
+Selection of Subjects .
+The medical ethics committees from participating institutions approved the study .
+A written preinformed consent was obtained before blood collection from the individuals involved in this study .
+The blood samples were collected from controls and breast cancer patients by expert clinicians at Sanjay Gandhi Postgraduate Institute of Medical Sciences ( SGPGIMS ) , Lucknow .
+The cases were prevalent and identified at SGPGIMS .
+A total of 105 female controls and 104 female breast cancer patients , ranging from 25 to 65 years of age , were recruited for blood collection .
+Cases and controls were from the same ethnic group and were residents of Lucknow or its adjacent localities in north India , that is,Varanasi , Kanpur , and Agra .
+Special emphasis was given to recruit the patients and controls from similar localities to avoid differences caused by environmental factors .
+The control females did not possess any type of tumor / cancer and also did not exhibit any genetic disorder or visible disease .
+The samples were collected from unrelated families to rule out the possibility of direct involvement of genetic variables .
+Patients with clinically defined symptoms of breast cancer were considered for this study .
+Patients who did not have a history of breast cancer in their family were considered in this study to avoid the involvement of known familial factors and to properly assess the contribution of these single nucleotide polymorphisms ( SNPs ) .
+Patients were classified in premenopausal and postmenopausal groups based on the case history and information given by them .
+Some of the basic demographics of patients and controls are summarized in Table 1A and Table 1B .
+Table 1A .
+Basic demographics of controls and breast cancer patients recruited in the study .
+Basic demographicsPatients ( n = 104 ) Controls ( n =105 ) Age , mean SD Premenopausal41.20 5.92 years32.59 6.14 years Postmenopausal54.31 6.86 years53.08 7.40 years Smoking habit Smoker3 ( 2.88% ) 4 ( 3.80% ) Nonsmoker101 ( 97.11% ) 101 ( 96.19% ) Body mass index , mean SD25.17 4.82 kg / m220.23 2.58 kg / m2 Menopausal status , number ( % ) Premenopausal34 ( 32.69 ) 69 ( 65.71 ) Postmenopausal70 ( 67.30 ) 36 ( 34.28 ) Age at menarche , mean SD13.87 1.15 years13.72 0.70 years .
+Full-size table .
+View Within Article .
+Table 1B .
+Characteristics of tumor and treatment regimens in patients recruited in the study .
+Total patients ( n = 104 ) Tumor histology , number ( % ) Ductal96 ( 92.30 ) Lobular04 ( 3.84 ) Other04 ( 3.84 ) Nodal status , number ( % ) Positive67 ( 64.42 ) Negative37 ( 35.57 ) Stage at diagnosis , number ( % ) Stage I06 ( 5.882 ) Stage II50 ( 49.01 ) Stage III46 ( 45.09 ) Missing02 Surgery , number ( % ) Yes91 ( 87.50 ) No13 ( 12.50 ) Chemotherapy , number ( % ) Yes74 ( 71.15 ) No30 ( 28.84 ) Radiotherapy , number ( % ) Yes83 ( 79.80 ) No21 ( 20.19 ) Hormonal therapy : Tamoxifen , number ( % ) Yes19 ( 18.26 ) No85 ( 81.73 ) Neoadjuvant chemotherapy , number ( % ) Yes19 ( 18.26 ) No85 ( 81.73 )
+Full-size table .
+View Within Article .
+Blood Collection and DNA Extraction .
+Blood was drawn through venous puncture from controls and breast cancer patients and collected in vials containing trisodium citrate ( 3.8% ; 9:1 v / v ; pH 6.5 ) , an anticoagulant .
+Genomic DNA was extracted from the whole blood mixed with anticoagulant using salting out procedure as described ( 21 ) and ( 22 ) .
+DNA was precipitated from the aqueous phase using ethanol and stored at 80C till further use .
+The desalted DNA was used to amplify the desired gene segments using specific primers through PCR .
+PCR and SNP Genotyping .
+Forward and reverse primers were synthesized , and exons 4 , 5 , and 6 ( including some intronic region ) of p53 gene were amplified separately and sequenced ( 23 ) .
+The forward and reverse primers for MDM-2 promoter were synthesized and DNA segment containing MDM-2 SNP309 was amplified using amplification refractory mutation system ( ARMS-PCR ) ( 24 ) .
+Positive and negative controls were used wherever essential .
+DNA Sequencing .
+PCR amplicons of p53 were purified and sequenced using automated DNA sequencer at The Centre for Genomic Application ( TCGA ) , New Delhi , India .
+The sequence analysis was performed using DNA STAR and Chromas 231 ( available online ) software .
+Single strand conformation polymorphism for assessing codon 72 variants was also performed ( 25 ) .
+Statistical Analysis .
+The statistical analysis was done using Epi Info-5 software .
+Allelic and genotypic frequencies were calculated and expressed up to two digits after the decimal .
+Haplotype frequencies between cases and controls for p53 Arg72Pro and p53 intron-6 G / A were calculated by SNPstats online software ( ) The unadjusted odds ratio ( OR ) was calculated by 2 2 contingency table and statistical significance for OR was calculated using the chi-square test .
+However , Fisher exact test also was used where expected cell frequencies were less than five .
+We calculated the OR separately with 95% confidence intervals for genotype frequencies in total , premenopausal , and postmenopausal breast cancer patients as compared with respective controls .
+Minimum detectable OR with 80% power at the level of significance = 0.05 with sample size of 100 each in cases and controls with prevailing percent of homozygous wild type in controls was 0.5 in case of protective association and 2.0 in case of increased risk ( 26 ) .
+Hardy-Weinberg equilibrium for each SNP in cases and controls was calculated using Hardy-Weinberg calculator ( ) .
+Although the study is based on applications of well-established and highly reproducible molecular techniques , three experiments for each samples still were performed to confirm the reproducibility .
+Results SNP309 ( T to G ) in MDM-2 Gene .
+SNP309T and SNP309G alleles in total , premenopausal , and postmenopausal cases and controls were analyzed using ARMS-PCR .
+Neither SNP 309T nor SNP309G MDM-2 genotype was associated significantly with breast cancer risk .
+Combined T/G+G / G genotype was also not associated with the breast cancer risk .
+Table 2. .
+Allelic and genotypic frequencies of polymorphism at 309 ( T to G ) position of MDM-2 gene in case controls and breast cancer patients in Indian women .
+Patients frequency ( no. patients ) Case controls Frequency ( no. controls ) Odds Ratio ( OR ) ( 95%CI ) p value Total womenn = 104n = 105 Allele frequency ( total number of alleles ) T0.47 ( 98 ) 0.46 ( 97 ) G0.53 ( 110 ) 0.54 ( 113 ) Genotypic frequency ( total number of genotypes ) T / T0.24 ( 25 ) 0.24 ( 25 ) 1.0 ( Reference ) - T / G0.46 ( 48 ) 0.45 ( 47 ) 1.02 ( 0.49 - 2.14 ) 0.908 G / G0.30 ( 31 ) 0.31 ( 33 ) 0.94 ( 0.42 - 2.10 ) 0.981 T/G+G / G0.76 ( 79 ) 0.76 ( 80 ) 0.99 ( 0.50 - 1.96 ) 0.901 Total premenopausal womenn = 34n = 69 Allele frequency ( total number of alleles ) T0.54 ( 37 ) 0.46 ( 64 ) G0.46 ( 31 ) 0.54 ( 74 ) Genotypic frequency ( total number of genotypes ) T / T0.32 ( 11 ) 0.25 ( 17 ) 1.0 ( Reference ) - T / G0.44 ( 15 ) 0.43 ( 30 ) 0.77 ( 0.26 - 2.30 ) 0.790 G / G0.24 ( 08 ) 0.32 ( 22 ) 0.56 ( 0.16 - 1.95 ) 0.457 T/G+G / G0.68 ( 23 ) 0.75 ( 52 ) 0.68 ( 0.25 - 1.86 ) 0.553 Total postmenopausal womenn=70n=36 Allele frequency ( total number of alleles ) T0.44 ( 61 ) 0.46 ( 33 ) G0.56 ( 79 ) 0.54 ( 39 ) Genotypic frequency ( total number of genotypes ) T / T0.20 ( 14 ) 0.22 ( 08 ) 1.0 ( Reference ) - T / G0.47 ( 33 ) 0.47 ( 17 ) 1.11 ( 0.34 - 3.56 ) 0.940 G / G0.33 ( 23 ) 0.31 ( 11 ) 1.19 ( 0.33 - 4.26 ) 0.983 T/G+G / G0.80 ( 56 ) 0.78 ( 28 ) 1.14 ( 0.38 - 3.36 ) 0.988 .
+Full-size table .
+View Within Article .
+Codon 72 ( Arg72Pro ) Polymorphism in p53 Gene .
+Significant protective association of p53 heterozygous arginine variant with breast cancer risk was found in total and postmenopausal women .
+ORs for Arg / Pro ( G / C ) genotype in total and postmenopausal women were 0.42 ( 95% CI , 0.22 - 0.81 , p = 0.007 ) and 0.25 ( 95% CI , 0.07 - 0.73 , p = 0.009 ) respectively .
+Pro / Pro genotype alone was not associated with breast cancer risk in the studied population .
+Arg / Pro ( G / C ) and Pro / Pro ( C / C ) genotype in combination showed significant protective association in total and postmenopausal women .
+Table 3. .
+Allelic and genotypic frequencies of polymorphism in codon 72 of p53 gene in case controls and breast cancer patients in Indian women .
+Patient frequency ( no. patients ) Case control frequency ( no. controls ) Odds ratio ( OR ) ( 95%CI ) p value Total womenn=104n=105 Allele frequency ( total number of alleles ) G0.66 ( 137 ) 0.58 ( 121 ) C0.34 ( 71 ) 0.42 ( 89 ) Genotypic frequency ( total number of genotypes ) G / G0.44 ( 46 ) 0.27 ( 28 ) 1.0 ( Reference ) - G / C0.43 ( 45 ) 0.62 ( 65 ) 0.42 ( 0.22 - 0.81 ) 0.007 C / C0.13 ( 13 ) 0.11 ( 12 ) 0.66 ( 0.24 - 1.81 ) 0.509 G/C+C / C0.56 ( 58 ) 0.73 ( 77 ) 0.46 ( 0.25 - 0.85 ) 0.012 Total premenopausal womenn = 34n = 69 Allele frequency ( total number of alleles ) G0.66 ( 45 ) 0.60 ( 83 ) C0.34 ( 23 ) 0.40 ( 55 ) Genotypic frequency ( total number of genotypes ) G / G0.47 ( 16 ) 0.32 ( 22 ) 1.0 ( Reference ) - G / C0.38 ( 13 ) 0.57 ( 39 ) 0.46 ( 0.17 - 1.23 ) 0.137 C / C0.15 ( 05 ) 0.12 ( 08 ) 0.86 ( 0.19 - 3.68 ) 0.923 G/C+C / C0.53 ( 18 ) 0.68 ( 47 ) 0.53 ( 0.21 - 1.33 ) 0.199 Total postmenopausal womenn = 70n = 36 Allele frequency ( total number of alleles ) G0.66 ( 92 ) 0.53 ( 38 ) C0.34 ( 48 ) 0.47 ( 34 ) Genotypic frequency ( total number of genotypes ) G / G0.43 ( 30 ) 0.17 ( 06 ) 1.0 ( Reference ) - G / C0.46 ( 32 ) 0.72 ( 26 ) 0.25 ( 0.07 - 0.73 ) 0.009 C / C0.11 ( 08 ) 0.11 ( 04 ) 0.40 ( 0.07 - 2.46 ) 0.241 G/C+C / C0.57 ( 40 ) 0.83 ( 30 ) 0.27 ( 0.08 - 0.77 ) 0.013 .
+Full-size table .
+View Within Article .
+Intron-6 ( G to A ) Polymorphism in p53 Gene .
+G to A polymorphism in intron-6 was not associated significantly with the breast cancer risk in total , premenopausal , or postmenopausal women .
+G / A and A / A genotype alone and in combination also were not associated significantly with the breast cancer risk ; however , the frequency of G / A genotype was greater in postmenopausal control women .
+Table 4. .
+Allelic and genotypic frequencies of polymorphism in intron-6 of p53 gene in case controls and breast cancer patients in Indian women .
+Patient frequency ( no. patients ) Case control frequency ( no. controls ) Odds ratio ( OR ) ( 95%CI ) p value Total womenn = 104n = 105 Allele frequency ( total number of alleles ) G0.87 ( 180 ) 0.84 ( 176 ) A0.13 ( 28 ) 0.16 ( 34 ) Genotypic frequency ( total number of genotypes ) G / G0.77 ( 80 ) 0.70 ( 74 ) 1.0 ( Reference ) - G / A0.19 ( 20 ) 0.27 ( 28 ) 0.66 ( 0.33 - 1.34 ) 0.280 A / A0.04 ( 04 ) 0.03 ( 03 ) 1.23 ( 0.20 - 8.69 ) 1.000 G/A+A / A0.23 ( 24 ) 0.30 ( 31 ) 0.72 ( 0.37 - 1.39 ) 0.367 Total premenopausal womenn = 34n = 69 Allele frequency ( total number of alleles ) G0.84 ( 57 ) 0.86 ( 119 ) A0.16 ( 11 ) 0.14 ( 19 ) Genotypic frequency ( total number of genotypes ) G / G0.74 ( 25 ) 0.75 ( 52 ) 1.0 ( Reference ) - G / A0.21 ( 07 ) 0.22 ( 15 ) 0.97 ( 0.31 - 2.97 ) 0.840 A / A0.06 ( 02 ) 0.03 ( 02 ) 2.08 ( 0.14 - 29.95 ) 0.597 G/A+A / A0.26 ( 09 ) 0.25 ( 17 ) 1.10 ( 0.39 - 3.09 ) 0.968 Total postmenopausal womenn=70n=36 Allele frequency ( total number of alleles ) G0.88 ( 123 ) 0.79 ( 57 ) A0.12 ( 17 ) 0.21 ( 15 ) Genotypic frequency ( total number of genotypes ) G / G0.79 ( 55 ) 0.61 ( 22 ) 1.0 ( Reference ) - G / A0.19 ( 13 ) 0.36 ( 13 ) 0.40 ( 0.15 - 1.10 ) 0.079 A / A0.03 ( 02 ) 0.03 ( 01 ) 0.80 ( 0.04 - 49.32 ) 1.000 G/A+A / A0.21 ( 15 ) 0.39 ( 14 ) 0.43 ( 0.16 - 1.13 ) 0.093 .
+Full-size table .
+View Within Article .
+Estimation of p53 Haplotypes .
+Among p53 Arg72Pro and p53 intron-6 G / A haplotypes , only C-A haplotype showed high frequency in control postmenopausal women as compared with respective patients .
+Table 5. .
+p53 haplotype ( Arg72Pro and intron-6 G / A ) distribution between cases and controls .
+Estimated haplotype frequency ( Patients ) ( Controls ) Odds Ratio ( OR ) ( 95%CI ) p value Total women ( Total allele ) n = 104 ( 208 ) n = 105 ( 210 ) G-G0.63 ( 131 ) 0.58 ( 121 ) 1.0 ( Reference ) - C-G0.23 ( 49 ) 0.26 ( 55 ) 0.82 ( 0.51 - 1.33 ) 0.472 C-A0.11 ( 22 ) 0.16 ( 34 ) 0.60 ( 0.32 - 1.12 ) 0.116 G-A0.03 ( 06 ) ( 00 ) - - Total premenopausal women ( Total allele ) n = 34 ( 68 ) n = 69 ( 138 ) G-G0.63 ( 43 ) 0.60 ( 83 ) 1.0 ( Reference ) - C-G0.21 ( 14 ) 0.26 ( 36 ) 0.75 ( 0.34 - 1.63 ) 0.545 C-A0.13 ( 09 ) 0.13 ( 19 ) 0.91 ( 0.35 - 2.36 ) 0.983 G-A0.03 ( 02 ) ( 00 ) - - Total postmenopausal women ( Total allele ) n = 70 ( 140 ) n = 36 ( 72 ) G-G0.63 ( 88 ) 0.53 ( 38 ) 1.0 ( Reference ) - C-G0.25 ( 35 ) 0.26 ( 19 ) 0.80 ( 0.38 - 1.65 ) 0.624 C-A0.10 ( 13 ) 0.21 ( 15 ) 0.37 ( 0.15 - 0.93 ) 0.032 G-A0.02 ( 04 ) ( 00 ) - -
+Full-size table .
+View Within Article .
+Association of MDM-2 SNP309 and p53 Arg72Pro Polymorphism in Combination .
+All possible genotypic combinations for both genes were analyzed in total , premenopausal and postmenopausal women .
+MDM-2 G / G genotype was not associated with pre- or postmenopausal breast cancer risk when analyzed alone ; however , a significant protective association with the breast cancer risk in premenopausal women was observed when analyzed in combination with p53 Arg / Pro ( G / C : OR , 0.06 ; 95% CI , 0.00-0.98 ; p = 0.040 ) .
+Although the frequency of G / G ( codon 72 in p53 ) and T / G ( MDM-2 SNP309 ) genotypes in combination in total patients and controls was calculated as 0.22 and 0.12 , no significant association with breast cancer risk was observed .
+The p53 Arg / Pro G/C and MDM-2 G / G combination did not exhibit significant association with total and postmenopausal breast cancer risk ( OR , 0.35 ; 95% CI , 0.07 - 1.62 , p = 0.227 for total and OR , 0.48 ; 95% CI , 0.01 - 6.44 ; p value ; 1.000 for postmenopausal women ) .
+MDM-2 T / G and G / G combined genotypes in combination with arginine heterozygous variant in p53 ( G / C , T/G+G / G ) showed significant protective association only in premenopausal women .
+The p53 C / C and MDM-2 T / G genotypes in combination also were not associated with breast cancer risk because ORs for C / C and T / G combined in total and premenopausal women were 0.80 ( 95% CI , 0.07 - 12.38 ; p = 1.000 ) and 0.60 ( 95% CI , 0.03 - 13.19 ; p = 1.000 ) , respectively .
+In the present study , none of the postmenopausal control women exhibited these genotypes in combination .
+Table 6. .
+Combinational genotypic frequencies of MDM-2 SNP309 and Arg72Pro polymorphism in case controls and breast cancer patients in Indian women .
+Underlined letters indicate MDM-2 genotypes .
+Patient frequency ( no. patients ) Case control frequency ( no. controls ) Odds ratio ( OR ) ( 95%CI ) p value Total womenn = 104n = 105 Genotypic frequency ( total number of genotypes ) G / G , T / T0.10 ( 10 ) 0.04 ( 04 ) 1.0 ( Reference ) - G / G , T / G0.22 ( 23 ) 0.12 ( 13 ) 0.71 ( 0.14 - 3.14 ) 0.745 G / G , G / G0.13 ( 13 ) 0.11 ( 11 ) 0.47 ( 0.08 - 2.31 ) 0.480 G / G , T/G+G / G0.35 ( 36 ) 0.23 ( 24 ) 0.60 ( 0.12 - 2.41 ) 0.625 G / C , T / T0.11 ( 11 ) 0.17 ( 18 ) 0.24 ( 0.05 - 1.15 ) 0.082 G / C , T / G0.20 ( 21 ) 0.31 ( 32 ) 0.26 ( 0.05 - 1.08 ) 0.068 G / C , G / G0.13 ( 13 ) 0.14 ( 15 ) 0.35 ( 0.07 - 1.62 ) 0.227 G / C , T/G+G / G0.33 ( 34 ) 0.45 ( 47 ) 0.29 ( 0.06 - 1.12 ) 0.080 C / C , T / T0.04 ( 04 ) 0.03 ( 03 ) 0.53 ( 0.06 - 5.53 ) 0.638 C / C , T / G0.04 ( 04 ) 0.02 ( 02 ) 0.80 ( 0.07 - 12.38 ) 1.000 C / C , G / G0.05 ( 05 ) 0.07 ( 07 ) 0.29 ( 0.04 - 1.88 ) 0.257 C / C , T/G+G / G0.09 ( 09 ) 0.09 ( 09 ) 0.40 ( 0.07 - 2.16 ) 0.388 Total premenopausal womenn=34n=69 Genotypic frequency ( total number of genotypes ) G / G , T / T0.15 ( 05 ) 0.04 ( 03 ) 1.0 ( Reference ) - G / G , T / G0.18 ( 06 ) 0.16 ( 11 ) 0.33 ( 0.04 - 2.50 ) 0.389 G / G , G / G0.15 ( 05 ) 0.12 ( 08 ) 0.38 ( 0.04 - 3.13 ) 0.386 G / G , T/G+G / G0.32 ( 11 ) 0.28 ( 19 ) 0.35 ( 0.05 - 2.25 ) 0.243 G / C , T / T0.15 ( 05 ) 0.17 ( 12 ) 0.25 ( 0.03 - 1.98 ) 0.193 G / C , T / G0.21 ( 07 ) 0.25 ( 17 ) 0.25 ( 0.03 - 1.75 ) 0.116 G / C , G / G0.03 ( 01 ) 0.15 ( 10 ) 0.06 ( 0.00 - 0.98 ) 0.040 G / C , T/G+G / G0.24 ( 08 ) 0.39 ( 27 ) 0.18 ( 0.02 - 1.20 ) 0.041 C / C , T / T0.03 ( 01 ) 0.03 ( 02 ) 0.30 ( 0.000 - 9.20 ) 0.545 C / C , T / G0.06 ( 02 ) 0.03 ( 02 ) 0.60 ( 0.03 - 13.19 ) 1.000 C / C , G / G0.06 ( 02 ) 0.06 ( 04 ) 0.30 ( 0.02 - 4.13 ) 0.592 C / C , T/G+G / G0.12 ( 04 ) 0.09 ( 06 ) 0.40 ( 0.04 - 3.77 ) 0.637 Total postmenopausal womenn=70n=36 Genotypic frequency ( total number of genotypes ) G / G , T / T0.07 ( 05 ) 0.03 ( 01 ) 1.0 ( Reference ) - G / G , T / G0.24 ( 17 ) 0.06 ( 02 ) 1.70 
+( 0.02 - 38.70 ) 1.000 G / G , G / G0.11 ( 08 ) 0.08 ( 03 ) 0.53 ( 0.01 - 9.44 ) 1.000 G / G , T/G+G / G0.36 ( 25 ) 0.14 ( 05 ) 1.00 ( 0.02 - 12.49 ) 1.000 G / C , T / T0.09 ( 06 ) 0.17 ( 06 ) 0.20 ( 0.00 - 2.89 ) 0.315 G / C , T / G0.20 ( 14 ) 0.42 ( 15 ) 0.19 ( 0.00 - 2.06 ) 0.187 G / C , G / G0.17 ( 12 ) 0.14 ( 05 ) 0.48 ( 0.01 - 6.44 ) 1.000 G / C , T/G+G / G0.37 ( 26 ) 0.56 ( 20 ) 0.26 ( 0.01 - 2.65 ) 0.381 C / C , T / T0.04 ( 03 ) 0.03 ( 01 ) 0.60 ( 0.01 - 62.65 ) 1.000 C / C , T / G0.03 ( 02 ) ( 00 ) - - C / C , G / G0.04 ( 03 ) 0.08 ( 03 ) 0.20 ( 0.00 - 4.50 ) 0.545 C / C , T/G+G / G0.07 ( 05 ) 0.08 ( 03 ) 0.33 ( 0.01 - 6.48 ) 0.580 .
+Full-size table .
+View Within Article .
+Association of MDM-2 SNP309 and p53 Intron-6 Polymorphism in Combination .
+Statistical analysis of all possible combinations for G to A ( intron-6 in p53 ) and T to G ( MDM-2 ) polymorphism did not show significant association with breast cancer risk in total , premenopausal , and postmenopausal women .
+Although p53 G / A and MDM-2 T / G in combination showed differences in frequencies between cases and controls in total , premenopausal and postmenopausal women but lack significant association with breast cancer risk .
+Table 7. .
+Combinational genotypic frequencies of MDM-2 SNP309 and p53 intron-6 polymorphism in case controls and breast cancer patients in Indian women .
+Underlined letters indicate MDM- 2 genotypes .
+Patient frequency ( no. patients ) Case control frequency ( no. controls ) Odds ratio ( OR ) ( 95%CI ) p value Total womenn = 104n = 105 Genotypic frequency ( total number of genotypes ) G / G , T / T0.15 ( 16 ) 0.15 ( 16 ) 1.0 ( Reference ) - G / G , T / G0.37 ( 38 ) 0.30 ( 31 ) 1.23 ( 0.49 - 3.09 ) 0.794 G / G , G / G0.25 ( 26 ) 0.26 ( 27 ) 0.96 ( 0.37 - 2.54 ) 0.888 G / G , T/G+G / G0.62 ( 64 ) 0.55 ( 58 ) 1.10 ( 0.47 - 2.58 ) 0.960 G / A , T / T0.08 ( 08 ) 0.08 ( 08 ) 1.00 ( 0.26 - 3.92 ) 0.759 G / A , T / G0.09 ( 09 ) 0.15 ( 16 ) 0.56 ( 0.17 - 1.87 ) 0.430 G / A , G / G0.03 ( 03 ) 0.04 ( 04 ) 0.75 ( 0.09 - 5.28 ) 1.000 G / A , T/G+G / G0.12 ( 12 ) 0.19 ( 20 ) 0.60 ( 0.20 - 1.82 ) 0.449 A / A , T / T0.01 ( 01 ) 0.01 ( 01 ) 1.00 ( 0.01 - 83.34 ) 1.000 A / A , T / G0.01 ( 01 ) ( 00 ) - - A / A , G / G0.02 ( 02 ) 0.02 ( 02 ) 1.00 ( 0.07 - 15.39 ) 1.000 A / A , T/G+G / G0.03 ( 03 ) 0.02 ( 02 ) 1.50 ( 0.15 - 20.02 ) 1.000 Total premenopausal womenn=34n=69 Genotypic frequency ( total number of genotypes ) G / G , T / T0.21 ( 07 ) 0.16 ( 11 ) 1.0 ( Reference ) - G / G , T / G0.35 ( 12 ) 0.32 ( 22 ) 0.86 ( 0.23 - 3.28 ) 0.962 G / G , G / G0.18 ( 06 ) 0.28 ( 19 ) 0.50 ( 0.11 - 2.23 ) 0.476 G / G , T/G+G / G0.53 ( 18 ) 0.59 ( 41 ) 0.69 ( 0.20 - 2.37 ) 0.706 G / A , T / T0.09 ( 03 ) 0.07 ( 05 ) 0.94 ( 0.11 - 6.89 ) 1.000 G / A , T / G0.09 ( 03 ) 0.12 ( 08 ) 0.59 ( 0.08 - 3.77 ) 0.694 G / A , G / G0.03 ( 01 ) 0.03 ( 02 ) 0.79 ( 0.01 - 18.11 ) 1.000 G / A , T/G+G / G0.12 ( 04 ) 0.15 ( 10 ) 0.63 ( 0.10 - 3.48 ) 0.711 A / A , T / T0.03 ( 01 ) 0.01 ( 01 ) 1.57 ( 0.02 - 134.40 ) 1.000 A / A , T / G ( 00 ) ( 00 ) - - A / A , G / G0.03 ( 01 ) 0.01 ( 01 ) 1.57 ( 0.02 - 134.40 ) 1.000 A / A , T/G+G / G0.03 ( 01 ) 0.01 ( 01 ) 1.57 ( 0.02 - 134.40 ) 1.000 Total postmenopausal womenn=70n=36 Genotypic frequency ( total number of genotypes ) G / G , T / T0.13 ( 09 ) 0.14 ( 05 ) 1.0 ( Reference ) - G / G , T / G0.37 ( 26 ) 0.25 ( 09 ) 1.60 ( 0.33 - 7.19 ) 0.502 G / G , G / G0.29 ( 20 ) 0.22 
+( 08 ) 1.39 ( 0.27 - 6.55 ) 0.729 G / G , T/G+G / G0.66 ( 46 ) 0.47 ( 17 ) 1.50 ( 0.34 - 5.86 ) 0.525 G / A , T / T0.07 ( 05 ) 0.08 ( 03 ) 0.93 ( 0.11 - 8.63 ) 1.000 G / A , T / G0.09 ( 06 ) 0.22 ( 08 ) 0.42 ( 0.07 - 2.43 ) 0.448 G / A , G / G0.03 ( 02 ) 0.06 ( 02 ) 0.56 ( 0.03 - 10.25 ) 1.000 G / A , T/G+G / G0.11 ( 08 ) 0.28 ( 10 ) 0.44 ( 0.08 - 2.32 ) 0.448 A / A , T / T ( 00 ) ( 00 ) - - A / A , T / G0.01 ( 01 ) ( 00 ) - - A / A , G / G0.01 ( 01 ) 0.03 ( 01 ) 0.56 ( 0.01 - 52.25 ) 1.000 A / A , T/G+G / G0.03 ( 02 ) 0.03 ( 01 ) 1.11 ( 0.05 - 78.50 ) 1.000 .
+Full-size table .
+View Within Article .
+Hardy-Weinberg Equilibrium .
+The genotypic frequencies for each SNP in cases and controls did not show statistically significant deviation from expected frequencies except for p53 Arg72Pro polymorphism in total and postmenopausal controls .
+The observed frequencies for total controls were 28 , 65 , 12 , and expected frequencies were 34.9 , 51.3 , 18.9 for G / G , G / C , and C / C ( p = 0.023 ) .
+Similarly , for postmenopausal controls the observed frequencies were 6 , 26 , 4 and expected were 10.0 , 17.9 , 8.0 for G / G , G / C and C / C respectively ( p = 0.026 ) .
+Discussion .
+Breast cancer is the second most common cancer among females after uterine cervix in India ( 27 ) .
+Women with germ line mutations in p53 gene are at high risk for developing breast cancer .
+A polymorphism at codon 72 in p53 gene significantly affects its function .
+Arg 72 is more susceptible to degradation by human papilloma virus ( HPV ) E6 type-18 protein and suppresses cellular transformation more effectively than Pro 72 ( 6 ) and ( 28 ) .
+On the other hand , Arg 72 is more efficient than Pro72 at inducing apoptosis ( 29 ) .
+Because of its lower ability to induce apoptosis in vitro , Pro 72 is speculated to be associated with breast cancer risk ( 29 ) ; however , several contradictory reports are available within and outside the Caucasian and Japanese populations ( 29 ) .
+Racial , ethnic , and environmental differences play a critical role in the pathogenesis of breast cancer and are probably responsible for differential findings .
+India is a country of diverse racial , ethnic and environmental exposures ; therefore , assessment of contribution of germ line mutations in p53 gene and their association with breast cancer risk was inevitable in Indian population .
+Tumor suppressor protein p53 is regulated in low levels in normally dividing cells through its interaction with MDM-2 ( 11 ) , ( 15 ) and ( 30 ) .
+Incidences of breast cancer could be greater in a population possessing reduced p53 activity because of polymorphism in p53 along with increased MDM-2 expression due to polymorphism in MDM-2 gene .
+Reverse combinations within a population could attenuate breast cancer risk .
+Although various investigators demonstrated independent associations / lack of associations of polymorphism in p53 and MDM-2 genes ( 2 ) , ( 19 ) , ( 23 ) , ( 31 ) , ( 32 ) , ( 33 ) , ( 34 ) , ( 35 ) and ( 36 ) with breast cancer risk and only few reports are available for combinational studies ( 18 ) but no such reports are available in Indian population .
+In this study , an increased frequency of G / C , decreased frequency of G / G and lack of significant difference in the frequency of C / C genotype in p53 Arg72Pro were found in case controls in Indians as compared with Japanese women ( 23 ) and ( 33 ) .
+On the other hand , Non-Ashkenazi Jews controls exhibited decreased frequency and Ashkenazi Jews controls showed increased frequency of G / G genotype when compared with Indian controls ( 37 ) .
+Lack of significant difference in genotypic frequency of G / G and decreased frequency of G / C were found in Turkish controls as compared with Indian controls ( 38 ) .
+Frequencies of MDM-2 SNP309 in Indian controls showed some similarity with the Chinese and marked dissimilarity with the British and African-Americans or white control populations ( 19 ) , ( 34 ) and ( 39 ) .
+An association of G allele in p53 Arg72Pro with breast cancer risk was observed in this study although was not statistically significant .
+G allele in p53 induces apoptosis and is biologically weaker in its ability to prevent cellular transformation than C allele ( 23 ) , ( 29 ) and ( 40 ) and probably acts as a breast cancer prone allele in Indian population .
+Even in Caucasians and Turkish G / G homozygous increases breast cancer risk ( 38 ) and ( 41 ) .
+Contradictory reports are also available in literature implicating the involvement of Pro / Pro ( C / C ) genotype in breast cancer risk especially in estrogen receptor positive postmenopausal women in Japanese ( 23 ) and ( 33 ) .
+Although lack of association between Arg / Arg ( G / G ) genotype in p53 and breast cancer risk was observed but the frequency of p53 arginine homozygous ( G / G ) in combination with MDM-2 variants ( T / T or T / G ) was higher in Indian breast cancer patients as compared with controls .
+This could also be explained on the basis of predominantly regulated activation of arginine allele during cancer development ( 40 ) or caused by variable environmental conditions , unique food habits and other life style factors in India .
+Although some controls and patients were not properly age matched , but similar patterns are expected in properly age matched controls , as SNPs are germline mutations and do not significantly change with the age in a population .
+Molecular epidemiological study on the association of combinations of SNP in MDM-2 and p53 genes with breast cancer risk was performed since genetic variations in p53 gene play a critical role in the pathogenesis of breast cancer ( 2 ) , ( 3 ) , ( 4 ) and ( 5 ) and MDM-2 inhibits p53 activity by regulating its location , stability and transcription ( 42 ) .
+Although a significant protective association between Arg / Pro ( G / C ) genotype and breast cancer risk was found in total and postmenopausal women but lack of statistically significant association was observed between MDM-2 SNP309 and breast cancer risk in total , premenopausal and postmenopausal Indian women .
+The present study provided an evidence for earlier findings that MDM-2 polymorphism alone is not significantly associated with sporadic or heritable breast cancer risk ( 19 ) , ( 34 ) and ( 35 ) .
+MDM-2 SNP309 polymorphism alone did not exhibit significant protective association with total , premenopausal and postmenopausal breast cancer risk , however , a significant protective association was observed in premenopausal women containing both heterozygous arginine and homozygous SNP309 variants .
+MDM-2 SNP309 was not found to be associated with early onset or familial breast cancer in British and German populations and sporadic breast cancer onset in Chinese , African-Americans or white and Turkish population ( 19 ) , ( 34 ) , ( 35 ) , ( 36 ) and ( 39 ) .
+During the sequence analysis a single nucleotide polymorphism was seen in intron-6 of p53 gene that was also reported by investigators in other populations ( 7 ) .
+Intron-6 polymorphism was also analyzed alone and in combination with MDM-2 SNP309 to assess its association with breast cancer risk in Indian women .
+Individual and combined genotype analysis of intron-6 with MDM-2 SNP309 did not show any association with breast cancer risk in Indian women .
+The discrepancy in associations of polymorphism in various genes with breast cancer risk could be due to ethnic variations , differences in environmental factors and life style among various populations .
+In conclusion , MDM-2 SNP309 polymorphism alone cannot be used as a predictive factor for assessing breast cancer risk in Indian population as reported in some populations ( 19 ) , ( 34 ) , ( 36 ) and ( 39 ) .
+However , p53 Arg72Pro alone or in combination with MDM-2 SNP309 may help in assessing breast cancer risks in Indian women .
+The study showed protective associations of p53 Arg72Pro heterozygous variant with postmenopausal and SNP309 homozygous variant along with p53 Arg72Pro heterozygous variant with premenopausal breast cancer risk in Indian women .
+The results obtained thus suggest a variable association pattern of polymorphism between premenopausal and postmenopausal breast cancer risks in Indian population .
+The expression of genes depends on several intrinsic and extrinsic factors therefore polymorphism in p53 or MDM-2 genes alone could not predict the breast cancer risk with absolute confidence and effects caused by polymorphism in these genes might be counteracted with some other variables that include genetic and environmental factors .
+Understanding the polymorphism in other genes of various pathways involved in breast cancer onset and their regulatory genes in combination with p53 and MDM-2 may probably assess accurate breast cancer risks .
+We thank the University Grant Commission ( UGC ) , New Delhi , India , for providing a research fellowship to Virendra Singh .
+We also thank TCGA , New Delhi , India , for sequencing PCR amplicons .
+The ITRC Communication number of this article is 2518 .

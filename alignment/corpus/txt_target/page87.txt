@@ -1,0 +1,204 @@
+Cadmium ( Cd ) is a heavy metal that is widely distributed throughout the environment as a result of pollution from a variety of sources .
+The environmental exposure to Cd occurs through contaminated food and cigarette smoke .
+For the general population , tobacco smoking is an important source of Cd exposure ( WHO / ICPS , 1992 ) .
+Cd is classified as a category I carcinogen by the International Agency for Research on Cancer ( IARC , 1993 ) .
+However , in comparison with the other carcinogenic metals , Cd is not a strong cancer initiator and instead , it is a weak mutagen  .
+Cd-induced stimulation of cellular signaling at various stages of the mitogenic cascade , such as proto-oncogene expression , DNA synthesis , and cell proliferation in various mammalian cell systems , is thought to be the mechanisms for the carcinogenic action of this metal .
+During the last decade , a growing body of evidence has accumulated suggest , that , in certain cell types , micromolar concentration of Cd is able to initiate a series of rapid signaling events including : generation of second massagers ( IP3 , cAMP ) within 15 - 30 s ( [ Smith et al. , 1989 ] and [ Yamagami et al. , 1998 ] ) ; increase in intracellular calcium within 3 min ( [ Smith et al. , 1989 ] and [ Yamagami et al. , 1998 ] ) ; activation of certain kinases ( [ Hung et al. , 1998 ] , [ Galan et al. , 2000 ] , [ Misra et al. , 2002 ] and [ Misra et al. , 2003 ] ) ; and induction of early response genes c-fos and c-myc within 30 min ( [ Beyersmann and Hechtenberg , 1997 ] , [ Misra et al. , 2002 ] and [ Misra et al. , 2003 ] ) .
+Since these signals are generated soon after Cd exposure , it argues against a physiological interaction between Cd and intracellular proteins .
+It has been postulated that Cd might bind to and activate a putative cell membrane receptor and trigger the downstream signaling events .
+However , only a limited number of studies ( [ Misra et al. , 2002 ] and [ Misra et al. , 2003 ] ) have explored this possibility , and there is no definitive study that elucidates the nature of the receptor that might possibly mediate this effect .
+Estrogen can modulate cellular functions through non-genomic actions which are initiated from the cell membrane .
+There are two proposed models for the rapid response to estrogen action .
+The first model proposes that the membrane-bound estrogen receptor alpha ( mER ) is associated with the cell membrane proteins , including G protein and receptor tyrosine kinase , and mediates the rapid signaling induced by estrogen ( [ Razandi et al. , 2003a ] , [ Razandi et al. , 2003b ] , [ Razandi et al. , 2004 ] and [ Pedram et al. , 2006 ] ) .
+The second model proposes that another membrane G protein-coupled protein , GPR30 is involved in this process ( [ Filardo et al. , 2000 ] , [ Filardo et al. , 2002 ] , [ Norman et al. , 2004 ] , [ Hewitt et al. , 2005 ] , [ Revankar et al. , 2005 ] and [ Thomas et al. , 2005 ] ) .
+Although the nature of mER is still debated ( [ Song and Santen , 2006 ] and [ Warner and Gustafsson , 2006 ] ) , there is evidence that in certain cell types , a small fraction of ER , that is associated with the cell membrane and originates from the same transcript of classical ER , is required for rapid effects of estrogen ( [ Razandi et al. , 2003a ] , [ Razandi et al. , 2003b ] , [ Razandi et al. , 2004 ] , [ Song et al. , 2004 ] and [ Pedram et al. , 2006 ] ) .
+At relatively low doses ( 5 - 10 g / kg , ip ) , Cd is able to increase uterine weight , promote growth and development of mammary gland , and induce hormone-regulated genes in ovariectomized rats  .
+As a xenoestrogen , Cd has the ability to bind to ER with high affinity ( Kd = 4.5 1010 ) , and activate and alter estrogen target gene transcription and expression ( [ Garcia-Morales et al. , 1994 ] and [ Stoica et al. , 2000 ] ) .
+If the non-genomic effects of 17 estradiol ( E2 ) are mediated by mER , it is conceivable that Cd may also trigger a rapid signaling cascade by the same mechanism .
+Mitogen activated protein kinases ( MAPKs ) are serine / threonine protein kinases that play important roles in the signaling cascades regulating cellular process such as cell proliferation , differentiation and apoptosis .
+Three major subfamilies have been described : extracellular-regulated kinases ( ERK ) , c-JUN N-terminal kinase ( JNK ) , and p38 kinase .
+Depending on the cellular context and stimulators , there is a significant cross talk between transduction modules as they can respond to a common upstream activator and phosphorylate common down stream target .
+In general , the ERK pathway is preferentially activated in response to growth and differentiation factors , while JNK and p38 kinase are more sensitive to stress stimuli including heat shock , inflammatory cytokines , ultraviolet and gamma irradiation , and hyperosmolarity  .
+The cells show different temporal and dose-response patterns to Cd treatment in terms of activation of MAPKs .
+Among the three major subfamilies of MAPKs , ERK1 / 2 is usually activated by Cd much earlier than JNK and p38 kinase ( [ Alam et al. , 2000 ] , [ Chuang et al. , 2000 ] , [ Chuang and Yang , 2001 ] , [ Huang et al. , 2001 ] and [ Iryo et al. , 2000 ] ) .
+Additionally , rapid activation of ERK1 / 2 is widely used as an endpoint to reflect E2-induced non-genomic effects in a variety of cell types ( [ Filardo et al. , 2000 ] , [ Filardo et al. , 2002 ] , [ Razandi et al. , 2003a ] , [ Razandi et al. , 2003b ] , [ Razandi et al. , 2004 ] and [ Pedram et al. , 2006 ] ) .
+The activation of either ERK1 / 2 or AKT , or both pro-survival kinases , could prevent cells from undergoing apoptosis induced by certain chemical or physical agents .
+The serine / threonine protein kinase PI3K / AKT is also activated by various growth and survival factors .
+AKT promotes cell survival through two distinct pathways : inhibition of apoptosis by phosphorylation of the Bad component of the Bad / Bcl - XL complex , causing dissociation of the Bad / Bcl - XL complex and allowing cell survival ; and activation of IKK that ultimately leads to NF-kB activation and cell survival  .
+E2 can induce the activation of AKT in endothelial cells from wild type mice within 15 min , but not in cells from ER / ER combined-deleted mice  .
+Misra_et_al.  reported that in 1LN prostate cells AKT was activated by 1 M Cd within 20 min .
+The present study was designed to investigate rapid signaling in response to Cd in three human breast cancer cell lines with different expression profiles for ER , ER and GPR30 .
+Materials and methods Chemicals and biochemicals .
+E2 and phenol red-free DMEM / Ham 's F12 were obtained from Sigma-Aldrich ( St. Louis , MO ) .
+Fetal bovine serum ( FBS ) was purchased from HyClone ( Logan , UT ) .
+The synthetic estrogen antagonist ICI 182,780 was purchased from Sigma-Aldrich ( St. Louis , MO ) .
+Antibodies against phospho-ERK1 / 2 ( Thr202 / Tyr204 ) , phospho-AKT ( Ser473 ) , phospho-ER ( Ser118 ) , ERK2 , and AKT were purchased from Cell Signaling Technology ( Danvers , MA ) .
+The Anti-ER ( HC-20 ) antibody was purchased from Santa Cruz Biotechnology ( Santa Cruz , California ) .
+Blocking buffer was obtained from Li-Cor ( Lincon , NE ) .
+For siRNA studies , a smart pool of double-stranded siRNA against human ER ( hER ; M-003401-02 ) and non-specific siRNA ( D-001206-01-05 ) were obtained from Dharmacon Tech ( Lafayette , CO ) .
+The siRNA transfection reagent siPORT lipid was purchased from Ambion ( Austin , TX ) .
+All the other chemical reagents were either from Sigma-Aldrich ( St. Louis , MO ) or Fisher Scientific ( Suwanee , GA ) .
+Cell culture .
+The three breast cancer cell lines , MCF-7 ( ER- , ER- , and GPR30-positive ) , MDA-MB-231 ( ER-positive ) , and SK-BR-3 ( GPR30 positive ) , were purchased from American Type Culture Collection ( Mannassas , VA ) .
+The cells were grown and maintained in phenol red-free DMEM / Ham 's F12 medium ( 1:1 ) containing 1.2 g / L sodium bicarbonate , 10% FBS and 50 mg / L gentamicin ( [ Filardo et al. , 2000 ] and [ Filardo et al. , 2002 ] ) .
+Stock cultures were maintained in the complete medium in a humidified atmosphere of 95% air 5% CO2 at 37 C and employed for experiments within 15 serial passages .
+The cells were sub-cultivated every 6 - 7 days using a mixture of 0.25% trypsin and 0.03% EDTA .
+Cell exposure and preparation of cell extract .
+The cells ( 1 105 / cm2 ) were seeded in T-75 flasks or 6 well cell culture plates in phenol red-free DMEM / F-12 medium containing 10% FBS .
+The next day , the medium was replaced with the phenol red-free , serum-free medium and the cells were maintained for 48 h .
+Treatment of quiescent cells ( 60% - 80% confluences ) with Cd was carried out at 37 C in phenol red-free , serum-free , medium as described in the Fig. legends .
+Since 10 M Cd has been commonly used by other researchers for studying the effects of Cd on MAPKs ( [ Chuang et al. , 2000 ] , [ Chuang and Yang , 2001 ] , [ Huang et al. , 2001 ] and [ Iryo et al. , 2000 ] ) , the same concentration was used in the present study for comparison with the earlier reports .
+As determined by the MTT and trypan blue exclusion assays , treatment of cells with 10 M Cd for 60 min did not cause cytotoxicity ( data not show ) .
+At the end of Cd treatment , the cells were washed twice with ice-cold phosphate-buffered saline ( PBS ) and lysed with ice-cold RIPA buffer ( 150 mM sodium chloride , 100 mM Tris , pH 7.5 , 1% deoxycholatic sodium , 0.1% sodium dodecyl sulfate ( SDS ) , 1% Triton X-100 , 100 mM sodium pyrophosphate , 3.5 mM NaVO4 , 2 mM PMSF , 50 mM NaF , 2 mM EDTA , plus protease inhibitor cocktail at a ratio of 1000:1 ) .
+The cell lysates were centrifuged at 13,000 g for 15 min and the supernatants were stored at 80 C until analyzed .
+The protein concentration was determined using Micro BCA reagent kit from Pierce Biotechnology ( Rockford , IL ) , according to the manufacturer 's instructions .
+Western blot analysis .
+Prior to electrophoresis , the cell extracts were heated at 95 - 100 C for 5 min in Laemmli buffer containing 5% -mecaptoethanol .
+The amount of protein in the extract used for electrophoresis was kept constant in the same experiment but varied between the experiments ( 15 - 30 g ) .
+After electrophoresis , the proteins were electrotransferred to nitrocellulose membranes at 20 V for 20 min by using Trans-Blot SD Semi-dry Transfer Cell ( Bio-Rad , Hercules , CA ) .
+The membranes were then blocked with the Li-Cor blocking buffer for 1 h at room temperature and incubated with primary antibodies diluted in PBS-0.1% Tween-20 containing 2.5% BSA ( PBST-BSA ) overnight at 4 C or for 1 h at room temperature .
+The nitrocellulose membranes were washed and incubated with secondary antibody labeled with Alexa Fluor 680 ( 1:15,000 diluted in blocking buffer containing 0.1% Tween-20 ) for 1 h , followed by extensive washing with PBS-0.1% Tween-20 .
+The washed membranes were scanned with the Odyssey Infrared Imager ( Li-Cor , Lincon , NE ) and the optical density of the bands was quantified by using the application software version 1.2.15. .
+Transfection with the small interfering RNA ( siRNA )
+The siRNA transfection was conducted according to the instructions provided by Dharmacon Tech ( Lafayette , CO ) .
+Briefly , the cells were transfected with either non-specific siRNA ( control ) or siRNA against human ER ( hER ) , and allowed to recover overnight .
+The cells were serum-deprived for 24 h prior to treatment with Cd .
+Data analysis .
+Each experiment was repeated three times and the optical density data were statistically analyzed for significant differences by one-way ANOVA , followed by the Tukey - Kramer test , at p 0.05. .
+Results Activation of ERK1 / 2
+The presence of phosphorylated threonine and tyrosine residues in MAPK correlates with the activities of kinases .
+Thus , to assess activated ERK1 / 2 levels , the cell extracts were processed using Western blot analyses using antibodies against phosphorylated peptides encompassing ERK1 / 2 residues .
+First , the time-course of Cd-induced ERK1 / 2 activation was compared between the MCF-7 , MDA-MB-231 , and SK-BR-3 cells .
+E2 was used as a positive control and response pattern comparisons were made between E2 ( 10 nM ) and Cd ( 10 M ) .
+The effect of medium change on the ERK1 / 2 phosphorylation was examined in untreated MCF-7 cells and no significant changes were observed ( data not shown ) .
+As depicted in Fig. 1A , B , G , and H , the temporal response pattern of ERK1 / 2 activation induced by Cd in MCF-7 cells was similar to that induced by E2 .
+Maximal ERK1 / 2 activation by both E2 and Cd was observed at 2.5 min followed by a gradual decrease over the 60 min period .
+In contrast to the MCF-7 cells , neither Cd nor E2 activated ERK1 / 2 in the MDA-MB-231 cells that express only ER ( Fig. 1C , D , G , and H ) .
+However , in the SK-BR-3 cells , that express only GPR30 , both Cd and E2 caused transient activation of ERK1 / 2 ( Fig. 1E , F , G , and H ) , similar to that observed in the MCF-7 cells .
+These results indicated that mER and GPR30 , but not ER were important in Cd-induced rapid signaling of ERK1 / 2 .
+Full-size image ( 96K )
+High-quality image ( 783K )
+Fig. 1. Time-course of ERK1 / 2 activation by Cd and E2 in three different breast cancer cell lines. ( A , B ) MCF-7 cells , ( C , D ) MDA-MB-231 cells , and ( E , F ) SK-BR-3 cells .
+The quiescent cells were treated with 10 M Cd or 10 nM E2 for up to 60 min .
+Comparison of temporal response patterns of Cd- and E2-induced ERK1 / 2 activation in the three cell lines is shown in G and H. Data are presented as mean SD from three independent experiments .
+Significantly higher than the basal level for the respective cells ( p 0.05 ) .
+View Within Article .
+The concentration-response data of MCF-7 cells to 0.5 - 10 M Cd are shown in Fig. 2A and B. The cells exposed to the lowest concentration of Cd ( 0.5 M ) for 2.5 min showed a significant increase ( 2.2 fold ) in ERK1 activation .
+The maximum activation ( 6.3 fold ) was seen at 5 - 10 M Cd .
+Full-size image ( 18K )
+High-quality image ( 150K )
+Fig. 2. Concentration-response pattern of ERK1 / 2 activation by Cd in MCF-7 cells .
+Quiescent MCF-7 cells were treated with up to 10 M Cd for 2.5 min .
+Data are presented as mean SD from three independent experiments .
+Significantly higher than the basal level ( p 0.05 ) .
+View Within Article .
+Activation of AKT .
+Since AKT is activated through phosphorylation of threonine by an upstream kinase , the activation of AKT can be detected by Western blot analysis using a phospho-specific antibody that recognizes the peptide containing threonine residues .
+As with ERK1 / 2 , medium change had no significant effect on the phosphorylation of AKT in the untreated MCF-7 cells ( data not shown ) .
+As shown in Fig. 3A and G , Cd significantly increased ( 3.3 fold ) the phosphorylated AKT in MCF-7 cells within 2.5 min and continued to do so ( 5.4 fold ) for the duration of the experiment .
+The E2- induced AKT activation exhibited a similar pattern ( Fig. 3B and H ) .
+In the MDA-MB-231 cells , Cd but not E2 induced a moderate activation of AKT only at 60 min ( Fig. 3C , D , G and H ) .
+In comparison , AKT phosphorylation in the SK-BR-3 cells was not affected by either Cd or E2 at any time , similar to the response of these cells to ERK1 / 2 phosphorylation .
+Thus , these data also pointed to the involvement of mER in AKT signaling by Cd .
+Full-size image ( 80K )
+High-quality image ( 669K )
+Fig. 3. Time-course of AKT activation by Cd and E2 in three different breast cancer cell lines. ( A , B ) MCF-7 cells , ( C , D ) MDA-MB-231 cells , and ( E , F ) SK-BR-3 cells .
+The quiescent cells were treated with 10 M Cd or 10 nM E2 for up to 60 min .
+Comparison of temporal response pattern of Cd- and E2-induced AKT activation in the three cell lines is shown in G and H. Data are presented as mean SD from three independent experiments .
+Significantly higher than the basal level for the respective cells ( p 0.05 ) .
+View Within Article .
+Phosphorylation of ER .
+The results obtained for both ERK1 / 2 and AKT phosphorylation in the MCF-7 cells suggested that mER might play a role in Cd-induced rapid signaling .
+Thus , to further delineate its involvement in signaling process , the phosphorylation of ER was investigated in quiescent MCF-7 cells after treatment with Cd and E2 .
+As shown in Fig. 4A and C , Cd transiently elevated ( 3.9 fold ) the level of phosphorylated receptor at 2.5 min .
+In comparison , E2 caused a gradual and more sustained ER phosphorylation .
+Full-size image ( 29K )
+High-quality image ( 250K )
+Fig. 4. Time-course of ER phosphorylation by Cd and E2 in MCF-7 cells .
+Phosphorylation of ER in quiescent cells by : ( A , C ) 10 M Cd , and ( B ) 10 nM E2 .
+Temporal response pattern of Cd is shown in C. Data are presented as mean SD from three independent experiments .
+Significantly higher than the basal level ( p 0.05 ) .
+View Within Article .
+Effect of an estrogen antagonist on ERK1 / 2 and AKT activation .
+Since E2-induced rapid activation of ERK1 / 2 in MCF-7 cells is through mER , ICI 182,780 , an estrogen antagonist , is able to antagonize both E2-induced genomic and non-genomic rapid signaling effects .
+In the present study , the possible role of mER in Cd-induced rapid signaling was examined using the same antagonist .
+The quiescent MCF-7 cells were pretreated with 10 M ICI 182,780 for 15 min , and then treated with 10 M Cd or 10 nM E2 for 2.5 min in the presence of the antagonist .
+The ICI 182,780 stock solution ( 10 mM ) was prepared in ethanol , thus the control cells were incubated with medium containing 0.1% ethanol .
+As depicted in Fig. 5A - D , whereas the antagonist completed blocked the E2-induced phosphorylation of both kinases .
+It had no significant effect on the Cd-induced phosphorylation of either kinase .
+Lack of effect of Cd-induced activation of ERK1 / 2 and AKT by the receptor antagonist was contrary to all the other results obtained thus far and suggested an mER-independent mechanism .
+Full-size image ( 48K )
+High-quality image ( 450K )
+Fig. 5. Effect of ER antagonist on Cd- and E2-induced activation of ERK1 / 2 and AKT in MCF-7 cells .
+The quiescent cells were pretreated with ICI 182,780 ( 10 M ) or the vehicle ( 0.1% ethanol ) for 15 min and then treated with either 10 M Cd or 10 nM E2 in the presence of the antagonist for 2.5 min. ( A , C ) Phosphorylation of ERK1 / 2 , and ( B , D ) phosphorylation of AKT .
+Data are presented as mean SD from three independent experiments .
+Significantly higher than the control cells ( p 0.05 ) . #Significantly lower than the cells treated with E2 alone ( p 0.05 ) .
+View Within Article .
+Effect of siRNA against hER on ERK1 / 2 activation .
+To further evaluate the role of mER in Cd-induced rapid activation of ERK1 / 2 and AKT , a second approach was utilized in which specific siRNA was used to knockdown the expression of the receptor .
+Transfection with hER siRNA markedly , but not completely , suppressed the expression ER in quiescent MCF-7 cells ( Fig. 6A and B ) .
+This level of suppression of ER expression was sufficient to completely block the E2-induced rapid activation of both ERK1 / 2 and AKT ( Figs. 6A - D ) .
+In comparison , it only partially blocked ( 60% ) the Cd-induced activation of ERK1 / 2 ( Fig. 6A and C ) , but completely blocked the activation of AKT ( Fig. 6B and D ) .
+These results suggest that , in addition to mER , other receptors might also be involved in interacting with Cd .
+Full-size image ( 56K )
+High-quality image ( 506K )
+Fig. 6. Effect of suppression of ER expression on Cd- and E2-induced activation of ERK1 / 2 and AKT in MCF-7 cells .
+Forty eight hours after transfection with the non-specific or specific hER siRNA , the quiescent cells were treated with either 10 M Cd or 10 nM E2 for 2.5 min. ( A , C ) Phosphorylation of ERK1 / 2 , and ( B , D ) phosphorylation of AKT .
+Data are presented as mean SD from three independent experiments .
+Significantly higher than the respective control cells ( p 0.05 ) . #Significantly lower than the respective Cd- or E2-treated cells transfected with non-specific siRNA ( p 0.05 ) .
+View Within Article .
+Discussion .
+Cd has been described as an endocrine disrupting chemical by a number of investigators ( [ Takiguchi and Yoshihara , 2006 ] and [ Henson and Chedrese , 2004 ] ) .
+As a xenoestrogen , Cd can alter the expression of certain estrogen target genes and affect breast tissue development in ovariectomized rats  .
+Other metals , such as arsenic and uranium have also been evaluated for the reproductive tissue effects , but Cd is the only one with demonstrated effects on mammary proliferation ( [ Johnson et al. , 2003 ] and [ Fenton , 2006 ] ) .
+Although there is no definitive epidemiological evidence showing a positive relationship between Cd exposure and breast cancer incidence in the general population ( [ Nagata et al. , 2005 ] and [ McElroy et al. , 2006 ] ) , as a xenoestrogen , Cd may play a role in cancer promotion and progression after the cancer is initiated ( [ Brody and Rudel , 2003 ] and [ Yager and Davidson , 2006 ] ) .
+The mechanism by which Cd disrupts endocrine function remains poorly understood .
+The results obtained in the present study demonstrated that in MCF-7 cells , a relatively benign breast cancer cell line , Cd was able to rapidly activate ERK1 / 2 , AKT and ER at a micromolar concentration within 2.5 min .
+Under the same exposure condition , SK-BR-3 cells , a moderately malignant breast cancer cell line , responded a bit more slowly ( 7.5 min ) in terms of ERK1 / 2 activation .
+In comparison , a highly invasive breast cancer cell line , MDA-MB-231 , did not show a rapid response to Cd treatment at all .
+From the dramatic response differences between these three cell lines , it could be speculated that sensitivity to Cd might be associated with the relative invasiveness of the breast cancer cells .
+Since activation of both ERK1 / 2 and AKT plays a role in regulating various cellular processes such as cell growth , cell differentiation , and apoptosis induced by certain chemical or physical agents , more studies need to be performed to further elucidate how Cd-induced rapid signaling affects the normal function of breast tissue and it 's susceptibility to certain stresses .
+In the present study , Cd also induced rapid phosphorylation of ER , which might make the cells more sensitive to relatively low levels of E2 .
+Although the downstream effects were not investigated in the present study , the results of ERK1 / 2 , AKT and ER phosphorylation suggest that even occasional exposure to Cd might cause transient effects on the normal physiology of the breast tissue and might disrupt the normal homeostasis , especially if the exposure occurs in early critical period of breast development  .
+The potential short-term exposure to low concentration of Cd is of environmental health importance and may have biological significance , especially when the subjects are co-exposed to other chemicals or physical stress agents  .
+The results presented in this study also showed that Cd , like E2 , caused rapid phosphorylation of ERK1 / 2 in MCF-7 cells only 2.5 min after treatment .
+This suggests that Cd and E2 possibly share a similar downstream signal transduction pathway and regulatory mechanism .
+The rapid inactivation of ERK1 / 2 implies the existence of a tightly controlled regulatory mechanism .
+In contrast to these results , Silva_et_al.  reported that 0.1 M Cd did not induce significant activation of ERK1 / 2 in MCF-7 BUS cells during the 5 - 20 min treatment period .
+Although the differences in biological characteristics and sensitivity to E2 and endocrine disruptors among various MCF-7 cell stocks may partially contribute to the differences in Cd-induced rapid activation of ERK1 / 2  , it is also possible that 0.1 M Cd is too low a concentration to detect any significant effects .
+In this regard , the present study provided a more comprehensive concentration-response data about Cd-induced rapid signaling in the MCF-7 cells between 0.5 and 10 M concentration .
+Alam_et_al.  reported increased phosphorylation of ERK1 / 2 in the MCF-7 cells in response to Cd starting at 15 min and peaking at 1 h .
+They used MCF-7 N variant cells which could partly account for their results and those reported in the present study  .
+Secondly , these investigators used DMEM containing phenol red , and performed 24 h serum starvation before exposure .
+The present study utilized phenol red-free DMEM / F-12 medium and serum starved the cells for 48 h .
+Matsuoka and Igisu have shown that without serum starvation , 20 M Cd induces significant phosphorylation of ERK1 / 2 in MCF-7 cells only after 18 h of exposure .
+Furthermore , because phenol-red is a weak estrogen mimic , it can interfere with the effects of estrogen .
+Therefore , phenol-red should be excluded from the medium when studying the effects of estrogen or endocrine disruptors .
+Additionally , since ERK1 / 2 can be activated very rapidly , early time points need to be considered in designing such studies .
+Guerra_et_al.  observed that short treatment of septal murine cells ( SN56 ) with E2 caused a biphasic activation of ERK1 / 2 , with peak induction at 4 - 8 min in the early phase and 8 h in the second phase .
+Similarly , Marino_et_al.  reported that treatment of HepG2 cells with E2 also caused a biphasic phosphorylation of AKT with peaks at 3 and 30 min , respectively .
+Furthermore , that the first wave of activation was ER-independent , whereas the second was ER-dependent .
+Brama_et_al.  studied Cd-induced activation of ERK1 / 2 and AKT in the MCF-7 cells and reported maximum activation between 3 and 6 h .
+They concluded that this activation occurred through an ER-dependent mechanism , because it could be fully blocked by ICI 182,780 .
+In comparison , in the present study , Cd caused rapid activation of ERK1 / 2 at 2.5 min in the MCF-7 cells and while it was not blocked by ICI 182,780 , it was partially blocked in cells transfected with hER .
+Thus , Cd like E2 appears to induce a biphasic activation of ERK1 / 2 and both the early and late phases possibly involve ER .
+Besides the breast cancer cells , the activation of ERK1 / 2 by Cd has been reported in several other cell types , including human T lymphoblastoid CCRF-CEM cells , non-small-cell lung carcinoma cell line CL3 , and mouse epidermal JB6 C141 cells ( [ Iryo et al. , 2000 ] , [ Chuang et al. , 2000 ] , [ Chuang and Yang , 2001 ] and [ Huang et al. , 2001 ] ) .
+The phosphorylation of ERK1 / 2 in the CCRF-CEM cells treated with 10 M Cd occurred after 30 min exposure  .
+In non-small-cell lung carcinoma cell line CL3 , high concentration of Cd ( 80 M ) induced phosphorylation of ERK1 / 2 after 6 h of treatment  .
+Similarly , in mouse epidermal cells , Huang_et_al.  reported that 1 M Cd induced a sustained activation of ERK1 / 2 between 20 min and 9 h .
+Wang and Templeton reported that ERK1 / 2 activation in rat mesangial cells was involved in Cd-induced c-fos mRNA transcription and that inhibition of ERK1 / 2 partially attenuated Cd-induced c-fos transcription .
+Thus different cell lines show variations in response to Cd-induced activation of ERK1 / 2 in terms of time-course and concentration-dependence .
+It is likely that multiple mechanisms are involved in mediating this effect and that certain biological responses are cell type specific .
+An important finding in this study was that the MDA-MB-231 cells , that express only ER , did not respond to Cd , ruling out the involvement of this receptor in Cd signaling .
+Another membrane receptor , GPR30 , has been shown to be involved in rapid E2 signaling events ( [ Filardo et al. , 2000 ] and [ Filardo et al. , 2002 ] ) .
+Since the SKBR-3 cells containing GPR30 responded to Cd , this receptor also appears to interact with Cd .
+In conclusion , the results presented here provide evidence that micromolar concentration of Cd rapidly activate ERK1 / 2 and AKT in the MCF-7 and SK-BR-3 cells .
+This process seems to involve mER and GPR30 .
+It is plausible that Cd could also bind to other membrane receptors , upstream kinases or G-protein coupled proteins , which are associated with specialized cell membrane structural complexes , such as caveolae , causing rapid activation of downstream kinase cascade ( [ Wong et al. , 2002 ] and [ Chini and Parenti , 2004 ] ) .
+Further studies are needed to elucidate the mechanisms of Cd-induced rapid signaling and to better understand how Cd interferes with the cell signaling network , affects normal physiological function and homeostasis .
+Acknowledgments .
+The authors thank Drs .
+Shahid Karim , Jianxun Xie and Aftab Ahmed for their valuable assistance with various techniques and fruitful discussion. Dr. Zhiwei Liu and Mr. Xinyuan Yu received fellowships through RI-INBRE grant # P20RR016457 from NCRR , NIH .
+This research was made possible by the use of the RI-INBRE Centralized Research Core Facility supported by the same grant .
+The views expressed in this manuscript are those of the authors and do not necessarily represent the views of NIH .

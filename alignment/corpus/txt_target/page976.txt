@@ -1,0 +1,188 @@
+Some rare hereditary conditions demonstrate high cancer risk and hypersensitivity in response to exposures to agents such as ultraviolet or ionizing radiation , and are characterized by a defective processing of DNA damage  .
+It is recognized that individual risk of cancer may be related to genetically determined differences in the ability of a cell to identify and repair DNA damage and it has been suggested that individuals who are genetically susceptible to cancer manifest this by exhibiting increased DNA radiosensitivity  .
+Radiosensitivity has been extensively studied in breast cancer patients  .
+It has been shown that about 40% of an unselected group of breast cancer cases were found to be radiosensitive  .
+In the study of Scott and colleagues , the authors also found that about 9% of healthy controls were radiosensitive .
+The deficient DNA repair capacity has been proposed to be a predisposing factor in familial breast cancer and in some sporadic breast cancer cases  .
+Genomic instability has also been described for various hereditary cancers including breast cancer  .
+These findings suggest that radiosensitivity could actually be a potential predisposing condition to breast cancer through mutations in low penetrance genes  which may be genes involved in DNA damage processing and repair .
+The development of assays and the definitions of parameters with the potential of identifying cancer prone individuals is a topic of prime interest in the field of cancer .
+The recent implication of cancer related genes in the processing , or the regulation of processing of DNA damage has made measurements of induction of repair of various forms of DNA damage an attractive putative predictor of cancer predisposition .
+Despite current information , a consensus has not yet been reached on cellular assays and breast cancer risk .
+Some data reported in the literature are contradictory .
+Some investigators found a high sensitivity and a reduced repair capacity in peripheral blood cells from breast cancer patients when exposed to X-rays , gamma and UV light , as evaluated by the determination of chromosome aberrations  micronuclei ( MN )  , and DNA fragmentation by means of the comet assay  while others found no significant difference between the two end points of chromosomal aberrations and DNA repair  .
+Up to now , an optimum method for the prediction of radiosensitivity and the best parameter has not been found .
+This has largely been in the context of assessing inherent cellular radiosensitivity through damage induction or repair parameters  .
+Various experimental approaches were used for the detection of DNA strand breaks ; for example filter elution , constant field gel electrophoresis , pulsed-field gel electrophoresis ( PFGE ) and the comet assay  .
+The parameters most frequently analyzed with these test systems are the initial DNA damage , the residual DNA damage remaining after a period of repair , and the repair rate  .
+The comet assay is already recognized as being among the most sensitive methods available for measuring DNA strand breaks ; it has further advantages of speed , simplicity and the fact that observations are made at the level of single cells .
+It is also an invaluable tool for investigating fundamental aspects of DNA damage and cellular responses to this damage  .
+The alkaline comet assay resolves break frequencies up to a few thousand per cell , so the distances between breaks are of the order of 109 Da , definitely well beyond the range of fragment size for which conventional electrophoresis is suitable .
+The alkaline comet assay detects single and double DNA strand breaks whereas neutral condition detects mainly double-strand breaks .
+The neutral and alkaline methods can both detect low levels of DNA damage  and have been used to assess the rejoining of double-strand and single-strand breaks , respectively  .
+In the present study , induction of DNA damage and its repair in leukocytes of breast cancer patients and healthy volunteers were compared after in vitro exposure with gamma rays using alkaline and neutral comet assay .
+2. Materials and methods2.1 .
+Study subjects , blood cells and irradiation .
+Twenty-nine breast cancer patients aged between 29 and 87 years ( mean age = 51.82 14.82 ) was recruited at Imam General Hospital in Tehran before mastectomy .
+None of them had been treated with chemotherapy or radiotherapy .
+Thirty-five healthy volunteers aged between 23 and 94 years ( mean age = 50.11 19.17 ) were selected as a matching group .
+The study was approved by the Ethical Committee of the School of Medical Sciences of the Tarbiat Modares University .
+Patients gave their informed written consent .
+All donors completed a written questionnaire to obtain information related to their life style , such as dietary habits , medical history and exposure to chemical and physical agents .
+7.5 l of heparinized venous blood was added to the 1.5 ml micro centrifuge tube containing 1 ml RPMI 1640 medium ( Gibco , BRL ) supplemented with 10% fetal calf serum ( Gibco , BRL ) .
+Diluted blood was irradiated on ice with gamma rays at a dose rate of 2.75 Gy / min generated from a 60Co source ( Theratron 780E , Canada ) .
+To compare radiation-induced DNA damage between breast cancer patients and controls , cells were irradiated with 1 Gy ( in alkaline version ) and 2 Gy ( in neutral version ) .
+These radiation doses were selected using the dose - response curve constructed for a healthy individual showing intermediate levels of damage in cells .
+To construct dose - response curves , samples obtained from healthy and cancer individuals , DNA damage was analysed immediately after doses ranging from 0.25 to 16 Gy irradiation .
+DNA repair was assessed at 0 , 1 , 3 and 24 h after 4 Gy irradiation for alkaline and 8 Gy for neutral version , by keeping cells at 37 C and 5% CO2 before start of experiments .
+Cryopreserved lymphocytes of a healthy individual were used as an internal standard and were assayed at several experimental dates .
+2.2. Slide preparation .
+After irradiation the samples were centrifuged at 0 C. The supernatant was poured off and the pelleted cells mixed with 100 l of 37 C LMP agarose ( Fermentas LQ , 0.75% agarose in PBS , Ca2+ , Mg2+ free ) .
+The cell mixture was added to the windows made on frosted slides ( Sotooneh Co. , Sari , Iran ) , precoated with 1% normal agarose ( Merck ) and was immediately covered with a coverslip .
+The slides were placed on a tray kept for 10 min on ice to solidify .
+After solidification , the coverslip was removed .
+2.3. Alkaline comet assay .
+Slides were submersed in an alkaline lysis solution ( 2.5 M sodium chloride , 100 mM EDTA , 10 mM Tris base , 10% dimethylsulfoxide , 1% sodium N-lauroyl sarcosinate , and 1% Triton X-100 , Merck , Germany , pH 10 ) for 1 h at 4 C. Lysis was followed by unwinding step by immersing the slides in a freshly prepared alkaline solution , ( 0.3 M NaOH and 1 mM EDTA , Merck , Germany , pH 13 ) in a horizontal gel electrophoresis tank ( SEU-7305 , Paya Pajouhesh , Iran ) for 40 min at 4 C. Electrophoresis was done at 0.75 V / cm for 30 min at 4 C. The slides were washed three times in neutralization buffer ( 400 mM Tris buffer , pH 7.5 ) and rinsed in ethanol for 5 min and air dried .
+2.4. Neutral comet assay .
+Slides were submersed for 30 min at 4 C in lysis solution ( 2.5 M sodium chloride , 100 mM EDTA , 10 mM Tris base , 10% dimethylsulfoxide , 1% sodium lauroyl sarcosinate , and 1% Triton X-100 , Merck , Germany , pH 10 ) .
+After lysis , slides were rinsed three times in TBE buffer ( 90 mM Tris , 2 mM EDTA , 90 mM boric acid , Merck , Germany , pH 8.4 ) at 4 C for 5 min .
+Slides were kept in a horizontal gel electrophoresis tank ( SEU-7305 , Paya Pajouhesh , Iran ) containing TBE buffer , and electrophoresis was done at 0.75 V / cm for 10 min at 10 C. The slides were washed in water for 5 min and rinsed in ethanol for 5 min and then air dried .
+2.5. Staining , microscopic analysis and experimental parameters .
+Cells were stained with 20 l ethidium bromide ( Merck , 2 g / mL ) under a coverslip .
+Observations were made at a magnification of 200 using a Nikon E 800 epifluorescence microscope equipped with 546-516 wavelength band and a 590 nm barrier filter attached to a CCD camera .
+Images of 100 randomly selected cells were analyzed from each coded slide .
+The comets were analyzed by visual classification as described by Jaloszynski_et_al.  .
+Damage was assigned to five classes ( 0 - 4 ) based on the visual aspect of the comets , considering the extent of DNA migration according to the criteria established by Kobayashi_et_al.  , Visvardis_et_al.  and Dusinska_et_al.  .
+Comets with a bright head and no tail were classified as class 0 ( cells with no DNA migration ) and comets with a small head and a long diffuse tail were classified as class 4 ( severely damaged cells ) .
+Comets with intermediate appearance were classified into classes 1 , 2 and 3. Damage scores were calculated based on the following equation adopted from Jaloszynski_et_al.  that ranged from 0 to 400 arbitrary units , corresponding to situations ranging from no damaged comets to all comets extremely damaged :
+DD ( au ) = ( 0n0+1n1+2n2+3n3+4n4 ) / ( n / 100 ) ,
+where DD ( au ) : DNA damage score , n1 - n4 : number of class 0 - 4 comets , n : total number of scored comets .
+Coefficients 0 - 4 are weighting factors for each class of comet .
+One may suspect that the visual classification may be inferior to computerized analyses , such as tail moment analysis of images captured by CCD camera .
+However , Kobayashi_et_al.  have clearly shown that there is no statistical difference between visual quantification and image analysis by computer for tail moment quantification .
+This method of quantification of DNA damage by the comet assay was used by several other authors e.g.  .
+Furthermore , in the present study , this semi-quantitative method gave satisfactory results for in vitro-irradiated cells .
+Whereas computerized analyses require expensive equipment and also software , visual analyses can be done with only standard microscope .
+However , to verify the validity of results obtained by visual analysis , pictures of 100 cells , for each incubation time after irradiation , captured by CCD camera for repair study , were analyzed automatically using CASP software ( CASP , version 1.2.2 ) .
+CASP is a tool to image analysis in comet assay and has been developed to work with either color , or gray-scale images of fluorescence-stained comets .
+As shown in Fig. 4 , the kinetics of repair is very similar and not significantly different from that obtained by visual analysis of comets .
+Four experimental parameters were evaluated to characterize cellular radiation effects : ( 1 ) baseline DNA damage detectable in cells that had not been irradiated ( DD0 ) , ( 2 ) induced DNA damage measured directly after irradiation ( DD ) , ( 3 ) net DNA damage which is calculated by subtracting the baseline DNA damage from DNA damage measured directly after irradiation , ( 4 ) repair capacity was also estimated quantitatively at 1 , 3 and 24 h after irradiation after standardization using the following equation adopted from Bergqvist_et_al.  :
+Standardizations were made by dividing the actual values obtained in the irradiated samples by the values obtained in the non-irradiated control cells included in the same electrophoresis run .
+2.6. Statistical analysis .
+All statistical analyses were carried out using Graph Pad Prism software version 4. Differences between means of initial radio-induced DNA damage between groups were tested for significance with the two-sided , unpaired Student 's t-test .
+To analyze the results of residual DNA damage between groups the non-parametric Mann - Whitney U-test was also used .
+Figures were drawn using Sigma Plot 2004 for Windows , version 10.0. .
+3. Results3.1 .
+Comparison of initial radiosensitivity of breast cancer patients with healthy volunteers .
+Results are shown in Fig. 1a and b .
+The figure presents the range of assay parameters observed in the study subjects , as well as the medians and the 10th , 25th , 75th , and 90th percentiles .
+Non-irradiated cells of cancer patients exhibited noticeably higher baseline amounts of DNA fragmentation and the mean values of background DNA damage were statistically different in the breast cancer patients and healthy individuals using alkaline ( P = 0.05 ) and neutral ( P = 0.04 ) versions ( Fig. 1a and b ) .
+Full-size image ( 41K )
+Fig. 1. Box plots showing baseline ( DD0 ) , induced DNA damage ( DD ) and net induced DNA damage ( DD - DD0 ) for controls ( H ) and breast cancer patients ( BC ) measured by alkaline ( a ) and neutral ( b ) comet assay after exposure of 1 Gy gamma rays .
+The boxes extend from the 25th percentile to the 75th percentile , with a horizontal line at the median ( 50th ) and a dotted line at the mean value .
+The whiskers present the 10th and the 90th of the data .
+In addition , all values that were located outside the borderlines marked by the whiskers are presented as points .
+View Within Article .
+Induced DNA damage was higher in breast cancer patients than healthy controls , but this failed to reach statistical significance .
+Net induced DNA damage showed nearly identical median ( solid lines ) and mean values ( dotted lines ) for the controls and the patients .
+In addition , a very similar range of distribution was found for the results of the controls and of the patients and is marked by the boundaries of the boxes that represent the 25th and 75th percentiles .
+Patients with results lying within the 25 - 75% range of the healthy controls were considered to show a normal cellular reaction to gamma-irradiation .
+In addition , the patients exhibiting less damage in non-irradiated or irradiated cells than marked by the 25 - 75% range were also classified as normal .
+The data of some of the patients , however , differed considerably from this normal range .
+All patients who exhibited results lying outside the 90th percentile of the healthy individuals were considered to have abnormal experimental markers or to show a highly sensitive cellular reaction to gamma rays .
+Regarding the background damage in non-irradiated cells , about 3 ( 9% ) of the 32 controls and 5 ( 17.2% ) of 29 breast cancer patients have values higher than the basal cut point ( in alkaline version ) and about 3 ( 8.57% ) of the 35 controls and 3 ( 10.7% ) of 28 breast cancer patients have values higher than the basal cut point ( in neutral version ) .
+Induced damage ( DD ) in irradiated cells yield about 3 ( 9% ) of the 32 controls and 5 ( 17.2% ) of 29 breast cancer patients have values higher than the induced cut point ( in alkaline version ) and about 3 ( 8.57% ) of the 35 controls and 2 ( 7.1% ) of 28 breast cancer patients have values higher than the induced cut point ( in neutral version ) .
+Regarding the net induced ( DD - DD0 ) damage , 3 ( 9% ) of the 32 controls and 3 ( 10.3% ) of 29 breast cancer patients have values higher than the net induced cut point ( in alkaline version ) and about 3 ( 8.57% ) of the 35 controls and 1 ( 3.5% ) of 28 breast cancer patients have values higher than the net induced cut point ( in neutral version ) .
+Statistical analysis showed that there was no relationship between age and DNA damage of breast cancer patients and healthy controls regarding baseline induced and net induced using both versions of the comet assay .
+3.2. Comparison of dose - response relationships of breast cancer patients with healthy volunteers .
+Fig. 2a and b shows the dose - response curves of the five breast cancer patients ( mean age : 57.33 years , range between 43 and 75 ) and five healthy controls ( mean age : 47.5 years , range between 25 and 68 ) under the alkaline ( a ) and neutral ( b ) conditions of the comet assay immediately after irradiation .
+The initial yield of DNA damage of both cancer patients and controls increased with radiation dose under both electrophoresis conditions. Fig. 2a and b demonstrates that marked differences can be observed when the initial radiation-induced DNA damage is analyzed in lymphocytes of different healthy people or cancer patients and this is particularly true for doses up to 2 Gy .
+The reduction in variability observed after 4 Gy is primarily due to the fact that at doses exceeding 4 Gy , only a marginal additional increase in the amount of DNA in the tail of the comet is obtained under our experimental conditions .
+Statistical analysis showed there is no difference between the dose - response curves of breast cancer patients and healthy volunteers using both versions of the comet assay .
+Full-size image ( 46K )
+Fig. 2. Dose - response curves of DNA migration obtained for blood samples from five healthy donors ( full lines ) and five breast cancer patients ( broken lines ) , processed immediately after in vitro exposure to 60Co using alkaline ( a ) and neutral ( b ) comet assays .
+Each data point represents mean SD of induced DNA damage .
+View Within Article .
+3.3. Study of repair kinetics .
+In order to investigate the rejoining of DNA breaks , the changes in the residual DNA damage in five breast cancer patients and five healthy volunteers at 0 , 1 , 3 , and 24 h after exposure to gamma rays with 4 Gy under the alkaline and 8 Gy under neutral condition are shown in Fig. 3a and b ) .
+There were inter-individual differences in repair capacity of blood lymphocytes in both groups , but this variability was more marked among patients. Fig. 4 shows the results obtained by automatic analysis of tail moment for repair kinetics of DNA damages in both alkaline and neutral comet assays in this study .
+Statistical analysis showed significant difference for Olive tail moment between normal individuals and breast cancer patients for all incubation time after irradiation ( P 0.05 ) .
+As seen the kinetic of repair is very much similar and non-significantly different from that obtained by visual analysis of comets .
+As shown in Fig. 3 and Fig. 4 , using both versions of comet assay , the radio-induced damage was less efficiently repaired among patients than among controls .
+Full-size image ( 41K )
+Fig. 3. Repair kinetics in lymphocytes of five healthy donors and five breast cancer patients after in vitro exposure to 4 Gy gamma rays in alkaline ( a ) and 8 Gy in neutral ( b ) comet assay ( standardizations were made by dividing the actual values obtained in the irradiated samples by the values obtained in the non-irradiated control cells included in the same electrophoresis run ) .
+Repair assessed 1 , 3 , and 24 h of incubation time .
+Each data point represents mean SD of standardized residual DNA damage .
+View Within Article .
+Full-size image ( 24K )
+Fig. 4. Repair kinetics in lymphocytes of five healthy donors ( ) and five breast cancer patients ( ) after in vitro exposure to 4 Gy gamma rays in alkaline and 8 Gy in neutral comet assay .
+Olive tail moment was calculated using CASP image analysis software to assess repair of DNA damage after 1 , 3 , and 24 h of incubation time post irradiation .
+Each data point represents mean SD of Olive tail moment .
+View Within Article .
+4. Discussion .
+Using the alkaline comet assay , DNA single-strand breaks ( SSB ) have been described in peripheral blood lymphocytes ( PBL ) from breast cancer patients , but there is no information concerning the occurrence of double-strand breaks ( DSB ) in the same patients .
+To date no attempt has been made to study the occurrence and induction of both types of DNA strand breaks in peripheral blood leukocytes of breast cancer patients .
+The alkaline comet assay detects mostly SSB ( but also DSB ) that are easily repaired in patients without defects in DNA-repairing mechanisms and do not pose a major threat to genomic integrity  .
+Neutral comet assay detects mostly DNA double-strand breaks .
+DSB are an important direct consequence of treating cells with ionizing radiation .
+A variety of evidence points toward DSB being the key damage type linked to radiation-induced lethality .
+In particular , the link between DSB and chromosome breakage , which in turn closely correlates with cell death in some cell types , is strongly supportive of this concept  .
+Using alkaline and neutral comet assay , the results show that the patients have higher baseline values than controls .
+Our results are also in line with the finding of Sanchez_et_al.  who used both alkaline and neutral versions of comet assay to measure baseline DNA damage in untreated sporadic breast cancer patients .
+Other authors also observed higher baseline values in breast cancer patients under the alkaline condition of comet assay  .
+This finding is also in agreement with other studies using chromosomal aberrations or micronucleus test as the study endpoint  .
+Other studies have also reported higher levels of baseline DNA damage in blood and lymphocytes of cancer cases than in benign controls  .
+In contrast to the above findings , using the alkaline comet assay , some authors found the background DNA damage in the peripheral blood lymphocytes from breast cancer patients to be similar to that in control individuals  .
+Consistent with these data , non-irradiated lymphocytes from patients with multiple tumors  , lung cancer  and breast cancer  have also been reported to exhibit the same range of DNA damage as control cells .
+Persistent basal DNA damage may reflect higher exposure to carcinogens and deficient DNA repair  .
+After irradiation in vitro , both versions of the comet assay did not reveal any differences among the groups in terms of their induced ( DD ) and net induced ( DD - DD0 ) levels of DNA damage , although there was a trend toward an increased induced DNA damage level ( DD ) in the cells from cancer patients , but this failed to reach statistical significance ( Fig. 1a and b ) which may be in part due to the strong inter-individual variability .
+Some authors found similar induction of DNA damage in the peripheral blood mononuclear cells from breast cancer patients and control individuals  .
+Our results are also in line with the finding of Popanda_et_al.  that the alkaline comet assay has not revealed any difference between the in vitro-irradiated cryopreserved lymphocytes from 113 breast cancer patients and those from a control subject .
+Similarly , no difference has been revealed by the comet assay between cells from control subjects and patients with BRCA mutation , after irradiation with 2 Gy in vitro  .
+In contrast to our results increased radiation- and doxorubicin-induced DNA damage levels have been observed in the blood lymphocytes from breast cancer patients  .
+The 90% range of values obtained for healthy controls was used to set the cut points to determine the range of normal radiation reaction ( see Section 3 ) .
+Using these cut points , the cases with marked DNA damage could be identified clearly .
+Both alkaline and neutral versions of the comet assay showed that the number of breast cancer patients who exhibited results lying outside the 90th percentile of the controls were not more than healthy individuals ( regarding net induced DNA damage , 3 / 29 in alkaline and 1 / 28 in neutral for breast cancer patients and 3 / 32 in alkaline and 3 / 35 in neutral for controls ) .
+Our results are in agreement with other reported studies  .
+On the other hand , our results disagree with those of Colleu-Durel_et_al.  and Hussien_et_al.  , who have found increased levels of both basal and radiation-induced DNA damage in cells from breast cancer patients , as compared to healthy controls .
+The reasons for the discrepancy between the findings of these studies and ours are not understood but might reside in the patients and controls cohorts , cancer stage , treatment prior to blood sampling , arbitrary determined cut-off values , experimental protocols as well as in interlaboratory variability  .
+In our study , we selected the 90% range of values obtained for healthy controls as the cut-off point .
+Other researchers using other cytogenetic end points preferred to choose mean +2 SD of controls as their cut-off point  .
+Colleu-Durel et al. used a cut-off point computed by the Receiver Operating Characteristic ( ROC ) analysis corresponding with the best accuracy of the test ( minimal false-negative and false positive results )  .
+Larger studies are necessary to show which parameter of controls is reasonable for the identification of radiation-sensitive subjects .
+About the radio-induced damages , the dose - response curves for DNA migration obtained just after irradiation showed an increase in DNA damage as a function of radiation dose .
+Statistical analysis showed no difference between groups .
+In this context , we conclude that both groups had an analogous response when analyzed immediately after exposure .
+Other researchers reported the dose - response of cells from unselected BC patients was similar to that of control group using micronucleus assay and comet assay  .
+Our choice of sampling times following irradiation , to study repair capacity of normal and cells obtained from cancer patients , was based on previous studies .
+In most of these studies an incubation time of 3 h or more , and mainly 24 h were used to study the residual DNA damage  .
+Using peripheral blood cells from women carrying a BRCA1 or BRCA2 mutation , Trenz_et_al.  did not find any difference for residual DNA damage between control and cells carrying BRCA mutations during the first 60 min , with 10 min sampling intervals .
+Therefore , in line with other studies , incubation times of 1 , 3 and 24 h were selected to study repair of DNA damage .
+Using both versions of comet assay , the quantitative estimation of repair capacity in blood lymphocytes showed that most of the radiation-induced damage in the healthy group was repaired within 3 h whereas breast cancer patients revealed about 30% .
+These data show that the breast cancer donors analyzed in this study had deficient radio-induced damage repair .
+Differences in the residual breaks among the breast cancer patients and controls at 3 and 24 h after irradiation were observed under both alkaline and neutral condition of the comet assay .
+Our results are in line with the findings of other researchers who described the difference between residual DNA damage at different intervals post irradiation among breast cancer patients and healthy controls using alkaline comet assay  .
+However , in contrast to our results there are other studies which did not report any difference between residual DNA damage of breast cancer patients and controls  .
+Although some reports claim that the sensitivity of fibroblasts measured either by colony assay or by DSB rejoining capacity are not major parameters determining the extent of acute reaction after radiotherapy of breast cancer patients  , there are other reports showing impaired DNA repair could be involved in the development of late irradiation effects .
+It was suggested that individuals exhibiting severely reduced DNA repair capacity should be followed for the development of late clinical symptoms  .
+Slower repair may be linked to an increased susceptibility to cancer , or could be influenced by changes in the characteristics of their lymphocyte population during tumor development .
+The comet assay under the alkaline condition detects SSB , DSB and alkali-labile damage  .
+The SSB at 24 h after irradiation are almost rejoined .
+It was considered that the DNA damage detected by the neutral condition at 24 h after irradiation could be ascribed to the residual DSB .
+There are several reports in the literature indicating that radiation-induced DNA double-strand breaks and / or the rate of their rejoining can be used as measures of intrinsic radiosensitivity of tumor cells  .
+In general 1 Gy produces 1000 SSB per cell and DSB are less than 5% of the total DNA damage induced immediately after irradiation  .
+Therefore the comet assay under the neutral condition is more sensitive for the detection of about 50 DSB per Gy .
+The processes of DNA breaks rejoining contain a fast component and a slow component  .
+While the induced SSB were rejoined with a half-life of several minutes in many cell lines , the DSB were rejoined with a half-life of 10 - 20 min for the fast component and 1 - 2 h for the slow component after irradiation  .
+It is suggested that the remaining damage measured after 3 h or more is an excellent index of the restoration ability of DNA damage  .
+It has been shown that the rejoining of radiation-induced DSB was leveled off between 2 and 4 h in mammalian cell lines  and that the number of residual DSB did not change between 4 and 20 h using the neutral filter elution  .
+However , by using PFGE , the number of DSB induced by radiation were shown to decrease slightly between 4 and 24 h after irradiation  .
+In our experimental results , the DNA damage under the alkaline condition decreased slightly for 3 - 24 h after irradiation in breast cancer patients and declined to the control values at 24 h after 8 Gy irradiation .
+Under the neutral condition while the healthy donors presented a considerable reduction of damage after 3 h , the patients had a higher residual damage even 24 h after exposure .
+Even if the DSB of the complex types are rejoined , it is considered that the misrejoining of DSB happens in the slow component of DNA repair .
+In conclusion , we found no difference in the initial DNA damage between breast cancer patients and healthy controls by using the comet assay under both alkaline and neutral condition but found differences in the residual DNA damage under alkaline and neutral conditions .
+Therefore , it is suggested that the amount of residual DNA damage after irradiation could be used as a putative predictor of cancer predisposition and cellular radiosensitivity .
+Acknowledgements .
+This work was supported by the Research Department of the Tarbiat Modares University .
+The authors wish to express their thanks to personnel 's of Imam Khomeini General Hospital for their help in sample collection , all patients and healthy individuals for their voluntary contribution and blood donation , Dr. F. Samiei for his help and advice and Ms .
+Z. Tizmaghz for irradiation of samples .

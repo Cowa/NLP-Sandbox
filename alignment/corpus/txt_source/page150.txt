@@ -1,0 +1,238 @@
+La chimiothérapie première ( néoadjuvante ) suivie d' un traitement locorégional , soit par chirurgie , soit par irradiation , soit par association radiochirurgicale , est devenue un standard thérapeutique pour les patientes atteintes d' un cancer du sein localement évolué [ 2 , 3 , 9 , 13 , 14 , 20 , 22 , 23 , 27 , 29 , 30 , 36 , 39 , 47 , 49 , 51 , 56 , 57 , 58 and 60 ] .
+La chronologie et les modalités thérapeutiques locorégionales restent controversées  .
+Dans deux études randomisées , après une chimiothérapie première , les résultats d' une chirurgie seule ont été comparés à ceux d' une radiothérapie seule , aucune différence en termes de survie n' a été observée [ 15 and 40 ] .
+Cependant , après une chimiothérapie première , il semble que le contrôle tumoral local soit meilleur après une association radiochirurgicale qu' après chirurgie seule ou radiothérapie seule [ 7 , 8 , 22 and 41 ] .
+Six études prospectives randomisées de phase III , concernant des cancers du sein opérables , ont comparé les résultats d' une chimiothérapie adjuvante à ceux d' une chimiothérapie première [ 6 , 32 , 35 , 52 , 59 and 62 ] .
+Aucune d' entre elles n' a pu montrer un impact significatif de la chimiothérapie première en termes de survie en rémission complète et de survie globale .
+Deux d' entre elles [ 6 and 35 ] ont rapporté un bénéfice significatif initial sur la survie globale et en rémission complète mais cet effet disparaissait avec un recul plus important .
+En revanche , les deux études randomisées les plus récentes ont désormais démontré qu' une chimiothérapie d' induction peut augmenter les possibilités de chirurgie sans diminuer significativement les taux de survie [ 59 and 62 ] .
+L' objectif de cette étude était de réévaluer à long terme les résultats d' une série de patientes atteintes d' un cancer du sein localement évolué non inflammatoire après un traitement multidisciplinaire précédemment décrit et publié [ 57 and 58 ] comprenant une chimiothérapie première suivie d' une radiothérapie de 45 Gy en 4,5 semaines .
+2. Patientes et méthodes2.1 .
+Patientes , caractéristiques tumorales
+D' avril 1982 à juin 1998 , 120 patientes atteintes d' un cancer du sein localement évolué non inflammatoire sans métastases concomitantes ont été consécutivement traitées par l' association d' une chimiothérapie première et d' une radiothérapie , avec ou sans chirurgie locorégionale .
+Le bilan initial comprenait un examen clinique somatique complet , une mammographie , une échographie mammaire , une radiographie standard du thorax , un hémogramme , un bilan biologique hépatique , un ionogramme sanguin et une créatininémie , le dosage sérique de l' ACE et du CA15-3 , une échographie hépatique , une scintigraphie osseuse et en cas de nécessité une biopsie ostéomédullaire .
+Avant traitement , toutes les patientes avaient un cancer du sein histologiquement prouvé , un indice de Karnofsky supérieur ou égal à 90 et aucun antécédent de tumeur maligne .
+Les fonctions hématologique , rénale et hépatique étaient dans tous les cas normales ( leucocytes 3000 / l , plaquettes 100 000 / l , créatininémie 1,5 mg / dl , bilirubinémie 1,5 mg / dl ) .
+Les patientes avaient moins de 75 ans , sans pathologie myocardique , ni hypertension artérielle , ni maladie infectieuse incontrôlée .
+Toutes les patientes ont été cliniquement évaluées par un chirurgien et un médecin oncologue .
+Elles ont toutes reçu la totalité de la chimiothérapie première , du traitement locorégional et de la chimiothérapie adjuvante , sans violation du protocole , ni refus de poursuivre le traitement ou perdues de vue .
+L' âge moyen était de 49,5 0,8 ans ( médiane : 51 ans , extrêmes : 25 - 71 ans ) .
+Les caractéristiques cliniques et histopathologiques des tumeurs son présentées dans le Tableau 1. Nous avons inclus quatre patientes atteintes de cancer de stade IIIC avec un envahissement ganglionnaire sus-claviculaire homolatéral isolé .
+En effet , le pronostic , après un traitement pluridisciplinaire , semble meilleur que celui observé dans les formes habituelles de stade IV  .
+La taille moyenne de la tumeur primitive était de 6,5 0,2 cm ( médiane : 6 cm , extrêmes : 1 - 16 cm ) .
+Dix patientes avaient une tumeur plurifocale .
+La tumeur était à proximité du mamelon chez six patientes .
+Les récepteurs des estrogènes et de la progestérone intra tumoraux n' ont pu être évalués avant_tout traitement que chez 52 patientes .
+En effet , de 1982 à 1990 , ce paramètre biologique n' était pas obtenu en routine sur des pièces de biopsie tumorale .
+Des récepteurs d' estrogènes ont été observés chez 34 patientes ( 65 % ) .
+Tableau 1. Caractéristiques des 120 patientesCharacteristics of patients
+Full-size table ( 12K )
+pts , patientes ; SBR , classification de Scarff , Bloom et Richardson
+View Within Article
+2.2. Traitement2.2.1 .
+Chimiothérapie néoadjuvante
+Toutes les patientes ont reçu quatre cycles de chimiothérapie d' induction .
+Pour les 94 premières patientes , la chimiothérapie intraveineuse associait tous les 28 jours doxorubicine ( 45 mg / m2 , j1 ) , vincristine ( 1,5 mg / m2 , j2 ) , 5-fluoro-uracile ( 500 mg/m2 / jour ) et cyclophosphamide ( 300 mg/m2 / jour à J2 , 3 et 4 ) .
+Seize patientes ont reçu tous les 28 jours l' association intraveineuse theprubicine ( 40 mg / m2 , j1 ) , vindésine ( 2 mg / m2 , j2 ) , 5-fluoro-uracile ( 500 mg/m2 / jour ) et cyclophosphamide ( 300 mg/m2 / jour , j2 , 3 et 4 ) .
+Dix patientes ont été traitées tous les 21 jours par l' association intraveineuse épirubicine ( 75 mg / m2 , j1 ) , 5-fluoro-uracile et cyclophosphamide ( tous deux à la dose de 500 mg/m2 / jour à j1 ) .
+Un hémogramme a été effectué à j1 de chaque cycle de chimiothérapie .
+La toxicité aiguë a été évaluée selon la classification OMS ( World Organization grading )  .
+2.2.2. Traitement locorégional
+Trois semaines après le 4e cycle de chimiothérapie , toutes les patientes ont reçu une irradiation externe par un appareil de télécobalthérapie ( R de 1,25 MV ) chez 92 patients et Rx de l' accélérateur linéaire de 6 MV chez 28 patientes .
+La technique d' irradiation a été décrite dans des publications antérieures [ 57 and 58 ] .
+La totalité du sein , la paroi et les aires ganglionnaires locorégionales homolatérales ( sus-claviculaire , axillaire et mammaire interne ) ont été irradiées jusqu' à une dose totale de 45 Gy , délivrée en 23 fractions et 31 jours .
+La totalité du sein et la paroi thoracique ont été traitées par deux faisceaux tangentiels , avec un filtre pour corriger l' hétérogénéité de dose .
+La dose a été prescrite au point ICRU  .
+Les aires ganglionnaires sus-claviculaire et axillaire ont été traitées par un faisceau axillo-sus-claviculaire antérieur et un faisceau axillaire postérieur .
+La dose a été calculée à 3 cm de profondeur pour les ganglions sus-claviculaires et à mi-épaisseur pour les ganglions axillaires .
+Les ganglions mammaires internes ont été irradiés par un faisceau antérieur direct .
+La dose a été calculée à - 3 cm .
+À partir de janvier 1988 , 30 Gy ont été délivrés par des photons et les 15 Gy restants par électrons ( n = 28 ) .
+Un cinquième cycle de chimiothérapie était administré quatre semaines après la fin de l' irradiation .
+Quatre semaines après le 5e cycle de chimiothérapie ( 29 semaines après le début du traitement ) , trois approches thérapeutiques locorégionales différentes ont été proposées , en fonction de la réponse tumorale clinique , mammographique et échographique à la chimiothérapie première et la radiothérapie , de la topographie tumorale par rapport au mamelon , de la plurifocalité et du volume mammaire par rapport au volume tumoral résiduel .
+La décision concernant le traitement locorégional a été prise huit semaines après la radiothérapie .
+La stratégie thérapeutique locorégionale a été programmée comme suit ( Fig. 1 ) : - quand le plus grand diamètre du résidu tumoral était supérieur à 3 cm ou la tumeur primitive était proche du mamelon , ou plurifocale , une mastectomie de type Patey avec curage ganglionnaire axillaire a été effectuée .
+Le curage ganglionnaire axillaire a été limité aux niveaux I et II de Berg ; - quand le résidu tumoral était inférieur ou égal à 3 cm , une tumorectomie large avec curage ganglionnaire axillaire limité aux niveaux I et II de Berg a été réalisée .
+La chirurgie conservatrice a été suivie d' un complément d' irradiation dans le lit d' exérèse , soit par curiethérapie interstitielle , soit par un faisceau d' électrons .
+Le complément d' irradiation par curiethérapie interstitielle était effectué par iridium 192 et a délivré 20 Gy à bas débit de dose , selon les règles du système de Paris [ 43 and 44 ] , dans le site de tumorectomie et les tissus sains de voisinage .
+Le complément d' irradiation délivré par un faisceau d' électrons de 9 à 12 MeV était de 20 Gy , à_raison de quatre séances de 2,50 Gy par semaine ; - quand la tumeur primitive n' était plus cliniquement décelable et en l' absence d' adénomégalie locorégionale résiduelle palpable , un complément d' irradiation dans le lit tumoral initial par curiethérapie interstitielle a été effectué à la dose de 25 Gy .
+Un complément d' irradiation externe par Cobalt 60 ou Rx 6 MV jusqu' à la dose de 30 Gy en 15 séances et 19 jours était proposé en cas de refus de la patiente d' une curiethérapie interstitielle .
+Pour toutes les patientes n' ayant pas eu de curage ganglionnaire axillaire , un complément d' irradiation externe axillaire de 15 Gy en huit séances et dix jours a été délivré par un faisceau axillaire direct ( Cobalt 60 ou électrons ) .
+Full-size image ( 9K )
+Fig. 1. Organigramme des séquences thérapeutiques.Fig. 1. Study design .
+View Within Article
+2.2.3. Chimiothérapie adjuvante
+Trois semaines après la fin du traitement locorégional , chaque patiente a reçu un 6e cycle de chimiothérapie .
+Une chimiothérapie adjuvante de maintenance a été ensuite proposée .
+Quatre-vingt-quatorze patientes ont reçu 12 cycles de chimiothérapie mensuelle intraveineuse associant vincristine ( 1,5 mg / m2 , j1 ) , 5-fluoro-uracile ( 500 mg/m2 / jour ) et cyclophosphamide ( 300 mg/m2 / jour , j2 , 3 et 4 ) .
+Cette chimiothérapie adjuvante était renforcée par l' adjonction de méthotrexate ( 24 mg/m2 / jour par voie intramusculaire à j2 et j3 ) , en cas d' envahissement ganglionnaire axillaire persistant ou de tumeur résiduelle de plus de 2 cm de diamètre après chirurgie .
+Vingt-six autres patientes ont reçu six cycles de chimiothérapie intraveineuse adjuvante mensuelle comprenant vinorelbine ( 25 mg/m2 / jour à j1 et j5 ) , 5-fluoro-uracile ( 350 mg/m2 / jour de j1 à j5 ) et folinate de calcium ( 250 mg/m2 / jour à j1 et j4 ) .
+2.3. Évaluation de la réponse tumorale , recul , méthodes statistiques
+Un examen clinique , une mammographie et une échographie mammaire ont été effectués 20 jours après le 4e cycle de chimiothérapie d' induction et six à huit semaines après la fin de la radiothérapie préopératoire .
+La taille tumorale a été définie comme le produit des deux plus grands diamètres cliniques , mammographiques et échographiques , selon les recommandations de l' OMS  .
+Après chirurgie d' exérèse , l' effet thérapeutique sur la tumeur primitive a été évalué lors_de l' examen anatomopathologique de la pièce opératoire selon la classification de Sataloff  .
+Après traitement conservateur locorégional , l' état esthétique mammaire a été évalué et comparé à l' aspect du sein avant l' irradiation selon la classification de Harris_et_al.  .
+Toutes les patientes ont été suivies en alternance par le chirurgien et le médecin oncologue .
+Le recul moyen à partir du début de traitement était de 127 5 mois ( médiane : 140 mois , extrêmes : 12 - 223 mois ) .
+Les proportions et les moyennes ont été comparées , respectivement par le test du ] [ 2 et le t-test de Student .
+Les taux de survie ont été calculés à partir du début de traitement selon la méthode de Kaplan-Meier  .
+Les résultats ont été donnés avec leur écart-type et le nombre de patientes à risque entre parenthèses .
+Le test du Log-rank  a été utilisé pour la comparaison des taux de survie .
+L' analyse multifactorielle des facteurs pronostiques a été faite selon le modèle de régression multiple de Cox  .
+Les résultats analysés étaient la survie spécifique , la survie sans métastase , le contrôle tumoral local et régional , les facteurs pronostiques et la toxicité tardive .
+3. Résultats3.1 .
+Réponse clinique après chimiothérapie d' induction3.1.1 .
+Tumeur primitive
+Le taux de réponse objective était de 58 % ( 70 / 120 ) .
+Une réponse tumorale complète a été observée chez huit patientes ( 6,5 % ) et une réponse partielle chez 62 patientes ( 51,5 % ) .
+Aucune progression tumorale locale sous chimiothérapie n' a été constatée .
+Le stade clinique selon la classification de l' AJCC de 2002 était le seul facteur qui influençait significativement le taux global de réponse tumorale objective ( IIIA contre IIIB contre IIIC : respectivement , 48 contre 18 contre 4 % , p = 0,025 ) .
+Aucun des autres facteurs testés ( âge , état hormonal , taille initiale de la tumeur , stade-T , type histologique , grade histologique SBR , dosage des récepteurs hormonaux ) n' avait un impact significatif sur le taux de réponse tumorale après chimiothérapie .
+Tableau 2. Réponse tumorale primitive clinique après chimiothérapie d' induction et radiothérapie préopératoire : 120 patientesClinically primary tumor response following induction chemotherapy and preoperative irradiation : 120 patients
+Full-size table ( 3K )
+Pts , patientes ; CT , chimiothérapie ; RT , radiothérapie ; RC , réponse complète ; RP , réponse partielle ; NR , non réponse
+View Within Article
+3.1.2. Adénomégalie palpable
+Parmi les 100 patientes qui avaient une adénomégalie palpable , une réponse clinique ganglionnaire complète a été obtenue chez 67 d' entre elles ( 67 % ) et une réponse partielle chez 21 patientes ( 21 % ) .
+Aucune progression ganglionnaire n' a été observée .
+3.2. Réponse clinique après radiothérapie préopératoire3.2.1 .
+Tumeur primitive
+Une réponse objective a été observée chez 98 patientes ( 81,5 % ) , complète dans 42 cas ( 35 % ) et partielle dans 56 cas ( 46,5 % ) .
+La taille tumorale n' était pas modifiée chez les 22 autres patientes .
+Aucun des facteurs testés et listés ci-dessus n' ont significativement influencé le taux de réponse tumorale après la radiothérapie préopératoire .
+Le taux de réponse tumorale clinique complète a augmenté après la radiothérapie préopératoire : 45 % ( 28 / 62 ) en cas de réponse partielle après chimiothérapie d' induction et 12 % ( 6 / 50 ) en cas de non-réponse à la chimiothérapie première .
+3.2.2. Adénomégalie palpable
+Une réponse clinique ganglionnaire complète a été observée chez 81 patientes ( 81 % ) et une réponse partielle chez 11 patientes ( 11 % ) .
+Aucune progression ganglionnaire n' a été constatée chez les huit autres patientes .
+3.3. Traitement locorégional après chimiothérapie d' induction et irradiation préopératoire
+Un traitement locorégional conservateur a été réalisé chez 71 patientes ( 59 % ) : - une radiothérapie seule a été effectuée chez 39 patientes ( 32,5 % ) qui étaient en situation de réponse tumorale complète ( 38 patientes ) ou de réponse partielle supérieure à 90 % ( 1 patiente ) .
+Un complément d' irradiation a été délivré dans le site tumoral , par irradiation externe chez 16 patientes ( 41 % ) , par curiethérapie interstitielle chez 23 patientes ( 59 % ) ; - une tumorectomie large avec curage ganglionnaire axillaire suivie d' un complément de radiothérapie dans le lit de tumorectomie a été effectuée chez les 32 autres patientes ( 26,5 % ) .
+Toutes les berges de tumorectomie étaient histologiquement en zone saine .
+Le complément d' irradiation a été délivré par un faisceau d' électrons chez une patiente et par curiethérapie interstitielle chez 31 patientes .
+Trente et une de ces 32 patientes avaient un résidu tumoral inférieur ou égal à 3 cm de diamètre et une patiente était en situation de rémission histologique complète ; - une mastectomie avec curage ganglionnaire axillaire a été réalisée chez 49 patientes ( 41 % ) .
+Quarante deux d' entre elles avaient un résidu tumoral supérieur à 3 cm de diamètre , mais sept patientes avaient une bonne réponse tumorale objective , avec les caractéristiques tumorales suivantes : quatre tumeurs bifocales , une de topographie rétro-aréolaire , une avec un volumineux ganglion sous-claviculaire n' ayant pas répondu au traitement initial et une avec une composante canalaire in_situ extensive correspondant à plus de 50 % du volume tumoral .
+Après analyse unifactorielle , la possibilité d' un traitement locorégional conservateur était significativement influencée par le statut hormonal ( ménopause ) et la taille initiale de la tumeur .
+Après analyse multifactorielle , la taille initiale de la tumeur supérieure ou égale à 6 cm était le seul facteur qui diminuait significativement la possibilité d' un traitement locorégional conservateur ( risque relatif = 4,1 , IC 95 % [ 1 , 6 , 7 , 8 and 9 ] , p = 0,002 ) .
+3.4. Évaluation anatomopathologique3.4.1 .
+Tumeur primitive
+L' évaluation anatomopathologique était possible pour les 81 patientes ayant eu une chirurgie d' exérèse après chimiothérapie et radiothérapie préopératoires .
+Après examen anatomopathologique des pièces opératoires , la taille médiane du résidu tumoral était de 1 cm ( moyenne : 1,7 0,2 cm ; extrêmes : 0 - 10 cm ) .
+Bien qu' il y avait une relation statistiquement significative entre la réponse tumorale clinique et la réponse histopathologique selon la classification de Sataloff  après chimiothérapie d' induction et radiothérapie préopératoire , sur 77 patientes cliniquement en situation de réponse partielle ou de non-réponse , un résidu tumoral histologique persistait dans 61 cas et aucun résidu histologique tumoral n' était observé dans les 16 autres cas .
+À l' examen anatomopathologique , la taille du résidu tumoral définie comme le cumul de taille des reliquats tumoraux était supérieure ou égale à 1 cm dans 49 cas , inférieure à 1 cm et supérieure à 0,5 cm dans deux cas , inférieure ou égale à 0,5 cm dans dix cas .
+Chez les quatre autres patientes opérées et considérées en situation de réponse clinique apparente complète , il n' y avait aucun résidu tumoral histologique dans deux cas et un résidu supérieur à 1 cm pour les deux autres cas .
+L' aspect anatomopathologique des résidus tumoraux était comparable à ceux observés à l' examen initial de la biopsie tumorale .
+Tableau 3. Facteurs de prédiction du traitement locorégional conservateur ; analyse unifactorielle : 120 patientesPredictive factors of possibility of breast conservative treatment : univariate analysis : 120 patients
+Full-size table ( 13K )
+pts , patientes ; SBR , classification de Scarff , Bloom et Richardson .
+View Within Article
+Tableau 4. Réponse tumorale histopathologique selon la classification de Sataloff  en fonction de la réponse tumorale clinique après chimiothérapie d' induction et radiothérapie préopératoire : 81 patientes opéréesCorrelation between clinical and pathologic primary tumor response according to the classification of Sataloff  after induction chemotherapy and preoperative irradiation : 81 patients having undergone breast surgery
+Full-size table ( 2K )
+Pts , patientes ; RC , réponse complète ; RP , réponse partielle ; NR , non répondeur ; T-A , effet thérapeutique complet ou presque complet ; T-B , effet thérapeutique subjectif > 50 % mais inférieur à T-A ; T-C , effet thérapeutique 50 % mais effet évident ; T-D , aucun effet thérapeutique .
+Relation entre réponse tumorale clinique et histopathologique : r = 0,2982 , p = 0,0068 .
+View Within Article
+3.4.2. Curage ganglionnaire axillaire
+Parmi les 81 patientes opérées , 14 étaient atteintes de cancer cliniquement classé N0 .
+Le nombre médian de ganglions axillaires prélevés était de neuf [ extrêmes : 3 - 18 ] .
+À l' examen anatomopathologique , cinq patientes étaient atteintes d' une à trois métastases ganglionnaires axillaires .
+Parmi les 57 patientes opérées d' un cancer avec une extension ganglionnaire axillaire palpable avant traitement , 48 étaient considérées en situation de réponse ganglionnaire clinique complète au moment de la chirurgie .
+Cependant , 20 de ces 48 patientes avaient un envahissement ganglionnaire axillaire à l' examen histopathologique ( 3 ganglions : 11 cas et > 3 ganglions : 9 cas ) .
+Pour les 19 autres patientes dont la réponse ganglionnaire axillaire n' était pas complète , 14 avaient une extension ganglionnaire axillaire à l' examen histopathologique ( 3 ganglions : 6 cas et > 3 ganglions+ : 8 cas ) .
+Il n' y avait aucune corrélation entre la réponse ganglionnaire clinique et l' examen anatomopathologique du curage ganglionnaire axillaire ( r = - 0,158 , p = 0,20 ) .
+3.5. Toxicité de la chimiothérapie , complications locorégionales et résultats esthétiques
+La toxicité hématologique de la chimiothérapie première a été évaluée à j28 après chaque cycle et la toxicité maximale a été retenue pour chaque patiente , selon les recommandations de l' OMS  .
+Une toxicité hématologique de grade 3 s' est avérée rare : il s' agissait d' une leucopénie sévère ( 1,6 % , n = 2 ) ou d' une anémie sévère ( 1,6 % , n = 2 ) , mais jamais d' une thrombopénie sévère .
+Des nausées et vomissements de grades 1 et 2 et une alopécie de grade 3 ont été observés chez toutes les patientes .
+Après la fin du traitement locorégional , trois patientes avaient une leucopénie chronique de grade 2. Après la chimiothérapie adjuvante , six patientes souffraient de paresthésies des extrémités de grade 1.
+D' une manière générale , la cicatrisation après chirurgie d' exérèse était plus lente que celle habituellement observée après une chirurgie première ( de l' ordre de 1 à 1,5 mois ) .
+Chez les 81 patientes opérées , les suites opératoires immédiates ont été compliquées par un lymphocèle axillaire nécessitant des ponctions itératives dans 20 cas , une surinfection régressive du lit de tumorectomie dans trois cas et une épaule bloquée par capsulite rétractile régressive en 18 mois dans sept cas .
+Un oedème du membre supérieur a été observé dans 17 % des cas ( 14 / 81 ) après un curage ganglionnaire axillaire et dans 2,5 % des cas ( 1 / 39 ) en l' absence de curage axillaire .
+Une limitation douloureuse non régressive des mouvements de l' épaule a été notée dans 28,5 % des cas ( 14 / 49 ) après mastectomie et curage axillaire , dans 6 % des cas ( 2 / 32 ) après tumorectomie et curage axillaire et dans 2,5 % des cas ( 1 / 39 ) en l' absence de chirurgie .
+Aucune patiente n' a souffert de complication myocardique , de fibrose pulmonaire extensive , de plexite brachiale ou de fracture de côte post-radique .
+Les résultats esthétiques ont été évalués selon la classification de Harris_et_al.  .
+L' évaluation a été réalisée chez 68 patients qui ont bénéficié d' un traitement locorégional conservateur avec une médiane de recul de 110 mois après la fin de la radiothérapie ( extrêmes : 25 et 220 mois ) .
+Après tumorectomie et radiothérapie , les résultats étaient bons ou excellents dans 51,5 % des cas ( 16 / 31 ) et moyens dans 48,5 % ( 15 / 31 ) .
+Après radiothérapie sans chirurgie , les résultats étaient excellents ou bons dans 70 % des cas ( 26 / 37 ) , moyens dans 22 % ( 8 / 37 ) et mauvais dans 8 % ( 3 / 37 ) .
+3.6. Rechutes tumorales
+Sur toute la période d' observation , 16 cancers sur 32 traitées par chirurgie conservatrice et irradiation ont rechuté ( 4 rechutes locales isolées , 9 rechutes métastatiques , 1 rechute ganglionnaire axillaire et sus-claviculaire et 2 rechutes locales ganglionnaires axillaires synchrones , en_tant_que premiers évènements ) .
+Dans tous les cas , la rechute locale siégeait dans le même quadrant que la tumeur primitive .
+La taille médiane de la rechute locale était de 4,5 cm ( extrême : 1 - 8 cm ) .
+Aucune de ces tumeurs n' avait une composante canalaire in_situ extensive et les recoupes lors_de la tumorectomie étaient histologiquement saines .
+Dix-huit cancers sur 39 traités par irradiation seule ont rechuté ( 4 rechutes locales isolées , 10 rechutes métastatiques , 1 rechute ganglionnaire axillaire et métastatique synchrone ) .
+Parmi les sept rechutes tumorales locales , quatre ont été observées dans le même quadrant que celui de la tumeur initiale et trois dans un autre quadrant .
+Les rechutes tumorales locales sont survenues chez 2 / 16 patientes pour lesquelles le complément d' irradiation dans le lit tumoral a été réalisé par irradiation externe et chez 5 / 23 patientes après curiethérapie interstitielle de complément ( p = 0,75 ) .
+La taille médiane de la rechute locale était de 2 cm ( extrêmes : 0,3 - 4 cm ) .
+Une rechute tumorale a été observée chez 21 / 49 patientes traitées par mastectomie ( 17 métastases , 1 rechute locale associée à des métastases synchrones et 2 rechutes locales ganglionnaires axillaires et métastatiques synchrones ) .
+Les huit patientes en situation de rechute locale isolée après un traitement locorégional conservateur ont eu une mastectomie de rattrapage et cinq d' entre elles ont reçu une chimiothérapie adjuvante .
+Après mastectomie de rattrapage , deux patientes étaient en vie sans maladie , respectivement à 197 et 208 mois .
+Les six autres patientes ont souffert de métastases à distance entre 7 et 120 mois après la mastectomie ( moyenne : 69 mois ) .
+Les taux actuariels de rechute tumorale locale isolée à 5 , 10 et 15 ans étaient respectivement pour l' ensemble de la population de : 3,6 1,8 % ( n = 93 ) , 7,1 2,6 % ( n = 67 ) et 8,9 3,1 % ( n = 49 ) .
+Au moment de l' analyse , il y avait 15 rechutes tumorales locales avec ou sans rechute régionale ou métastatique synchrone en_tant_que premiers évènements .
+Les taux actuariels de rechute tumorale locale avec ou sans métastase étaient respectivement de 7,8 2,5 % ( n = 93 ) , 12,1 3,2 % ( n = 67 ) et 13,8 3,5 % ( n = 49 ) .
+Après analyse unifactorielle , deux facteurs ont significativement influencé le taux de rechute locale avec ou sans métastase ou rechute régionale : le stade clinique et le grade histologique .
+Le taux de rechute locale à dix ans était de 17 % après conservation mammaire contre 4,2 % après mastectomie ( p = 0,06 ) .
+Après analyse multifactorielle , le stade clinique était le seul facteur indépendant qui diminuait le taux de contrôle local ( IIIA contre IIIB contre IIIC , risque relatif = 8,6 , IC 95 % [ 1 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 22 , 23 , 24 , 25 , 26 , 27 , 28 , 29 , 30 , 31 , 32 , 33 , 34 , 35 , 36 , 37 , 38 and 4 ] , p = 0,0054 ) .
+Tableau 5. Facteurs pronostiques du contrôle tumoral local avec ou sans échec tumoral régional ou métastatique ; analyse unifactorielle , 120 patientesPrognostic factors and the local tumor recurrence with or without regional or distant failure , univariate analysis , 120 patients
+Full-size table ( 25K )
+Pts , patientes ; SBR , Scarff , Bloom et Richardson ; RT , radiothérapie ; RTE , radiothérapie externe
+View Within Article
+Quatre patientes ont été atteintes d' un cancer du sein controlatéral traité par mastectomie dans deux cas et association radiochirurgicale conservatrice dans les deux autres cas .
+Le délai d' apparition après la fin du traitement était compris entre 24 et 156 mois .
+Ces quatre patientes étaient en vie sans maladie entre 15,5 et 17,5 ans après le début du traitement du premier cancer du sein .
+3.7. Survie
+À la date de l' analyse , il y avait 53 échecs thérapeutiques métastatiques .
+Cinquante-cinq patientes étaient décédées ( 48 de cancer du sein et 2 de maladie intercurrente ) .
+Les taux de survie spécifique pour l' ensemble de la population à 5 , 10 et 15 ans , calculés à partir du début de traitement étaient , respectivement , de 813,6 % ( n = 96 ) , 66,5 4,4 % ( n = 70 ) et de 59,5 4,7 % ( n = 44 ) .
+Les taux de survie sans maladie à 5 , 10 et 15 ans étaient respectivement de 74 4 % ( n = 88 ) , 604,5 % ( n = 62 ) et 52,5 4,8 % ( n = 44 ) .
+Pour les mêmes périodes , les taux d' échec métastatique étaient , respectivement , de 26 4 % ( n = 88 ) , 394,5 % ( n = 63 ) et 45,5 4,7 % ( n = 46 ) .
+Après analyse unifactorielle , sept facteurs ont significativement influencé la survie sans métastase ( Tableau 6 and Tableau 7 ) : la taille initiale de la tumeur primitive , le stade N , le stade clinique , le grade histologique , la réponse tumorale clinique après chimiothérapie d' induction et radiothérapie préopératoire , la taille du résidu tumoral histologique , la réponse tumorale histologique selon la classification de Sataloff et l' état ganglionnaire axillaire histologique chez les patientes opérées .
+Après analyse multifactorielle , la survie sans métastase était significativement influencée par quatre facteurs indépendants : le stade N ( N0 contre N1-2a et 3c : risque relatif = 5,6 , IC 95 % [ 1 , 36 , 23 and 8 ] , p = 0,017 ) , la taille clinique de la tumeur primitive ( 6 contre 6 cm de diamètre : risque relatif = 2,5 , IC 95 % [ 1 , 2 , 3 , 4 and 5 ] , p = 0,008 ) , la réponse tumorale après chimiothérapie d' induction et radiothérapie préopératoire ( réponse tumorale clinique complète et partielle contre non-réponse : risque relatif = 2,7 , IC 95 % [ 1 , 4 , 5 and 2 ] , p = 0,0015 ) et le stade clinique ( IIIA-B contre IIIC : risque relatif = 7,8 , IC 95 % [ 2 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , 19 , 20 , 21 , 22 , 23 and 8 ] , p = 0,0003 ) .
+Tableau 6. Influence des caractéristiques tumorales préthérapeutiques sur la survie sans métastase ; analyse unifactorielle , 120 patientesInfluence of pre-treatment characteristics of patients on the metastatic disease-free survival , univariate analysis , 120 patients
+Full-size table ( 22K )
+Pts , patientes ; SBR , Scarff , Bloom et Richardson
+View Within Article
+Tableau 7. Influence des caractéristiques tumorales post-thérapeutiques sur la survie sans métastase ; analyse unifactorielle , 120 patientesInfluence of post treatment characteristics of patients on the metastatic disease-free survival , univariate analysis , 120 patients
+Full-size table ( 22K )
+Pts , patientes ; RC , réponse complète ; RP , réponse partielle ; NR , non répondeur ; CT , chimiothérapie ; RT , radiothérapie
+Fig. 1
+CT , chimiothérapie ; RT , radiothérapie ; NR , non-réponse ; RC , réponse complète
+View Within Article
+Dans le groupe de patientes traitées par chirurgie non conservatrice , pour les 32 patientes en situation de non-réponse tumorale clinique après la chimiothérapie d' induction , le taux de survie sans métastase à dix ans était de 59 8 % ( n = 15 ) avec seulement une rechute tumorale locale à 16 mois après le début de traitement .
+En revanche , dans le groupe de patientes pour lesquelles le traitement locorégional a été conservateur ( radiothérapie seule ou tumorectomie large suivie d' un complément de radiothérapie ) , le taux de survie sans métastase à dix ans pour les patientes en situation de non-réponse tumorale clinique après chimiothérapie d' induction ( 18 / 71 ) était de 47,7 12,3 % ( n = 7 ) , avec quatre rechutes tumorales locales entre 21 et 149 mois après le début du traitement .
+4. Discussion
+La chimiothérapie néoadjuvante a été introduite il y a plus de 20 ans dans le traitement des cancers du sein localement évolués .
+Son rôle dans la stratégie thérapeutique est désormais devenu un standard thérapeutique , bien_que son impact sur la survie ne soit pas démontré dans les formes opérables [ 20 and 29 ] .
+Les analyses des études rétrospectives et prospectives ont montré un taux de réponse tumorale clinique compris entre 50 et 90 % , selon le protocole de chimiothérapie proposé , avec un taux de rémission complète clinique de 15 à 30 % et un taux de réponse tumorale histologique complète relativement bas de 5 à 15 % [ 9 , 13 , 14 , 16 , 27 , 30 , 38 , 54 , 55 and 61 ] .
+Dans notre série , le choix entre une mastectomie et le type de traitement locorégional conservateur dépendait de la qualité de la réponse tumorale clinique après chimiothérapie d' induction et la radiothérapie .
+Cependant , l' évaluation de la réponse tumorale clinique et l' appréciation de la possibilité d' une conservation du sein restent difficiles même aidées de la mammographie , de l' échographie mammaire , de l' imagerie par résonance magnétique ou de la tomographie par émission de positons par l' inadéquation encore trop fréquente entre la réponse clinique et radiologique et la persistance ou la taille d' un résidu tumoral histologique [ 18 , 33 , 46 and 51 ] .
+Dans notre série , sur 59 patientes en situation de réponse tumorale clinique et ayant eu une chirurgie , 55 étaient considérées en situation de réponse tumorale clinique partielle et quatre en situation de réponse tumorale clinique complète après radiothérapie préopératoire .
+Parmi ces 59 patientes , la réponse tumorale histologique était classée T-C ( moins de 50 % d' effet thérapeutique ) selon la classification de Sataloff  dans 10 % des cas ( 6 patientes ) .
+En revanche , chez les 22 patientes en situation de non-réponse tumorale ayant eu une chirurgie , 14 tumeurs ( 63,5 % ) étaient histologiquement classées T-A ( effet thérapeutique complet ou presque complet : 2 patientes ) ou T-B ( effet thérapeutique supérieur à 50 % : 12 patientes ) .
+Le taux de rechute tumorale locale à dix ans était plus élevé après chirurgie conservatrice qu' après mastectomie mais la différence n' était pas significative ( 17 % après chirurgie conservatrice contre 4,2 % après mastectomie , p = 0,06 ) .
+Le choix entre une mastectomie pour certaines patientes et une chirurgie conservatrice pour d' autres n' a pas significativement influencé les taux de survie sans métastase .
+Malgré l' évaluation sub-optimale de la réponse tumorale clinique , beaucoup d' études ont montré qu' une réponse tumorale clinique partielle ou complète après une chimiothérapie néoadjuvante améliore significativement les taux de survie globale ou en rémission complète [ 3 , 9 , 17 , 30 , 50 and 62 ] .
+Cependant , la réponse tumorale histologique complète [ 3 , 4 , 9 , 11 , 13 , 14 , 16 , 17 , 27 , 30 , 38 , 42 , 60 and 61 ] et l' état histologique des ganglions axillaires , quelle que soit la réponse histologique de la tumeur primitive [ 3 , 17 , 30 , 42 and 62 ] , paraissent être les deux facteurs indépendants statistiquement les plus puissants de la survie globale et de la survie sans maladie .
+Il existe , de plus , une relation significative entre la réponse tumorale primitive histologique et l' état histologique des ganglions axillaires [ 30 , 42 and 62 ] .
+Les facteurs prédictifs qui semblent augmenter les taux de réponse tumorale primitive après une chimiothérapie néoadjuvante sont : la taille de la tumeur primitive inférieure à 6 ou 5 cm de plus grand diamètre [ 3 , 11 and 62 ] , le grade histologique élevé , le taux du Ki67 élevé , le pourcentage de cellules tumorales en phase S élevé , l' absence de récepteur aux estrogènes , l' absence de phénotype de résistance multidrogue [ 10 , 30 , 35 and 45 ] .
+En cas de réponse tumorale minime après une chimiothérapie néoadjuvante , le pronostic est défavorable .
+Quelques études prospectives ont étudié l' impact sur la réponse tumorale d' une augmentation du nombre de cycle de chimiothérapie néoadjuvante ( plus de 4 cycles ) et de l' administration séquentielle de docétaxel après un protocole de chimiothérapie comportant une anthracycline comme l' association cyclophosphamide , vincristine , doxorubicine et prednisolone ( CVAP )  ou comme l' association doxorubicine et cyclophosphamide ( AC )  .
+L' analyse des résultats préliminaires a montré une augmentation significative de la réponse tumorale clinique et histologique .
+Une étude évalue actuellement l' intérêt d' une chimiothérapie première associant trastazumab , cisplatine et docétaxel dans les tumeurs surexprimant HER-2 / neu  .
+Après une chimiothérapie d' induction , le taux de contrôle tumoral local semble plus élevé avec l' association radiochirurgicale qu' avec chirurgie seule ou radiothérapie exclusive  .
+Après chimiothérapie néoadjuvante , quelques institutions ont proposé une radiothérapie exclusive ou une radiothérapie préopératoire [ 6 , 9 , 13 , 14 , 23 and 57 ] .
+Le but est d' augmenter le taux de réponse tumorale clinique et histologique complète , facteur pronostique déterminant , et le taux de conservation mammaire .
+Dans le même but , d' autres auteurs ont proposé de réaliser une association concomitante ( chimioradiothérapie ) préopératoire de radiothérapie et de chimiothérapie , avec notamment du 5-fluoro-uracile en perfusion intraveineuse continue ou du paclitaxel à la dose de 30 mg / m2 , deux fois par semaine  et une dose d' irradiation externe modérée de 45 Gy en cinq semaines .
+Les taux de réponse histologique rapportés sont respectivement de 34 et 33 %  .
+Le taux de réponse tumorale histologique après une chimioradiothérapie avec le paclitaxel semble être lié à l' absence de surexpression du gène HER2 / Neu et de récepteur aux estrogènes dans le tissu tumoral  .
+À présent , la_plupart des institutions , dont la nôtre , réalisent une irradiation postopératoire quand les patientes atteintes d' un cancer du sein localement évolué non inflammatoire sont en situation de réponse tumorale partielle ou complète avec une chimiothérapie première .
+En effet , cette stratégie permet d' obtenir une évaluation histologique précise de la réponse tumorale , d' adapter la stratégie chirurgicale locorégionale en fonction de la taille du résidu tumoral histologique , de sa topographie et des marges de tissu sain et de réduire le risque de complications précoces postopératoires et de séquelles tardives , plus fréquentes lorsqu' une radiothérapie préopératoire est réalisée .
+Cependant , en cas de cancer du sein localement évolué non inflammatoire résistant à une chimiothérapie néoadjuvante comprenant une anthracycline , puis du docétaxel , une stratégie locorégionale par une radiothérapie préopératoire avec ou sans chimiothérapie concomitante suivie d' une mastectomie avec curage axillaire pourrait être préférée pour essayer d' améliorer les taux de contrôle tumoral locorégional et de survie .
+Dans notre série , 32 patientes en situation de non-réponse tumorale après chimiothérapie d' induction ont été traitées par une association non conservatrice comprenant une radiothérapie préopératoire de 45 Gy en 4,5 semaines et une mastectomie avec curage axillaire .
+Le taux de survie en rémission complète à dix ans était de 59 % , avec une seule rechute tumorale locale .
+Huang_et_al.  ont récemment rapporté les résultats concernant 32 patientes atteintes d' un cancer du sein localement évolué non inflammatoire qui restaient inopérables après une chimiothérapie première comprenant une anthracycline .
+Ces patientes ont eu une radiothérapie préopératoire et une mastectomie .
+Le taux de contrôle tumoral locorégional à cinq ans était de 73 % .
+Le taux de survie à cinq ans pour les patientes inopérables par l' importance de l' extension tumorale locale était de 64 contre 30 % pour les patientes inopérables à cause d' une extension ganglionnaire régionale étendue .
+Le taux de complications sévères post-thérapeutiques à cinq ans était significativement lié à la dose de radiothérapie préopératoire : 70 % pour une dose supérieure ou égale à 54 Gy contre 9 % pour une dose inférieure à 54 Gy , p = 0,025 ) .
+5. Conclusion
+Malgré le pronostic défavorable des cancers du sein localement évolués non inflammatoires résistants à une chimiothérapie première comprenant une anthracycline , une stratégie thérapeutique locorégionale agressive associant une radiothérapie préopératoire de 45 Gy en 4,5 semaines et une mastectomie avec curage ganglionnaire axillaire offre la possibilité d' une survie à long terme chez plus de la moitié des patientes , avec un taux de rechute tumorale locale faible , chez des patientes atteintes de cancer sans extension ganglionnaire régionale étendue classée N3c avant_tout traitement et en situation de bonne réponse ganglionnaire axillaire .
+En revanche , le taux de rechute tumorale locale semble élevé chez les patientes en situation de réponse tumorale partielle après chimiothérapie première et un traitement locorégional conservateur par irradiation préopératoire et tumorectomie large

@@ -1,0 +1,141 @@
+The North American perennial black cohosh ( Actaea racemosa L ; Ranunculaceae ) and related Cimicifuga species have been used for centuries , across many cultures , for a variety of health benefits .
+Native Americans used black cohosh as an anti-inflammatory agent  .
+Related Asian Cimicifuga species have been used in China and Japan as antipyretic and analgesic agents  , as well as to treat infectious diseases  .
+In recent years , black cohosh has been used in the United States and Europe to relieve symptoms associated with female medical conditions , particularly menopause  .
+The roots and rhizomes of the plant contain 2 major classes of compounds , triterpene glycosides and phenylpropanoids .
+We and others had shown that extracts enriched in triterpene glycosides and specific triterpene glycosides isolated from black cohosh possess anticancer activity ( Nesselhut et al. , 1993 ; Dixon-Shanies and Shaikh , 1999 ; Watanabe et al. , 2002 ; Bodinet and Freudenstein , 2004 ; Einbond et al. , 2004 ; [ Hostanska et al. , 2004a ] and [ Hostanska et al. , 2004b ] ) , but the precise mechanism and nature of the active components are not yet known .
+The purpose of this study is to determine : ( 1 ) the nature of the active anticancer components in black cohosh and related Cimicifuga species , and ( 2 ) the effect of the triterpene glycoside actein on the morphology of human breast cancer cells .
+Full-size image ( 11K )
+Fig. 1. Structure of actein ( -d-xylopyranoside ) .
+View Within Article .
+Materials and methods Chemicals and reagents .
+All solvents and reagents were reagent grade ; water was distilled and deionized .
+Black cohosh fractions and purified components were dissolved in dimethylsulfoxide ( DMSO ) ( Sigma ; St. Louis , MO ) prior to addition to cell cultures .
+Triterpene glycosides were dissolved in DMSO at 50 g / ml ( for d6 : 25 g / ml ; A1 and db were diluted in ethanol before adding to aqueous media to a final concentration of 0.5% ethanol ) .
+Plant materials .
+Cimigenol 3-O--d-xyloside and triterpene glycosides from related Cimicifuga species were the kind gift of Dr. Ye Wen-Cai ( Guangzhou , China ) ( documentation of materials being studied as described by Ye et al. , 1999 ; Zhang et al. , 1999 ; Zhang et al. , 2001 ) .
+Naturex , Inc. ( South Hackensack , NJ ) generously provided black cohosh extracts containing 1% , 15% and 27% triterpene glycosides .
+Black cohosh raw material was collected in the United States in 1998 from natural habitat , dried naturally by air and identified by Dr. Scott Mori from the New York Botanical Garden .
+Each lot of the raw material was compared with the authentic samples using HPLC .
+A voucher sample ( 9-2677 ) was deposited in Naturex 's herbarium .
+Table 1. .
+Composition of 1% , 15% and 27% triterpene glycoside enriched extracts from black cohosh .
+Compound% Triterpene glycosides 26.69%14.62%0.87% Cimiracemoside A2.351.300 ( 26R ) -Actein0.790.690 26-Deoxycimicifugoside1.551.310 ( 26S ) -Actein2.621.520 23-epi-26-Deoxyactein3.011.580 Acetyl shengmanol arabinoside000 Acetyl shengmanol xyloside3.251.730 Cimigenol arabinoside3.671.900 Cimicifugoside4.972.440 25-OAc-cimigenol arabinoside2.271.110.43 25-OAc-cimigenol xyloside2.231.040.44 .
+Total26.6914.620.87 .
+% Isoferulic acid1.830.700.64 .
+Full-size table .
+View Within Article .
+Extraction and isolation procedures .
+Black cohosh roots and rhizomes ( lot number 9-2677 ; South Hackensack , NJ ) were extracted with 75% EtOH / water .
+The ethanol was removed at 45 - 55 C under reduced pressure .
+The concentrated extract was partitioned between methylene chloride and water , which provided a fraction of 15% triterpene glycosides ( TG ) from methylene chloride and 1% TG from water .
+The methylene chloride was removed at 45 - 55 C under reduced pressure .
+The concentrated fraction was further partitioned between n-butanol and water and the 27% TG fraction was obtained from the n-butanol phase .
+Table 2. .
+Effect of purified triterpene glycosides from Cimicifuga species on cell proliferation in MDA-MB-453 ( Her2 overexpressing ) human breast cancer cells .
+CodePlant speciesChemical nameM.W.IC50 g / mlIC50 M A1Cimicifuga acerinaCimigenol 3-O--d-xylopyranoside62069.7 C2Cimicifuga acerina ( 22R ) -22-hydroxycimigenol 3-O--d-xylopyranoside6362945.6 d6Cimicifuga dahurica24-epi-7,8-didehydrocimigenol 3-O--d-xylpyranoside6187.211.7 d8Cimicifuga dahurica12 -hydroxycimigenol 3-O--l-arabinopyranoside6365586.5 D10Cimicifuga dahurica24-O-acetylisodahurinol 3-O--l-arabinopyranoside6841724.9 D11Cimicifuga dahurica7,8-didehydrocimigenol 3-O--d-xylopyranoside5967.212.1 D13Cimicifuga acerina25-acetyl-7,8-didehydrocimigenol 3-O--d-xylopyranoside6383.25.0 dECimicifuga dahurica3-O--l-arabinopyranosyl cimigenol 15-O--d-glucopyranoside8047289.6 AcActaea racemosaactein , -d-xylopyranoside6765.78.4 .
+Full-size table .
+MDA-MB-453 cells were treated with increasing concentrations of each of the Cimicifuga components for 96 h and the number of viable cells determined using a Coulter counter .
+Similar results were obtained in an additional study .
+View Within Article .
+Cell cultures .
+MDA-MB-453 ( ER negative , Her2 overexpressing ) and MCF7 ( ER positive , Her2 low ) cells were obtained from the ATCC ( Manassas , VA ) .
+Cells were grown in Dulbecco 's modified Eagle 's medium ( DMEM ) ( Gibco BRL Life Technologies , Inc. , Rockville , MD ) containing 10% ( v / v ) fetal bovine serum ( FBS ) ( Gibco BRL ) at 37 C , 5% CO2 .
+MCF7 and MCF7 / Her2-18 MCF7 cells transfected with a full length Her2 cDNA coding region , 45 fold increase Her2  } were the kind gift of Dr. Dennis Slamon ( Los Angeles , CA ) .
+These cells were maintained in RPMI supplemented with 10% FBS plus glutamine ( 1% ) and PSF ( 1% ) ( Gibco , Rockville , MD ) .
+Proliferation assays .
+Coulter Counter Assay : To determine the growth inhibitory activity , MDA-MB-453 human breast cancer cells were exposed to increasing concentrations of black cohosh extracts containing 1% , 15% , or 27% triterpene glycosides or purified triterpene glycosides from Cimicifuga species for 96 h and the number of viable cells was determined by the Coulter Counter assay .
+Cells were seeded at 3104 cells per well in 24 well plates ( 0.875 cm diameter ) ; 24 h later , the medium was replaced with fresh medium with or without the indicated test materials , in triplicate .
+The number of attached viable cells was counted 96 h later using a model ZF Coulter Counter ( Coulter Electronics Inc. , Hialeah , FL ) and IC50 values were calculated , as previously described  .
+Cell viability was calculated by comparing cell counts in treated samples relative to cell counts in the DMSO or DMSO / ethanol control and converted to percentage .
+MTT assay : The MTT assay was used to determine the sensitivity of MCF7 and MCF7Her2 to actein .
+Cells were seeded at 1104 cells / well in 96 well plates and allowed to attach for 24 h .
+The medium was replaced with fresh medium containing DMSO or compound .
+The cells were treated for 96 h , after which they were incubated with MTT reagents and the absorbance read at 600 nm .
+Colony formation assay .
+The effect of actein on the ability of MDA-MB-453 cells to form colonies was determined using the colony formation assay .
+Cells were seeded at 0.5 - 1.5103 cells per well in 6 well plates ; 24 h later the media was replaced with fresh media containing DMSO or compound , in triplicate .
+The cells were treated with actein for 24 or 96 h , then the media was replaced with fresh media not containing actein and incubated for 8 days .
+After incubation , media was removed and cells were washed twice with PBS .
+Cells were fixed in 2 ml of 100% ethanol for 10 min , after which ethanol was removed , and samples were allowed to dry at room temperature .
+Colonies were then stained for 30 min using 2 ml 1 Giemsa solution , rinsed with tap water , and allowed to dry at room temperature .
+For cell growth assays , the data are expressed as meanstandard deviation .
+Control and treated cells were compared using the Student 's t-test ( p0.05 ) .
+Indirect immunofluorescence microscopy of actein-treated cells .
+The effects of actein on MCF7 and MDA-MB-453 cell structure were examined and compared by fluorescent microscopy .
+Cell nuclei and actin filaments were stained according to the methods of Yoon_et_al.  .
+MCF7 and MDA-MB-453 cells were allowed to attach to coverslips in 6 well plates ( 35 mm diameter ) , treated with DMSO ( control ) or actein ( 20 or 40 g / ml ) for 48 h , washed with DMEM at 37 C and fixed with PBS containing 4% EM-grade formaldehyde and 0.1% Triton X100 for 10 min at room temperature .
+The cells were next washed with PBS .
+After the second wash , the PBS was replaced with 1 ml / well PBS containing 2 units / ml Texas Red-X Phalloidin to stain the actin filaments or 1 g / ml 4,6-diamidino-2-phenylindole ( DAPI ) to stain the nuclei .
+The cells were then incubated for 20 min at room temperature and protected from light ( under foil ) .
+All samples were visualized with a Nikon Optiphot microscope ; images were obtained with a MicroMax cooled CCD ( charge-coupled device ) camera ( Kodak KAF 1400 chip ; Princeton Scientific Instruments , Monmouth Junction , NJ ) using Metamorph software ( Universal Imaging , Downingtown , PA ) .
+Results Growth inhibitory activity of extracts of black cohosh .
+Our previous experiments indicated that fractions and purified components from black cohosh inhibited the growth of human breast cancer cells .
+Of the cells tested , the Her2 overexpressing MDA-MB-453 human breast cancer cells were the most sensitive to the growth inhibitory effects of the ethyl acetate fraction and the purified triterpene glycoside actein from black cohosh .
+MDA-MB-453 cells overexpress the Her2 , FGF and AR receptors and are mutant for p53 , and they are ER negative .
+Guided by the results of these previous experiments , we tested the growth inhibitory activity of extracts of black cohosh roots and rhizomes , containing different percents of triterpene glycosides on MDA-MB-453 human breast cancer cells in order to explore the nature of the active components .
+Cells were exposed to increasing concentrations of the agents for 96 h and the number of viable cells was determined by the Coulter Counter assay , as shown in Fig. 2. The extract with a low concentration of triterpene glycosides ( 1% ) resulted in no inhibition of cell growth .
+The IC50 value , the concentration that caused 50% inhibition of cell proliferation , for the extract with 15% triterpene glycosides was 29 g / ml , and for the extract with 27% triterpene glycosides , the IC50 value was 12 g / ml .
+An IC50 value of 4.5 g / ml ( 6.7 M ) was obtained with the purified triterpene glycoside actein .
+The percent of the polyphenol isoferulic acid in the respective three fractions was : 1.8 ; 0.7 ; and 0.6% .
+Full-size image ( 27K )
+Fig. 2. Effect of 3 extracts enriched for triterpene glycosides or actein on cell proliferation in MDA-MB-453 ( Her2 overexpressing ) human breast cancer cells .
+MDA-MB-453 cells were treated with increasing concentrations of each of 3 extracts containing 1% , 15% , 27% triterpene glycosides or actein for 96 h and the number of viable cells determined using a Coulter Counter .
+Similar results were obtained in an additional study .
+Ac=actein .
+View Within Article .
+Growth inhibitory activity of compounds from Cimicifuga species .
+Our previous experiments  indicated that of the black cohosh triterpene glycosides tested , actein was the most potent .
+To further characterize the nature of the active components , we tested the effects of a series of triterpene glycosides from related Cimicifuga species on cell proliferation .
+The most strongly acting component was d13 ( 25-acetyl-7,8-didehydrocimigenol 3-O--d-xylopyranoside ) which has an acetyl group at position C-25 ; it had an IC50 of 3.2 g / ml ( 5 M ) compared to 7.2 g / ml ( 12.1 M ) for the parent compound d11 ( 7,8 didehydrocimigenol 3-O--d-xylopyranoside ) , which lacks the acetyl residue .
+Compound d6 ( 24-epi-7,8-didehydrocimigenol 3-O--d-xylopyranoside ) , the 24 epi derivative of compound d11 , exhibited efficacy similar to that of d11 ( IC50=7.2 g / ml ; 11.7 M ) .
+Actein ( -d-xylopyranoside ) , with an IC50 equal to 5.7 g / ml ( 8.4 M ) , exhibited activity comparable to cimigenol 3-O--d-xyloside , which had an IC50 value of 6 g / ml ( 9 M ) .
+Compound d10 ( 24-O-acetylisodahurinol 3-O--l-arabinopyranoside ) , a 24 acetyl derivative , possessed the next highest activity , with an IC50 value of 15 g / ml ( 24.9 M ) .
+Compounds C2 ( 22R ) -22-hydroxy cimigenol 3-O--d-xylopyranoside} and d8 ( 12 -hydroxycimigenol 3-O--l-arabinopyranoside ) , hydroxyl derivatives of compound A1 , exhibited less growth inhibitory activity , with IC50 values of 29 g / ml ( 46 M ) and 55 g / ml ( 87 M ) , respectively .
+Compound dE ( 3-O--l-arabinopyranosyl cimigenol 15-O--d-glucopyranoside ) , which possesses several sugar residues , was also less active , with an IC50 value of about 72 g / ml ( 90 M ) .
+Colony formation assay .
+To ascertain the anticancer potential of actein , we tested the effect of actein on the ability of MDA-MB-453 cells to form colonies .
+The colonies were smaller on average in the actein treated cells : the IC50 values after 24 and 96 h were 33 g / ml ( 48.7 M ) and 10 g / ml ( 14.8 M ) , respectively .
+Full-size image ( 7K )
+Fig. 3. Effect of actein on the ability of MDA-MB-453 cells to form colonies .
+MDA-MB-453 cells were treated with increasing concentrations of actein for 24 or 96 h and the number of colonies determined using the colony formation assay .
+View Within Article .
+Effect of actein on MCF7 and MCF7 ( Her2 ) human breast cancer cells .
+To determine whether sensitivity correlates with Her2 expression , we compared the effects of actein on the genetically matched pair of human breast cancer cells , MCF7 ( ER+ , Her2 low ) and MCF7 / Her2 , transfected with a full length Her2 cDNA coding region  .
+We found that the Her-2 transfected cells ( IC50 value : 22 g / ml ; 32.5 M ) were more sensitive than the parental cells ( IC50 value : 31 g / ml ; 45.8 M ) .
+Full-size image ( 21K )
+Fig. 4. Effect of actein on cell proliferation in MCF7 ( Her2 ) and MCF7 human breast cancer cells .
+Cells were treated with increasing concentrations of actein for 96 h and the number of viable cells determined using the MTT assay .
+Similar results were obtained in an additional study .
+PAR=MCF7 .
+View Within Article .
+Fluorescent microscopy of the effects of actein on human breast cancer cells .
+We observed two effects of actein on MCF7 and MDA-MB-453 cell structure by fluorescent microscopy : ( 1 ) there were fewer cells in mitosis in the MCF7 cells treated with actein at 20 g / ml for 48 h , and ( 2 ) the distribution of actin filaments was altered after treatment with actein in both the MCF7 and MDA-MB-453 cells .
+In the untreated cells , actin was primarily beneath the cell membrane , whereas in the actein treated cells , actin was dispersed in the cytoplasm and also present around the nucleus .
+Furthermore , the nuclei had a donut-shape , which is characteristic of apoptotic cells .
+Full-size image ( 94K )
+Fig. 5. Fluorescence microscopy of MDA-MB-453 and MCF7 cells treated with actein .
+MCF7 or MDA-MB-453 cells were treated with actein at 20 or 40 g / ml for 48 h , fixed with methanol , stained for DNA or actin , and observed by indirect fluorescence microscopy , as described in Materials and methods : ( A ) MCF7 cells : ( a ) DAPI stain ; ( b ) actin stain ; ( left ) DMSO , ( right ) 20 g / ml actein ; ( B ) MDA-MB-453 cells : ( a ) DAPI stain ; ( b ) actin stain ; ( left ) DMSO , ( right ) 40 g / ml actein ; magnification , 200 .
+View Within Article .
+Discussion .
+This study examined the growth inhibitory activity of extracts and purified components from Cimicifuga species on human breast cancer cells .
+Our results support the hypothesis that the growth inhibitory effect of black cohosh on human breast cancer cells is primarily due to the triterpene glycoside fraction .
+In additional unpublished studies we tested the activity of individual components of the black cohosh caffeic acid ( polyphenol ) fraction .
+The IC50 values of the polyphenols cimicifugic acid G  , A and B , fukinolic acid , ferulic and isoferulic acid were greater than 100 M on MDA-MB-453 cells .
+Although these polyphenols were more active on MCF7 cells than MDA-MB-453 cells , they displayed very weak activity on both cell lines .
+Our present and previous results indicate that the percent inhibition of cell proliferation is related to the triterpene glycoside content of back cohosh and not the isoferulic content ; however , we cannot exclude a role for this polyphenolic fraction or other components .
+Our results contradict the finding of Hostanska_et_al.  that the caffeic acid ester ( CAE ) fraction is more active than the triterpene glycoside fraction on MCF7 , ER+ , human breast cancer cells .
+This difference in results could be due to the use of different subclones , experimental procedures or incubation media , or to the fact that the polyphenols and triterpene glycosides differ in molecular weight .
+Thus , Hostanska_et_al.  performed their assays in estrogen-free medium and were only able to find increased activity for the CAE fraction in the crystal violet and early apoptosis assays .
+The acetyl group at position C-25 appears to be important for the growth inhibitory activity of the triterpene glycoside compound d13 ( 25-acetyl-7,8-didehydrocimigenol 3-O--d-xylopyranoside ) .
+This is consistent with the findings that the acetyl derivative of boswellic acid 3-O-acetyl-11-keto--boswellic acid ( AKBA ) } from Boswellia serratia  and the 16 acetate derivative of gitoxigenin from Digitalis purpurea L.  are also more active than the parent compounds .
+Since the colonies in the colony formation assay were smaller on average in the actein-treated cells , actein appears to decrease the rate of cell proliferation , i.e. , actein appears to have cytostatic as well as cytotoxic activity .
+Her2 may play a role in the action of actein , since MCF7 cells transfected for Her2 appear to be more sensitive to the growth inhibitory effects of actein than the parental cells .
+This is consistent with our finding that MDA-MB-453 cells , which are ER and Her2+ , were the most sensitive of the cells that we tested .
+It is possible that the greater sensitivity of the transfected cells may reflect in part the difference in growth rates of the transfected and parental cells .
+We found that treatment of MCF7 or MDA-MB-453 cells with actein altered their cell structures , since the actin filaments aggregated around the cell nuclei and the nuclei appeared donut-shaped .
+These effects are consistent with actein inducing apoptosis ; the aggregation of actin around the nucleus occurs in response to cell stress  .
+These results corroborate the results of our previous studies indicating that the growth inhibitory effect of actein or an extract of black cohosh is associated with activation of specific stress response pathways and apoptosis ( [ Einbond et al. , 2007a ] and [ Einbond et al. , 2007b ] ) .
+Taken together , these results indicate that the triterpene glycoside actein and related compounds may be useful in the prevention and treatment of human breast cancer .
+Acknowledgments .
+We thank Sung-Min Park , Hyun Park , Dr. Shannon Brightman , Alejandro Ramirez and Laura Chen for excellent technical assistance , Dr. I. B. Weinstein for guidance and Dr. Dennis Slamon for the gift of MCF7 and MCF7 ( Her2 ) cells .

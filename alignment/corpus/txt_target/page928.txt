@@ -1,0 +1,164 @@
+Exercise participation after treatment for breast cancer has been reported to be low ( [ Irwin et al. , 2003 ] , [ Irwin et al. , 2004a ] and [ Irwin et al. , 2004b ] ) and whilst there has been growing interest in the effects of physical activity interventions upon quality of life ( QoL ) and health outcomes in different cancer populations in recent years  very few trials have provided detailed information in terms of session and / or weekly adherence to their exercise intervention protocols .
+Most studies simply ( [ Mock et al. , 2001 ] and [ Mock et al. , 2005 ] ; Segal et al. , 2003 ) document the amount of exercise that cancer patients have attained or self-report in terms of overall intervention adherence / physical activity ; consequently , they have tended to provide snapshots rather than detailed information about the duration , intensity and frequency of exercise achieved by patients treated for cancer .
+Data presented in this way do not capture the dynamic and continuous nature of exercise adherence .
+Taking this point further , although the overall adherence rate to exercise interventions might be high , the number of participants who meet the weekly exercise framework goals across the intervention period may be low ( [ Irwin et al. , 2004a ] and [ Irwin et al. , 2004b ] ) .
+These omissions from previous reports are problematic for a number of reasons ; it is difficult to know what types of exercise interventions are likely to provide benefit and it is not clear what level of exercise is likely to be achievable by women recovering from breast cancer at varying points during exercise interventions .
+Low levels of adherence can also lead to a diffusion of treatment since patients will not have been exposed to the intervention as intended , therefore compromising the internal validity of trials .
+Moreover , if high levels of adherence are not achieved and a non-significant effect is reported between treatment and control groups , it is difficult to know whether the non-significant effect is due to the poor adherence within the study , or to an ineffective intervention .
+Many previous trials in this field have involved home-based exercise interventions whereby cancer patients have been required to either self-report the amount of exercise they completed each week or return physical activity logs or report activity via telephone recall ( Carmack Taylor et al. , 2006 ; [ Courneya et al. , 2003a ] and [ Courneya et al. , 2003b ] ; Jones et al. , 2004 ; Segal et al. , 2001 ) .
+Whilst there are a number of pragmatic and economic reasons why researchers might opt for these types of approaches when assessing exercise adherence , this does raise substantial issues about the potential for reporting bias ; thus more robust evidence is required .
+Cancer patients are often required to endure long and difficult treatment regimens and the treatment types vary between patients ; it is possible therefore that some patients perform better in exercise interventions than others .
+In motivated and healthier cancer patients , adherence to exercise interventions may be high , relative to their less motivated and unhealthy counterparts .
+Adherence may also be related to patients socio-economic status and current health behaviours ; reviews on physical activity interventions would support this suggestion and have identified advanced age , gender , low educational level , smoking , being overweight and low social support as determinants of poor intervention session attendance  .
+However , these determinants are often derived from studies involving apparently healthy participants and it remains unclear whether these same determinants apply to diseased patients , such as women treated for breast cancer .
+Additional determinants of exercise in breast cancer patients could include type of cancer treatment ( s ) , time since cancer treatment and treatment side effects ( i.e. lymphoedema , fatigue , etc. ) .
+This information has not been documented by previous reports , therefore it is difficult to know which breast cancer patients are likely to be at risk of drop-out from exercise programmes and require additional support to change their exercise behaviour patterns .
+The Sheffield Exercise and Breast Cancer Trial ( SHERBERT ) ( Daley , Mutrie , Crank , Saxton and Coleman , 2004 ; Daley et al. , 2007 ) was a randomised controlled trial ( RCT ) designed to investigate the effects of a progressive eight-week supervised exercise therapy intervention upon ( QoL ) and associated health outcomes in women treated for breast cancer .
+SHERBERT included an exercise-placebo intervention and a usual care group .
+To fully characterise treatment behaviour this study seeks to provide detailed descriptive data regarding the number of women able to achieve different doses of aerobic exercise , both in terms of duration , rating of perceived exertion ( RPE ) and heart rate ( HR ) , over the course of the intervention .
+We also document compliance with the exercise-placebo intervention .
+Adherence to exercise has been demonstrated to be a difficult challenge for healthy populations ( Department of Health , 2004 ; Kearney et al. , 1999 ) , and is likely to be equally , if not more difficult , for patients who have completed treatment for cancer .
+Therefore , the patterns of adherence to the trial interventions are documented for the purpose of informing future interventions involving this population .
+Understanding the determinants of exercise after treatment for cancer is one of the critical steps towards developing effective interventions ; therefore , this study explores differences in intervention session adherence according to patients route of trial recruitment , socio-economic characteristics , health behaviours , cancer treatment regimen ( s ) and side effects from treatment .
+Methods Trial design and patient recruitment .
+Detailed information about SHERBERT has been reported elsewhere ( [ Daley et al. , 2004 ] and [ Daley et al. , 2007 ] ) and will be described briefly here .
+Sedentary ( at the precontemplation , contemplation or preparation stages of change for exercise : SOC ) ( Prochaska and DiClemente , 1983 ) women aged 18 - 65 years who had completed treatment for early stage breast cancer , with no-co-morbidities ( e.g. multiple sclerosis and arthritis ) that would prevent exercise participation , were eligible for the study .
+Participants were randomised using stratification for hormone therapy ( yes or no ) and chemotherapy treated ( yes or no ) to receive exercise therapy , exercise-placebo or usual care for eight weeks .
+The South Sheffield Local Research Ethics Committee provided ethical approval for the trial .
+Trial outcomes included QoL , depression , fatigue , physical activity , aerobic fitness , body mass index ( BMI ) and muscle function .
+The primary recruitment strategy was by postal invitation letter from patients treating oncologist or surgeon who identified potentially eligible patients from hospital records .
+Secondary recruitment strategies involved media ( television , radio and newspapers ) advertisements , presentations by members of the trial team to breast cancer nurses and trial awareness activities to cancer support groups and word of mouth .
+Exercise therapy .
+Exercise therapy sessions took place on a one-to-one basis with an experienced exercise researcher ( educated to Master degree level ) and sessions lasted 50 min .
+In line with previously published guidelines for cancer patients  the intervention behavioural goal was for women to attend three exercise sessions per week at the University trial centre and to work towards accumulating 30 min of moderate intensity exercise on three days of the week in these sessions .
+Participants were encouraged to focus firstly on the frequency of their exercise , and then to focus on the duration and intensity of their exercise sessions .
+Whilst exercise therapy was guided by an intervention framework , patients were encouraged to exercise at an intensity that was comfortable for them within the intervention framework .
+To optimise adherence to the intervention , participants were offered a range of aerobic exercise activities ( e.g. stepping , cycling , walking , rowing and jogging ) .
+HR and RPE ( using Borg 's ( 1997 ) 6 - 20 scale ) were assessed every 2 min during every exercise therapy session .
+The trial research assistants documented this information in activity logs .
+The exercise therapy sessions incorporated a variety of cognitive-behavioural techniques ( i.e. consciousness raising , decisional balance , self-regulation and goal setting ) for promoting exercise behaviour .
+Full-size image ( 20K )
+Figure 1. Exercise therapy intervention framework .
+Note : Exercise therapy sessions lasted a total of 50 min and included a 5 min warm-up and cool down and exercise behaviour change counselling discussions .
+View Within Article .
+Equal contact exercise-placebo .
+The placebo-exercise group also attended the trial centre three times per week over eight weeks and participated in one-to-one 50 min sessions .
+However , in contrast to the exercise therapy group , in the placebo-exercise group every effort was made to keep HR less than approximately 100 beats per minute so as to limit the aerobic stimulus provided by the intervention and RPE was maintained below 12 ( light intensity exercise ) .
+HR and RPE were recorded in activity logs for every session and were assessed every 5 min during these sessions .
+Given the placebo group were not involved in aerobic exercise training it was not felt necessary to record HR every 2 min but that every 5 min during each session was sufficient .
+The types of activities included light body conditioning exercises , flexibility and passive stretching .
+Every effort was made to avoid communicating to patients the idea of stretching / body conditioning as a placebo or control .
+No exercise behavioural change advice was given to this group and conversations within sessions were centred around topics of everyday living .
+The exercise-placebo condition allows for a more stringent test of aerobic exercise as a clinically meaningful treatment because it equates social contact between the groups ; this is important since attention could have some treatment effects .
+Usual care .
+The usual care group was encouraged to continue with their lives as normal and were invited to take part in exercise sessions at the centre after completing their 24 week follow-up assessment .
+Measures .
+At baseline all participants provided information concerning their medical history specific to their cancer diagnosis , use and type of hormonal therapies , type ( s ) and length of cancer treatment , presence of lymphoedema , stage of disease and time since treatment .
+Information concerning frequency of exercise per week / month  , SOC for exercise ( Prochaska and DiClemente , 1983 ) , BMI , percentage body fat ( bioelectrical impedance ) and aerobic fitness were also assessed at baseline .
+Aerobic fitness was measured using the sub-maximal 8 min single stage-walking test  performed on a treadmill .
+The Index of Multiple Deprivation ( IMD : Office of the Deputy Prime Minister ( OPDM ) , 2004 ) rank score was calculated for each participant based on residential postcode .
+This measure of deprivation encompasses seven domains : income , employment , health and disability , education , skills and training , barriers to housing and services , living environment and crime .
+Adherence is defined as the level of session participation achieved by participants .
+The dose ( in terms of duration , RPE and HR ) of exercise achieved by participants during each session was calculated by abstraction from the weekly physical activity logs maintained by the trial research assistants .
+Analyses .
+Adherence rates were calculated including all women randomised to both interventions , regardless of their compliance .
+The relationships between route of recruitment and participant characteristics and session adherence were examined using independent t-tests , analysis of variance or chi-squared analysis , depending on the type of data .
+Since the interventions involved attending supervised sessions at a dedicated centre , both groups of participants were included in the determinants of session adherence analyses .
+Participants were categorised according to their particular characteristics and these were used as the independent variables in the session adherence analyses ( see Table 1 for descriptions of the categories used ) .
+Table 1. .
+Mean session adherence to the trial interventions according to recruitment route and selected baseline socio-economic , lifestyle and treatment regimen outcomes .
+DemographicsMean ( SE ) a session adherence ( range=1 - 24 ) b Route of recruitment into trialc Oncologist letter ( N=28 ) 19.9 ( 0.50 ) Community advertisements ( N=42 ) 19.0 ( 0.99 )
+Age ( years ) 30 - 49 ( N=32 ) 20.0 ( 0.56 ) 50 - 65 ( N=38 ) 19.2 ( 0.78 )
+BMI Under / normal weight ( N=17 ) 21.1 ( 0.59 ) Overweight / obese ( N=53 ) 19.0 ( 0.61 )
+Smoking status Smoker ( N=5 ) 21.4 ( 0.68 ) Non-smoker ( N=65 ) 19.4 ( 0.52 )
+Stage of change for exercise Precontemplation and contemplation ( N=34 ) 20.4 ( 0.51 ) Preparation ( N=36 ) 18.8 ( 0.81 )
+Frequency of physical activity Never ( N=18 ) 20.2 ( 0.74 ) Three times per month ( N=19 ) 19.8 ( 0.76 ) Once per week ( N=20 ) 17.9 ( 1.27 ) Twice per week ( N=13 ) 19.5 ( 0.87 )
+Index of multiple deprivation Quartile 1 ( N=20 ) ( least deprived ) 20.1 ( 0.70 ) Quartile 2 ( N=19 ) 19.2 ( 0.92 ) Quartile 3 ( N=17 ) 20.2 ( 0.85 ) Quartile 4 ( N=13 ) ( most deprived ) 18.4 ( 1.73 ) Missing ( N=1 )
+Treated with chemotherapy Yes ( N=52 ) 19.7 ( 0.87 ) No ( N=18 ) 19.5 ( 0.60 )
+Treated with surgery Mastectomy ( N=36 ) 19.1 ( 0.79 ) Lumpectomy ( N=34 ) 20.1 ( 0.57 )
+Treated with radiotherapy Yes ( N=55 ) 20.2 ( 0.70 ) No ( N=15 ) 19.4 ( 0.60 )
+Lymphoedema Yes ( N=27 ) 19.7 ( 0.71 ) No ( N=43 ) 19.5 ( 0.70 )
+Full-size table .
+a Refers to standard error .
+b Includes both intervention groups .
+c For analysis purposes , we combined the recruitment routes of cancer care support groups , breast cancer nurses , media advertisements and word of mouth into a single route of recruitment referred to as community advertisements .
+View Within Article .
+Results Participants and demographics .
+From the trial recruitment strategies , 108 eligible patients consented to participate in the trial and were randomised to either aerobic exercise therapy ( N=34 ) , exercise-placebo ( N=36 ) or usual care ( N=38 ) .
+The prevalence characteristics of participants included in this report according to socio-economic , lifestyle and treatment regimen ( s ) outcomes can be found in Table 1. The sample size was sufficient to estimate the prevalence of adherence ( 50% or less ) with 10% precision ( 95% confidence interval ) .
+Session adherence and dose of exercise achieved .
+Descriptive information for HR , RPE and duration of exercise for the aerobic exercise therapy and exercise-placebo groups is provided in Table 2 and Table 3 respectively .
+Additionally , the percentage of women achieving 20 min , 20 - 29 min or 30 min of exercise therapy across the intervention period is detailed in Table 2. Adherence to the interventions was acceptable ; 77% of the exercise therapy and 88.9% of the exercise-placebo groups , respectively , attended 70% ( at least 17 / 24 sessions ) or more of the prescribed sessions .
+The percentage of women achieving 30 min of aerobic exercise per session increased over time ( range : 26.5 - 52.9% ) , although a relatively large percentage were not able to achieve this target ( range : 11.7 - 41.2% ) or did not attend sessions ( range : 20.5 - 50% ) .
+Table 2 describes the amount of exercise , both in terms of intensity ( HR and RPE ) and the duration of exercise achieved by exercise therapy participants .
+Table 2. .
+Adherence to the exercise therapy intervention .
+Exercise therapy ( N=34 ) Sessions 1 - 3 ( week 1 ) 4 - 6 ( week 2 ) 7 - 9 ( week 3 ) 10 - 12 ( week 4 ) 13 - 15 ( week 5 ) 16 - 18 ( week 6 ) 19 - 21 ( week 7 ) 22 - 24 week 8 ) HR ( Mean , SD ) a115.6 ( 12.9 ) 119.2 ( 12.9 ) 118.8 ( 12.8 ) 118.5 ( 12.6 ) 119.7 ( 15.4 ) 123.3 ( 11.3 ) 121.6 ( 12.3 ) 121.2 ( 11.0 ) RPE ( Mean , SD ) 11.1 ( 1.2 ) 11.8 ( 2.2 ) 11.5 ( 1.4 ) 11.1 ( 1.4 ) 11.4 ( 1.2 ) 11.3 ( 1.2 ) 11.4 ( 1.2 ) 11.4 ( 1.0 ) Duration of session time participating in aerobic exercise ( Mean , SD ) lk and lk .
+24.1 ( 6.5 ) 27.2 ( 6.0 ) 27.3 ( 5.9 ) 26.2 ( 6.3 ) 27.4 ( 6.0 ) 27.3 ( 6.3 ) 27.5 ( 6.2 ) 26.9 ( 6.8 ) Session 3Session 6Session 9Session 12Session 15Session 18Session 21Session 24 Percentage achievingc 20 min5.82.90002.900 20 - 29 min35.432.332.338.226.417.511.717.7 30 min26.541.329.429.452.944.147.229.4 Percentage who did not attendc32.323.537.932.320.535.341.450.0 .
+Full-size table .
+a Data is based on aggregated scores from these sessions across each week .
+b All aerobic exercise sessions lasted a total of 50 min .
+Sessions also included a warm-up and cool down , as well as discussions about exercise behaviour change strategies .
+c Percentages are based on the number of women who attended or did not attend the final exercise therapy session each week ( sessions 3 , 6 , 9 , 12 , 15 , 18 , 21 and 24 ) .
+View Within Article .
+Table 3. .
+Adherence to the exercise-placebo intervention .
+Exercise-placebo ( N=36 ) aSessions 1 - 3 ( week 1 ) 4 - 6 ( week 2 ) 7 - 9 ( week 3 ) 10 - 12 ( week 4 ) 13 - 15 ( week 5 ) 16 - 18 ( week 6 ) 19 - 21 ( week 7 ) 22 - 24 week 8 ) HR ( Mean , SD ) a,92.3 ( 10.7 ) 93.8 ( 9.8 ) 95.0 ( 9.8 ) 96.8 ( 9.1 ) 94.1 ( 9.6 ) 94.2 ( 9.2 ) 93.3 ( 12.4 ) 91.7 ( 13.9 ) RPE ( Mean , SD ) b10.7 ( 1.2 ) 10.9 ( 1.1 ) 10.9 ( 1.2 ) 10.9 ( 1.3 ) 10.7 ( 1.4 ) 10.8 ( 1.7 ) )10.5 ( 1.4 ) 10.5 ( 1.6 )
+Session 3Session 6Session 9Session 12Session 15Session 18Session 21Session 24 Percentage who did not attendc002.705.714.244.472.2 .
+Full-size table .
+a All placebo-sessions lasted 50 min .
+b Data is based on aggregated scores from these sessions across each week .
+c Percentages are based on the number of women who did not attend final exercise placebo session each week ( i.e. sessions 3 , 6 , 9 , 12 , 15 , 18 , 21 and 24 ) .
+View Within Article .
+Determinants of session adherence to the trial interventions .
+No significant differences ( P0.01 ) at between route of recruitment , socio-economic characteristics , health behaviours , type of treatment regimen or treatment side effects categories and session adherence to the interventions were recorded .
+Refer to Table 1. .
+Discussion Intervention adherence .
+It is clear that to complete a trial of this type the intervention ( s ) need to be acceptable to patients and attendance at intervention sessions is crucial for patients to acquire knowledge and skills regarding the core elements of the intervention .
+As is the case for all types of behavioural interventions , the benefits of exercise can only be experienced by cancer patients through regular participation .
+In this study , women treated for breast cancer achieved an acceptable level of overall aerobic exercise adherence and the percentage session adherence rates are comparable with other trials involving breast cancer and patients with other types of cancers ( [ Courneya et al. , 2003a ] and [ Courneya et al. , 2003b ] ; Mock et al. , 2001 ; Segal et al. , 2001 ) .
+Of those who attended the exercise therapy intervention , between 26.5% and 52.9% were able to achieve the public health recommended 30 min of moderate intensity for any given week / session ( see Table 2 ) .
+As highlighted earlier , however , many previous trials ( e.g. [ Mock et al. , 2001 ] and [ Mock et al. , 2005 ] ; [ Segal et al. , 2001 ] and [ Segal et al. , 2003 ] ) involving cancer patients have typically only reported overall adherence rates to exercise interventions , rather than the number of participants who adhered to the behavioural goal of the intervention and / or the dose of exercise achieved by participants within sessions and across weeks ; this is problematic since it can mask important information and lead to inappropriate conclusions .
+Using our data as an example of this , the number of sessions completed by the aerobic exercise therapy group was high at over 70% , the amount of aerobic exercise achieved steadily increased implying the intervention was tolerated by , and acceptable to , participants .
+However , on further inspection of the adherence data , this conclusion may be somewhat premature since the proportion of participants who did not attend sessions also increased over time with only five participants completing all 24 aerobic exercise therapy sessions as prescribed .
+Taken together , these findings indicate that with one-to-one support many women treated for breast cancer are able to adapt relatively quickly to a progressive aerobic exercise intervention , but many others will need even greater amounts of support than offered in this trial , to facilitate exercise behaviour change .
+That said , we are indeed mindful that supervised facility-based exercise programmes may not be entirely appropriate for women since many are likely to have family and employment responsibilities that affect their ability to attend exercise facilities on a regular basis .
+We tried to facilitate participants visits to the centre by offering participants the opportunity to exercise at various times of the day , including evenings and weekends , and by providing dedicated parking .
+Recent research  reported that breast cancer survivors were less confident they would exercise if they experienced family responsibilities .
+Consequently , it may be that more pragmatic , dynamic and flexible approaches ( media , telephone support , mailed physical activity prompts and so on ) may yield even higher exercise adherence rates and exercise doses than recorded in this study .
+In research examining exercise-programming preferences of women treated for breast cancer , the majority preferred to exercise at moderate intensity , unsupervised , at home and alone  .
+With this in mind , the low adherence to the exercise therapy sessions towards the end the intervention might be related to the accumulative effect of having to make multiple visits ( 24 sessions ) to exercise facilities and some participants may have found this difficult to sustain over time .
+The progressive intensity dose of exercise achieved by participants was in line with the trial protocol ( see Fig. 1 ) with participants on average exercising at moderate-hard intensity throughout the intervention .
+However , there also appears to be a small discrepancy between HR and RPE data , in that HR data indicates participants were exercising at moderate-hard intensity ( in accordance with the protocol ) , whereas RPE data suggests participants perceived they were exercising at light-moderate intensity exercise .
+As is usual in exercise studies , HR was used as the primary regulator of exercise intensity but our data does nevertheless highlight an important issue relating to the regulation of exercise intensity in cancer patients and the need to avoid relying solely on a single measure of intensity regulation .
+No previous trial has attempted to randomise breast cancer patients to an exercise based placebo condition .
+Exercise-placebo conditions have additional complications because patients cannot be blinded to group assignment .
+Like any trial that includes a placebo arm , it is possible that participants become aware that they are not receiving an active treatment or they become disillusioned that they did not receive the alternative treatment that may have been on offer .
+We felt it was important to include an exercise-placebo condition to control for the potential attention / social effects that might explain the trial findings .
+Systematic review evidence of exercise interventions  and cancer patients has identified the need for trials to include attention-control arms .
+Our session adherence rates to the exercise-placebo intervention suggest we were able to achieve an authentic alternative to the exercise therapy intervention ; indeed , session adherence was marginally higher for the exercise-placebo than for the exercise therapy intervention group .
+Table 3 confirms that the HR of the exercise-placebo group , on average , remained less than 100 beats per minute as per the intervention protocol .
+Furthermore , typical average RPE scores across the intervention period ranged from 10 to 11 ; this is considered to be within the low-intensity exercise range , further supporting the minimal aerobic content of the exercise-placebo intervention .
+Nevertheless , RPE scores in the exercise-placebo were higher than expected ; particularly given that participants corresponding HR scores were within the low-intensity range .
+Although exercise-placebo participants aerobic output was relatively low , the body conditioning exercises included in this intervention involved anaerobic stimulus ; consequently , RPE scores might reflect this .
+Determinants of exercise session adherence .
+The apparently high overall session adherence rates , coupled with the lack of any significant findings in the determinants of session adherence analyses suggests that women treated for breast cancer are keen to participate in exercise intervention programmes when given opportunities and support to do so .
+Our findings are in contrast to others  who have found that predictors of exercise adherence in colorectal cancer survivors included SOC for exercise , employment status and treatment protocol .
+We cannot rule out the possibility that the lack of significant differences between categories of participants for session adherence is the result of the sample being rather homogeneous .
+We focussed our efforts towards understanding socio-demographic , health behaviour and treatment factors as likely determinants of exercise behaviour in this population and it may be that other psycho-cognitive factors play a more decisive role regarding this issue .
+Following on , studies  have found associations between social cognitive variables ( e.g. attitudes , perceptions of control , intentions ) and health behaviours in breast cancer patients ; it might be that these variables prove to be better indicators of exercise adherence than those used here .
+Future research should endeavour to examine this more precisely .
+Limitations and strengths .
+The sample size is relatively modest and larger studies may be better able to provide more precise estimates regarding the determinant of exercise adherence in this population .
+Participants in SHERBERT were predominately of White ethnic origin and therefore our findings should be generalised to women of other ethnicities treated for breast cancer with some caution .
+The supervised nature of both interventions meant it was possible to systematically record HR and RPE , as well as the duration of exercise ; this provided us with the opportunity to examine in detail the precise intensity and dose of exercise achieved by participants during the interventions and this is an important strength over previous trials .
+Achieving adequate adherence is critical when examining the efficacy of an intervention .
+We obtained good session adherence indicating that in the context of an RCT a supervised aerobic exercise therapy intervention was acceptable to women treated for breast cancer .
+Research is still required to tease out all the potential determinants of exercise in this population .
+Designing interventions to enhance regular exercise remains a challenging proposition .
+We hope these findings can be used in the planning of future exercise intervention trials involving breast cancer patients .
+Acknowledgements .
+We would like to thank the patients who agreed to participate in the trial .
+We would also like to thank Professor Malcolm Reed and Mr. Stan Kohlhardt for assistance with patient recruitment and Sue Green for her assistance with the interventions .
+Sources of funding .
+This study is supported through grant CE8304 from Cancer Research UK .

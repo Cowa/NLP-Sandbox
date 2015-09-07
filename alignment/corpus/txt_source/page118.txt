@@ -1,0 +1,117 @@
+L' évaluation ganglionnaire dans la prise en charge du carcinome mammaire est évolutive .
+Les séquelles liées au curage axillaire  tendent à être diminuées par l' avènement et la diffusion de la technique du ganglion sentinelle  .
+L' étude histologique affinée par des coupes plus nombreuses et l' immunohistochimie , rendue possible par le fait du nombre restreint des ganglions sentinelles , améliore la détection des métastases ganglionnaires axillaires  .
+Parallèlement il est observé une augmentation de la proportion des carcinomes intracanalaires , grâce au dépistage mammographique .
+De 1 à 5 % des diagnostics de cancer du sein , l' incidence du CIC est actuellement passée à 12 % de l' ensemble des nouveaux cas de carcinome mammaire  .
+La conjonction de ces constatations pose à_nouveau le problème de l' évaluation ganglionnaire dans les cas de carcinomes intracanalaires mammaires avec ou sans micro-invasion .
+Cette exploration avait été abandonnée du fait de la faible incidence de la positivité ganglionnaire dans ces cas , inférieure à 2 % pour le CIC et inférieure à 5 % pour le CIC avec micro-invasion  .
+Actuellement des équipes utilisant la recherche des ganglions sentinelles dans ces indications ont accru la découverte de métastases ganglionnaires  .
+Notre étude a pour but d' évaluer l' intérêt de cette recherche en limitant les indications aux cas supposés les plus à risque d' atteinte ganglionnaire .
+2. Matériel et méthodes
+De juin 1999 à décembre 2002 nous avons recensé , de façon rétrospective , 52 patientes traitées chirurgicalement pour un CIC , avec ou sans micro-invasion , ayant bénéficié d' une recherche de GS .
+Le diagnostic préopératoire était obtenu par l' examen clinique , la mammographie , l' échographie et la cytologie ou l' histologie .
+Toutes les patientes sauf une possédaient une histologie préopératoire par biopsie chirurgicale ou percutanée .
+Le prélèvement ganglionnaire était réservé aux patientes possédant un ou plusieurs critères prédéfinis : un grade histologique égal à 3 , une taille lésionnelle supérieure ou égale à 2 cm , une opacité mammographique , une tumeur palpable ou une suspicion de micro-invasion .
+Le repérage des ganglions sentinelles était réalisé par méthode combinée isotopique et colorimétrique .
+La lymphoscintigraphie ganglionnaire était réalisée la veille de l' intervention .
+Les patients recevaient une injection intradermique , sus-jacente à la lésion , et péritumorale de colloïde marqué au technétium 99 m ( nanoCis Bio Schering ) dilués dans 0,4 ml de sérum physiologique .
+Il a été utilisé des seringues préremplis de nanocolloïdes marquées au technétium 99 m ayant une radioactivité comprise entre 15 et 20 MBq ou 0,5 mCi .
+La pureté du traceur était contrôlée par chromatographie pour chaque patiente .
+Après l' injection le sein était massé délicatement pour favoriser la diffusion du traceur pendant cinq minutes approximativement .
+Des premiers clichés étaient pris après dix minutes pour identifier le drainage dominant puis des clichés plus tardifs étaient obtenus entre deux et quatre heures après l' injection de l' isotope radioactif .
+Les clichés de face incluaient le sein malade et les aires ganglionnaires axillaires , claviculaires et mammaires internes de façon bilatérale .
+Les clichés latéraux étaient obtenus après élévation du bras homolatéral à la lésion .
+Une seconde injection de radiocolloïde était pratiquée si aucun ganglion n' était visualisé deux heures après l' injection initiale .
+Le ou les ganglions sentinelles étaient repérés par un marquage cutané au feutre et par un schéma où étaient précisés le nombre et la position approximative de ceux-ci  .
+En peropératoire étaient injectés 2 ml de bleu patenté ( Bleu patenté laboratoire Guerbet , Aulnay-sous-Bois , France ) en péri aréolaire dans le quadrant correspondant à la lésion mammaire .
+La recherche du ou des ganglions sentinelles se faisait en utilisant de façon combinée la méthode isotopique , avec l' aide de la sonde de détection isotopique ( Néoprobe 2000 ) , et colorimétrique par visualisation des canaux lymphatiques et les ganglions colorés en bleu .
+Une palpation était également pratiquée et était prélevé tout ganglion suspect même s' il n' était ni radioactif ni coloré en bleu .
+Les GS étaient analysés en extemporané par empreintes cytologiques après section ganglionnaire si leur taille était supérieure à 5 mm , dans le cas contraire l' histologie était pratiquée ultérieurement .
+L' étude histologique définitive se faisait après fixation du ganglion dans du formol et inclusion en paraffine .
+Des coupes sériées , tous les 150 m , étaient effectuées sur tout le ganglion .
+Les coupes étaient colorées , de façon alternée , par l' hématoxyline - éosine et par les anticorps anticytokératine ( KL1 , Immunotech France ) .
+L' immunomarquage par anticorps servait à la recherche des micrométastases dont la taille était comprise entre 0,1 et 2 mm .
+Les ganglions prélevés non-sentinelles n' avaient pas de marquage par les anticorps anticytokératine .
+Les patientes avec un GS envahi ont toutes eu un curage axillaire par dissection des étages 1 et 2 de Berg .
+L' obtention de marges saines au niveau de la chirurgie mammaire avait pu être réalisée dans tous les cas .
+Les chirurgies conservatrices ont eu un complément radiothérapique sur le sein de 50 Gray , avec surimpression de 10 Gray sur le lit d' exérèse .
+3. Résultats
+La répartition des grades histologiques était de 5 grades 1 , dont 1 avec micro-invasion , 13 grades 2 , dont trois avec micro-invasion , et 34 grades 3 , dont sept avec micro-invasion , soit 11 cas avec micro-invasion tous grades confondus .
+La chirurgie mammaire a consisté en une mastectomie pour 30 patientes ( 58 % ) et en une tumorectomie pour 22 patientes ( 42 % ) .
+Au niveau mammaire , il s' agissait de lésions de grande taille , moyenne = 56,54 mm ( extrêmes 3 - 165 mm ) pour les patientes sans atteinte ganglionnaire , et moyenne = 94,75 mm ( extrêmes 34 - 180 mm ) pour les cas N+ .
+Du fait du trop faible effectif cette différence n' est pas significative , on retrouve un p = 0,31 ( 0,05 ) , donc non significatif .
+Toutes les procédures de détection du GS ont abouti , taux de détection = 100 % .
+Il a été prélevé une moyenne de trois GS par patiente ( extrêmes 1 à 6 ) .
+Sur la population étudiée , quatre patientes présentaient un envahissement ganglionnaire ( 7,7 % ) , deux cas de grade 3 sans micro-invasion ( 2 / 27 : 7 % ) , un cas ( grade 3 ) avec micro-invasion ( 1 / 11 : 9,1 % ) , et un cas de grade 2 sans micro-invasion ( 1 / 10 : 10 % ) .
+Les empreintes cytologiques réalisées en peropératoire n' ont permis le diagnostic d' atteinte ganglionnaire que dans un cas sur quatre .
+Le cas positif , lors_de l' analyse extemporanée réalisée sur les ganglions , correspondait à la macrométastase ganglionnaire .
+Les micrométastases ganglionnaires n' ont été retrouvées qu' à l' analyse histologique définitive .
+Les curages complémentaires n' ont pas retrouvé d' autre atteinte ganglionnaire .
+Parmi les quatre patientes ayant une positivité du ganglion sentinelle , la positivité était observée en histologie standard et en immunohistochimie .
+Il a été retrouvé trois cas de micrométastases ganglionnaires ( 3 / 52 : 5,8 % ) et un cas de métastase ( 1 / 52 : 1,9 % ) .
+Le grade tumoral a été modifié pour 14 patientes sur 52 entre le résultat de la biopsie pré opératoire et l' histologie définitive ( 27 % des cas ) .
+Pour six patientes , on est passé d' un grade 2 à 3 , pour trois était associée au grade 3 une micro-invasion , pour trois on est passé du grade 3 à 2 , pour un cas on est passé du grade 1 à 2 et pour un autre du grade 2 à 1. L' histologie préopératoire a sous-estimé le grade pour dix patientes ( 19 % ) , et l' a surestimé pour quatre patientes ( 8 % ) .
+Tableau 1.
+Histologie de la population étudiée
+Full-size table
+View Within Article
+Tableau 2.
+Détails des cas N+
+IHCColorationNombre GS +Taille métastase ganglionnaire ( mm ) Cas GS + ( 4 ) 1++19 2++10,8 3++10,6 4++20,2 0,12
+Full-size table
+View Within Article
+Tableau 3.
+Modification des grades histologiques après chirurgie
+Grade Initial GradeGradeGrade IIIIII Grade I1 GradeGrade II13 définitif Grade III6 Grade III + Micro invasion3
+Full-size table
+View Within Article
+4. Discussion
+Le problème de l' évaluation ganglionnaire dans les CIC et les CICM se pose à_nouveau depuis l' avènement de la technique du GS .
+Plusieurs raisons peuvent expliquer cette évolution dans la prise en charge de ces pathologies .
+La première est la moindre morbidité procurée par la recherche du GS par rapport au curage axillaire  .
+Ensuite , dans le cas du cancer mammaire invasif , la recherche du ganglion sentinelle a permis une augmentation notable de la détection des métastases ganglionnaires  , il paraît donc logique de s' attendre à une augmentation similaire dans le cas du CIC et du CICM  .
+Enfin la diffusion du dépistage des pathologies mammaires par mammographie accroît la part des lésions de type CIC et CICM  .
+Seulement 2 % des sujets présentant cette pathologie sont susceptibles de décéder de leur affection  .
+Du fait de l' accroissement du nombre de cas traités de CIC et CICM , il est intéressant de savoir si l' on peut diminuer le taux ( 2 % ) de décès liés à ce type de cancer mammaire .
+En affinant les critères pronostiques par la recherche du GS , il est licite d' espérer améliorer la prise en charge thérapeutique de ces affections et donc , à terme , d' en diminuer le taux de récidive et de mortalité .
+C' est dans cet esprit que cette étude a été réalisée .
+Nous retrouvons une positivité ganglionnaire dans notre étude de 7,7 % sur une population présélectionnée présentant un risque supposé majoré d' atteinte ganglionnaire par la taille ( 2 cm ) , le grade élevé ( grade = 3 ) , la micro-invasion , une opacité mammographique ou une tumeur palpable .
+Ce taux de positivité ganglionnaire non négligeable confirme l' intérêt de cette recherche .
+La positivité ganglionnaire , en histologie standard et en immunohistochimie , nous a conduits à proposer une chimiothérapie adjuvante et une radiothérapie des aires ganglionnaires qui ont été suivies par l' ensemble des quatre patientes ayant une atteinte ganglionnaire .
+Le recul , ni le nombre de cas ne sont suffisants pour apprécier l' intérêt de ce traitement adjuvant sur le devenir de ces patientes .
+Toutefois , ce taux est à relativiser puisque seul un cas présente une métastase ganglionnaire macroscopique , les trois autres cas de positivité ganglionnaire ne retrouvant que des micrométastases .
+Si l' on ne considère que les macrométastases , notre série retrouve une positivité ganglionnaire de 1,9 % , ce qui rejoint le taux de 2 % des séries historiques de curage ganglionnaire dans les cas de CIC  .
+Il semble donc que l' augmentation de la positivité ganglionnaire soit le fait d' une meilleure détection des micrométastases ganglionnaires par l' étude histologique plus poussée amenée par la technique du GS et non pas d' une meilleure sensibilité du GS par rapport au curage axillaire .
+À l' inverse de l' étude de Cox  , mais comme l' étude de M.Intra  nous n' observons pas plus de macrométastases qu' avec la technique standard du curage axillaire. .
+Nous n' avons pas eu affaire à des cas de positivité ganglionnaire uniquement par étude immunohistochimique .
+La présence de métastases ganglionnaires seulement mise en évidence par l' immunohistochimie ne semble pas avoir d' influence sur le devenir des patientes  .
+Il a également été montré que des cellules épithéliales peuvent être retrouvées par IHC dans les ganglions prélevés pour CIC , liées à la biopsie préopératoire , et sans impact sur la survie des patientes  .
+Les critères des CIC pour indiquer la recherche du GS ne sont pas_non_plus posés avec certitude .
+Certains auteurs limitent la recherche sur des critères de mauvais pronostics  , d' autres ne parviennent pas à discerner dans leurs études des facteurs pronostiques de l' invasion ganglionnaire  .
+Notre étude , corrélée par d' autres analyses  , semble montrer un impact de la taille tumorale , plus elle est élevée , plus le risque d' atteinte ganglionnaire est important .
+Il n' a pas été possible , du fait de l' effectif restreint , de retrouver une significativité statistique à cette différence .
+Cette relation entre taille tumorale élevée du CIC et risque d' atteinte ganglionnaire a déjà été constatée  , mais pour l' instant l' impact de la taille lésionnelle sur le risque d' atteinte ganglionnaire pour les CIC n' est pas démontré de façon formelle .
+Cette constatation empirique amène certains auteurs à proposer systématiquement une recherche de ganglions sentinelles dans les mastectomies  , y_compris dans le cas de mastectomie prophylactique  , ce d' autant_que la mastectomie empêchera toute tentative ultérieure de localisation du premier relais ganglionnaire .
+Nous retrouvons également un taux d' atteinte ganglionnaire corrélé avec les grades tumoraux élevés ou avec micro-invasion .
+Notre série montre une atteinte ganglionnaire dans 10 % des grades 2 , 7 % des grades 3 et 9,1 % des tumeurs avec micro-invasion .
+Cela semble confirmer le choix initial de sélection des grades élevés .
+Là aussi , l' effectif n' est pas suffisant pour réaliser des corrélations statistiquement significatives .
+Même les plus grosses séries actuellement publiées  ne permettent pas de retrouver le grade tumoral comme facteur prédictif d' atteinte métastatique ganglionnaire .
+Ces mêmes études ne retrouvent aucun facteur prédictif permettant la sélection de patients qui pourraient bénéficier de la recherche des ganglions sentinelles .
+Actuellement l' histologie préopératoire est de_plus_en_plus pratiquée , le problème en est sa fiabilité .
+Dans notre série il y a 27 % des patientes qui ont vu leur grade être modifié après les résultats de la chirurgie d' exérèse , essentiellement les grades 2 et 3. Cela incite à proposer facilement la recherche ganglionnaire sentinelle dès les grades 2 préopératoires .
+De plus dans notre étude ont été retirés tous les cas où l' analyse histologique définitive retrouvait un carcinome infiltrant et dont l' histologie préopératoire ne retrouvait que des lésions in_situ .
+L' intérêt du prélèvement ganglionnaire sentinelle dans ces cas est d' éviter une seconde intervention et éventuellement un curage .
+Dans l' étude de Cox  10 % des CIC sont en réalité des carcinomes invasifs lors_de l' analyse de la pièce opératoire définitive et cela représente 44 % des cas pour les CICM .
+Mais dans ces cas également il n' y a pas de facteurs prédictifs , hormis la micro-invasion , pour estimer le risque de retrouver un contingent invasif dans l' analyse d' une pièce opératoire définitive d' une lésion dont la biopsie initiale ne comporte que du CIC .
+Cette constatation appuie l' idée selon laquelle un prélèvement ganglionnaire sentinelle est souhaitable dans ces situations , surtout lorsqu' une mastectomie est envisagée , ce qui annule la possibilité de recourir ultérieurement à la technique du ganglion sentinelle .
+Tableau 4.
+Notre série comparée à d' autres études
+AuteursPopulation nombreHistologie% GS positifsmicrométastasesMétastases Cox  210CIC26 / 195 = 13 %13 = 6,7 %13 = 6,7 % CICM3 / 15 = 20 %1 = 6,7 %2 = 13,3 % CIC+CICM29 / 210=13,8 %14 = 6,7 %15 = 7,1 % Intra  223CIC7 / 223 = 3,1 %5 = 2,2 %2 = 0,9 % Klauber-DeMore  107CIC9 / 76 = 12 %7 = 9 %2 = 3 % CICM3 / 31 = 10 %2 = 6 %1 = 3 % CIC + CICM12 / 107 = 11 %9 = 8 %3 = 3 % Notre série52CIC3 / 41 = 7,3 %2 = 4,9 %1 = 2,4 % CICM1 / 11 = 9,1 %1 = 9,1 %0 CIC+CICM4 / 52 = 7,7 %3 = 5,8 %1 = 1,9 %
+Full-size table
+View Within Article
+5. Conclusion
+L' expertise ganglionnaire a été réactualisée , pour les carcinomes intracanalaires , par la diminution des séquelles engendrées par la technique du ganglion sentinelle et l' augmentation régulière du pourcentage du CIC dans les diagnostics de cancer mammaire .
+L' intérêt serait d' affiner les critères pronostiques pour en améliorer la prise en charge thérapeutique .
+Le recul et le nombre de patients de notre étude sont bien entendu insuffisants pour savoir si l' information ganglionnaire dans les CIC permettra d' améliorer un pronostic déjà favorable .
+Les raisons actuellement qui incitent à la recherche du ou des GS dans les cas de biopsie mammaire positive pour le CIC sont la possibilité de sous-estimer initialement l' histologie , la mastectomie qui coupe tout recours à cette technique si l' expertise ganglionnaire est requise par l' histologie définitive , et l' évaluation prospective de l' indication d' analyse du statut ganglionnaire pour les CIC et les CICM

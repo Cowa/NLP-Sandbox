@@ -1,0 +1,179 @@
+Monoclonal chimeric , humanised and human IgG1 antibody therapies are becoming increasingly available to treat various forms of human malignancies .
+In a variety of disease entities , such as breast , colon and haematological cancers , antibody therapies have been shown to improve overall survival as well as time to disease progression , particularly when combined with chemotherapy ( reviewed in  ) .
+The mechanism behind anti-tumour activity mediated by monoclonal antibodies depends on their target .
+Some induce internalisation of growth receptors interfering with signal transduction , such as antibodies directed against Her2 / neu and the epidermal growth-factor receptor , but may also induce antibody-dependent cellular cytotoxicity ( ADCC ) 1  .
+Others , such as antibodies directed against CD20 or the epithelial cellular adhesion molecule , primarily act through ADCC  .
+MUC1 , also known in the clinic as CA15-3 antigen , is a high-molecular-weight transmembrane glycoprotein that is expressed on the ductal cell surface of normal glandular epithelia and is over-expressed in a variety of epithelial cancers  .
+In cancer cells MUC1 is not only over-expressed but also deficiently glycosylated , exposing a variable number of immuno-dominant domains on the MUC1 peptide core , which makes it a good target for immunotherapy  .
+We and others have demonstrated antibody responses to MUC1 in breast , ovarian , colon , lung and pancreatic cancer patients and in healthy women  .
+This natural humoral immune response is a favourable prognostic factor  .
+Naturally occurring anti-MUC1 antibodies could lead to a capping or clustering of MUC1 on the cell surface , unmasking cell surface molecules involved in cell adhesion and limiting tumour invasion .
+A redistribution of MUC1 could also be instrumental in exposing cell surface receptors involved in immune recognition processes .
+This would enable recognition and destruction of the tumour cell by antigen specific T-cells and / or NK-cells .
+The humanised MUC1 specific monoclonal antibody huHMFG-1 ( AS1402 )  can mediate in vitro tumour cell killing and is currently evaluated in clinical trials as a potential immunotherapy for breast cancer  .
+MUC1 serum levels correlate with tumour load and progression  and could affect huHMFG-1 mediated tumour cell killing .
+Here we have analysed the effect of MUC1 present in sera of cancer patients , as well as PBMC characteristics , on in vitro huHMFG-1- mediated ADCC .
+Approaches to increase the efficacy of huHMFG-1 treatment , such as addition of cytokines and effect of antibody concentration , are investigated and discussed .
+2. Materials and methods2.1 .
+Patients serum samples and MUC1 serum levels .
+Forty-six serial serum samples obtained from 28 ovarian and breast cancer patients were collected , aliquoted and stored at 80 C until analysed for MUC-1 levels and capacity to inhibit huHMFG-1-mediated ADCC .
+Cancer antigen CA 15-3 ( MUC1 ) serum levels were determined using the ADVIA Centaur CA 15-3 assay ( Bayer Corporation , Tarrytown , NY , USA ) performed on the fully automated ADVIA Centaur System .
+The assay is based on the anti-MUC1 mAb DF3  , which is directed to the dominant repeat sequence DTRPAP , to capture antigen and anti-MUC1 mAb 115D8  , which is directed to a carbohydrate epitope , as tracer .
+The cut-off level recommended by the manufacturer ( excluding 95% of a normal population ) is 30 U / ml  .
+2.2. Isolation of peripheral blood mononuclear cells ( PBMCs ) and natural killer ( NK ) cell purification .
+Peripheral blood mononuclear cells ( PBMCs ) from 13 different healthy donors were isolated from buffycoats obtained from Sanquin Blood Bank ( Amsterdam , The Netherlands ) by density gradient centrifugation using Lymphoprep ( Nycomed , Oslo , Norway ) .
+The number of cells was determined and PBMCs were cryopreserved in separate batches until use .
+NK cell enrichment was performed by negative depletion using the NK cell Isolation Kit II ( Miltenyi Biotec , Bergisch Gladbach , Germany ) according to manufacture 's recommendations .
+2.3. ADCC assay .
+HuHMFG-1 , a humanised IgG1-type MUC1 mAb , was provided by Antisoma plc , London , UK .
+Highly purified human IgG ( Pelicluster-Sanquin , Amsterdam , The Netherlands ) was used as control antibody .
+The breast tumour cell line ZR-75-1  that over-expresses MUC1 was cultured in IMDM plus 10% FCS and was used as target cell line .
+Donor PBMCs were thawed and cultured overnight in Iscove 's modified Dulbecco 's medium ( IMDM ) ( Gibco , Paisley , Scotland ) supplemented with 10% foetal calf serum ( FCS ) ( Gibco , Paisley , Scotland ) .
+In some experiments , IL-2 ( 100 IU / ml ) , IL-21 ( 25 ng / ml ) , IL-15 ( 10 ng / ml ) or IFN- ( 400 IU / ml ) were added to the cultures .
+PBMCs were re-suspended in medium at a concentration of 107 cells / ml .
+Target cells ( 1106 ZR-75-1 ) , were labelled with 100 Ci ( 3.7 MBq ) 51Cr ( Amersham , Buckinghamshire , UK ) for 2 h at 37 C. Cells were washed twice with 10 ml medium and re-suspended in medium at a concentration of 105 cells / ml .
+Fifty microlitres of the target cells was seeded in U-bottom 96 well culture plates ( Costar , Cambridge , MA , USA ) .
+Cells were then incubated with MUC1 mAb or control antibody at a final concentration of 5 g / ml ( unless otherwise specified ) .
+Alternatively , serum samples were added .
+After 30 min incubation at 37 C , 50 l of the PBMC were seeded into the culture plates at effector:target cell ( E:T ) ratios 25:1 , 50:1 and 100:1 , and the plates were incubated for another 18 h at 37 C. The release of 51Cr in the supernatant was determined in an automatic gamma counter .
+Each measurement was carried out in triplicate .
+Spontaneous and maximal 51Cr release was determined in sixfold .
+The percentage of 51-Cr release and specific release is defined as :
+%51Cr specific release=%51Cr release with Ab-%51Cr release without Ab .
+2.4. Flow cytometry .
+FITC- or PE- labelled mouse anti-human CD3 , CD4 , CD8 , CD14 , CD16 ( clone CLB-Fc-gran / 1 ) , CD19 , CD56 and the corresponding murine IgG control antibodies ( Pelicluster-Sanquin , Amsterdam , The Netherlands ) as well as mouse anti-human CD16 ( clone 3G8 , Pharmingen , Becton - Dickinson , San Jose , CA , USA ) were used for the determination of PBMC surface marker expression by flow cytometry .
+Expression of NKG2D was analysed on NK cells from healthy donors cultured for 18 h in complete medium with or without 30% patients sera with purified anti-NKG2D MAB139 ( RD Systems , Minneapolis , MN , USA ) , followed by FITC-labelled rabbit anti-mouse immunoglobulins F ( ab ) 2 ( Dako , Glostrup , Denmark ) .
+MICA expression on ZR-75-1 was analysed with anti-human MICA ( clone AMO1 ; RD Systems , Minneapolis , MN , USA ) , followed by PE-labelled polyclonal goat anti-mouse immunoglobulins F ( ab ) 2 ( Dako , Glostrup , Denmark ) .
+Cells were incubated with the antibodies for 30 min at 4 C and analysed using a FACScan ; data analysis was performed using CELLQuest software ( BD Bioscience , San Jose , CA , USA ) .
+2.5. Fc receptor ( FcR ) and NKG2D blocking .
+Effector cells were pre-treated overnight with monoclonal antibodies against CD16 ( clone CLB-Fc-gran / 1 and 3G8 ) , CD32 ( clone FLI8.26 ) , CD64 ( clone 10.1 ) or control mouse IgG ( all from Pharmingen , Becton - Dickinson , San Jose , CA , USA ) .
+For NKG2D blocking PBMCs were incubated overnight with the antibody ( MAB139 , 10 g / ml ) and the ADCC was performed in the presence of the antibody .
+2.6. Statistics .
+Normality of distribution of the data was confirmed with the Kolmogorov - Smirnov test and Q - Q plots .
+Pearson correlation and 2 test were performed to analyse the relation between cell numbers and tumour cell killing and to analyse the influence of MUC1 serum levels on ADCC .
+A signed-rank test was used to investigate the influence of different cytokines on ability to mediate ADCC .
+A value of p 0.05 was considered significant .
+All data were analysed using the SPSS 9.0 software .
+3. Results3.1 .
+NK cell numbers and CD16 polymorphism determine the level of ADCC .
+Based on the developed in vitro assay to study whether MUC1 antibodies can mediate ADCC  , huHMFG-1-mediated ADCC was performed using the human breast cancer cell line ZR-75-1 as target cells and human peripheral blood mononuclear cells as effector cells .
+Humanised HMFG-1 showed a dose-dependent killing of ZR-75-1 cells , with maximal killing at concentrations ranging between 2.5 and 25 g / ml ( not shown ) .
+In the presence of 5 g / ml of huHMFG-1 , tumour cell killing varied widely , from 43% to 1% , between the 13 healthy donors tested .
+Tumour cell killing by low responder donor PBMCs was not improved by increasing the concentration of huHMFG-1 ( up to 500 g / ml , data not shown ) .
+The percentage of CD56+ NK cells within PBMC correlated with the ability to mediate huHMFG-1-mediated ADCC ( p = 0.023 , Table 1 ) .
+There was also a positive correlation with FcRIII ( CD16 ) positive cells ( p = 0.049 , Table 1 ) .
+No correlation was found between tumour cell killing and the percentage of CD4+ T helper cells , CD8+ cytotoxic T lymphocytes , CD19+ B cells or CD14+ monocytes ( not shown ) .
+Full-size image ( 24K )
+Fig. 1. Differential huHMFG-1-dependent ADCC mediated by PBMC from 13 healthy donors using 5 g / ml of huHMFG-1 .
+View Within Article .
+Table 1. .
+huHMFG-1-mediated ADCC correlation with PBMC characteristics .
+% Specific killing ( E:T = 100:1 ) % CD56+ cells% CD16+ cells CLB-Fc-gran / 1MFI 3G8MFI CLB-Fc-gran / 1 PBMC 142.316.021.91317270 PBMC 240.713.828.61823102 PBMC 332.87.823.81717194 PBMC 416.910.223.51233158 PBMC 512.511.121.9811200 PBMC 611.96.322.2961213 PBMC 711.27.620.380294 PBMC 810.515.221.1952231 PBMC 99.010.118.3823160 PBMC 104.18.625.6766194 PBMC 112.44.13.2445126 PBMC 121.26.44.5295nd PBMC 130.48.019.2690140 .
+N13131312 p-value0.0230.0490.0010.473 .
+Full-size table .
+View Within Article .
+ADCC is mediated primarily through FcRIII ( CD16 )  .
+Snijdewint_et_al.  have shown that FcRRIII is involved in huHMFG-1 ADCC .
+Blocking assays were carried out to confirm this mechanism in our model .
+Indeed ADCC was blocked after pre-treatment of effector cells with two different monoclonal antibodies against CD16 but not with antibodies against CD32 ( FcRII ) or CD64 ( FcRI ) .
+Full-size image ( 15K )
+Fig. 2. HuHMFG-1-mediated ADCC depends on the FcRIII .
+Antibodies against different FcRs : FcRIII ( CD16 , clone 3G8 and clone CLB-Fc-gran / 1 ) , FcRII ( CD32 ) and FcRI ( CD64 ) were used to block huHMFG-1 mediated ADCC .
+Effector cells were incubated overnight with 0.5 g / ml of the mAbs against the Fc receptors , and ADCC was performed using 5 g / ml of huHMFG-1 .
+View Within Article .
+The proportion of NK cells is not the only component contributing to the observed difference in tumour cell killing by PBMC from different donors .
+PBMC from high and low responders were enriched to equal numbers of NK cells and analysed in an ADCC assay .
+Enriched NK cells from a high responder induced 60% specific killing , while enriched NK cells from a low responder induced 25% specific killing .
+These results suggest that the observed difference between high and low responders may also be due to intrinsic characteristics of the NK cells rather than just the number of NK cells .
+To elucidate this , expression levels of the FcRIII ( CD16 ) were investigated .
+Two different antibodies were used , one of which ( clone 3G8 ) binds with a higher affinity to cells from individuals who are homozygous for the FcRIIIa 158-Val polymorphism  .
+While there was no difference in CD16 expression found with clone CLB-Fc-gran / 1 ( p = 0.473 , Table 1 ) , expression levels determined with clone 3G8 correlated with the capacity to mediate ADCC ( p 0.01 , Table 1 ) , suggesting a role for the FcRIIIa 158-Val polymorphism in huHMFG-1-mediated ADCC .
+Full-size image ( 35K )
+Fig. 3. The level of ADCC depends partly on the proportion of NK cells in PBMC and CD16 expression .
+ADCC was performed using 5 g / ml of huHMFG-1 with donor PBMC from a high ( a , PBMC 3 ) and a low ( b , PBMC 5 ) responder and the corresponding enriched NK cells obtained by negative selection .
+One representative experiment of four performed is shown .
+CD16 expression on PBMC 3 ( c ) and PBMC 5 ( d ) was analysed by flow cytometry with two mAbs , clone 3G8 and cloneCLB-Fc-gran / 1 .
+View Within Article .
+Next it was investigated whether the addition of the NK cell activating cytokines could enhance huHMFG-1 ADCC mediated by low , and also by high , responders .
+Previously we demonstrate an increase in ADCC by the addition of IL-2 and IFN-  .
+To confirm and extend on these findings , we studied the effect of these cytokines as well as IL-15 and IL-21 on huHMFG-1-mediated ADCC .
+A 2- to 5 fold enhancement of tumour cell killing was observed when PBMC were pre-treated with IL-2 , IL-21 and IL-15 , while IFN- had differential effects .
+Full-size image ( 10K )
+Fig. 4. IL-2 , IL-21 and IL-15 but not IFN- can enhance huHMFG-1-mediated ADCC .
+PBMC from four different donors ( 2 low responders and 2 high responses were cultured for 5 days in the presence of IFN- , IL-2 , IL-21 or IL-15 prior to performing ADCC .
+The increase in cytotoxicity due to cytokine treatment [ cytotoxicity ratio ( cytokine treated / untreated ) ] was calculated as follows : % tumour cell lysis by cytokine treated PBMCs ( at E:T = 25:1 ) / % tumour cell lysis by un-treated PBMCs ( at E:T = 25:1 ) .
+A ratio 1 indicates that tumour cell killing is higher in cytokine-treated PBMCs than in untreated PBMCs .
+View Within Article .
+3.2. High MUC1 antigen serum levels inhibit huHMFG-1-ADCC .
+MUC1 purified from tumour cells can inhibit huHMFG-1-mediated ADCC  .
+MUC1 is frequently elevated in serum of patients with breast and ovarian cancer .
+As huHMFG-1 is being tested as a tumour immunotherapeutic agent , we analysed the effect of serum MUC1 antigen levels on huHMFG-1-dependent ADCC using high responder PBMC 1 ( see Fig. 1 ) .
+Killing of the ZR-75-1 cell line without antibody was always low ( 5% ) and was not affected by addition of MUC1 containing patient sera , indicating that natural anti-MUC1 antibodies that may be present in serum were not sufficient to mediate in vitro ADCC .
+HuHMFG-1 mediated ADDC was however strongly inhibited in the presence of serum containing 1949 U / ml MUC1 ( from 40.3% to 8.0% specific lysis ) .
+However , addition of serum containing low levels of MUC1 ( 9 U / ml ) had no effect on tumour cell killing ( 40.3% versus 39.2% specific lysis , Fig. 5a ) .
+In 15 out of 20 ( 75% ) serum samples with MUC1 levels below the upper limit of normal ( 30 U / ml ) huHMFG-1-dependent ADCC inhibition was less than 20% .
+Inhibition of cytotoxicity was higher than 20% in 22 out of 26 ( 85% ) serum samples with MUC1 levels above 30 U / ml ( 2 two-tailed p 0.001 , Fig. 5b ) .
+Inhibition of tumour cell killing by high levels of serum MUC1 could be overcome with increasing serum dilutions and , thus , decreasing MUC1 concentrations .
+However , other possible inhibiting factors would also be diluted .
+Therefore , it was investigated whether the inhibiting effect of serum containing high levels of MUC1 could also be resolved by adding increasing levels of huHMFG-1 .
+MUC1 antigen completely blocked tumour cell killing mediated by low concentrations of huHMFG-1 ( 1 and 10 g / ml ; 23% killing vs 3% killing in the presence of MUC1 ) .
+However , in the presence of increasing huHMFG-1 concentrations , inhibition of target cell killing by MUC1 antigen decreased ( 25 g / ml ) or was completely abrogated ( 100 g / ml ) .
+Full-size image ( 53K )
+Fig. 5. High MUC1 serum levels inhibit huHMFG-1-mediated ADCC , which can be overcome by adding increasing concentrations of the antibody. ( a ) Example of ADCC of ZR-75-1 by PBMC 1 in the presence of serum with low ( 9 U / ml ) or high ( 1949 U / ml ) levels of MUC1. ( b ) Correlation between MUC1 levels and percentage of inhibition of huHMFG-1 mediated tumour cell killing ( p = 0.028 ) .
+The graph is divided in four quadrants : lower left , normal MUC1 levels ( 30 U / ml ) and less than 20% inhibition ( N = 15 ) ; upper left : normal MUC1 levels and more than 20% inhibition ( N = 5 ) ; lower right : MUC1 above normal levels ( 30 U / ml ) and less than 20% inhibition ( N = 4 ) ; upper right : MUC1 above normal levels and more than 20% inhibition ( N = 22 ) .
+Closed symbols correspond to serum samples with various MUC1 levels taken at different time points from four patients with breast cancer ( , - ,, ) , and one patient with ovarian cancer ( ) .
+Open circles correspond to single samples from individual patients with breast or ovarian cancer .
+All ADCC assays were performed using 5 g / ml of huHMFG-1 and high responder PBMC 1 as effector cells. ( c ) A high MUC1 serum sample ( 6054 U / ml ) obtained from a patient with breast cancer was serially diluted to a MUC1 level of 1 U / ml .
+Each dilution was tested in an ADCC assay performed using 5 g / ml of huHMFG-1 .
+One representative experiment of three performed is shown. ( d ) MUC1 ADCC inhibition can be overcome with increasing concentrations of huHMFG-1 .
+White bars depict huHMFG-1 mediated tumour cell killing in the absence of serum .
+HuHMFG-1-mediated killing is optimal with mAb concentrations of 1 or 25 g / ml .
+Black bars depict tumour cell killing in the presence of a serum sample with high MUC1 levels ( 6054 U / ml ) obtained from a patient with breast cancer .
+One representative experiment of three performed is shown .
+View Within Article .
+4. Discussion .
+Clinical successes of monoclonal antibodies specifically targeting tumour cells have created great interest in antibody-based immunotherapy .
+Trastuzumab is a monoclonal antibody targeting the extracellular domain of the HER2 / neu protein .
+Results of trials that compared adjuvant chemotherapy alone or in combination with trastuzumab in women with surgically removed HER2-positive breast cancer showed a benefit in disease free survival and overall survival in trastuzumab treated patients  .
+Contrary to HER2 / neu , which is expressed only in 30% of breast cancers , MUC1 is over-expressed in virtually all breast adenocarcinomas .
+Due to its tandemly repeated extracellular sequence , MUC1 presents multiple antigenic regions per molecule , ensuring antibody binding even in low expressing tumours .
+The MUC1 specific antibody huHMFG-1 could therefore be a more widely applicable therapeutic agent  .
+HuHMFG-1 leads to a capping or clustering of MUC1 on the surface of the tumour cell , exposing cell surface receptors involved in immune recognition processes .
+This would enable recognition and destruction of the tumour cell by antigen specific T-cells and / or NK-cells .
+Indeed , we have previously shown that huHMFG-1 mediates ADCC of MUC1 positive cell lines  .
+NK cells and the FcRIII play an important role in mediating huHMFG-1-dependent tumour cell killing .
+Two different allotypes of the FcRIIIa have been described ( FcRIIIa-158V and FcRIIIa-158F ) and this polymorphism has been reported to affect IgG1 binding  .
+Donors positive for the FcRIIIa-158V polymorphism had a better clinical response to treatment with rituximab  .
+This increased clinical response could be explained by the higher affinity of the FcRIIIa-158V for rituximab , which resulted in an increased NK cell mediated lysis of CD20 positive cells  .
+The FcRIIIa specific clone 3G8 displays a stronger binding to PBMC from individuals homozygous for the FcRIIIa 158-Val polymorphism  .
+Here we show a correlation between high FcRIIIa expression using the 3G8 antibody and huHMFG-1 mediated ADCC .
+This correlation was not observed with the CLB-Fcgran / 1 antibody , which binds equally strong to both FcRIIIa allotypes .
+These data strongly suggest that the FcRIIIa polymorphism may also influence huHMFG-1-mediated ADCC .
+DNA typed analysis should be carried out to confirm this observation .
+There are currently numerous efforts ongoing to improve the efficacy of therapeutic IgG1 antibodies .
+In vitro molecular engineering of the Fc region is one possibility to improve the affinity of mAbs for the FcRIIIa and thereby to enhance ADCC  .
+Furthermore , combination therapies with NK cell activating cytokines may increase ADCC .
+It has previously been shown that IL-2 , IL-15 and IL-21 can augment ADCC  .
+Indeed in our system , stimulation of PBMCs with IL-2 , IL-21 and IL-15 , but not with IFN , increased huHMFG-1-mediated ADCC .
+Moreover , it has been demonstrated that patients treated with antibodies in combination with IL-2 exhibit an increased in vitro ADCC  .
+Gluck et al. showed that the addition of IL-2 to rituximab therapy for the treatment of B-cell non-Hodgkin 's lymphomas results in NK cell expansion that correlates with clinical response .
+They also observed that ADCC activity was increased or maintained in responding and stable disease patients  .
+However , the in vivo relevance of in vitro results needs further confirmation .
+Using different serum samples with varying MUC1 levels , we demonstrated that MUC1 can inhibit huHMFG-1-mediated ADCC .
+MUC1 serum levels above the upper limit of normal ( 30 U / ml ) inhibited huHMFG-1-mediated ADCC ( 85% , 22 / 26 serum samples ) and as these levels differ among cancer patients , they have to be considered to define the therapeutic dose of huHMFG-1 .
+One way to confirm the inhibiting effect of MUC1 would be to perform ADCC after removing MUC1 from the sera .
+Unfortunately , it was not possible to remove MUC1 from patient sera without diluting the sera .
+However , tumour cell killing could be restored with higher huHMFG-1 concentrations .
+Antibody concentrations between 25 and 100 g / ml could overcome in vitro inhibition of tumour cell killing by extremely high MUC1 levels ( 6054 U / ml ) , strongly suggesting that MUC1 is indeed inhibiting huHMFG-1-mediated ADCC .
+These concentrations could be achieved in serum with administration of huHMFG-1 dose levels 3 mg / kg in vivo .
+This concentration lies well within the tolerable dose , considering that the MTD exceeded 16 mg / kg  .
+Nevertheless , care is needed in extrapolating findings from the in vitro setting to the in vivo situation where dynamic forces in circulating blood may influence antigen - antibody interactions .
+Some serum samples ( 5 / 20 , 25% ) inhibited ADCC even though the levels of MUC1 were below the normal limit .
+Another possible inhibitory factor could be the soluble form of the stress-inducible MHC class I-related chain A ( MICA ) which is a ligand of the NK cell receptor NKG2D  .
+Soluble MICA is released from tumour cells and inhibits cell-surface NKG2D expression and NKG2D-mediated effector functions of immune cells in patients with progressive malignant tumours  .
+MICA was expressed on the target cell we used in the ADCC assays and blocking of NKG2D inhibited killing , suggesting that NKG2D co-stimulation plays a role in huHMFG-1-mediated ADCC .
+However , we could not demonstrate impairment of NKG2D expression on NK cells after incubation with serum samples ( with low MUC1 ) that inhibited ADCC , suggesting that in these cases soluble NKG2D ligands did not play a role in ADCC inhibition ( data not shown ) .
+In conclusion , our in vitro results indicate that the number of NK cells , NK cell activating cytokines , the FcRIIIa-158 polymorphism and high MUC1 serum levels influence huHMFG-1-mediated ADCC .
+The use of higher concentrations of huHMFG-1 , which lie within the well-tolerated doses recently tested in a phase I clinical trial , can compensate for the elevated MUC1 serum levels .
+Optimal effects of huHMFG-1 treatment might be seen when the serum MUC1 levels are lower , such as in early stage patients , in contrast to the advanced disease patients .
+Screening for patients with high levels of NK cells bearing the FcRIIIa-158V polymorphism , adjusting the dosage to circulating levels of MUC1 and co-administration of NK cell activating cytokines may increase the efficacy of huHMFG-1 treatment .

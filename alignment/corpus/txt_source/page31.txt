@@ -1,0 +1,133 @@
+Le cancer de sein est la première cause de décès des femmes par cancer avant 65 ans .
+Son incidence ne cesse d' augmenter avec une progression de 2,4 % par an .
+Cette augmentation est due entre autres à un dépistage de_plus_en_plus précoce .
+En parallèle , la diffusion de la procédure du ganglion sentinelle ( GS ) a permis de révolutionner la prise en charge chirurgicale de ces patientes .
+Cette technique a été proposée pour la première fois par Giuliano et al. en 1994  .
+Depuis , de nombreux auteurs ont confirmé la pertinence de cette technique qui est devenue la méthode de référence pour l' évaluation du creux axillaire dans les cancers du sein au stade T1  .
+La prévalence de l' envahissement ganglionnaire est étroitement liée à la taille tumorale .
+Les tumeurs inférieures à 5 mm ( pT1a ) ont une prévalence de 5 % d' envahissement axillaire , mais les tumeurs pT2 ont une prévalence d' envahissement de plus de 30 %  .
+Ainsi pour les tumeurs de moins de 20 mm , le GS permet d' éviter un curage axillaire dans 70 % des cas  , de_même qu' une hospitalisation prolongée et la morbidité du curage axillaire .
+Il est maintenant bien démontré que la morbidité du GS est significativement plus faible que celle du curage axillaire  , l' hospitalisation étant également significativement réduite .
+La technique classique consiste à rechercher et à faire l' exérèse du GS sous anesthésie générale lors_de la tumorectomie .
+Le repérage du GS se fait à l' aide de traceurs lymphophiles colorimétrique ( bleu patenté ) et / ou isotopique ( radio colloïde marqué au technétium 99 m ) .
+Il est actuellement recommandé de procéder à une double détection permettant d' obtenir un taux de détection de plus de 96 %  .
+L' analyse histologique peropératoire des GS , réalisée par de nombreux centres , permet d' effectuer , en cas de métastase ganglionnaire , un curage axillaire dans le même temps opératoire .
+L' analyse histologique peropératoire apparaît donc déterminante .
+Sa sensibilité ainsi_que sa spécificité doivent être optimales .
+En effet , en cas de faux-positif de la procédure , le chirurgien réalisera un curage axillaire inutile et , en cas de faux-négatif , devra réopérer la patiente .
+La revue de la littérature sur l' analyse histologique peropératoire quelle que soit la technique utilisée ( examen par coupes congelées ou cytologie d' apposition ) dans le cadre du GS , montre que la spécificité est bonne , en_revanche , la sensibilité l' est moins .
+Le taux de faux-négatif varie entre 10 et 40 % , avec une moyenne à 15 % dans la_plupart des études  .
+L' analyse histologique peropératoire est donc limitée , notamment par trois critères : le type d' analyse peropératoire , la taille de la métastase recherchée ( macro- ou micrométastase ) et le temps imparti à l' examen extemporané .
+Il existe deux méthodes d' examen peropératoire : la technique des coupes congelées et la cytologie d' empreinte .
+Ces deux méthodes ont été largement comparées dans la littérature avec des résultats discordant en terme de sensibilité  .
+Van Diest_et_al.  , dans une étude incluant 74 patientes et comparant les deux méthodes , observent des sensibilités dans la détection des métastases dans les GS en faveur des coupes congelées ( 87 % versus 62 % pour la cytologie d' empreinte ) .
+À l' inverse Motomura_et_al.  , parmi 101 patientes , trouvent une meilleure sensibilité avec la technique de cytologie d' empreinte ( 90,9 % versus 52 % ) .
+La cytologie d' empreinte a l' avantage d' éviter une perte de matériel .
+Cependant , ce risque semble très faible avec un technicien entraîné , mais il augmente malgré_tout avec le nombre de coupes réalisées .
+Certains auteurs  ont tenté d' améliorer la sensibilité de ces techniques pour la détection des micrométastases en utilisant des techniques d' immunohistochimie en peropératoire  .
+Aihara_et_al.  constatent une durée de la procédure d' analyse qui croît 30 minutes environ , sans réel bénéfice sur la sensibilité qui est de 85 % .
+Tableau 1.
+Sensibilité et spécificité des techniques d' analyse peropératoire des ganglions sentinelles : études comparant les deux techniques
+SériesnTechniqueContrôleSensibilité ( % ) Spécificité ( % ) Van Diest_et_al.  14CCHE et IHC87100 CE62100 Turner_et_al.  278CCHE et IHC91,6100 CE74,2100 Macro : 98 Micro : 28 Motomura_et_al.  101CCHE et IHC52100 CE90,998,5 Aihara_et_al.  118CEHE82,598,7 IHC82,598,7 CE + IHC8598,7
+Full-size table
+CC = coupes congelées ; CE = cytologie d' empreinte ; HE = hématosine-éosine ; IHC = immunohistochimie ; Macro = macrométastase ; Micro = micrométastase .
+View Within Article
+Au cours de ces différentes études évaluant la pertinence de l' analyse histologique peropératoire , le contrôle histologique définitif était réalisé de manière classique et après l' immunohistochimie .
+Cependant , certaines études n' ont utilisé que l' histologie standard ( hématoxyline-éosine-safran ( HES ) sans coupes sériées ni immunohistochimie ) méconnaissant probablement certaines micrométastases .
+Dans ce cas , ces auteurs ont certainement surestimé la sensibilité de l' analyse histologique peropératoire .
+Ainsi Turner_et_al.  ont démontré sur 278 patientes , que la sensibilité de l' examen extemporané du GS diminuait de 91,6 à 74,2 % selon_que l' on utilisait l' histologie définitive ou l' immunohistochimie .
+Le taux de faux-négatif était donc majoritairement secondaire à l' incapacité à détecter les micrométastases ( métastase mesurant de 0,2 à 2 mm )  .
+Ainsi , la deuxième limite de l' analyse histologique peropératoire est la taille de la métastase recherchée .
+En effet , si la sensibilité est correcte pour les macrométastases , elle devient très mauvaise , et inférieure à 30 % en cas de micrométastases  qui doivent être prises en compte dans le calcul du taux de faux négatif de la procédure .
+Enfin la dernière limite de l' analyse histologique peropératoire des GS est sa durée .
+La sensibilité semble corrélée à la longueur de l' analyse histologique peropératoire comme le démontrent Veronesi_et_al.  , qui obtiennent une sensibilité de 95,8 % mais avec un délai de réponse supérieur à 40 minutes .
+Ce temps d' analyse constitue un réel problème d' organisation du bloc opératoire , qui pour certains est un argument pour ne pas réaliser d' analyse peropératoire des GS outre la faible sensibilité de la procédure d' analyse peropératoire .
+Une autre difficulté liée à l' analyse histologique peropératoire des GS est l' existence de rare faux-positif , responsable de curage axillaire par excès  .
+Les limites de l' analyse histologique peropératoire des GS peuvent induire chez un nombre non négligeable de patientes ( environ 30 % en incluant les micrométastases et les cellules isolées découvertes à l' analyse histologique définitive des GS ) , une deuxième intervention sous anesthésie générale après le résultat définitif de l' anatomopathologiste  .
+C' est pourquoi certains auteurs ont proposé une nouvelle stratégie : repérage et exérèse dans un premier temps du GS sous anesthésie locale ( AL ) permettant un examen histologique définitif .
+En fonction du résultat définitif du GS , la tumorectomie qui de toute façon doit avoir lieu sous anesthésie générale , serait associée ( ou non ) à un curage axillaire dans le même temps .
+Cette stratégie permettrait donc en_théorie d' éviter deux interventions sous anesthésie générale et ne pas retarder le traitement adjuvant .
+La biopsie du GS devient ainsi une méthode diagnostique ambulatoire au même titre que la biopsie du sein .
+Peu d' études à ce jour ont évalué la faisabilité du GS sous AL .
+En effet , seulement huit séries  regroupant 745 patientes sont disponibles .
+Les critères d' inclusion communs à toutes les études étaient les suivants : diagnostic histologique de cancer invasif au préalable ou carcinome intracanalaire étendu ; lésion unifocale de 3 cm de grand axe maximum ( mammographie et échographie ) ; absence d' adénopathie axillaire clinique ( et échographique pour certains ) ; absence d' allergie connue au bleu patenté ou au produit d' AL .
+Les critères d' exclusion retenus étaient les suivants : absence de GS chaud à la lymphoscintigraphie peropératoire ; patiente anxieuse dont la psychologie n' était pas compatible avec une anesthésie locale ; obésité .
+2. Technique du ganglion sentinelle sous anesthésie locale
+La patiente est hospitalisée sur un mode ambulatoire , sans être à_jeun , soit la veille , soit le matin même de l' intervention .
+Une injection de produit radio-isotopique ( radio colloïde marqué au Tc99m ) est réalisée , soit la veille , soit le matin même quelques heures avant la chirurgie .
+L' injection se fait en péritumorale si la tumeur est palpable ; elle est pratiquée en subaréolaire si la tumeur est infraclinique ou très externe .
+Une lymphoscintigraphie de la zone axillaire est réalisée trois heures après .
+Si le marquage axillaire est négatif , l' intervention est annulée .
+Tableau 2.
+Technique et résultats des séries ayant réalisé une exérèse du ganglion sentinelle sous anesthésie locale
+ÉtudenPrémédicationVVPMonitoringProduits pour l' ALDurée ( minutes ) Double repérageTaux de détection ( % ) Complications EmlaPO / IV Luini_et_al.  244Fentanyl BZDouiouiCarbocaïne20non100non nonadrénaliné Smidt_et_al.  50nonNPNPLidocaïne30Oui100Non adrénaliné Aubard_et_al.  78OuiNonNonXylocaïne21Oui97,41 allergie au adrénalinébleu patenté Fenaroli_et_al.  14nonNPNPCarbocaïne20Oui100Non nonadrénaliné Van Berlo_et_al.  162nonNPNPPrilocaïne 1 %NPOui1001 hématome Narducci_et_al.  17OuiHypnovelnonnonXylocaïne30Oui100NP adrénaliné
+Full-size table
+NP = non précisé ; VVP = voie veineuse périphérique ; PO = per os ; IV = intraveineux ; BZD = benzodiazépine ; AL = anesthésie locale .
+View Within Article
+Au bloc opératoire , la prise en charge peut être minimale .
+Une perfusion n' est pas posée systématiquement .
+Luini_et_al.  ( n = 244 ) proposent une voie veineuse périphérique et monitorage de la patiente ( ECG , saturation en oxygène ) .
+Concernant la prise en charge de la douleur , l' anesthésie locale est le seul procédé dans la majorité des protocoles .
+Seul Luini_et_al.  proposent des benzodiazépines et administrent du Fentanyl 0,05 mg intraveineux avant l' incision , et répètent l' injection à cinq minutes , puis toutes les 30 minutes .
+Narducci_et_al.  ( n = 17 ) réalisent une prémédication par Hypnovel 0,1 mg / 10 kg en sublingual avant le départ au bloc .
+Certains auteurs  appliquent de l' Emla sous un pansement occlusif en périaérolaire et au niveau axillaire une heure avant la chirurgie .
+Les produits d' anesthésie locale ( xylocaïne , carbocaïne ) peuvent être adrénalinés ou non selon les auteurs .
+L' injection de 2 mL est faite en sous-dermique et subaérolaire .
+Trois à cinq minutes après , la peau est insensible et on peut faire l' injection de bleu patenté en subaérolaire .
+Puis de_nouveau 2 mL de produit anesthésiant est injecté en sous-cutané au niveau du point chaud axillaire repéré par la sonde nucléaire .
+L' anesthésie est maximale 15 minutes après l' injection , jusqu' à 45 minutes après .
+L' incision cutanée se fait au niveau du point chaud axillaire repéré avec la sonde gamma .
+La dissection axillaire se fait aux ciseaux et l' anesthésie locale est complétée pas_à_pas dirigée par la sonde nucléaire et la visualisation des ganglions lymphatiques bleutés .
+Cette technique permet de consommer moins de 20 mL d' anesthésiant .
+La patiente peut sortir deux heures après le prélèvement si elle est accompagnée .
+3. Résultats du ganglion sentinelle sous anesthésie locale
+Le taux de détection du GS est de 100 % sauf dans l' étude d' Aubard_et_al.  où le GS n' a pas été détecté chez une patiente ( 97,4 % ) .
+Le nombre moyen de GS prélevés était de 1,7 , ce qui est comparable au taux de GS prélevés sous anesthésie générale dans la littérature  .
+Le taux de GS métastatiques prélevés sous AL variait entre 20 et 34 % , ce qui est identique au taux retrouvé sous anesthésie générale .
+Fenaroli_et_al.  observent seulement 7 % de GS métastatiques ( une patiente sur 14 ) .
+En revanche , Luini_et_al.  ont le taux de GS positifs le plus élevé ( 46 % ) , mais pouvant être expliqués par le nombre élevé de GS prélevés ( un à huit ) et une taille tumorale variant de 0,2 à 4,5 cm ( taille moyenne 1,6 cm ) .
+L' intervention durait en moyenne entre 20 et 30 minutes .
+Le succès et la durée de détection du GS sous AL semblaient être corrélés à trois paramètres : l' expérience du chirurgien , corrélée à l' indice de masse corporelle ( IMC , ou Body Mass Index , [ BMI ] ) plus le nombre de GS détectés à la lymphoscintigraphie .
+En effet , dans l' étude de Smidt_et_al.  , la durée d' intervention évolue avec l' expérience ; de 30 minutes en moyenne le premier mois à 26 minutes le deuxième mois .
+Chaque chirurgien qui a pratiqué le GS sous AL a une bonne expérience du GS ; cependant il semble exister une courbe d' apprentissage propre au fait d' opérer sous AL .
+De même Aubard_et_al.  qui ont l' une des plus grandes expériences françaises démontrent que la durée de l' intervention est corrélée au BMI , plus celui-ci est important plus l' intervention sera longue .
+Aucune complication n' a été rapportée en_dehors d' un hématome axillaire ne nécessitant pas de traitement dans l' étude de Van Berlo_et_al.  , et une réaction allergique au bleu patenté contrôlée avec des corticoïdes pour Aubard_et_al.  .
+L' incidence des réactions allergiques au bleu patenté atteint 2 %  .
+L' AL a l' avantage de permettre à la patiente de communiquer avec le chirurgien et donc de décrire le prurit avant_que n' apparaisse le rash .
+Dans ce cas , un traitement peut rapidement être débuté .
+La consommation de produit d' anesthésie locale était inférieure à 20 cc .
+Il n' existe pas d' étude qui compare un anesthésiant adrénaliné ou non .
+Le moment le plus sensible semble être celui de l' extériorisation du GS  .
+Aucune procédure n' a été interrompue pour_cause_de douleurs insupportables .
+Le recours à une anesthésie générale complémentaire n' a pas été non plus nécessaire .
+L' impact de cette technique sur la qualité de vie étudiée par Luini_et_al.  montre un effet bénéfique de cette procédure .
+Une grande majorité des patientes ( 85 % ) n' a pas ressenti de douleur , et la majorité des patientes ( 81 % ) recommanderait ce type de prise en charge .
+Aucune patiente ne décrit l' AL comme un désagrément .
+Toutes ( 100 % ) sont d' accord pour dire que la communication avec le chirurgien était plus facile au_cours_de la prise en charge .
+Globalement le vécu des patientes était positif .
+Tableau 3.
+Impact de cette technique sur la qualité de vie étudiée par Luini_et_al. 
+Oui / positif ( % ) Non / négatif ( % ) Autre Douleur au site du GS1486 Impact sur la qualité de vie81019 % pas d' impact Communication plus facile avec le chirurgien1000 Mobilité du bras intact955 Moins d' inconfort psychologique ou physique par_rapport_à l' AG71,223,85 % idem
+Full-size table
+AG = anesthésie générale .
+View Within Article
+Ces études ont démontré la faisabilité de la détection et l' exérèse du GS sous AL chez des patientes avec des cancers du sein T0 , T1 ou T2 et N0 M0 .
+Cette technique semble bien tolérée lorsqu' elle est réalisée par des chirurgiens entraînés .
+La technique du GS n' est pas plus compliquée sous AL que sous anesthésie générale .
+Si le résultat définitif du GS est positif , le curage axillaire dans un second temps n' est pas plus difficile .
+Les limites de cette stratégie sont les trois paramètres corrélés au temps de détection du GS : l' aptitude du chirurgien ( variabilité interopérateur ) , l' index de masse corporelle de la patiente , et le nombre de GS détectés à la lymphoscintigraphie .
+L' obésité n' est pas une contre-indication en soi mais la biopsie du GS sous AL peut être discutée notamment dans sa phase d' apprentissage chez les patientes obèses .
+La lymphoscintigraphie préopératoire est indispensable afin_de vérifier la présence de GS .
+À l' inverse s' il existe plus de trois ganglions isotopiques , il semble raisonnable d' éviter le GS sous AL .
+Cette technique , largement diffusée par l' équipe de Limoges  , pourrait éviter les aléas de l' examen extemporané , et en_particulier éviter les reprises chirurgicales sous anesthésie générale liées aux faux-négatifs de la technique d' analyse d' examen extemporané qui concernent surtout les patientes ayant des micrométastases et des cellules isolées découvertes lors_de l' analyse histologique définitive des GS .
+Environ 30 % des patientes évitent ainsi une seconde intervention sous anesthésie générale .
+Les anatomopathologistes peuvent oeuvrer dans des conditions optimales , sans perte de matériel secondaire à l' extemporané ( coupes congelées ) et en prenant le temps de rechercher les micrométastases .
+De plus , la communication patiente - chirurgien est améliorée .
+Les patientes peuvent être informées précisément sur la séquence thérapeutique proposée en ayant l' ensemble des données histologiques à_la_fois sur le sein ( biopsie ) et le creux axillaire ( biopsie du GS ) .
+4. Conclusion
+Le prélèvement du GS est devenu un standard dans la prise en charge chirurgicale du cancer du sein de petite taille .
+Il est cependant soumis aux limites de l' examen histologique peropératoire des GS responsable d' environ 30 % de faux-négatifs et de réinterventions pour un curage axillaire secondaire .
+La technique du GS sous AL permettrait de pallier ce biais seulement si l' on considère la technique du GS sous AL comme une méthode diagnostique .
+Plusieurs études ont démontré sa faisabilité avec un bon vécu des patientes .
+Alors que la tendance actuelle est de développer la chirurgie ambulatoire , le GS sous AL pourrait peut-être y trouver une place .
+Le bénéfice primordial étant la stadification définitive de l' extension axillaire du cancer avant le début du traitement chirurgical du sein

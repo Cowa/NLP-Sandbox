@@ -1,0 +1,211 @@
+Depuis sa réactualisation dans les années 1960 par des chirurgiens de la Mayo Clinic ( R.L. Lipson et S. Schwartz ) dans le traitement du cancer bronchique  et jusque dans les années 2000 , la thérapie photodynamique ( PDT ) bénéficie aujourd'hui à de nombreuses spécialités oncologiques , médicales ou chirurgicales telles l' urologie  , la gastroentérologie  , la dermatologie  , l' ORL  et la gynécologie  .
+La PDT consiste à sensibiliser électivement une lésion par l' administration d' un agent photosensibilisateur ( sans activité propre ) , puis à la détruire par une activation lumineuse spécifique du photosensibilisateur  .
+Cette dernière aboutit à la production de molécules cytotoxiques responsables de la mort des cellules composant la lésion cancéreuse .
+Cet article se propose d' exposer le principe de la PDT et de décrire les principales indications et voies de recherche de cette technique en gynécologie à ce jour .
+2. Thérapie photodynamique2.1 .
+Historique
+Les effets thérapeutiques de la lumière sont connus depuis l' Antiquité .
+La première application clinique de la PDT remonte au début du vingtième siècle ( 1903 ) et concernait le traitement d' un cancer cutané après application locale d' éosine et exposition à la lumière blanche  .
+Ce n' est qu' en 1961 que Lipson et ses collaborateurs utiliseront à_nouveau la PDT en clinique dans le traitement du cancer bronchique  .
+Le premier photosensibilisateur mis sur le marché en 1985 fut le Photofrin , dérivé de l' hématoporphyrine et fruit des nombreux travaux de Dougherty  .
+Depuis , de nouvelles molécules photosensibilisatrices plus actives et plus spécifiques ont été développées : certaines ont obtenu l' autorisation de mise sur le marché ( AMM ) ( Foscan , des dérivés de l' acide 5-aminolévulinique ( ALA ) : Hexvix , Metvix ) tandis_que d' autres sont encore en phase d' expérimentation animale et / ou humaine .
+2.2. Principe
+Le photosensibilisateur , à l' état fondamental ( S0 ) , possède une énergie d' équilibre dite minimale .
+Soumise à une excitation lumineuse , cette molécule peut être portée à un niveau d' excitation supérieur instable ( états singulets S1 , S2 ) .
+Cependant , seuls certains photons , de longueur d' onde définie , sont absorbés : à chaque molécule correspond un spectre d' absorption .
+Ainsi , la protoporphyrine IX ( PpIX ) qui est un photosensibilisateur endogène couramment utilisé pour la PDT en gynécologie , possède un spectre d' absorption à cinq bandes correspondant chacune à des longueurs d' onde définies .
+La bande à 630 nm ( rouge ) est la plus utilisée en gynécologie  .
+Full-size image ( 31K )
+Fig. 1. Diagramme représentant les niveaux d' énergie d' une molécule et les différentes voies conduisant à l' émission de fluorescence et aux processus de photosensibilisation ( ) .
+View Within Article
+Full-size image ( 21K )
+Fig. 2. Spectre d' absorption typique de la protoporphyrine IX ( PpIX ) .
+Le spectre d' absorption contient cinq bandes  .
+View Within Article
+À l' état excité S1 , le photosensibilisateur possède un excès d' énergie qu' il va perdre rapidement et spontanément selon trois processus : - restitution de l' énergie sous forme de chaleur ;
+- émission de fluorescence ( photodiagnostic ) ;
+- et passage à un état intermédiaire dit triplet .
+Le retour de l' état triplet vers l' état fondamental est beaucoup plus lent que celui de l' état singulet  .
+À l' état de triplet , le photosensibilisateur interagit avec les molécules intracellulaires soit directement par des réactions d' oxydoréduction ( type I ) qui conduisent à des espèces radicalaires toxiques , soit indirectement par transfert d' énergie à l' oxygène amenant celui-ci à un état singulet , espèce oxydante pour les acides aminés , certaines bases nucléiques et , à un moindre degré , les chaînes lipidiques composant les membranes ( type II ) .
+Cette étape est oxygénodépendante .
+Dans le premier cas , le photosensibilisateur est dégradé ; dans le second , il revient à son état fondamental , disponible pour une nouvelle excitation lumineuse .
+Le mécanisme du deuxième type est habituellement prépondérant  .
+Le stress oxydatif engendré par la PDT entraîne une destruction tumorale par le biais de dommages cellulaires directs , de dommages vasculaires et de l' activation du système immunitaire .
+Les dommages cellulaires directs passent par l' altération des systèmes membranaires et des organites intracellulaires pour aboutir à une nécrose cellulaire .
+Celle-ci peut être relayée par des phénomènes d' apoptose  .
+2.3. Photosensibilisateurs
+Un photosensibilisateur est une molécule non toxique pour l' organisme et dénuée d' activité thérapeutique propre .
+Il est idéalement caractérisé par une fixation ou une rétention élective par les cellules cancéreuses et par un ( ou plusieurs ) pics d' absorption lumineuse .
+Il peut être administré en topique ou par voie générale .
+Sa posologie est fonction du poids du malade , mais ne dépend pas de l' indication .
+Trois photosensibilisateurs sont actuellement utilisés en gynécologie : le porfimère sodique ( Photofrin ou Photobarr , Axcan Pharma ) , le meta-tetrahydroxyphenylchlorin ( mTHPC ) ou témoporfine ( Foscan , Biolitec ) , et l' ALA ( commercialisé par plusieurs sociétés dont Medac , Dusa , Photocure , etc. ) qui n' est pas un photosensibilisateur mais un précurseur de la PpIX .
+Historiquement , le Photofrin est le plus ancien des photosensibilisateurs et a longtemps été la seule molécule disponible .
+Elle dérive de l' hématoporphyrine .
+Son spectre d' absorption présente plusieurs pics .
+Le Photofrin est en_pratique excité à 630 nm ( cinquième pic ) en raison d' un compromis entre l' absorption de la molécule et la pénétration de la lumière .
+En effet , le rouge pénètre plus dans les tissus que le vert et le bleu à 400 nm ( premier pic ) .
+Mais son utilisation en lumière verte à 514 nm dans une étude clinique portant sur des patientes atteintes de néoplasies intrapéritonéales a montré une meilleure tolérance digestive par_rapport_à la lumière rouge à 630 nm  .
+Le Photofrin est administré par voie intraveineuse ( i.v. ) à la dose de 2 mg / kg , puis excité 48 heures après .
+Ses principaux inconvénients sont représentés par : un faible coefficient d' absorption molaire dans le rouge , un faible gradient de concentration tumeur tissu sain et surtout une photosensibilisation cutanée prolongée pendant quatre à six semaines en rapport avec une demi-vie longue ( 18,8 jours ) .
+Ses principales indications sont constituées par les récidives de cancers bronchiques non à petites cellules , les cancers de l' oesophage ayant fait l' objet d' un traitement locorégional antérieur ( AMM 1997 ) .
+Aucune AMM n' a été délivrée en gynécologie à ce jour .
+Full-size image ( 33K )
+Fig. 3. Représentation moléculaire ( a ) et spectre d' absorption du Photofrin ( b ) ( ) .
+View Within Article
+Le Foscan possède un spectre d' absorption avec deux pics principaux , l' un à 400 nm et l' autre à 653 nm .
+En pratique , le pic dans le rouge à 653 nm est le plus utilisé .
+Le Foscan est administré par voie intraveineuse à la dose de 0,1 mg / kg puis excité dans un délai de 48 à 96 heures après son injection .
+Il présente plusieurs avantages : une forte absorption dans le rouge , un gradient de concentration tumeur - tissu sain élevé et une bonne efficacité photodynamique .
+Il possède un pouvoir de photosensibilisation cutanée inférieur à celui du Photofrin .
+Les concentrations plasmatiques reviennent à leur valeur initiale 15 jours après le début de la perfusion , autorisant une réexposition progressive au soleil .
+Il a obtenu l' AMM en 2002 dans le traitement palliatif des carcinomes épidermoïdes avancés de la tête et du cou après échec des traitements antérieurs et chez les patients qui ne peuvent pas être traités par radiothérapie , chirurgie ou chimiothérapie systémique .
+À ce jour , aucune pathologique gynécologique n' a été retenue comme indication .
+Full-size image ( 27K )
+Fig. 4. Représentation moléculaire ( a ) et spectre d' absorption du Foscan ( b ) ( ) .
+View Within Article
+L' ALA est une molécule endogène , à demi-vie courte ( 50 minutes ) intermédiaire dans la synthèse de l' hème et précurseur de la PpIX , molécule photosensibilisante .
+Celle-ci possède un spectre d' absorption caractéristique avec cinq pics .
+En pratique clinique , le pic à 630 nm est le plus utilisé .
+En effet , historiquement , les lésions cancéreuses prises en charge étaient volumineuses ( en raison d' un diagnostic tardif ) .
+En outre , la lumière rouge possède une action en profondeur supérieure aux lumières bleue et verte , répondant ainsi aux impératifs cliniques .
+Ainsi , en dermatologie , on peut utiliser soit la lumière bleue ( pic I à 400 nm , Fig. 5 ) ( cas du Levulan )  , soit la lumière rouge ( cas du Metvix )  .
+En expérimentation animale , d' autres longueurs d' onde ont été testées et semblent efficaces  .
+La PpIX possède également d' autres applications dans le domaine du diagnostic photodynamique ( PDD ) en raison de ses propriétés physicochimiques .
+Excitée par une lumière bleue autour_de 400 nm , elle émet une fluorescence rouge aisément repérable et spécifique des tissus tumoraux  .
+Les premières applications cliniques du PDD en gynécologie sont récentes et utilisent l' ALA  ou un de ses dérivés méthylés , le Metvix  .
+L' Hexvix ( dérivé ester de l' ALA ) en est encore au stade de l' expérimentation animale en gynécologie  , mais a obtenu l' AMM en urologie pour le diagnostic de cancers de la vessie  .
+Aucune application gynécologique n' a fait l' objet d' AMM à ce jour concernant l' ALA et l' Hexvix .
+L' utilisation des dérivés ester et méthylés de l' ALA dans la PDD et la PDT en gynécologie pourraient constituer une perspective d' avenir intéressante .
+Full-size image ( 24K )
+Fig. 5. Représentation moléculaire de l' acide 5-aminolévulinique ( ALA ) et de la protoporphyrine IX ( PpIX ) ( ) .
+View Within Article
+Un résumé des principales caractéristiques des photosensibilisateurs les plus utilisés en gynécologie clinique est proposé Tableau 1.
+Tableau 1.
+Résumé des principales caractéristiques des photosensibilisateurs utilisés en gynécologie clinique
+PhotofrinFoscanMetvixia LaboratoiresAxcan PharmaBiolitecGalderma international
+Voies d' administrationi.v.i.v.Topique ( crème , solution ou patch )
+Posologie2 mg / kg0,1 mg/kgVulve : crème ( 10 ou 20 % ) ou patch ( 38 mg / cm2 ) Col : solution 10 ou 20 % 0,8 mg / kg ( métastases cutanées de cancer du sein )
+Longueur d' onde préférentielle630 nm ( 514 nm ) 652 nm630 nm Délai administration - PDT48 à 72 heures48 à 96 heures90 minutes à 8 heures
+Effets indésirablesPhotosensibilisation cutanée ( 4 à 6 semaines ) Photosensibilisation cutanée ( 15 jours ) Rares Indications potentiellesCIN , VIN , ovaire , seinVIN , seinCIN , VIN , métrorragies , lichen vulvaire
+Full-size table
+View Within Article
+2.4. Sources lumineuses
+Les sources de lumière classiquement utilisées pour la PDT sont des lasers à colorant ( DCM ) ( pompés par laser Argon ou Yag : doublé ) , caractérisé par leur caractère monochromatique , leur capacité à être conduite par une fibre optique passée dans le canal opérateur d' un endoscope souple ou rigide .
+La lourdeur de leur mise en oeuvre et leur cot élevé sont leurs principaux inconvénients ainsi_que leur faible rendement .
+Mais d' autres sources de lumière peuvent être utilisées - par_exemple la lumière blanche , qui peut rendre compte d' une réaction photodynamique  .
+Le regain d' intérêt actuel pour la PDT réside , outre le développement de nouveaux photosensibilisateurs , en_partie dans la mise à disposition de diodes laser de différentes longueurs d' onde , d' usage plus facile , moins coteuses et de meilleur rendement .
+Elles émettent le_plus_souvent à 630 , 635 , 652 ou 730 nm .
+Full-size image ( 29K )
+Fig. 6. Laser développé par Diomed .
+Selon la diode laser : 630 , 635 , 652 ou 730 nm .
+La puissance délivrée peut atteindre trois watts. ( ) .
+View Within Article
+2.5. Applicateurs
+Un applicateur ou un diffuseur de lumière sont nécessaires à la réalisation de la PDT .
+Leur longueur est variable .
+Ils sont placés à l' extrémité d' une fibre optique à usage unique et sont de forme adaptée au tissu traité permettant une coaptation optimale des surfaces ( Fig. 7 and Fig. 8 ) .
+Ainsi , dans le traitement des dysplasies cervicales , il existe un système diffuseur de lumière ( Biolitec ) dont l' extrémité en cupule s' adapte exactement à la forme cylindrique de l' exocol et dont la partie terminale en bâtonnet permet l' application de la lumière au niveau de l' endocol ( Figs. 7a et b ) .
+Par ailleurs , un applicateur sous forme de ballonnet gonflable a été développé par Medlight pour le traitement des métrorragies fonctionnelles .
+Le ballonnet épouse la forme de la cavité utérine qu' il distend une fois gonflé , autorisant la diffusion de la lumière au contact de l' endomètre ( Figs. 8b et c ) .
+Full-size image ( 34K )
+Fig. 7. ( a ) et ( b ) Applicateur de lumière exo- et endocervicale permettant la PDT des dysplasies cervicales ( ) .
+View Within Article
+Full-size image ( 52K )
+Fig. 8. Dispositif permettant la réalisation de la PDT intra-utérine ( a ; ) et se terminant par un ballonnet diffusant la lumière au contact de l' endomètre ( b et c ; ) .
+View Within Article
+Les systèmes développés par les sociétés Biolitec et Medlight permettent de distribuer de façon homogène la lumière aux tissus .
+La dose de lumière appliquée est définie par unité de surface .
+Elle est exprimée en joule par centimètre carré ( J / cm2 ) ( fluence ) et dépend des indications .
+Mais les fibres optiques permettant la transmission de la lumière ne présentent jamais une transmission de 100 % .
+La fibre doit donc être calibrée avant chaque utilisation afin_que l' émission laser compense la perte liée à la transmission par la fibre .
+Enfin , pour permettre une PDT optimale , on peut faire varier la puissance et le temps d' illumination afin_d' éviter une dégradation trop rapide du photosensibilisateur ( photoblanchiment ou photobleaching ) et l' épuisement des réserves du tissu en oxygène  .
+2.6. Applications de la thérapie photodynamique en clinique humaine en 2007
+La thérapie photodynamique est déjà utilisée en clinique humaine dans trois spécialités : la gastroentérologie , la dermatologie et l' ORL .
+En gastroentérologie , seul le Photofrin possède l' AMM dans le traitement des dysplasies de haut grade sur endobrachyoesophage  ( PhotoBarr Axcan Pharma AMM no EU/1/04/272 / 001-CIP no 565811.2 pour le dosage à 15 mg et AMM no EU/1/04/272 / 002-CIP no 565812.9 pour le dosage à 75 mg ) et dans les cancers superficiels de l' oesophage après échec ou récidive après un traitement locorégional premier ( Photofrin Axcan Pharma AMM no 559490.3 pour le dosage à 15 mg et AMM no 559492.6 pour le dosage à 75 mg ) .
+Il est en cours d' évaluation dans le cholangiocarcinome non résécable  .
+En pneumologie , le Photofrin est utilisé dans le traitement des récidives des cancers bronchiques non à petites cellules  .
+En dermatologie , le Metvixia commercialisé en France par Galderma International ( AMM CIP 13 no 3400937719858 depuis septembre 2006 ) est agréé dans les lésions cutanées précancéreuses ( kératose actinique )  , les cancers de la peau autres que le mélanome  et la maladie de Bowen .
+En ORL , l' Agence Européenne du Médicament a autorisé en 2001 l' utilisation du Foscan ( Biolitec AMM no EU/1/01/197 / 001 et no EU/1/01/197 / 002 ) dans le traitement palliatif des carcinomes épidermoïdes avancés de la tête et du cou , ayant résisté aux autres thérapeutiques et ne relevant ni de la radiothérapie , ni de la chirurgie , ni de la chimiothérapie par voie générale  .
+D' autres spécialités ont recours à la PDT hors AMM .
+En urologie , la PDT est utilisée dans le traitement des cancers vésicaux  ou dans les cancers de prostate  .
+Enfin , en gynécologie , des essais cliniques évaluant la PDT dans certaines pathologies sont en cours , mais la PDT en est encore au stade de l' expérimentation .
+3. Applications en gynécologie3.1 .
+Dysplasies vulvaires ( VIN )
+La première application de la PDT sur des lésions vulvaires est relativement ancienne et date de 1993  .
+La PDT au niveau vulvaire pose un problème de galénique pour l' administration topique du photosensibilisateur .
+Celui-ci peut être administré sous forme de gel  .
+En raison de l' irrégularité , du caractère moite des zones à traiter et de la présence de forces de cisaillement potentiellement importantes , le gel ne semble pas être la forme galénique la plus adaptée pour une PDT optimale .
+Ainsi , un patch adhésif ( Fig. 9a et b ) délivrant une dose continue d' ALA ( 38 mg / cm2 ) au contact de l' épithélium vulvaire et bien toléré permet un traitement efficace des VIN  .
+Full-size image ( 40K )
+Fig. 9. Patch bioadhésif vulvaire libérant de l' ALA ( a ) et fluorescence induite par la protoporphyrine IX ( rouge ) dans les cellules dysplasiques ( VIN ) après illumination par une lampe de Wood ( b )  .
+View Within Article
+La réalisation de la PDT sur des lésions intraépithéliales vulvaires de haut grade ( VIN III ) est source de résultats prometteurs .
+Dans une étude prospective comparant la PDT aux traitements conventionnels ( LASER ou traitement chirurgical ) , Fehr et al. retrouvent une efficacité comparable de ces trois modalités thérapeutiques avec 73 % de guérison à deux mois des lésions de haut grade traitées par PDT , après application topique d' ALA sous forme de gel , sans aucun effet indésirable observé  .
+La PDT à base d' ALA pourrait constituer une alternative thérapeutique avec un meilleur résultat esthétique et une durée opératoire plus courte .
+Dans une série de cas , Campbell rapporte 100 % de guérison à deux ans de lésions vulvaires de haut grade après injection intraveineuse de Foscan .
+Mais le faible effectif de l' étude ( n = 6 ) ne permet pas de conclure sur l' efficacité thérapeutique de la PDT .
+En outre , des problèmes de tolérance ont été rapportés .
+Toutes les patientes ont présenté un oedème et un cas de cellulite a été observé  .
+Enfin , une étude prospective réalisée à l' hôpital Jeanne-de-Flandre à Lille est en train d' évaluer la place de la thérapie photodynamique avec administration d' ALA en topique ( Metvix ) comme traitement de première intention des VIN en comparaison avec la chirurgie .
+Concernant le pronostic de ces lésions néoplasiques vulvaires , le taux de récidive paraît important .
+Dans une étude rétrospective comparative portant sur 93 patientes atteintes de VIN , Hillemanns et al. retrouvent 48 % de récidives dans le groupe PDT avec un suivi moyen de 53 mois , sans différence significative avec le groupe LASER et le groupe chirurgie  .
+Le caractère multifocal et le statut HPV+ constituent les principaux facteurs significatifs de récurrence dans cette étude et dans celle de Fehr_et_al.  .
+3.2. Dysplasies cervicales ( CIN )
+Plusieurs études ont évalué le photodiagnostic dynamique comme méthode diagnostique des CIN et ont montré le caractère prometteur de l' imagerie par fluorescence dans cette indication  .
+Concernant le versant thérapeutique , la PDT est encore en cours d' évaluation dans le traitement des lésions dysplasiques cervicales .
+L' étude prospective de Keefe portant sur 32 patientes atteintes de lésions cervicales de moyen et haut grade ( CIN II et III ) retrouve 51 et 31 % de guérison respectivement à quatre et 12 mois après application cervicale d' une solution d' ALA  .
+Dans une autre étude prospective comparative et portant sur 11 patientes avec des lésions de haut grade , Bodner n' observe pas de différence significative en terme d' éradication d' HPV et de récurrence après PDT versus conisation .
+Aucun effet indésirable n' est rapporté  .
+Dans une étude prospective randomisée en double insu comparant la PDT après application locale d' ALA au placebo , Barnett et al. ne retouvent pas de différence significative en terme de guérison , de stabilisation et de progression des lésions de bas ou moyen grade à trois mois  .
+Mais le faible effectif de l' échantillon de patientes dans ces deux dernières études n' autorise pas de conclusion ferme et définitive  .
+D' autant qu' une étude plus récente , prospective et réalisée sur un échantillon de 105 patientes porteuses de lésions dysplasiques cervicales ( CIN I à III ) a montré 90 % de guérison à trois mois et 75 et 72 % d' éradication d' HPV à respectivement trois mois et un an .
+La PDT était réalisée avec du Photofrin administré par voie intraveineuse .
+Quarante-huit pour cent de photosensibilisation sévère ont été rapportés  .
+Si la thérapie photodynamique n' est pas encore admise comme traitement conventionnel des CIN , elle n' en constitue pas néanmoins un traitement peu invasif et assez bien toléré  .
+Mais sa supériorité par rapport aux traitements de référence est encore à démontrer .
+3.3. Carcinose péritonéale d' origine ovarienne
+Le traitement des micrométastases péritonéales d' origine ovarienne constitue un enjeu thérapeutique important , car il pourrait améliorer la survie des patientes atteintes de cancer de l' ovaire  .
+De nombreuses études expérimentales animales rapportent l' efficacité de la PDT dans la carcinose péritonéale d' origine ovarienne  .
+Dans un modèle animal de carcinose péritonéale d' origine ovarienne , Hornung et al. ont montré une efficacité significative en terme de survie , par rapport aux animaux témoins , de la PDT réalisée avec du Foscan administré par voie intraveineuse , ou un de ses dérivés  .
+Une étude de Major en 2002 a permis de déterminer la dose thérapeutique maximale d' ALA ( 50 mg / kg ) administrée par voie intrapéritonéale ( IP ) chez le rat .
+Dans une dernière étude récente , notre équipe rapporte une efficacité significativement supérieure de la PDT réalisée avec de l' ALA IP ( à la dose de 50 mg / kg ) en lumière verte ( 532 nm ) ainsi_que la spécificité tumorale de la PDT  .
+Si le photodiagnostic dynamique semble intéressant pour la détection de micrométastases péritonéales d' origine ovarienne , peu d' études cliniques ont à ce jour étudié l' efficacité de la PDT en terme d' amélioration de la survie dans le cancer de l' ovaire métastatique  .
+L' étude de phase I de DeLanney en 1993 a permis de déterminer la dose toxique de Photofrin ( 2,5 mg / kg ) dans le traitement de tumeurs intrapéritonéales métastatiques ( n = 54 ) dont une majorité de cancers de l' ovaire ( n = 13 ) .
+Il s' agissait de tumeurs récidivantes ou de reliquats tumoraux témoins d' une exérèse chirurgicale incomplète .
+La PDT était mise en oeuvre chez 39 des patientes , dans un but palliatif .
+La lumière verte était la mieux tolérée malgré deux cas de pleurésie et un cas de perforation gastrique rapportés  .
+Dans une étude de phase II portant sur 42 patientes atteintes de tumeurs intrapéritonéales métastatiques dont 12 cancers ovariens , Hendren et al. observent une survie médiane de 21 mois ( 25 mois pour les cancers ovariens ) après PDT réalisée avec du Photofrin , et une tolérance satisfaisante ( 38 % anémie , 26 % perturbations biologiques hépatiques et 19 % d' effets indésirables gastro-intestinaux )  .
+En association avec la chirurgie qui reste le traitement de référence et la chimiothérapie , la PDT dans les cancers de l' ovaire constitue donc une approche thérapeutique intéressante en cours d' évaluation .
+3.4. Cancer du sein et métastases locorégionales
+La PDT a été utilisée in_vivo dans le cadre de plusieurs essais cliniques .
+Chez sept patientes présentant une récidive cutanée de cancer du sein , Wyss et al. ont montré la disparition complète des lésions cutanées après 11 séances de PDT au Foscan .
+Aucun effet indésirable n' a été observé  .
+Dans l' étude d' Allison en 2001 portant sur neuf patientes présentant des métastases cutanées de cancer du sein dont la taille variait de 0,5 à 9 cm , l' auteur a retrouvé 89 % de rémission complète à six mois après une séance de PDT réalisée avec du Photofrin .
+Avec le même protocole de PDT ( seule la fluence différait ) , Cuenca a observé neuf cas de rémission complète avec une médiane de rémission de six mois ( trois à 17 mois ) , un suivi moyen de huit mois ( six à 33 mois ) chez 14 patientes en situation métastatique avec un résultat esthétique appréciable ( Figs. 10a et b ) .
+Trois patientes ont présenté une récidive cutanée traitée avec succès dans deux cas sur trois par une nouvelle séance de PDT .
+Les effets indésirables ont été modérés ( oedème cutané parfois extensif , érythème et douleur )  .
+Full-size image ( 60K )
+Fig. 10. Paroi thoracique six jours ( a ) et 190 jours ( b ) après photothérapie dynamique  .
+View Within Article
+3.5. Métrorragies fonctionnelles
+Les études expérimentales animales ont montré des résultats prometteurs quant_à l' efficacité de la PDT sur les métrorragies fonctionnelles , avec une destruction et une atrophie prolongées de l' endomètre après application d' ALA chez le rat et le lapin  .
+Les études cliniques peu nombreuses et réalisées avec de petits effectifs ( 16 patientes au total ) ont retrouvé une efficacité de la PDT intra-utérine avec une nécrose sur toute l' épaisseur de l' endomètre dès j3  et une diminution significative de l' intensité des métrorragies évaluée par méthode semiquantitative  .
+Mais l' efficacité du traitement était temporaire ( trois mois en moyenne )  et a nécessité un traitement radical dans quatre cas  .
+Dans les deux études , la PDT était réalisée avec de l' ALA en solution topique et la lumière appliquée à l' aide d' un ballonnet intra-utérin .
+La lumière choisie avait une longueur d' onde de 635 nm à une fluence de 160 J / cm2 .
+Des études cliniques supplémentaires avec des échantillons de plus grande taille sont nécessaires avant d' affirmer l' efficacité de la PDT dans cette indication .
+3.6. Endométriose
+La PDT comme traitement de l' endométriose n' a pas à ce jour et à notre connaissance d' applications cliniques .
+Deux études expérimentales sur des modèles animaux ont été réalisées  .
+Dans un modèle animal de lapin , Manyak et al. ont observé un effet spécifique de la PDT et 60 à 80 % de nécrose de l' endomètre selon la dose de Photofrin à j6 de la PDT  .
+Krzemien et al. ont retrouvé chez le rat une destruction permanente de la totalité des nodules endométriosiques péritonéaux trois semaines après PDT avec de l' ALA utilisé par voie systémique  .
+3.7. Lichen vulvaire
+Dans une étude clinique portant sur 12 patientes atteintes de lichen scléreux vulvaire , Hillemanns et al. ont observé , après application locale d' ALA , une diminution significative du prurit chez dix patientes avec un effet prolongé ( six mois ) et une tolérance excellente .
+Un érythème vulvaire isolé et temporaire ( trois jours ) était observé dans cinq cas  .
+4. Conclusion
+La thérapie photodynamique est un concept thérapeutique ancien qui pourrait constituer une nouvelle approche thérapeutique en gynécologie .
+Ainsi , la PDT pourrait être utilisée dans quelques années comme traitement curatif de première intention des VIN et CIN .
+À ce jour , il n' existe pas suffisamment de données cliniques en faveur d' une utilisation répandue de la PDT .
+Des études cliniques supplémentaires sont donc nécessaires pour définir la place de la PDT parmi les traitements de référence dont nous disposons .
+L' utilisation de la thérapie photodynamique est encore marginale aujourd'hui en gynécologie mais elle bénéficie d' un regain d' intérêt eu égard aux nouveaux précurseurs qui sont à l' étude comme les dérivés hexyl ( Hexvix , Photocure ASA , Norway ) ou méthylés ( Metvix , Photocure ASA , Norway ) de l' ALA .
+Ces derniers pourraient constituer une perspective d' avenir pour l' application clinique en gynécologie mais_aussi dans de nombreuses autres spécialités médicochirurgicales

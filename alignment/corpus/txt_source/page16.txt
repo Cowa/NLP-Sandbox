@@ -1,0 +1,120 @@
+Les métastases osseuses sont des complications fréquentes de nombreuses tumeurs solides ( sein , prostate , thyroïde , rein et bronches ) .
+Elles sont très souvent ostéolytiques ( du fait d' une destruction osseuse importante ) , parfois ostéocondensantes ( du fait d' un excès de formation osseuse ) ou mixtes .
+Nous présentons dans cette revue les mécanismes cellulaires et moléculaires impliqués dans le tropisme osseux et l' « ostéomimétisme » des cellules métastatiques et ceux qui dicteront la nature ostéolytique ou ostéocondensante de la métastase osseuse .
+2. Tropisme osseux et « ostéomimétisme » des cellules métastatiques2.1 .
+Tropisme osseux
+Le tropisme des cellules métastatiques associe des mécanismes de migration et d' invasion cellulaire faisant intervenir différentes molécules ( chémokines , cytokines , protéases , intégrines ) qui permettent l' implantation des cellules dans le tissu osseux .
+Full-size image ( 66K )
+Fig. 1. Mécanismes moléculaires associés au tropisme osseux des cellules tumorales .
+Panneau supérieur : les cellules tumorales métastasent dans différents organes par le biais de la voie sanguine ou / et lymphatique .
+CXCL-12 et RANKL sont deux cytokines produites par le tissu osseux qui stimulent à distance la migration des cellules tumorales vers le tissu osseux en se fixant à leurs récepteurs membranaires respectifs ( CXCR-4 et RANK ) .
+Panneau inférieur : certaines protéines osseuses telles_que l' ostéonectine ( ON ) et la sialoprotéine osseuse ( BSP ) , en se fixant à des récepteurs membranaires spécifiques ( intégrine v3 ) , servent de point d' ancrage aux cellules métastatiques ayant migré dans la moelle osseuse .
+De plus , l' interaction de ces protéines avec v3 permet l' activation de métalloprotéases ( MMP ) produites par les cellules métastatiques , favorisant ainsi le processus d' invasion tumorale .
+View Within Article
+Les chémokines sont des cytokines qui stimulent à distance la migration des cellules vers un site donné .
+La chémokine CXCL-12 est produite en quantité importante dans la moelle osseuse , les poumons et le foie et il a été montré que les cellules métastatiques des cancers du sein et de la prostate qui expriment le récepteur de cette chémokine ( CXCR-4 ) migrent préférentiellement vers ces différents organes du fait des propriétés chimiotactiques de CXCL-12  .
+Par exemple , la neutralisation de CXCR-4 avec un anticorps bloque partiellement la progression de métastases osseuses chez l' animal  .
+D' autres chémokines ( fractalkine , CCL-22 ) interviennent probablement aussi dans la migration des cellules métastatiques vers le tissu osseux  .
+La cytokine receptor activator of NF-B ligand ( RANKL ) est également impliquée dans le tropisme osseux des cellules métastatiques  .
+RANKL est exprimé par les ostéoblastes ; il interagit avec son récepteur RANK qui est exprimé par les précurseurs ostéoclastiques , permettant ainsi la différenciation de ces précurseurs en ostéoclastes matures  .
+Bien que RANKL soit localisé à la surface membranaire des ostéoblastes , il peut être libéré sous une forme soluble par une métalloprotéase produite par les ostéoclastes ( MMP-7 )  et stimuler à distance la migration vers le tissu osseux de différentes lignées cellulaires de cancer du sein , de la prostate et de mélanome qui expriment RANK  .
+Les cellules métastatiques , lorsqu' elles sont arrivées au site osseux , produisent alors des sérine protéases ( urokinase , plasmine , hepsine ) et des métalloprotéases ( MMPs ) qui permettent de dégrader localement la matrice extracellulaire et d' envahir la moelle osseuse  .
+Par exemple , la surexpression d' hepsine dans des lignées cellulaires de cancer de la prostate augmente la formation des métastases osseuses chez les animaux  .
+Par ailleurs , RANKL réprime l' expression de la maspine ( un inhibiteur endogène des sérine protéases ) dans les cellules épithéliales du cancer de la prostate , pouvant ainsi rendre ces cellules plus invasives et plus métastatiques  .
+D' autres facteurs libérés de la matrice osseuse peuvent aussi stimuler ce processus d' invasion tumorale .
+C' est le cas , par_exemple , de deux glycoprotéines de la matrice osseuse ( la sialoprotéine osseuse et l' ostéonectine ) qui , en se fixant à la surface des cellules tumorales par le biais de récepteurs membranaires spécifiques ( intégrines v3 et v5 ) , servent de point d' ancrage pour ces cellules  , stimulent l' activation de la MMP-2 et favorisent donc l' invasion tumorale  .
+De plus , CXCL-12 stimule indirectement l' expression de l' intégrine v3 dans les cellules tumorales  , rendant ainsi ces cellules encore_plus invasives .
+Ces observations  indiquent que différentes molécules impliquées dans le tropisme osseux des cellules métastatiques pourraient faire l' objet d' un ciblage thérapeutique .
+Nous avons montré par_exemple qu' un inhibiteur non peptidique de l' intégrine v3 bloquait l' invasion tumorale in_vitro et le développement de métastases osseuses chez des animaux  .
+L' utilisation d' inhibiteurs des sérine protéases ( maspine ) et des métalloprotéases ( TIMP-2 , batimastat , ilomastat ) ou d' antagonistes du système RANK / RANKL ( ostéoprotégérine [ OPG ] , RANK-Fc ) s' est également avérée efficace pour inhiber expérimentalement la formation des métastases osseuses  .
+D' ailleurs , un anticorps humanisé dirigé contre RANKL ( denosumab ) est en cours d' étude clinique dans le traitement des métastases osseuses associées au myélome multiple et au cancer du sein  .
+Au-delà de son action directe sur l' ostéolyse en bloquant l' activité des ostéoclastes , il est possible que le denosumab puisse également réduire le tropisme osseux des cellules métastatiques qui expriment RANK .
+2.2. « Ostéomimétisme »
+Les analyses transcriptomiques et immunohistochimiques faites sur des métastases osseuses montrent que les cellules métastatiques d' origine mammaire subissent une pression de sélection par l' environnement osseux et s' adaptent à cet environnement en exprimant des gènes qui sont normalement exprimés par les ostéoblastes  .
+Nous avons ainsi identifié une vingtaine de gènes qui sont connus pour réguler l' ostéogenèse ( cadhérine-11 , connexine-43 , ostéonectine , S100A4 , facteurs de transcription Cbfb et Runx2 , etc. )  .
+Des résultats similaires ont été observés avec les cellules tumorales provenant de métastases osseuses du cancer de la prostate : l' analyse immunohistochimique a montré que les cellules métastatiques expriment le récepteur membranaire Notch-1  .
+De plus , l' expression de Notch-1 dans les cellules de carcinome prostatique C4-2B permet leur différenciation en cellules ostéoblastiques ( expression de Runx2 et d' ostéocalcine ) et la formation de nodules de minéralisation  .
+La signification de l' acquisition de ce phénotype ostéoblastique par les cellules métastatiques est encore incertaine .
+Toutefois , l' expression de facteurs ostéoblastiques dans les cellules cancéreuses semble jouer un rôle important car si , par_exemple , l' activité de Runx2 dans les cellules de cancer du sein MDA-MB-231 est bloquée , ces cellules ne développent plus de métastases ostéolytiques chez les animaux  .
+Il est probable que cet « ostéomimétisme » permet aux cellules métastatiques de survivre plus facilement dans l' environnement osseux .
+3. Mécanismes associés au développement des métastases ostéolytiques
+Les cellules tumorales ne dégradent pas directement l' os  .
+Elles sécrètent différents facteurs qui stimulent l' activité des ostéoclastes et inhibent celle des ostéoblastes , conduisant ainsi à la mise en place d' une ostéolyse .
+Full-size image ( 54K )
+Fig. 2. Mécanismes moléculaires impliqués dans le développement d' une métastase ostéolytique associée au cancer du sein .
+Les cellules tumorales présentes dans la moelle osseuse sécrètent différents facteurs solubles qui stimulent l' activité des ostéoclastes [ protéine apparentée à la parathormone ( PTH-rP ) , IL-6 , IL-8 , IL-11 , prostaglandine E2 ( PGE2 ) , CTGF , MG-CSF ] et inhibent la différenciation des ostéoblastes ( DKK-1 , Noggin ) .
+De plus , le LPA libéré lors_de l' activation des plaquettes sanguines par les cellules tumorales exerce une action mitogène et induit la sécrétion par ces cellules tumorales de facteurs pro-ostéolytiques ( IL-6 , IL-8 ) .
+L' activation des ostéoclastes par la PTH-rP se fait indirectement , en stimulant l' expression de RANKL par les ostéoblastes .
+L' interaction de RANKL avec RANK permet alors la différenciation des précurseurs ostéoclastiques en ostéoclastes matures .
+Par ailleurs , différents facteurs de croissance ( IGF , TGF ) ainsi_que du calcium ( Ca2+ ) sont libérés de la matrice osseuse lors_de l' ostéolyse .
+Les IGFs exercent une action mitogène sur les cellules tumorales .
+Le TGF agit sur les cellules tumorales en stimulant , par le biais des voies de signalisation Smad et Cox-2 , la production de PTH-rP , d' interleukines ( IL-8 , IL-11 ) et de PGE2 .
+Le calcium stimule également la sécrétion de PTH-rP par les cellules métastatiques .
+Il en résulte la formation d' un cercle vicieux où les phénomènes de destruction osseuse et de prolifération tumorale s' entretiennent mutuellement .
+View Within Article
+3.1. Stimulateurs de la résorption osseuse
+La protéine apparentée à la parathormone ( PTH-rP ) fut la première molécule à avoir été identifiée comme intervenant dans l' ostéolyse maligne  .
+De par son homologie structurale avec la parathormone ( PTH ) , la PTH-rP agit sur les ostéoblastes par le biais du récepteur de la PTH et stimule l' expression de RANKL  .
+La PTH-rP inhibe également la production d' OPG par les ostéoblastes  .
+Il en résulte une stimulation de l' ostéoclastogenèse et donc de la résorption osseuse .
+La PTH-rP a également une action autocrine en stimulant la production de connective tissue growth factor ( CTGF ) par les cellules de cancer du sein MDA-MB-231  .
+Le CTGF est un facteur qui appartient à la famille des protéines riches en cystéine ( CCN ) ; il stimule in_vitro la migration des cellules MDA-MB-231  et la formation d' ostéoclastes  .
+In vivo , le traitement d' animaux avec un anticorps anti-CTGF bloque le formation de métastases ostéolytiques induite par les cellules MDA-MB-231  .
+Plusieurs autres facteurs , tels_que les interleukines ( IL-6 , IL-8 , IL-11 ) et le granulocyte macrophage-colony stimulating factor ( GM-CSF ) , peuvent être aussi secrétés par les cellules tumorales présentes dans l' environnement osseux et induire une ostéolyse par le biais d' une stimulation de l' activité des ostéoclastes  .
+L' expression de ces facteurs est contrôlée par le facteur de transcription NF-B .
+Or l' inactivation de NF-B dans les cellules de cancer du sein MDA-MB-231 bloque la formation des métastases osseuses chez les animaux  .
+Les cellules de carcinomes mammaires produisent également une autre classe de molécules pro-ostéoclastiques , les prostaglandines et l' inactivation de cyclo-oxygénase contrôlant l' expression des prostaglandines ( COX2 ) dans les cellules MDA-MB-231 bloque la progression des métastases osseuses chez les animaux  .
+D' autres évènements cellulaires peuvent survenir au_cours_de la mise en place de la métastase osseuse qui conduisent à la production de facteurs pro-ostéolytiques par les cellules tumorales .
+Nous avons montré que les cellules tumorales présentes dans l' environnement osseux induisent une sécrétion d' acide lysophophatidique ( LPA ) par les plaquettes sanguines qui , secondairement , exerce une action mitogène sur les cellules tumorales et stimule la production par ces cellules des facteurs pro-ostéolytiques IL-6 et IL-8  .
+3.2. Inhibiteurs de la formation osseuse
+L' inhibition de l' activité des ostéoblastes est liée à la production par les cellules tumorales d' une protéine soluble , Dickkopf-1 ( DKK-1 ) qui bloque l' action des protéines de la famille Wnt sur les ostéoblastes  .
+La protéine DKK-1 a été initialement découverte comme étant secrétée par les plasmocytes tumoraux chez des patients ayant un myélome multiple  .
+DKK-1 est également exprimé dans la_plupart des adénocarcinomes mammaires hormono-indépendants ainsi_que dans une lignée humaine hormono-indépendante de cancer du sein ( MDA-MB-231 ) qui induit des lésions ostéolytiques chez les animaux  .
+Une étude immunohistochimique réalisée sur des adénocarcinomes de la prostate montre que DKK-1 n' est pas exprimé dans les tumeurs primitives ni dans les métastases osseuses ostéocondensantes ou mixtes  .
+En revanche , DKK-1 est détecté dans les cellules métastatiques lorsque la métastase est de nature ostéolytique  .
+Les cellules de la lignée humaine de cancer de la prostate PC-3 , qui induisent des lésions ostéolytiques chez les animaux , produisent également DKK-1  .
+Dans ce contexte , il est intéressant de relever que les cellules PC-3 sont hormono-indépendantes , laissant penser qu' il pourrait exister un lien entre échappement hormonal et production de DKK-1 par les cellules métastatiques .
+D' ailleurs , les lignées tumorales d' origine prostatique ( LNCaP , MDA Pca 2b ) ou mammaire ( ZR-75-1 , T47D ) qui sont hormonodépendantes n' expriment pas DKK-1  .
+Les cellules tumorales ( sein , prostate ) capables d' induire des lésions ostéolytiques chez les animaux produisent non_seulement DKK-1 , mais également un facteur soluble , Noggin , qui interfère avec la fixation des bone morphogenetic proteins ( BMPs ) à leurs récepteurs présents à la surface des ostéoblastes  .
+Les cellules métastatiques peuvent donc inhiber la différentiation des ostéoblastes en agissant simultanément sur deux voies de signalisation distinctes dépendantes des Wnts et BMPs .
+3.3. Contribution du tissu osseux dans l' ostéolyse
+Le tissu osseux est un réservoir important du facteur de croissance transforming growth factor- ( TGF ) .
+Le TGF , lorsqu' il est libéré de la matrice osseuse , agit sur les cellules métastatiques présentes dans la cavité médullaire pour stimuler , au travers des voies de signalisation dépendantes des protéines Smads et de COX2 , la production par les cellules métastatiques de facteurs pro-ostéolytiques ( PTH-rP , IL-8 , IL-11 , prostaglandine E2 )  .
+Le calcium est un autre facteur local qui , une fois libéré de la matrice osseuse , stimule la sécrétion de PTH-rP par les cellules de cancer du sein MDA-MB-231  .
+Par ailleurs , le tissu osseux contribue probablement directement à la croissance tumorale en libérant lors_de l' ostéolyse des facteurs de croissance tels_que les insulin-like growth factors ( IGFs )  .
+4. Mécanismes associés au développement des métastases ostéocondensantes
+À l' inverse de ce qui a été observé dans l' ostéolyse maligne , les cellules tumorales ( essentiellement d' origine prostatique ) peuvent au_contraire secréter différents facteurs qui inhibent l' activité des ostéoclastes et stimulent celle des ostéoblastes , conduisant ainsi à une ostéocondensation des métastases .
+Full-size image ( 52K )
+Fig. 3. Mécanismes moléculaires impliqués dans le développement d' une métastase ostéocondensante associée au cancer de la prostate .
+Les cellules tumorales présentes dans la moelle osseuse sécrètent différents facteurs solubles qui stimulent l' activité des ostéoblastes [ ET-1 , VEGF , BMP-6 , Wnt , ] et inhibent la différenciation et l' activité des ostéoclastes ( ET-1 ) .
+De plus , le prostate-specific antigen ( PSA ) libéré par les cellules tumorales clive la PTH-rP et permet la génération d' un fragment protéolytique [ PTH-rP ( 1 - 23 ) ] qui est mitogène pour les ostéoblastes .
+Les taux d' OPG sont également élevés dans les ostéoblastes ; l' OPG en se fixant à RANKL bloque l' interaction RANK / RANKL et donc l' ostéoclastogenèse .
+Par ailleurs , différents facteurs de croissance ( BMP , IGF ) ainsi_que du calcium ( Ca2+ ) sont libérés de la matrice osseuse .
+Les IGFs et les BMPs exercent une action mitogène sur les cellules tumorales .
+Le calcium stimule également la prolifération des cellules métastatiques .
+View Within Article
+4.1. Stimulateurs de la formation osseuse
+L' endothéline-1 est un puissant facteur mitogène pour les ostéoblastes  .
+Les lignées humaines de cancer du sein ( ZR-75-1 , MCF-7 , T47D ) qui produisent de l' endothéline-1 , induisent des lésions ostéoblastiques chez les animaux et le traitement de ces animaux avec un antagoniste du récepteur A de l' endothéline bloque la formation des métastases ostéocondensantes  .
+Ce facteur intervient également dans les métastases ostéocondensantes du cancer de la prostate , car les taux circulants d' endothéline-1 chez ces patients métastatiques sont très élevés par_rapport_à des patients ayant un cancer de la prostate localisé  .
+Par ailleurs , le traitement d' animaux avec un antagoniste du récepteur A de l' endothéline inhibe la formation de métastases ostéocondensantes induite par les cellules de carcinome prostatique C4-2B lorsque cet antagoniste est combiné à un taxane  .
+D' autres facteurs pro-ostéoblastiques ont été également identifiés comme participant au processus d' ostéocondensation des métastases osseuses .
+Par exemple , les cellules C4-2B produisent du vascular endothelial growth factor ( VEGF ) qui stimule in_vitro la différenciation des ostéoblastes , car ces cellules expriment ( contrairement aux cellules C4-2B ) les récepteurs membranaires du VEGF , Flt1 et KDR  .
+Or le traitement d' animaux avec un inhibiteur du récepteur Flt1 ( PTK787 ) bloque la formation des métastases ostéocondensantes induite par les cellules C4-2B  .
+De la même manière , le traitement d' animaux avec un anticorps dirigé contre la BMP-6 ( facteur de croissance initialement découvert pour sa capacité à stimuler la formation osseuse ) diminue la formation des métastases ostéoblastiques induite par les cellules du carcinome prostatique LuCaP 23.1  .
+Les facteurs pro-ostéoblastiques BMP-2 , adrénomédulline , Wnt7b , et PDGF sont d' autres acteurs associés à l' ostéocondensation des métastases osseuses  .
+Par ailleurs , le prostate-specific antigen ( PSA ) pourrait , en_tant_que sérine protéase , contribuer indirectement à l' établissement d' une métastase ostéocondensante en clivant la PTH-rP  .
+Il est en_effet reconnu que les tumeurs et les lignées cancéreuses d' origine prostatique produisent de la PTH-rP alors même que ces cellules induisent des métastases ostéocondensantes  .
+Le clivage de la PTH-rP par le PSA permet non_seulement de neutraliser l' activité pro-ostéoclastique de la PTH-rP , mais également de générer un fragment protéolytique [ PTH-rP ( 1 - 23 ) ] se comportant comme un puissant stimulateur de la formation osseuse  .
+4.2. Inhibiteurs de la résorption osseuse
+Au-delà du fait que l' endothéline-1 soit un facteur mitogène pour les ostéoblastes  , c' est également un inhibiteur de l' activité des ostéoclastes  .
+De ce fait , l' endothéline-1 secrétée par les cellules tumorales pourrait jouer un rôle primordial dans la formation des métastases ostéocondensantes .
+4.3. Contribution du tissu osseux dans l' ostéocondensation
+Les patients ayant un cancer de la prostate métastatique ont des taux circulants d' OPG élevés  .
+Cela suggère que localement les ostéoblastes sécrètent de l' OPG qui , en inhibant l' ostéoclastogenèse , favorise l' ostéocondensation de la métastase .
+Par ailleurs , les facteurs de croissance ( IGFs et BMPs ) libérés de la matrice osseuse exercent une action mitogène sur les cellules tumorales  .
+De plus , différentes lignées humaines de carcinome prostatique ( PC-3 , C4-2B ) expriment un récepteur membranaire pour le calcium ( CaSR ) et le calcium extracellulaire exerce aussi une action mitogène sur les cellules tumorales  .
+5. Conclusion
+Les travaux de recherche préclinique actuels permettent désormais de mieux comprendre les raisons pour lesquelles certains cancers sont dits « ostéophiles » et induisent des métastases ostéolytiques ou ostéocondensantes .
+Ils montrent également l' importance du rôle joué par l' os dans l' adaptation des cellules métastatiques à l' environnement osseux ( véritable ostéomimétisme ) et la croissance des tumeurs .
+L' identification de certains des mécanismes moléculaires impliqués dans la formation des métastases osseuses débouchera sans aucun doute sur de nouvelles approches thérapeutiques

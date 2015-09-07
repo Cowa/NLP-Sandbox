@@ -1,0 +1,233 @@
+Neoadjuvant chemotherapy is an important tool for the treatment of breast cancer patients with locally advanced disease .
+However , up to 50% of women who receive preoperative cytotoxic therapy do not respond to the treatment ( [ Ellis et al. , 1998a ] and [ Ellis et al. , 1998b ] ) .
+Then , we need to identify those patients that will not respond to certain chemotherapies to offer them other treatment strategies .
+In spite of the different mechanisms of action , most cytotoxic drugs used in the clinic induce apoptosis and among the molecular mechanisms involved in chemoresistance are the alterations in critical pathways of the apoptosis cascade initiated by the cytotoxic drugs .
+There are two principal pathways leading to apoptosis , one begins in the plasma membrane with the presence of cell-surface death receptors and the other begins in the mitochondria .
+The mitochondrial pathway is regulated by members of the Bcl-2 protein family ; some of them function as promoters ( e.g. , Bax ) and others as inhibitors ( e.g. , Bcl-2 ) .
+The members of the Bcl-2 protein family interact forming homo- and heterodimers ; the ratio of antiapoptotic:proapoptotic proteins , rather than either alone ( for example , Bcl-2:Bax instead of Bcl-2 alone ) dictates the ultimate sensitivity or resistance of tumor cells to apoptosis .
+The bcl-2 gene encodes two Bcl-2 protein isoforms , and ; is the commonly detected isoform with a molecular weight of 26 kDa whereas protein , with a molecular weight of 21 kDa , is rarely detected  .
+Bcl-2 protein is localized in the inner surface of the plasma membrane , the outer and inner mitochondrial membranes , the endoplasmic reticulum and the nuclear membrane .
+In breast cancer , the expression of Bcl-2 has been associated with the presence of markers of differentiation and with a longer survival in node-negative or node-positive patients ( [ Daidone et al. , 1999a ] and [ Daidone et al. , 1999b ] ) .
+Since Bcl-2 has a positive correlation with estrogen receptor alpha ( ER ) status , it raised the possibility that bcl-2 is an ER-regulated gene  .
+In fact , it has been found that Bcl-2 expression is a marker of tamoxifen sensitivity in breast cancer patients ( [ Elledge et al. , 1997 ] and [ Ciocca and Elledge , 2000 ] ) .
+It has been widely demonstrated that Bcl-2 can prevent the apoptosis induced by chemotherapeutic drugs ( including doxorubicin ) in cancer cell lines  .
+However , in breast cancer patients the role of Bcl-2 as a predictive marker of resistance / sensitivity to chemotherapy is still controversial and there are no reports evaluating Bcl-2 as prognostic marker in neoadjuvant therapy .
+A prognostic factor is a measurement that is associated with clinical outcome in the absence of therapy or with the application of a standard therapy that all patients are likely to receive .
+A predictive factor is a measurement that is associated with benefit or lack of benefit from a particular therapy .
+In some studies with adjuvant therapy , high Bcl-2 expression has been found to be related to a good response to chemotherapy  , whereas other authors have found a Bcl-2 association with resistance to chemotherapy  .
+In studies with neoadjuvant chemotherapy , some authors did not find any correlation of Bcl-2 with the response to the treatment ( [ Daidone et al. , 1999a ] , [ Daidone et al. , 1999b ] and [ Bottini et al. , 2000 ] ) while others observed that the absence of Bcl-2 in the tumor before chemotherapy correlated with a better pathological response  .
+Bax ( Bcl-2-associated protein X ) is the archetypal proapoptotic protein of the Bcl-2 family .
+Bax gene can produce different proteins through mRNA alternative splicing mechanisms including , , , and isoforms  .
+Bax is the commonly detected isoform with a molecular weight of 21 kDa , it moves from cytoplasm to mitochondria following an apoptotic stimulus and forms heterodimeric complexes with Bcl-2 .
+In metastatic breast cancer patients , reduced Bax expression has been associated with shorter survival  .
+The tumor suppressor gene p53 is involved in the regulation of apoptosis .
+The wild-type ( WT ) p53 is a check-point protein that induces cell cycle arrest and apoptosis .
+WT p53 transcriptionally down-regulates the expression of the bcl-2 gene and activates the expression of the bax gene  .
+In human breast carcinomas , an inverse correlation between p53 immunostaining , a surrogate end-marker of mutant p53 protein as described elsewhere  and Bcl-2 expression has been reported ( [ Silvestrini et al. , 1994 ] and [ Krajewski et al. , 1997 ] ) .
+In order to advance our knowledge on the usefulness of evaluating the expression levels of Bcl-2 in breast cancer patients , we conducted this study to correlate the expression of this protein with clinical and pathological response to chemotherapy and with the survival of the patients .
+2. Results2.1 .
+Effect of neoadjuvant chemotherapy on Bcl-2 expression .
+This part of the study ( that was not our principal goal ) was performed in 20 matched samples from FAC / FEC group ( 5 fluorouracil , adriamycin or epirubicin , and cyclophosphamide ) and 40 matched samples from D / E group ( doxorubicin or epirubicin ) ; in the other samples we did not have enough pre-chemotherapy material because the biopsies were obtained by fine-needle ( n = 18 ) or the core biopsies ( n = 32 ) were destined to other analyses .
+Bcl-2 staining was confined to the cytoplasm of tumor cells .
+In all sections of tumor samples we observed areas with infiltrating lymphocytes which we used as an internal positive control because these cells express Bcl-2 in their cytoplasm .
+In the FAC / FEC group , Bcl-2 was markedly positive ( 33% of stained cells ) in 40% ( 8 / 20 ) of the tumors removed before chemotherapy ; after chemotherapy the protein remained unchanged in 10 cases ( 50% ) , decreased in 5 cases ( 25% ) , increased in 3 cases ( 15% ) , and it was negative in 2 cases ( 10% ) .
+A high apoptotic index ( AI ) was more frequently found among the cases with low Bcl-2 expression compared to the cases with high Bcl-2 content , but this inverse correlation was not statistically significant .
+The mean AI evaluated with hematoxylin and eosin ( HE ) was 2.47% ( range 0.22 - 7.43% ) and 2.76% ( range 0.22 - 6.25% ) before and after chemotherapy , respectively .
+Similar mean values were obtained with the TUNEL , 2.45% ( range 0.20 - 10.95% ) and 3.04% ( range 0 - 17.28% ) in pre and post-chemotherapy biopsies , respectively .
+Four patients ( 19% ) showed a 50% increase in the AI evaluated by HE following chemotherapy , whereas in 4 cases ( 19% ) the AI value decreased , and there were no changes in 13 cases ( 62% ) .
+Eight patients ( 45% ) showed a 50% increase in the AI evaluated by TUNEL following chemotherapy , whereas in 4 cases ( 22% ) the value decreased , and the values remained unchanged in 6 cases ( 23% ) .
+We found a trend for a correlation between AI-HE and AI-TUNEL in post-chemotherapy samples ( Spearman 's rank correlation coefficient , r = 0.36 , P = 0.03 ) .
+Full-size image ( 112K )
+Figure 1. A , Bcl-2 immunoreactivity in the cytoplasm of tumor cells .
+B , Negative Bcl-2 expression in tumor cells , and Bcl-2 expression in the cytoplasm of some infiltrating lymphocytes .
+C , Bax immunoreactivity in the cytoplasm of tumor cells .
+D , Bax immunoreactivity in the nucleus of tumor cells .
+The immunostaining was repeated three times obtaining the same results .
+Scale bar : A , C and D , 11 m , B , 30 m .
+View Within Article .
+In D / E group Bcl-2 was markedly positive ( 33% of stained cells ) in 20% ( 8 / 40 ) of the tumors removed before chemotherapy ; after chemotherapy the protein remained unchanged in 6 cases ( 75% ) , decreased in 2 cases ( 25% ) , and it was induced in 6 of the 40 matched samples ( 15% ) .
+In order to know if the antibody against Bcl-2 might also reveal the presence of Bcl-2 fragments generated during apoptosis ( which are pro-apoptotic molecules ) we decided to perform a Western blot study .
+We corroborated the specific reaction against Bcl-2 ( the only band was that of 26 kDa ) ; and when the time of exposition with the chemiluminescence reagents was increased from 2 s to 2 min , and to 10 min , two other greater molecular weight bands ( but no smaller band ) were observed .
+Full-size image ( 13K )
+Figure 2. Western blot analysis to test the specificity of the anti-Bcl-2 antibody used in our study .
+The time of exposition with the chemiluminescence reagents was increased from 2 sec ( Lane a ) to 2 min ( Lane b ) , and to 10 min ( Lane c ) .
+Note the specific reaction against Bcl-2 ( the only band was that of 26 kDa ) and the presence of two other greater molecular weight bands ( but no smaller band ) in Lanes b and c .
+The molecular weight was calculated using a Rainbow coloured protein molecular weight markers kit ( Amersham Life Science , England ) .
+View Within Article .
+We could study Bax expression in 17 matched samples from FAC / FEC group ; the protein was present in the cytoplasm of 82% ( 14 / 17 ) of the tumors removed before chemotherapy ; the protein remained unchanged after treatment in 6 cases ( 43% ) , whereas it decreased in 4 cases ( 29% ) and it increased in 3 cases ( 21% ) .
+In one case ( 7% ) Bax expression disappeared after chemotherapy .
+It is important to mention that in 40% of cases ( 16 / 40 ) Bax was present in the nucleus of tumor cells before and / or after chemotherapy .
+The intensity of nuclear Bax expression was weak or moderate and did not change significantly after drug administration .
+Since WT p53 tends to activate Bax  , we explored the correlation between Bax and p53 expression .
+We observed that mutated p53 correlated with lower Bax content in the pre-chemotherapy biopsies only ( Spearman 's rank correlation coefficient r = 0.67 , P = 0.003 ) .
+2.2. Relationship between Bcl-2 and tumor response2.2.1 .
+Clinical response of the tumors .
+Patients treated with FAC / FEC presented , at the end of the neoadjuvant chemotherapy , a clinical response of the tumors that was evaluated as partial response ( PR ) in 21 patients ( 52.5% ) while the other 19 patients ( 47.5% ) presented stable disease ( SD ) .
+The expression of Bcl-2 , Bax and p53 evaluated before chemotherapy did not correlate with the clinical response of the tumor .
+Table 1. .
+Correlation of molecular markers before chemotherapy with clinical response .
+FAC/FECD / EP value Responders ( PRa ) Non-responders ( SDb ) Responders ( PR + CRc ) Non-responders ( SDb ) nn Bcl-2+ 33%3428NSd 33%481318 Bax 10%66NEeNENS 10%04 p53 33%25NENENS 33%96 ER + / +d ( 3 - 7 ) f66NENENS ( 0 - 2 ) f36 PgR + / +d ( 3 - 7 ) f23NENENS ( 0 - 2 ) f79 .
+Full-size table .
+a PR , partial response .
+b SD , stable disease .
+c CR , complete response .
+d NS , not significant .
+e NE , not evaluated .
+f Total score .
+View Within Article .
+In the D / E group , 21 patients ( 30% ) attained PR while 47 patients ( 67% ) presented SD .
+Only 2 patients ( 3% ) from the D / E group showed complete response ( CR ) .
+The expression of Bcl-2 evaluated before chemotherapy did not correlate with the clinical response of the tumor .
+In our study , the statistical analysis showed that the clinical response of the tumors did not correlate with the survival of the patients ( Fisher exact test , P = no significant ) .
+2.2.2. Pathological response .
+In the FAC / FEC group , all specimens had macroscopic residual disease ( MaR ) .
+In the D / E group , Bcl-2 was absent in 80% of specimens with pathological complete response ( 4 / 5 ) and 75% of specimens with MaR ( 24 / 32 ) .
+2.3. Relationship between Bcl-2 expression and clinical outcome .
+In the FAC / FEC group , none of the markers studied in the biopsies before chemotherapy ( n = 23 ) correlated with disease free survival ( DFS ) or overall survival ( OS ) .
+However , in the post-neoadjuvant biopsies ( n = 40 ) , Bcl-2 expression was significantly associated with longer DFS and OS ( P = 0.008 and P = 0.001 , respectively ) .
+A ratio Bcl-2:Bax in favor of Bcl-2 was associated with longer DFS but not with OS ( P = 0.02 and P = 0.3 , respectively ) .
+ER expression after chemotherapy showed a tendency to correlate with longer DFS ( P = 0.052 ) but not with OS ( P = 0.08 ) .
+Neither AI nor p53 expression in the surgical specimens correlated with the survival of the patients .
+Full-size image ( 42K )
+Figure 3. Disease free survival ( DFS ) and Overall survival ( OS ) curves according to Bcl-2 and ER expression in post-chemotherapy biopsies from FAC / FEC group ( n = 40 ) .
+Analyses of DFS and OS were performed by the Kaplan - Meier method .
+The difference between curves was evaluated with the log-rank test for censored survival or event observations .
+View Within Article .
+In D / E group , Bcl-2 expression in the biopsies before chemotherapy ( n = 41 ) did not correlate with DFS or OS .
+In the post-neoadjuvant biopsies ( n = 66 ) Bcl-2 expression was significantly associated with longer DFS ( P = 0.03 ) and showed a tendency to correlate with longer OS ( P = 0.054 ) .
+ER expression after chemotherapy was associated with longer DFS ( P = 0.004 ) and OS ( P = 0.04 ) .
+Full-size image ( 42K )
+Figure 4. Disease free survival ( DFS ) and Overall survival ( OS ) curves according to Bcl-2 and ER expression in post-chemotherapy biopsies from D / E group ( n = 66 ) .
+Analyses of DFS and OS were performed by the Kaplan - Meier method .
+The difference between curves was evaluated with the log-rank test for censored survival or event observations .
+View Within Article .
+It is interesting to note that patients from D / E group had better DFS and OS than patients from FAC / FEC group ( Cox model , P = 0.000 and P = 0.001 , respectively ) .
+However , the interaction between the two treatment regimens and Bcl-2 status was not statistically significant , then Bcl-2 did not have predictive significance in our study .
+3. Discussion .
+Previous researchers have explored the value of Bcl-2 protein as predictive or prognostic factor to adjuvant treatment in breast cancer ( [ Gasparini et al. , 1995 ] , [ Bonetti et al. , 1998 ] , [ Sjstrm et al. , 2002 ] and [ Lee et al. , 2007 ] ) .
+However , there are few analyses in a homogeneous group of patients treated with neoadjuvant chemotherapy  .
+In our study , we did not find statistically significant changes in the AI and in the expression of Bcl-2 , Bax , and p53 after chemotherapy when the complete FAC / FEC group was analyzed ( differences in individual patients were noted ) .
+In a group of the surgical specimens ( following chemotherapy ) , Ellis et al. have reported that the AI was reduced , and the Bcl-2 expression showed a significant increase ( [ Ellis et al. , 1998a ] and [ Ellis et al. , 1998b ] ) .
+The discrepancy with our results may be explained by the fact that the combination of cytotoxic drugs ( cisplatin , epirubicin and 5 fluorouracil ) , doses and schedule of administration to the patients were different .
+Parton et al. have reported that the AI and Bax rise 24 h following chemoendocrine therapy , but they did not study what happened in the surgical specimens  .
+It is interesting to note that we observed nuclear expression of Bax in some of the breast cancer samples ; this unusual localization has previously been observed in cultured cells including human breast cancer cells ( [ Nishita et al. , 1998 ] , [ Wang et al. , 1999 ] and [ Hoetelmans et al. , 2000 ] ) .
+It has been shown that in some circumstances Bax translocates into the nucleus ( e.g. , after hyperthermia ) and it may be involved in the transmigration of other proteins .
+In our study , nuclear expression of Bax did not correlate with the clinical response of the tumor or with the outcome of the patients .
+Further studies will be necessary to elucidate the role of Bax in the nuclear compartment of breast tumor cells before and after drug administration .
+We did not find any correlation between Bcl-2 expression and the clinical and pathological response , which is consistent with previous reports  .
+It is important to mention that Pusztai et al. found that the absence of Bcl-2 expression in pre-chemotherapy specimens was associated with more frequent complete pathological response  .
+Despite these considerations , we should remember here that in our study the clinical response of the tumors was not a good parameter to predict the survival of the patients .
+In the present study , high Bcl-2 expression at time of surgery correlated with better DFS and OS in FAC / FEC and D / E group .
+It is not clear why Bcl-2 represents a molecular marker for better prognosis in breast cancer patients treated with neoadjuvant chemotherapy .
+At this point , some considerations should be taken into account : 1 ) the determination of Bcl-2 status alone is not sufficient for assessing the competency of this protein in the apoptosis pathway because it forms heterodimers with other Bcl-2 family members .
+We studied the Bcl-2:Bax ratio in the FAC / FEC group and we observed that a Bcl-2:Bax ratio 1 also correlated with better DFS .
+Therefore , we believe that it would be necessary to determine the expression of all the other members of Bcl-2 family that interact with Bcl-2 , to know the real implications of this protein in the apoptotic pathways induced by chemotherapy .
+2 ) After the induction of apoptosis , the activated caspases cleave Bcl-2 at Asp34 and transform the Bcl-2 protein to an inducer of cell death  .
+We performed a Western blot to know if in our biopsies we were recognizing the whole Bcl-2 molecule and the proapoptotic fragment , we corroborated that the antibody used recognizes only the whole molecule .
+3 ) The level of expression of Bcl-2 is crucial to determine its role on apoptosis as described by Shinoura_et_al.  .
+These authors performed cell transfection studies showing that a high expression of Bcl-2 was proapoptotic while a relatively lower Bcl-2 expression was antiapoptotic discussing the molecular mechanisms for these paradoxical effects .
+If this is true , then the tumor cells with high Bcl-2 expression that escaped the primary tumor may be more sensitive to chemotherapy explaining the better DFS / OS .
+However , we should remember that the remaining cells in the tumors after neoadjuvant chemotherapy are mainly those that became resistant to the drug ( alternatively , it is also possible that these cells were not reached by the drug ) and that if these cells are not completely removed ( by surgery , chemotherapy and radiation therapy ) they will be the responsible of treatment failure at local level ( local recurrence ) and perhaps they will be the source for metastasis .
+We have examined the primary tumors but we do not know what is happening with the cells that already escaped from the primary tumors .
+We hypothesize that the breast tumor cells overexpressing Bcl-2 became more resistant to chemotherapy ( at least this is what we see in the surgical specimens obtained after induction chemotherapy ) , but they have a less aggressive behavior ( they are less able to produce metastasis ) , and for this reason primary tumors containing Bcl-2 overexpression are related to a better survival .
+This explanation is consistent with the results obtained by Neri et al. ; which may indicate that the expression of Bcl-2 is a marker of breast cancer with reduced capability of distant colonization even in presence of lymphovascular invasion  .
+In other words , we are supporting the conclusion of Bonetti et al. that Bcl-2 positive tumors had lower response to chemotherapy but better survival  .
+One explanation may be the anti-proliferative activity of Bcl-2  .
+Deng et al. have shown that Bcl-2 may negatively regulates G1 / S transition by a mechanism involving the increased expression of antioxidant enzymes ( superoxide dismutase and catalase ) , which in turn reduces intracellular reactive oxigen species levels and this is dependent of phosphorylation status of Bcl-2  .
+Then , we examine the cell proliferation in Bcl-2 positive tumors to know whether a tumor overexpressing Bcl-2 protein had lower proliferation .
+We compared PCNA ( Proliferating Cell Nuclear Antigen ) expression with Bcl-2 expression but we did not observe any significant correlation ( data not shown ) .
+4 ) Finally , the better survival of patients with positive Bcl-2 tumors may be explained by the correlation with ER content in D / E group ( all of the patients whose tumors had ER received hormone therapy after chemotherapy ) .
+This explanation is not sufficient to explain the best survival of patients with Bcl-2 positive tumors in FAC / FEC , because ER status did not correlate with Bcl-2 expression , and ER was only marginally useful to predict disease-free interval and it was not useful to predict overall survival .
+We found that a high Bcl-2 expression had no predictive value but had a prognostic value in breast cancer patients treated with doxorubicin / epirubicin neoadjuvant chemotherapy .
+Further studies will be necessary to elucidate why Bcl-2 protein is an important prognostic marker in breast cancer patients .
+4. Experimental procedures4.1 .
+Patients .
+One hundred and ten patients bearing T2 - 4N0 - 1M0 primary breast cancer ( stage II or III ) were enrolled into the study .
+Patients were required to have histological proof of invasive carcinoma , to be at least 18 years of age , have a performance status of 90% by the Karnofsky scale , have a serum billirubin level 0.5 mg / dl , serum creatinine level 1.5 mg / dl and have a normal cardiac function .
+The patients were assessed to be metastasis free at the time of diagnosis by careful clinical evaluation , by X-ray of the chest , bone scintigraphy and liver ultrasound .
+None of the patients had previously received any treatment for the disease .
+The main clinical and pathological characteristics of the patients are shown in Table 2. This research protocol was approved by the Ethic Committee of the Lagomaggiore Hospital of Mendoza .
+Written informed consent was obtained from each subject .
+Initial diagnosis was made by fine-needle aspiration ( 18 cases ) , core biopsy ( 70 cases ) , or incision biopsy ( 22 cases ) .
+Table 2. .
+- Main clinical and pathological characteristics of the patients studied .
+CharacteristicFAC / FEC numberD/E number Age ( years ) Range30 - 7129 - 71 Mean4852 Clinical stage at presentation II12 ( 30% ) 30 ( 43% ) III28 ( 70% ) 40 ( 57% ) Tumor size 2 cm 5 cm10 ( 25% ) 19 ( 27% ) 5 cm30 ( 75% ) 51 ( 73% ) Histological type Infiltrating ductal35 ( 87.5% ) 61 ( 87% ) Infiltrating lobular4 ( 10% ) 3 ( 4% ) Infiltrating medullary1 ( 2.5% ) 1 ( 1.5% ) Mucinous - 1 ( 1.5% ) Canalicular - 1 ( 1.5% ) Sarcoma - 1 ( 1.5% ) Poor differentiating - 2 ( 3% ) Clinical responsea SD19 ( 47.5% ) 47 ( 67% ) PR21 ( 52.5% ) 21 ( 30% ) CR02 ( 3% ) Pathological responseb CR - 5 ( 7% ) MiR - 9 ( 13% ) MaR40 ( 100% ) 56 ( 80% )
+Full-size table .
+a SD , stable disease ; PR , partial response ; CR , complete response .
+b CR , complete response ; MiR , microscopic residual disease ; MaR , macroscopic residual disease .
+View Within Article .
+4.2. Neoadjuvant chemotherapy .
+The first consecutive 40 patients received anthracycline-based combination therapy ( FAC or FEC : 5 fluorouracil 600 mg / m2 , adriamycin or epirubicin 60 mg / m2 , cyclophosphamide 600 mg / m2 ) during 3 or 4 cycles before surgery ; in 6 cases to maximally reduce the tumor bulk , the patient received more cycles , and in 2 other cases , only 2 cycles were administered because of high toxicity .
+Initial diagnosis was made by fine-needle aspiration ( 18 cases ) or incision biopsy ( 22 cases ) .
+After surgery patients received 3 or 4 additional cycles of FAC / FEC .
+The next 70 patients received monochemotherapy consisting of doxorubicin ( D ) 75 mg / m2 or epirubicin ( E ) 120 mg / m2 for 4 cycles before surgery .
+Initial diagnosis was made by core biopsy .
+After surgery these patients received 6 cycles of cyclophosphamide , methotrexate , and 5 fluorouracil ( CMF ) .
+Surgical excision of the tumor was performed in all patients ; even if they presented clinical complete response ( in this case the area of the tumor was excised ) .
+Adjuvant hormonotherapy was administered to the patients after chemotherapy according to the medical doctor judgment evaluating ER and progesterone receptors .
+The clinical response was assessed by measurement of the changes in the product of the two largest diameters recorded at baseline , and at the end of chemotherapy ( before surgery ) .
+Tumor progression ( TP ) was defined as an increase of at least 25% of tumor size , stable disease ( SD ) as a tumor size increase less than 25% or reduction less than or equal to 50% , partial response ( PR ) as tumor shrinkage greater than 50% , and complete response ( CR ) as a total disappearance of all clinical signs of the disease .
+Lumpectomy or mastectomy was performed approximately 3 weeks after the last cycle of neoadjuvant chemotherapy ; post-operatively , the patients resumed chemotherapy ( 3 , 4 or 6 more cycles ) .
+Consolidative radiation therapy was applied in some cases ( 40 - 50 Gy to the chest wall and 50 Gy to the lymph nodes ) .
+Table 2 shows the main characteristics of the patients studied .
+The specimens from surgery were carefully evaluated for the presence of residual disease by the pathologist .
+Pathological complete response ( pCR ) was defined as the absence of invasive carcinoma in the breast , microscopic residual disease ( MiR ) was defined as 1 mm of invasive carcinoma , and macroscopic residual disease ( MaR ) was defined as 1 mm or multiple foci of invasive carcinoma throughout the specimen .
+4.3. Follow-up .
+The follow-up was periodically performed clinically and by the diagnostic tools mentioned above ( X-rays , etc. ) .
+The median time of follow-up ( defined as time to death or to the last follow-up visit ) was 45 months ( 8 - 105 months ) for FAC / FEC group and 41 months ( 6 - 102 months ) for D / E group .
+DFS was calculated as the period from diagnosis until the date of the first distant recurrence or the last follow-up .
+OS was calculated as the period from diagnosis until the date of death .
+4.4. Histopathology .
+Pre- and post-chemotherapy samples were immediately fixed in 10% buffered formalin and embedded in paraffin .
+Serial 5 m-thick sections were mounted onto 3 aminopropyltrietoxysilane ( Sigma , St. Louis , MO ) -coated slides for subsequent analysis .
+Apoptotic figures were identified in the histological sections stained with hematoxylin and eosin ( HE ) using established morphological criteria  .
+Part of some tumor samples were stored at 70 C until Western blot analysis was performed .
+4.5. Apoptosis assay ( TUNEL )
+Apoptosis detection was performed by an improved TUNEL technique  .
+Briefly , tissue sections were pretreated with proteinase K ( Promega , Madison , WI ) ( 20 g / ml in phosphate buffer saline , pH 7.4 ) for 15 min at room temperature , followed by microwave irradiation in 0.01 M citrate buffer , pH 3. Endogenous peroxidase was blocked incubating the sections in sodium azide ( Riedel-de Haen , Hoechst , Argentina ) [ 0.1% in automation buffer ( 80 mM Tris - HCl , 20 mM Tris ( hydroxymethyl ) -aminomethane and 0.075% BRIJ 35 ( v / v ) , pH 7.5 ) , adding 3% v / v H2O2 ] for 30 min at room temperature .
+Bovine serum albumin ( 10% in dH20 ) was used to block non-specific staining ( 30 min at room temperature ) .
+The ApopTag Plus peroxidase in situ apoptosis kit ( Intergen , NY ) was used ( reaction buffer , TdT , equilibration buffer , and the stop-wash buffer ) .
+Sections were incubated with biotin-conjugated mouse monoclonal antibody ( MAb ) against digoxigenin ( Sigma ) ( diluted 1:1500 in PBS , pH 7.4 ) , overnight at 4 C in humidified chamber .
+Then , they were incubated with biotinylated rabbit anti mouse IgG ( Dako , Carpinteria , CA ) ( diluted 1:100 in PBS for 45 min at room temperature ) .
+Finally , sections were incubated with peroxidase-labeled streptavidin ( StrepABComplex , Dako ) ( diluted 1:100 for 45 min at room temperature ) .
+Diaminobenzidine ( 0.5 mg / ml ) /hydrogen peroxide ( 0.01% ) was used as chromogen substrate .
+The tissue sections were counterstained with 0.5% methyl green to reveal nuclei and observed with an IM35 microscope ( Zeiss , Oberkochen , Germany ) .
+Sections from the paired biopsies ( pre- and post-chemotherapy ) were always processed together .
+Negative control slides were incubated without TdT but including all other steps of the procedure .
+The AI ( percentage of apoptotic cells ) was evaluated counting at least 500 cells / slide ; a cutoff value of 1.5% was chosen  .
+All of the slides were reviewed and scored separated by two observers who were blinded to the clinical outcome of the patients .
+4.6. Immunohistochemistry .
+The following primary antibodies were used : 1 ) mouse MAb Bcl-2 , clone 124 against Bcl-2 protein ( Dako ) .
+In the identification sheet Dako provides information on the specificity of the antibody stating that it labels solely a band of 26 kDa corresponding to Bcl-2 oncoprotein under both non-reducing and reducing conditions .
+To be sure , we tested again the antibody in Western blot , and only the 26 kDa band was labelled .
+2 ) mouse MAb Bax against recombinant human Bax protein ( MBL , Japan ) ; 3 ) mouse MAb DO-7 against p53 protein ( Novocastra , Newcastle upon Tyne , UK ) ; 4 ) mouse MAb 1D5 , against estrogen receptor ( ER ) ( Dako ) ; and 5 ) mouse MAb mPRI against progesterone receptor ( PgR ) ( Transbio , Paris , France ) .
+The antibody against p53 ( clone DO-7 ) recognizes both wild-type and mutant-type p53 protein .
+The positive nuclear immunostaining is used as a surrogate end-marker of mutant p53 because in tissues lacking the mutant p53 there is no detectable signal ( the wild-type protein has a short half-life and is present at very low levels , in contrast , the mutant p53 accumulates in the nuclei and is detectable by immunohistochemistry )  .
+The antigen retrieval protocol with microwave oven was used to unmask the Bcl-2 , Bax , p53 , ER and PR antigens ( 30 min in citrate buffer , pH 6.0 ) .
+Tissue sections were incubated with the primary antibodies overnight at 4 C in humidity chambers at the following dilutions : Bcl-2 , 1:80 ; Bax , 1:250 ; DO-7 , 1:100 ; 1D5 , 1:100 ; mPRI , 1:100 .
+We used as second antibody anti-mouse IgG ( whole molecule ) biotin conjugated ( DAKO ) at 1:50 dilution ( 45 min ) .
+The LAB complex ( DAKO ) was applied at 1:75 dilution .
+Diaminobenzidine ( 0.5 mg / ml ) /hydrogen peroxide ( 0.01% ) was used as chromogen substrate .
+Slides were lightly counterstained with 0.5% methyl green to reveal nuclei and observed with an IM35 microscope ( Zeiss , Oberkochen , Germany ) .
+Sections from the paired biopsies ( pre- and post-chemotherapy ) were always processed together .
+Negative control slides were processed excluding the primary antibody but including all other steps of the procedure .
+All of the slides were reviewed and scored separated by two observers who were blinded to the clinical outcome of the patients , discordant cases were re-evaluated and resolved by consensus .
+The cutoffs used to determine if a marker was positive or negative were chosen based upon previous studies demonstrating their clinical significance .
+The immunoreactive cells for Bcl-2 and p53 were dichotomized into two groups , 33 or 33% , while the cutoff of Bax was 10% ( [ Krajewski et al. , 1995 ] and [ Vargas-Roig et al. , 1999 ] ) .
+The immunoreactive cells for hormone receptors were dichotomized into two groups , 3 or 3 of total score ( intensity and proportion ) ; the intensity score used was : no staining = 0 , weak staining = 1 , moderate staining = 2 and strong staining = 3 ; and the proportion score used was : 1% = 0 , 1 - 10% = 1 , 11 - 30% = 2 , 31 - 66% = 3 and 66% = 4  .
+4.7. Western blot .
+Part of some breast cancer samples were stored at 70 C until Western blot analysis was performed .
+Total protein samples ( 30 and 40 g ) were subjected to 12.5% SDS-PAGE followed by transfer onto nitrocellulose filters , as previously described  .
+The antibody to Bcl-2 was diluted at 1:2000 .
+For detection of the immunocomplexes , chemiluminescence reagents were used following the manufacturer 's instructions ( Dupont NEN , Boston , MA ) .
+4.8. Statistical analyses .
+The Wilcoxon signed rank non-parametric test was used to determine whether differences found in the pre- and post-chemotherapy biopsies were significant .
+The strength of association between AI-HE and TUNEL , as well as the correlation between the markers studied was calculated using the Spearman 's rank correlation coefficient .
+Fisher 's exact test was used to determine whether the expression of the markers studied correlated significantly with the clinical and pathological response and outcome of the patients .
+Analyses of DFS and OS were performed by the Kaplan - Meier method .
+The difference between curves was evaluated with the log-rank test for censored survival or event observations .
+The predictive significance of Bcl-2 was evaluated with logistic regression and Cox models containing terms for the main effects of treatment and Bcl-2 .
+Statistical analyses were performed using the Prism computer program ( Graph Pad Software , San Diego , CA ) and SPSS 13.0 program ; a P 0.05 was considered significant .
+Acknowledgments .
+We want to thank Dr R. Miatello for his help and advice in the statistical analysis of the data and Ms M.A. Lazzaro for her technical assistance .
+This work was supported by grant PIP 5149 ( National Research Council of Argentine , CONICET ) and Argentine Foundation for Cancer Research .

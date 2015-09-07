@@ -1,0 +1,118 @@
+Young age in breast cancer patients has been found in several large studies to predict for worse clinical outcomes ( 1 ) , ( 2 ) and ( 3 ) .
+Compared with older patients , younger breast cancer patients exhibit a greater proportion of aggressive pathologic features such as lymphovascular space invasion , high nuclear grade , and a high proportion of estrogen receptor negativity ( 3 ) , ( 4 ) , ( 5 ) and ( 6 ) .
+However , even with pathologic factors accounted for , young age remains an independent predictor for a worse outcome in patients treated with either breast-conserving therapy or mastectomy ( 1 ) , ( 7 ) and ( 8 ) .
+Recent updates of large randomized trials have highlighted the benefit of postmastectomy radiotherapy ( PMRT ) on outcome in high-risk breast cancer patients but have not reported age-specific results .
+A report of the Danish Breast Cancer Cooperative Group randomized studies that included 3,000 pre- and postmenopausal patients demonstrated that PMRT was associated with improved locoregional control ( LRC ) and a lower rate of distant metastases in high-risk patients treated with adjuvant chemotherapy ( 9 ) .
+In addition , the British Colombia Trial ( n = 318 ) demonstrated a benefit of PMRT on the 20 year rates of LRC and overall survival ( OS ) in premenopausal node-positive patients treated with adjuvant chemotherapy ( 10 ) .
+Furthermore , the 15 year results from a meta-analysis of randomized trials by the Early Breast Cancer Trialists Collaborative Group confirmed that PMRT improves long-term LRC , regardless of nodal status , and improved 15 year OS in node-positive patients ( 11 ) .
+Data specific to patients treated with neoadjuvant chemotherapy are more limited .
+Our group previously examined the affect of PMRT in patients of all ages ( n = 676 , median age 49 years ) treated with neoadjuvant chemotherapy and mastectomy and found that the addition of RT improved LRC and cause-specific survival for patients with locally advanced disease , such as those with four or more positive lymph nodes , T3 primary tumors , or Stage III disease ( 12 ) .
+Despite the evidence demonstrating a benefit of PMRT in high-risk breast cancer patients , the evaluation of risk among patient 35 years old has not been adequately addressed .
+The purpose of this study was to examine the affect of PMRT in young breast cancer patients 35 years after neoadjuvant chemotherapy and mastectomy for Stage II-III disease .
+Patients and Methods .
+We retrospectively reviewed 107 patients 35 years old treated between 1975 and 2005 with Stage II-III breast cancer on protocols with neoadjuvant doxorubicin-based chemotherapy and mastectomy .
+All patients were clinically staged at diagnosis and retrospectively recategorized according to the 2003 American Joint Committee on Cancer Staging guidelines .
+The median number of recovered axillary lymph nodes after mastectomy was 17.5 ( range , 1 - 54 ) .
+A total of 80 patients were treated with PMRT and 27 were not .
+Of these 27 patients , 21 had zero to three positive lymph nodes at surgery and were not referred for PMRT , and 6 patients had four or more lymph nodes ( 1 patient refused RT and 5 were not referred for unknown reasons ) .
+For the 80 patients treated with PMRT , the treatment volumes during this period typically included the chest wall and draining lymphatics , including the supraclavicular and internal mammary nodal regions ( median dose 50 Gy ) , followed by a chest wall boost ( median dose 10 Gy ) .
+All patients underwent computed tomography simulation and planning for optimal target coverage with minimal exposure to the lung and heart .
+The chest wall was usually treated with medial and lateral tangents using photons designed to include the entire chest wall .
+A separate supraclavicular anterior photon field was matched at the nondivergent superior border of the tangential fields designed to encompass the undissected Level III axilla and axillary apex .
+An electron field was often matched medially to the medial tangential field , with particular care to cover the internal mammary nodal region while respecting critical structures , including the heart and lung .
+Finally , the chest wall was typically boosted with electrons designed to include the mastectomy scar with an adequate margin .
+Statistical analysis .
+The distributions of the clinical and pathologic factors between groups of patients were compared using the chi-square test .
+Locoregional recurrence ( LRR ) was defined as disease recurrence on the ipsilateral chest wall or in the ipsilateral axillary , supraclavicular , infraclavicular , or internal mammary lymph nodes .
+Any other site of recurrence was scored as distant metastasis .
+All LRRs were considered independent events , regardless of whether they occurred before or after distant metastasis .
+The 5 year actuarial rates of LRR and OS were calculated according to the Kaplan-Meier method , and comparisons between the two patient groups were made using the log - rank test .
+All survival statistics were measured from the date of diagnosis .
+All p values are two-sided , and p 0.05 was considered significant .
+Results Patient characteristics .
+The median follow-up for irradiated ( n = 80 ) and nonirradiated ( n = 27 ) patients was 75 and 63 months , respectively ( 72 months for all patients combined , range 2 - 238 ) .
+The median follow-up for the 61 surviving patients was 92 months .
+Table 1 outlines a comparison of the disease characteristics between the treatment groups .
+Patients in the PMRT group had a statistically greater percentage of Stage III tumors ( 83% vs. 41% ; p 0.05 ) , greater percentage of lymphovascular space invasion ( 49% vs. 33% ; p = 0.04 ) , and Stage T4 disease ( 50% vs. 26% ; p = 0.002 ) .
+Also , a nonsignificant trend toward a more advanced nodal stage was found in the PMRT treatment group because of N2 and N3 disease .
+No difference was found between the groups with respect to nuclear grade , hormone receptor status , tamoxifen use , margin status , presence of extracapsular extension , or number of nodes sampled .
+No relationship was found between RT volume and outcome .
+Table 1. .
+Patient and tumor characteristics .
+CharacteristicNo RT ( n ) RT ( n ) p Clinical stage0.002 IIA3 ( 11 ) 1 ( 1 ) IIB12 ( 46 ) 12 ( 15 ) IIIA4 ( 15 ) 23 ( 29 ) IIIB6 ( 23 ) 37 ( 47 ) IIIC1 ( 4 ) 6 ( 8 ) Clinical T stage0.001 T12 ( 7 ) 0 ( 0 ) T211 ( 41 ) 11 ( 14 ) T37 ( 26 ) 29 ( 36 ) T47 ( 26 ) 40 ( 50 ) Clinical N stage0.163 N05 ( 19 ) 9 ( 11 ) N117 ( 63 ) 37 ( 46 ) N24 ( 15 ) 28 ( 35 ) N31 ( 4 ) 6 ( 8 ) Pathologic tumor size ( cm ) 0.113 0 - 212 ( 44 ) 38 ( 48 ) 2.1 - 59 ( 33 ) 28 ( 35 ) 5.11 ( 4 ) 10 ( 13 ) Unknown5 ( 19 ) 4 ( 5 ) No. of positive nodes0.130 09 ( 33 ) 19 ( 24 ) 1 - 311 ( 41 ) 22 ( 28 ) 46 ( 22 ) 38 ( 47 ) Unknown1 ( 4 ) 1 ( 1 ) Percentage of positive nodes0.031 2020 ( 74 ) 36 ( 45 ) 207 ( 26 ) 43 ( 54 ) Unknown0 ( 0 ) 1 ( 1 ) Nodes sampled ( n ) 0.183 102 ( 7 ) 11 ( 14 ) 1023 ( 85 ) 68 ( 85 ) Unknown2 ( 7 ) 1 ( 1 ) LVSI0.039 Present9 ( 33 ) 39 ( 49 ) Absent18 ( 67 ) 33 ( 41 ) Unknown0 ( 0 ) 8 ( 10 ) Tumor grade0.798 112 ( 44 ) 36 ( 45 ) 29 ( 33 ) 20 ( 25 ) 35 ( 19 ) 21 ( 26 ) Unknown1 ( 4 ) 3 ( 4 ) Margin status0.273 Free / negative26 ( 96 ) 66 ( 83 ) Involved0 ( 0 ) 5 ( 6 ) Close ( 2 mm ) 0 ( 0 ) 5 ( 6 ) Unknown1 ( 4 ) 4 ( 5 ) Estrogen receptor0.435 Positive13 ( 48 ) 32 ( 40 ) Negative8 ( 30 ) 36 ( 45 ) Unknown6 ( 22 ) 12 ( 15 ) Progesterone receptor0.320 Positive9 ( 33 ) 22 ( 28 ) Negative8 ( 30 ) 39 ( 49 ) Unknown10 ( 37 ) 19 ( 24 ) Hormonal treatment0.227 Yes6 ( 22 ) 25 ( 31 ) No21 ( 78 ) 50 ( 63 ) Unknown0 ( 0 ) 5 ( 6 ) Response to neoadjuvant chemotherapy0.552 CR4 ( 15 ) 15 ( 19 ) PR22 ( 81 ) 53 ( 66 ) NR1 ( 4 ) 2 ( 3 ) PD0 ( 0 ) 4 ( 5 ) Unknown0 ( 0 ) 6 ( 7 ) Adjuvant chemotherapy0.165 Yes19 ( 70 ) 66 ( 84 ) No8 ( 30 ) 13 ( 16 )
+Full-size table .
+Abbreviations : RT = radiotherapy ; LVSI = lymphovascular space invasion ; CR = complete response ; PR = partial response ; NR = no response ; PD = progressive disease .
+Data in parentheses are percentages .
+View Within Article .
+Locoregional recurrence .
+Of the 80 patients in the PMRT group , 18 had locoregional failure , and of the 27 patients in the no RT group , 10 had LRR .
+The 5 year LRR rate was 12% for the 80 patients who received PMRT compared with 37% in the 27 patients who did not receive PMRT ( p = 0.001 ; Fig. 1 ) .
+The sites of locoregional failure included the isolated chest wall in 7 patients , isolated supraclavicular region in 6 patients , simultaneous chest wall and supraclavicular region in 3 patients , simultaneous chest wall and infraclavicular node in 1 patient , and simultaneous chest wall and axilla , infraclavicular , and supraclavicular nodes in 1 patient .
+Full-size image ( 5K )
+Fig. 1. Rate of 5 year actuarial locoregional control for all 107 patients treated with radiotherapy ( RT ) and without RT ( No RT ) .
+View Within Article .
+The mean and median time to local recurrence in all patients was 29 and 23 months , respectively .
+Table 2 shows the relationship between selected clinical and pathologic characteristics of patients in each treatment group and LRR .
+Four patients had clinical Stage IIA disease and only 1 received PMRT ( this patient also had perineural invasion and extracapsular extension in a positive axillary lymph node ) .
+All 4 of these patients were alive and disease free at the last follow-up visit .
+The addition of PMRT improved LRR in both those with clinical Stage IIB disease ( 0% vs. 44% , p = 0.003 ) and those with clinical Stage IIIA-IIIC ( 15% vs. 36% , p = 0.023 ) .
+Of the 24 patients with clinical Stage IIB disease , 10 presented with T3N0M0 disease and 14 had T2N1M0 disease .
+Of these 14 patients , 10 had pathologic nodal disease at surgery that was more advanced than was apparent from the initial clinical examination and radiographic studies ( 6 patients with four or more lymph nodes ) .
+Of the 10 patients with tumors refractory to chemotherapy , 7 received PMRT and 3 did not ( 2 declined and 1 was lost to follow-up ) .
+Of the 7 patients who underwent PMRT , none experienced locoregional failure .
+However , of the 3 remaining patients with disease progression during chemotherapy who did not receive PMRT , 2 had LRR .
+Only 7 patients had clinical Stage T2 disease with one to three positive lymph nodes after surgery ; therefore , no meaningful analyses could be conducted in this small subset .
+Table 2. .
+Five-year actuarial rates of LRR according to clinical and pathologic factors .
+5 y LRR rate CharacteristicNo RT ( % ) RT ( % ) p Clinical stage IIA00NA IIB4400.003 IIIA25160.435 IIIB33130.1062 IIIC100170.276 Clinical T stage T100NA T23200.028 T343160.051 T443130.015 Clinical N stage N04000.045 N128130.170 N250130.028 N3100170.276 Positive nodes ( n ) 035150.079 1 - 330110.164 437120.001 .
+Full-size table .
+Abbreviations : LRR = locoregional recurrence ; RT = radiotherapy ; NA = not applicable .
+View Within Article .
+Radiotherapy also correlated with reduced LRR in patients stratified according to T stage ( T2 , p = 0.028 ; T3 , p = 0.051 ; and T4 , p = 0.015 ) and N stage ( N0 , p = 0.045 and N2 , p = 0.028 ) .
+Survival .
+Of the 18 patients with locoregional failure , only 2 were alive at last follow-up .
+The 5 year actuarial rate of OS for all patients ( Stage II-III ) was 67% in the PMRT group and 48% in the non-RT group ( p = 0.031 ; Fig. 2 ) .
+Subset analyses of survival by clinical stage found that for Stage IIB patients , PMRT significantly improved OS compared with that for those who did not receive PMRT ( 92% vs. 56% , p = 0.033 ) .
+In Stage IIIA-IIIC patients , those who received PMRT had significantly improved OS compared with patients who did not receive PMRT ( 60% vs. 27% , p = 0.014 ) .
+Additionally , RT improved survival in patients with four or more positive nodes at surgery ( 67% vs. 48% , p = 0.031 ) and in patients with lymphovascular space invasion ( 83% vs. 57% , p = 0.01 ) .
+Full-size image ( 5K )
+Fig. 2. Rate of 5 year actuarial survival for all 107 patients treated with radiotherapy ( RT ) and without RT ( No RT ) .
+View Within Article .
+Table 3. .
+Five-year actuarial survival rates according to clinical and pathologic factors .
+5 y Survival rate ( % ) CharacteristicNo RTRTp Clinical Stage IIA100100NA IIB56920.033 IIIA50660.154 IIIB17600.064 IIIC0330.56 Clinical T stage T1100100NA T276890.364 T329700.009 T414580.045 Clinical N stage N00890.012 N168600.689 N225730.115 N30330.56 Positive nodes ( n ) 056670.076 1 - 347860.435 448670.031 LVSI Present57830.01 Absent33490.377 .
+Full-size table .
+Abbreviations : NA = not applicable ; other abbreviations as in Table 1. .
+View Within Article .
+Discussion .
+This is the first report evaluating the affect of PMRT in breast cancer patients 35 years old at diagnosis and treated with anthracycline-based neoadjuvant chemotherapy and mastectomy .
+Our data found that the addition of PMRT in patients with Stage IIB-III disease led to superior rates of 5 year LRC and OS .
+When patients with Stage IIB disease were analyzed separately , an improvement in LRC and survival with the addition of PMRT remained statistically significant .
+The large magnitude of benefit seen from PMRT in young patients provides valuable data to better tailor adjuvant age-specific treatment decisions in difficult clinical circumstances .
+Our findings provide evidence supporting the recommendation for adjuvant RT for these patients and should guide physicians in their counseling of young patients .
+Young age has previously been suggested as a predictive factor for worse outcome in breast cancer patients treated with mastectomy without RT .
+A recent large retrospective study from Canada that analyzed 800 patients with T1-T2 disease and one to three positive lymph nodes treated with mastectomy and chemotherapy found age 45 years to be an independent risk factor for LRR after mastectomy , with a hazard ratio of 2.5 ( 13 ) .
+Furthermore , a large meta-analysis of five National Surgical Adjuvant Breast Project trials with 5,700 patients with all disease stages treated with mastectomy and adjuvant chemotherapy found that younger patients had greater rates of LRR with or without distant failure ( 26.1% among the 20 - 39-year-old patients ) ( 14 ) .
+Finally , retrospective reports , including one from our institution that included patients with Stage II-III disease treated with neoadjuvant chemotherapy and mastectomy , have suggested that young age is a risk factor for LRR ( 15 ) and ( 16 ) .
+Although these studies suggest that young age might be an adverse prognostic factor for outcome , it is important to note that not all reports have shown similar results ( 17 ) , ( 18 ) and ( 19 ) .
+Furthermore , the results from subset analyses should be interpreted cautiously .
+With large randomized trials such as the British Colombia trial and Danish 82b trial ( both studies included premenopausal patients ) and recent meta-analyses showing an improvement in LRC and survival with the use of PMRT in breast cancer ( 9 ) , ( 10 ) and ( 11 ) , an emphasis has been placed on identifying subsets of patients who might be at high risk of local recurrence , particularly those for whom the recommendation of PMRT is not routine .
+Consensus panels , including those from the American Society of Therapeutic Radiology and Oncology , American Society of Clinical Oncology , and the National Institutes of Health , have recommended the use of PMRT in patients with four or more positive axillary nodes and those with T3 or T4 primary tumors ( 20 ) , ( 21 ) and ( 22 ) .
+However , these groups have cited insufficient evidence to recommend PMRT for those with smaller primary tumors and one to three positive lymph nodes after surgery or patients with potentially high-risk features such as young age .
+Furthermore , recommendations regarding patients who receive neoadjuvant chemotherapy are not yet concrete .
+For example , the American Society of Clinical Oncology panel concluded that there is insufficient evidence to make recommendations or suggestions on whether all patients treated with preoperative systemic therapy should be given PMRT after surgery .
+To date , this is the largest series of breast cancer patients 35 years treated with neoadjuvant chemotherapy and mastectomy with or without PMRT .
+Our results suggest that young patients with Stage IIB-III disease derive a large benefit in LRC and OS with the addition of PMRT , with a two-thirds reduction in LRR ( 12% vs. 37% at 5 years with and without PMRT , respectively ) and 40% improvement in OS ( 67% vs. 48% at 5 years with and without PMRT , respectively ) .
+RT improved survival for young patients with Stage IIB disease , a result not seen in a previous report of similarly treated patients of all ages ( 12 ) .
+A significant proportion of the patients with clinical Stage IIB had either Stage T3 disease ( 42% ) or four or more positive lymph nodes after surgery ( 25% ) because of disease progression , two factors independently prognostic for local recurrence after mastectomy .
+Despite this , our results suggest that young age might be a powerful prognostic factor to gauge the benefit of PMRT in patients with Stage IIB or greater disease .
+Relatively few of our patients had Stage II disease and one to three positive lymph nodes .
+Therefore , the benefit of PMRT for young patients in this group remains unclear .
+One limitation of this analysis was its retrospective nature .
+All retrospective studies inherently risk an imbalance of patient and tumor characteristics .
+The two cohorts ( PMRT vs. no PMRT ) in our study had differences in several factors , but the more advanced tumor characteristics were in the PMRT group and yet they had the improved locoregional and survival benefit .
+This emphasizes the advantage with PMRT to overcome negative pathologic features in this cohort .
+A second limitation of this study was the modest number of patients with Stage IIB disease , for whom the results need to be confirmed in a larger study .
+Although this is the largest series of patients 35 years treated with neoadjuvant chemotherapy and mastectomy with or without RT , multivariate analysis was not possible because of relatively limited number of events .
+Conclusion .
+The addition of PMRT was associated with significant improvement in LRC and OS in young patients 35 years old after neoadjuvant chemotherapy and mastectomy for clinical Stage IIB-III breast cancer and should help to guide difficult treatment decisions .

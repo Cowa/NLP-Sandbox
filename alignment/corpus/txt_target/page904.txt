@@ -1,0 +1,129 @@
+Sentinel node ( SN ) biopsy allows accurate staging of the lymph node status in breast cancer patients.  Previous axillary surgery has long been considered as a contraindication for SN mapping due to disruption of lymphatic vessels draining from the tumour to the axilla and removal of potential axillary SNs.5 .
+The few data available from experimental studies found that disruption of lymphatic vessels may be only temporary and lymphatics are regenerated within a certain period from surgery .
+Although this period has never been evaluated , regeneration of lymphatic vessels may result in a new lymphatic network , which connects a tumour with its current lymphatic basin.  Furthermore , when the original lymphatic vessels are interrupted due to surgery the lymphatic drainage from a tumour may follow previously little used collaterals and retained open lymphatic channels to a lymph node basin.  This basin , however , often is different to the basin found without axillary surgery and results in more patients with unexpected lymphatic drainage. 
+The lymphatic drainage after previous axillary surgery is of interest in patients with primary or recurrent breast cancer .
+Lymphatic mapping in these patients was evaluated only in a few studies.  However , it should follow the same principles as in patients without prior axillary surgery with the lymphatic drainage from a cancer to an SN being mapped by injection of a radiocolloid or a vital blue dye .
+Possible advantages of a successful mapping and lymph node biopsy are the more thorough examination of a mapped lymph node and the reduced morbidity in case a negative lymph node is found and complete lymph node dissection of the lymphatic basin is not required .
+In this study we determined the feasibility and accuracy of lymphatic mapping following previous axillary surgery and looked for parameters associated with failure of the mapping procedure in these patients .
+Patients and methods Patients .
+Lymphatic mapping was attempted in 30 patients with primary ( n = 7 ) or recurrent ( n = 23 ) breast cancer and a history of previous axillary surgery .
+The indications for lymphatic mapping , the type of previous breast and axillary surgery are seen in Table 1. The clinical and pathologic parameters of the 30 patients are seen in Table 2. Eight of 30 patients had a history of previous chemotherapy , 15 of 30 patients had a history of radiation following breast conservation surgery according to standard treatment protocols .
+Diagnosis of breast cancer was made by core needle biopsy in all patients .
+Clinical and ultrasonographic evaluation of the axilla prior to lymphatic mapping found negative axillary lymph nodes in all patients .
+Table 1. .
+Indication for lymph node mapping , type of previous breast and axillary surgery and results of lymph node biopsy ( n = 30 )
+Indication for LN mappingType of previous breast surgeryType of previous axillary surgeryNumber of patients with successful LN mappingResult of LN mappingALND performed PositiveNegativeNot foundYesNo Primary BC 7Subcutaneous mastectomy 1Node sampling 2 Transaxillary augmentation 2SNB 2 Nonea 4ALND 1624161 Incision only 2 Recurrent BC 23Quadrantectomy 23ALND 1213211101211 SNB 11 .
+Full-size table .
+Abbreviations : BC = breast cancer ; LN = lymph node ; SNB = sentinel node biopsy ; ALND = axillary lymph node dissection .
+a One patient underwent axillary tissue resection due to recurrent abscess formation , 3 patients underwent resection of malignant melanoma of the upper arm , hand or shoulder .
+View Within Article .
+Table 2. .
+Clinicopathologic characteristics of 30 patients undergoing lymph node mapping after previous axillary surgery for recurrent ( n = 23 ) or primary ( n = 7 ) breast cancer .
+Mean ( SD ) age ( years ) 58.3 ( 14.1 ) Range35 - 81 Menopausal status Premenopausal13 Postmenopausal17 Breast quadrant Upper outer14 Lower outer7 Lower inner2 Upper inner5 Central2 Histology of breast tumour Ductal24 Lobular2 Tubular1 Papillary1 Intraductal carcinoma in situ high grade2 Tumour differentiation G13 G212 G315 Estrogen receptor status Positive23 Negative7 Progesterone receptor status Positive21 Negative9 Her-2 / neu status Negative26 3 + Positive2 Not available2 .
+Full-size table .
+View Within Article .
+Lymph node mapping .
+Lymphatic mapping was done using peritumoural injection of a radiocolloid [ 10 - 40 MBq Tc99m Nanocoll in a volume of 0.5 ml ] 18 h prior to surgery .
+Preoperative lymphoscintigraphy was done with a gamma camera to determine lymphatic drainage .
+Intraoperatively the mapped lymph node was identified by use of a hand held gamma probe [ Neoprobe 2000 Neoprobe Corp. , Dublin , OH , USA ] and a vital blue vital dye [ 5 ml Isosulfan blue 1% Lymphazurin , Ben Venue Labs. , Inc. , Bedford , OH , USA ] .
+A lymph node was regarded as a mapped node when it was either blue , when blue stained lymphatic channels led directly to a node , or a hot node was found with the gamma probe .
+A lymph node was regarded as a hot node when the excised node revealed a count greater than 10 times the count in the axilla after removal of the SN .
+Patients with positive nodes were suggested an ALND .
+ALND was also suggested to patients with negative lymph nodes to evaluate the false negative rate .
+No further lymph node dissection was done when the mapped lymph node was an internal mammary node .
+Lymphatic mapping was approved by the local ethics committee review board of the hospital .
+A written informed consent to participate in lymphatic mapping procedure was obtained from all patients .
+Pathological examination of lymph nodes .
+Intraoperative frozen section examination of the mapped lymph nodes was done in all patients .
+Postoperatively negative lymph nodes were examined using serial sections at 250 m intervals stained with Haematoxylin and Eosin ( HE ) and when negative were further investigated with cytokeratin immunohistochemical ( IHC ) stain with an antibody [ CKKES , CKEMS - Immunostain , Euro / DPC Ltd. , Gwynedd , UK ] to cytokeratin in 250 m sections .
+A mapped lymph node was regarded as negative , when no tumour was found in the permanent sections .
+Lymph nodes removed through ALND were examined in 4 - 6 sections stained with HE , no immunohistochemical stain was done .
+Statistical analyses .
+In addition to an explorative data analysis the following tests were performed for two groups : 2 2 frequency tables were analyzed with Fisher 's exact test ; not normally distributed metric variables were analyzed with the Mann - Whitney U test ; normally distributed metric variables ( test of normality : Kolmogorov - Smirnov test with Lilliefors significances ) were analyzed by means of the two-sample t test for independent samples .
+The SPSS package version 12.0 was used for calculations .
+All tests are two-tailed with a confidence level of 95% ( p 0.05 ) .
+As many hypotheses are tested , the error 1 rate is increasing .
+No adjustments for the p-values ( such as Bonferroni-corrections ) are done ; therefore , all p-values are only descriptive .
+Results Results of lymphoscintigraphy and lymph node biopsy .
+Preoperative lymphoscintigraphy revealed a drainage to a lymph node basin in 19 of 30 patients and a mean ( SD ) number of 1.7 ( 0.7 ) mapped lymph nodes ( range 1 - 3 nodes ) were removed in these 19 patients ( identification rate 63% ) .
+Three of 19 patients had a positive lymph node ( one with an IHC micrometastasis ) and underwent ALND .
+In two patients , the mapped lymph node was the only positive lymph node , whereas one patient had another positive node in the axillary specimen .
+In one of 19 patients , isolated tumour cells were found in the permanent examination in one of two nodes .
+Both nodes were found in level III of the axilla after previous ALND and no further lymph nodes were found in these patients .
+Fifteen of 19 patients had a negative lymph node .
+Two of these patients had no further lymph nodes removed for the negative lymph nodes were removed from the internal mammary basin and the current lymphatic drainage was exclusively to the internal mammary nodes ; both patients had a previous ALND .
+Thirteen of 15 patients had a completion ALND that found a mean ( SD ) number of 14.3 ( 5.3 ) lymph nodes ( range 5 - 24 lymph nodes ) .
+No positive lymph nodes were found in the axillary specimen ( false negative rate = 0 ) .
+Five of 19 patients had a drainage to extra-axillary lymph nodes and this was significantly in patients with prior ALND compared to patients with prior SN biopsy ( 60% versus 14.3% , p 0.0001 , Fisher 's exact test ) .
+Table 3. .
+Lymphatic drainage patterns in 19 patients with previous axillary surgery and a successful lymph node mapping / biopsy .
+Type of previous axillary surgeryLymphatic basinn ALND ( n = 5 ) Contralateral L I1 IMA1 L I1 L III1 L I and IMA1 SNB / node sampling ( n = 12 ) L I8 IMA1 L II1 L II and IMA1 Rotter 's space1 Axillary incision only ( n = 2 ) L I2 .
+Full-size table .
+Abbreviations : IMA = internal mammary artery nodes ; L = level of axilla ; SNB = sentinel node biopsy ; ALND = axillary lymph node dissection .
+View Within Article .
+Lymph node status in patients with no lymph nodes found during lymphatic mapping .
+In 11 of 30 patients preoperative lymphoscintigraphy found no drainage to a lymphatic basin and no hot spot or blue nodes were found intraoperatively .
+Eight of 11 patients had a history of previous ALND .
+Exploration of the axilla revealed no lymph nodes in 7 patients , whereas 7 negative nodes were removed in one patient .
+Three of 11 patients had prior SN biopsy and ALND found 2 negative nodes in the axillary specimen in 2 ( 15 and 13 negative nodes removed ) and 2 positive nodes out of 15 in 1 patient .
+Parameters associated with a failure of the lymphatic mapping .
+Mean ( SD ) time between previous axillary surgery and the mapping procedure was 98.5 ( 87.6 ) months ( range 21 - 387 months ) for patients with a successful mapping compared to 99.5 ( 26.9 ) months ( range 58 - 133 months ) for patients with no nodes found during lymphatic mapping ( p = 0.155 , Mann - Whitney U test ) .
+Patients with previous chemotherapy and / or previous radiation showed a lower ( not significant ) identification rate ( Table 4a - c ) .
+The number of previously removed lymph nodes was associated with a decreased identification rate and this was statistically significant when 10 or more lymph nodes were removed during prior axillary surgery ( p = 0.023 ) .
+A positive lymphoscintigraphy with a lymphatic drainage seen on lymphoscintigram was significantly associated with a successful lymphatic mapping ( p = 0.001 ) .
+Table 4. .
+Correlation between previous chemotherapy ( a ) , previous radiation ( b ) , previous chemotherapy and radiation ( c ) performed and a successful lymph node mapping in patients with previous axillary surgery .
+Successful mappingMapping failurep-Value ( a ) Patients with previous chemotherapy350.10 No previous chemotherapy166 ( Fisher 's exact test ) 1911 .
+( b ) Patients with previous radiation870.45 No previous radiation114 ( Fisher 's exact test ) 1511 .
+( c ) Patients with previous radiation and chemotherapy350.10 No previous radiation and chemotherapy166 ( Fisher 's exact test ) 1911 .
+Full-size table .
+View Within Article .
+Table 5. .
+Correlation between the number of previously removed nodes and a successful lymph node mapping in patients with previous axillary surgery .
+Number of nodes removedSuccessful mappingMapping failurep-Value 0 - 31430.02 1058 ( Fisher 's exact test ) 1911 .
+Full-size table .
+View Within Article .
+Table 6. .
+Correlation between positive lymphoscintigraphy a successful lymph node mapping .
+Successful mappingMapping failurep-Value Patients with positive lymphoscintigraphy1900.001 Patients with negative lymphoscintigraphy011 ( Fishers exact test ) 1510 .
+Full-size table .
+View Within Article .
+Discussion .
+Lymphatic mapping successfully identified lymph nodes in 63% of our patients with previous axillary surgery .
+This was considerably lower than the identification rates reported with SN mapping in breast cancer patients without prior axillary surgery but was comparable to other studies , which found an identification rate of 48 - 83% in these patients.  Only a study published from the European Cancer Institute in Milan described a 100% identification rate in 18 patients with re-operation SN mapping.15 The high identification rate found in this study may be related to the fact that all patients of the study had prior SN biopsy leaving an almost unaltered drainage to the axillary lymph nodes .
+The correlation between prior ALND or SN biopsy and the identification rate was also seen in our study .
+Patients with prior SN biopsy had an identification rate of 82.4% compared to 48.5% after ALND , which shows that the success of lymph node mapping after axillary surgery depends on the number of previously removed lymph nodes .
+Similar to a study by Port et al.14 our study found that a number of more than 10 lymph nodes removed previously from the axilla were significantly associated with an unsuccessful SN mapping .
+The decreased identification rate seen with lymphatic mapping after previous axillary surgery is attributed to the disruption of lymphatic vessels draining from a breast tumour to the regional lymph nodes caused by surgery , chemotherapy or radiation .
+The regeneration of disrupted lymphatic vessels following surgery has been described in experimental studies but has never been evaluated in patients .
+Furthermore , it remains unknown , whether the regeneration of the lymphatics is associated with the length of time from surgery .
+However , in our study the time between previous axillary surgery and lymphatic mapping had no impact on the success of the mapping procedure .
+Lymphatic mapping in patients with no prior axillary surgery follows lymphatics to ipsilateral axillary nodes in most patients.  Lymphatic drainage exclusively to SNs outside the axilla is seen only in a small number of patients and the number of patients with positive extra-axillary SN ( s ) without the involvement of the axillary nodes is even lower. 
+As it may be expected , the lymphatic drainage to extra-axillary lymph nodes is seen more often in patients with prior axillary surgery than in patients without axillary surgery. 
+Perre et al.9 reported of lymphatic drainage patterns in 23 patients following either ALND or radiotherapy .
+In their study , an SN was identified in 87% prior to surgery but only in 48% when SN mapping was done 6 weeks following surgery .
+The lymphatic drainage found with SN mapping was to the ipsilateral axilla in most patients but also to the ipsilateral and contralateral internal mammary chain and the contralateral axilla.9 Sood et al.10 reported of four patients with recurrent or primary breast cancer and a history of prior ALND .
+Lymphoscintigraphy found a lymphatic drainage to nodes outside the ipsilateral axilla in all four patients .
+Agarwal et al.12 reported two patients who had their SNs found in the contralateral axilla .
+Roumen et al.13 found 7 out of 10 successfully mapped SNs in either the internal mammary chain or the contralateral axilla .
+In our study , a lymphatic drainage to extra-axillary lymphatic nodes was found in 26% of the patients .
+Extra-axillary drainage was more often after previous ALND with 60% than after prior SN biopsy with 14% .
+The success of lymphatic mapping was significantly associated with a positive lymphoscintigraphy .
+No lymph nodes were mapped in patients with a negative lymphoscintigram or when no hot spot was found intraoperatively despite the use of a vital blue dye in every patient .
+Therefore , all patients with primary or recurrent breast cancer and a history of prior axillary surgery should be scheduled to preoperative lymphoscintigraphy when lymphatic mapping is planned .
+This is contrary to SN mapping in patients with previously untreated axillae in whom blue dye alone allows successful mapping in a large number of patients.19 .
+Our study found that patients with a history of previous chemotherapy and / or radiation treatment and axillary surgery had a lower identification rate compared to patients who had only previous axillary surgery .
+However , the lack of statistical significance associated with these factors could simply be due to the small sample size and should be further evaluated with a larger group of patients .
+The effect of radiotherapy on the lymphatic drainage pattern in breast cancer patients has not been described yet .
+However , histopathological changes , such as fibrosis of the breast tissue , are commonly after radiation treatment and result in distortion of lymphatic vessels and a decreased identification rate of SN mapping. 
+The negative impact of chemotherapy on the identification rate has been described in patients undergoing SN mapping after preoperative chemotherapy  and may be related to obstruction of the lymphatic drainage with the lymphatic tissue being replaced by fibrotic tissue. 
+The crucial issue , however , when it comes to implement lymphatic node mapping after previous axillary surgery into clinical practice is the false negative rate of the procedure .
+In order to become clinically applicable the false negative rate should be comparable to current studies with SN biopsy in patients without prior axillary surgery , which in experienced hand should be less than 5%.  In our study , no false negative result was found yet but the number of patients is too small to draw a definitive conclusion on that issue and may require a meta-analysis of different institutions .
+Conclusion .
+Lymphatic mapping after axillary surgery was associated with a decreased identification rate , but the false negative rate was zero .
+The lymphatic drainage pattern in these patients was unpredictable and the use of a radionuclide for mapping was prerequisite for a successful mapping procedure .
+Conflict of interest .
+There is no conflict of interest of any of the authors of the manuscript , no financial and personal relationships with other people or organisations that could inappropriately influence the work .
+There was no commercial funding of the study .
+Acknowledgement .
+Statistical analyses were supported by a grant of the Ludwig Boltzmann Institute for Surgical Laparoscopy , AKH Linz and the Krebshilfe Oberoesterreich .

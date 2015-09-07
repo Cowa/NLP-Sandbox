@@ -1,0 +1,316 @@
+For more than a decade now , evidence-based decision-making has been a major trend in healthcare .
+Rather than relying on unsystematic clinical experience , healthcare professionals are encouraged to base their clinical decision-making on the findings of scientific studies  .
+The evidence in evidence-based decision-making is usually understood to be empirically based , with the findings of randomized clinical trials ( RCTs ) being considered one of the most robust forms of evidence  because it has the most objective way of eliminating bias .
+However , other form of evidence , where bias is more difficult to control ( e.g. observational or case studies ) , may be more appropriate for answering certain kinds of research questions .
+Regardless of what research design is used , careful , systematic scientific scrutiny is used to determine effective diagnostic procedures and treatments .
+Optimal patient care is then limited to these practices in order to minimize unnecessary treatment and control costs  .
+While there is an expectation that healthcare providers will incorporate evidence into decision-making involving patient treatments , until relatively recently , there was no such expectation of the patients themselves .
+In the past , treatment decisions were entrusted to the professional healthcare provider  .
+More recently , trends within healthcare are transforming the patient role in treatment decision-making from one of passive recipient , to one of more equal partner  .
+An increase in consumerism, an expansion in the number of viable treatments options available , and the exponential growth of the Internet and availability of health information have all contributed to greater patient involvement in healthcare decisions  .
+Evidence-informed patient choice ( EIPC ) is a concept that is rooted in the principle of informed choice  .
+In order to uphold the principle , healthcare providers are obligated to ensure that patients are reasonably informed of the risks and benefits of a procedure prior to the patient giving or withholding consent , and are afforded the opportunity to have their concerns and questions addressed  .
+Scientific studies determine the risks and benefits of different avenues of treatment ( or non-treatment ) .
+In order for patients to be informed regarding treatment choices , they require a reasonable understanding of both the advantages and disadvantages of available treatments .
+There is increased opportunity for oncology patients in particular to become involved in decision-making because of the variety of therapeutic options that are available for different cancers .
+Most oncology patients want to be involved in decision-making and attaining their preferred role in decision-making leads to better quality of life  .
+Despite this , patients do not always assume their preferred role in decision-making  .
+Not all cancer patients wish to be involved in decision-making , despite having more opportunity to do so .
+Several studies have reported that the degree to which patient wish to participate in decision-making varies widely  , and that a patient 's level of involvement in decision-making is not indicative of their desire for information .
+Many patients who undertake a passive role in decision-making still want to be well informed .
+Increases in knowledge , satisfaction , treatment compliance , and quality of life have been reported as positive outcomes of adequate information provision  .
+Not having enough information has been linked to dissatisfaction with care and reduced well-being  .
+Investigators have found that the desire for information is temporal in nature , with different kinds of information being requested at different times throughout the disease trajectory  .
+Generally , the information cancer patients say that they require most is the information about survival and staging of the disease , and about treatment options and related side effects  .
+While the literature widely refers to the desire for information exhibited by a patient as information need , we acknowledge that the term need inappropriately describes what is occurring .
+Using the term need implies that there is an objective standard by which the need can be assessed .
+What is actually being determined is the patients expressed desire for information .
+For the sake of simplicity , however , we will use the term need in order to be in agreement with the existing literature .
+Overwhelmingly , healthcare practitioners are the most widely used and the most preferred source of information for cancer patients  , although there is evidence that the use of electronic and media sources for cancer information has increased significantly  .
+Patients may also use specially designed interventions called consumer decision aids ( CDAs ) that provide information relevant to a specific decision regarding treatment options .
+CDAs , used prior to or during a physician consultation , are one way of engaging patients in a meaningful discussion of their treatment options .
+In addition to providing relevant information , the patient is led through the decision process .
+Risks and benefits of the treatment options are presented in a format that is easy to understand along with a values clarification exercise meant to elicit the patient 's personal preferences regarding different treatment options .
+CDAs are an increasingly common method of supporting a treatment choice and are often used to facilitate the decision process .
+However , not all patients may have access to or choose to use decision aids prior to making a treatment choice .
+Pierce  studied the unaided decision-making process in women with a diagnosis of early-stage breast cancer or a diagnosis of cardiovascular disease and found several problematic aspects of decision behaviour .
+Decision aids are designed , in part , to counteract faulty decision behavior .
+Pierce also asserted that the majority of women in her study made satisfactory decisions without the benefit of a decision aid .
+This unaided decision must be based on some type of information or evidence .
+As was mentioned previously , healthcare practitioners are the most preferred sources of information for patients facing a treatment choice ; however , other sources such as families , friends , the media , and the Internet are also widely used .
+Researchers examining the sources used by breast cancer patients have reported inconsistent results , with some investigators reporting that people sources are favored over documentary sources  and others reporting the reverse  .
+Other factors may come into play when patients make decisions about which treatment to choose other than the simple provision of information .
+Researchers examining how decisions are actually made in the real world ( descriptive theory ) rather than how they ought to be made ( normative theory ) have discovered that people often make decisions that do not appear to be rational .
+How a choice is framed  , which outcomes a patient values  , and whether the patient has the ability or motivation to understand the intricacies of the scientific information  may all play a role in how a decision is made .
+Decisional heuristics , adaptive short-cuts in the decision process are used to make decisions in complex situations where information may be incomplete or difficult to understand .
+Also , the emotional impact of being diagnosed with cancer may lead patients to base decisions on fear rather than scientific evidence  .
+In terms of theoretical research , two particularly informative models of how oncology patients seek out healthcare information exist in the literature .
+Johnson  produced the comprehensive model of information seeking ( CMIS ) which focuses on characteristics and utility of information channels ( sources ) as well as factors antecedent to information seeking ( personal relevance and background factors ) .
+More recently , Longo  developed a conceptual model , which identifies several personal and contextual factors thought to influence information seeking and use ; factors that are roughly equivalent to Johnson 's personal relevance and background factors .
+But instead of focusing on the characteristics of the sources , the Longo model describes the actual process of information seeking and information use .
+Two kinds of information use are identified : one resulting from active information seeking and one resulting from the passive receipt of information .
+In each of these two categories , several phases of information use are identified according to the level of the patient 's involvement .
+For example , in phase 1 , the patient is not aware of or does not receive the available information .
+In phase 2 , the patient is aware of the information but does not attempt to access it , or passively receives it and so on .
+Longo identifies satisfaction , health outcomes , activities of daily living ( ADLs ) , and empowerment / locus of control as relevant patient outcomes .
+Conceptual models are helpful in identifying key variables that are to be studied , and can help in organizing the findings of related research  .
+Evidence obtained from empirical research or systematic review of the existing literature either refute or confirm the models proposed relationships , thus either challenging or strengthening the model .
+The ultimate goal is to produce the most accurate and parsimonious representation of the truth .
+The Longo model is useful in that it synthesizes and integrates the concepts surrounding information seeking and use by cancer patients , however , the relationships proposed need to be tested and refined .
+It is our intention to determine whether or not the influencing factors and relationships presented in the Longo model are supported by the existing literature .
+In order to resolve this , we have sought out empirical articles that explore the ways in which breast cancer patient 's acquire and utilize information for treatment decision-making .
+In this paper , the authors survey the existing literature relating to the expressed information needs of early-stage breast cancer patients facing a treatment choice between mastectomy and lumpectomy , the information sources used to satisfy these needs , and the outcomes related to decisional support interventions .
+Specifically , we summarize research related to the following questions:Question 1 : What are the various expressed information needs of early-stage breast cancer patients ( in terms of type , range , quality , and quantity ) and what sources of information are used to fill these various needs within the context of a treatment decision between mastectomy or lumpectomy ?
+Question 2 : What effects do women identify as a result of using research evidence , specifically decision aids used to support a treatment decision between mastectomy and lumpectomy ?
+2. Methods .
+Broadly speaking , the aim of a systematic review is to synthesize the findings of several studies that address the same topic or problem , using strategies that limit bias and random error .
+Studies are put through a rigorous critical appraisal process and findings are combined and interpreted  .
+When findings are too diverse to be compared statistically or when the research methods used are dissimilar , a more narrative approach must be undertaken .
+The research questions guiding this review cast a broad net into the literature resulting in the capture of a diverse set of studies .
+It was evident early in our process that an integrative review was a more appropriate strategy to assimilate the findings .
+Integrative reviews allow for the inclusion of a diversity of literature , both empirical and theoretical and can contribute to a comprehensive portrayal of the topic of interest [ 39 , p. 57 ] .
+2.1. Procedures .
+A review of the literature published over the last 20 years was conducted using the following databases : Cumulative Index to Nursing and Allied Health Literature ( CINAHL ) , Medline , PsychINFO , Science Citation Index Expanded , Social Sciences Citation Index , and the Arts and Humanities Citation Index ( the last three through the Web of Science ) .
+The search was limited to articles published in English between January 1 , 1986 and March 31 , 2006 .
+In order to adequately cover the topic under review , we conducted two searches , with each relating to one of the guiding questions .
+The first search used the terms information seeking , information sources , information seeking behaviour , information needs , decision-making , information resources , oncology , cancer , and neoplasms and yielded 557 hits .
+The search was further refined using the limiting terms breast conserving therapy , BCT , lumpectomy , mastectomy and surgery .
+This resulted in a substantial narrowing of the focus of the search and consequently the number of hits was reduced to 64. The abstracts of these articles were reviewed and it was determined that only eight articles were relevant to the topic of review .
+In conducting the second search , the key search terms used were decision-making and treatment choice in combination with oncology , cancer , or neoplasm and yielded a combined total of 1922 hits .
+The search was further refined using the limiting terms decisional support , decision aids , CDA , and consumer decision aids .
+This resulted in a substantial narrowing of the focus of the search and consequently the number of hits was reduced to 63. The abstracts of these articles were reviewed and it was determined that only three of the articles were relevant to the topic of review .
+Acceptance or rejection of an article was based on the inclusion / exclusion criteria listed in Fig. 1. A complete list of excluded articles ( 127 ) is available from the authors .
+Full-size image ( 69K )
+Fig. 1. Expanded conceptual model of health information seeking behaviors and the use of information for health care decisions ( from Ref.  ) .
+View Within Article .
+Combined , the relevant articles from the two searches numbered 11. A search of the reference lists ( ancestry search ) of the retained articles yielded another 11 articles .
+Hand searching of the following journals yielded the final three articles : Psycho-Oncology , European Journal of Cancer Care , Medical Decision Making , Oncology Nursing Forum , Cancer Nursing , and Patient Education and Counseling .
+In all , 25 articles met the inclusion / exclusion criteria .
+We determined that a methodological evaluation was not feasible , given the disparate research methods used among the included articles .
+3. Results .
+The retrieved articles were sorted into three broad categories .
+In all of the articles , the study participants were early-stage breast cancer patients within the context of having to make a treatment decision between mastectomy or lumpectomy .
+Investigators in the first group reported on studies examining information needs , the second group on the sources of information preferred and / or used , and the third group on the effectiveness of a specific decisional support intervention .
+The first two groups provided a potential answer to Question 1 , and the third group of articles provided a potential answer to Question 2. .
+Table 1. .
+Articles examining information needs of early-stage breast cancer patients .
+AuthorsYear publishedCountrySampleMeasurement toolsRanked information needs ( in order , highest first ) Differences between groups ? ( by topic , quality , amount , or reason ) Bilodeau and Degner  1996CANn = 74 RR = not reportedInformation needs ( 9 item list ) ; Thurstone 's paired comparisonDisease stage , chance of cure , treatment options , physical and emotional aspects , side effectsSelf-care more important to older women and those with high school education or less Degner_et_al.  1997CANn = 278 RR = 84.6%Information needs ( 9 item list ) ; Thurstone 's paired comparisonChance of cure , spread of disease , treatment options , family risk , adverse effectsSexual attractiveness more important to younger women ; self-care more important to older women ; family risk more important to women with a family member with breast cancer ; chances of a cure more important to those who want an active role in DM ; chances of a cure more important , closer to time of diagnosis ; self-care more important further from diagnosis Galloway_et_al.  1997CANn = 70 RR = 55.1%51-Item Toronto Informational Needs Questionnaire-Breast Cancer [ TINQ-BC ] Disease , treatment , tests , physical , psychologicalThe higher the age , the lower the total score ( fewer information needs ) .
+There were no differences based on marital status , income , or education Graydon_et_al.  1997CANn = 70 RR = not reported51-Item Toronto Informational Needs Questionnaire-Breast Cancer [ TINQ-BC ] Treatment , disease , tests , physical , psychologicalNo differences between treatment subgroups and no differences based on marital status , education , or income ; younger women had a greater need for information ( higher total score ) Hack_et_al.  1994CANn = 35 RR = 100%Ranking statements describing information needs under each of seven categoriesNo overall ranking ; seven stated hypotheses relating to decisional control ( active/collaborative / passive ) and information needsActive patients want to receive detailed information about their illness and its treatment , some passive patients want minimal information , but there is a subgroup of passive patients who want detailed information , even though they do not wish to take part in DM Henman_et_al.  2002AUSTn = 20a RR = not reportedSemi-structured interview by telephoneNot rankedReasons for information seeking : to gain a sense of control , reduce anxiety , change behavior , to predict the future .
+Most women wanted as much information as possible Luker_et_al.  1995UKn = 150 RR not reportedInformation needs ( 9 item list ) ; Thurstone 's paired comparisonDisease cure , disease stage , treatment , family risk , side effectsFor women 40 years of age and 40 - 60 years , information regarding sexuality was more important than for women 60 years of age ; older women rated information regarding their social life as more important than did younger women Wallberg_et_al.  2000SWEDn = 201 RR = 77%Information needs ( 9 item list ) ; Thurstone 's paired comparisonDisease cure , disease stage , treatment risksRankings did not change with decisional control desired or time since diagnosis ; women with intermediate levels of education rated information about treatment options as second and stage of disease as third priority .
+Full-size table .
+a Sample size of 20 , eleven with diagnosis of breast cancer .
+View Within Article .
+Table 2. .
+Articles examining the sources of information used and / or preferred by early-stage breast cancer patients .
+AuthorYearCountrySampleMeasurement toolsRanked / listed sourcesFactors influencing source use Bilodeau and Degner  1996CANn = 74 RR = not reportedRanking sources from a provided list of 10Ranking of sources used : physicians , friends and family , and nurses .
+Ranking of preferred sources : physicians , nurses , friends , or relatives , brochures , medical journals , or textbooksCorrelation : level of education and use of medical journal ( r = 0.348 ; p = 0.002 ) .
+Overall , people sources used more than written sources Cawley_et_al.  1990USn = 68 RR = 42.5%List of five specific items and who supplied the informationRanking of sources used : physicians were primary providers ( no % given ) , nurses ( 23% ) .
+Also mentioned : American Cancer Society , library , pamphlets , friends85% of the younger women ( in their 50 's ) were satisfied with the information received from their physician , but only 61% in their 60 's and 70 's felt well informed Hughes  1993USn = 71 RR = 60%18-Item background inventory ( included a list of sources ) Top three sources used prior to consultation : lay media , relatives and friends , educational brochures .
+Also mentioned : healthcare professionals , neighbors , textbooksMastectomy group received information from more sources than did BCT group ( p 0.01 ) before their consultation ( author presumed sources were informalfriends , family , media ) Lacey  2002USn = 12 RR = N/AN / AListed , not ranked by preference or use : physicians , family , friendsRelevant themes elicited : trusting the opinion and advice of physicians about treatment decisions and appreciating the importance of family and friends support in decision-making Mastaglia and Kristjanson  2001AUSTn = 175 RR = 49%16-Item factors list ( included influential sources ) Percentage ( sources used ) : surgeon ( 90.5% ) , general practitioner ( 73.5% ) , family ( 71.1% ) , friends ( 62.7% ) , cancer foundation ( 56.6% ) Mastectomy group named family as a more frequent source than the BCT group ; BCT group named their GP as a more frequent source than did the mastectomy group Petrisek_et_al.  1997USn = 179 RR = 84%15-Item factors list ( included influential sources ) Listed , not ranked by preference or use : physician ( initial consult or second / third opinion ) , family and friendsSeeking a second opinion declined with age ; older age was associated with wanting someone else to make the treatment decision for them ; younger women wanted as much information as possible ; older women least likely to have discussed treatment decision with a layperson Rees and Bath  2001UKn = 156 RR = 77%List of sources used obtained from focus group interviewsListed , not ranked by preference or use : healthcare professionals , family and friends , charitable organizations , support groupsReasons to seek out information : to facilitate coping , to regain a sense of control , to increase confidence , to help in DM .
+Reasons to avoid information : to prevent worry , to avoid fears , to minimize feelings of negativity and depression Silliman_et_al.  1998USn = 388 RR = 78%Likert-like scale to rate a list of sources ( # in list not reported ) Percentage ( very or somewhat helpful ) : breast cancer physician ( 99% ) , written materials from physician ( 95% ) , other written ( 92% ) , friends and family ( 84% ) , primary care physician ( 72% ) Oldest women ( 75 years of age ) less likely to receive written information from sources other than their physician or from family / friends .
+Younger women were more likely to find written information from physician or family / friends very or somewhat helpful Smitt and Heltzel  1997USn = 115 RR = 65%Likert-like scale to rate a list of 19 sourcesMean score ( sources used ) : surgeon ( 4.5 ) , primary care physician ( 2.8 ) , spouse ( 2.4 ) , radiation oncologist ( 1.7 ) , medical oncologist ( 1.5 ) Impersonal sources less influential .
+Spouse , children , friends , and parents more influential for the mastectomy group .
+Radiation oncologist more influential for the BCT group Talosig-Garcia and Davis  2005USn = 287 RR = 74%Percentage of respondents receiving information from specific sources at the time of and after diagnosisPercentage ( accessed first ) : health professional ( 29.9% ) , book , brochures or pamphlets ( 18.6% ) , Internet ( 13.4% ) , hospital or clinic ( 10.3% ) , cancer organization ( 8.2% ) .
+Percentage ( sources very helpful ) : books , brochures , pamphlets ( 98% ) , health professional ( 97% ) , spouse / partner ( 62% ) , newspaper / magazines ( 46% ) , Internet ( 39% ) Internet is not extensively used by minority breast cancer patients .
+75% of women found the information they received at time of diagnosis to be adequate Ward_et_al.  1989USn = 22 RR = 92%Respondents chose top three sources from a list of eight sourcesPercentage ( sources used ) : physician ( 82% ) , family ( 41% ) , friends / clinic handout ( tied at 36% ) , nurse ( 32% ) , media / clinic videotape ( tied at 18% ) People sources significantly more important ( t = 3.43 ; p = 0.003 ) .
+Nurse was second most frequently used source for BCT group after physician ; family and friends were second most frequently used source after physician for the mastectomy group .
+Full-size table .
+View Within Article .
+Table 3. .
+Clinical trials of consumer decision aids ( CDAs ) for surgical treatment of early-stage breast cancer .
+Article ( year and country ) Description of aidStudy designSample detailsControlOutcome measuresFindings Sawka_et_al.  ( CAN ) Audiotape and workbook with values clarification , reviewed after consultation with surgeon re-diagnosisSequential pilots ( 2 ) Pilot 1 : n = 18 ; Pilot 2 : n = 10 consecutive ; patients from two surgeonsN / ALevel of anxiety , knowledge of treatment options , decisional conflict , decisional regretAnxiety was unaffected by the CDA ; knowledge level improved ; some decisional conflict ( subscale of the DCS ) remains after using the CDA Goel_et_al.  ( CAN ) Audiotape and workbook with values clarification , reviewed after consultation with surgeon re-diagnosisCluster randomization clinical trial ; data collected at T1 ( baseline ) , T2 ( prior to surgery ) , and T3 ( follow-up ) n = 136 ; Response rate of 32.8% of surgeons contacted ; 85.4% of patients enrolledTri-fold pamphlet with same information as CDA , but no graphics , numbers , photos , or values clarificationLevel of anxiety , knowledge of treatment options , decisional conflict , decisional regretNo overall effect of CDA , but a trend towards overall decisional conflict reduction in women leaning towards MAS or those who were unsure at enrollment ; many positive comments form participants ( qualitative ) Molenaar_et_al.  ( NET ) Interactive Breast Cancer CDROMQuazi-experimental ; pre-test / post-test ; longitudinal with three data collection points ( T1 , T2 , T3 ) and three sitesn = 167 ; Response rate 93% ; consecutive ; data collection pre-operative and at 3 and 9 months post-surgeryBrochures , oral information from their surgeon ; each site served as control at least onceDecisional style , treatment preferences , decisional conflict , quality of life , breast cancer specific functioning and symptoms ; satisfaction with : information ( general and treatment specific ) , DM process , decision , and carePositive effect of CDROM on satisfaction with information and treatment decision 
+at T2 and positive effect of CDROM on satisfaction with information , DM process , and communication with physician at T3 ; CDROM group reported better general health at T2 and T3 , and better physical functioning at T3 Whelan_et_al.  ( CAN ) Physician administered decision board ; 25 in .
+20 in. , sliding doors reveal information in a sequential fashion ; two information cards read before and after presentationPilot studyn = 175 ; Response rate 71.7% ; consecutive patient from 7 surgeonsN / ASatisfaction with : DM process , information provided , decision made , decision board .
+Comprehension of information presented , time required to complete , physician satisfaction with DM processThe decision board was : easy to understand , helped with decision , and helped patients think of questions to ask .
+Patients who used the decision board : recommended it be used with other patients , were satisfied with the information they received , and reported satisfaction with the DM process .
+Physicians found the intervention helpful for most consultations Whelan_et_al.  ( CAN ) Physician administered decision board ; 25 in .
+20 in. , sliding doors reveal information in a sequential fashion ; two information cards read before and after presentationPaired cluster randomized clinical trial ( surgeons randomized ) ; surgeons were pair-matched based on age and gendern = 20 Surgeons with 201 patients ( 94 intervention ; 107 usual practice ) Usual practice : surgeon discusses treatment in the usual fashion without the decision boardPatient knowledge , decisional conflict , satisfaction with DM , and the treatment choice , anxiety , and depressionCDA group vs. control group following consultation : higher knowledge scores ( p 0.001 ) ; lower decisional conflict ( p = 0.02 ) ; higher satisfaction with DM ( p = 0.05 ) at time of consultationno differences at 6 and 12 months .
+No differences in anxiety or depression scores between intervention and control group at any time Sepucha_et_al.  ( US ) Consultation recording : five step intervention ( contracting , agenda setting , mapping , commitments , and debriefing ) administered during consultation by a researcherSequential controlled trial ; measurement at three points : pre-intervention ( #1 ) , post-consultation planning ( #2 ) , and post-intervention ( #3 ) n = 12 Control arm , n = 12 intervention arm 2 physicians with approximately equal numbers in both armsResearcher present during consultation but did not take part ( physician conducted surgical consultation as per usual practice ) 10-Item decision quality scale ( patient and physician versions ) ; 7 item UCSF satisfaction with consultation scale ( patient and physician versions ) Higher decision quality with intervention ( vs. control ) on patient decision scale #3 ( p = 0.008 ) ; amount of agreement between patients and physicians was fair for control group ( kappa = 0.28 ) ; moderate for the intervention group ( kappa = 0.49 ) and significant ( p 0.0001 ) ; time to administer the intervention was not significantly more than control .
+Full-size table .
+View Within Article .
+3.1. Information needs studies .
+There were eight articles  in which authors discussed the expressed informational needs of early-stage breast cancer patients within the context of choosing between mastectomy and lumpectomy .
+Despite the variety of methods used by this group of investigators , their findings were consistent .
+All of the articles reported that overall desire for information was high .
+The majority of patients wanted as much information as possible .
+The most requested information was about chances of a cure , followed ( in order ) by stage of the disease , treatment options , family risk , and side effects .
+Stage of disease is related to chance for a cure in that the stage of the cancer is an indication of the severity of the illness and consequently , how curable it is .
+The next greatest desire was for treatment information .
+While having information available to help in decision-making was important , it was not the only reason for satisfying an information need , as was reported in the article by Henman_et_al.  .
+There were a number of factors found to be associated with the type and degree of information need , and these are summarized in Table 4. .
+Table 4. .
+Summary of information needs and information sources findings .
+VariableInfluence ( # of articles with significant findings ) Information need Age Older agePreference for information about self-care ( 2 ) , social life ( 1 ) Fewer information needs ( 1 )
+Younger ageGreater need for information ( 1 ) Preference for information about physical attractiveness ( 1 ) , sexuality ( 2 )
+Education Lower educationPreference for information about self-care ( 1 )
+Preferred degree of decisional controlPreference for information about chances for a cure ( 1 ) Family history of breast cancerPreference for information about family risk ( 1 )
+Time since diagnosis Further from diagnosisPreference for information about self-care ( 1 ) Closer to diagnosisPreference for information about chances for a cure ( 1 )
+Actual role in decision-making Active patientsPreference for detailed information ( 1 ) Passive patientsPreference for minimal information , but a subgroup want detailed information ( 1 )
+Sources of information Age Younger ageSeeking a second opinion ( 1 ) Wanting as much information as possible ( 1 ) Satisfaction with information received from physician ( 1 ) Written information from physician or family and friends very or somewhat helpful ( 1 )
+Older ageWanting someone else to make the decision ( 1 ) Less likely to have discussed treatment decision with a layperson ( 1 ) Less likely to receive written information from sources other than physician or family and friends ( 1 ) Less likely to want more information about therapy choices ( 1 ) Less likely to have consulted three or more physicians about treatment ( 1 )
+Education Higher educationUse of medical journal ( 1 )
+Involvement in DM Higher involvementUse of GP as an information source ( 1 )
+Type of surgery MastectomyMore sources used prior to consultation ( 1 ) Family more frequent source ( 1 ) Spouse , children , friends more influential ( 1 ) Family and friends second most frequent source after physician ( 1 )
+LumpectomyGP more frequent source ( 1 ) Nurse second most frequent source after physician ( 1 ) Radiation oncologist more influential ( 1 )
+Full-size table .
+View Within Article .
+3.2. Information sources studies .
+Investigators in 11 studies  explored the sources of information that breast cancer patient 's access in order to support a choice between two forms of surgical treatment .
+Preferred sources were ranked either by the participants directly , or the rankings were determined based on mean scores from Likert-like evaluative scales .
+Overall , in all but one study  , physicians were the most preferred source , followed closely by other healthcare providers .
+In the single study that mentioned the Internet , the World Wide Web was ranked fifth behind newspapers and magazines  .
+Of the studies that ranked the actual sources used , participants were asked either to pick from a list which sources they used , to rate the degree of influence ( Likert-like scale ) the choice had on their treatment decision , or to simply list the sources they used .
+Again , healthcare professionals were the most frequently identified sources or had the greatest influence on decision-making .
+Family and friends were also highly ranked .
+In one study  , participants were asked to list which sources they accessed first after receiving their diagnosis and , in this case , the top three sources ( in order ) were physicians , books , brochures and pamphlets , and the Internet .
+Age and the type of surgery chosen were found to influence source choice .
+Findings from one of the studies that used qualitative methods included two themes that were consistent with what the quantitative studies found : trusting in the advice and opinion of physicians about treatment decisions , and appreciating the importance of support from family and friends in decision-making  .
+Both themes support the notion that interactive human sources of information are preferred over static paper-based or electronic sources .
+3.3. Decision aid studies .
+While there were several well-known evaluative studies of decisional support interventions that included a mixture of decision aids  ( in terms of purpose , patient population , or diagnoses ) , there were only six studies that focused on women making the treatment choice between lumpectomy or mastectomy  .
+Quantitative findings were equivocal .
+Statistically significant differences were found between intervention and control groups in some studies , while other studies found no differences .
+Qualitative findings were more definitive .
+Patients appreciated the clarity of information , the use of diagrams and pictures , and the fact that information that the physician provided was reinforced .
+Overall , both patient and physician reaction to the interventions was positive .
+Table 5. .
+CDA outcomes .
+Full-size table .
+( .
+Full-size table ( 2K )
+) Intervention group compared to a control group ; significant at p 0.05 ; ( ) increased ; ( ) decreased ; ( NR ) no relationship ; ( ) not measured or not reported .
+View Within Article .
+3.4. Methodological rigor .
+The disparate nature of the research methods used among the included articles precluded any systematic quality assessment from being performed .
+Articles using similar methods were grouped together for a narrative assessment of research rigor .
+The most common research design used to investigate information needs and sources was a descriptive cross-sectional design .
+Methods of data collection included self-report questionnaire , card-sorts , and interviews ( both individual and focus group ) .
+Questionnaires about source use / preference and information needs were able to elicit the degree of use or preference by using a Likert-like scale .
+However , a ceiling effect was noted especially in the information need studies , with patients designating every kind of information as being important .
+The card-sort technique used in four of the studies eliminated this problem and allowed information needs to be measured relative to each other .
+The use of consecutive and convenience sampling in the quantitative studies , while understandable given the difficulty in randomizing patients and the vulnerability of the population under study , does introduce potential sampling bias .
+Samples used in the majority of studies were predominantly white , well-educated , middleclass women .
+Attempts to attain a more balanced sample by using quota sampling for example , may have led to a more representative sample , and therefore , to a greater ability to generalize to the population at large .
+The one study that focused on ethnicity  did find some subtle differences in source use ( higher %use of written materials ) suggesting that more heterogeneous sampling may produce slightly different results .
+Purposive sampling was used for the qualitative studies , which is entirely appropriate given that the goal of this kind of sampling is to ensure that those informants with a special knowledge of a phenomenon are chosen .
+Another factor , the time between diagnosis and data collection , varied substantially among the studies .
+Anywhere from 0 ( i.e. at the time of diagnosis ) to 119 months passed between the diagnostic consultation and data collection making recall bias a considerable threat .
+Given that information needs were found to change over time in one study  , it is quite likely that information needs at 18 months post-diagnosis will not be comparable to information needs at time of diagnosis .
+None of the studies examined source use over time .
+Data analysis consisted of either simple reporting of frequencies / rankings or the use of various statistical methods to determine if differences in rankings according to a specific variable ( age , education , choice of surgery , degree of decisional control , etc. ) were statistically significant .
+All the analysis was done at the individual level .
+Articles reporting the results of decisional support interventions used various experimental and quasi-experimental designs to determine the effectiveness of different decision aids .
+Three of the articles reported on the development and pilot testing of decisional support tools  .
+Two of the studies  used a randomized controlled trial design ( cluster randomization with physicians randomized ) and , one study  used a pre-test / post-test longitudinal design with data collection occurring at three points .
+Control groups received either the usual practice or a significantly scaled down version of the decisional support intervention .
+Statistical tests used to determine if differences between groups were statistically significant were the t-test , Chi-square test , and MANOVA .
+Power calculations were reported for all three of the studies that were not pilots .
+One of the three non-pilot studies was underpowered  .
+In summary , the information needs and the sources accessed to satisfy these needs have been explored in several studies , but mainly on a descriptive level .
+Additionally , the sampling methods used in these studies may limit the generalizability of the results .
+The studies that examined decision aid outcomes , while methodologically more rigorous , found only very modest differences between the intervention groups and the usual practice .
+4. Discussion and conclusion4.1 .
+Discussion .
+This review focused on the information needs identified by early-stage breast cancer patients in the context of making a treatment choice and the sources of information they access to satisfy those needs .
+Investigators have conducted systematic reviews of the literature examining the information and support needs of breast cancer patients  and cancer patients in general  , but none have focused specifically on information needs in the context of making a treatment choice .
+Only one systematic review of the sources of information used by cancer patients could be located  .
+One review  examined information needs and sources use in tandem .
+Systematic reviews of decisional support interventions for cancer treatment decision-making exist  , however , none were restricted to examining the use of consumer decision aids ( CDAs ) with breast cancer patients specifically .
+This review then , is unique in that it links together these three different but related aspects of information seeking behavior , and examines them within the context of a specific patient population at a particular juncture of their disease trajectory .
+Based on this review , the relationship between information needs , information sources , and decisional supports can be described in the following way .
+Most , but not all patients wish to be involved in treatment decision-making  .
+Those who take part in planning their treatment need to base decisions on some sort of information .
+This requirement for information is expressed as an information need .
+How this need is satisfied determines the sources accessed .
+CDAs are interventions designed by healthcare professionals to help patients and their physicians choose among two or more sound clinical options  .
+However , patients may not be aware of , have access to , or have the desire or need to use a CDA .
+A decisional support intervention is only one of any number of information sources on which a patient may base her treatment decision .
+As well , several factors such as age , education , and health status may influence which information needs have priority and which information sources are accessed .
+4.1.1. Information needs .
+The overall ranking of information needs was fairly consistent with chances for a cure and stage of disease taking precedence over treatment information .
+This is not surprising since the question ( in most cases ) was asked relatively close to the time of diagnosis .
+Cancer is seen as a threat to life and being able determine the extent of that threat would likely be a priority .
+Information needs were found to be influenced by several factors , albeit not consistently , over the eight articles reviewed .
+Age , education , time since diagnosis , and degree of participation in decision-making were all found to influence information need priority rankings .
+For example , older women ranked information about sexuality lower , and information about self-care higher than younger women .
+This could be explained in a number of ways .
+Older women are more likely to be single and therefore , may lack a sexual partner or they may have increased sexual dysfunction due to post-menopausal hormonal changes  .
+Women already coping with age-related functional changes may be concerned that disease-related changes may threaten their ability to maintain independence .
+As a result , information needs regarding self-care took precedence over sexuality .
+An alternate explanation may be that older women have more sexual experience to draw from than do younger women , and therefore , have fewer information needs .
+Another factor found to influence information needs was time since diagnosis .
+Information concerning chances of a cure and stage of disease were the most important needs for all breast cancer patients , but they took on a higher priority closer to the time of diagnosis .
+This is not surprising , since the degree of threat and feelings of vulnerability would be heightened at the time of diagnosis and would dissipate somewhat over time  .
+4.1.2. Information sources .
+The choice of sources of information used by early-stage breast cancer patients to inform their treatment choice was consistent in that people sources were ranked higher than media or documentary sources in almost all of the studies , with physicians being the most preferred / used source overall .
+The use of family and friends as an information resource was also a prevalent finding .
+Patients appreciated human sources of information for their interactive natureinformation could be tailored to their specific situation , misunderstandings could be rectified , questions answered , and information gaps filled .
+Human sources , however , differ in terms of their knowledge domains .
+A physician , a nurse , and a family member would each have a different kind of expertise , but in the studies examined here , they were not differentiated .
+It would be helpful to know what kind of information is being sought from family and friends , and what kind is being sought from health professionals , and what the relative importance in the decision-making process each has .
+Factors found to be associated with the kind of source used were chiefly age , education , degree of involvement in decision-making , income , and eventual surgical choice .
+For example , older women were found to be more satisfied with the information they received from their physician , while younger women wanted more information and sought it out from a greater variety of sources .
+There was speculation that this was due to a change in attitude towards the medical profession , and that older patients would be more familiar or comfortable with a physician - patient relationship where the physician had a larger decision-making role , and therefore , would trust that what information the doctor gave them was good enough .
+Income and education impacted sources use in predictable ways .
+In the two minority groups studied , higher income was associated with computer ownership and consequently with the higher ranking of web-based sources .
+Higher education was associated with the use of medical journals in one study .
+As would be expected , the overall use of traditional research dissemination vehicles ( i.e. peer-reviewed healthcare journals ) by patients was very low .
+For those patients with considerable education , however , it was a source that was accessed .
+More highly educated subjects may have more positive attitudes towards research and may be better able to understand and assess research findings .
+4.1.3. Decision aids .
+The CDA studies examined in this review showed mixed findings .
+Some decreased decisional conflict and increased satisfaction with the decision and increased knowledge scores .
+While qualitatively the comments regarding the decision aids were very positive , quantitatively differences between the usual practice and the use of the CDA were modest at best .
+This may suggest that women were getting the information they need from other sources , or were getting the information they needed from their physician without having to use a CDA .
+This is congruent with a finding from Peirce 's  study ; that most women were able to make a satisfactory decision regarding their breast cancer treatment without the use of a decision aid .
+4.1.4. Longo model .
+The authors found that certain aspects of Longo 's model were supported by the findings of this integrative review .
+In the information needs literature , the variables age and education ( demographic factors in the Longo model ) , time since diagnosis ( delivery of care ) , and degree of participation in decision-making ( attitudes , intentions , behaviors ) were found to influence the kind of information breast cancer patients desired .
+In the Longo model  , these variables and others are posited to influence information seeking and use .
+The influence of factors ( in the Longo model ) , such as culture , language , healthcare structure , etc. , on information seeking and use are not supported in the literature .
+Either no significant statistical relationships have been found , or the influence of these factors on information seeking and use are too difficult or expensive to measure .
+For example , the influence of healthcare structure on information seeking would require a multi-national study involving countless participants and would likely be cost-prohibitive .
+Although information needs are not the same as information seeking and use , it could be argued that information needs are a prerequisite for information seeking .
+In order for active information seeking to occur , a need must be perceived .
+It may be that the factors that influence the type , quality and / or quantity of information a patient requires also influence how ( actively or passively ) a patient acts to satisfy an information need .
+For example , a woman 's high priority information need would be actively sought out , while a lower priority need may be passively received .
+Longo mentions health outcomes , empowerment / locus of control , satisfaction , and ADLs as patient outcomes that are affected by information seeking behaviors and information use .
+These variables are similar to the outcomes that were measured in the CDA studies .
+While a CDA is only one of many different sources of information that could be used , the fact that they were found to significantly increase satisfaction ( with the information , the decision , and the decision process ) and improve health outcomes supports the relationship between information seeking and use and patient / consumer outcomes represented in the model .
+Connections between information seeking / use and locus of control / empowerment and activities of daily living were not supported by the reviewed literature .
+One weakness of the Longo model is that it does not address differences in choice of information source as it varies by personal ( e.g. age ) or contextual ( e.g. geographic proximity ) factors .
+The assumption is that one of the three types of sources or channels ( used interchangeably here ) will be used , but there is no indication in the model that these channels may be influenced by personal or contextual factors .
+In Johnson 's comprehensive model of information seeking  , source characteristics and perceived source utility are seen to influence source choice .
+In this review , age , education , degree of involvement in decision-making , and income were all found to be associated with source choice .
+Incorporating the characteristics of the individual , the context and the source ( including utility ) into the model would strengthen it , and would help to explain the role that source choice has in affecting outcomes , such as satisfaction with the decision made .
+We suggest that a more refined version of the model would provide greater insight and understanding into the way in which consumers of health information determine what information is important , how that information is accessed , and how being the recipient of health information impacts outcomes such as satisfaction and well-being .
+The suggested relationships within the model that were not supported in the literature need to tested and developed .
+We suggest that further research is needed to explore these interactions .
+4.1.5. Implication for future research .
+While we are beginning to understand what information is important to breast cancer patients , what sources they use , and the role of CDAs in providing information , many questions regarding information seeking and information use are left unanswered .
+For example , why are some sources preferred over others , what are the qualities of these information sources that make them attractive to patients , and are CDAs the best way of providing the information patients need to make an informed healthcare decision ?
+Additional research designed to answer these and subsequent questions will provide the insight required to refine a model of health information use by patients .
+4.2. Conclusion .
+Women with early-stage breast cancer who are facing surgical treatment for their disease express a desire for information about chances for a cure , the staging of their disease , and the available treatment .
+Several factors influence this expressed desire including age , stage of disease , and whether they are active or passive participants in decision-making .
+The sources preferred and accessed by these women to satisfy these information needs are overwhelmingly interactive human sources , primarily in the studies we have reviewed , physicians .
+Age , education , and type of treatment chosen influenced the choice of information source .
+While qualitative findings supported the use of CDAs , the qualitative findings were more ambiguous .
+Patients using decisional support interventions were found to have less decisional conflict , higher satisfaction with the decision made and the decision process , and higher knowledge levels in some , but not all studies .
+In relation to the considerable cost of producing decision aids , the benefits of using them are fairly meager .
+4.3. Practice implications .
+For those making breast cancer treatment decisions , we know that interactive human sources of evidence are preferred and used far more than any other source , that treatment information is of high priority , and that many , but not all , patients want as much high quality information as possible .
+Increasing participation in healthcare decision-making by patients has necessitated the development of interventions that provide current , systematically derived research , thus ensuring that healthcare decisions can be made based on the best evidence .
+Decision aids are not universally available , and when they are used , either by the patient themselves , or in conjunction with a healthcare professional , they produce limited benefits .
+Of course , trends in information needs and source choice based on demographic characteristics do not imply that all members of a specific population hold similar preferences .
+Many authors stress the need to assess information needs on an individual basis .
+As well , assumptions about source use should not be made .
+Not all younger patients are Internet savvy , and not all older patients think that their physician 's opinion regarding treatment is good enough .
+Practitioners need to be aware of the trends , but not be limited by them .
+Further research in this area should focus on determining the reasons certain sources are used , and in what contexts .
+If interactive human sources are preferred by patients , then by what mechanism ( s ) are they evaluated ?
+In addition , what role does traditional research play in patient decision-making ?
+A better understanding of the concepts surrounding source use ( i.e. a conceptual model ) would provide a solid foundation from which to create more effective ways of disseminating information to patients that is essential for optimal decision-making .
+Acknowledgements .
+Ms .
+O'Leary is supported by an Alberta Heritage Foundation for Medical Research ( AHFMR ) M.Sc. studentship and a Canadian Institute for Health Research ( CIHR ) Graduate Scholarship .

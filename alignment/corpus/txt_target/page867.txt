@@ -1,0 +1,104 @@
+Angiogenesis is important for growth , progression , and metastasis of solid tumors  .
+Vascular endothelial growth factor ( VEGF ; OMIM 192240 ) plays a central role in this process by acting as an angiogenic inducer , an endothelial cell-specific mitogen , and a mediator of vascular permeability  .
+There is evidence of an important role for VEGF in breast cancer .
+VEGF mRNA and protein expression have been shown to be increased in both non-invasive  and invasive breast cancer tissue in comparison to adjacent normal breast tissue  .
+In addition , VEGF expression levels have been reported to be increased by estrogen in breast cancer cells  and isolated endometrial cells  , which supports the notion that VEGF plays a significant role in the development of breast and other hormone-related cancers .
+Moreover , high levels of VEGF expression appear to correlate with poor prognosis and decreased overall survival in patients with breast cancer  and in those with both early-stage and advanced ovarian carcinomas  .
+The VEGF gene is highly polymorphic and more than 100 single nucleotide polymorphisms ( SNPs ) have been described in the literature .
+Of particular interest are SNPs located in regulatory regions that are associated with altered gene expression .
+One of these , a polymorphism in the 3 untranslated region , a cytosine to thymine change at position 936 results in a variant that no longer has a potential binding site for the activator protein 4 ( AP-4 ) transcription factor , which correlates with lower plasma levels of VEGF in healthy men  and women  .
+The T allele has also been found to be associated with a reduced uptake of 18F-fluorodeoxyglucose used for detection and staging of breast cancer  , providing additional evidence of the functional role of this polymorphism .
+Associations of this functional polymorphism with the risk of sporadic breast cancer have been described in various studies  .
+However , the results remain controversial as other studies did not reproduce these findings  .
+With respect to hereditary breast and ovarian cancer no data on the potential role of the VEGF936CT polymorphism as a modifier of disease risk has been published .
+There is evidence indicating that BRCA1 regulates VEGF gene transcriptional activation and secretion in breast cancer cells via its interaction with various transcription factors  .
+One study demonstrated that in the presence of wild type ( wt ) BRCA1 protein , VEGF expression and VEGF secretion were inhibited , whereas no inhibition was observed in the presence of mutated BRCA1 proteins  .
+The other study reported that increased wtBRCA1 levels enhanced both hypoxia-stimulated VEGF promoter activity and VEGF mRNA levels , whereas mutated BRCA1 proteins partially or completely lost the ability to stimulate transcriptional activity  .
+These findings are in line with those from a small Polish breast cancer study reporting significantly lower serum levels of VEGF in BRCA1 mutation carriers ( n = 18 ) than in non-carriers ( n = 32 )  .
+Thus , the associations of the VEGF936CT polymorphism with VEGF levels and BRCA1 mutation status with VEGF levels suggest that an assessment of any possible functional consequence of this polymorphism in BRCA1-associated breast cancer is required .
+To elucidate the role of this functional VEGF polymorphism in BRCA1-associated breast and ovarian cancer , we performed a case - control study among 755 Polish women carrying one of the three common BRCA1 founder mutations  including 319 breast cancer cases , 146 ovarian cancer cases and 290 controls .
+2. Materials and methods2.1 .
+Study participants .
+The Hereditary Cancer Registry at the Pomeranian Medical University in Szczecin , Poland contains clinical and epidemiological data collected from 1997 to 2002 from 1940 individuals carrying one of the three common Polish BRCA1 founder mutations : 5382insC , 300 TG and 4153delA .
+Mutation carriers were selected from families with at least one breast cancer diagnosed before 50 years of age or ovarian cancer at any age or with a strong history of breast and / or ovarian cancer .
+A self-administered questionnaire was used to collect information on potential risk factors .
+The research was approved by the Ethics Committee of Pomeranian Medical University in Szczecin , Poland and all participants gave informed consent prior to enrolling in the study .
+All women received genetic counseling prior to and at the provision of their test results .
+From the 1940 registered BRCA1 carriers , 755 female BRCA1 mutation carriers for whom DNA samples were available were included in this study : This included 319 breast cancer cases , 146 ovarian cancer cases and 290 unaffected individuals .
+The breast and ovarian cancer cases were diagnosed with invasive primary disease and had not undergone prophylactic mastectomy or adnexectomy ( breast cancer cases ) and prophylactic mastectomy , adnexectomy or tubal ligation ( ovarian cancer cases ) prior to cancer diagnosis .
+Controls for breast cancer were unaffected by breast cancer , in situ breast carcinoma or any other type of cancer and had not undergone prophylactic mastectomy or adnexectomy .
+The controls for ovarian cancer cases were unaffected by ovarian cancer or any other type of cancer and had not undergone prophylactic mastectomy , adnexectomy or tubal ligation .
+The number of subjects in the various subgroups , the median ages of cases at diagnosis of breast or ovarian cancer and of controls at the time of interview are presented in Table 1. .
+Table 1. .
+Study groups , median ages of cases at diagnosis of breast and ovarian cancer and of controls at the time of interview .
+No. of cases and controlsaRisk factor data availableMedian age of cases at cancer diagnosis in years ( range ) Median age of controls at the time of interview in years ( range ) Breast cancer cases / controls 319/290 ( total ) 41 ( 22 - 74 ) 44 ( 18 - 85 ) 232 / 225Yes41 ( 24 - 74 ) 44 ( 18 - 85 ) 87 / 65No39 ( 22 - 56 ) 48 ( 34 - 75 )
+Ovarian cancer cases / controls 146/280 ( total ) 47 ( 25 - 75 ) 44 ( 18 - 85 ) 85 / 215Yes46 ( 25 - 71 ) 44 ( 18 - 85 ) 61 / 65No48 ( 27 - 75 ) 48 ( 34 - 75 )
+Full-size table .
+a Two-hundred and eighty of the controls were used as controls for both breast and ovarian cancer cases .
+View Within Article .
+2.2. Genetic analysis .
+Genomic DNA was isolated from peripheral blood leukocytes according to Lahiri and Schnabel  .
+Genotyping of the VEGF936CT polymorphism ( rs3025039 ) was performed by PCR - RFLP analysis .
+PCR primers and conditions were as reported previously  .
+Amplified fragments were digested with Hsp92II restriction enzyme ( Promega , Mannheim , Germany ) , separated on a 3% agarose gel containing ethidium bromide ( Sigma-Aldrich , Steinheim , Germany ) and scored by UV visualization .
+The fragment sizes were 198 bp for the C allele and 87 bp and 111 bp for the T allele .
+Genotyping was performed by laboratory personnel blinded to case - control status and 48 / 755 ( 6.4% ) of blind samples were repeated .
+Concordance for these quality control samples was 100% .
+The genotyping success rate was greater than 99.5% .
+2.3. Statistical analysis .
+Risk estimates were calculated as odds ratios ( OR ) with 95% confidence intervals ( CI ) using both univariate and multivariate unconditional logistic regression .
+Crude ORs ( ORcrude ) were calculated for 319 breast cancer cases and 290 controls and 146 ovarian cancer cases and 280 controls .
+Two hundred and thirty-two breast cancer cases and 225 controls and 85 ovarian cancer cases and 215 controls were adjusted for potential breast / ovarian cancer risk factors and are referred to as adjusted ORs ( ORadj ) .
+The risk factors included , age at first live birth ( 0 , 24 , 24 years ) , parity , lifetime cumulative months of breastfeeding ( 12 , 12 months ) , age at menarche , oral contraceptive ( OC ) use ( 5 , 5 years ) , smoking ( 0 , 4 , 4 pack-years ) , body mass index ( BMI ) ( at age of breast cancer diagnosis for cases and at time of interview for controls ) , year of birth and BRCA1 mutation in the multivariate unconditional logistic regression model .
+Age comparisons among carriers of different genotypes were performed using the Mann - Whitney U-test .
+The statistical analyses were performed using the SAS / STAT ( r ) software , Version 9.1 , with the procedure LOGISTIC  .
+In order to account for a potential bias due to the presence of relatives , we also performed clustered multivariate logistic regression analysis using the SAS programme SURVEYLOGISTIC .
+Two-sided p values of 0.05 or less were considered as statistically significant .
+Due to the low proportion of women with the TT genotype ( 2.4% in patients and controls ) CT and TT genotypes were combined for analysis .
+3. Results .
+The distribution of selected cancer risk factors including age at menarche , age at first live birth , parity , breastfeeding , OC use , smoking , BMI , year of birth , and BRCA1 mutation has been shown previously and was similar between breast and ovarian cancer cases and their corresponding controls  .
+The overall prevalence of the VEGF936T allele was 14.4% in 755 BRCA1 carriers , and was lower among breast cancer patients ( 13% ) and ovarian cancer patients ( 14% ) in comparison to unaffected individuals ( 16% ) .
+The genotype frequencies of VEGF936CT polymorphism in cases and controls and the association of the genotypes with breast and ovarian cancer risk are presented in Table 2. .
+Table 2. .
+Association of VEGF936CT polymorphisms with breast and ovarian cancer risk .
+Genotype / alleleBreast cancer Cases ( n = 319 ) n ( % ) Controls ( n = 290 ) n ( % ) ORcrudea ( 95% CI ) PCases ( n = 232 ) n ( % ) Controls ( n = 225 ) n ( % ) ORadjb ( 95% CI ) P VEGF936CT CC245 ( 77 ) 202 ( 70 ) 1.00 ( reference ) 178 ( 77 ) 155 ( 69 ) 1.00 ( reference ) CT + TT67 + 7 ( 23 ) 81 + 7 ( 30 ) 0.69 ( 0.48 - 0.99 ) 0.04748 + 6 ( 23 ) 64 + 6 ( 31 ) 0.63 ( 0.41 - 0.98 ) 0.042 T allele frequencyc81 ( 13 ) 95 ( 16 ) 60 ( 13 ) 76 ( 17 )
+Ovarian cancer Cases ( n = 146 ) n ( % ) Controls ( n = 280 ) n ( % ) ORcrudea ( 95% CI ) PCases ( n = 85 ) n ( % ) Controls ( n = 215 ) n ( % ) ORadjb ( 95% CI ) P VEGF936CT CC108 ( 74 ) 196 ( 70 ) 1.00 ( reference ) 65 ( 76 ) 149 ( 69 ) 1.00 ( reference ) CT + TT33 + 4 ( 26 ) 77 + 7 ( 30 ) 0.8 ( 0.51 - 1.26 ) 0.3318 + 2 ( 34 ) 60 + 6 ( 31 ) 0.62 ( 0.33 - 1.18 ) 0.15 T allele frequencyc41 ( 14 ) 91 ( 16 ) 22 ( 13 ) 72 ( 17 )
+Full-size table .
+a ORcrude : crude odds ratio .
+b ORadj : odds ratio adjusted for age at menarche , age of first live birth , parity , breastfeeding , OC use , smoking , BMI , year of birth , and BRCA1 mutation .
+c Allele and genotype frequencies are in agreement with those previously published for healthy Caucasians  .
+View Within Article .
+The VEGF936CT genotype frequencies among breast cancer cases and controls revealed an association of the VEGF936CT + TT genotypes with a reduced breast cancer risk ( ORadj 0.63 , 95% CI , 0.41 - 0.98 ) .
+After correction for related study subjects , a statistically significant association remained ( CT + TT vs. CC : ORclustered 0.63 , 95% CI , 0.48 - 0.83 ) .
+A comparison of the VEGF936CT genotype frequencies between ovarian cancer cases and controls showed a similar decrease in ovarian cancer risk compared to that observed in the breast cancer cases among VEGF936CT + TT genotype carriers , but this was not statistically significant ( ORadj 0.62 , 95% CI , 0.33 - 1.18 ) .
+However , when corrected for family clustering , a statistically significant association was observed ( CT + TT vs. CC : ORclustered 0.62 , 95% CI , 0.47 - 0.83 ) .
+The mean age of breast cancer diagnosis in women with the VEGF936T allele was similar to that of the non-carriers ( 42 vs. 41 years ) .
+Although this age difference was small and not statistically significant ( Mann - Whitney U-test , p = 0.58 ) , it showed a tendency that would be in line with the observed protective effect of the VEGF936T allele .
+There was also no difference in the mean age of ovarian cancer diagnosis between carriers and non-carriers ( 46 vs. 47 years , Mann - Whitney U-test , p = 0.22 ) .
+4. Discussion .
+In this study we investigated the effect of VEGF936CT polymorphism on the risks of breast and ovarian cancer in women with predisposing mutations in the BRCA1 gene .
+While several investigations of the VEGF936CT polymorphism in sporadic breast cancer populations have been previously reported  , nothing is known about the effect of this polymorphism on disease risks in BRCA1-carriers .
+To the best of our knowledge this is one of the first reports to show a possible influence of the VEGF936CT polymorphism on breast and ovarian cancer risks in women who harbor predisposing mutations in BRCA1 .
+Our results indicate that the VEGF936T allele is associated with a decreased risk of breast cancer in Polish BRCA1 mutation carriers .
+The association remained after the affect of the polymorphism was adjusted for known and putative risk factors including age of first live birth , parity , breastfeeding , age at menarche , OC use , smoking status , BMI , year of birth and BRCA1 mutation .
+When correcting for related study participants the protective affects of the polymorphism remained implying that the observed risk modification is most likely to be attributed to the 3UTR polymorphism in the VEGF gene .
+Outside of the context of BRCA1 , similar associations have been reported  .
+One Austrian case - control study on 500 breast cancer cases and 500 controls found an association of the VEGF936T allele with a decreased breast cancer risk ( OR 0.51 , 95% CI , 0.38 - 0.70 )  .
+In another large population-based case - control study including 1133 cases and 1233 controls from Shanghai , the VEGF936TT genotype was associated with a decreased breast cancer risk ( OR 0.65 , 95% CI , 0.41 - 1.02 ) with this inverse correlation being restricted to premenopausal women ( OR 0.45 , 95% CI , 0.25 - 0.79 )  .
+These findings , however , were not reproduced in three other case - control studies on sporadic and familial breast cancer  .
+Furthermore , one of these studies reported the opposite effect of there being an association of the VEGF936T allele with an increased risk of in situ breast cancer  .
+In the current study a decrease in the risk of ovarian cancer was also observed taking all confounding effects into consideration , which however did not reach statistical significance most likely due to insufficient number of cases .
+Nevertheless , if only the family clustering was considered as a confounder , a significant effect was observed .
+Thus , the influence of this polymorphism on BRCA1-associated ovarian cancer risk should be pursued in larger studies .
+The study population consisted of women who harbored mutations in a gene known to confer a high risk of disease against a group of women who harbor the same germ line mutation but has not developed malignancy .
+This study highlights the potential benefits of investigating modifiers of breast and ovarian cancer risk in populations where the only difference is the presence or absence of disease .
+Some limitations of the present study should be taken into account : A general selection bias may have occurred due to the use of study participants from a registry .
+Further , due to the inclusion of incident and prevalent cases in the Polish registry , the presence of prevalent cases among our study participants may have led to a survival-bias , which is a general limitation of this kind of retrospective study .
+The effect of this change on gene expression resulting in decreased VEGF levels and as a consequence reduced angiogenesis suggests that the VEGF936CT polymorphism may modify disease risk itself .
+However , it is also possible that the observed effect is due to another functional polymorphism elsewhere that is in linkage disequilibrium with this polymorphism .
+The present study provides evidence that the functional VEGF936CT polymorphism modifies the risk of breast cancer and may potentially alter the risk of ovarian cancer in Polish women carrying BRCA1 founder mutations .
+Due to the explorative nature of this study further confirmatory studies are warranted .
+Acknowledgements .
+This work was supported by the Deutsches Krebsforschungszentrum , Heidelberg .
+Anna Jakubowska was a guest researcher from the Pomeranian Medical University , Szczecin , Poland supported by a fellowship from the DKFZ .
+Anna Jakubowska and Jacek Gronwald were supported by a Yamagiwa-Yoshida Memorial UICC International Cancer Study Grant .

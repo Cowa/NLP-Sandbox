@@ -1,0 +1,163 @@
+Le cancer du sein est le cancer le plus fréquemment observé et la principale cause de mortalité par cancer chez les femmes .
+L' incidence du cancer du sein a considérablement augmenté au cours des deux dernières décennies .
+On estime à environ 40000 le nombre de femmes atteintes en France en 2004 ( 21211 cas en 1980 ) et à environ 11000 le nombre de celles qui en meurent  .
+Sous l' effet du dépistage par mammographie , une réduction d' environ 30 % de la mortalité par cancer du sein après sept à neuf ans de suivi est clairement démontrée et acceptée sans controverse chez les femmes âgées de 50 à 69 ans inclus  .
+Il nous a semblé intéressant de pouvoir évaluer l' effet du dépistage par mammographie sur notre prise en charge .
+Nous avons ainsi réalisé une étude rétrospective , et avons effectué une analyse observationnelle des patientes prises en charge chirurgicalement pour un carcinome mammaire invasif entre 1985 et 2005 .
+L' objectif principal de l' étude était de définir l' impact du dépistage par mammographie sur la qualité de la prise en charge des patientes , en comparant avant / après l' introduction du dépistage organisé , et en comparant les patientes non dépistées à_partir_de 1994 et les patientes dépistées sur cette même période .
+À travers cet article , nous voulions répondre à ces deux questions : - existe -t il des différences significatives , en terme de soins , diagnostic , survie , récidive , entre les patientes ayant bénéficié d' un dépistage et celles n' en ayant pas bénéficié ?
+- quelle est la progression du dépistage organisé dans notre population , et quel est son impact qualitatif sur notre activité ?
+Nous pensons , en_effet , que l' introduction du dépistage organisée en 1994 , associée à un développement des dépistages individuels par les médecins traitants et gynécologues , ont permis d' optimiser les diagnostics , les rendant plus précoces , mais également les soins apportés aux patientes atteintes de cancer du sein , améliorant ainsi la qualité de notre prise en charge .
+Nous avons également analysé la part du dépistage organisé par rapport au dépistage individuel pensant apporter une preuve supplémentaire de l' intérêt du dépistage organisé par rapport au dépistage individuel avec l' apport de la double lecture et du suivi optimisé par les convocations systématiques .
+Nous pensons ainsi_que l' amélioration de notre prise en charge sera sensiblement plus importante sur ces dernières années .
+Notre étude permettra donc une description de l' évolution de cette prise en charge mais également de comparer les patientes qui ont bénéficié d' un diagnostic par dépistage organisé et celles qui n' en ont pas bénéficié , afin_d' observer les apports du diagnostic par dépistage mammographique sur la précocité des diagnostics , la taille tumorale , le stade pTNM , les traitements reçus , la survie globale et sans récidive , c' est-à-dire sur la prise en charge globale des patientes .
+2. Patientes et méthodes
+De janvier 1985 à décembre 2005 , 1579 patientes ont été prises en charge chirurgicalement pour carcinome mammaire invasif au CHU de Saint-Etienne .
+La population cible se compose des patientes âgées de 50 à 74 ans révolus , atteintes d' un carcinome mammaire invasif diagnostiqué et pris en charge chirurgicalement entre janvier 1985 et décembre 2005 , au centre hospitalo-universitaire de Saint-Etienne .
+Parmi les 1579 patientes opérées au CHU , 996 patientes étaient âgées de 50 à 74 ans révolus .
+Le choix de cette population se justifiait par sa corrélation avec celle soumise au dépistage , à l' exception des patientes atteintes de carcinome mammaire in_situ , par définition non invasif , que nous avons délibérément exclues , en raison des difficultés à en faire un diagnostic clinique , sans mammographie .
+Nous avons débuté notre recrutement en 1985 car les patientes opérées avant cette période étaient rares .
+À partir de 1985 , le nombre de patientes était en constante augmentation , passant de 40 patientes par an en 1985 , à presque 160 patientes en 2005 .
+Compte tenu de la taille de cette population , nous avons opté , dans un souci d' harmonisation et de représentativité , pour un échantillonnage stratifié sur l' année de 50 % de l' effectif avant 1993 , puis de 20 % à_partir_de 1994 correspondant à un échantillonnage de 20 à 30 patientes par année .
+L' échantillonnage a été conçu par tirage au sort manuel des patientes .
+Les critères d' exclusion étaient : les femmes qui , à_partir_de l' introduction du dépistage organisée en 1994 , sont exclues d'_emblée du programme de dépistage en raison d' un cancer du sein connu , et régulièrement suivies pour ce cancer , ou de prédisposition familiale au cancer du sein , pour qui existent des recommandations spécifiques  .
+Quatre cent soixante-treize patientes ont ainsi été incluses dans notre étude .
+Nous avons relevé les informations nécessaires à l' étude sur les dossiers médicaux des patientes de l' échantillon .
+Nous avons en_outre étudié la population dans son ensemble .
+Ensuite nous avons considéré toutes les femmes prises en charge avant 1994 , puis les femmes prises en charge à_partir_de 1994 et ayant été diagnostiquées à_partir_d' une mammographie réalisée dans le cadre d' un dépistage ( individuel ou organisé ) .
+Enfin , les femmes prises en charge dès 1994 et n' ayant bénéficié d' aucun dépistage .
+Les patientes diagnostiquées grâce_à un dépistage mammographique ont été comparées aux patientes non dépistées de la même période .
+L' analyse statistique des données a été réalisée avec le logiciel SAS .
+Les variables continues ont été décrites par la moyenne , l' écart-type et les valeurs extrêmes et comparées par une analyse de la variance .
+Les comparaisons statistiques ont été réalisées à l' aide d' un test du khi-2 pour les variables qualitatives .
+Une différence était considérée comme significative si p 0,05 .
+Les résultats sont exprimés sous forme de moyennes l' écart-type .
+Les données de survies ont été étudiées selon la méthode de Kaplan-Meier .
+3. Résultats
+Notre population était de 473 patientes , la moyenne d' âge était de 62,1 ans ( médiane de 62 ans ; extrêmes 50 - 74 ) .
+Cinquante-sept patientes ( soit 12 % ) rapportaient un ou plusieurs antécédents familiaux de cancer du sein ( chez la mère , la grand-mère ou la soeur ) , contre 254 patientes ( soit 53,7 % ) qui n' en rapportaient pas ; pour 162 patientes ( soit 34,25 % ) , nous n' avons pu retrouver l' existence ou non de cet antécédent .
+Notre étude retrouve des tumeurs siégeant autant dans le sein gauche ( 240 patientes , soit 50,7 % ) que dans le droit ( 233 patientes , soit 49,3 % ) et préférentiellement dans les quadrants externes ( 62,2 % à_droite et 66,6 % à_gauche ) .
+La taille clinique moyenne des tumeurs opérées était de 21 mm ( médiane de 20 mm ; extrême 1 - 100 mm ) .
+Nous avons effectué 75,05 % de traitements conservateurs ( soit 355 patientes ) et 29,95 % de mastectomies totales ( soit 114 patientes ) .
+Une étude des ganglions axillaires fut pratiquée systématiquement dans les deux cas , initialement par réalisation d' un curage axillaire , ou , depuis 2000 , par la réalisation du prélèvement du ganglion sentinelle .
+Quatre patientes ont bénéficié uniquement d' une biopsie chirurgicale ( soit 0,85 % ) sans curage axillaire , ni ganglion sentinelle .
+Nous observons , de manière significative , une diminution du nombre de mastectomies totales réalisées au fil du temps : 31,3 % de mastectomies réalisées sur la période 1985 - 1993 contre 21,6 % sur la période 1994 - 2005 ( p = 0,028 ) .
+La taille anatomopathologique moyenne était de 21,8 mm ( médiane de 20 mm ; extrêmes 1 - 120 mm ) .
+Qu' elle soit clinique ou anatomopathologique , il existe une différence de taille tumorale significative entre la période 1985 - 1993 et 1994 - 2005 : au niveau anatomopathologique , nous constatons une taille moyenne de 27,24 mm ( 18,73 ) avant 1994 , contre une taille moyenne de 18,62 mm ( 16,88 ) à_partir_de 1994 ( p 0,0001 ) .
+Nous retrouvons sur l' ensemble 86,23 % ( soit 407 patientes ) porteuses d' un carcinome canalaire infiltrant , 9,32 % un carcinome lobulaire infiltrant ( soit 44 patientes ) ; il n' y a pas , dans notre étude , d' évolution du type anatomopathologique au cours du temps .
+Toutes les patientes ont subi une chirurgie ainsi_qu' un traitement complémentaire par radiothérapie adjuvante , 34,64 % ( soit 164 patientes ) ont subi une chimiothérapie ( adjuvante ou néo-adjuvante ) en supplément et 59,83 % ( soit 283 patientes ) ont été placées sous hormonothérapie .
+28,54 % des ces patientes ( soit 135 personnes ) ont eu uniquement de la radiothérapie en supplément .
+Les cas diagnostiqués par mammographie de dépistage organisé ou individuel ont été regroupés car ils présentent des caractéristiques similaires en terme des éléments suivants : - le type de chirurgie ;
+- le siège ;
+- le stade pTNM ;
+- le type anatomopathologique ;
+- le traitement adjuvant ;
+- l' âge ;
+- la taille de la tumeur ;
+- la récidive ;
+- la survie .
+Full-size image ( 67K )
+Fig. 1. Traitements adjuvants administrés depuis 1985. ( Exprimés en pourcentage ) .
+View Within Article
+Nous avons effectué une comparaison entre les patientes dépistées à_partir_de 1994 et les non dépistées sur la même période ; nous n' avons pas observé de différence en terme d' âge au diagnostic , mais notre analyse rapporte une diminution significative de la taille clinique et anatomopathologique de la tumeur ( 16,81 mm 13 pour les femmes dépistées contre 28,07 mm 18 pour les femmes non dépistées. p 0,0001 ) , ainsi_qu' une diminution significative ( p 0,0001 ) du stade pTNM , avec plus de stade pT1a , b , c ( 73,25 % des patientes dépistées contre 39,65 % des patientes non dépistée ) et moins de stade pT 2 , 3 , 4 ( 23,84 % de pT2 chez les patientes dépistées contre 43,37 % chez les patientes non dépistées ) .
+Il existe également une diminution significative du nombre de patientes N + , avec 44,58 % de patientes N + chez les patientes non dépistées et 24,42 % de N + chez les patientes dépistées ( p 0,0001 ) .
+Tableau 1.
+Comparaison du stade pTNM chez les patientes non dépistées et les patientes dépistées à_partir_de 1994
+pTlapTlbpTlcpT 2pT 3pT 4ab Diminution significative de pT ( p 0,0001 ) Patientes non dépistées1,8110,2433,7343,376,634,22 Patientes dépistées9,882538,3723,842,330,58 N N + Diminution significative de N + ( p 0,0001 ) Patientes non dépistées55,4244,58 Patientes dépistées75,5824,42 M 0M 1 Diminution significative de M + ( p 0,0001 ) Patientes non dépistées95,784,22 Patientes dépistées1000
+Full-size table
+Résultats exprimés en pourcentage
+View Within Article
+Nous observons de ce fait une diminution des chimiothérapies et hormonothérapies adjuvantes chez les patientes dépistées : 26,16 % de radiothérapie isolée et 73,84 % d' association de thérapeutiques adjuvante ( radio + hormono + chimiothérapie ) chez les patientes dépistées , contre 16,87 % de radiothérapie isolée et 83,13 % d' association de thérapeutiques adjuvantes chez les patientes non dépistées et 53 % de chimiothérapies prescrites chez les patientes non dépistées contre 44 % chez les patientes dépistées ( p = 0,053 ) .
+Quatre-vingt-dix patientes , soit 19,1 % , ont présenté une récidive ; 38,8 % de ces récidives étaient uniquement mammaires et ganglionnaires axillaires et 61,2 % étaient des métastases à distance ( osseuse 61 % , pulmonaires 27 % , hépatiques 18 % , cérébrales 9 % et multiples 22 % ) .
+Notre série retrouve ainsi une survie globale à cinq ans de 91,1 % , avec une survie sans récidive à cinq ans de 72,1 % .
+Nous observons une différence significative de survie globale à cinq ans entre les patientes après 1994 , au profit des patientes dépistées : 93,69 % de survie à cinq ans pour les dépistées ( recul médian 35,5 mois ) contre 86,94 % pour les non dépistées ( recul médian 27 mois ) ( p = 0,0471 ) .
+Le taux de survie à cinq ans sans récidive est de 80,22 % chez les dépistées après 1994 et de 62,97 % chez les non dépistées après 1994 ( p = 0,0318 ) .
+Tableau 2.
+Comparaison du taux de traitements adjuvants utilisés chez les patientes non dépistées et les patientes dépistées à_partir_de 1994
+Radiothérapie seuleRadiochimiothérapieRadiohormonothérapieRadiochimiohormonothérapie Patientes non dépistées16,8712,6530,1240,36 Patientes dépistées26,1615,719,7738,37
+Full-size table
+p = 0,053 .
+View Within Article
+Full-size image ( 18K )
+Fig. 2. Courbe de survie des patientes prises en charge entre 1994 et 2005 .
+Survie globale à cinq ans ( p = 0,0471 ) .
+Patientes non dépistées : 86,94 % ( ET = 3,99 ) ( recul médian 27 mois ) .
+Patientes dépistées : 93,69 % ( ET = 2,68 ) ( recul médian 35,5 mois ) .
+View Within Article
+Paradoxalement , nous observons un taux de survie à cinq ans sans récidive qui est significativement supérieur chez les patientes avant 1994 ( survie 75,5 % ) par rapport aux patientes non dépistées après 1994 ( survie 62,97 % ) ( p = 0,0243 ) .
+Full-size image ( 35K )
+Fig. 3. Comparaison des courbes de survie des patientes prises en charge avant 1994 et des patientes non dépistées à_partir_de 1994 .
+View Within Article
+Lorsqu' on effectue une comparaison entre les femmes prises en charge avant 1994 et celles à_partir_de 1994 , dépistées et non dépistées réunies , il n' y a plus de différence sur la taille anatomopathologique , plus de différence sur le stade pN .
+L' augmentation de fréquence d' association de traitements adjuvants persiste .
+Il n' y a plus d' évolution significative en terme de récidive et également de survie .
+La proportion des femmes ayant bénéficié d' un dépistage atteint 47,7 % depuis 1994 ( 29,1 % de dépistage individuel , soit 97 patientes et 18,6 % de dépistage organisé soit 62 patientes ) , et nous constatons une augmentation du taux de patientes dépistées entre 1985 et 2005 , au profit du dépistage organisé : cependant , nous remarquons parmi les 62 patientes ayant bénéficié d' un dépistage organisé , que dix d' entre elles , soit 16,1 % , n' ont pas été diagnostiquées grâce_à ce dépistage , mais l' ont été dans l' intervalle de 24 mois séparant deux dépistages organisés : nous obtenons donc 16,1 % de cancers de l' intervalle .
+Full-size image ( 47K )
+Fig. 4. Évolution du taux de patientes participant à un dépistage entre 1994 et 2005. ( Résultats exprimés en pourcentage ) .
+Accroissement au fil du temps du taux de patientes participant à un dépistage .
+Progression de la part du dépistage organisé , au détriment du dépistage individuel .
+Régression du taux de patientes non dépistées .
+View Within Article
+4. Discussion
+Nous avons été confrontés , depuis 1985 , à une augmentation de notre activité de sénologie , en relation avec l' augmentation importante de l' incidence du cancer du sein depuis 20 ans .
+Celle-ci est certainement multifactorielle , sans_que l' on puisse déterminer la part réelle des différents facteurs de risques , qu' ils soient génétiques , hormonaux et / ou environnementaux .
+Le contraste entre l' augmentation d' incidence et la stabilité de la mortalité , observé depuis 20 ans en Europe et aux États-Unis , est en majeure partie expliqué par l' amélioration des traitements et par le diagnostic précoce , sans qu' il soit possible d' estimer l' implication de ces facteurs dans l' évolution observée .
+Une étude plus détaillée sur les données de 17 registres européens de six pays différents a analysé la survie relative à cinq ans de 4478 patientes ayant présenté un cancer du sein en 1990 - 1992 en fonction des stades et des traitements réalisés  .
+Cette étude a montré que la différence de survie entre les pays était principalement liée au stade de la maladie au moment du diagnostic .
+La meilleure survie était observée dans le groupe français formé par le Bas-Rhin , la Côte d' Or , l' Hérault et l' Isère ( 86 % ) , la survie la plus basse en Estonie ( 66 % ) .
+Or ces deux groupes géographiques sont caractérisés respectivement par les plus hauts ( 39 % de T1N0M0 ) et les plus bas ( 9 % ) pourcentages de femmes présentant un stade précoce de la maladie au moment du diagnostic .
+Notre étude rapporte des différences significatives entre les patientes prises en charge après 1994 selon qu' elles sont dépistées ou non : nous observons d'_ailleurs un taux plus important de femmes présentant un stade précoce de la maladie au moment du diagnostic dans le groupe des femmes dépistées ( 45,4 % de pT1 contre 73 % chez les non dépistées , 55,4 % de N0 contre 75,5 % ) .
+Or la taille tumorale , notamment la taille clinique , est l' élément primordial pour poser une indication de mastectomie totale ( nous effectuons très généralement une mastectomie totale si la taille tumorale est supérieure à 30 mm ) .
+Cette différence de taille n' est pas sans conséquence , car notre étude rapporte également des taux de traitement conservateur plus importants chez les femmes dépistées , ainsi_qu' une diminution des traitements adjuvants associés , se traduisant par une augmentation des prescriptions de radiothérapie seule , moins d' hormonothérapie , moins de chimiothérapie , c' est-à-dire une amélioration de la qualité de vie chez les femmes dépistées .
+Il existe également de manière significative une meilleure survie globale et survie à cinq ans sans récidive chez les patientes dépistées ce qui est conforme avec les données de la littérature .
+Mais des facteurs connus peuvent expliquer ces résultats. - Le dépistage sélectionne une catégorie de la population .
+Les patientes qui acceptent le dépistage sont celles qui se soignent le mieux .
+Il a été montré en_particulier par l' observatoire régional de la santé de la région Provence - Alpes - Côte d' Azur qu' il existe une corrélation significative entre le taux de chômage et la mortalité par cancer du sein .
+Ce travail montre que cette corrélation est le reflet d' une inégalité au niveau de l' accès au dépistage et non au niveau de l' accès aux soins .
+D' après une étude réalisée par le collège Rhône-Alpes d' éducation pour la santé et le centre régional d' information et de prévention du sida ( CRAES-CRIPS ) auprès_de femmes en situation de précarité , leurs principales raisons de non-participation sont les suivantes : le fait que les messages de prévention sont en décalage avec leurs conditions de vie et leurs préoccupations quotidiennes ,
+la non-compréhension des brochures et de l' intérêt du dépistage ,
+la peur de se faire dépister ,
+les obstacles pratiques pour se rendre au rendez vous de mammographie  .
+- Le nombre de patientes dépistées augmente , de manière lente mais progressive sur les 20 dernières années .
+Nous pouvons dans ce cas nous interroger sur l' existence d' un éventuel surdiagnostic , en rapport avec le dépistage .
+Le surdiagnostic correspond au diagnostic d' un cancer par le dépistage qui n' aurait pas évolué vers un cancer symptomatique du vivant de la femme en l' absence de dépistage .
+On dépiste plus facilement les cancers à évolution lente .
+Le surdiagnostic est très difficile à évaluer dans la mesure où la totalité des lésions découvertes est traitée .
+On ne peut donc pas suivre leur évolution naturelle et déterminer la proportion et les caractéristiques des tumeurs qui n' évolueraient pas vers des cancers symptomatiques .
+Les essais randomisés permettent cependant d' apporter des éléments de réponse .
+Des excès d' incidence cumulée ( tumeurs invasives et in_situ ) de l' ordre de 10 % ont été observés dans les groupes invités par rapport aux groupes témoins après un suivi d' une quinzaine d' années  .
+Le surdiagnostic pourrait concerner un tiers des cas détectés lors du dépistage organisé sur les femmes de 50 à 69 ans en Norvège et en Suède , selon une étude du statisticien Per-Henrik Zahl ( institut norvégien de la santé publique ) publiée en 2004  .
+Ces surdiagnostics entraînent examens complémentaires , biopsies et traitements inutiles , selon une étude de Gotzsche et Olsen de 2001  , mettant en doute les bénéfices du dépistage quant_à une diminution de la mortalité chez les femmes ayant subi régulièrement des mammographies .
+- Enfin , devant la diminution de la taille tumorale chez les femmes dépistées , nous pensons que le dépistage pourrait être responsable d' une avance au diagnostic .
+Si l' on combine les résultats des seuls essais de haut niveau de preuves , comme l' ont fait Gotzsche et Olsen , on conclut à l' absence de démonstration de l' efficacité des mammographies systématiques pour diminuer la mortalité totale ou la mortalité par cancer du sein chez les femmes âgées de 40 à 74 ans .
+Ce qui explique que nous ne retrouvions pas de différence en terme de survie globale à cinq ans entre les patientes de 1985 - 1993 et celles de 1994 - 2005 : malgré l' apport du dépistage , le traitement plus précoce de ces tumeurs , nous ne parvenons pas à améliorer la survie globale , ni la survie sans récidive .
+L' absence de différence de survie peut également s' expliquer par notre méthode d' échantillonnage et de la surreprésentation des patientes de la période avant 1994 .
+Par ailleurs , les conclusions de Gotzsche et Olsen vont à_l'_encontre_de celles de neuf méta-analyses réalisées entre 1993 et 1998 .
+Ces méta-analyses ont toutes montrées une réduction significative de la mortalité par cancer du sein variant de 26 à 34 % .
+Enfin , une évaluation de l' étude de Gotzsche et Olsen réalisées par l' ANAES avec l' aide d' un groupe d' experts pluridisciplinaires en 2002 , conclut qu' il n' est pas nécessaire de remettre en cause les recommandations concernant le dépistage du cancer du sein  .
+Une problématique importante persiste , cependant , malgré un dépistage régulier , à savoir les cancers dits de l' intervalle , qui sont diagnostiqués sur la période séparant deux examens de dépistage successifs .
+Nous retrouvons dans notre étude 16,1 % de cancers de l' intervalle .
+Pour limiter ce nombre , un examen clinique est désormais associé à la pratique de la mammographie pour détecter les cancers palpables et non détectables à la radiologie .
+Par ailleurs , la double lecture des clichés négatifs , systématiquement effectuée lors d' une procédure de dépistage organisé permet d' augmenter la sensibilité de la mammographie de 5 à 15 % .
+Sur ce facteur , la formation spéciale et l' expérience des radiologues , ainsi_que la qualité des clichés de mammographie jouent un rôle essentiel .
+En France , la moyenne des taux de cancer de l' intervalle est de 7 à 8 % : la différence observée dans notre étude ( 16,1 % ) peut s' expliquer par un biais dans la reconnaissance des femmes qui ont participé au dépistage organisé : toutes les femmes dépistées , prises en charge au CHU de Saint-Etienne , mais résidant hors du département de la Loire n' ont pas été coordonnés par l' association Vivre , qui organise le dépistage organisé sur la Loire : ces femmes ont donc par défaut été considérées comme ayant bénéficié d' un dépistage individuel , alors_que quelques-unes d' entre elles ont bénéficié d' un dépistage organisé dans leur département de résidence , ce qui nous amène à retrouver un taux trop élevé de cancer de l' intervalle car tous les dépistages organisés n' ont pu être pris en compte .
+Notre étude retrouve un taux de participation au dépistage organisé en augmentation , notamment depuis 2002 .
+Ce taux dépasse les 40 % pour l' année 2005 .
+Il faut rappeler que les programmes de dépistage organisé sont régulièrement évalués  selon les référentiels du programme Europe contre le cancer  qui déterminent les indicateurs et les taux acceptables en prévalence ( première mammographie ) et en incidence ( mammographies suivantes ) .
+Le taux de participation constaté dans notre étude est nettement inférieur au 70 % préconisé .
+Cet échec est lié au développement parallèle du dépistage individuel , sur prescription des médecins .
+Une partie de la population et des professionnels de santé opte pour le dépistage individuel qu' ils considèrent intuitivement comme meilleurs même s' il n' est pas évalué  : ils mettent en doute la qualité du programme ( dépistage au rabais , médecine à deux vitesses ) .
+Nous observons toutefois un taux de dépistage spontané , qu' il soit organisé ou individuel , qui approche les 60 % en 2005 , ce qui nous rapproche du taux de couverture globale recommandé de 70 % .
+L' enjeu désormais est de parvenir à fusionner les deux types de dépistage autour du dépistage organisé , ce qui va nécessiter d' acquérir la confiance des professionnels de santé , ainsi_que de parvenir à sensibiliser la part non négligeable de la population qui ne participe encore à aucune forme de dépistage .
+Tableau 3.
+Critères et taux recommandé dans le programme de dépistage organisé « Europe contre le cancer » : indicateurs de référence
+PrévalenceIncidence Taux de participation ( % ) 7070 Taux de rappel ( % ) 7 5 Taux de biopsies ( % ) 1,5Non déterminé VPP de la biopsie ( % ) 5065 Taux de cancers ( ) 5 3 Taux de CICS10 - 20 % des cancers10 - 20 % Taux de cancers invasifs 10 mm 20 % des cancers 25 % Taux de cancers invasifs N 70 % des cancers75 %
+Full-size table
+VVP : valeur prédictive positive ; CICS : carcinome intracanalaire stricte ; N - : sans envahissement ganglionnaire axillaire .
+View Within Article
+5. Conclusion
+Le dépistage par mammographie du cancer du sein est devenu un maillon essentiel dans la prise en charge des cancers du sein .
+Son développement a permis un diagnostic plus précoce des cancers du sein , entraînant ainsi une diminution du nombre de traitement chirurgicaux radicaux , une diminution des traitements adjuvants utilisés , avec une augmentation de la survie sans récidive et également de la survie globale .
+Les patientes ne bénéficiant pas d' un diagnostic consécutif à un dépistage présentent des formes de cancers plus évoluées , avec un pronostic plus sévère , des traitements complémentaires plus conséquents : il conviendrait , dans les années à venir , de réussir à amener ces femmes à prendre part à une campagne de dépistage , au_risque_de ne pas parvenir à améliorer encore la prise en charge .
+L' autre enjeu important est de réussir à convaincre les acteurs du dépistage individuel et de les inclure également dans un programme de dépistage organisé .
+L' évolution des mentalités nécessitera beaucoup d' investissement et d' efforts de communication de la part des différents protagonistes

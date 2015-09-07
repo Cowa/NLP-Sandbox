@@ -1,0 +1,114 @@
+Chemotherapy is considered the cornerstone of treatment for many types of cancer .
+However , many chemotherapeutic agents exhibit dose-limiting toxicities including : congestive heart failure  , myelosuppression  , neutropenia , alopecia , mucositis , diarrhea , myalgias  , thrombocytopenia  , neurotoxicity , immune-suppression , as well as mutagenic and carcinogenic effects  .
+In addition , a majority of cancer patients treated with chemotherapy relapse and die from their disease .
+It is therefore of particular interest to explore therapeutic approaches that reduce chemotherapeutic-mediated toxicity .
+The use of chemotherapeutic agents in conjunction with safe , natural agents that act to incorporate them into less toxic , yet effective , combined-modality treatment may thus provide an answer to this urgent need .
+MGN-3 is a natural product that is obtained by reacting rice bran hemicellulose with multiple carbohydrate hydrolyzing enzymes from Shiitake mushrooms .
+The main chemical structure of MGN-3 is arabinoxylan with a xylose in its main chain and an arabinose polymer in its side chain  .
+Previously , we presented evidence for the role of MGN-3 as a potent activator of human NK cells in healthy subjects  and in cancer patients  .
+Recently , we have demonstrated that MGN-3 sensitizes human leukemic HUT 78 cells to anti-CD95 antibody-induced apoptosis  .
+In this study , we examined the sensitizing ability of MGN-3 toward the chemotherapeutic agent , daunorubicin ( DNR ) in human breast cancer cells ( BCCs ) and examined the possible mechanism underlying its effect .
+2. Materials and methods2.1 .
+Tumor cell lines and culture conditions .
+Human breast cancer cell lines MCF-7 and HCC70 cells were used in the present study .
+Cells were purchased from American Tissue and Culture Collection ( ATCC ) , Manassas , VA .
+Tumor cells were maintained in our laboratory in a complete medium ( CM ) that consisted of RPMI-1640 , supplemented with 10% fetal calf serum ( FCS ) , 2 mM glutamine , and 100 g / ml streptomycin and penicillin .
+2.2. Drugs and chemicals .
+DNR and 3- [ 4,5-dimethylthiazol-2-yl ] -2,5-diphenyltetrazolium bromide ( MTT ) were obtained from Sigma .
+2.3. MGN-3 .
+MGN-3 is a denatured hemicellulose obtained by reacting rice bran hemicellulose with multiple carbohydrate hydrolyzing enzymes from Shiitake mushrooms .
+The main chemical structure of MGN-3 is arabinoxylan with a xylose in its main chain and an arabinose polymer in its side chain  .
+MGN-3 was dissolved in CM at a concentration of 30 mg / ml .
+MGN-3 was provided by Daiwa Pharmaceutical Co .
+Ltd. , Tokyo , Japan .
+2.4. Drug sensitivity assay .
+Drug sensitivity was determined using a colorimetric MTT assay .
+This assay is based on the reduction of tetrazolium salt MTT [ 3- ( 4,5-dimethylthiozol-3-yl ) -2,5-diphenyltetrazolium bromide ] by a mitochondrial dehydrogenase in viable cells from a colorless to a blue-colored formazan product in viable cells that can be measured spectrometrically .
+The amount of formazan produced is proportional to the number of living cells .
+Cells ( 1104 well1 ) were seeded in 96 well plates and cultured in triplicate in the presence or absence of various concentrations of MGN-3 ( 100 - 1000 g / ml ) and with or without selected concentrations of DNR ( 1109 to 1106 M ) .
+The final volume of medium in each well after addition of MGN-3 and / or DNR was 200 l .
+The cultures were incubated at 37 C for 3 days , after which 50 g of MTT was added to each well and the cultures incubated for an additional 4 h .
+The plates were centrifuged , the medium carefully removed , the formazan crystals solubilized with acid alcohol , and the plates read at 590 nm using an ELISA plate reader ( Molecular Devices , Menlo Park , CA ) .
+The 50% inhibitory concentration ( IC50 ) was determined as the drug concentration that resulted in a 50% reduction in cell viability .
+The IC50 were determined by plotting the logarithm of the drug concentration versus the survival rate of the treated cells .
+2.5. Daunorubicin accumulation .
+DNR is a fluorescent compound and its accumulation into cells was studied by flow cytometry as previously described  .
+Briefly , cells were incubated in the presence or absence of 500 g / ml of MGN-3 at 37 C for 15 min .
+DNR ( 2 M ) was then added to the cells , gently mixed , and incubated at 37 C for 45 min .
+Accumulation of DNR was measured by flow cytometry using a FACScan ( Becton Dickinson ) , the fluorescence intensity was recorded from histograms , and the data expressed as mean fluorescence channel ( MFC ) numbers .
+Kinetics of drug uptake in the presence of MGN-3 was carried out .
+MCF-7 cells were cultured with DNR ( 2 M ) in the presence or absence of MGN-3 ( 500 g / ml ) .
+The drug accumulation was examined at 15 min intervals ( from 0 to 60 min ) by flow cytometry .
+2.6. Statistical analysis .
+Statistical significance was determined by Student 's t-test .
+Differences were considered significant at the p 0.05 level .
+3. Results3.1 .
+Effects of MGN-3 on the BCC survival .
+BCCs were co-cultured with MGN-3 ( 100 - 1000 g / ml ) for 3 days .
+Treatment of MCF-7 cells with MGN-3 resulted in a significant decrease in cell survival that followed dose-dependent fashion .
+Data in Fig. 1A shows the percentages of MCF-7 cell survival were 75 , 70 and 63% post-treatment with MGN-3 at concentrations of 100 , 500 and 1000 g / ml , respectively .
+On the other hand , response of HCC70 cells to the apoptotic effect of MGN-3 was less remarkable .
+Full-size image ( 30K )
+Fig. 1. Effect of MGN alone on survival of breast cancer cells .
+MCF-7 or HCC70 cells ( 1104 well1 ) were seeded in 96 well plates and cultured in triplicate in the presence or absence of various concentrations of MGN-3 ( 100 - 1000 mg / ml ) for 3 days and survival of cells was determined by MTT assay .
+Cell survival is shown as a percent of control , untreated cells. ( A ) MCF-7 cells : the data represents the mean S.D. of six experiments , each experiment in triplicate. ( B ) HCC70 cells : the data represents the mean S.D. of three experiments , each experiment in triplicate. p 0.01 as compared with the control untreated cells .
+View Within Article .
+3.2. Effects of MGN-3 on the sensitivity of BCCs to DNR .
+BCCs were cultured with DNR at different concentrations ( 1109 to 1106 M ) in the presence or absence of MGN-3 for 3 days , then cell survival and the IC50 values were determined .
+DNR , as expected , inhibited the survival of MCF-7 cells in a dose-dependent manner .
+The IC50 of DNR was 1 M. However , when MCF-7 cells were co-cultured with MGN-3 and DNR , the IC50 of DNR against MCF-7 cells was significantly reduced ( IC50 0.2 m ) .
+Data in Fig. 2A shows that MGN-3 at concentrations of 100 , 500 and 1000 g / ml decreased the DNR IC50 of MCF-7 cells by 3- , 5- and 5.5 fold , respectively , as compared with DNR alone .
+MGN-3 also enhanced the sensitivity of HCC70 cells to DNR , but to a lesser extent as compared to MCF-7 cells .
+Data in Fig. 2B shows that MGN-3 decreased the DNR IC50 of HCC70 cells by 2.5 fold .
+Full-size image ( 53K )
+Fig. 2. Effect of MGN-3 on DNR cytotoxicity in BCCs .
+MCF-7 or HCC70 cells ( 1104 well1 ) were seeded in 96 well plates with DNR ( 1109 to 1106 M ) in the presence or absence of MGN-3 ( 100 - 1000 mg / ml ) for 3 days .
+Cell survival was determined using an MTT assay. ( A ) MCF-7 cells : the data represents the mean S.D. of six experiments , each experiment in triplicate. ( B ) HCC70 cells : the data represents the mean S.D. of three experiments , each experiment in triplicate .
+View Within Article .
+3.3. Effects of MGN-3 on accumulation of DNR in BCCs .
+To determine if the observed enhancement of DNR cytotoxicity by MGN-3 is related to alteration in drug transport , we studied accumulation of DNR by flow cytometry .
+Results show that MGN-3 , at a concentration of 500 g / ml , significantly enhanced the accumulation of DNR in MCF-7 cells and HCC70 cells as compared to control , unlabelled cells .
+The figures include graphs of unlabelled cells as a control .
+Full-size image ( 34K )
+Fig. 3. Effect of MGN-3 on the accumulation of DNR in BCCs .
+MCF-7 or HCC70 cells ( 1104 ) were incubated with DNR ( 2 M ) with or without MGN-3 ( 500 g / ml ) and drug accumulation was assessed using flow cytometry. ( A ) MCF-7 cells. ( B ) HCC70 cells .
+View Within Article .
+3.4. Kinetics of drug uptake in the presence of MGN-3 .
+DNR accumulation in MCF-7 cells was examined in the presence or absence of MGN-3 at 15 min intervals. Fig. 4 shows that a difference in DNR accumulation was detected at 45 min with further increased accumulation at 60 min .
+The presence of MGN-3 enhanced drug accumulation from a mean fluorescence channel number of 103 to 130 .
+Full-size image ( 23K )
+Fig. 4. Kinetics of DNR uptake in the presence of MGN-3 .
+The accumulation of DNR ( 2 M ) by MCF-7 cells was examined in the presence or absence of MGN-3 ( 500 g / ml ) at 15 min intervals ( 0 - 60 min ) by flow cytometery , and is expressed as mean fluorescence channel ( MFC ) number .
+View Within Article .
+4. Discussion .
+In this study , we examined the sensitizing effects of MGN-3 on human breast cancer cells to the chemotherapeutic agent , daunorubicin .
+Treatment with MGN-3 significantly increased susceptibility of MCF-7 and HCC70 cells to DNR 5.5- and 2.5 fold , respectively , as compared to cells treated with DNR alone .
+Earlier studies have shown a potential for MGN-3 in reducing chemo-toxic effects in murine and cancer patients .
+A beneficial effect of MGN-3 on some adverse actions of anticancer drugs was reported , including protection against severe weight loss in mice due to cisplatin ( CIS )  and in rats due to CIS and adriamycin ( ADR ) , as demonstrated in some of the gross gastrointestinal pathological changes and in the prevention of death induced by CIS  .
+In addition , results of clinical trials on progressive cancer patients treated with chemotherapy in the presence or absence of MGN-3 have shown that treatment with MGN-3 resulted in a higher survival rate and a marked improvement in the appetite in patients receiving chemo as compared with patients treated with chemo alone  .
+Previous studies have also shown that other food supplements , such as soy isoflavones and genistein , increase induction of apoptosis of cancer cell lines  and inhibit the growth of breast tumors in mice when administered in combination with tamoxifen  .
+In addition Chlorella vulgaris , a unicellular green algae belonging to the Phylum Chlorophyta , alleviated some of the side effects of 5 fluorouracil treatment in animal experiments  , and Vitamin E supplementation has a neuroprotective effect in chemotherapy-induced peripheral nerve damage  .
+In this report , we examined the mechanism by which MGN-3 increases the sensitivity of BCC to DNR in human breast cancer cells .
+Our results show that treatment with MGN-3 increased accumulation of DNR in both MCF-7 and HCC70 cells .
+Several agents enhance the cytotoxic effect of chemotherapeutics in cancer cells via increasing intracellular drug accumulation and reverse multidrug resistance ( MDR ) in cancer cells , including the calcium channel blocker diltiazem and the biscoclaurine alkaloid cepharanthine  , antiarrhythmic agent quinidine  , and synthetic isothiocyanate E-4IB  .
+In addition , nutritional intervention toward tumor responsiveness to chemotherapy has recently been examined .
+Pardini  reported enhancement of tumor responsiveness to chemotherapy by omega-3 polyunsaturated fatty acids and also increases in intracellular drug accumulation .
+Finally , we showed that MGN-3 reverses multidrug resistance in HL60 / Adriamycin-resistant ( AR ) cells  .
+Research over the last two decades has revealed that many anticancer drugs function by inducing apoptosis  .
+We have recently examined the role of MGN-3 in caspase activation .
+Results showed that treatment with MGN-3 resulted in an increased number of cancer cells having active caspases 8 , and 9 ( MCF-7 ) and 3 , 8 , and 9 ( HCC70 )  .
+In addition , the sensitizing effect of MGN-3 against human leukemic HUT 78 cells to anti-CD95 antibody-induced apoptosis was also correlated with an increased number of cells having active caspases 3 , 8 , and 9  .
+This suggests that MGN-3 sensitizes cancer cells to DNR by a mechanism that involves caspase cascades .
+Similar findings were recently reported by Bodo_et_al.  whereby increased intracellular platinum accumulation post-treatment with a synthetic isothiocyanate derivative , ethyl 4 isothiocyanatobutanoate , was accompanied by the stimulation of caspase-3 activity  .
+The promise of anti-cancer activity by rice and rice bran derivatives has recently been the focus of much research .
+MGN-3 is an arabinoxylan extracted from rice bran  that has proven to be a potent biological response modifier ( BRM ) that has the ability to boost the function of different arms of the immune system , such as NK cells  , T and B cells  , macrophages  , and the production of TNF- and IFN-  .
+In addition , MGN-3 has demonstrated an additional characteristic as a novel anti-tumor agent able to sensitize : ( 1 ) human leukemia cells to death receptor [ CD95 ] -induced apoptosis  , ( 2 ) cancer cells to yeast-induced apoptosis  , ( 3 ) human AR myeloid leukemia cells to ADR treatment  , and ( 4 ) human breast cancer cells to DNR treatment , as shown in the current study .
+Other rice bran products have demonstrated anti-tumor activity including polysaccharide RBS  , lipoprotein fraction  , and agglutinin ( RBA )  .
+In addition , a recent study showed that rice ( Oryza sativa L. ) inhibits the growth of human leukemic U937 cells through the activation of peripheral blood mononuclear cells  .
+We conclude that treatment of human breast cancer cells with MGN-3 significantly sensitizes these cells to the chemotherapeutic agent daunorubicin .
+These data may suggest that the food supplement MGN-3 in conjunction with chemotherapy may be useful for the treatment of breast cancer .
+Conflict of interest .
+None declared .
+Acknowledgement .
+The authors would like to acknowledge Daiwa Pharmaceutical Co .
+Ltd. , Tokyo , Japan , for the financial support of this project .
