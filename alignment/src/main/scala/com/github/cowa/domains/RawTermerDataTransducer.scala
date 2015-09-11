@@ -1,23 +1,11 @@
-package com.github.cowa
+package com.github.cowa.domains
 
 import java.io.File
 import scala.io.Source
 
-case class Term(word: String, lemme: String, tag: String)
-case class FileTermer(fileName: String, terms: List[Term])
+import com.github.cowa.models._
 
-object Alignment {
-  def main(args: Array[String]) {
-    val termsSource = new File("corpus/termer_source/corpus.lem")
-    val termsTarget = new File("corpus/termer_target/corpus.lem")
-    //val textTarget = new File("corpus/txt_target").listFiles.filter(_.getName.endsWith(".txt"))
-    //val textSources = new File("corpus/txt_source").listFiles.filter(_.getName.endsWith(".txt"))
-
-    // And here goes pre-processing!
-    // From unstructured to structured data
-    rawTermerFileToHandyStruct(termsSource)
-    rawTermerFileToHandyStruct(termsTarget)
-  }
+object RawTermerDataTransducer {
 
   /**
    * Transform a raw terms file to a pretty and handy structure
@@ -28,7 +16,7 @@ object Alignment {
    */
   def rawTermerFileToHandyStruct(raw: File): List[FileTermer] = {
     val fileContentByFile = splitRawTermerFileContentByFile(Source.fromFile(raw).getLines().toList)
-    val termRegex = """([^\s]+?)/([^\s]+?)/([^\s]+)""".r
+    val termRegex = """([^\s/]+?)/([^\s/]+?)/([^\s/]+)""".r
 
     fileContentByFile.keys.toList.map { fileName =>
       val matches = termRegex findAllIn fileContentByFile(fileName)
