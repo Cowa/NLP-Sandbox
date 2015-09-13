@@ -5,7 +5,7 @@ import scala.io.Source
 
 import com.github.cowa.models._
 
-object RawTermerDataTransducer {
+object TermerTransducer {
 
   /**
    * Transform a raw terms file to a pretty and handy structure

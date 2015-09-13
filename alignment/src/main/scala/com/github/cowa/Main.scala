@@ -12,8 +12,8 @@ object Main {
 
     // And here goes pre-processing!
     // From unstructured to structured data
-    val sources = RawTermerDataTransducer.rawTermerFileToHandyStruct(termsSource)
-    val targets = RawTermerDataTransducer.rawTermerFileToHandyStruct(termsTarget)
+    val sources = TermerTransducer.rawTermerFileToHandyStruct(termsSource)
+    val targets = TermerTransducer.rawTermerFileToHandyStruct(termsTarget)
 
     val listSourcesTerms = sources.flatMap(_.terms)
     val listTargetsTerms = targets.flatMap(_.terms)

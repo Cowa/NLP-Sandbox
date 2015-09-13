@@ -3,9 +3,9 @@ package com.github.cowa.domains
 import com.github.cowa.models._
 
 object Alignment {
-  private def isTransfugee(word0: String, word1: String) = word0 == word1
-  private def isCognate(word0: String, word1: String) =
-    (word0.length > 4 && word1.length > 4) && word0.substring(0, 4) == word1.substring(0, 4)
+  private def isTransfugee(w0: String, w1: String) = w0 == w1
+  private def isCognate(w0: String, w1: String) =
+    (w0.length > 4 && w1.length > 4) && !isTransfugee(w0, w1) && w0.substring(0, 4) == w1.substring(0, 4)
 
   def findCognatesAndTransfugees(sources: List[Term], targets: List[Term]) = {
     val targetsSet = targets.toSet
@@ -21,7 +21,7 @@ object Alignment {
         y => isCognate(x.lemme, y.lemme)).map(y => Comparable(x.lemme, y.lemme, "cognate"))
     )
 
-    println(transfugees)
-    println(cognates)
+    println(transfugees.size)
+    println(cognates.size)
   }
 }
