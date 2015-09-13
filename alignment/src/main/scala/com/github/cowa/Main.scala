@@ -2,8 +2,7 @@ package com.github.cowa
 
 import java.io.File
 
-import com.github.cowa.models._
-import com.github.cowa.domains._
+import com.github.cowa.helpers._
 
 object Main {
   def main(args: Array[String]) {
@@ -18,6 +17,11 @@ object Main {
     val sourcesTerms = sources.flatMap(_.terms)
     val targetsTerms = targets.flatMap(_.terms)
 
-    Alignment.findCognatesAndTransfugees(sourcesTerms, targetsTerms)
+    // Starting alignment process...
+    val aligned = Alignment.findCognatesAndTransfugees(sourcesTerms, targetsTerms)
+
+    // Write results to CSV ;)
+    AlignedWriter.writeToCsv(aligned("cognate"), "result-cognate.csv")
+    AlignedWriter.writeToCsv(aligned("transfugee"), "result-transfugee.csv")
   }
 }

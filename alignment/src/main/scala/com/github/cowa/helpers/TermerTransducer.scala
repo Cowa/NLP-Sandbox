@@ -1,6 +1,7 @@
-package com.github.cowa.domains
+package com.github.cowa.helpers
 
 import java.io.File
+
 import scala.io.Source
 
 import com.github.cowa.models._

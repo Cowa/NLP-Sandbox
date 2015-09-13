@@ -1,4 +1,4 @@
-package com.github.cowa.domains
+package com.github.cowa.helpers
 
 import com.github.cowa.models._
 
