@@ -7,17 +7,17 @@ import com.github.cowa.domains._
 
 object Main {
   def main(args: Array[String]) {
-    val termsSource = new File("corpus/termer_source/corpus.lem")
-    val termsTarget = new File("corpus/termer_target/corpus.lem")
+    val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
+    val targetTermsFile = new File("corpus/termer_target/corpus.lem")
 
     // And here goes pre-processing!
     // From unstructured to structured data
-    val sources = TermerTransducer.rawTermerFileToHandyStruct(termsSource)
-    val targets = TermerTransducer.rawTermerFileToHandyStruct(termsTarget)
+    val sources = TermerTransducer.rawTermerFileToHandyStruct(sourceTermsFile)
+    val targets = TermerTransducer.rawTermerFileToHandyStruct(targetTermsFile)
 
-    val listSourcesTerms = sources.flatMap(_.terms)
-    val listTargetsTerms = targets.flatMap(_.terms)
+    val sourcesTerms = sources.flatMap(_.terms)
+    val targetsTerms = targets.flatMap(_.terms)
 
-    Alignment.findCognatesAndTransfugees(listSourcesTerms, listTargetsTerms)
+    Alignment.findCognatesAndTransfugees(sourcesTerms, targetsTerms)
   }
 }
