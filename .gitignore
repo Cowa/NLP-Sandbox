@@ -7,3 +7,9 @@ alignment/sbm
 *.iml
 
 *.csv
+
+*.dump
+
+uima-test/document.txt.conll
+
+uima-test/GeneratedTypes.xml

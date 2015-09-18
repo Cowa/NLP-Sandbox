@@ -17,7 +17,7 @@ object TermerTransducer {
    */
   def rawTermerFileToHandyStruct(raw: File): List[FileTermer] = {
     val fileContentByFile = splitRawTermerFileContentByFile(Source.fromFile(raw).getLines().toList)
-    val termRegex = """([^\s/]+?)/([^\s/]+?)/([^\s/]+)""".r
+    val termRegex = """([^\s/]+)/([^\s/]+)/([^\s/]+)""".r
 
     fileContentByFile.keys.toList.map { fileName =>
       val matches = termRegex findAllIn fileContentByFile(fileName)
