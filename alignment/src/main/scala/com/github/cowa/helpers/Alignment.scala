@@ -3,21 +3,26 @@ package com.github.cowa.helpers
 import com.github.cowa.models._
 
 object Alignment {
-  private def isTransfugee(w0: String, w1: String) = w0 == w1
+  def isTransfugee(w0: String, w1: String) = w0 == w1
 
-  private def isCognate(w0: String, w1: String) =
-    (w0.length > 4 && w1.length > 4) && !isTransfugee(w0, w1) && w0.substring(0, 4) == w1.substring(0, 4) && Levenshtein.distance(w0, w1) < 4
+  def isCognate(w0: String, w1: String) =
+    (w0.length > 4 && w1.length > 4) && !isTransfugee(w0, w1) && w0.substring(0, 4) == w1.substring(0, 4) && Levenshtein.distance(w0, w1) < 3
+
+  def isEquivalentTag(t0: String, t1: String): Boolean = {
+    t0 match {
+      case x if x.startsWith("SBC") && t1.startsWith("NN") => true
+      case x if x.startsWith("ADJ") && t1.startsWith("JJ") => true
+      case _ => false
+    }
+  }
 
   def findCognatesAndTransfugees(sources: List[Term], targets: List[Term]): Map[String, List[Aligned]] = {
-    val targetsSet = targets.toSet
-    val sourcesSet = sources.toSet
-
-    sourcesSet.flatMap(
-      x => targetsSet.filter(
-        y => isTransfugee(x.lemme, y.lemme)).map(y => Aligned(x.lemme, y.lemme, "transfugee"))
-    ).union(sourcesSet.flatMap(
-      x => targetsSet.filter(
-        y => isCognate(x.lemme, y.lemme)).map(y => Aligned(x.lemme, y.lemme, "cognate"))
-    )).toList.groupBy(_.kind)
+    sources.flatMap(
+      x => targets.filter(
+        y => isEquivalentTag(x.tag, y.tag) && isTransfugee(x.lemme, y.lemme)).map(y => Aligned(x.lemme, y.lemme, "transfugee"))
+    ).union(sources.flatMap(
+      x => targets.filter(
+        y => isEquivalentTag(x.tag, y.tag) && isCognate(x.lemme, y.lemme)).map(y => Aligned(x.lemme, y.lemme, "cognate"))
+    )).groupBy(_.kind)
   }
 }

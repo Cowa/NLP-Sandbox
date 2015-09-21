@@ -4,7 +4,7 @@ object AlignedWriter {
   import com.github.cowa.models.Aligned
 
   def toCSVFormat(alignedData: List[Aligned]): String = {
-    alignedData.map(x => s"${x.word0};${x.word1}").mkString("\n")
+    alignedData.map(x => s"${x.w0};${x.w1}").mkString("\n")
   }
   
   def writeToCsv(alignedData: List[Aligned], fileName: String = "result.csv") = {

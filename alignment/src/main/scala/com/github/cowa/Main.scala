@@ -9,19 +9,34 @@ object Main {
     val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
     val targetTermsFile = new File("corpus/termer_target/corpus.lem")
 
-    // And here goes pre-processing!
     // From unstructured to structured data
+    println("Structuring raw data...")
+
     val sources = TermerTransducer.rawTermerFileToHandyStruct(sourceTermsFile)
     val targets = TermerTransducer.rawTermerFileToHandyStruct(targetTermsFile)
 
-    val sourcesTerms = sources.flatMap(_.terms)
-    val targetsTerms = targets.flatMap(_.terms)
+    println("Done.\n")
+
+    // And here goes pre-processing!
+    println("Pre-processing...")
+
+    val sourcesTerms = preprocessing(sources)
+    val targetsTerms = preprocessing(targets)
+
+    println(s"Source terms number: ${sourcesTerms.length}")
+    println(s"Target terms number: ${targetsTerms.length}")
+
+    println("Done.\n")
+
+    println("Starting alignment...")
 
     // Starting alignment process...
     val aligned = Alignment.findCognatesAndTransfugees(sourcesTerms, targetsTerms)
 
+    println("Done.")
+
     // Write results to CSV ;)
-    AlignedWriter.writeToCsv(aligned("cognate"), "result-cognate.csv")
-    AlignedWriter.writeToCsv(aligned("transfugee"), "result-transfugee.csv")
+    AlignedWriter.writeToCsv(aligned("cognate").sortBy(_.w0), "result-cognate.csv")
+    AlignedWriter.writeToCsv(aligned("transfugee").sortBy(_.w0), "result-transfugee.csv")
   }
 }
