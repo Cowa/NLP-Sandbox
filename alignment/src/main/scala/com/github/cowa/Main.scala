@@ -31,10 +31,9 @@ object Main {
     println("Starting alignment...")
 
     // Starting alignment process...
-    val aligned = Timer.executionTime { Alignment.findCognatesAndTransfugees(sourcesTerms, targetsTerms) }
+    val aligned = Timer.executionTime { Alignment.findCognates(sourcesTerms, targetsTerms) }
 
     // Write results to CSV ;)
-    AlignedWriter.writeToCsv(aligned("cognate").sortBy(_.w0), "result-cognate.csv")
-    AlignedWriter.writeToCsv(aligned("transfugee").sortBy(_.w0), "result-transfugee.csv")
+    AlignedWriter.writeToCsv(aligned.sortBy(_.w0), "result-cognate.csv")
   }
 }

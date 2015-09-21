@@ -16,7 +16,6 @@ Distinct
 8228
 6191
 
-
 val tagsWeWant = List("ADJ", "JJ")
 val tagsWeIgnore = List("ADJ1", "ADJ2")
 Distinct
@@ -50,3 +49,14 @@ ALIGNMENT EXECUTION TIME
 
 Starting alignment...
 Done in: 28.338986542s
+
+Lemme size >= 4
+11785
+12871
+
+Done in: 24.049213416s
+
+Find only cognates
+
+Starting alignment...
+Done in: 7.044794955s
