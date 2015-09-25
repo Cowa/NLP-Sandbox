@@ -13,3 +13,5 @@ alignment/sbm
 uima-test/document.txt.conll
 
 uima-test/GeneratedTypes.xml
+
+uimaFit-scala/src/main/resources/desc/types/TypeSystem.xml
