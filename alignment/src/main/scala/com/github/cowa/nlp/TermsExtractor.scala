@@ -1,4 +1,4 @@
-package com.github.cowa.helpers
+package com.github.cowa.nlp
 
 import java.io.File
 
@@ -6,7 +6,7 @@ import scala.io.Source
 
 import com.github.cowa.models._
 
-object TermerTransducer {
+object TermsExtractor {
 
   /**
    * Transform a raw terms file to a pretty and handy structure

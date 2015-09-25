@@ -60,3 +60,9 @@ Find only cognates
 
 Starting alignment...
 Done in: 7.044794955s
+
+
+Source terms number: 10935
+Target terms number: 12099
+
+132.302.565 op

@@ -1,4 +1,4 @@
-package com.github.cowa.helpers
+package com.github.cowa.nlp
 
 import com.github.cowa.models._
 
