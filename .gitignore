@@ -15,3 +15,7 @@ uima-test/document.txt.conll
 uima-test/GeneratedTypes.xml
 
 uimaFit-scala/src/main/resources/desc/types/TypeSystem.xml
+
+digit_recognition/.RData
+
+digit_recognition/.Rhistory

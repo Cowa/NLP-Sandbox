@@ -6,7 +6,12 @@ import com.github.cowa.helpers._
 import com.github.cowa.nlp._
 
 object Main {
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
+    val dictionary = Dictionary.get("src/main/resources/dictionary-fr-en.csv")
+    println(dictionary("Acapulco"))
+  }
+
+  def cognates() {
     val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
     val targetTermsFile = new File("corpus/termer_target/corpus.lem")
 
