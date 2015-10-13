@@ -5,12 +5,16 @@ import com.github.cowa.nlp._
 import com.github.cowa.helpers._
 
 object Main {
+  val simpleDictionary = SimpleDictionary.get("src/main/resources/dictionary-fr-en.csv")
+  val cognateDictionary = CognateDictionary.get("src/main/resources/cognates.csv")
+  val specializedDictionary = SpecializedDictionary.get("src/main/resources/ts.xml")
+
   def main(args: Array[String]): Unit = {
-    cognates()
+    //cognates()
   }
 
+  // Generate cognates
   def cognates() {
-    val dictionary = Dictionary.get("src/main/resources/dictionary-fr-en.csv")
     val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
     val targetTermsFile = new File("corpus/termer_target/corpus.lem")
 
@@ -36,8 +40,9 @@ object Main {
     println("Starting alignment...")
 
     // Starting alignment process...
-    val aligned = Timer.executionTime { Alignment.findCognates(sourcesTerms, targetsTerms) }
-      .filter(x => dictionary.contains(x.w0))
+    val aligned = Timer.executionTime {
+      Alignment.findCognates(sourcesTerms, targetsTerms)
+    }.filter(x => simpleDictionary.contains(x.w0))
 
     println(s"Cognates number: ${aligned.length}")
 

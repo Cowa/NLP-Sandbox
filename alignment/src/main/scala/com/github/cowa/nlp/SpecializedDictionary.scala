@@ -2,19 +2,19 @@ package com.github.cowa.nlp
 
 import scala.xml._
 
-case class LangElemXML(typ: String, term: String, lemm: String)
-case class TradElemXML(valid: String, langElems: List[LangElemXML])
+case class LangNodeXML(typ: String, term: String, lemm: String)
+case class TradNodeXML(valid: String, langElems: List[LangNodeXML])
 
 object SpecializedDictionary {
   def load(path: String): Elem = XML.loadFile("src/main/resources/ts.xml")
 
-  def toData(xml: Elem): List[TradElemXML] = {
+  def toData(xml: Elem): List[TradNodeXML] = {
     (xml \\ "TRAD").map { e =>
       val langs = (e \\ "LANG").map { l =>
-        LangElemXML((l \\ "@type").text, (l \\ "TERM").text, (l \\ "LEM").text)
+        LangNodeXML((l \\ "@type").text, (l \\ "TERM").text, (l \\ "LEM").text)
       }
 
-      TradElemXML((e \\ "@valid").text, langs.toList)
+      TradNodeXML((e \\ "@valid").text, langs.toList)
     }.toList
   }
 
