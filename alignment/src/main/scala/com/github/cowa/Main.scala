@@ -5,29 +5,28 @@ import com.github.cowa.nlp._
 import com.github.cowa.helpers._
 
 object Main {
-  val simpleDictionary = SimpleDictionary.get("src/main/resources/dictionary-fr-en.csv")
-  val cognateDictionary = CognateDictionary.get("src/main/resources/cognates.csv")
-  val specializedDictionary = SpecializedDictionary.get("src/main/resources/ts.xml")
+  lazy val simpleDictionary = SimpleDictionary.get("src/main/resources/dictionary-fr-en.csv")
+  lazy val cognateDictionary = CognateDictionary.get("src/main/resources/cognates.csv")
+  lazy val specializedDictionary = SpecializedDictionary.get("src/main/resources/ts.xml")
 
-  val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
-  val targetTermsFile = new File("corpus/termer_target/corpus.lem")
+  lazy val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
+  lazy val targetTermsFile = new File("corpus/termer_target/corpus.lem")
 
   def main(args: Array[String]): Unit = {
     contextVectorTranslator()
   }
 
   // Translate with context vector
-  def contextVectorTranslator(): Unit = {
+  def contextVectorTranslator() {
     val sources = TermsExtractor.rawTermerFileToHandyStruct(sourceTermsFile)
     val targets = TermsExtractor.rawTermerFileToHandyStruct(targetTermsFile)
 
     val srcTrms = sources.map(Preprocessing(_))
     val trgTrms = targets.map(Preprocessing(_))
 
-    val srcContextVector = srcTrms.map(ContextVector.build(_, 7))
-    val trgContextVector = trgTrms.map(ContextVector.build(_, 7))
-
-    println(srcContextVector.head)
+    val (srcContextVector, trgContextVector) = Timer.executionTime {
+      (srcTrms.map(ContextVector.build(_, 7)), trgTrms.map(ContextVector.build(_, 7)))
+    }
   }
 
   // Generate cognates
@@ -51,11 +50,11 @@ object Main {
 
     println("Done.\n")
 
-    println("Starting alignment...")
+    println("Starting cognates alignment...")
 
     // Starting alignment process...
     val aligned = Timer.executionTime {
-      Alignment.findCognates(sourcesTerms, targetsTerms)
+      AlignmentCognate(sourcesTerms, targetsTerms)
     }.filter(x => simpleDictionary.contains(x.w0))
 
     println(s"Cognates number: ${aligned.length}")
