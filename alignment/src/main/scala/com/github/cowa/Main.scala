@@ -6,13 +6,11 @@ import com.github.cowa.helpers._
 
 object Main {
   def main(args: Array[String]): Unit = {
-    //val dictionary = Dictionary.get("src/main/resources/dictionary-fr-en.csv")
-    //println(dictionary("dépistage"))
-
-    println(SpecializedDictionary.get("src/main/resources/ts.xml"))
+    cognates()
   }
 
   def cognates() {
+    val dictionary = Dictionary.get("src/main/resources/dictionary-fr-en.csv")
     val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
     val targetTermsFile = new File("corpus/termer_target/corpus.lem")
 
@@ -39,6 +37,7 @@ object Main {
 
     // Starting alignment process...
     val aligned = Timer.executionTime { Alignment.findCognates(sourcesTerms, targetsTerms) }
+      .filter(x => dictionary.contains(x.w0))
 
     println(s"Cognates number: ${aligned.length}")
 
