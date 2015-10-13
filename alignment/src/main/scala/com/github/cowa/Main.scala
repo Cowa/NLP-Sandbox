@@ -9,8 +9,7 @@ object Main {
     //val dictionary = Dictionary.get("src/main/resources/dictionary-fr-en.csv")
     //println(dictionary("dépistage"))
 
-    val load = SpecializedDictionary.load("src/main/resources/ts.xml")
-    println(SpecializedDictionary.toData(load))
+    println(SpecializedDictionary.get("src/main/resources/ts.xml"))
   }
 
   def cognates() {

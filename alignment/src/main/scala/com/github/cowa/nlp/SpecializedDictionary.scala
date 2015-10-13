@@ -18,8 +18,11 @@ object SpecializedDictionary {
     }.toList
   }
 
-  // @todo
-  def get(path: String)/*: Map[String, List[String]]*/ = {
-    toData(load(path)).filter(_.valid == "yes").groupBy(_.langElems)
+  def get(path: String): Map[String, List[String]] = {
+    toData(load(path)).filter(_.valid == "yes").map { entry =>
+      entry.langElems.span(_.typ == "source") match {
+        case (src, trg) => (src.head.lemm, trg.map(_.lemm))
+      }
+    }.toMap
   }
 }
