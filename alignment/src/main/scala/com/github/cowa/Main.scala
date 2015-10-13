@@ -1,14 +1,16 @@
 package com.github.cowa
 
 import java.io.File
-
-import com.github.cowa.helpers._
 import com.github.cowa.nlp._
+import com.github.cowa.helpers._
 
 object Main {
   def main(args: Array[String]): Unit = {
-    val dictionary = Dictionary.get("src/main/resources/dictionary-fr-en.csv")
-    println(dictionary("Acapulco"))
+    //val dictionary = Dictionary.get("src/main/resources/dictionary-fr-en.csv")
+    //println(dictionary("dépistage"))
+
+    val load = SpecializedDictionary.load("src/main/resources/ts.xml")
+    println(SpecializedDictionary.toData(load))
   }
 
   def cognates() {
