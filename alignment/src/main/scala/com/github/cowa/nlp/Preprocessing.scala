@@ -10,9 +10,13 @@ object Preprocessing {
     s.flatMap(_.terms).filter(isItInteresting).groupBy(_.lemme).map(_._2.head).toList
   }
 
+  def apply(s: FileTermer): List[Term] = {
+    s.terms.filter(isItInteresting)
+  }
+
   def isItInteresting(t: Term): Boolean = {
-    t.lemme.length > 4 && tagsWeWant.exists(
-      x => t.tag.startsWith(x) && !tagsWeIgnore.exists(y => t.tag.startsWith(y))
+    t.lemme.length > 4 && tagsWeWant.exists(x =>
+      t.tag.startsWith(x) && !tagsWeIgnore.exists(y => t.tag.startsWith(y))
     )
   }
 }

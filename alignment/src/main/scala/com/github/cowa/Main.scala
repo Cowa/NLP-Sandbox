@@ -9,15 +9,29 @@ object Main {
   val cognateDictionary = CognateDictionary.get("src/main/resources/cognates.csv")
   val specializedDictionary = SpecializedDictionary.get("src/main/resources/ts.xml")
 
+  val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
+  val targetTermsFile = new File("corpus/termer_target/corpus.lem")
+
   def main(args: Array[String]): Unit = {
-    //cognates()
+    contextVectorTranslator()
+  }
+
+  // Translate with context vector
+  def contextVectorTranslator(): Unit = {
+    val sources = TermsExtractor.rawTermerFileToHandyStruct(sourceTermsFile)
+    val targets = TermsExtractor.rawTermerFileToHandyStruct(targetTermsFile)
+
+    val srcTrms = sources.map(Preprocessing(_))
+    val trgTrms = targets.map(Preprocessing(_))
+
+    val srcContextVector = srcTrms.map(ContextVector.build(_, 7))
+    val trgContextVector = trgTrms.map(ContextVector.build(_, 7))
+
+    println(srcContextVector.head)
   }
 
   // Generate cognates
   def cognates() {
-    val sourceTermsFile = new File("corpus/termer_source/corpus.lem")
-    val targetTermsFile = new File("corpus/termer_target/corpus.lem")
-
     // From unstructured to structured data
     println("Structuring raw data...")
 
