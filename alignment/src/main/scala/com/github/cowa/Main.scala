@@ -36,7 +36,25 @@ object Main {
 
     val mapSrcContextVector = ContextVector.toMap(flatSrcContextVector)
     val mapTrgContextVector = ContextVector.toMap(flatTrgContextVector)
-    println(mapSrcContextVector("thérapeutique"))
+
+    val translatedReference = specializedDictionary.map { case (word, transla) =>
+      val candidates = simpleDictionary.getOrElse(word, List()) ++ cognateDictionary.getOrElse(word, List())
+      (word, candidates, specializedDictionary(word).intersect(candidates).nonEmpty)
+    }
+
+    //println(translatedReference.mkString("\n\n"))
+
+    val accuracy = translatedReference.count(_._3).toFloat / translatedReference.size
+
+    println(s"Potential default maximum accuracy: ${accuracy * 100}%")
+
+    val translatedContextVector = specializedDictionary.map { case (word, _) =>
+      (word, mapSrcContextVector.getOrElse(word, List()).map { case (x, i) =>
+        (x, simpleDictionary.getOrElse(x, List()) ++ cognateDictionary.getOrElse(x, List()))
+      })
+    }
+
+    //println(translatedContextVector.mkString("\n\n\n\n"))
   }
 
   // Generate cognates
