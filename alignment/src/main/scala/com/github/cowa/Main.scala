@@ -27,6 +27,10 @@ object Main {
     val (srcContextVector, trgContextVector) = Timer.executionTime {
       (srcTrms.map(ContextVector.build(_, 7)), trgTrms.map(ContextVector.build(_, 7)))
     }
+
+    val (flatSrcContextVector, flatTrgContextVector) = Timer.executionTime {
+      (ContextVector.frequency(srcContextVector.flatten), ContextVector.frequency(trgContextVector.flatten))
+    }
   }
 
   // Generate cognates
