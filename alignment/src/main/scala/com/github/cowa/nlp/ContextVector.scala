@@ -12,9 +12,12 @@ object ContextVector {
     }
   }
 
-  def frequency(vectors: List[ContextVector]): List[ContextVectorFrequency] = {
+  def addFrequencies(vectors: List[ContextVector]): List[ContextVectorFrequency] = {
     vectors.groupBy(_.word).map { case (k, v) =>
       ContextVectorFrequency(k, v.flatMap(_.context).groupBy(x => x).map { case (kv, vv) => (kv, vv.length) }.toList)
     }.toList
   }
+
+  def toMap(vectors: List[ContextVectorFrequency]): Map[String, List[(String, Int)]] =
+    vectors.groupBy(_.word).map { case (k, v) => (k, v.flatMap(_.context)) }
 }

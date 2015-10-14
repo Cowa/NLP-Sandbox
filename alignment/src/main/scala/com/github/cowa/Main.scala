@@ -24,13 +24,19 @@ object Main {
     val srcTrms = sources.map(Preprocessing(_))
     val trgTrms = targets.map(Preprocessing(_))
 
+    // Build simple context vector
     val (srcContextVector, trgContextVector) = Timer.executionTime {
       (srcTrms.map(ContextVector.build(_, 7)), trgTrms.map(ContextVector.build(_, 7)))
     }
 
+    // Add frequencies to context vectors
     val (flatSrcContextVector, flatTrgContextVector) = Timer.executionTime {
-      (ContextVector.frequency(srcContextVector.flatten), ContextVector.frequency(trgContextVector.flatten))
+      (ContextVector.addFrequencies(srcContextVector.flatten), ContextVector.addFrequencies(trgContextVector.flatten))
     }
+
+    val mapSrcContextVector = ContextVector.toMap(flatSrcContextVector)
+    val mapTrgContextVector = ContextVector.toMap(flatTrgContextVector)
+    println(mapSrcContextVector("thérapeutique"))
   }
 
   // Generate cognates
