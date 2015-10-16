@@ -66,7 +66,7 @@ object Main {
       }
     }
 
-    //println(translatedContextVector.mkString("\n\n"))
+    println(translatedContextVector.mkString("\n"))
   }
 
   // Generate cognates
