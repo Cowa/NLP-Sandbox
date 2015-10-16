@@ -18,43 +18,55 @@ object Main {
 
   // Translate with context vector
   def contextVectorTranslator() {
-    val sources = TermsExtractor.rawTermerFileToHandyStruct(sourceTermsFile)
-    val targets = TermsExtractor.rawTermerFileToHandyStruct(targetTermsFile)
+    println("Loading and structuring...")
+    val (sources, targets) = Timer.executionTime {
+      (TermsExtractor.rawTermerFileToHandyStruct(sourceTermsFile), TermsExtractor.rawTermerFileToHandyStruct(targetTermsFile))
+    }
 
-    val srcTrms = sources.map(Preprocessing(_))
-    val trgTrms = targets.map(Preprocessing(_))
+    println("\nPre-processing structured data...")
+    val (srcTrms, trgTrms) = Timer.executionTime {
+      (sources.map(Preprocessing(_)), targets.map(Preprocessing(_)))
+    }
 
     // Build simple context vector
+    println("\nCreating context vectors...")
     val (srcContextVector, trgContextVector) = Timer.executionTime {
       (srcTrms.map(ContextVector.build(_, 7)), trgTrms.map(ContextVector.build(_, 7)))
     }
 
     // Add frequencies to context vectors
+    println("\nAdding frequencies...")
     val (flatSrcContextVector, flatTrgContextVector) = Timer.executionTime {
       (ContextVector.addFrequencies(srcContextVector.flatten), ContextVector.addFrequencies(trgContextVector.flatten))
     }
 
-    val mapSrcContextVector = ContextVector.toMap(flatSrcContextVector)
-    val mapTrgContextVector = ContextVector.toMap(flatTrgContextVector)
+    println("\nTurning to Map...")
+    val (mapSrcContextVector, mapTrgContextVector) = Timer.executionTime {
+      (ContextVector.toMap(flatSrcContextVector), ContextVector.toMap(flatTrgContextVector))
+    }
+
+    /* No needs
 
     val translatedReference = specializedDictionary.map { case (word, transla) =>
       val candidates = simpleDictionary.getOrElse(word, List()) ++ cognateDictionary.getOrElse(word, List())
       (word, candidates, specializedDictionary(word).intersect(candidates).nonEmpty)
     }
 
-    //println(translatedReference.mkString("\n\n"))
-
     val accuracy = translatedReference.count(_._3).toFloat / translatedReference.size
 
     println(s"Potential default maximum accuracy: ${accuracy * 100}%")
+    */
 
-    val translatedContextVector = specializedDictionary.map { case (word, _) =>
-      (word, mapSrcContextVector.getOrElse(word, List()).map { case (x, i) =>
-        (x, simpleDictionary.getOrElse(x, List()) ++ cognateDictionary.getOrElse(x, List()))
-      })
+    println("\nTranslating context vectors...")
+    val translatedContextVector = Timer.executionTime {
+      specializedDictionary.map { case (word, _) =>
+        (word, mapSrcContextVector.getOrElse(word, List()).map { case (x, i) =>
+          (x, (simpleDictionary.getOrElse(x, List()) ++ cognateDictionary.getOrElse(x, List())).groupBy(identity).mapValues(_.size))
+        })
+      }
     }
 
-    //println(translatedContextVector.mkString("\n\n\n\n"))
+    //println(translatedContextVector.mkString("\n\n"))
   }
 
   // Generate cognates

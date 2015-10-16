@@ -3,7 +3,7 @@ package com.github.cowa.nlp
 import com.github.cowa.models.Term
 
 case class ContextVector(word: String, context: List[String])
-case class ContextVectorFrequency(word: String, context: List[(String, Int)])
+case class ContextVectorFrequency(word: String, context: Map[String, Int])
 
 object ContextVector {
   def build(terms: List[Term], size: Int): List[ContextVector] = {
@@ -14,10 +14,10 @@ object ContextVector {
 
   def addFrequencies(vectors: List[ContextVector]): List[ContextVectorFrequency] = {
     vectors.groupBy(_.word).map { case (k, v) =>
-      ContextVectorFrequency(k, v.flatMap(_.context).groupBy(x => x).map { case (kv, vv) => (kv, vv.length) }.toList)
+      ContextVectorFrequency(k, v.flatMap(_.context).groupBy(identity).mapValues(_.size))
     }.toList
   }
 
   def toMap(vectors: List[ContextVectorFrequency]): Map[String, List[(String, Int)]] =
-    vectors.groupBy(_.word).map { case (k, v) => (k, v.flatMap(_.context)) }
+    vectors.groupBy(_.word).mapValues(_.flatMap(_.context))
 }
