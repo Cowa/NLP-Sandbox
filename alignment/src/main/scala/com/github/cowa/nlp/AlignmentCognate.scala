@@ -6,7 +6,7 @@ object AlignmentCognate {
   def isTransfugee(w0: String, w1: String) = w0 == w1
 
   def isCognate(w0: String, w1: String) =
-    !isTransfugee(w0, w1) && w0.substring(0, 4) == w1.substring(0, 4) && Levenshtein.distance(w0, w1) < 3
+    !isTransfugee(w0, w1) && w0.substring(0, 4) == w1.substring(0, 4) && Levenshtein(w0, w1) < 3
 
   def isEquivalentTag(t0: String, t1: String): Boolean = {
     t0 match {

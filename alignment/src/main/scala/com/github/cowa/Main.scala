@@ -31,7 +31,7 @@ object Main {
     // Build simple context vector
     println("\nCreating context vectors...")
     val (srcContextVector, trgContextVector) = Timer.executionTime {
-      (srcTrms.map(ContextVector.build(_, 7)), trgTrms.map(ContextVector.build(_, 7)))
+      (srcTrms.map(x => ContextVector.build(x.map(_.lemme), 7)), trgTrms.map(x => ContextVector.build(x.map(_.lemme), 7)))
     }
 
     // Add frequencies to context vectors
@@ -42,31 +42,48 @@ object Main {
 
     println("\nTurning to Map...")
     val (mapSrcContextVector, mapTrgContextVector) = Timer.executionTime {
-      (ContextVector.toMap(flatSrcContextVector), ContextVector.toMap(flatTrgContextVector))
+      (ContextVector.toMap(flatSrcContextVector).filterKeys(specializedDictionary.contains), ContextVector.toMap(flatTrgContextVector))
     }
-
-    /* No needs
 
     val translatedReference = specializedDictionary.map { case (word, transla) =>
       val candidates = simpleDictionary.getOrElse(word, List()) ++ cognateDictionary.getOrElse(word, List())
-      (word, candidates, specializedDictionary(word).intersect(candidates).nonEmpty)
+      (word, candidates, specializedDictionary(word).intersect(candidates).headOption)
     }
 
-    val accuracy = translatedReference.count(_._3).toFloat / translatedReference.size
-
-    println(s"Potential default maximum accuracy: ${accuracy * 100}%")
-    */
-
-    println("\nTranslating context vectors...")
+    /*println("\nTranslating context vectors...")
     val translatedContextVector = Timer.executionTime {
       specializedDictionary.map { case (word, _) =>
         (word, mapSrcContextVector.getOrElse(word, List()).map { case (x, i) =>
           (x, (simpleDictionary.getOrElse(x, List()) ++ cognateDictionary.getOrElse(x, List())).groupBy(identity).mapValues(_.size))
         })
       }
+    }*/
+
+    // @todo Refactor, it's ugly
+    // First let's find the correct translation for each reference with our dictionaries
+    val translated = translatedReference.map { case (word, candidates, real) =>
+      val proposed = {
+        if (candidates.contains(word))
+          Some((word, 1))
+
+        else if (candidates.exists(Levenshtein(_, word) < 4))
+          Some(candidates.find(Levenshtein(_, word) < 4).head, 1)
+
+        else
+          candidates.groupBy(identity).mapValues(_.size).toList.sortBy(_._2).headOption
+      }
+
+      (word, proposed, real)
+    } flatMap {
+      case (_, None, _) => None
+      case (w, Some(x), Some(y)) => Some((w, x._1, y, x._1 == y))
+      case _ => None
     }
 
-    println(translatedContextVector.mkString("\n"))
+    println(translated.mkString("\n"))
+
+    val accuracy = translated.count(_._4).toFloat / specializedDictionary.keys.size
+    println(s"\nAccuracy: ${accuracy * 100}%")
   }
 
   // Generate cognates
