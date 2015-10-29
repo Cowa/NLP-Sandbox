@@ -43,11 +43,15 @@ object Main {
     println("\nTurning to Map...")
     val (mapSrcContextVector, mapTrgContextVector) = Timer.executionTime {
       (
-        ContextVector.toMap(flatSrcContextVector).filterKeys(specializedDictionary.contains)
-          // a word must appear more than twice
-          .mapValues(_.filter(_._2 > 2))
-        ,
-        ContextVector.toMap(flatTrgContextVector).mapValues(_.filter(_._2 > 2))//.filterKeys(specializedDictionary.contains)
+        ContextVector.normalize(
+          ContextVector.toMap(flatSrcContextVector)
+            .filterKeys(specializedDictionary.contains)
+            .mapValues(_.filter(_._2 > 2))
+        ),
+        ContextVector.normalize(
+          ContextVector.toMap(flatTrgContextVector)
+            .mapValues(_.filter(_._2 > 2))
+        )
       )
     }
 
@@ -94,47 +98,28 @@ object Main {
       (max._1, max._2)
     }.toMap
 
-    //println(chosenCandidates.mkString("\n"))
-
     val containsRightTranslation = chosenCandidates.map { case (k, v) =>
       specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1)).nonEmpty
     }
 
-    val potentialAccuracy = containsRightTranslation.count(identity).toDouble / containsRightTranslation.size
+    val totalToFind = containsRightTranslation.size
+    val potentialAccuracy = containsRightTranslation.count(identity).toDouble / totalToFind
 
-    println(s"\nPotential max accuracy: ${potentialAccuracy * 100}%")
+    println(s"\nPotential max accuracy: ${potentialAccuracy * 100}%\n")
 
-    // TOP 10
-    val top10 = chosenCandidates.map { case (k, v) =>
-      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(10)).nonEmpty
+    // Top 10 to 500
+    for (a <- 10 to 100 by 10) {
+      top(a, chosenCandidates, totalToFind)
+    }
+  }
+
+  // Print top accuracy
+  def top(n: Int, candidates: Map[String, Map[String, Double]], totalToFind: Int): Unit = {
+    val t = candidates.map { case (k, v) =>
+      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(n)).nonEmpty
     }
 
-    val top10Accuracy = top10.count(identity).toDouble / containsRightTranslation.size
-    println(s"\nTop 10 accuracy: ${top10Accuracy * 100}%")
-
-    // TOP 20
-    val top20 = chosenCandidates.map { case (k, v) =>
-      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(20)).nonEmpty
-    }
-
-    val top20Accuracy = top20.count(identity).toDouble / containsRightTranslation.size
-    println(s"\nTop 20 accuracy: ${top20Accuracy * 100}%")
-
-    // TOP 30
-    val top30 = chosenCandidates.map { case (k, v) =>
-      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(30)).nonEmpty
-    }
-
-    val top30Accuracy = top30.count(identity).toDouble / containsRightTranslation.size
-    println(s"\nTop 30 accuracy: ${top30Accuracy * 100}%")
-
-    // TOP 100
-    val top100 = chosenCandidates.map { case (k, v) =>
-      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(100)).nonEmpty
-    }
-
-    val top100Accuracy = top100.count(identity).toDouble / containsRightTranslation.size
-    println(s"\nTop 100 accuracy: ${top100Accuracy * 100}%")
+    println(s"Top $n accuracy: ${(t.count(identity).toDouble / totalToFind) * 100}%")
   }
 
   // Generate cognates

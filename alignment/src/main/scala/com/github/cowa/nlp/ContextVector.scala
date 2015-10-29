@@ -1,5 +1,7 @@
 package com.github.cowa.nlp
 
+import scala.math._
+
 case class ContextVector(word: String, context: List[String])
 case class ContextVectorFrequency(word: String, context: Map[String, Int])
 
@@ -18,4 +20,18 @@ object ContextVector {
 
   def toMap(vectors: List[ContextVectorFrequency]): Map[String, List[(String, Int)]] =
     vectors.groupBy(_.word).mapValues(_.flatMap(_.context))
+
+  def normalize(mapVector: Map[String, List[(String, Int)]]): Map[String, List[(String, Double)]] = {
+    /* TF-IDF : 25% max */
+    val df = mapVector.values.flatten.groupBy(_._1).mapValues(_.size)
+    val size = mapVector.size
+
+    mapVector.mapValues(l => l.map { case (w, freq) => (w, (freq.toDouble / l.size) * log(size / df(w))) })
+
+    /* TF : 19% max
+    mapVector.mapValues(l => l.map { case (w, freq) => (w, freq.toDouble / l.size) })*/
+
+    /* None: 38% max
+    mapVector.mapValues(l => l.map { case (w, freq) => (w, freq.toDouble) })*/
+  }
 }
