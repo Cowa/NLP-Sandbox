@@ -42,48 +42,99 @@ object Main {
 
     println("\nTurning to Map...")
     val (mapSrcContextVector, mapTrgContextVector) = Timer.executionTime {
-      (ContextVector.toMap(flatSrcContextVector).filterKeys(specializedDictionary.contains), ContextVector.toMap(flatTrgContextVector))
+      (
+        ContextVector.toMap(flatSrcContextVector).filterKeys(specializedDictionary.contains)
+          // a word must appear more than twice
+          .mapValues(_.filter(_._2 > 2))
+        ,
+        ContextVector.toMap(flatTrgContextVector).mapValues(_.filter(_._2 > 2))//.filterKeys(specializedDictionary.contains)
+      )
     }
 
-    val translatedReference = specializedDictionary.map { case (word, transla) =>
-      val candidates = simpleDictionary.getOrElse(word, List()) ++ cognateDictionary.getOrElse(word, List())
-      (word, candidates, specializedDictionary(word).intersect(candidates).headOption)
-    }
-
-    /*println("\nTranslating context vectors...")
+    println("\nTranslating context vectors...")
     val translatedContextVector = Timer.executionTime {
       specializedDictionary.map { case (word, _) =>
         (word, mapSrcContextVector.getOrElse(word, List()).map { case (x, i) =>
           (x, (simpleDictionary.getOrElse(x, List()) ++ cognateDictionary.getOrElse(x, List())).groupBy(identity).mapValues(_.size))
         })
       }
-    }*/
-
-    // @todo Refactor, it's ugly
-    // First let's find the correct translation for each reference with our dictionaries
-    val translated = translatedReference.map { case (word, candidates, real) =>
-      val proposed = {
-        if (candidates.contains(word))
-          Some((word, 1))
-
-        else if (candidates.exists(Levenshtein(_, word) < 4))
-          Some(candidates.find(Levenshtein(_, word) < 4).head, 1)
-
-        else
-          candidates.groupBy(identity).mapValues(_.size).toList.sortBy(_._2).headOption
-      }
-
-      (word, proposed, real)
-    } flatMap {
-      case (_, None, _) => None
-      case (w, Some(x), Some(y)) => Some((w, x._1, y, x._1 == y))
-      case _ => None
     }
 
-    println(translated.mkString("\n"))
+    /*
+    val mammoCandidates = translatedContextVector("mammographie").map { case (k, contextTranslated) =>
+      contextTranslated.flatMap { case (wordTranslated, freq) =>
+        mapTrgContextVector.getOrElse(wordTranslated, List())
+      }
+    }.filterNot(_.isEmpty).distinct
 
-    val accuracy = translated.count(_._4).toFloat / specializedDictionary.keys.size
-    println(s"\nAccuracy: ${accuracy * 100}%")
+    //println(mammoCandidates.mkString("\n\n"))
+
+    val mammoSimilarities = mammoCandidates.combinations(2).map(x => (x.head, CosineSimilarity(x.head, x.last))).toList
+    println(mammoSimilarities.maxBy(_._2))
+    */
+
+    println("\nSearching candidates vectors...")
+    val candidates = Timer.executionTime {
+      translatedContextVector.map { case (word, v) =>
+        (word, v.map { case (_, contextTranslated) =>
+          contextTranslated.flatMap { case (wordTranslated, freq) =>
+            mapTrgContextVector.getOrElse(wordTranslated, List())
+          }
+        }.filterNot(_.isEmpty).distinct)
+      }
+    }
+
+    println("\nComputing cosine similarities...")
+    val similarities = Timer.executionTime(
+      candidates.map { case (k, v) => v.combinations(2).map(x => (k, x.head, CosineSimilarity(x.head, x.last))).toList }.filterNot(_.isEmpty)
+    )
+
+    val chosenCandidates = similarities.map { x =>
+      val max = x.maxBy(_._3)
+      (max._1, max._2)
+    }.toMap
+
+    //println(chosenCandidates.mkString("\n"))
+
+    val containsRightTranslation = chosenCandidates.map { case (k, v) =>
+      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1)).nonEmpty
+    }
+
+    val potentialAccuracy = containsRightTranslation.count(identity).toDouble / containsRightTranslation.size
+
+    println(s"\nPotential max accuracy: ${potentialAccuracy * 100}%")
+
+    // TOP 10
+    val top10 = chosenCandidates.map { case (k, v) =>
+      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(10)).nonEmpty
+    }
+
+    val top10Accuracy = top10.count(identity).toDouble / containsRightTranslation.size
+    println(s"\nTop 10 accuracy: ${top10Accuracy * 100}%")
+
+    // TOP 20
+    val top20 = chosenCandidates.map { case (k, v) =>
+      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(20)).nonEmpty
+    }
+
+    val top20Accuracy = top20.count(identity).toDouble / containsRightTranslation.size
+    println(s"\nTop 20 accuracy: ${top20Accuracy * 100}%")
+
+    // TOP 30
+    val top30 = chosenCandidates.map { case (k, v) =>
+      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(30)).nonEmpty
+    }
+
+    val top30Accuracy = top30.count(identity).toDouble / containsRightTranslation.size
+    println(s"\nTop 30 accuracy: ${top30Accuracy * 100}%")
+
+    // TOP 100
+    val top100 = chosenCandidates.map { case (k, v) =>
+      specializedDictionary.getOrElse(k, List()).intersect(v.toList.sortWith(_._2 > _._2).map(_._1).take(100)).nonEmpty
+    }
+
+    val top100Accuracy = top100.count(identity).toDouble / containsRightTranslation.size
+    println(s"\nTop 100 accuracy: ${top100Accuracy * 100}%")
   }
 
   // Generate cognates
