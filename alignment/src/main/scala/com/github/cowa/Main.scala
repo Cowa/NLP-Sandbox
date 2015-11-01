@@ -40,7 +40,7 @@ object Main {
       (ContextVector.addFrequencies(srcContextVector.flatten), ContextVector.addFrequencies(trgContextVector.flatten))
     }
 
-    println("\nTurning to Map...")
+    println("\nTurning to Map and normalize...")
     val (mapSrcContextVector, mapTrgContextVector) = Timer.executionTime {
       (
         ContextVector.normalize(
@@ -64,18 +64,13 @@ object Main {
       }
     }
 
-    /*
-    val mammoCandidates = translatedContextVector("mammographie").map { case (k, contextTranslated) =>
-      contextTranslated.flatMap { case (wordTranslated, freq) =>
-        mapTrgContextVector.getOrElse(wordTranslated, List())
+    val realTranslatedContextVector = Timer.executionTime {
+      specializedDictionary.map { case (word, _) =>
+        (word, mapSrcContextVector.getOrElse(word, List()).map { case (x, i) =>
+          ((simpleDictionary.getOrElse(x, List()) ++ cognateDictionary.getOrElse(x, List())).headOption.getOrElse("NOPE"), i)
+        }.toMap)
       }
-    }.filterNot(_.isEmpty).distinct
-
-    //println(mammoCandidates.mkString("\n\n"))
-
-    val mammoSimilarities = mammoCandidates.combinations(2).map(x => (x.head, CosineSimilarity(x.head, x.last))).toList
-    println(mammoSimilarities.maxBy(_._2))
-    */
+    }
 
     println("\nSearching candidates vectors...")
     val candidates = Timer.executionTime {
@@ -90,7 +85,7 @@ object Main {
 
     println("\nComputing cosine similarities...")
     val similarities = Timer.executionTime(
-      candidates.map { case (k, v) => v.combinations(2).map(x => (k, x.head, CosineSimilarity(x.head, x.last))).toList }.filterNot(_.isEmpty)
+      candidates.map { case (k, v) => v.map(x => (k, x, CosineSimilarity(x, realTranslatedContextVector(k)))) }.filterNot(_.isEmpty)
     )
 
     val chosenCandidates = similarities.map { x =>

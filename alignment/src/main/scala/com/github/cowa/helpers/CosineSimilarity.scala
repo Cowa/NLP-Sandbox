@@ -7,14 +7,14 @@ object CosineSimilarity {
     val m = scala.collection.mutable.HashMap[String, (Double, Double)]() // word, t1 freq, t2 freq
 
     val sum1 = t1.foldLeft(0d) { case (sum, (word, freq)) =>
-      m += word ->(freq, 0d)
+      m += word -> (freq, 0d)
       sum + freq
     }
 
     val sum2 = t2.foldLeft(0d) { case (sum, (word, freq)) =>
       m.get(word) match {
         case Some((freq1, _)) => m += word -> (freq1, freq)
-        case None => m += word ->(0d, freq)
+        case None => m += word -> (0d, freq)
       }
       sum + freq
     }
