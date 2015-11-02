@@ -3,7 +3,7 @@ package com.github.cowa.nlp
 import com.github.cowa.models.{FileTermer, Term}
 
 object Preprocessing {
-  val tagsWeWant = List("ADJ", "JJ", "SBC", "NN")
+  val tagsWeWant = List("ADJ", "JJ", "SBC", "NN"/*, "VCJ" , "VBN"*/)
   val tagsWeIgnore = List("ADJ1", "ADJ2", "NNP")
 
   def apply(s: List[FileTermer]): List[Term] = {
