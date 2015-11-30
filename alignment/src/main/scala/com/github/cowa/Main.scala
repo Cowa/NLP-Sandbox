@@ -87,6 +87,11 @@ object Main {
         }
       }
 
+      /*println("\nComputing cosine similarities...")
+      val similarities = Timer.executionTime(
+        candidates.map { case (k, v) => v.map(x => (k, x, CosineSimilarity(x, realTranslatedContextVector(k)))) }.filterNot(_.isEmpty)
+      )*/
+
       println("\nComputing cosine similarities...")
       val similarities = Timer.executionTime(
         candidates.map { case (k, v) => v.map(x => (k, x, CosineSimilarity(x, realTranslatedContextVector(k)))) }.filterNot(_.isEmpty)

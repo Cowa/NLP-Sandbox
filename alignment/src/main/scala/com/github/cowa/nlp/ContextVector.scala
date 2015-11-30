@@ -22,16 +22,9 @@ object ContextVector {
     vectors.groupBy(_.word).mapValues(_.flatMap(_.context))
 
   def normalize(mapVector: Map[String, List[(String, Int)]]): Map[String, List[(String, Double)]] = {
-    /* TF-IDF : 42% max */
     val df = mapVector.values.flatten.groupBy(_._1).mapValues(_.size)
     val size = mapVector.size
 
-    mapVector.mapValues(l => l.map { case (w, freq) => (w, (freq.toDouble / l.size) * log(size / df(w))) })
-
-    /* TF : 19% max
-    mapVector.mapValues(l => l.map { case (w, freq) => (w, freq.toDouble / l.size) })*/
-
-    /* None: 48% max
-    mapVector.mapValues(l => l.map { case (w, freq) => (w, freq.toDouble) })*/
+    mapVector.mapValues(l => l.map { case (w, freq) => (w, freq * log(size / df(w))) })
   }
 }

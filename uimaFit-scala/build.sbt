@@ -5,7 +5,7 @@ version := "1.0"
 scalaVersion := "2.11.5"
 
 resolvers ++= Seq(
-  "Sonatype OSS Releases"  at "http://oss.sonatype.org/content/repositories/releases/"
+  "Sonatype OSS Releases" at "http://oss.sonatype.org/content/repositories/releases/"
 )
 
 libraryDependencies += "com.github.jenshaase.uimascala" %% "uimascala-core" % "0.5.0"
