@@ -14,12 +14,13 @@ object InvertedIndex {
    *   w0 -> doc0 doc2 ...
    *   w1 -> doc0 doc5 ...
    */
-  def apply(path: String): Map[String, Set[String]] = {
+  def apply(path: String): Map[String, Vector[String]] = {
     Source.fromFile(path).getLines().toList
       .map(_.split(" "))
       .filter(_.nonEmpty)
+      //.filter(x => x(0).nonEmpty)
       .flatMap(x => x.drop(1).map(y => (y, x(0))))
       .groupBy(_._1)
-      .map(p => (p._1, p._2.map(_._2).toSet))
+      .map(p => (p._1, p._2.map(_._2).toVector))
   }
 }

@@ -1,6 +1,8 @@
 import java.io.File
 import java.io.PrintWriter
 
+case class DocumentLinker(documentSrc: String, documentTrg: String)
+
 object Main extends App {
   def listFiles(path: String) = new File(path).listFiles
   def write(fileName: String, data: String) = new PrintWriter(fileName) { write(data); close() }
@@ -37,5 +39,32 @@ object Main extends App {
 
   write("de-hapax.txt", indexDe.mkString("\n"))*/
 
-  println(InvertedIndex("fr-hapax.txt").mkString("\n"))
+  println("Building inverted index...")
+  val enInvertedIndex = Timer.executionTime(
+    InvertedIndex("en-hapax.txt")
+  )
+
+  println("\nStructuring french hapaxes...")
+  val frHapax = Timer.executionTime(
+    HapaxExtractor.hapaxFileToStructure("fr-hapax.txt")
+  )
+
+  println("\nStarting alignment...\n")
+  val alignments = Timer.executionTime(
+    frHapax.take(1000).map { d =>
+      println(s"Doing ${d.document}...")
+
+      val docsSharingSomeHapax = d.hapax.flatMap(h => enInvertedIndex.get(h)).flatten
+
+      val linkedWith = if (docsSharingSomeHapax.isEmpty) {
+        "NONE"
+      } else {
+        docsSharingSomeHapax.groupBy(identity).mapValues(_.size).maxBy(_._2)._1
+      }
+
+      DocumentLinker(d.document, linkedWith)
+    }
+  )
+
+  println(alignments.toList.mkString("\n"))
 }

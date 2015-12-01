@@ -46,9 +46,25 @@ object HapaxExtractor {
    */
   def extractEnDe(document: File): DocumentHapax = {
     val file = Source.fromFile(document)
-    val extracted = apply(document.getName, file.mkString.split(" ").toIterator)
+    val extracted = apply(document.getName, file.mkString.filter(_ >= ' ').trim.split(" ").toIterator)
     file.close()
 
     extracted
+  }
+
+  /**
+   * Read an hapax file and structure it
+   *
+   * @param hapaxPath Path to hapax file
+   *
+   * @return Vector of DocumentHapax
+   */
+  def hapaxFileToStructure(hapaxPath: String): Vector[DocumentHapax] = {
+    val lines = Source.fromFile(hapaxPath).getLines().toVector
+    lines.map { l =>
+      val splitted = l.split(" ")
+
+      DocumentHapax(splitted(0), splitted.drop(1).toVector)
+    }
   }
 }
