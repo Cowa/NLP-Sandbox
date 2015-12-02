@@ -29,7 +29,7 @@ object HapaxInvertedIndex {
 case class HapaxInvertedIndex(index: ReadableLuceneIndex) {
   def search(hapax: String): Iterable[Document] = {
     val queryParser = index.queryParserForDefaultField("hapax")
-    val query = queryParser.parse(s"%$hapax%")
+    val query = queryParser.parse(hapax)
     val results = index.searchTopDocuments(query, 1000)
 
     results
