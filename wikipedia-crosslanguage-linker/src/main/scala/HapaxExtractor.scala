@@ -16,7 +16,7 @@ object HapaxExtractor {
   def apply(document: String, tokens: Iterator[String]): DocumentHapax = {
     val hapax = tokens.map(_.toLowerCase).toVector
       .groupBy(identity).filter(x => x._2.size == 1)
-      .filterKeys(_.length > 4)
+      .filterKeys(x => x.length > 4 && x.length < 20)
       .keys
 
     DocumentHapax(document, hapax.toVector)

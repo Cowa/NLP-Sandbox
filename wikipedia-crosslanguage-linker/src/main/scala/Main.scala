@@ -18,7 +18,7 @@ object Main extends App {
   write("fr-hapax.txt", indexFr.mkString("\n"))*/
 
   /// English
-  /*val documentsEn = listFiles("data-bucc/en").take(114000)
+  /*val documentsEn = listFiles("data-bucc/en")
 
   val hapaxesEn = documentsEn.map(d => HapaxExtractor.extractEnDe(d))
 
@@ -38,6 +38,8 @@ object Main extends App {
   }
 
   write("de-hapax.txt", indexDe.mkString("\n"))*/
+
+  /*
 
   println("Building inverted index...")
   val enInvertedIndex = Timer.executionTime(
@@ -66,4 +68,19 @@ object Main extends App {
 
   //query_id, iter, docno, rank, sim, run_id
   write("fr-en-test.qrels", linked.map(x => x.documentSrc + " " + "0" + " " + x.documentTrg + " 1 1 first").mkString("\n"))
+
+  */
+
+  println("\nStructuring english hapaxes...")
+  val enHapax = Timer.executionTime(
+    HapaxExtractor.hapaxFileToStructure("en-hapax.txt")
+  )
+
+  println("\nBuilding index...")
+  val enIndex = Timer.executionTime(
+    HapaxInvertedIndex(enHapax)
+  )
+
+  val results = enIndex.search("incident")
+  println(results.toList)
 }
