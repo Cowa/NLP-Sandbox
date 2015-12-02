@@ -6,29 +6,37 @@ import com.entopix.maui.main.MauiModelBuilder
 import com.entopix.maui.stemmers.FrenchStemmer
 import com.entopix.maui.stopwords.StopwordsFrench
 
+import org.apache.uima.fit.descriptor.ConfigurationParameter
 import org.apache.uima.resource.{DataResource, SharedResourceObject}
+import org.apache.uima.fit.component.initialize.ConfigurationParameterInitializer
 
 class MauiModelResource extends SharedResourceObject {
   var model: MauiFilter = null
 
+  @ConfigurationParameter(name=MauiModelResource.PARAM_TRAIN_DIR, mandatory = true)
+  var trainDir = ""
+
+  @ConfigurationParameter(name=MauiModelResource.PARAM_VOCABULARY, mandatory = true)
+  var vocabulary = ""
+
+  @ConfigurationParameter(name=MauiModelResource.PARAM_FORMAT, mandatory = true)
+  var format = ""
+
+  @ConfigurationParameter(name=MauiModelResource.PARAM_ENCODING, mandatory = true)
+  var encoding = ""
+
+  @ConfigurationParameter(name=MauiModelResource.PARAM_LANGUAGE, mandatory = true)
+  var language = ""
+
   def load(aData: DataResource): Unit = {
+    ConfigurationParameterInitializer.initialize(this, aData)
+
     val modelBuilder = new MauiModelBuilder()
 
-    ///
-    /// PARAMETERS @todo Make it configurable
-    ///
-    val trainDir = "src/main/resources/data/term_assignment/train_fr"
-    val vocabulary = "src/main/resources/data/vocabularies/agrovoc_fr.rdf.gz"
-
-    val format = "skos"
-    val language = "fr"
-    val encoding = "UTF-8"
+    // @todo nice to have: make stemmer & stopword as parameters
     val stemmer = new FrenchStemmer
     val stopwords = new StopwordsFrench
 
-    ///
-    /// SETTINGS
-    ///
     modelBuilder.inputDirectoryName = trainDir
     modelBuilder.vocabularyFormat = format
     modelBuilder.vocabularyName = vocabulary
@@ -45,9 +53,15 @@ class MauiModelResource extends SharedResourceObject {
     modelBuilder.setLengthFeature(true)
     modelBuilder.setThesaurusFeatures(true)
 
-    ///
-    /// BUILD
-    ///
     model = modelBuilder.buildModel(DataLoader.loadTestDocuments(modelBuilder.inputDirectoryName))
   }
+}
+
+object MauiModelResource {
+  final val PARAM_TRAIN_DIR = "mauiTrainDir"
+  final val PARAM_VOCABULARY = "mauiVocabulary"
+  final val PARAM_FORMAT = "mauiFormat"
+  final val PARAM_LANGUAGE = "mauiLang"
+  final val PARAM_ENCODING = "mauiEncoding"
+  final val PARAM_MODEL = "mauiModel"
 }

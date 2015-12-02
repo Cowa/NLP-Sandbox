@@ -6,28 +6,36 @@ import com.entopix.maui.stopwords.StopwordsFrench
 import com.entopix.maui.main.MauiTopicExtractorEnhanced
 
 import org.apache.uima.jcas.JCas
-import org.apache.uima.fit.descriptor.ExternalResource
 import org.apache.uima.fit.component.JCasAnnotator_ImplBase
+import org.apache.uima.fit.descriptor.{ConfigurationParameter, ExternalResource}
 
 import scala.collection.JavaConverters._
 
 class MauiTopicExtractorAnnotator extends JCasAnnotator_ImplBase {
-  @ExternalResource(key = "maui-model")
+  @ExternalResource(key = MauiModelResource.PARAM_MODEL)
   var mauiModel: MauiModelResource = null
+
+  @ConfigurationParameter(name=MauiTopicExtractorAnnotator.PARAM_TEST_DIR, mandatory = true)
+  var testDir = ""
+
+  @ConfigurationParameter(name=MauiTopicExtractorAnnotator.PARAM_VOCABULARY, mandatory = true)
+  var vocabulary = ""
+
+  @ConfigurationParameter(name=MauiTopicExtractorAnnotator.PARAM_FORMAT, mandatory = true)
+  var format = ""
+
+  @ConfigurationParameter(name=MauiTopicExtractorAnnotator.PARAM_LANGUAGE, mandatory = true)
+  var language = ""
+
+  @ConfigurationParameter(name=MauiTopicExtractorAnnotator.PARAM_NBOFTOPICS, mandatory = true)
+  var numTopicsToExtract = 0
 
   def process(jcas: JCas): Unit = {
     val topicExtractor = new MauiTopicExtractorEnhanced
 
-    ///
-    /// PARAMETERS @todo Make it configurable
-    ///
-    val testDir = "src/main/resources/data/term_assignment/test_fr"
-    val vocabulary = "src/main/resources/data/vocabularies/agrovoc_fr.rdf.gz"
-    val format = "skos"
-    val language = "fr"
+    // @todo nice to have: make stemmer & stopword as parameters
     val stemmer = new FrenchStemmer
     val stopwords = new StopwordsFrench
-    val numTopicsToExtract = 10
 
     topicExtractor.inputDirectoryName = testDir
     topicExtractor.vocabularyName = vocabulary
@@ -41,10 +49,9 @@ class MauiTopicExtractorAnnotator extends JCasAnnotator_ImplBase {
     topicExtractor.setModel(mauiModel.model)
 
     val topics = topicExtractor.extractTopics(DataLoader.loadTestDocuments(testDir)).asScala.toList
-    topics.foreach(x => x.getTopics.asScala.foreach(l => println(l.getTitle)))
 
     val extractedTopics = topics.flatMap(d => d.getTopics.asScala.toList.map { t =>
-      val topic = new Topic(jcas, 1, 1)
+      val topic = new Topic(jcas, 0, 0)
       topic.setTitle(t.getTitle)
       topic.setCorrect(t.isCorrect)
       topic.setId(t.getId)
@@ -54,5 +61,16 @@ class MauiTopicExtractorAnnotator extends JCasAnnotator_ImplBase {
     })
 
     extractedTopics.foreach(_.addToIndexes())
+
+    // Display topics title
+    extractedTopics.foreach(t => println(t.getTitle))
   }
+}
+
+object MauiTopicExtractorAnnotator {
+  final val PARAM_TEST_DIR = "mauiTestDir"
+  final val PARAM_VOCABULARY = "mauiVocabulary"
+  final val PARAM_FORMAT = "mauiFormat"
+  final val PARAM_LANGUAGE = "mauiLang"
+  final val PARAM_NBOFTOPICS = "mauiNbOfTopics"
 }
