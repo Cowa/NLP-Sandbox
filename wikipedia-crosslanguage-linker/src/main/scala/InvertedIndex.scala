@@ -16,7 +16,7 @@ object InvertedIndex {
    */
   def apply(path: String): Map[String, Vector[String]] = {
     val file = Source.fromFile(path)
-    val lines = file.getLines().toList.take(313471 / 2)
+    val lines = file.getLines().toList
     file.close()
 
     lines.map(_.split(" "))
