@@ -1,9 +1,9 @@
-package types
+package maui
 
 import com.github.jenshaase.uimascala.core.description._
 
 @TypeSystemDescription
-object TypeSystem {
+object MauiTypeSystem {
   val Token = Annotation {}
   val NamedEntity = Annotation {}
 

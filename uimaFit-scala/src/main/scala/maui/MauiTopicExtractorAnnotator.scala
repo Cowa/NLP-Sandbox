@@ -1,7 +1,5 @@
 package maui
 
-import types.Topic
-
 import com.entopix.maui.util.DataLoader
 import com.entopix.maui.stemmers.FrenchStemmer
 import com.entopix.maui.stopwords.StopwordsFrench
@@ -13,7 +11,7 @@ import org.apache.uima.fit.component.JCasAnnotator_ImplBase
 
 import scala.collection.JavaConverters._
 
-class TopicExtractorAE extends JCasAnnotator_ImplBase {
+class MauiTopicExtractorAnnotator extends JCasAnnotator_ImplBase {
   @ExternalResource(key = "maui-model")
   var mauiModel: MauiModelResource = null
 

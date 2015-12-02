@@ -1,5 +1,5 @@
 import maui.MauiModelResource;
-import maui.TopicExtractorAE;
+import maui.MauiTopicExtractorAnnotator;
 
 import org.apache.uima.analysis_engine.AnalysisEngine;
 import org.apache.uima.analysis_engine.AnalysisEngineDescription;
@@ -11,7 +11,7 @@ import static org.apache.uima.fit.factory.ExternalResourceFactory.createDependen
 public class Main {
 
   public static void main(String[] args) throws Exception {
-    AnalysisEngineDescription aed1 = createEngineDescription(TopicExtractorAE.class);
+    AnalysisEngineDescription aed1 = createEngineDescription(MauiTopicExtractorAnnotator.class);
 
     // Bind external resource to the aggregate
     createDependencyAndBind(aed1, "maui-model", MauiModelResource.class, "maui-model");
