@@ -50,21 +50,20 @@ object Main extends App {
   )
 
   println("\nStarting alignment...\n")
-  val alignments = Timer.executionTime(
+  val linked = Timer.executionTime(
     frHapax.take(1000).map { d =>
       println(s"Doing ${d.document}...")
 
       val docsSharingSomeHapax = d.hapax.flatMap(h => enInvertedIndex.get(h)).flatten
 
-      val linkedWith = if (docsSharingSomeHapax.isEmpty) {
-        "NONE"
-      } else {
-        docsSharingSomeHapax.groupBy(identity).mapValues(_.size).maxBy(_._2)._1
-      }
+      val linkedWith =
+        if (docsSharingSomeHapax.isEmpty) "NONE"
+        else docsSharingSomeHapax.groupBy(identity).mapValues(_.size).maxBy(_._2)._1
 
       DocumentLinker(d.document, linkedWith)
     }
   )
 
-  println(alignments.toList.mkString("\n"))
+  //query_id, iter, docno, rank, sim, run_id
+  write("fr-en-test.qrels", linked.map(x => x.documentSrc + " " + "0" + " " + x.documentTrg + " 1 1 first").mkString("\n"))
 }

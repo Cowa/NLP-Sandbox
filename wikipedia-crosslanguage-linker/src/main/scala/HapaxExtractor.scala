@@ -16,7 +16,7 @@ object HapaxExtractor {
   def apply(document: String, tokens: Iterator[String]): DocumentHapax = {
     val hapax = tokens.map(_.toLowerCase).toVector
       .groupBy(identity).filter(x => x._2.size == 1)
-      .filterKeys(_.length > 3)
+      .filterKeys(_.length > 4)
       .keys
 
     DocumentHapax(document, hapax.toVector)
@@ -60,7 +60,10 @@ object HapaxExtractor {
    * @return Vector of DocumentHapax
    */
   def hapaxFileToStructure(hapaxPath: String): Vector[DocumentHapax] = {
-    val lines = Source.fromFile(hapaxPath).getLines().toVector
+    val file = Source.fromFile(hapaxPath)
+    val lines = file.getLines().toVector
+    file.close()
+
     lines.map { l =>
       val splitted = l.split(" ")
 
