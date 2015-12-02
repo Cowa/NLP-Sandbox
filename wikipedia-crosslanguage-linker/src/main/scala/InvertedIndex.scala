@@ -16,11 +16,10 @@ object InvertedIndex {
    */
   def apply(path: String): Map[String, Vector[String]] = {
     val file = Source.fromFile(path)
-    val lines = file.getLines().toList
+    val lines = file.getLines().toList.take(313471 / 2)
     file.close()
 
     lines.map(_.split(" "))
-      .filter(_.nonEmpty)
       .flatMap(x => x.drop(1).map(y => (y, x(0))))
       .groupBy(_._1)
       .map(p => (p._1, p._2.map(_._2).toVector))
