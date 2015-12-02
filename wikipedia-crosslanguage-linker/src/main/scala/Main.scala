@@ -39,8 +39,6 @@ object Main extends App {
 
   write("de-hapax.txt", indexDe.mkString("\n"))*/
 
-  /*
-
   println("Building inverted index...")
   val enInvertedIndex = Timer.executionTime(
     InvertedIndex("en-hapax.txt")
@@ -53,7 +51,7 @@ object Main extends App {
 
   println("\nStarting alignment...\n")
   val linked = Timer.executionTime(
-    frHapax.take(1000).map { d =>
+    frHapax.map { d =>
       println(s"Doing ${d.document}...")
 
       val docsSharingSomeHapax = d.hapax.flatMap(h => enInvertedIndex.get(h)).flatten
@@ -69,8 +67,7 @@ object Main extends App {
   //query_id, iter, docno, rank, sim, run_id
   write("fr-en-test.qrels", linked.map(x => x.documentSrc + " " + "0" + " " + x.documentTrg + " 1 1 first").mkString("\n"))
 
-  */
-
+  /*
   println("\nStructuring english hapaxes...")
   val enHapax = Timer.executionTime(
     HapaxExtractor.hapaxFileToStructure("en-hapax.txt")
@@ -83,4 +80,5 @@ object Main extends App {
 
   val results = enIndex.search("incident")
   println(results.toList)
+  */
 }
