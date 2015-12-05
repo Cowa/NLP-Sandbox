@@ -61,7 +61,7 @@ object HapaxExtractor {
    */
   def hapaxFileToStructure(hapaxPath: String): Vector[DocumentHapax] = {
     val file = Source.fromFile(hapaxPath)
-    val lines = file.getLines().toVector.take(100)
+    val lines = file.getLines().toVector
     file.close()
 
     lines.map { l =>

@@ -64,21 +64,5 @@ object Main extends App {
     }
   )
 
-  //query_id, iter, docno, rank, sim, run_id
   write("fr-en-test.qrels", linked.map(x => x.documentSrc + " " + "0" + " " + x.documentTrg + " 1 1 first").mkString("\n"))
-
-  /*
-  println("\nStructuring english hapaxes...")
-  val enHapax = Timer.executionTime(
-    HapaxExtractor.hapaxFileToStructure("en-hapax.txt")
-  )
-
-  println("\nBuilding index...")
-  val enIndex = Timer.executionTime(
-    HapaxInvertedIndex(enHapax)
-  )
-
-  val results = enIndex.search("incident")
-  println(results.toList)
-  */
 }
