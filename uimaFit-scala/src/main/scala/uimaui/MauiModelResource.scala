@@ -1,4 +1,4 @@
-package maui
+package uimaui
 
 import com.entopix.maui.util.DataLoader
 import com.entopix.maui.filters.MauiFilter

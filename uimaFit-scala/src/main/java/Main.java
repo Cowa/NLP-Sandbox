@@ -1,5 +1,5 @@
-import maui.MauiModelResource;
-import maui.MauiTopicExtractorAnnotator;
+import uimaui.MauiModelResource;
+import uimaui.MauiTopicExtractorAnnotator;
 
 import org.apache.uima.analysis_engine.AnalysisEngine;
 import org.apache.uima.analysis_engine.AnalysisEngineDescription;

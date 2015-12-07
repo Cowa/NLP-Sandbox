@@ -1,4 +1,4 @@
-package maui
+package uimaui
 
 import com.github.jenshaase.uimascala.core.description._
 
